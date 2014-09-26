@@ -22,4 +22,10 @@
        net media files
        prefs hardware
        a11y tips more-help"/>
+
+<note style="tip">
+  <p><link href = "endlessm-app://com.endlessm.Tutorial">
+      <span its:translate="yes">Tutorial</span>
+  </link></p>
+</note>
 </page>
