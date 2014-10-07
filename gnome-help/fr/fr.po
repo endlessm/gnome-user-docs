@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2014-09-30 14:42-0700\n"
-"PO-Revision-Date: 2014-09-30 21:49+0000\n"
+"PO-Revision-Date: 2014-10-07 06:15+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/gnome-user-docs/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -1182,8 +1182,8 @@ msgstr "Après avoir ajouté les comptes, chaque application que vous avez séle
 #. (itstool) path: note/p
 #: C/accounts-add.page:62
 msgid ""
-"For security reasons, Endless will not store your password on your computer. "
-"Instead, it stores a token that is provided by the online service. If you "
+"For security reasons, Endless will not store your password on your computer."
+" Instead, it stores a token that is provided by the online service. If you "
 "want to fully revoke the link between your desktop and the online service, "
 "<link xref=\"accounts-remove\">remove</link> it."
 msgstr "Pour des raisons de sécurité, Endless n'enregistre pas votre mot de passe sur votre ordinateur. Au lieu de cela, il enregistre un jeton qui est fournit par le service en ligne. Si vous voulez révoquer complètement la relation entre votre bureau et le service en ligne, <link xref=\"accounts-remove\">supprimez</link> cette dernière."
@@ -1264,8 +1264,8 @@ msgstr "Remplissez le formulaire d'enregistrement. Normalement il vous sera dema
 #. (itstool) path: item/p
 #: C/accounts-create.page:63
 msgid ""
-"You need to grant Endless access to your new account in order to use it with "
-"<app>Online Accounts</app>."
+"You need to grant Endless access to your new account in order to use it with"
+" <app>Online Accounts</app>."
 msgstr "Vous devez autoriser l'accès de Endless à votre nouveau compte pour l'utiliser avec les <app>Comptes en ligne</app>."
 
 #. (itstool) path: item/p
@@ -1408,8 +1408,8 @@ msgstr "Au lieu d'effacer complètement le compte, il est possible de <link xref
 #. (itstool) path: page/p
 #: C/accounts-remove.page:50
 msgid ""
-"To remove Endless's access to the online account, you should revoke the access"
-" through the account's website or similar service."
+"To remove Endless's access to the online account, you should revoke the "
+"access through the account's website or similar service."
 msgstr ""
 
 #. (itstool) path: credit/years
@@ -3631,8 +3631,8 @@ msgstr "Les effets d'un profil de couleurs sont parfois subtiles et il peut êtr
 #. (itstool) path: page/p
 #: C/color-testing.page:33
 msgid ""
-"Endless comes with several profiles for testing that make it very clear when "
-"the profiles are being applied:"
+"Endless comes with several profiles for testing that make it very clear when"
+" the profiles are being applied:"
 msgstr ""
 
 #. (itstool) path: item/title
@@ -5080,9 +5080,9 @@ msgstr "Documents"
 #. (itstool) path: page/p
 #: C/documents.page:37
 msgid ""
-"<app>Documents</app> is an Endless application that lets you display, organize,"
-" and print the documents on your computer or those created remotely using "
-"<em>Google Docs</em> or <em>SkyDrive</em>."
+"<app>Documents</app> is an Endless application that lets you display, "
+"organize, and print the documents on your computer or those created remotely"
+" using <em>Google Docs</em> or <em>SkyDrive</em>."
 msgstr ""
 
 #. (itstool) path: section/title
@@ -7241,8 +7241,8 @@ msgstr "Nous contacter"
 #: C/get-involved.page:44
 msgid ""
 "You can send an <link href=\"mailto:gnome-doc-list@gnome.org\">email</link> "
-"to the Endless docs mailing list to learn more about how to get involved with "
-"the documentation team."
+"to the Endless docs mailing list to learn more about how to get involved "
+"with the documentation team."
 msgstr "Vous pouvez envoyer un <link href=\"mailto:gnome-doc-list@gnome.org\">courriel</link> à la liste de diffusion sur les manuels Endless pour en savoir plus sur la façon de participer à l'équipe de documentation."
 
 #. (itstool) path: credit/name
@@ -7253,8 +7253,8 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/gnome-classic.page:22
 msgid ""
-"Consider switching to Endless Classic if you prefer a more traditional desktop"
-" experience."
+"Consider switching to Endless Classic if you prefer a more traditional "
+"desktop experience."
 msgstr ""
 
 #. (itstool) path: page/title
@@ -7265,22 +7265,22 @@ msgstr ""
 #. (itstool) path: when/p
 #: C/gnome-classic.page:30
 msgid ""
-"<em>Endless Classic</em> is a feature for users who prefer a more traditional "
-"desktop experience. While <em>Endless Classic</em> is based on <em>Endless "
-"3</em> technologies, it provides a number of changes to the user interface, "
-"such as the <gui>Applications</gui> and <gui>Places</gui> menus on the top "
-"bar, and a window list at the bottom of the screen."
+"<em>Endless Classic</em> is a feature for users who prefer a more "
+"traditional desktop experience. While <em>Endless Classic</em> is based on "
+"<em>Endless</em> technologies, it provides a number of changes to the user "
+"interface, such as the <gui>Applications</gui> and <gui>Places</gui> menus "
+"on the top bar, and a window list at the bottom of the screen."
 msgstr ""
 
 #. (itstool) path: when/p
 #: C/gnome-classic.page:38
 msgid ""
-"<em>Endless Classic</em> is a feature for users who prefer a more traditional "
-"desktop experience. While <em>Endless Classic</em> is based on <em>Endless "
-"3</em> technologies, it provides a number of changes to the user interface, "
-"such as the <gui xref=\"shell-terminology\">Applications</gui> and <gui xref"
-"=\"shell-terminology\">Places</gui> menus on the top bar, and a window list "
-"at the bottom of the screen."
+"<em>Endless Classic</em> is a feature for users who prefer a more "
+"traditional desktop experience. While <em>Endless Classic</em> is based on "
+"<em>Endless</em> technologies, it provides a number of changes to the user "
+"interface, such as the <gui xref=\"shell-terminology\">Applications</gui> "
+"and <gui xref=\"shell-terminology\">Places</gui> menus on the top bar, and a"
+" window list at the bottom of the screen."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -7316,11 +7316,11 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/gnome-classic.page:61
 msgid ""
-"At the right-hand side of the window list, Endless displays a short identifier"
-" for the current workspace, such as <gui>1</gui> for the first (top) "
-"workspace. In addition, the identifier also displays the total number of "
-"available workspaces. To switch to a different workspace, you can click the "
-"identifier and select the workspace you want to use from the menu."
+"At the right-hand side of the window list, Endless displays a short "
+"identifier for the current workspace, such as <gui>1</gui> for the first "
+"(top) workspace. In addition, the identifier also displays the total number "
+"of available workspaces. To switch to a different workspace, you can click "
+"the identifier and select the workspace you want to use from the menu."
 msgstr ""
 
 #. (itstool) path: section/p
@@ -7596,8 +7596,8 @@ msgstr "IRC"
 #: C/help-irc.page:19
 msgid ""
 "IRC stands for Internet Relay Chat. It is a real-time multi-user messaging "
-"system. You can get help and advice on the Endless IRC server from other Endless"
-" users and developers."
+"system. You can get help and advice on the Endless IRC server from other "
+"Endless users and developers."
 msgstr "IRC signifie Internet Relay Chat (en français, « discussion relayée par internet »). C'est un système de messagerie instantanée multi-utilisateurs. Vous pouvez obtenir de l'aide et des conseils à propos du serveur IRC de Endless auprès des autres utilisateurs et développeurs de Endless."
 
 #. (itstool) path: page/p
@@ -7634,8 +7634,8 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/help-irc.page:41
 msgid ""
-"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">Endless "
-"code of conduct</link> applies when you chat on IRC."
+"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">Endless"
+" code of conduct</link> applies when you chat on IRC."
 msgstr "Veuillez notez que le <link href=\"https://live.gnome.org/CodeOfConduct/\">code de conduite de Endless</link> s'applique lorsque vous discutez sur IRC."
 
 #. (itstool) path: info/desc
@@ -17500,8 +17500,9 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/settings-sharing.page:25
 msgid ""
-"The <em>Sharing Settings</em> in Endless help you control what is shared over "
-"the local network, or through other technologies such as <em>Bluetooth</em>."
+"The <em>Sharing Settings</em> in Endless help you control what is shared "
+"over the local network, or through other technologies such as "
+"<em>Bluetooth</em>."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -18148,9 +18149,9 @@ msgstr "Mise en veille"
 #: C/shell-exit.page:103
 msgid ""
 "To save power, suspend your computer when you are not using it. If you use a"
-" laptop, Endless suspends your computer automatically when you close the lid. "
-"This saves your state to your computer's memory and powers off most of the "
-"computer's functions. A very small amount of power is still used during "
+" laptop, Endless suspends your computer automatically when you close the "
+"lid. This saves your state to your computer's memory and powers off most of "
+"the computer's functions. A very small amount of power is still used during "
 "suspend."
 msgstr ""
 
@@ -18585,9 +18586,9 @@ msgstr ""
 #. (itstool) path: when/p
 #: C/shell-introduction.page:292
 msgid ""
-"Endless features a different approach to switching windows than a permanently "
-"visible window list found in other desktop environments. This lets you focus"
-" on the task at hand without distractions."
+"Endless features a different approach to switching windows than a "
+"permanently visible window list found in other desktop environments. This "
+"lets you focus on the task at hand without distractions."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -18600,11 +18601,11 @@ msgstr ""
 #. (itstool) path: when/p
 #: C/shell-introduction.page:309
 msgid ""
-"At the right-hand side of the window list, Endless displays a short identifier"
-" for the current worskpace, such as <gui>1</gui> for the first (top) "
-"workspace. In addition, the identifier also displays the total number of "
-"available workspaces. To switch to a different workspace, you can click the "
-"identifier and select the workspace you want to use from the menu."
+"At the right-hand side of the window list, Endless displays a short "
+"identifier for the current worskpace, such as <gui>1</gui> for the first "
+"(top) workspace. In addition, the identifier also displays the total number "
+"of available workspaces. To switch to a different workspace, you can click "
+"the identifier and select the workspace you want to use from the menu."
 msgstr ""
 
 #. (itstool) path: when/p
@@ -19444,8 +19445,8 @@ msgstr "Déplacement et redimensionnement de vos fenêtres."
 #: C/shell-windows-states.page:25
 msgid ""
 "You can move and resize windows to help you work more efficiently. In "
-"addition to the dragging behavior you might expect, Endless features shortcuts"
-" and modifiers to help you arrange windows quickly."
+"addition to the dragging behavior you might expect, Endless features "
+"shortcuts and modifiers to help you arrange windows quickly."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -20808,8 +20809,8 @@ msgstr "Table de caractères"
 #. (itstool) path: section/p
 #: C/tips-specialchars.page:43
 msgid ""
-"Endless comes with a character map application that allows you to browse all "
-"the characters in Unicode. Use the character map to find the character you "
+"Endless comes with a character map application that allows you to browse all"
+" the characters in Unicode. Use the character map to find the character you "
 "want, and then copy and paste it to wherever you need it."
 msgstr "Endless inclut une application « Table de caractères » qui vous permet de consulter tous les caractères au format Unicode. Utilisez cette table pour trouver le caractère que vous recherchez ensuite, copiez-le et collez-le où vous en avez besoin."
 
@@ -21024,8 +21025,8 @@ msgstr ""
 #: C/translate.page:43
 msgid ""
 "You can chat with Endless translators by joining the #i18n channel on the "
-"<link xref=\"help-irc\">Endless IRC server</link>. People on the channel are "
-"located worldwide, so you may not get an immediate response as a result of "
+"<link xref=\"help-irc\">Endless IRC server</link>. People on the channel are"
+" located worldwide, so you may not get an immediate response as a result of "
 "timezone differences."
 msgstr ""
 
