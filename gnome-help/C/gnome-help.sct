@@ -1,5 +1,5 @@
 <schema xmlns="http://www.ascc.net/xml/schematron" >
-  <title>Some sanity checks for the GNOME desktop help</title>
+  <title>Some sanity checks for the Endless desktop help</title>
   <ns prefix="mal" uri="http://projectmallard.org/1.0/"/>
   <ns prefix="xi" uri="http://www.w3.org/2001/XInclude"/>
   <pattern name="Info element checks">

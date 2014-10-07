@@ -325,14 +325,14 @@ msgstr "Képernyőolvasás Braille-ban"
 #. (itstool) path: page/p
 #: C/a11y-braille.page:25
 msgid ""
-"GNOME provides the <app>Orca</app> screen reader to display the user "
+"Endless provides the <app>Orca</app> screen reader to display the user "
 "interface on a refreshable Braille display. Depending on how you installed "
-"GNOME, you might not have Orca installed. <link href=\"install:orca"
+"Endless, you might not have Orca installed. <link href=\"install:orca"
 "\">Install Orca</link>, then refer to the <link href=\"help:orca\">Orca "
 "Help</link> for more information."
 msgstr ""
-"GNOME alatt az <app>Orka</app> képernyőolvasóval jelenítheti meg a "
-"felhasználói felületet frissíthető Braille-kijelzőn. A GNOME telepítésének "
+"Endless alatt az <app>Orka</app> képernyőolvasóval jelenítheti meg a "
+"felhasználói felületet frissíthető Braille-kijelzőn. A Endless telepítésének "
 "módjától függően lehet, hogy az Orka nincs telepítve. Ebben az esetben <link "
 "href=\"install:orca\">telepítse az Orkát</link>, majd nézze meg az <link "
 "href=\"help:orca\">Orka súgóját</link>."
@@ -735,12 +735,12 @@ msgstr "Akadálymentesítés"
 #. (itstool) path: page/p
 #: C/a11y.page:35
 msgid ""
-"The GNOME desktop includes assistive technologies to support users with "
+"The Endless desktop includes assistive technologies to support users with "
 "various impairments and special needs, and to interact with common assistive "
 "devices. An accessibility menu can be added to the top bar, giving easier "
 "access to many of the accessibility features."
 msgstr ""
-"A GNOME asztali környezet akadálymentesítési technológiákat tartalmaz, "
+"A Endless asztali környezet akadálymentesítési technológiákat tartalmaz, "
 "amelyek segítik a különböző fogyatékosságokkal és speciális igényekkel "
 "rendelkező felhasználókat, valamint az elterjedt akadálymentesítési eszközök "
 "használatát. Egy akadálymentesítési menü hozzáadható a felső sávhoz, amely "
@@ -927,13 +927,13 @@ msgstr "Képernyő felolvastatása"
 #. (itstool) path: page/p
 #: C/a11y-screen-reader.page:21
 msgid ""
-"GNOME provides the <app>Orca</app> screen reader to speak the user "
-"interface. Depending on how you installed GNOME, you might not have Orca "
+"Endless provides the <app>Orca</app> screen reader to speak the user "
+"interface. Depending on how you installed Endless, you might not have Orca "
 "installed. <link href=\"install:orca\">Install Orca</link>, then refer to "
 "the <link href=\"help:orca\">Orca Help</link> for more information."
 msgstr ""
-"A GNOME alatt az <app>Orka</app> képernyőolvasó segítségével olvastatható "
-"fel a felhasználói felület. A GNOME telepítésének módjától függően lehet, "
+"A Endless alatt az <app>Orka</app> képernyőolvasó segítségével olvastatható "
+"fel a felhasználói felület. A Endless telepítésének módjától függően lehet, "
 "hogy az Orka nincs telepítve. Ebben az esetben <link href=\"install:orca"
 "\">telepítse az Orkát</link>, majd nézze meg az <link href=\"help:orca"
 "\">Orka súgóját</link>."
@@ -1276,8 +1276,8 @@ msgstr "Tippek az asztali környezet kézikönyvének használatához."
 #: C/user-admin-problems.page:13 C/user-changepassword.page:14
 #: C/user-changepicture.page:13 C/user-delete.page:17
 #: C/user-goodpassword.page:12 C/video-dvd.page:14 C/video-sending.page:11
-msgid "GNOME Documentation Project"
-msgstr "GNOME dokumentációs projekt"
+msgid "Endless Documentation Project"
+msgstr "Endless dokumentációs projekt"
 
 #. (itstool) path: page/title
 #: C/about-this-guide.page:17
@@ -1355,8 +1355,8 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/about-this-guide.page:29
-msgid "-- The GNOME documentation team"
-msgstr "– a GNOME dokumentációs csapat"
+msgid "-- The Endless documentation team"
+msgstr "– a Endless dokumentációs csapat"
 
 #. (itstool) path: credit/name
 #: C/accounts-add.page:13 C/bluetooth-connect-device.page:17
@@ -1388,11 +1388,11 @@ msgstr "Fiók hozzáadása"
 #. (itstool) path: page/p
 #: C/accounts-add.page:26
 msgid ""
-"Adding an account will help link your online accounts with your GNOME "
+"Adding an account will help link your online accounts with your Endless "
 "desktop. Thus, your email program, chat program and other related "
 "applications will be set up for you."
 msgstr ""
-"A fiók hozzáadásával összekapcsolhatja online fiókjait a GNOME asztalával. "
+"A fiók hozzáadásával összekapcsolhatja online fiókjait a Endless asztalával. "
 "Így az e-mail alkalmazása, csevegőalkalmazása és más kapcsolódó alkalmazásai "
 "automatikusan beállításra kerülnek."
 
@@ -1428,10 +1428,10 @@ msgstr ""
 #: C/accounts-add.page:46
 msgid ""
 "If you have entered your credentials correctly, you will be prompted to "
-"allow GNOME access to your online account. Authorize access to continue."
+"allow Endless access to your online account. Authorize access to continue."
 msgstr ""
 "Ha helyesen adta meg hitelesítési adatait, akkor a program felkéri, hogy "
-"engedélyezze a GNOME számára az online fiókjának elérését. A folytatáshoz "
+"engedélyezze a Endless számára az online fiókjának elérését. A folytatáshoz "
 "adja meg a hozzáférést."
 
 #. (itstool) path: item/p
@@ -1460,12 +1460,12 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/accounts-add.page:62
 msgid ""
-"For security reasons, GNOME will not store your password on your computer. "
+"For security reasons, Endless will not store your password on your computer. "
 "Instead, it stores a token that is provided by the online service. If you "
 "want to fully revoke the link between your desktop and the online service, "
 "<link xref=\"accounts-remove\">remove</link> it."
 msgstr ""
-"Biztonsági okokból a GNOME nem tárolja a jelszavát a számítógépen. Ehelyett "
+"Biztonsági okokból a Endless nem tárolja a jelszavát a számítógépen. Ehelyett "
 "egy, az online szolgáltatás által biztosított jelsort tárol. Ha teljesen meg "
 "szeretné szüntetni a kapcsolatot a számítógépet és az online szolgáltatás "
 "között, akkor <link xref=\"accounts-remove\">távolítsa azt el</link>."
@@ -1559,10 +1559,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/accounts-create.page:63
 msgid ""
-"You need to grant GNOME access to your new account in order to use it with "
+"You need to grant Endless access to your new account in order to use it with "
 "<app>Online Accounts</app>."
 msgstr ""
-"Hozzáférést kell adnia az új fiókjához a GNOME-nak, hogy az <app>Online "
+"Hozzáférést kell adnia az új fiókjához a Endless-nak, hogy az <app>Online "
 "fiókok</app> használhassa."
 
 #. (itstool) path: item/p
@@ -1733,10 +1733,10 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/accounts-remove.page:50
 msgid ""
-"To remove GNOME's access to the online account, you should revoke the access "
+"To remove Endless's access to the online account, you should revoke the access "
 "through the account's website or similar service."
 msgstr ""
-"A GNOME adott fiókhoz való hozzáférésének törléséhez a hozzáférést a fiók "
+"A Endless adott fiókhoz való hozzáférésének törléséhez a hozzáférést a fiók "
 "weboldalán vagy hasonló szolgáltatásán keresztül kell visszavonnia."
 
 #. (itstool) path: credit/years
@@ -3970,10 +3970,10 @@ msgstr "Milyen színmérő készülékek támogatottak?"
 #. (itstool) path: page/p
 #: C/color-calibrationdevices.page:21
 msgid ""
-"GNOME relies on the Argyll color management system to support color "
+"Endless relies on the Argyll color management system to support color "
 "instruments. Thus the following display measuring instruments are supported:"
 msgstr ""
-"A GNOME az Argyll színkezelő-rendszerre építi a színkezelő eszközök "
+"A Endless az Argyll színkezelő-rendszerre építi a színkezelő eszközök "
 "támogatását. Emiatt a következő kijelzőmérő készülékek támogatottak:"
 
 #. (itstool) path: item/p
@@ -4506,10 +4506,10 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/color-testing.page:33
 msgid ""
-"GNOME comes with several profiles for testing that make it very clear when "
+"Endless comes with several profiles for testing that make it very clear when "
 "the profiles are being applied:"
 msgstr ""
-"A GNOME számos tesztelésre használható profilt tartalmaz, amelyekkel tisztán "
+"A Endless számos tesztelésre használható profilt tartalmaz, amelyekkel tisztán "
 "láthatóvá válik, hogy a profilok alkalmazásra kerülnek:"
 
 #. (itstool) path: item/title
@@ -6320,14 +6320,14 @@ msgstr "Dokumentumok"
 #. (itstool) path: page/p
 #: C/documents.page:37
 msgid ""
-"<app>Documents</app> is a GNOME application that lets you display, organize, "
+"<app>Documents</app> is an Endless application that lets you display, organize, "
 "and print the documents on your computer or those created remotely using "
 "<em>Google Docs</em> or <em>SkyDrive</em>."
 msgstr ""
 "A <app>Dokumentumok</app> a számítógépén található, illetve a <em>Google "
 "Dokumentumok</em> vagy a <em>SkyDrive</em> használatával a felhőben "
 "létrehozott dokumentumok megjelenítését, rendszerezését és nyomtatását "
-"lehetővé tevő GNOME alkalmazás."
+"lehetővé tevő Endless alkalmazás."
 
 #. (itstool) path: section/title
 #: C/documents.page:42
@@ -7519,11 +7519,11 @@ msgstr "Fájl elrejtése"
 #. (itstool) path: page/p
 #: C/files-hidden.page:24
 msgid ""
-"The GNOME file manager gives you the ability to hide and unhide files at "
+"The Endless file manager gives you the ability to hide and unhide files at "
 "your discretion. When a file is hidden, it isn't displayed by the file "
 "manager, but it's still there in its folder."
 msgstr ""
-"A GNOME fájlkezelő lehetővé teszi fájljai igény szerinti elrejtését és "
+"A Endless fájlkezelő lehetővé teszi fájljai igény szerinti elrejtését és "
 "megjelenítését. A rejtett fájlok alapesetben nem láthatók: a fájlkezelőben "
 "nem jelennek meg, de a mappa továbbra is tartalmazza azokat."
 
@@ -8095,10 +8095,10 @@ msgstr "Fájl vagy mappa átnevezése"
 #. (itstool) path: page/p
 #: C/files-rename.page:32
 msgid ""
-"As with other file managers, you can use the GNOME file manager to change "
+"As with other file managers, you can use the Endless file manager to change "
 "the name of a file or folder."
 msgstr ""
-"Más fájlkezelőkhöz hasonlóan a GNOME fájlkezelőjével is megváltoztathatja "
+"Más fájlkezelőkhöz hasonlóan a Endless fájlkezelőjével is megváltoztathatja "
 "egy fájl vagy mappa nevét."
 
 #. (itstool) path: steps/title
@@ -9044,10 +9044,10 @@ msgstr ""
 #: C/get-involved.page:37
 msgid ""
 "Your report will be given an ID number, and its status will be updated as it "
-"is being dealt with. Thanks for helping make the GNOME Help better!"
+"is being dealt with. Thanks for helping make the Endless Help better!"
 msgstr ""
 "A hibajelentés kapni fog egy azonosítószámot, az állapota pedig a "
-"feldolgozása során frissülni fog. Köszönjük, hogy segít jobbá tenni a GNOME "
+"feldolgozása során frissülni fog. Köszönjük, hogy segít jobbá tenni a Endless "
 "súgóját!"
 
 #. (itstool) path: section/title
@@ -9059,12 +9059,12 @@ msgstr "Lépjen velünk kapcsolatba"
 #: C/get-involved.page:44
 msgid ""
 "You can send an <link href=\"mailto:gnome-doc-list@gnome.org\">email</link> "
-"to the GNOME docs mailing list to learn more about how to get involved with "
+"to the Endless docs mailing list to learn more about how to get involved with "
 "the documentation team."
 msgstr ""
 "A dokumentációs csapathoz való csatlakozással kapcsolatos információkért "
 "küldjön egy <link href=\"mailto:gnome-doc-list@gnome.org\">levelet</link> a "
-"GNOME dokumentációs levelezőlistára."
+"Endless dokumentációs levelezőlistára."
 
 #. (itstool) path: credit/name
 #: C/gnome-classic.page:16 C/translate.page:20
@@ -9074,29 +9074,29 @@ msgstr "Petr Kovar"
 #. (itstool) path: info/desc
 #: C/gnome-classic.page:22
 msgid ""
-"Consider switching to GNOME Classic if you prefer a more traditional desktop "
+"Consider switching to Endless Classic if you prefer a more traditional desktop "
 "experience."
 msgstr ""
-"Fontolja meg a klasszikus GNOME használatát, ha a hagyományos asztali "
+"Fontolja meg a klasszikus Endless használatát, ha a hagyományos asztali "
 "környezetet kedveli."
 
 #. (itstool) path: page/title
 #: C/gnome-classic.page:26
-msgid "What is GNOME Classic?"
-msgstr "Mi az a klasszikus GNOME?"
+msgid "What is Endless Classic?"
+msgstr "Mi az a klasszikus Endless?"
 
 #. (itstool) path: when/p
 #: C/gnome-classic.page:30
 msgid ""
-"<em>GNOME Classic</em> is a feature for users who prefer a more traditional "
-"desktop experience. While <em>GNOME Classic</em> is based on <em>GNOME 3</"
+"<em>Endless Classic</em> is a feature for users who prefer a more traditional "
+"desktop experience. While <em>Endless Classic</em> is based on <em>Endless</"
 "em> technologies, it provides a number of changes to the user interface, "
 "such as the <gui>Applications</gui> and <gui>Places</gui> menus on the top "
 "bar, and a window list at the bottom of the screen."
 msgstr ""
-"A <em>Klasszikus GNOME</em> azoknak a felhasználóknak készült, akik a "
-"hagyományos asztali környezeteket kedvelik. Míg a <em>Klasszikus GNOME</em> "
-"a <em>GNOME 3</em> technológiájára épül, számos ponton megváltoztatja a "
+"A <em>Klasszikus Endless</em> azoknak a felhasználóknak készült, akik a "
+"hagyományos asztali környezeteket kedvelik. Míg a <em>Klasszikus Endless</em> "
+"a <em>Endless</em> technológiájára épül, számos ponton megváltoztatja a "
 "felhasználói felületet, például az <gui>Alkalmazások</gui> és <gui>Helyek</"
 "gui> menük hozzáadásával a felső sávhoz, valamint az ablaklista "
 "megjelenítésével a képernyő alján."
@@ -9104,16 +9104,16 @@ msgstr ""
 #. (itstool) path: when/p
 #: C/gnome-classic.page:38
 msgid ""
-"<em>GNOME Classic</em> is a feature for users who prefer a more traditional "
-"desktop experience. While <em>GNOME Classic</em> is based on <em>GNOME 3</"
+"<em>Endless Classic</em> is a feature for users who prefer a more traditional "
+"desktop experience. While <em>Endless Classic</em> is based on <em>Endless</"
 "em> technologies, it provides a number of changes to the user interface, "
 "such as the <gui xref=\"shell-terminology\">Applications</gui> and <gui xref="
 "\"shell-terminology\">Places</gui> menus on the top bar, and a window list "
 "at the bottom of the screen."
 msgstr ""
-"A <em>Klasszikus GNOME</em> azoknak a felhasználóknak készült, akik a "
-"hagyományos asztali környezeteket kedvelik. Míg a <em>Klasszikus GNOME</em> "
-"a <em>GNOME 3</em> technológiájára épül, számos ponton megváltoztatja a "
+"A <em>Klasszikus Endless</em> azoknak a felhasználóknak készült, akik a "
+"hagyományos asztali környezeteket kedvelik. Míg a <em>Klasszikus Endless</em> "
+"a <em>Endless</em> technológiájára épül, számos ponton megváltoztatja a "
 "felhasználói felületet, például az <gui xref=\"shell-terminology"
 "\">Alkalmazások</gui> és <gui xref=\"shell-terminology\">Helyek</gui> menük "
 "hozzáadásával a felső sávhoz, valamint az ablaklista megjelenítésével a "
@@ -9160,13 +9160,13 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/gnome-classic.page:61
 msgid ""
-"At the right-hand side of the window list, GNOME displays a short identifier "
+"At the right-hand side of the window list, Endless displays a short identifier "
 "for the current workspace, such as <gui>1</gui> for the first (top) "
 "workspace. In addition, the identifier also displays the total number of "
 "available workspaces. To switch to a different workspace, you can click the "
 "identifier and select the workspace you want to use from the menu."
 msgstr ""
-"Az ablaklista jobb oldalán a GNOME megjeleníti az aktuális munkaterület "
+"Az ablaklista jobb oldalán a Endless megjeleníti az aktuális munkaterület "
 "rövid azonosítóját, ez az első (felső) munkaterület esetén például <gui>1</"
 "gui>. Ezen kívül az azonosító megjeleníti az elérhető munkaterületek teljes "
 "számát is. Egy másik munkaterületre váltáshoz kattintson az azonosítóra, és "
@@ -9187,24 +9187,24 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/gnome-classic.page:75
-msgid "Switch to and from GNOME Classic"
-msgstr "Váltás a klasszikus GNOME megjelenésre"
+msgid "Switch to and from Endless Classic"
+msgstr "Váltás a klasszikus Endless megjelenésre"
 
 #. (itstool) path: note/p
 #: C/gnome-classic.page:78
 msgid ""
-"GNOME Classic is only available on systems with certain GNOME Shell "
+"Endless Classic is only available on systems with certain Endless Shell "
 "extensions installed. Some Linux distributions may not have these extensions "
 "available or installed by default."
 msgstr ""
-"A klasszikus GNOME csak bizonyos GNOME Shell kiterjesztéseket tartalmazó "
+"A klasszikus Endless csak bizonyos Endless Shell kiterjesztéseket tartalmazó "
 "rendszereken érhető el. Egyes Linux terjesztéseken esetleg ezek a "
 "kiterjesztések nem érhetők el, vagy nincsenek alapesetben telepítve."
 
 #. (itstool) path: steps/title
 #: C/gnome-classic.page:84
-msgid "To switch from <em>GNOME</em> to <em>GNOME Classic</em>:"
-msgstr "A <em>GNOME</em>-ról a <em>Klasszikus GNOME</em>-ra váltáshoz:"
+msgid "To switch from <em>Endless</em> to <em>Endless Classic</em>:"
+msgstr "A <em>Endless</em>-ról a <em>Klasszikus Endless</em>-ra váltáshoz:"
 
 #. (itstool) path: item/p
 #: C/gnome-classic.page:86 C/gnome-classic.page:111
@@ -9238,10 +9238,10 @@ msgstr "Adja meg jelszavát a jelszóbeviteli mezőben."
 #: C/gnome-classic.page:100
 msgid ""
 "Click the options icon, which is displayed to the left of the <gui>Sign In</"
-"gui> button, and select <gui>GNOME Classic</gui>."
+"gui> button, and select <gui>Endless Classic</gui>."
 msgstr ""
 "Kattintson a <gui>Bejelentkezés</gui> gomb bal oldalán megjelenő lehetőségek "
-"gombra, és válassza a <gui>Klasszikus GNOME</gui> elemet."
+"gombra, és válassza a <gui>Klasszikus Endless</gui> elemet."
 
 #. (itstool) path: item/p
 #: C/gnome-classic.page:104 C/gnome-classic.page:129
@@ -9250,17 +9250,17 @@ msgstr "Kattintson a <gui>Bejelentkezés</gui> gombra."
 
 #. (itstool) path: steps/title
 #: C/gnome-classic.page:109
-msgid "To switch from <em>GNOME Classic</em> to <em>GNOME</em>:"
-msgstr "A <em>Klasszikus GNOME</em>-ról a <em>GNOME</em>-ra váltáshoz:"
+msgid "To switch from <em>Endless Classic</em> to <em>Endless</em>:"
+msgstr "A <em>Klasszikus Endless</em>-ról a <em>Endless</em>-ra váltáshoz:"
 
 #. (itstool) path: item/p
 #: C/gnome-classic.page:125
 msgid ""
 "Click the options icon, which is displayed to the left of the <gui>Sign In</"
-"gui> button, and select <gui>GNOME</gui>."
+"gui> button, and select <gui>Endless</gui>."
 msgstr ""
 "Kattintson a <gui>Bejelentkezés</gui> gomb bal oldalán megjelenő lehetőségek "
-"gombra, és válassza a <gui>GNOME</gui> elemet"
+"gombra, és válassza a <gui>Endless</gui> elemet"
 
 #. (itstool) path: info/desc
 #: C/hardware-auth.page:13
@@ -9520,22 +9520,22 @@ msgstr "IRC"
 #: C/help-irc.page:19
 msgid ""
 "IRC stands for Internet Relay Chat. It is a real-time multi-user messaging "
-"system. You can get help and advice on the GNOME IRC server from other GNOME "
+"system. You can get help and advice on the Endless IRC server from other Endless "
 "users and developers."
 msgstr ""
 "Az IRC az Internet Relay Chat (Interneten közvetített csevegés) rövidítése. "
-"Ez egy valós idejű, többfelhasználós üzenetküldési rendszer. A GNOME IRC-"
-"kiszolgálóján segítséget és tanácsokat kaphat más GNOME felhasználóktól és "
+"Ez egy valós idejű, többfelhasználós üzenetküldési rendszer. A Endless IRC-"
+"kiszolgálóján segítséget és tanácsokat kaphat más Endless felhasználóktól és "
 "fejlesztőktől."
 
 #. (itstool) path: page/p
 #: C/help-irc.page:24
 msgid ""
-"To connect to the GNOME IRC server, use <app>empathy</app> or <app>xchat</"
+"To connect to the Endless IRC server, use <app>empathy</app> or <app>xchat</"
 "app>, or use a web interface like <link href=\"http://chat.mibbit.com/"
 "\">mibbit</link>."
 msgstr ""
-"A GNOME IRC kiszolgálójához az <app>empathy</app>, <app>xchat</app>, vagy "
+"A Endless IRC kiszolgálójához az <app>empathy</app>, <app>xchat</app>, vagy "
 "egy webes felület (mint a <link href=\"http://chat.mibbit.com/\">mibbit</"
 "link>) használatával csatlakozhat."
 
@@ -9551,12 +9551,12 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/help-irc.page:32
 msgid ""
-"The GNOME IRC server is <sys>irc.gnome.org</sys>. You may also see it "
+"The Endless IRC server is <sys>irc.gnome.org</sys>. You may also see it "
 "referred to as the \"GIMP network\". If your computer is properly configured "
 "you can click on the link <link href=\"irc://irc.gnome.org/gnome\"/> to "
 "access the <sys>gnome</sys> channel."
 msgstr ""
-"A GNOME IRC-kiszolgálója az <sys>irc.gnome.org</sys>. Máshol a „GIMP "
+"A Endless IRC-kiszolgálója az <sys>irc.gnome.org</sys>. Máshol a „GIMP "
 "Network” néven is hivatkoznak rá. Ha a számítógépe megfelelően van "
 "beállítva, akkor a <link href=\"irc://irc.gnome.org/gnome\"/> hivatkozásra "
 "kattintva beléphet a <sys>gnome</sys> csatornára."
@@ -9573,11 +9573,11 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/help-irc.page:41
 msgid ""
-"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">GNOME "
+"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">Endless "
 "code of conduct</link> applies when you chat on IRC."
 msgstr ""
 "Ne feledje az IRC-en csevegés közben betartani a <link href=\"https://live."
-"gnome.org/CodeOfConduct/\">GNOME viselkedési kódexet</link>!"
+"gnome.org/CodeOfConduct/\">Endless viselkedési kódexet</link>!"
 
 #. (itstool) path: info/desc
 #: C/help-mailing-list.page:23
@@ -9593,12 +9593,12 @@ msgstr "Levelezőlista"
 #: C/help-mailing-list.page:28
 msgid ""
 "Mailing lists are email based discussions. You can ask for support using the "
-"GNOME mailing lists. Almost each GNOME application has its own mailing list. "
+"Endless mailing lists. Almost each Endless application has its own mailing list. "
 "The complete list of mailing-lists are listed at <link href=\"http://mail."
 "gnome.org/mailman/listinfo\"/>."
 msgstr ""
-"A levelezőlisták e-mail alapú kommunikációs megoldások. A GNOME "
-"levelezőlisták használatával is kérhet segítséget. Majdnem minden GNOME "
+"A levelezőlisták e-mail alapú kommunikációs megoldások. A Endless "
+"levelezőlisták használatával is kérhet segítséget. Majdnem minden Endless "
 "alkalmazásnak van saját levelezőlistája. A levelezőlisták teljes listája a "
 "<link href=\"http://mail.gnome.org/mailman/listinfo\"/> oldalon található."
 
@@ -9623,20 +9623,20 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/index.page:7
-msgid "A guide for GNOME 3 desktop users"
-msgstr "Útmutató a GNOME 3 környezet felhasználóinak"
+msgid "A guide for Endless desktop users"
+msgstr "Útmutató a Endless környezet felhasználóinak"
 
 #. (itstool) path: info/title
 #: C/index.page:9
 msgctxt "link"
-msgid "GNOME Help"
-msgstr "GNOME súgó"
+msgid "Endless Help"
+msgstr "Endless súgó"
 
 #. (itstool) path: info/title
 #: C/index.page:10
 msgctxt "text"
-msgid "GNOME Help"
-msgstr "GNOME súgó"
+msgid "Endless Help"
+msgstr "Endless súgó"
 
 #. (itstool) path: media/span
 #: C/index.page:11
@@ -9650,8 +9650,8 @@ msgstr "Yelp logó"
 
 #. (itstool) path: page/title
 #: C/index.page:16
-msgid "<_:media-1/> GNOME Help"
-msgstr "<_:media-1/> GNOME súgó"
+msgid "<_:media-1/> Endless Help"
+msgstr "<_:media-1/> Endless súgó"
 
 #. (itstool) path: info/desc
 #: C/keyboard-cursor-blink.page:11
@@ -11577,10 +11577,10 @@ msgstr "Három lehetőség jelenik meg fent:"
 #: C/look-background.page:71
 msgid ""
 "Select <gui>Wallpapers</gui> to use one of the many professional background "
-"images that ship with GNOME. Some wallpapers change throughout the day. "
+"images that ship with Endless. Some wallpapers change throughout the day. "
 "These wallpapers have a small clock icon in the bottom-right corner."
 msgstr ""
-"Válassza a <gui>Háttérképek</gui> elemet a GNOME által biztosított "
+"Válassza a <gui>Háttérképek</gui> elemet a Endless által biztosított "
 "háttérképek egyikének használatához. Néhány háttérkép a nap folyamán "
 "változik. Ezen háttérképek esetén a jobb alsó sarokban megjelenik egy kis "
 "óra ikon."
@@ -15039,8 +15039,8 @@ msgstr ""
 
 #. (itstool) path: credit/name
 #: C/net-email.page:19 C/net-general.page:22
-msgid "The GNOME Documentation Project"
-msgstr "GNOME dokumentációs projekt"
+msgid "The Endless Documentation Project"
+msgstr "Endless dokumentációs projekt"
 
 #. (itstool) path: page/title
 #: C/net-email.page:23
@@ -21135,11 +21135,11 @@ msgstr "Magánszféra beállításai"
 #. (itstool) path: page/p
 #: C/privacy.page:27
 msgid ""
-"The <em>Privacy Settings</em> in GNOME help you control whether or not "
+"The <em>Privacy Settings</em> in Endless help you control whether or not "
 "certain parts of your desktop are visible to others. You can also use these "
 "settings to clear your computer usage history and clean-out unecessary files."
 msgstr ""
-"A GNOME <em>Magánszféra-beállításai</em> segítenek felügyelni, hogy az "
+"A Endless <em>Magánszféra-beállításai</em> segítenek felügyelni, hogy az "
 "asztali környezet egyes részei láthatók-e mások számára. Ezen beállításokkal "
 "törölheti a számítógép használati előzményeket és a szükségtelen fájlokat. "
 
@@ -21980,7 +21980,7 @@ msgstr "Megosztás beállításai"
 #. (itstool) path: page/p
 #: C/settings-sharing.page:25
 msgid ""
-"The <em>Sharing Settings</em> in GNOME help you control what is shared over "
+"The <em>Sharing Settings</em> in Endless help you control what is shared over "
 "the local network, or through other technologies such as <em>Bluetooth</em>."
 msgstr ""
 "A <em>Megosztás beállításai</em> ablak segít szabályozni, hogy mi kerül "
@@ -22811,13 +22811,13 @@ msgstr "Felfüggesztés"
 #: C/shell-exit.page:103
 msgid ""
 "To save power, suspend your computer when you are not using it. If you use a "
-"laptop, GNOME suspends your computer automatically when you close the lid. "
+"laptop, Endless suspends your computer automatically when you close the lid. "
 "This saves your state to your computer's memory and powers off most of the "
 "computer's functions. A very small amount of power is still used during "
 "suspend."
 msgstr ""
 "Energiatakarékossági okból függessze fel számítógépét, ha nem használja azt. "
-"Ha laptopot használ, akkor a GNOME automatikusan felfüggeszti a "
+"Ha laptopot használ, akkor a Endless automatikusan felfüggeszti a "
 "számítógépét, amikor lecsukja a fedelet. Ez elmenti a munkamenet állapotát a "
 "számítógép memóriájába, és kikapcsolja a számítógép legtöbb funkcióját. A "
 "felfüggesztés alatt a számítógép kis mennyiségű áramot használ."
@@ -23084,25 +23084,25 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/shell-introduction.page:32
-msgid "Introduction to GNOME"
-msgstr "A GNOME bemutatása"
+msgid "Introduction to Endless"
+msgstr "A Endless bemutatása"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:34
 msgid ""
-"GNOME 3 features a completely reimagined user interface designed to stay out "
+"Endless features a completely reimagined user interface designed to stay out "
 "of your way, minimize distractions, and help you get things done. When you "
 "first log in, you will see an empty desktop and the top bar."
 msgstr ""
-"A GNOME 3 egy teljesen újratervezett felhasználói felületet tartalmaz, "
+"A Endless egy teljesen újratervezett felhasználói felületet tartalmaz, "
 "amelyet arra terveztek, hogy ne legyen útban, ne terelje el a figyelmét, és "
 "segítse feladatai végrehajtásában. Az első bejelentkezésekor az üres "
 "asztalt, és a felső sávot fogja látni."
 
 #. (itstool) path: media/p
 #: C/shell-introduction.page:41 C/shell-introduction.page:46
-msgid "GNOME shell top bar"
-msgstr "A GNOME környezet felső sávja"
+msgid "Endless shell top bar"
+msgstr "A Endless környezet felső sávja"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:51
@@ -23417,11 +23417,11 @@ msgstr "Ablaklista"
 #. (itstool) path: when/p
 #: C/shell-introduction.page:292
 msgid ""
-"GNOME features a different approach to switching windows than a permanently "
+"Endless features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus "
 "on the task at hand without distractions."
 msgstr ""
-"A GNOME eltérő megközelítést alkalmaz az ablakok váltásához a más asztali "
+"A Endless eltérő megközelítést alkalmaz az ablakok váltásához a más asztali "
 "környezetekben található, állandóan látható ablaklistákkal szemben. Ez "
 "lehetővé teszi a feladataira koncentrálást a figyelmének megosztása nélkül."
 
@@ -23437,13 +23437,13 @@ msgstr ""
 #. (itstool) path: when/p
 #: C/shell-introduction.page:309
 msgid ""
-"At the right-hand side of the window list, GNOME displays a short identifier "
+"At the right-hand side of the window list, Endless displays a short identifier "
 "for the current worskpace, such as <gui>1</gui> for the first (top) "
 "workspace. In addition, the identifier also displays the total number of "
 "available workspaces. To switch to a different workspace, you can click the "
 "identifier and select the workspace you want to use from the menu."
 msgstr ""
-"Az ablaklista jobb oldalán a GNOME megjeleníti az aktuális munkaterület "
+"Az ablaklista jobb oldalán a Endless megjeleníti az aktuális munkaterület "
 "rövid azonosítóját, ez az első (felső) munkaterület esetén például <gui>1</"
 "gui>. Ezen kívül az azonosító megjeleníti az elérhető munkaterületek teljes "
 "számát is. Egy másik munkaterületre váltáshoz kattintson az azonosítóra, és "
@@ -24516,11 +24516,11 @@ msgstr "Ablakok mozgatása és átméretezése"
 #: C/shell-windows-states.page:25
 msgid ""
 "You can move and resize windows to help you work more efficiently. In "
-"addition to the dragging behavior you might expect, GNOME features shortcuts "
+"addition to the dragging behavior you might expect, Endless features shortcuts "
 "and modifiers to help you arrange windows quickly."
 msgstr ""
 "Az ablakok mozgatásával és átméretezésével hatékonyabban dolgozhat. A húzás "
-"várható viselkedésén kívül a GNOME gyorsbillentyűket és módosítókat biztosít "
+"várható viselkedésén kívül a Endless gyorsbillentyűket és módosítókat biztosít "
 "az ablakok gyors elrendezéséhez."
 
 #. (itstool) path: item/p
@@ -24769,11 +24769,11 @@ msgstr "Ablakok és munkaterületek"
 #. (itstool) path: page/p
 #: C/shell-windows.page:23
 msgid ""
-"Like other desktops, GNOME uses windows to display your running "
+"Like other desktops, Endless uses windows to display your running "
 "applications. Using both the <gui>Activities</gui> overview and the "
 "<gui>dash</gui>, you can launch new applications and control active windows."
 msgstr ""
-"Más asztali környezetekhez hasonlóan a GNOME is ablakokat használ a futó "
+"Más asztali környezetekhez hasonlóan a Endless is ablakokat használ a futó "
 "alkalmazások megjelenítésére. A <gui>Tevékenységek</gui> áttekintés és az "
 "<gui>indítópanel</gui> használatával új alkalmazásokat indíthat és "
 "vezérelheti az aktív ablakokat."
@@ -25880,15 +25880,15 @@ msgstr "Mit jelentenek az ikonok a felső sávon?"
 msgid ""
 "This section explains the meaning of icons located on the top right corner "
 "of the screen. More specifically, the different variations of the icons "
-"provided by the GNOME interface are described."
+"provided by the Endless interface are described."
 msgstr ""
 "Ez a szakasz bemutatja a képernyő jobb felső sarkában található ikonokat, "
-"pontosabban a GNOME felület által biztosított ikonok különböző változatait."
+"pontosabban a Endless felület által biztosított ikonok különböző változatait."
 
 #. (itstool) path: media/p
 #: C/status-icons.page:29 C/status-icons.page:35
-msgid "GNOME Shell top bar"
-msgstr "A GNOME Shell felső sávja"
+msgid "Endless Shell top bar"
+msgstr "A Endless Shell felső sávja"
 
 #. (itstool) path: section/title
 #: C/status-icons.page:43
@@ -26208,11 +26208,11 @@ msgstr "Karaktertábla"
 #. (itstool) path: section/p
 #: C/tips-specialchars.page:43
 msgid ""
-"GNOME comes with a character map application that allows you to browse all "
+"Endless comes with a character map application that allows you to browse all "
 "the characters in Unicode. Use the character map to find the character you "
 "want, and then copy and paste it to wherever you need it."
 msgstr ""
-"A GNOME karaktertábla alkalmazása segítségével böngészheti az Unicode összes "
+"A Endless karaktertábla alkalmazása segítségével böngészheti az Unicode összes "
 "karakterét. A kívánt karakter megkereséséhez használja a karaktertáblát, "
 "majd másolja és illessze be azt oda, ahol szüksége van rá."
 
@@ -26467,10 +26467,10 @@ msgstr "Vegyen részt a fordítások tökéletesítésében"
 #. (itstool) path: page/p
 #: C/translate.page:29
 msgid ""
-"GNOME's help is being translated by a world-wide volunteer community. You "
+"Endless's help is being translated by a world-wide volunteer community. You "
 "are welcome to participate."
 msgstr ""
-"A GNOME súgóját egy világszintű önkéntes közösség fordítja. Közreműködését "
+"A Endless súgóját egy világszintű önkéntes közösség fordítja. Közreműködését "
 "szívesen fogadjuk."
 
 #. (itstool) path: page/p
@@ -26498,12 +26498,12 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/translate.page:43
 msgid ""
-"You can chat with GNOME translators by joining the #i18n channel on the "
-"<link xref=\"help-irc\">GNOME IRC server</link>. People on the channel are "
+"You can chat with Endless translators by joining the #i18n channel on the "
+"<link xref=\"help-irc\">Endless IRC server</link>. People on the channel are "
 "located worldwide, so you may not get an immediate response as a result of "
 "timezone differences."
 msgstr ""
-"A GNOME fordítókkal <link xref=\"help-irc\">IRC-en</link> is cseveghet a "
+"A Endless fordítókkal <link xref=\"help-irc\">IRC-en</link> is cseveghet a "
 "#i18n csatornára belépve. A csatornán a világ minden részéről vannak "
 "emberek, így előfordulhat, hogy az időzóna-eltérések miatt nem kap azonnal "
 "választ."
@@ -26695,12 +26695,12 @@ msgstr ""
 msgid ""
 "In the <gui>Users</gui> panel, you can click the image next to the user's "
 "name to the right to set an image for the account. This image will be shown "
-"in the login window. GNOME provides some stock photos you can use, or you "
+"in the login window. Endless provides some stock photos you can use, or you "
 "can select your own or take a picture with your webcam."
 msgstr ""
 "A <gui>Felhasználók</gui> ablakban a fiók képének megváltoztatásához "
 "rákattinthat a képre a felhasználó neve mellett. Ez a kép fog megjelenni a "
-"bejelentkezési ablakban. A GNOME biztosít néhány alapértelmezett képet, "
+"bejelentkezési ablakban. A Endless biztosít néhány alapértelmezett képet, "
 "illetve választhat a saját képei közül, vagy készíthet egyet a "
 "webkamerájával."
 

@@ -1,5 +1,5 @@
-# Greek translation of GNOME User Guide
-# This file is distributed under the same license as GNOME.
+# Greek translation of Endless User Guide
+# This file is distributed under the same license as Endless.
 # Copyright (C) 2007 ~ 2009 Free Software Foundation, Inc.
 # Fotis Tsamis <ftsamis@gmail.com>, 2009.
 # Μάριος Ζηντίλης <m.zindilis@dmajor.org>, 2009.
@@ -36,7 +36,7 @@ msgstr ""
 msgctxt "_"
 msgid "translator-credits"
 msgstr ""
-"Ελληνική μεταφραστική ομάδα GNOME\n"
+"Ελληνική μεταφραστική ομάδα Endless\n"
 " Δημήτρης Σπίγγος <dmtrs32@gmail.com>, 2012, 2013, 2014\n"
 " Φώτης Τσάμης <ftsamis@gmail.com>, 2009\n"
 " Μάριος Ζηντίλης <m.zindilis@dmajor.org>, 2009, 2010\n"
@@ -45,25 +45,25 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/index.page:7
-msgid "A guide for GNOME 3 desktop users"
-msgstr "Ένας οδηγός για τους χρήστες του GNOME 3"
+msgid "A guide for Endless desktop users"
+msgstr "Ένας οδηγός για τους χρήστες του Endless"
 
 #. (itstool) path: info/title
 #: C/index.page:9
 msgctxt "link"
-msgid "GNOME Help"
-msgstr "Βοήθεια GNOME"
+msgid "Endless Help"
+msgstr "Βοήθεια Endless"
 
 #. (itstool) path: info/title
 #: C/index.page:10
 msgctxt "text"
-msgid "GNOME Help"
-msgstr "Βοήθεια GNOME"
+msgid "Endless Help"
+msgstr "Βοήθεια Endless"
 
 #. (itstool) path: page/title
 #: C/index.page:16
-msgid "<_:media-1/> GNOME Help"
-msgstr "Βοήθεια GNOME <_:media-1/>"
+msgid "<_:media-1/> Endless Help"
+msgstr "Βοήθεια Endless <_:media-1/>"
 
 #. (itstool) path: p/link
 #: C/legal.xml:3
@@ -356,15 +356,15 @@ msgstr "Ανάγνωση οθόνης σε Μπράιγ"
 #. (itstool) path: page/p
 #: C/a11y-braille.page:25
 msgid ""
-"GNOME provides the <app>Orca</app> screen reader to display the user "
+"Endless provides the <app>Orca</app> screen reader to display the user "
 "interface on a refreshable Braille display. Depending on how you installed "
-"GNOME, you might not have Orca installed. <link href=\"install:orca"
+"Endless, you might not have Orca installed. <link href=\"install:orca"
 "\">Install Orca</link>, then refer to the <link href=\"help:orca\">Orca "
 "Help</link> for more information."
 msgstr ""
-"Το GNOME παρέχει τον αναγνώστη οθόνης <app>Orca</app> για να εμφανίσει τη "
+"Το Endless παρέχει τον αναγνώστη οθόνης <app>Orca</app> για να εμφανίσει τη "
 "διεπαφή χρήστη σε μια ανανεώσιμη προβολή Μπράιγ. Ανάλογα με τον τρόπο "
-"εγκατάστασης του GNOME, μπορεί να μην έχετε εγκαταστήσει το Orca. <link href="
+"εγκατάστασης του Endless, μπορεί να μην έχετε εγκαταστήσει το Orca. <link href="
 "\"install:orca\">Εγκατάσταση Orca</link>, έπειτα δείτε το <link href=\"help:"
 "orca\">βοήθεια Orca</link> για περισσότερες πληροφορίες."
 
@@ -773,12 +773,12 @@ msgstr "Γενική πρόσβαση"
 #. (itstool) path: page/p
 #: C/a11y.page:35
 msgid ""
-"The GNOME desktop includes assistive technologies to support users with "
+"The Endless desktop includes assistive technologies to support users with "
 "various impairments and special needs, and to interact with common assistive "
 "devices. An accessibility menu can be added to the top bar, giving easier "
 "access to many of the accessibility features."
 msgstr ""
-"Η επιφάνεια εργασίας GNOME περιλαμβάνει τεχνολογίες υποβοήθησης για "
+"Η επιφάνεια εργασίας Endless περιλαμβάνει τεχνολογίες υποβοήθησης για "
 "υποστήριξη χρηστών με ποικίλα μειονεκτήματα και ειδικές ανάγκες και "
 "αλληλεπιδρά με κοινές συσκευές υποβοήθησης. Ένα μενού προσβασιμότητας μπορεί "
 "να προστεθεί στην πάνω γραμμή, δίνοντας ευκολότερη πρόσβαση σε πολλά "
@@ -966,13 +966,13 @@ msgstr "Ανάγνωση οθόνης δυνατά"
 #. (itstool) path: page/p
 #: C/a11y-screen-reader.page:21
 msgid ""
-"GNOME provides the <app>Orca</app> screen reader to speak the user "
-"interface. Depending on how you installed GNOME, you might not have Orca "
+"Endless provides the <app>Orca</app> screen reader to speak the user "
+"interface. Depending on how you installed Endless, you might not have Orca "
 "installed. <link href=\"install:orca\">Install Orca</link>, then refer to "
 "the <link href=\"help:orca\">Orca Help</link> for more information."
 msgstr ""
-"Το GNOME παρέχει τον αναγνώστη οθόνης <app>Orca</app> για επικοινωνία με τη "
-"διεπαφή χρήστη. Ανάλογα με τον τρόπο εγκατάστασης του GNOME, μπορεί να μην "
+"Το Endless παρέχει τον αναγνώστη οθόνης <app>Orca</app> για επικοινωνία με τη "
+"διεπαφή χρήστη. Ανάλογα με τον τρόπο εγκατάστασης του Endless, μπορεί να μην "
 "έχετε εγκαταστήσει το Orca. <link href=\"install:orca\">Εγκατάσταση Orca</"
 "link>, έπειτα δείτε το <link href=\"help:orca\">βοήθεια Orca</link> για "
 "περισσότερες πληροφορίες."
@@ -1315,8 +1315,8 @@ msgstr ""
 #: C/user-admin-problems.page:13 C/user-changepassword.page:14
 #: C/user-changepicture.page:13 C/user-delete.page:17
 #: C/user-goodpassword.page:12 C/video-dvd.page:14 C/video-sending.page:11
-msgid "GNOME Documentation Project"
-msgstr "Έργο Τεκμηρίωσης GNOME"
+msgid "Endless Documentation Project"
+msgstr "Έργο Τεκμηρίωσης Endless"
 
 #. (itstool) path: page/title
 #: C/about-this-guide.page:17
@@ -1396,8 +1396,8 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/about-this-guide.page:29
-msgid "-- The GNOME documentation team"
-msgstr "-- Η Ομάδα τεκμηρίωσης GNOME"
+msgid "-- The Endless documentation team"
+msgstr "-- Η Ομάδα τεκμηρίωσης Endless"
 
 #. (itstool) path: credit/name
 #: C/accounts-add.page:13 C/bluetooth-connect-device.page:17
@@ -1429,12 +1429,12 @@ msgstr "Προσθήκη λογαριασμού"
 #. (itstool) path: page/p
 #: C/accounts-add.page:26
 msgid ""
-"Adding an account will help link your online accounts with your GNOME "
+"Adding an account will help link your online accounts with your Endless "
 "desktop. Thus, your email program, chat program and other related "
 "applications will be set up for you."
 msgstr ""
 "Η προσθήκη ενός λογαριασμού θα βοηθήσει τη σύνδεση των δικτυακών λογαριασμών "
-"σας με την επιφάνεια εργασίας του GNOME. Έτσι, το πρόγραμμα αλληλογραφίας "
+"σας με την επιφάνεια εργασίας του Endless. Έτσι, το πρόγραμμα αλληλογραφίας "
 "σας, το πρόγραμμα συνομιλιών και άλλες σχετικές εφαρμογές θα ρυθμιστούν για "
 "σας."
 
@@ -1471,10 +1471,10 @@ msgstr ""
 #: C/accounts-add.page:46
 msgid ""
 "If you have entered your credentials correctly, you will be prompted to "
-"allow GNOME access to your online account. Authorize access to continue."
+"allow Endless access to your online account. Authorize access to continue."
 msgstr ""
 "Εάν έχετε εισάγει τα διαπιστευτήριά σας σωστά, θα σας ζητηθεί να επιτρέψετε "
-"την πρόσβαση GNOME στον δικτυακό λογαριασμό σας. Εξουσιοδοτήστε την πρόσβαση "
+"την πρόσβαση Endless στον δικτυακό λογαριασμό σας. Εξουσιοδοτήστε την πρόσβαση "
 "για να συνεχίσετε."
 
 #. (itstool) path: item/p
@@ -1503,12 +1503,12 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/accounts-add.page:62
 msgid ""
-"For security reasons, GNOME will not store your password on your computer. "
+"For security reasons, Endless will not store your password on your computer. "
 "Instead, it stores a token that is provided by the online service. If you "
 "want to fully revoke the link between your desktop and the online service, "
 "<link xref=\"accounts-remove\">remove</link> it."
 msgstr ""
-"Για λόγους ασφάλειας, το GNOME δεν θα αποθηκεύσει τον κωδικό σας στον "
+"Για λόγους ασφάλειας, το Endless δεν θα αποθηκεύσει τον κωδικό σας στον "
 "υπολογιστή σας. Στη θέση του, αποθηκεύει ένα κουπόνι που παρέχεται από την "
 "δικτυακή υπηρεσία. Εάν θέλετε την πλήρη ανάκληση της σύνδεσης μεταξύ της "
 "επιφάνειας εργασίας και της δικτυακής υπηρεσίας, <link xref=\"accounts-remove"
@@ -1609,10 +1609,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/accounts-create.page:63
 msgid ""
-"You need to grant GNOME access to your new account in order to use it with "
+"You need to grant Endless access to your new account in order to use it with "
 "<app>Online Accounts</app>."
 msgstr ""
-"Θα χρειαστείτε να παραχωρήσετε την πρόσβαση GNOME στον νέο λογαριασμό σας "
+"Θα χρειαστείτε να παραχωρήσετε την πρόσβαση Endless στον νέο λογαριασμό σας "
 "για να τον χρησιμοποιήσετε με <app>δικτυακούς λογαριασμούς</app>."
 
 #. (itstool) path: item/p
@@ -1790,10 +1790,10 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/accounts-remove.page:50
 msgid ""
-"To remove GNOME's access to the online account, you should revoke the access "
+"To remove Endless's access to the online account, you should revoke the access "
 "through the account's website or similar service."
 msgstr ""
-"Για να αφαιρέσετε την πρόσβαση GNOME σε δικτυακό λογαριασμό, θα πρέπει να "
+"Για να αφαιρέσετε την πρόσβαση Endless σε δικτυακό λογαριασμό, θα πρέπει να "
 "ανακαλέσετε την πρόσβαση μέσα από την ιστοσελίδα του λογαριασμού ή παρόμοια "
 "υπηρεσία."
 
@@ -4078,10 +4078,10 @@ msgstr "Ποια όργανα μέτρησης χρώματος υποστηρί
 #. (itstool) path: page/p
 #: C/color-calibrationdevices.page:21
 msgid ""
-"GNOME relies on the Argyll color management system to support color "
+"Endless relies on the Argyll color management system to support color "
 "instruments. Thus the following display measuring instruments are supported:"
 msgstr ""
-"Το GNOME βασίζεται στο σύστημα διαχείρισης χρώματος Argyll για υποστήριξη "
+"Το Endless βασίζεται στο σύστημα διαχείρισης χρώματος Argyll για υποστήριξη "
 "οργάνων χρώματος. Έτσι τα ακόλουθα όργανα μέτρησης εμφάνισης υποστηρίζονται:"
 
 #. (itstool) path: item/p
@@ -4617,10 +4617,10 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/color-testing.page:33
 msgid ""
-"GNOME comes with several profiles for testing that make it very clear when "
+"Endless comes with several profiles for testing that make it very clear when "
 "the profiles are being applied:"
 msgstr ""
-"Το GNOME έρχεται με αρκετές κατατομές για δοκιμές που το κάνουν πολύ σαφές, "
+"Το Endless έρχεται με αρκετές κατατομές για δοκιμές που το κάνουν πολύ σαφές, "
 "όταν εφαρμόζονται οι κατατομές:"
 
 #. (itstool) path: item/title
@@ -6472,11 +6472,11 @@ msgstr "Έγγραφα"
 #. (itstool) path: page/p
 #: C/documents.page:37
 msgid ""
-"<app>Documents</app> is a GNOME application that lets you display, organize, "
+"<app>Documents</app> is an Endless application that lets you display, organize, "
 "and print the documents on your computer or those created remotely using "
 "<em>Google Docs</em> or <em>SkyDrive</em>."
 msgstr ""
-"Τα <app>έγγραφα</app> είναι μια εφαρμογή GNOME που επιτρέπει την εμφάνιση, "
+"Τα <app>έγγραφα</app> είναι μια εφαρμογή Endless που επιτρέπει την εμφάνιση, "
 "οργάνωση και εκτύπωση των εγγράφων στον υπολογιστή σας ή αυτών που "
 "δημιουργήθηκαν απομακρυσμένα χρησιμοποιώντας <em>Google Docs</em> ή "
 "<em>SkyDrive</em>."
@@ -7700,11 +7700,11 @@ msgstr "Κρύψτε ένα αρχείο"
 #. (itstool) path: page/p
 #: C/files-hidden.page:24
 msgid ""
-"The GNOME file manager gives you the ability to hide and unhide files at "
+"The Endless file manager gives you the ability to hide and unhide files at "
 "your discretion. When a file is hidden, it isn't displayed by the file "
 "manager, but it's still there in its folder."
 msgstr ""
-"Ο διαχειριστή αρχείων GNOME δίνει την ικανότητα απόκρυψης και αποκάλυψης "
+"Ο διαχειριστή αρχείων Endless δίνει την ικανότητα απόκρυψης και αποκάλυψης "
 "αρχείων κατά την κρίση σας. Όταν ένα αρχείο κρύβεται, δεν εμφανίζεται από "
 "τον διαχειριστή αρχείων, αλλά είναι ακόμα εκεί στον φάκελο του."
 
@@ -8278,11 +8278,11 @@ msgstr "Μετονομασία αρχείου ή φακέλου"
 #. (itstool) path: page/p
 #: C/files-rename.page:32
 msgid ""
-"As with other file managers, you can use the GNOME file manager to change "
+"As with other file managers, you can use the Endless file manager to change "
 "the name of a file or folder."
 msgstr ""
 "Όπως με άλλους διαχειριστές αρχείων, μπορείτε να χρησιμοποιήσετε τον "
-"διαχειριστή αρχείων GNOME για να αλλάξετε το όνομα ενός αρχείου ή φακέλου."
+"διαχειριστή αρχείων Endless για να αλλάξετε το όνομα ενός αρχείου ή φακέλου."
 
 #. (itstool) path: steps/title
 #: C/files-rename.page:35
@@ -9237,11 +9237,11 @@ msgstr ""
 #: C/get-involved.page:37
 msgid ""
 "Your report will be given an ID number, and its status will be updated as it "
-"is being dealt with. Thanks for helping make the GNOME Help better!"
+"is being dealt with. Thanks for helping make the Endless Help better!"
 msgstr ""
 "Στην αναφορά σας θα δοθεί ένας αριθμός ID και η κατάστασή της θα ενημερωθεί "
 "όταν θα εξεταστεί. Ευχαριστούμε για τη βοήθειά σας να κάνουμε τη βοήθεια του "
-"GNOME καλύτερη!"
+"Endless καλύτερη!"
 
 #. (itstool) path: section/title
 #: C/get-involved.page:43
@@ -9252,11 +9252,11 @@ msgstr "Επικοινωνήστε μαζί μας"
 #: C/get-involved.page:44
 msgid ""
 "You can send an <link href=\"mailto:gnome-doc-list@gnome.org\">email</link> "
-"to the GNOME docs mailing list to learn more about how to get involved with "
+"to the Endless docs mailing list to learn more about how to get involved with "
 "the documentation team."
 msgstr ""
 "Μπορείτε να στείλετε ένα <link href=\"mailto:gnome-doc-list@gnome.org"
-"\">μήνυμα</link> στη λίστα αλληλογραφίας της τεκμηρίωσης GNOME για να μάθετε "
+"\">μήνυμα</link> στη λίστα αλληλογραφίας της τεκμηρίωσης Endless για να μάθετε "
 "περισσότερα για το πώς θα εμπλακείτε με την ομάδα τεκμηρίωσης."
 
 #. (itstool) path: credit/name
@@ -9267,29 +9267,29 @@ msgstr "Petr Kovar"
 #. (itstool) path: info/desc
 #: C/gnome-classic.page:22
 msgid ""
-"Consider switching to GNOME Classic if you prefer a more traditional desktop "
+"Consider switching to Endless Classic if you prefer a more traditional desktop "
 "experience."
 msgstr ""
-"Σκεφτείτε να αλλάξετε σε κλασικό GNOME, αν προτιμάτε μια πιο παραδοσιακή "
+"Σκεφτείτε να αλλάξετε σε κλασικό Endless, αν προτιμάτε μια πιο παραδοσιακή "
 "εμπειρία επιφάνειας εργασίας."
 
 #. (itstool) path: page/title
 #: C/gnome-classic.page:26
-msgid "What is GNOME Classic?"
-msgstr "Τι είναι το κλασικό GNOME;"
+msgid "What is Endless Classic?"
+msgstr "Τι είναι το κλασικό Endless;"
 
 #. (itstool) path: when/p
 #: C/gnome-classic.page:30
 msgid ""
-"<em>GNOME Classic</em> is a feature for users who prefer a more traditional "
-"desktop experience. While <em>GNOME Classic</em> is based on <em>GNOME 3</"
+"<em>Endless Classic</em> is a feature for users who prefer a more traditional "
+"desktop experience. While <em>Endless Classic</em> is based on <em>Endless</"
 "em> technologies, it provides a number of changes to the user interface, "
 "such as the <gui>Applications</gui> and <gui>Places</gui> menus on the top "
 "bar, and a window list at the bottom of the screen."
 msgstr ""
-"Το <em>Κλασικό GNOME</em> είναι ένα γνώρισμα για χρήστες που προτιμούν μια "
-"πιο παραδοσιακή εμπειρία της επιφάνειας εργασίας. Ενώ το <em>Κλασικό GNOME</"
-"em> βασίζεται στις τεχνολογίες του <em>GNOME 3</em>, δίνει έναν αριθμό από "
+"Το <em>Κλασικό Endless</em> είναι ένα γνώρισμα για χρήστες που προτιμούν μια "
+"πιο παραδοσιακή εμπειρία της επιφάνειας εργασίας. Ενώ το <em>Κλασικό Endless</"
+"em> βασίζεται στις τεχνολογίες του <em>Endless</em>, δίνει έναν αριθμό από "
 "αλλαγές στη διεπαφή χρήστη, όπως τα μενού <gui>Εφαρμογές</gui> και "
 "<gui>Τοποθεσίες</gui> στην πάνω γραμμή και έναν κατάλογο παραθύρων στο τέλος "
 "της οθόνης."
@@ -9297,16 +9297,16 @@ msgstr ""
 #. (itstool) path: when/p
 #: C/gnome-classic.page:38
 msgid ""
-"<em>GNOME Classic</em> is a feature for users who prefer a more traditional "
-"desktop experience. While <em>GNOME Classic</em> is based on <em>GNOME 3</"
+"<em>Endless Classic</em> is a feature for users who prefer a more traditional "
+"desktop experience. While <em>Endless Classic</em> is based on <em>Endless</"
 "em> technologies, it provides a number of changes to the user interface, "
 "such as the <gui xref=\"shell-terminology\">Applications</gui> and <gui xref="
 "\"shell-terminology\">Places</gui> menus on the top bar, and a window list "
 "at the bottom of the screen."
 msgstr ""
-"Το <em>Κλασικό GNOME</em> είναι ένα γνώρισμα για χρήστες που προτιμούν μια "
-"πιο παραδοσιακή εμπειρία επιφάνειας εργασίας. Ενώ το <em>Κλασικό GNOME</em> "
-"βασίζεται στις τεχνολογίες <em>GNOME 3</em>, δίνει έναν αριθμό από αλλαγές "
+"Το <em>Κλασικό Endless</em> είναι ένα γνώρισμα για χρήστες που προτιμούν μια "
+"πιο παραδοσιακή εμπειρία επιφάνειας εργασίας. Ενώ το <em>Κλασικό Endless</em> "
+"βασίζεται στις τεχνολογίες <em>Endless</em>, δίνει έναν αριθμό από αλλαγές "
 "στη διεπαφή χρήστη, όπως τα μενού <gui xref=\"shell-terminology\">Εφαρμογές</"
 "gui> και <gui xref=\"shell-terminology\">Τοποθεσίες</gui> στην πάνω γραμμή "
 "και μια λίστα παραθύρων στο τέλος της οθόνης."
@@ -9353,13 +9353,13 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/gnome-classic.page:61
 msgid ""
-"At the right-hand side of the window list, GNOME displays a short identifier "
+"At the right-hand side of the window list, Endless displays a short identifier "
 "for the current workspace, such as <gui>1</gui> for the first (top) "
 "workspace. In addition, the identifier also displays the total number of "
 "available workspaces. To switch to a different workspace, you can click the "
 "identifier and select the workspace you want to use from the menu."
 msgstr ""
-"Στη δεξιά του καταλόγου παραθύρων, το GNOME εμφανίζει ένα σύντομο "
+"Στη δεξιά του καταλόγου παραθύρων, το Endless εμφανίζει ένα σύντομο "
 "αναγνωριστικό για τον τρέχοντα χώρο εργασίας, όπως <gui>1</gui> για τον "
 "πρώτο (κορυφαίο) χώρο εργασίας. Επιπλέον, το αναγνωριστικό εμφανίζει επίσης "
 "τον συνολικό αριθμό των διαθέσιμων χώρων εργασίας. Για εναλλαγή σε "
@@ -9381,24 +9381,24 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/gnome-classic.page:75
-msgid "Switch to and from GNOME Classic"
-msgstr "Εναλλαγή προς και από το κλασικό GNOME"
+msgid "Switch to and from Endless Classic"
+msgstr "Εναλλαγή προς και από το κλασικό Endless"
 
 #. (itstool) path: note/p
 #: C/gnome-classic.page:78
 msgid ""
-"GNOME Classic is only available on systems with certain GNOME Shell "
+"Endless Classic is only available on systems with certain Endless Shell "
 "extensions installed. Some Linux distributions may not have these extensions "
 "available or installed by default."
 msgstr ""
-"Το κλασικό GNOME είναι διαθέσιμο μόνο σε συστήματα με συγκεκριμένες "
-"εγκατεστημένες επεκτάσεις κελύφους GNOME. Κάποιες διανομές Λίνουξ μπορεί να "
+"Το κλασικό Endless είναι διαθέσιμο μόνο σε συστήματα με συγκεκριμένες "
+"εγκατεστημένες επεκτάσεις κελύφους Endless. Κάποιες διανομές Λίνουξ μπορεί να "
 "μην έχουν αυτές τις επεκτάσεις διαθέσιμες ή εγκατεστημένες από προεπιλογή."
 
 #. (itstool) path: steps/title
 #: C/gnome-classic.page:84
-msgid "To switch from <em>GNOME</em> to <em>GNOME Classic</em>:"
-msgstr "Για εναλλαγή από το <em>GNOME</em> σε <em>κλασικό GNOME</em>:"
+msgid "To switch from <em>Endless</em> to <em>Endless Classic</em>:"
+msgstr "Για εναλλαγή από το <em>Endless</em> σε <em>κλασικό Endless</em>:"
 
 #. (itstool) path: item/p
 #: C/gnome-classic.page:86 C/gnome-classic.page:111
@@ -9432,10 +9432,10 @@ msgstr "Εισάγετε τον κωδικό σας στο πεδίο καταχ
 #: C/gnome-classic.page:100
 msgid ""
 "Click the options icon, which is displayed to the left of the <gui>Sign In</"
-"gui> button, and select <gui>GNOME Classic</gui>."
+"gui> button, and select <gui>Endless Classic</gui>."
 msgstr ""
 "Πατήστε το εικονίδιο επιλογών, που εμφανίζεται στα αριστερά του κουμπιού "
-"<gui>Είσοδος</gui> και επιλέξτε <gui>Κλασικό GNOME</gui>."
+"<gui>Είσοδος</gui> και επιλέξτε <gui>Κλασικό Endless</gui>."
 
 #. (itstool) path: item/p
 #: C/gnome-classic.page:104 C/gnome-classic.page:129
@@ -9444,17 +9444,17 @@ msgstr "Πατήστε το κουμπί <gui>Είσοδος</gui>."
 
 #. (itstool) path: steps/title
 #: C/gnome-classic.page:109
-msgid "To switch from <em>GNOME Classic</em> to <em>GNOME</em>:"
-msgstr "Για εναλλαγή από το <em>κλασικό GNOME</em> σε <em>GNOME</em>:"
+msgid "To switch from <em>Endless Classic</em> to <em>Endless</em>:"
+msgstr "Για εναλλαγή από το <em>κλασικό Endless</em> σε <em>Endless</em>:"
 
 #. (itstool) path: item/p
 #: C/gnome-classic.page:125
 msgid ""
 "Click the options icon, which is displayed to the left of the <gui>Sign In</"
-"gui> button, and select <gui>GNOME</gui>."
+"gui> button, and select <gui>Endless</gui>."
 msgstr ""
 "Πατήστε το εικονίδιο επιλογών, που εμφανίζεται στα αριστερά του κουμπιού "
-"<gui>Είσοδος</gui> και επιλέξτε <gui>GNOME</gui>."
+"<gui>Είσοδος</gui> και επιλέξτε <gui>Endless</gui>."
 
 #. (itstool) path: info/desc
 #: C/hardware-auth.page:13
@@ -9713,21 +9713,21 @@ msgstr "IRC"
 #: C/help-irc.page:19
 msgid ""
 "IRC stands for Internet Relay Chat. It is a real-time multi-user messaging "
-"system. You can get help and advice on the GNOME IRC server from other GNOME "
+"system. You can get help and advice on the Endless IRC server from other Endless "
 "users and developers."
 msgstr ""
 "IRC σημαίνει συνομιλία μεταγωγής διαδικτύου. Είναι ένα πολυχρηστικό σύστημα "
 "μηνυμάτων πραγματικού χρόνου. Μπορείτε να πάρετε βοήθεια και συμβουλές στον "
-"εξυπηρετητή IRC GNOME από άλλους χρήστες GNOME και προγραμματιστές."
+"εξυπηρετητή IRC Endless από άλλους χρήστες Endless και προγραμματιστές."
 
 #. (itstool) path: page/p
 #: C/help-irc.page:24
 msgid ""
-"To connect to the GNOME IRC server, use <app>empathy</app> or <app>xchat</"
+"To connect to the Endless IRC server, use <app>empathy</app> or <app>xchat</"
 "app>, or use a web interface like <link href=\"http://chat.mibbit.com/"
 "\">mibbit</link>."
 msgstr ""
-"Για να συνδεθείτε με τον εξυπηρετητή IRC του GNOME, χρησιμοποιήστε το "
+"Για να συνδεθείτε με τον εξυπηρετητή IRC του Endless, χρησιμοποιήστε το "
 "<app>empathy</app> ή το <app>xchat</app>, ή χρησιμοποιήστε μια διεπαφή ιστού "
 "όπως <link href=\"http://chat.mibbit.com/\">mibbit</link>."
 
@@ -9743,12 +9743,12 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/help-irc.page:32
 msgid ""
-"The GNOME IRC server is <sys>irc.gnome.org</sys>. You may also see it "
+"The Endless IRC server is <sys>irc.gnome.org</sys>. You may also see it "
 "referred to as the \"GIMP network\". If your computer is properly configured "
 "you can click on the link <link href=\"irc://irc.gnome.org/gnome\"/> to "
 "access the <sys>gnome</sys> channel."
 msgstr ""
-"Ο εξυπηρετητής IRC GNOME είναι <sys>irc.gnome.org</sys>. Μπορείτε επίσης να "
+"Ο εξυπηρετητής IRC Endless είναι <sys>irc.gnome.org</sys>. Μπορείτε επίσης να "
 "το δείτε να αναφέρεται ως \"δίκτυο GIMP\". Εάν ο υπολογιστής σας είναι "
 "κατάλληλα ρυθμισμένος μπορείτε να πατήσετε στο σύνδεσμο <link href=\"irc://"
 "irc.gnome.org/gnome\"/> για να προσπελάσετε το κανάλι <sys>gnome</sys>."
@@ -9765,11 +9765,11 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/help-irc.page:41
 msgid ""
-"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">GNOME "
+"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">Endless "
 "code of conduct</link> applies when you chat on IRC."
 msgstr ""
 "Παρακαλώ σημειώστε ότι <link href=\"https://live.gnome.org/CodeOfConduct/"
-"\">ο κώδικας συμπεριφοράς του GNOME</link> εφαρμόζεται όταν συνομιλείτε στο "
+"\">ο κώδικας συμπεριφοράς του Endless</link> εφαρμόζεται όταν συνομιλείτε στο "
 "IRC."
 
 #. (itstool) path: info/desc
@@ -9786,13 +9786,13 @@ msgstr "Λίστα ταχυδρομείου"
 #: C/help-mailing-list.page:28
 msgid ""
 "Mailing lists are email based discussions. You can ask for support using the "
-"GNOME mailing lists. Almost each GNOME application has its own mailing list. "
+"Endless mailing lists. Almost each Endless application has its own mailing list. "
 "The complete list of mailing-lists are listed at <link href=\"http://mail."
 "gnome.org/mailman/listinfo\"/>."
 msgstr ""
 "Οι λίστες αλληλογραφίας είναι μηνύματα με βάση συζητήσεις. Μπορείτε να "
-"ζητήσετε υποστήριξη χρησιμοποιώντας τις λίστες αλληλογραφίας του GNOME. "
-"Σχεδόν κάθε εφαρμογή GNOME έχει τη δικιά της λίστα αλληλογραφίας. Η πλήρης "
+"ζητήσετε υποστήριξη χρησιμοποιώντας τις λίστες αλληλογραφίας του Endless. "
+"Σχεδόν κάθε εφαρμογή Endless έχει τη δικιά της λίστα αλληλογραφίας. Η πλήρης "
 "λίστα αλληλογραφίας είναι καταχωρημένη στο <link href=\"http://mail.gnome."
 "org/mailman/listinfo\"/>."
 
@@ -11748,11 +11748,11 @@ msgstr "Υπάρχουν τρεις εμφανιζόμενες επιλογές 
 #: C/look-background.page:71
 msgid ""
 "Select <gui>Wallpapers</gui> to use one of the many professional background "
-"images that ship with GNOME. Some wallpapers change throughout the day. "
+"images that ship with Endless. Some wallpapers change throughout the day. "
 "These wallpapers have a small clock icon in the bottom-right corner."
 msgstr ""
 "Επιλέξτε <gui>Ταπετσαρίες</gui> για να χρησιμοποιήσετε μία από τις πολλές "
-"επαγγελματικές εικόνες παρασκηνίου που έρχονται με το GNOME. Μερικές "
+"επαγγελματικές εικόνες παρασκηνίου που έρχονται με το Endless. Μερικές "
 "ταπετσαρίες αλλάζουν κατά τη διάρκεια της ημέρας. Αυτές οι ταπετσαρίες έχουν "
 "ένα μικρό εικονίδιο ρολογιού στην κάτω δεξιά γωνία."
 
@@ -15347,8 +15347,8 @@ msgstr ""
 
 #. (itstool) path: credit/name
 #: C/net-email.page:19 C/net-general.page:22
-msgid "The GNOME Documentation Project"
-msgstr "Έργο τεκμηρίωσης του GNOME"
+msgid "The Endless Documentation Project"
+msgstr "Έργο τεκμηρίωσης του Endless"
 
 #. (itstool) path: page/title
 #: C/net-email.page:23
@@ -21599,11 +21599,11 @@ msgstr "Ιδιωτικές ρυθμίσεις"
 #. (itstool) path: page/p
 #: C/privacy.page:27
 msgid ""
-"The <em>Privacy Settings</em> in GNOME help you control whether or not "
+"The <em>Privacy Settings</em> in Endless help you control whether or not "
 "certain parts of your desktop are visible to others. You can also use these "
 "settings to clear your computer usage history and clean-out unecessary files."
 msgstr ""
-"Οι <em>Ιδιωτικές ρυθμίσεις</em> στο GNOME σας βοηθούν να ελέγξτε εάν "
+"Οι <em>Ιδιωτικές ρυθμίσεις</em> στο Endless σας βοηθούν να ελέγξτε εάν "
 "συγκεκριμένα μέρη της επιφάνειας εργασίας σας είναι ορατά στους άλλους. "
 "Μπορείτε επίσης να χρησιμοποιήσετε αυτές τις ρυθμίσεις για να καθαρίσετε το "
 "ιστορικό χρήσης του υπολογιστή και να καθαρίσετε περιττά αρχεία."
@@ -22467,10 +22467,10 @@ msgstr "Ρυθμίσεις κοινής χρήσης"
 #. (itstool) path: page/p
 #: C/settings-sharing.page:25
 msgid ""
-"The <em>Sharing Settings</em> in GNOME help you control what is shared over "
+"The <em>Sharing Settings</em> in Endless help you control what is shared over "
 "the local network, or through other technologies such as <em>Bluetooth</em>."
 msgstr ""
-"Οι <em>Ρυθμίσεις κοινής χρήσης</em> στο GNOME βοηθούν στον έλεγχο του "
+"Οι <em>Ρυθμίσεις κοινής χρήσης</em> στο Endless βοηθούν στον έλεγχο του "
 "μερισμού μέσω του τοπικού δικτύου, ή μέσα από άλλες τεχνολογίες όπως "
 "<em>Μπλουτούθ</em>."
 
@@ -23323,13 +23323,13 @@ msgstr "Αναστολή"
 #: C/shell-exit.page:103
 msgid ""
 "To save power, suspend your computer when you are not using it. If you use a "
-"laptop, GNOME suspends your computer automatically when you close the lid. "
+"laptop, Endless suspends your computer automatically when you close the lid. "
 "This saves your state to your computer's memory and powers off most of the "
 "computer's functions. A very small amount of power is still used during "
 "suspend."
 msgstr ""
 "Για να εξοικονομήσετε ισχύ, αναστείλτε τον υπολογιστή σας όταν δεν τον "
-"χρησιμοποιείτε. Αν χρησιμοποιείτε έναν φορητό υπολογιστή, το GNOME "
+"χρησιμοποιείτε. Αν χρησιμοποιείτε έναν φορητό υπολογιστή, το Endless "
 "αναστέλλει τον υπολογιστή σας αυτόματα όταν κλείσετε το καπάκι. Αυτό "
 "αποθηκεύει την κατάστασή σας στη μνήμη του υπολογιστή σας και απενεργοποιεί "
 "τις περισσότερες λειτουργίες του υπολογιστή. Μια πολλή μικρή ισχύς "
@@ -23550,25 +23550,25 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/shell-introduction.page:32
-msgid "Introduction to GNOME"
-msgstr "Εισαγωγή στο GNOME"
+msgid "Introduction to Endless"
+msgstr "Εισαγωγή στο Endless"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:34
 msgid ""
-"GNOME 3 features a completely reimagined user interface designed to stay out "
+"Endless features a completely reimagined user interface designed to stay out "
 "of your way, minimize distractions, and help you get things done. When you "
 "first log in, you will see an empty desktop and the top bar."
 msgstr ""
-"Το GNOME 3 χαρακτηρίζεται από μια πλήρως νέα εικόνα σχεδίασης της διεπαφής "
+"Το Endless χαρακτηρίζεται από μια πλήρως νέα εικόνα σχεδίασης της διεπαφής "
 "χρήστη για να μένει έξω από τον δρόμο σας, να ελαχιστοποιεί τις αφαιρέσεις "
 "και να σας βοηθά να κάνετε τη δουλειά σας. Όταν πρωτοσυνδέεστε, θα δείτε μια "
 "κενή επιφάνεια εργασίας και την πάνω γραμμή."
 
 #. (itstool) path: media/p
 #: C/shell-introduction.page:41 C/shell-introduction.page:46
-msgid "GNOME shell top bar"
-msgstr "Η πάνω γραμμή του κελύφους GNOME"
+msgid "Endless shell top bar"
+msgstr "Η πάνω γραμμή του κελύφους Endless"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:51
@@ -23887,11 +23887,11 @@ msgstr "Λίστα παραθύρων"
 #. (itstool) path: when/p
 #: C/shell-introduction.page:292
 msgid ""
-"GNOME features a different approach to switching windows than a permanently "
+"Endless features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus "
 "on the task at hand without distractions."
 msgstr ""
-"Το GNOME χαρακτηρίζεται από μια διαφορετική προσέγγιση για εναλλαγή "
+"Το Endless χαρακτηρίζεται από μια διαφορετική προσέγγιση για εναλλαγή "
 "παραθύρων από μια μόνιμα ορατή λίστα παραθύρων που βρίσκεται σε άλλα "
 "περιβάλλοντα επιφάνειας εργασίας. Αυτό επιτρέπει την εστίαση στην εργασία "
 "κοντά χωρίς αφαιρέσεις."
@@ -23908,13 +23908,13 @@ msgstr ""
 #. (itstool) path: when/p
 #: C/shell-introduction.page:309
 msgid ""
-"At the right-hand side of the window list, GNOME displays a short identifier "
+"At the right-hand side of the window list, Endless displays a short identifier "
 "for the current worskpace, such as <gui>1</gui> for the first (top) "
 "workspace. In addition, the identifier also displays the total number of "
 "available workspaces. To switch to a different workspace, you can click the "
 "identifier and select the workspace you want to use from the menu."
 msgstr ""
-"Στη δεξιά πλευρά της λίστας παραθύρων, το GNOME εμφανίζει έναν σύντομο "
+"Στη δεξιά πλευρά της λίστας παραθύρων, το Endless εμφανίζει έναν σύντομο "
 "ταυτοποιητή για τον τρέχοντα χώρο εργασίας, όπως <gui>1</gui> για τον πρώτο "
 "(κορυφαίο) χώρο εργασίας. Επιπλέον, ο ταυτοποιητής εμφανίζει επίσης τον "
 "συνολικό αριθμό των διαθέσιμων χώρων εργασίας. Για εναλλαγή σε διαφορετικό "
@@ -25002,12 +25002,12 @@ msgstr "Μετακίνηση και αυξομείωση παραθύρων"
 #: C/shell-windows-states.page:25
 msgid ""
 "You can move and resize windows to help you work more efficiently. In "
-"addition to the dragging behavior you might expect, GNOME features shortcuts "
+"addition to the dragging behavior you might expect, Endless features shortcuts "
 "and modifiers to help you arrange windows quickly."
 msgstr ""
 "Μπορείτε να μετακινήσετε και να αυξομειώσετε τα παράθυρα για να δουλέψετε "
 "πιο αποτελεσματικά. Πέρα από την μεταφορά συμπεριφοράς που μπορεί να "
-"περιμένετε, οι συντομεύσεις και οι τροποποιητές γνωρισμάτων GNOME σας "
+"περιμένετε, οι συντομεύσεις και οι τροποποιητές γνωρισμάτων Endless σας "
 "βοηθούν στην γρήγορη τακτοποίηση παραθύρων."
 
 #. (itstool) path: item/p
@@ -25258,11 +25258,11 @@ msgstr "Παράθυρα και χώροι εργασίας"
 #. (itstool) path: page/p
 #: C/shell-windows.page:23
 msgid ""
-"Like other desktops, GNOME uses windows to display your running "
+"Like other desktops, Endless uses windows to display your running "
 "applications. Using both the <gui>Activities</gui> overview and the "
 "<gui>dash</gui>, you can launch new applications and control active windows."
 msgstr ""
-"Όπως άλλες επιφάνειες εργασίας, το GNOME χρησιμοποιεί παράθυρα για να "
+"Όπως άλλες επιφάνειες εργασίας, το Endless χρησιμοποιεί παράθυρα για να "
 "εμφανίσει τις εκτελούμενες εφαρμογές σας. Χρησιμοποιώντας και την επισκόπηση "
 "<gui>Ενεργειών</gui> και το <gui>αρχικό πλαίσιο</gui>, μπορείτε να "
 "ξεκινήσετε νέες εφαρμογές και να ελέγξετε τα ενεργά παράθυρα."
@@ -26382,16 +26382,16 @@ msgstr "Τι σημαίνουν τα εικονίδια στην πάνω γρα
 msgid ""
 "This section explains the meaning of icons located on the top right corner "
 "of the screen. More specifically, the different variations of the icons "
-"provided by the GNOME interface are described."
+"provided by the Endless interface are described."
 msgstr ""
 "Αυτή η ενότητα εξηγεί τη σημασία των εικονιδίων που βρίσκονται στη πάνω "
 "δεξιά γωνία της οθόνης. Ειδικά, περιγράφονται οι διαφορετικές παραλλαγές των "
-"έτοιμων εικονιδίων από τη διεπαφή του GNOME."
+"έτοιμων εικονιδίων από τη διεπαφή του Endless."
 
 #. (itstool) path: media/p
 #: C/status-icons.page:29 C/status-icons.page:35
-msgid "GNOME Shell top bar"
-msgstr "Η πάνω γραμμή του κελύφους GNOME"
+msgid "Endless Shell top bar"
+msgstr "Η πάνω γραμμή του κελύφους Endless"
 
 #. (itstool) path: section/title
 #: C/status-icons.page:43
@@ -26712,11 +26712,11 @@ msgstr "Πίνακας χαρακτήρων"
 #. (itstool) path: section/p
 #: C/tips-specialchars.page:43
 msgid ""
-"GNOME comes with a character map application that allows you to browse all "
+"Endless comes with a character map application that allows you to browse all "
 "the characters in Unicode. Use the character map to find the character you "
 "want, and then copy and paste it to wherever you need it."
 msgstr ""
-"Το GNOME έρχεται με μια εφαρμογή πίνακα χαρακτήρων που επιτρέπει την "
+"Το Endless έρχεται με μια εφαρμογή πίνακα χαρακτήρων που επιτρέπει την "
 "περιήγηση όλων των χαρακτήρων σε Unicode. Χρησιμοποιήστε τον πίνακα "
 "χαρακτήρων για να βρείτε τον χαρακτήρα που θέλετε και έπειτα αντιγράψτε και "
 "επικολλήστε τον όπου χρειάζεται."
@@ -26971,10 +26971,10 @@ msgstr "Συμμετοχή για βελτίωση των μεταφράσεων
 #. (itstool) path: page/p
 #: C/translate.page:29
 msgid ""
-"GNOME's help is being translated by a world-wide volunteer community. You "
+"Endless's help is being translated by a world-wide volunteer community. You "
 "are welcome to participate."
 msgstr ""
-"Η βοήθεια του GNOME μεταφράζεται από μια παγκόσμια κοινότητα εθελοντών. "
+"Η βοήθεια του Endless μεταφράζεται από μια παγκόσμια κοινότητα εθελοντών. "
 "Είστε καλοδεχούμενοι να συμμετάσχετε."
 
 #. (itstool) path: page/p
@@ -27002,13 +27002,13 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/translate.page:43
 msgid ""
-"You can chat with GNOME translators by joining the #i18n channel on the "
-"<link xref=\"help-irc\">GNOME IRC server</link>. People on the channel are "
+"You can chat with Endless translators by joining the #i18n channel on the "
+"<link xref=\"help-irc\">Endless IRC server</link>. People on the channel are "
 "located worldwide, so you may not get an immediate response as a result of "
 "timezone differences."
 msgstr ""
-"Μπορείτε να συζητήσετε με μεταφραστές του GNOME χρησιμοποιώντας το κανάλι "
-"#i18n <link xref=\"help-irc\">διακομιστής IRC GNOME</link>. Άνθρωποι στο "
+"Μπορείτε να συζητήσετε με μεταφραστές του Endless χρησιμοποιώντας το κανάλι "
+"#i18n <link xref=\"help-irc\">διακομιστής IRC Endless</link>. Άνθρωποι στο "
 "κανάλι βρίσκονται παντού, έτσι μπορείτε να πάρετε μια άμεση απάντηση ως "
 "αποτέλεσμα των διαφορών ώρας."
 
@@ -27194,12 +27194,12 @@ msgstr ""
 msgid ""
 "In the <gui>Users</gui> panel, you can click the image next to the user's "
 "name to the right to set an image for the account. This image will be shown "
-"in the login window. GNOME provides some stock photos you can use, or you "
+"in the login window. Endless provides some stock photos you can use, or you "
 "can select your own or take a picture with your webcam."
 msgstr ""
 "Στο φάτνωμα <gui>Χρήστες</gui>, μπορείτε να πατήσετε την εικόνα δίπλα στο "
 "όνομα του χρήστη στα δεξιά για να ορίσετε μια εικόνα για τον λογαριασμό. "
-"Αυτή η εικόνα θα εμφανιστεί στο παράθυρο σύνδεσης. Το GNOME παρέχει μερικές "
+"Αυτή η εικόνα θα εμφανιστεί στο παράθυρο σύνδεσης. Το Endless παρέχει μερικές "
 "έτοιμες φωτογραφίες που μπορείτε να χρησιμοποιήσετε, ή μπορείτε να επιλέξετε "
 "τη δικιά σας ή να πάρετε μια εικόνα με την ιστοκάμερά σας."
 
@@ -28427,10 +28427,10 @@ msgstr "Πινακίδα γραφικών Wacom"
 
 #~ msgid ""
 #~ "<media type=\"image\" src=\"figures/yelp-icon-big.png\">Yelp logo</media> "
-#~ "GNOME Help"
+#~ "Endless Help"
 #~ msgstr ""
 #~ "<media type=\"image\" src=\"figures/yelp-icon-big.png\">Λογότυπος του "
-#~ "Yelp</media> Βοήθεια GNOME"
+#~ "Yelp</media> Βοήθεια Endless"
 
 #~ msgctxt "_"
 #~ msgid ""
@@ -28988,20 +28988,20 @@ msgstr "Πινακίδα γραφικών Wacom"
 
 #~ msgid ""
 #~ "Click <gui>Session</gui> below the password entry box and choose "
-#~ "<gui>GNOME Classic</gui>."
+#~ "<gui>Endless Classic</gui>."
 #~ msgstr ""
 #~ "Πατήστε <gui>Συνεδρία</gui> κάτω από το πλαίσιο καταχώρισης κωδικού και "
-#~ "επιλέξτε <gui>κλασικό GNOME</gui>."
+#~ "επιλέξτε <gui>κλασικό Endless</gui>."
 
 #~ msgid "Click <gui>Sign In</gui>."
 #~ msgstr "Πατήστε <gui>Είσοδος</gui>."
 
 #~ msgid ""
 #~ "Click <gui>Session</gui> below the password entry box and choose "
-#~ "<gui>GNOME</gui>."
+#~ "<gui>Endless</gui>."
 #~ msgstr ""
 #~ "Πατήστε <gui>Συνεδρία</gui> κάτω από το πλαίσιο καταχώρισης κωδικού και "
-#~ "επιλέξτε <gui>GNOME</gui>."
+#~ "επιλέξτε <gui>Endless</gui>."
 
 #~ msgid "Click the current shortcut definition on the far right."
 #~ msgstr "Πατήστε τον ορισμό της τρέχουσας συντόμευσης στα πέρα δεξιά."
@@ -29752,12 +29752,12 @@ msgstr "Πινακίδα γραφικών Wacom"
 #~ "αποκρύψει επίσης το πλήρες όνομά σας όταν η οθόνη σας είναι κλειδωμένη."
 
 #~ msgid ""
-#~ "Many help topics in the GNOME Help instruct you to \"Click your name in "
+#~ "Many help topics in the Endless Help instruct you to \"Click your name in "
 #~ "the <gui>top bar</gui>.\" If you hide your name in the <gui>top bar</"
 #~ "gui>, you will need to click the small <gui>notification icon</gui> in "
 #~ "the <gui>top bar</gui> instead."
 #~ msgstr ""
-#~ "Πολλά θέματα βοήθειας στη βοήθεια GNOME σας μαθαίνουν να \"Πατάτε το "
+#~ "Πολλά θέματα βοήθειας στη βοήθεια Endless σας μαθαίνουν να \"Πατάτε το "
 #~ "όνομά σας στην <gui>πάνω γραμμή</gui>.\" Εάν κρύψετε το όνομά σας στην "
 #~ "<gui>πάνω γραμμή</gui>, θα χρειαστείτε να πατήσετε το μικρό "
 #~ "<gui>εικονίδιο ειδοποίησης</gui> στην <gui>πάνω γραμμή</gui>."
@@ -30433,14 +30433,14 @@ msgstr "Πινακίδα γραφικών Wacom"
 #~ msgid ""
 #~ "Back in the <gui>User Accounts</gui> window you can click the image next "
 #~ "to the user's name on the right to set an image for the account. This "
-#~ "image will be shown in the login window. GNOME provides some stock photos "
+#~ "image will be shown in the login window. Endless provides some stock photos "
 #~ "you can use, or you can select your own or take a picture with your "
 #~ "webcam."
 #~ msgstr ""
 #~ "Πίσω στο παράθυρο <gui>λογαριασμοί χρήστη</gui> μπορείτε να πατήσετε την "
 #~ "εικόνα δίπλα στο όνομα του χρήστη στα δεξιά για να ορίσετε μια εικόνα για "
 #~ "τον λογαριασμό. Αυτή η εικόνα θα εμφανιστεί στο παράθυρο σύνδεσης. Το "
-#~ "GNOME παρέχει μερικές φωτογραφίες παρακαταθήκης που μπορείτε να "
+#~ "Endless παρέχει μερικές φωτογραφίες παρακαταθήκης που μπορείτε να "
 #~ "χρησιμοποιήσετε, ή μπορείτε να επιλέξετε τη δικιά σας ή να πάρετε μια "
 #~ "εικόνα με την ιστοκάμερά σας."
 
@@ -30636,13 +30636,13 @@ msgstr "Πινακίδα γραφικών Wacom"
 #~ "If your computer's graphics card doesn't support certain features, a more "
 #~ "basic version of the desktop will be displayed and you will see a message "
 #~ "telling you what happened. This is called <em>fallback mode</em>, and it "
-#~ "allows you to use GNOME on your computer without some of its more "
+#~ "allows you to use Endless on your computer without some of its more "
 #~ "advanced features."
 #~ msgstr ""
 #~ "Εάν η κάρτα γραφικών του υπολογιστή σας δεν υποστηρίζει συγκεκριμένα "
 #~ "γνωρίσματα, μια πιο βασική έκδοση της επιφάνειας εργασίας θα εμφανιστεί "
 #~ "και θα δείτε ένα μήνυμα που σας λέει τι συνέβη. Αυτό λέγεται "
-#~ "<em>κατάσταση υποχώρησης</em> και επιτρέπει τη χρήση του GNOME στον "
+#~ "<em>κατάσταση υποχώρησης</em> και επιτρέπει τη χρήση του Endless στον "
 #~ "υπολογιστή σας χωρίς κάποια από τα πιο προχωρημένα γνωρίσματα."
 
 #~ msgid ""
@@ -30690,17 +30690,17 @@ msgstr "Πινακίδα γραφικών Wacom"
 
 #~ msgid ""
 #~ "Starting in fallback mode doesn't necessarily mean that your graphics "
-#~ "card isn't good enough to run GNOME - it might just mean that you don't "
+#~ "card isn't good enough to run Endless - it might just mean that you don't "
 #~ "have the right drivers installed for your graphics card. If you can find "
 #~ "better graphics card drivers for your computer, you may be able to run "
-#~ "the full version of GNOME."
+#~ "the full version of Endless."
 #~ msgstr ""
 #~ "Η έναρξη σε κατάσταση υποχώρησης δεν σημαίνει αναγκαστικά ότι η κάρτα "
-#~ "γραφικών σας δεν είναι αρκετά καλή για να τρέξετε το GNOME - μπορεί απλά "
+#~ "γραφικών σας δεν είναι αρκετά καλή για να τρέξετε το Endless - μπορεί απλά "
 #~ "να σημαίνει ότι δεν έχετε τους σωστούς οδηγούς εγκατεστημένους για την "
 #~ "κάρτα γραφικών σας. Εάν μπορείτε να βρείτε καλύτερους οδηγούς κάρτας "
 #~ "γραφικών για τον υπολογιστή σας, ίσως μπορέσετε να τρέξετε την πλήρη "
-#~ "έκδοση του GNOME."
+#~ "έκδοση του Endless."
 
 #~ msgid "Share and transfer files"
 #~ msgstr "Μερισμός και μεταφορά αρχείων"

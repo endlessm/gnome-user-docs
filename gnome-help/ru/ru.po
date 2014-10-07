@@ -8,7 +8,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: GNOME User Documentation 3.2\n"
+"Project-Id-Version: Endless User Documentation 3.2\n"
 "POT-Creation-Date: 2014-02-22 08:52+0000\n"
 "PO-Revision-Date: 2014-02-22 15:32+0300\n"
 "Last-Translator: Stas Solovey <whats_up@tut.by>\n"
@@ -317,15 +317,15 @@ msgstr "Чтение экрана азбукой Брайля"
 #. (itstool) path: page/p
 #: C/a11y-braille.page:25
 msgid ""
-"GNOME provides the <app>Orca</app> screen reader to display the user "
+"Endless provides the <app>Orca</app> screen reader to display the user "
 "interface on a refreshable Braille display. Depending on how you installed "
-"GNOME, you might not have Orca installed. <link href=\"install:orca"
+"Endless, you might not have Orca installed. <link href=\"install:orca"
 "\">Install Orca</link>, then refer to the <link href=\"help:orca\">Orca "
 "Help</link> for more information."
 msgstr ""
-"GNOME предоставляет экранный диктор <app>Orca</app> для показа "
+"Endless предоставляет экранный диктор <app>Orca</app> для показа "
 "пользовательского интерфейса на обновляемом дисплее Брайля. В зависимости от "
-"способа установки GNOME на вашем компьютере Orca может быть не установлен. "
+"способа установки Endless на вашем компьютере Orca может быть не установлен. "
 "<link href=\"install:orca\">Установите Orca</link>, затем обратитесь к <link "
 "href=\"help:orca\">справке Orca</link> за дополнительной информацией."
 
@@ -720,12 +720,12 @@ msgstr "Специальные возможности"
 #. (itstool) path: page/p
 #: C/a11y.page:35
 msgid ""
-"The GNOME desktop includes assistive technologies to support users with "
+"The Endless desktop includes assistive technologies to support users with "
 "various impairments and special needs, and to interact with common assistive "
 "devices. An accessibility menu can be added to the top bar, giving easier "
 "access to many of the accessibility features."
 msgstr ""
-"Среда рабочего стола GNOME включает в себя вспомогательные технологии для "
+"Среда рабочего стола Endless включает в себя вспомогательные технологии для "
 "поддержки пользователей с различными физическими ограничениями и "
 "особенностями развития, а также для взаимодействия со вспомогательными "
 "устройствами. Меню специальных возможностей можно добавить на верхнюю "
@@ -914,13 +914,13 @@ msgstr "Чтение с экрана вслух"
 #. (itstool) path: page/p
 #: C/a11y-screen-reader.page:21
 msgid ""
-"GNOME provides the <app>Orca</app> screen reader to speak the user "
-"interface. Depending on how you installed GNOME, you might not have Orca "
+"Endless provides the <app>Orca</app> screen reader to speak the user "
+"interface. Depending on how you installed Endless, you might not have Orca "
 "installed. <link href=\"install:orca\">Install Orca</link>, then refer to "
 "the <link href=\"help:orca\">Orca Help</link> for more information."
 msgstr ""
-"GNOME предоставляет экранный диктор <app>Orca</app> для произнесения вслух "
-"пользовательского интерфейса. В зависимости от способа установки GNOME, Orca "
+"Endless предоставляет экранный диктор <app>Orca</app> для произнесения вслух "
+"пользовательского интерфейса. В зависимости от способа установки Endless, Orca "
 "может быть не установлен. <link href=\"install:orca\">Установите Orca</"
 "link>, затем обратитесь к <link href=\"help:orca\">справке Orca</link> за "
 "дополнительной информацией."
@@ -1254,8 +1254,8 @@ msgstr "Несколько советов по использования спр
 #: C/user-admin-problems.page:13 C/user-changepassword.page:14
 #: C/user-changepicture.page:13 C/user-delete.page:17
 #: C/user-goodpassword.page:12 C/video-dvd.page:14 C/video-sending.page:11
-msgid "GNOME Documentation Project"
-msgstr "Проект документирования GNOME"
+msgid "Endless Documentation Project"
+msgstr "Проект документирования Endless"
 
 #. (itstool) path: page/title
 #: C/about-this-guide.page:17
@@ -1333,8 +1333,8 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/about-this-guide.page:29
-msgid "-- The GNOME documentation team"
-msgstr "-- Проект документирования GNOME"
+msgid "-- The Endless documentation team"
+msgstr "-- Проект документирования Endless"
 
 #. (itstool) path: credit/name
 #: C/accounts-add.page:13 C/bluetooth-connect-device.page:17
@@ -1366,12 +1366,12 @@ msgstr "Добавление учётной записи"
 #. (itstool) path: page/p
 #: C/accounts-add.page:26
 msgid ""
-"Adding an account will help link your online accounts with your GNOME "
+"Adding an account will help link your online accounts with your Endless "
 "desktop. Thus, your email program, chat program and other related "
 "applications will be set up for you."
 msgstr ""
 "Добавление учётной записи поможет связать ваши сетевые учётные записи с "
-"рабочей средой GNOME. Как результат, вы получите автоматически "
+"рабочей средой Endless. Как результат, вы получите автоматически "
 "настроенныйпочтовый клиент, чат и другие соответствующие приложения."
 
 #. (itstool) path: item/p
@@ -1407,10 +1407,10 @@ msgstr ""
 #: C/accounts-add.page:46
 msgid ""
 "If you have entered your credentials correctly, you will be prompted to "
-"allow GNOME access to your online account. Authorize access to continue."
+"allow Endless access to your online account. Authorize access to continue."
 msgstr ""
 "Если идентификационная информация введена правильно, вам будет предложено "
-"разрешить GNOME доступ к сетевой учётной записи. Разрешите доступ, чтобы "
+"разрешить Endless доступ к сетевой учётной записи. Разрешите доступ, чтобы "
 "продолжить."
 
 #. (itstool) path: item/p
@@ -1437,12 +1437,12 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/accounts-add.page:62
 msgid ""
-"For security reasons, GNOME will not store your password on your computer. "
+"For security reasons, Endless will not store your password on your computer. "
 "Instead, it stores a token that is provided by the online service. If you "
 "want to fully revoke the link between your desktop and the online service, "
 "<link xref=\"accounts-remove\">remove</link> it."
 msgstr ""
-"В целях безопасности GNOME не хранит пароль на вашем компьютере. Вместо "
+"В целях безопасности Endless не хранит пароль на вашем компьютере. Вместо "
 "этого он хранит маркер доступа, предоставленный сетевым сервисом. Если вы "
 "хотите полностью разорвать связь между средой рабочего стола и сетевым "
 "сервисом, <link xref=\"accounts-remove\">удалите</link> его."
@@ -1538,12 +1538,12 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/accounts-create.page:63
 msgid ""
-"You need to grant GNOME access to your new account in order to use it with "
+"You need to grant Endless access to your new account in order to use it with "
 "<app>Online Accounts</app>."
 msgstr ""
 "Чтобы пользоваться новой сетевой учётной записью из приложения <app>Сетевые "
 "учётные записи</app>, необходимо разрешить к ней доступ из рабочей среды "
-"GNOME."
+"Endless."
 
 #. (itstool) path: item/p
 #: C/accounts-create.page:67
@@ -1713,10 +1713,10 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/accounts-remove.page:50
 msgid ""
-"To remove GNOME's access to the online account, you should revoke the access "
+"To remove Endless's access to the online account, you should revoke the access "
 "through the account's website or similar service."
 msgstr ""
-"Чтобы удалить доступ GNOME к сетевым учётным записям, нужно запретить доступ "
+"Чтобы удалить доступ Endless к сетевым учётным записям, нужно запретить доступ "
 "через веб-сайт, где зарегистрирована учётная запись или через "
 "аналогичныйсервис."
 
@@ -3950,10 +3950,10 @@ msgstr "Какие инструменты для измерения цвета �
 #. (itstool) path: page/p
 #: C/color-calibrationdevices.page:21
 msgid ""
-"GNOME relies on the Argyll color management system to support color "
+"Endless relies on the Argyll color management system to support color "
 "instruments. Thus the following display measuring instruments are supported:"
 msgstr ""
-"Для поддержки работы с измерительными инструментами в GNOME используется "
+"Для поддержки работы с измерительными инструментами в Endless используется "
 "система управления цветом Argyll. Благодаря ей поддерживаются следующие "
 "устройства:"
 
@@ -4495,10 +4495,10 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/color-testing.page:33
 msgid ""
-"GNOME comes with several profiles for testing that make it very clear when "
+"Endless comes with several profiles for testing that make it very clear when "
 "the profiles are being applied:"
 msgstr ""
-"GNOME поставляет несколько профилей для тестирования, результат применения "
+"Endless поставляет несколько профилей для тестирования, результат применения "
 "которых сразу заметен:"
 
 #. (itstool) path: item/title
@@ -6306,11 +6306,11 @@ msgstr "Документы"
 #. (itstool) path: page/p
 #: C/documents.page:37
 msgid ""
-"<app>Documents</app> is a GNOME application that lets you display, organize, "
+"<app>Documents</app> is an Endless application that lets you display, organize, "
 "and print the documents on your computer or those created remotely using "
 "<em>Google Docs</em> or <em>SkyDrive</em>."
 msgstr ""
-"<app>Документы</app> — это приложение GNOME, позволяющее просматривать, "
+"<app>Документы</app> — это приложение Endless, позволяющее просматривать, "
 "систематизировать и отправлять на печать документы, находящиеся локально на "
 "компьютере или созданные удалённо с помощью <em>Google Docs</em> или "
 "<em>SkyDrive</em>."
@@ -7508,11 +7508,11 @@ msgstr "Скрытие файла"
 #. (itstool) path: page/p
 #: C/files-hidden.page:24
 msgid ""
-"The GNOME file manager gives you the ability to hide and unhide files at "
+"The Endless file manager gives you the ability to hide and unhide files at "
 "your discretion. When a file is hidden, it isn't displayed by the file "
 "manager, but it's still there in its folder."
 msgstr ""
-"Файловый менеджер GNOME позволяет скрывать файлы и снова делать их видимыми "
+"Файловый менеджер Endless позволяет скрывать файлы и снова делать их видимыми "
 "по вашему желанию. Когда файл скрыт, он не отображается в менеджере файлов, "
 "хотя по-прежнему находится в своей папке."
 
@@ -8076,10 +8076,10 @@ msgstr "Переименование файла или папки"
 #. (itstool) path: page/p
 #: C/files-rename.page:32
 msgid ""
-"As with other file managers, you can use the GNOME file manager to change "
+"As with other file managers, you can use the Endless file manager to change "
 "the name of a file or folder."
 msgstr ""
-"Как и другие менеджеры файлов, менеджер файлов GNOME позволяет переименовать "
+"Как и другие менеджеры файлов, менеджер файлов Endless позволяет переименовать "
 "файл или папку."
 
 #. (itstool) path: steps/title
@@ -9015,11 +9015,11 @@ msgstr ""
 #: C/get-involved.page:37
 msgid ""
 "Your report will be given an ID number, and its status will be updated as it "
-"is being dealt with. Thanks for helping make the GNOME Help better!"
+"is being dealt with. Thanks for helping make the Endless Help better!"
 msgstr ""
 "Вашему отчёту будет присвоен идентификационный номер, и его статус будет "
 "обновляться по мере обработки отчёта. Спасибо за то, что помогаете сделать "
-"справку GNOME лучше!"
+"справку Endless лучше!"
 
 #. (itstool) path: section/title
 #: C/get-involved.page:43
@@ -9030,12 +9030,12 @@ msgstr "Свяжитесь с нами"
 #: C/get-involved.page:44
 msgid ""
 "You can send an <link href=\"mailto:gnome-doc-list@gnome.org\">email</link> "
-"to the GNOME docs mailing list to learn more about how to get involved with "
+"to the Endless docs mailing list to learn more about how to get involved with "
 "the documentation team."
 msgstr ""
 "Вы можете отправить <link href=\"mailto:gnome-doc-list@gnome.org"
 "\">сообщение</link> электронной почты в почтовую рассылку команды "
-"документирования GNOME, чтобы узнать больше о том, как принять участие в "
+"документирования Endless, чтобы узнать больше о том, как принять участие в "
 "работе этой команды."
 
 #. (itstool) path: credit/name
@@ -9046,29 +9046,29 @@ msgstr "Петр Ковар (Petr Kovar)"
 #. (itstool) path: info/desc
 #: C/gnome-classic.page:22
 msgid ""
-"Consider switching to GNOME Classic if you prefer a more traditional desktop "
+"Consider switching to Endless Classic if you prefer a more traditional desktop "
 "experience."
 msgstr ""
 "Если вы предпочитаете более работу в более традиционном графическом "
-"окружении, попробуйте переключиться на GNOME Classic."
+"окружении, попробуйте переключиться на Endless Classic."
 
 #. (itstool) path: page/title
 #: C/gnome-classic.page:26
-msgid "What is GNOME Classic?"
-msgstr "Что такое GNOME Classic?"
+msgid "What is Endless Classic?"
+msgstr "Что такое Endless Classic?"
 
 #. (itstool) path: when/p
 #: C/gnome-classic.page:30
 msgid ""
-"<em>GNOME Classic</em> is a feature for users who prefer a more traditional "
-"desktop experience. While <em>GNOME Classic</em> is based on <em>GNOME 3</"
+"<em>Endless Classic</em> is a feature for users who prefer a more traditional "
+"desktop experience. While <em>Endless Classic</em> is based on <em>Endless</"
 "em> technologies, it provides a number of changes to the user interface, "
 "such as the <gui>Applications</gui> and <gui>Places</gui> menus on the top "
 "bar, and a window list at the bottom of the screen."
 msgstr ""
-"<em>GNOME Classic</em> — это возможность для пользователей, предпочитающих "
-"более традиционный рабочий стол. Основанный на технологиях <em>GNOME 3</em>, "
-"<em>GNOME Classic</em> предоставляет в то же время некоторые изменения в "
+"<em>Endless Classic</em> — это возможность для пользователей, предпочитающих "
+"более традиционный рабочий стол. Основанный на технологиях <em>Endless</em>, "
+"<em>Endless Classic</em> предоставляет в то же время некоторые изменения в "
 "пользовательском интерфейсе, такие, как меню <gui>Приложения</gui> и <gui "
 "xref=\"shell-terminology\">Места</gui> на верхней панели, а также список "
 "окон в нижней части экрана."
@@ -9076,16 +9076,16 @@ msgstr ""
 #. (itstool) path: when/p
 #: C/gnome-classic.page:38
 msgid ""
-"<em>GNOME Classic</em> is a feature for users who prefer a more traditional "
-"desktop experience. While <em>GNOME Classic</em> is based on <em>GNOME 3</"
+"<em>Endless Classic</em> is a feature for users who prefer a more traditional "
+"desktop experience. While <em>Endless Classic</em> is based on <em>Endless</"
 "em> technologies, it provides a number of changes to the user interface, "
 "such as the <gui xref=\"shell-terminology\">Applications</gui> and <gui xref="
 "\"shell-terminology\">Places</gui> menus on the top bar, and a window list "
 "at the bottom of the screen."
 msgstr ""
-"<em>GNOME Classic</em> — это возможность для пользователей, предпочитающих "
-"более традиционный рабочий стол. Основанный на технологиях <em>GNOME 3</em>, "
-"<em>GNOME Classic</em> предоставляет в то же время некоторые изменения в "
+"<em>Endless Classic</em> — это возможность для пользователей, предпочитающих "
+"более традиционный рабочий стол. Основанный на технологиях <em>Endless</em>, "
+"<em>Endless Classic</em> предоставляет в то же время некоторые изменения в "
 "пользовательском интерфейсе, такие, как меню <gui xref=\"shell-terminology"
 "\">Приложения</gui> и <gui xref=\"shell-terminology\">Места</gui> на верхней "
 "панели, а также список окон в нижней части экрана."
@@ -9131,13 +9131,13 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/gnome-classic.page:61
 msgid ""
-"At the right-hand side of the window list, GNOME displays a short identifier "
+"At the right-hand side of the window list, Endless displays a short identifier "
 "for the current workspace, such as <gui>1</gui> for the first (top) "
 "workspace. In addition, the identifier also displays the total number of "
 "available workspaces. To switch to a different workspace, you can click the "
 "identifier and select the workspace you want to use from the menu."
 msgstr ""
-"На правой стороне списка окон GNOME показывает короткий идентификатор "
+"На правой стороне списка окон Endless показывает короткий идентификатор "
 "текущей рабочей области, например, <gui>1</gui> — для первой (верхней) "
 "рабочей области. Кроме того, идентификатор также показывает общее количество "
 "доступных рабочих областей. Чтобы переключиться на другую рабочую область, "
@@ -9158,24 +9158,24 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/gnome-classic.page:75
-msgid "Switch to and from GNOME Classic"
-msgstr "Переключение в GNOME Classic и обратно"
+msgid "Switch to and from Endless Classic"
+msgstr "Переключение в Endless Classic и обратно"
 
 #. (itstool) path: note/p
 #: C/gnome-classic.page:78
 msgid ""
-"GNOME Classic is only available on systems with certain GNOME Shell "
+"Endless Classic is only available on systems with certain Endless Shell "
 "extensions installed. Some Linux distributions may not have these extensions "
 "available or installed by default."
 msgstr ""
-"GNOME Classic доступен только на системах, где установлены определённые "
-"расширения GNOME Shell. В некоторых дистрибутивах Linux эти расширения могут "
+"Endless Classic доступен только на системах, где установлены определённые "
+"расширения Endless Shell. В некоторых дистрибутивах Linux эти расширения могут "
 "быть недоступны или не установлены по умолчанию."
 
 #. (itstool) path: steps/title
 #: C/gnome-classic.page:84
-msgid "To switch from <em>GNOME</em> to <em>GNOME Classic</em>:"
-msgstr "Чтобы переключиться из <em>GNOME</em> на <em>GNOME Classic</em>:"
+msgid "To switch from <em>Endless</em> to <em>Endless Classic</em>:"
+msgstr "Чтобы переключиться из <em>Endless</em> на <em>Endless Classic</em>:"
 
 #. (itstool) path: item/p
 #: C/gnome-classic.page:86 C/gnome-classic.page:111
@@ -9209,9 +9209,9 @@ msgstr "Введите свой пароль в поле ввода пароля
 #: C/gnome-classic.page:100
 msgid ""
 "Click the options icon, which is displayed to the left of the <gui>Sign In</"
-"gui> button, and select <gui>GNOME Classic</gui>."
+"gui> button, and select <gui>Endless Classic</gui>."
 msgstr ""
-"Нажмите на кнопку <gui>Войти</gui> и выберите <gui>GNOME Classic</gui>."
+"Нажмите на кнопку <gui>Войти</gui> и выберите <gui>Endless Classic</gui>."
 
 #. (itstool) path: item/p
 #: C/gnome-classic.page:104 C/gnome-classic.page:129
@@ -9220,17 +9220,17 @@ msgstr "Нажмите кнопку <gui>Войти</gui>."
 
 #. (itstool) path: steps/title
 #: C/gnome-classic.page:109
-msgid "To switch from <em>GNOME Classic</em> to <em>GNOME</em>:"
-msgstr "Чтобы переключиться с <em>GNOME Classic</em> на <em>GNOME</em>:"
+msgid "To switch from <em>Endless Classic</em> to <em>Endless</em>:"
+msgstr "Чтобы переключиться с <em>Endless Classic</em> на <em>Endless</em>:"
 
 #. (itstool) path: item/p
 #: C/gnome-classic.page:125
 msgid ""
 "Click the options icon, which is displayed to the left of the <gui>Sign In</"
-"gui> button, and select <gui>GNOME</gui>."
+"gui> button, and select <gui>Endless</gui>."
 msgstr ""
 "Нажмите на значок параметров слева от кнопки <gui>Войти</gui> и выберите "
-"<gui>GNOME</gui>."
+"<gui>Endless</gui>."
 
 #. (itstool) path: info/desc
 #: C/hardware-auth.page:13
@@ -9488,21 +9488,21 @@ msgstr "IRC"
 #: C/help-irc.page:19
 msgid ""
 "IRC stands for Internet Relay Chat. It is a real-time multi-user messaging "
-"system. You can get help and advice on the GNOME IRC server from other GNOME "
+"system. You can get help and advice on the Endless IRC server from other Endless "
 "users and developers."
 msgstr ""
 "IRC — это сокращение от Internet Relay Chat. Это многопользовательская "
 "система обмена сообщениями в реальном времени. Вы можете получить справку и "
-"совет на IRC-сервере GNOME от других пользователей и разработчиков GNOME."
+"совет на IRC-сервере Endless от других пользователей и разработчиков Endless."
 
 #. (itstool) path: page/p
 #: C/help-irc.page:24
 msgid ""
-"To connect to the GNOME IRC server, use <app>empathy</app> or <app>xchat</"
+"To connect to the Endless IRC server, use <app>empathy</app> or <app>xchat</"
 "app>, or use a web interface like <link href=\"http://chat.mibbit.com/"
 "\">mibbit</link>."
 msgstr ""
-"Для подключения к IRC-серверу GNOME используйте <app>empathy</app> или "
+"Для подключения к IRC-серверу Endless используйте <app>empathy</app> или "
 "<app>xchat</app>, либо воспользуйтесь таким веб-интерфейсом, как <link href="
 "\"http://chat.mibbit.com/\">mibbit</link>."
 
@@ -9518,12 +9518,12 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/help-irc.page:32
 msgid ""
-"The GNOME IRC server is <sys>irc.gnome.org</sys>. You may also see it "
+"The Endless IRC server is <sys>irc.gnome.org</sys>. You may also see it "
 "referred to as the \"GIMP network\". If your computer is properly configured "
 "you can click on the link <link href=\"irc://irc.gnome.org/gnome\"/> to "
 "access the <sys>gnome</sys> channel."
 msgstr ""
-"Адрес IRC-сервера GNOME: <sys>irc.gnome.org</sys>. Его ещё иногда называют "
+"Адрес IRC-сервера Endless: <sys>irc.gnome.org</sys>. Его ещё иногда называют "
 "«сетью GIMP». Если ваш компьютер правильно настроен, можете нажать на ссылку "
 "<link href=\"irc://irc.gnome.org/gnome\"/>, чтобы получить доступ к каналу "
 "<sys>gnome</sys>."
@@ -9540,11 +9540,11 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/help-irc.page:41
 msgid ""
-"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">GNOME "
+"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">Endless "
 "code of conduct</link> applies when you chat on IRC."
 msgstr ""
 "Обратите внимание, что <link href=\"https://live.gnome.org/CodeOfConduct/"
-"\">GNOME code of conduct</link> (кодекс поведения GNOME) применим и к "
+"\">Endless code of conduct</link> (кодекс поведения Endless) применим и к "
 "общению в IRC."
 
 #. (itstool) path: info/desc
@@ -9561,13 +9561,13 @@ msgstr "Почтовая рассылка"
 #: C/help-mailing-list.page:28
 msgid ""
 "Mailing lists are email based discussions. You can ask for support using the "
-"GNOME mailing lists. Almost each GNOME application has its own mailing list. "
+"Endless mailing lists. Almost each Endless application has its own mailing list. "
 "The complete list of mailing-lists are listed at <link href=\"http://mail."
 "gnome.org/mailman/listinfo\"/>."
 msgstr ""
 "Почтовые рассылки — это дискуссии, ведущиеся по электронной почте. Вы можете "
-"попросить поддержки с помощью почтовой рассылки GNOME. Почти любое "
-"приложение GNOME имеет собственную почтовую рассылку. Полный список почтовых "
+"попросить поддержки с помощью почтовой рассылки Endless. Почти любое "
+"приложение Endless имеет собственную почтовую рассылку. Полный список почтовых "
 "рассылок содержится на <link href=\"http://mail.gnome.org/mailman/listinfo\"/"
 ">."
 
@@ -9594,20 +9594,20 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/index.page:7
-msgid "A guide for GNOME 3 desktop users"
-msgstr "Руководство для пользователей среды рабочего стола GNOME 3"
+msgid "A guide for Endless desktop users"
+msgstr "Руководство для пользователей среды рабочего стола Endless"
 
 #. (itstool) path: info/title
 #: C/index.page:9
 msgctxt "link"
-msgid "GNOME Help"
-msgstr "Справка GNOME"
+msgid "Endless Help"
+msgstr "Справка Endless"
 
 #. (itstool) path: info/title
 #: C/index.page:10
 msgctxt "text"
-msgid "GNOME Help"
-msgstr "Справка GNOME"
+msgid "Endless Help"
+msgstr "Справка Endless"
 
 #. (itstool) path: media/span
 #: C/index.page:11
@@ -9621,8 +9621,8 @@ msgstr "Логотип Yelp"
 
 #. (itstool) path: page/title
 #: C/index.page:16
-msgid "<_:media-1/> GNOME Help"
-msgstr "<_:media-1/> Справка GNOME"
+msgid "<_:media-1/> Endless Help"
+msgstr "<_:media-1/> Справка Endless"
 
 #. (itstool) path: info/desc
 #: C/keyboard-cursor-blink.page:11
@@ -11527,11 +11527,11 @@ msgstr "Наверху можно выбрать один из трёх вари
 #: C/look-background.page:71
 msgid ""
 "Select <gui>Wallpapers</gui> to use one of the many professional background "
-"images that ship with GNOME. Some wallpapers change throughout the day. "
+"images that ship with Endless. Some wallpapers change throughout the day. "
 "These wallpapers have a small clock icon in the bottom-right corner."
 msgstr ""
 "Выберите <gui>Обои</gui>, чтобы использовать одно из профессиональных "
-"фоновых изображений, поставляющихся вместе с GNOME. Некоторые обои меняются "
+"фоновых изображений, поставляющихся вместе с Endless. Некоторые обои меняются "
 "в течение дня. Такие обои имеют маленький значок часов в нижнем правом углу."
 
 #. (itstool) path: item/p
@@ -14982,8 +14982,8 @@ msgstr ""
 
 #. (itstool) path: credit/name
 #: C/net-email.page:19 C/net-general.page:22
-msgid "The GNOME Documentation Project"
-msgstr "Проект документирования GNOME"
+msgid "The Endless Documentation Project"
+msgstr "Проект документирования Endless"
 
 #. (itstool) path: page/title
 #: C/net-email.page:23
@@ -21089,11 +21089,11 @@ msgstr "Параметры конфиденциальности"
 #. (itstool) path: page/p
 #: C/privacy.page:27
 msgid ""
-"The <em>Privacy Settings</em> in GNOME help you control whether or not "
+"The <em>Privacy Settings</em> in Endless help you control whether or not "
 "certain parts of your desktop are visible to others. You can also use these "
 "settings to clear your computer usage history and clean-out unecessary files."
 msgstr ""
-"<em>Настройки конфиденциальности</em> в GNOME помогают контролировать "
+"<em>Настройки конфиденциальности</em> в Endless помогают контролировать "
 "видимость определённых элементов вашего рабочего стола для посторонних. Эти "
 "настройки также могут пригодиться для очистки журнала использования и "
 "удаления ненужных файлов."
@@ -21933,10 +21933,10 @@ msgstr "Параметры общего доступа"
 #. (itstool) path: page/p
 #: C/settings-sharing.page:25
 msgid ""
-"The <em>Sharing Settings</em> in GNOME help you control what is shared over "
+"The <em>Sharing Settings</em> in Endless help you control what is shared over "
 "the local network, or through other technologies such as <em>Bluetooth</em>."
 msgstr ""
-"<em>Параметры общего доступа</em> в GNOME помогают контролировать общие "
+"<em>Параметры общего доступа</em> в Endless помогают контролировать общие "
 "ресурсы в локальной сети, а также общие ресурсы, доступ к которым "
 "реализуется с помощью других технологий, например, <em>Bluetooth</em>."
 
@@ -22765,13 +22765,13 @@ msgstr "Ждущий режим"
 #: C/shell-exit.page:103
 msgid ""
 "To save power, suspend your computer when you are not using it. If you use a "
-"laptop, GNOME suspends your computer automatically when you close the lid. "
+"laptop, Endless suspends your computer automatically when you close the lid. "
 "This saves your state to your computer's memory and powers off most of the "
 "computer's functions. A very small amount of power is still used during "
 "suspend."
 msgstr ""
 "Если компьютер не используется, для экономии энергии включайте спящий режим. "
-"На переносных компьютерах GNOME включает этот режим автоматически при "
+"На переносных компьютерах Endless включает этот режим автоматически при "
 "закрытии крышки. Таким образом слепок состояния системы сохраняется в памяти "
 "компьютера, и одновременно перестают потреблять энергию большинство функций "
 "компьютера. В спящем режиме, тем не менее, небольшое количество энергии "
@@ -22991,17 +22991,17 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/shell-introduction.page:32
-msgid "Introduction to GNOME"
-msgstr "Введение в GNOME"
+msgid "Introduction to Endless"
+msgstr "Введение в Endless"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:34
 msgid ""
-"GNOME 3 features a completely reimagined user interface designed to stay out "
+"Endless features a completely reimagined user interface designed to stay out "
 "of your way, minimize distractions, and help you get things done. When you "
 "first log in, you will see an empty desktop and the top bar."
 msgstr ""
-"GNOME 3 представляет полностью переработанный интерфейс пользователя, "
+"Endless представляет полностью переработанный интерфейс пользователя, "
 "созданный для обеспечения удобной рабочей среды и минимизации отвлекающих "
 "факторов, что позволяет вам выполнять работу более эффективно. При первом "
 "входе в систему вы увидите пустой рабочий стол и панель в верхней части "
@@ -23009,8 +23009,8 @@ msgstr ""
 
 #. (itstool) path: media/p
 #: C/shell-introduction.page:41 C/shell-introduction.page:46
-msgid "GNOME shell top bar"
-msgstr "Верхняя панель GNOME Shell"
+msgid "Endless shell top bar"
+msgstr "Верхняя панель Endless Shell"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:51
@@ -23319,11 +23319,11 @@ msgstr "Список окон"
 #. (itstool) path: when/p
 #: C/shell-introduction.page:292
 msgid ""
-"GNOME features a different approach to switching windows than a permanently "
+"Endless features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus "
 "on the task at hand without distractions."
 msgstr ""
-"GNOME представляет другой подход к переключению окон, отличный от постоянно "
+"Endless представляет другой подход к переключению окон, отличный от постоянно "
 "видимого списка окон в других графических средах, и позволяет полностью "
 "сосредоточиться на текущих задачах."
 
@@ -23338,13 +23338,13 @@ msgstr ""
 #. (itstool) path: when/p
 #: C/shell-introduction.page:309
 msgid ""
-"At the right-hand side of the window list, GNOME displays a short identifier "
+"At the right-hand side of the window list, Endless displays a short identifier "
 "for the current worskpace, such as <gui>1</gui> for the first (top) "
 "workspace. In addition, the identifier also displays the total number of "
 "available workspaces. To switch to a different workspace, you can click the "
 "identifier and select the workspace you want to use from the menu."
 msgstr ""
-"На правой стороне списка окон GNOME показывает короткий идентификатор "
+"На правой стороне списка окон Endless показывает короткий идентификатор "
 "текущей рабочей области, например, <gui>1</gui> — для первой (верхней) "
 "рабочей области. Кроме того, идентификатор также показывает общее количество "
 "доступных рабочих областей. Чтобы переключиться на другую рабочую область, "
@@ -24397,11 +24397,11 @@ msgstr "Перемещение и изменение размера окон."
 #: C/shell-windows-states.page:25
 msgid ""
 "You can move and resize windows to help you work more efficiently. In "
-"addition to the dragging behavior you might expect, GNOME features shortcuts "
+"addition to the dragging behavior you might expect, Endless features shortcuts "
 "and modifiers to help you arrange windows quickly."
 msgstr ""
 "В целях более эффективной работы можно перемещать окна и изменять их размер. "
-"Для быстрой сортировки окон, кроме операций перетаскивания, в GNOME можно "
+"Для быстрой сортировки окон, кроме операций перетаскивания, в Endless можно "
 "использовать комбинации клавиш и клавиши-модификаторы."
 
 #. (itstool) path: item/p
@@ -24651,12 +24651,12 @@ msgstr "Окна и рабочие места"
 #. (itstool) path: page/p
 #: C/shell-windows.page:23
 msgid ""
-"Like other desktops, GNOME uses windows to display your running "
+"Like other desktops, Endless uses windows to display your running "
 "applications. Using both the <gui>Activities</gui> overview and the "
 "<gui>dash</gui>, you can launch new applications and control active windows."
 msgstr ""
 "Как и в других графических рабочих средах, для показа запущенных приложений "
-"в GNOME используются окна. Используя и окно <gui>Обзора</gui> и <gui>боковую "
+"в Endless используются окна. Используя и окно <gui>Обзора</gui> и <gui>боковую "
 "панель</gui>, можно запускать новые приложения и управлять активными окнами."
 
 #. (itstool) path: page/p
@@ -25746,16 +25746,16 @@ msgstr "Что означают значки на верхней панели?"
 msgid ""
 "This section explains the meaning of icons located on the top right corner "
 "of the screen. More specifically, the different variations of the icons "
-"provided by the GNOME interface are described."
+"provided by the Endless interface are described."
 msgstr ""
 "В этом разделе поясняется значение значков, расположенных в верхнем правом "
 "углу экрана, в частности, описываются различные варианты значков, "
-"представленных в интерфейсе GNOME."
+"представленных в интерфейсе Endless."
 
 #. (itstool) path: media/p
 #: C/status-icons.page:29 C/status-icons.page:35
-msgid "GNOME Shell top bar"
-msgstr "Верхняя панель GNOME Shell"
+msgid "Endless Shell top bar"
+msgstr "Верхняя панель Endless Shell"
 
 #. (itstool) path: section/title
 #: C/status-icons.page:43
@@ -26075,11 +26075,11 @@ msgstr "Таблица символов"
 #. (itstool) path: section/p
 #: C/tips-specialchars.page:43
 msgid ""
-"GNOME comes with a character map application that allows you to browse all "
+"Endless comes with a character map application that allows you to browse all "
 "the characters in Unicode. Use the character map to find the character you "
 "want, and then copy and paste it to wherever you need it."
 msgstr ""
-"В состав GNOME входит приложение «Таблица символов», позволяющая просмотреть "
+"В состав Endless входит приложение «Таблица символов», позволяющая просмотреть "
 "все символы в кодировке Unicode. Найдите в таблице нужный символ, а затем "
 "скопируйте его и вставьте туда, где он нужен."
 
@@ -26324,10 +26324,10 @@ msgstr "Участие в улучшении перевода"
 #. (itstool) path: page/p
 #: C/translate.page:29
 msgid ""
-"GNOME's help is being translated by a world-wide volunteer community. You "
+"Endless's help is being translated by a world-wide volunteer community. You "
 "are welcome to participate."
 msgstr ""
-"Справка GNOME переводится сообществом добровольцев со всего мира. Вы тоже "
+"Справка Endless переводится сообществом добровольцев со всего мира. Вы тоже "
 "можете принять в этом участие."
 
 #. (itstool) path: page/p
@@ -26355,13 +26355,13 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/translate.page:43
 msgid ""
-"You can chat with GNOME translators by joining the #i18n channel on the "
-"<link xref=\"help-irc\">GNOME IRC server</link>. People on the channel are "
+"You can chat with Endless translators by joining the #i18n channel on the "
+"<link xref=\"help-irc\">Endless IRC server</link>. People on the channel are "
 "located worldwide, so you may not get an immediate response as a result of "
 "timezone differences."
 msgstr ""
-"Пообщаться с переводчиками GNOME можно на канале #i18n сервера <link xref="
-"\"help-irc\">GNOME IRC</link>. Участники этого канала живут в разных странах "
+"Пообщаться с переводчиками Endless можно на канале #i18n сервера <link xref="
+"\"help-irc\">Endless IRC</link>. Участники этого канала живут в разных странах "
 "мира, поэтому, из-за разницы в часовых поясах, немедленный ответ не "
 "гарантируется."
 
@@ -26549,12 +26549,12 @@ msgstr ""
 msgid ""
 "In the <gui>Users</gui> panel, you can click the image next to the user's "
 "name to the right to set an image for the account. This image will be shown "
-"in the login window. GNOME provides some stock photos you can use, or you "
+"in the login window. Endless provides some stock photos you can use, or you "
 "can select your own or take a picture with your webcam."
 msgstr ""
 "В окне <gui>Пользователи</gui> можно нажать на изображение рядом с именем "
 "пользователя, чтобы выбрать изображение для учётной записи. Оно будет "
-"показано в окне входа в систему. GNOME предоставляет несколько стандартных "
+"показано в окне входа в систему. Endless предоставляет несколько стандартных "
 "изображений, но можно также выбрать своё или сделать снимок веб-камерой."
 
 #. (itstool) path: info/desc

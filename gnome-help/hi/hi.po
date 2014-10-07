@@ -117,7 +117,7 @@ msgstr ""
 #: C/backup-check.page:11(name)
 #: C/backup-check.page:31(cite)
 #: C/about-this-guide.page:12(name)
-msgid "GNOME Documentation Project"
+msgid "Endless Documentation Project"
 msgstr "ग्नोम प्रलेखन परियोजना"
 
 #: C/windows-key.page:11(email)
@@ -1642,7 +1642,7 @@ msgid "If you choose <gui>Set a password now</gui>, have the user type their pas
 msgstr ""
 
 #: C/user-add.page:57(p)
-msgid "If you like, you can click the image next to the user's name on the right to set an image for the account. This image will be shown in the login window. GNOME provides some stock photos you can use, or you can select your own or take a picture with your webcam."
+msgid "If you like, you can click the image next to the user's name on the right to set an image for the account. This image will be shown in the login window. Endless provides some stock photos you can use, or you can select your own or take a picture with your webcam."
 msgstr ""
 
 #: C/user-addguest.page:7(desc)
@@ -1670,7 +1670,7 @@ msgid "The new guest user account will be selected. Under <gui>Login Options</gu
 msgstr ""
 
 #: C/user-addguest.page:51(p)
-msgid "If you like, you can click the image next to the guest user's name on the right to set an image for the account. This image will be shown in the login window. GNOME provides some stock photos you can use, or you can select your own or take a picture with your webcam."
+msgid "If you like, you can click the image next to the guest user's name on the right to set an image for the account. This image will be shown in the login window. Endless provides some stock photos you can use, or you can select your own or take a picture with your webcam."
 msgstr ""
 
 #: C/user-accounts.page:7(desc)
@@ -1722,7 +1722,7 @@ msgid "Character map"
 msgstr ""
 
 #: C/tips-specialchars.page:40(p)
-msgid "GNOME comes with a character map application that allows you to browse all the characters in Unicode. Use the character map to find the character you want, and then copy and paste it to wherever you need it."
+msgid "Endless comes with a character map application that allows you to browse all the characters in Unicode. Use the character map to find the character you want, and then copy and paste it to wherever you need it."
 msgstr ""
 
 #: C/tips-specialchars.page:43(p)
@@ -2551,7 +2551,7 @@ msgid "When you're marked busy, most notifications will not pop up at the bottom
 msgstr ""
 
 #: C/shell-session-status.page:36(p)
-msgid "If you use GNOME's built-in instant messaging features, this will also change your availability to your chat contacts, so they know not to disturb you."
+msgid "If you use Endless's built-in instant messaging features, this will also change your availability to your chat contacts, so they know not to disturb you."
 msgstr ""
 
 #: C/shell-overview.page:9(title)
@@ -2845,7 +2845,7 @@ msgid "A visual introduction to your desktop, the top bar, and the activities ov
 msgstr ""
 
 #: C/shell-introduction.page:22(title)
-msgid "Introduction to GNOME"
+msgid "Introduction to Endless"
 msgstr ""
 
 #: C/shell-introduction.page:26(p)
@@ -2853,11 +2853,11 @@ msgid "Add a section on messages for 3.0.1"
 msgstr ""
 
 #: C/shell-introduction.page:29(p)
-msgid "GNOME 3 features a completely reimagined user interface designed to stay out of your way, minimize distractions, and help you get things done. When you first log in, you will see an empty desktop and the top bar."
+msgid "Endless features a completely reimagined user interface designed to stay out of your way, minimize distractions, and help you get things done. When you first log in, you will see an empty desktop and the top bar."
 msgstr ""
 
 #: C/shell-introduction.page:35(p)
-msgid "GNOME shell top bar"
+msgid "Endless shell top bar"
 msgstr ""
 
 #: C/shell-introduction.page:38(p)
@@ -3002,7 +3002,7 @@ msgid "Suspend, shut down, or restart."
 msgstr ""
 
 #: C/shell-exit.page:66(p)
-msgid "To save power, turn off your computer when you aren't using it. By default, GNOME simply suspends your computer. This saves your state to your computer's memory and powers off most of your computer's functions. A very small amount of power is still used during suspend."
+msgid "To save power, turn off your computer when you aren't using it. By default, Endless simply suspends your computer. This saves your state to your computer's memory and powers off most of your computer's functions. A very small amount of power is still used during suspend."
 msgstr ""
 
 #: C/shell-exit.page:71(p)
@@ -3363,7 +3363,7 @@ msgstr ""
 #: C/disk-check.page:11(name)
 #: C/disk-capacity.page:11(name)
 #: C/disk-benchmark.page:11(name)
-msgid "GNOME Documentation Team"
+msgid "Endless Documentation Team"
 msgstr ""
 
 #: C/printing-streaks.page:20(title)
@@ -5626,7 +5626,7 @@ msgid "Firewall port list"
 msgstr ""
 
 #: C/net-firewall-ports.page:19(p)
-msgid "The following table lists ports used by your system's firewall to <link xref=\"net-firewall-on-off\">block or allow access</link> to GNOME programs over the network. There are thousands of ports in use, so this table isn't complete. Instead, it presents some of the most common ports you may want to configure on your system. In some cases, the vendor of your GNOME desktop may have pre-configured access to these ports when the system was installed."
+msgid "The following table lists ports used by your system's firewall to <link xref=\"net-firewall-on-off\">block or allow access</link> to Endless programs over the network. There are thousands of ports in use, so this table isn't complete. Instead, it presents some of the most common ports you may want to configure on your system. In some cases, the vendor of your Endless desktop may have pre-configured access to these ports when the system was installed."
 msgstr ""
 
 #: C/net-firewall-ports.page:25(p)
@@ -5720,7 +5720,7 @@ msgid "Your system may be equipped with a firewall that allows it to block progr
 msgstr ""
 
 #: C/net-firewall-on-off.page:21(p)
-msgid "Many GNOME programs are built to offer network services. For instance, you can share content, or let someone view your desktop remotely. Depending on how you installed GNOME, you may need to adjust the firewall to allow these services to work as intended. For instance, if your GNOME desktop was installed along with a larger software distribution, the firewall may also be pre-configured by the vendor."
+msgid "Many Endless programs are built to offer network services. For instance, you can share content, or let someone view your desktop remotely. Depending on how you installed Endless, you may need to adjust the firewall to allow these services to work as intended. For instance, if your Endless desktop was installed along with a larger software distribution, the firewall may also be pre-configured by the vendor."
 msgstr ""
 
 #: C/net-firewall-on-off.page:22(p)
@@ -6639,7 +6639,7 @@ msgid "Enter the server address, select the type of server, and enter any additi
 msgstr ""
 
 #: C/nautilus-connect.page:44(p)
-msgid "For servers on the internet, you can usually use the domain name. For computers on your local area network, however, you may have to use the computer's numeric IP address. If the other computer is running GNOME, see <link xref=\"net-findip\"/> to find that computer's internal IP address. Otherwise, check the help on that computer."
+msgid "For servers on the internet, you can usually use the domain name. For computers on your local area network, however, you may have to use the computer's numeric IP address. If the other computer is running Endless, see <link xref=\"net-findip\"/> to find that computer's internal IP address. Otherwise, check the help on that computer."
 msgstr ""
 
 #: C/nautilus-connect.page:50(p)
@@ -7286,7 +7286,7 @@ msgid "On the <gui>Touchpad</gui> tab, select <gui>Disable touchpad while typing
 msgstr ""
 
 #: C/mouse-disabletouchpad.page:36(p)
-msgid "I repurposed this page. It used to just be how to disable your touchpad entirely. Phil had some instructions on how to do this in gconf-editor, as well as how to trigger an auto-disable when you plugged in your mouse. GConf instructions are outdated for GNOME 3. We could resurrect and make current the old stuff, but as maybe a tip or advanced topics. Check git history."
+msgid "I repurposed this page. It used to just be how to disable your touchpad entirely. Phil had some instructions on how to do this in gconf-editor, as well as how to trigger an auto-disable when you plugged in your mouse. GConf instructions are outdated for Endless. We could resurrect and make current the old stuff, but as maybe a tip or advanced topics. Check git history."
 msgstr ""
 
 #: C/mouse.page:7(desc)
@@ -7505,7 +7505,7 @@ msgid "There are three choices in the drop-down list on the left."
 msgstr ""
 
 #: C/look-background.page:48(p)
-msgid "Select <gui>Wallpapers</gui> to use one of the many professional background images that ship with GNOME. Some wallpapers are partially transparent and allow a background color to show through. For these wallpapers, there will be a color selector button in the bottom right."
+msgid "Select <gui>Wallpapers</gui> to use one of the many professional background images that ship with Endless. Some wallpapers are partially transparent and allow a background color to show through. For these wallpapers, there will be a color selector button in the bottom right."
 msgstr ""
 
 #: C/look-background.page:52(p)
@@ -7766,7 +7766,7 @@ msgid "If you are requesting help about a topic that you feel is not covered, ch
 msgstr ""
 
 #: C/get-involved.page:34(p)
-msgid "Your report will be given an ID number, and its status will be updated as it is being dealt with. Thanks for helping make the GNOME Help better!"
+msgid "Your report will be given an ID number, and its status will be updated as it is being dealt with. Thanks for helping make the Endless Help better!"
 msgstr ""
 
 #: C/files-tilde.page:7(desc)
@@ -8714,7 +8714,7 @@ msgid "What is fallback mode?"
 msgstr ""
 
 #: C/fallback-mode.page:21(p)
-msgid "If your computer's graphics card doesn't support certain features, a more basic version of the desktop will be displayed and you will see a message telling you what happened. This is called <em>fallback mode</em>, and it allows you to use GNOME on your computer without some of its more advanced features."
+msgid "If your computer's graphics card doesn't support certain features, a more basic version of the desktop will be displayed and you will see a message telling you what happened. This is called <em>fallback mode</em>, and it allows you to use Endless on your computer without some of its more advanced features."
 msgstr ""
 
 #: C/fallback-mode.page:23(p)
@@ -8722,7 +8722,7 @@ msgid "Most of the features that are missing in fallback mode are related to org
 msgstr ""
 
 #: C/fallback-mode.page:25(p)
-msgid "Starting in fallback mode doesn't necessarily mean that your graphics card isn't good enough to run GNOME - it might just mean that you don't have the right drivers installed for your graphics card. If you can find better graphics card drivers for your computer, you may be able to run the full version of GNOME."
+msgid "Starting in fallback mode doesn't necessarily mean that your graphics card isn't good enough to run Endless - it might just mean that you don't have the right drivers installed for your graphics card. If you can find better graphics card drivers for your computer, you may be able to run the full version of Endless."
 msgstr ""
 
 #: C/display-lock.page:10(desc)
@@ -9681,7 +9681,7 @@ msgid "Thank you for taking the time to read the <em>Desktop Help Guide</em>. We
 msgstr ""
 
 #: C/about-this-guide.page:32(p)
-msgid "-- The GNOME documentation team"
+msgid "-- The Endless documentation team"
 msgstr ""
 
 #: C/a11y-visualalert.page:16(desc)
@@ -9791,7 +9791,7 @@ msgid "Read screen aloud"
 msgstr ""
 
 #: C/a11y-screen-reader.page:21(p)
-msgid "GNOME provides the <app>Orca</app> screen reader to speak the user interface. Depending on how you installed GNOME, you might not have Orca installed. <link href=\"install:orca\">Install Orca</link>, then refer to the <link href=\"ghelp:orca\">Orca Help</link> for more information."
+msgid "Endless provides the <app>Orca</app> screen reader to speak the user interface. Depending on how you installed Endless, you might not have Orca installed. <link href=\"install:orca\">Install Orca</link>, then refer to the <link href=\"ghelp:orca\">Orca Help</link> for more information."
 msgstr ""
 
 #: C/a11y-screen-reader.page:29(p)
@@ -9828,7 +9828,7 @@ msgid "Universal access"
 msgstr ""
 
 #: C/a11y.page:27(p)
-msgid "The GNOME desktop includes assistive technologies to support users with various impairments and special needs, and to interact with common assistive devices. Many accessibility features can be accessed from the accessibility menu in the top bar."
+msgid "The Endless desktop includes assistive technologies to support users with various impairments and special needs, and to interact with common assistive devices. Many accessibility features can be accessed from the accessibility menu in the top bar."
 msgstr ""
 
 #: C/a11y.page:33(title)
@@ -10072,7 +10072,7 @@ msgid "Read screen in Braille"
 msgstr ""
 
 #: C/a11y-braille.page:22(p)
-msgid "GNOME provides the <app>Orca</app> screen reader to display the user interface on a refreshable Braille display. Depending on how you installed GNOME, you might not have Orca installed. <link href=\"install:orca\">Install Orca</link>, then refer to the <link href=\"ghelp:orca\">Orca Help</link> for more information."
+msgid "Endless provides the <app>Orca</app> screen reader to display the user interface on a refreshable Braille display. Depending on how you installed Endless, you might not have Orca installed. <link href=\"install:orca\">Install Orca</link>, then refer to the <link href=\"ghelp:orca\">Orca Help</link> for more information."
 msgstr ""
 
 #: C/a11y-bouncekeys.page:21(desc)

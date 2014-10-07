@@ -32,11 +32,11 @@ error: Failed dependencies:
 
 <title>Account Access and Data Privacy</title>
 
-<p>The accounts and services that you have defined in <app>Online Accounts</app> are shared with several GNOME applications so you only have to enter your data once at the beginning, in a single place. Currently your data is automatically used by <app>Contacts</app>, <app>Documents</app>, <app>Empathy</app>, <app>Evolution</app> as well as the calendar drop-down at the top of <app>GNOME Shell</app>.</p>
+<p>The accounts and services that you have defined in <app>Online Accounts</app> are shared with several Endless applications so you only have to enter your data once at the beginning, in a single place. Currently your data is automatically used by <app>Contacts</app>, <app>Documents</app>, <app>Empathy</app>, <app>Evolution</app> as well as the calendar drop-down at the top of <app>Endless Shell</app>.</p>
 
 <!-- TODO: Can any randomly installed (malicious) application access my username/password via the Dbus interface (if it's a DBus interface)? -->
 
-<p>Your credentials are securely stored in <gui>GNOME Keyring</gui>.</p>
+<p>Your credentials are securely stored in <gui>Endless Keyring</gui>.</p>
 
 <!-- TODO: The entire token? Missing enough technical background here -->
 

@@ -35,8 +35,8 @@
    add (or remove).</p></item>
   <item><p>Your account provider may ask for your permission for a third party
    user to access your account and ask you to sign in to your account. You may
-   be informed what information the GNOME application wishes to access. Allow
-   GNOME to access your account.</p></item>
+   be informed what information the Endless application wishes to access. Allow
+   Endless to access your account.</p></item>
   <item><p>You may now be asked to unlock your keyring, if it is not already
    unlocked. When you have done this a window will appear telling you that an
    online account needs your attention. Open the online account and login. Your
@@ -50,7 +50,7 @@
    steps: create a free online account such as Gmail, Hotmail, Yahoo etc. Export
    your address book from the application and import it into your online account
    following the provider's instructions. Import your online account into
-   <gui>GNOME Contacts</gui>. You will then have all your contacts available.</p>
+   <gui>Endless Contacts</gui>. You will then have all your contacts available.</p>
 </note>
 
 </page>

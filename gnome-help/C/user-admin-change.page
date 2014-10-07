@@ -11,7 +11,7 @@
     <revision pkgversion="3.10" date="2013-11-01" status="review"/>
 
     <credit type="author">
-      <name>GNOME Documentation Project</name>
+      <name>Endless Documentation Project</name>
       <email its:translate="no">gnome-doc-list@gnome.org</email>
     </credit>
     <credit type="editor">
@@ -67,7 +67,7 @@
   </note>
 
   <comment>
-    <cite date="2012-02-19" href="mailto:gnome-doc-list@gnome.org">GNOME
+    <cite date="2012-02-19" href="mailto:gnome-doc-list@gnome.org">Endless
     Documentation Project</cite>
     <p>Explain how admin privileges can be given to other people, or removed.
     Warn the reader about how it's unwise to have too many admins on a

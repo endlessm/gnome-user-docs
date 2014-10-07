@@ -54,8 +54,8 @@ msgstr ""
 "md5='292c209957ac50bb031fcec6cddfa47f'"
 
 #: C/index.page:6(info/desc)
-msgid "A guide for GNOME 3 desktop users"
-msgstr "Hướng dẫn sử dụng môi trường làm việc GNOME 3"
+msgid "A guide for Endless desktop users"
+msgstr "Hướng dẫn sử dụng môi trường làm việc Endless"
 
 #: C/index.page:8(info/title)
 msgctxt "link"
@@ -288,14 +288,14 @@ msgstr "Đọc chữ nổi từ màn hình"
 
 #: C/a11y-braille.page:20(page/p)
 msgid ""
-"GNOME provides the <app>Orca</app> screen reader to display the user "
+"Endless provides the <app>Orca</app> screen reader to display the user "
 "interface on a refreshable Braille display. Depending on how you installed "
-"GNOME, you might not have Orca installed. <link href=\"install:orca"
+"Endless, you might not have Orca installed. <link href=\"install:orca"
 "\">Install Orca</link>, then refer to the <link href=\"ghelp:orca\">Orca "
 "Help</link> for more information."
 msgstr ""
-"GNOME cung cấp trình đọc màn hình <app>Orca</app> để hiển thị giao diện "
-"người dùng Braille cập nhật. Tuỳ cách cài đặt GNOME, bạn có thể đã cài hoặc "
+"Endless cung cấp trình đọc màn hình <app>Orca</app> để hiển thị giao diện "
+"người dùng Braille cập nhật. Tuỳ cách cài đặt Endless, bạn có thể đã cài hoặc "
 "chưa cài Orca. <link href=\"install:orca\">Cài đặt Orca</link>, sau đó xem "
 "<link href=\"ghelp:orca\">Trợ giúp Orca</link> để biết chi tiết."
 
@@ -603,7 +603,7 @@ msgstr "Truy cập chung"
 
 #: C/a11y.page:25(page/p)
 msgid ""
-"The GNOME desktop includes assistive technologies to support users with "
+"The Endless desktop includes assistive technologies to support users with "
 "various impairments and special needs, and to interact with common assistive "
 "devices. Many accessibility features can be accessed from the accessibility "
 "menu in the top bar."
@@ -704,8 +704,8 @@ msgstr "Đọc to màn hình"
 
 #: C/a11y-screen-reader.page:19(page/p)
 msgid ""
-"GNOME provides the <app>Orca</app> screen reader to speak the user "
-"interface. Depending on how you installed GNOME, you might not have Orca "
+"Endless provides the <app>Orca</app> screen reader to speak the user "
+"interface. Depending on how you installed Endless, you might not have Orca "
 "installed. <link href=\"install:orca\">Install Orca</link>, then refer to "
 "the <link href=\"ghelp:orca\">Orca Help</link> for more information."
 msgstr ""
@@ -965,8 +965,8 @@ msgstr "Một số mẹo về cách dùng tài liệu này."
 #: C/user-delete.page:14(credit/name) C/user-goodpassword.page:11(credit/name)
 #: C/video-dvd.page:14(credit/name) C/video-sending.page:10(credit/name)
 #: C/windows-key.page:10(credit/name)
-msgid "GNOME Documentation Project"
-msgstr "Dự án tài liệu GNOME"
+msgid "Endless Documentation Project"
+msgstr "Dự án tài liệu Endless"
 
 #: C/about-this-guide.page:17(page/title)
 msgid "About this guide"
@@ -1033,8 +1033,8 @@ msgstr ""
 "sẽ không bao giờ phải dùng đến nó."
 
 #: C/about-this-guide.page:29(page/p)
-msgid "-- The GNOME documentation team"
-msgstr "-- Đội tài liệu GNOME"
+msgid "-- The Endless documentation team"
+msgstr "-- Đội tài liệu Endless"
 
 #: C/accounts-add.page:6(info/desc)
 msgid "Connect an online account"
@@ -1070,12 +1070,12 @@ msgstr "Thêm tài khoản"
 
 #: C/accounts-add.page:18(page/p)
 msgid ""
-"Adding an account will help link your online accounts with your GNOME "
+"Adding an account will help link your online accounts with your Endless "
 "desktop. Thus, your email program, chat program, and other related "
 "applications will be set up for you."
 msgstr ""
 "Thêm tài khoảng giúp bạn liên kết tài khoản trực tuyến của mình với môi "
-"trường làm việc GNOME. Nhờ đó, chương trình thư điện tử, tán gấu và các "
+"trường làm việc Endless. Nhờ đó, chương trình thư điện tử, tán gấu và các "
 "chương trình khác sẽ được thiết lập tự động cho bạn."
 
 #: C/accounts-add.page:23(item/p)
@@ -1111,10 +1111,10 @@ msgstr ""
 #: C/accounts-add.page:33(item/p)
 msgid ""
 "If you've entered your credentials correctly, you will be prompted to allow "
-"GNOME access to your online account. Select <gui>Grant Access</gui> to "
+"Endless access to your online account. Select <gui>Grant Access</gui> to "
 "continue."
 msgstr ""
-"Nếu bạn nhập thông tin đúng, bạn sẽ được hỏi có cho phép GNOME truy cập tài "
+"Nếu bạn nhập thông tin đúng, bạn sẽ được hỏi có cho phép Endless truy cập tài "
 "khoản trực tuyến của bạn. Chọn <gui>Grant Access</gui> để tiếp tục."
 
 #: C/accounts-add.page:36(item/p)
@@ -1138,12 +1138,12 @@ msgstr ""
 
 #: C/accounts-add.page:46(note/p)
 msgid ""
-"For security reasons, GNOME will not store your password on your computer. "
+"For security reasons, Endless will not store your password on your computer. "
 "Instead, it stores a token that is provided by the online service. If you "
 "want to fully revoke the link between your desktop and the online service, "
 "[See this help topic]."
 msgstr ""
-"Vì lý do an ninh, GNOME không lưu mật khẩu trên máy tính bạn mà chỉ lưu thẻ "
+"Vì lý do an ninh, Endless không lưu mật khẩu trên máy tính bạn mà chỉ lưu thẻ "
 "cung cấp bởi dịch vụ trực tuyến. Nếu bạn muốn thu hồi liên kết giữa môi "
 "trường làm việc và dịch vụ trực tuyếnn, [See this help topic]."
 
@@ -1253,11 +1253,11 @@ msgstr ""
 
 #: C/accounts-create.page:59(item/p)
 msgid ""
-"You will be asked whether to grant GNOME access to your new account: allow "
-"GNOME to access your account to use it with <app>Online Accounts</app>"
+"You will be asked whether to grant Endless access to your new account: allow "
+"Endless to access your account to use it with <app>Online Accounts</app>"
 msgstr ""
-"Bạn sẽ được họi có cấp quyền truy cập tài khoản của bạn cho GNOME không: cho "
-"phép GNOME truy cập tài khoản của bạn để dùng với <app>Tài khoản trực tuyến</"
+"Bạn sẽ được họi có cấp quyền truy cập tài khoản của bạn cho Endless không: cho "
+"phép Endless truy cập tài khoản của bạn để dùng với <app>Tài khoản trực tuyến</"
 "app>"
 
 #: C/accounts-create.page:64(item/p)
@@ -3059,7 +3059,7 @@ msgstr "Thiết bị đo màu nào được hỗ trợ?"
 
 #: C/color-calibrationdevices.page:20(page/p)
 msgid ""
-"GNOME relies on the Argyll color management system to support color "
+"Endless relies on the Argyll color management system to support color "
 "instruments. Thus the following display measuring instruments are supported:"
 msgstr ""
 
@@ -3405,7 +3405,7 @@ msgstr ""
 
 #: C/color-testing.page:21(page/p)
 msgid ""
-"In GNOME we ship several profiles for testing that make it very clear when "
+"In Endless we ship several profiles for testing that make it very clear when "
 "the profiles are being applied:"
 msgstr ""
 
@@ -4622,7 +4622,7 @@ msgstr ""
 
 #: C/documents.page:36(page/p)
 msgid ""
-"<app>Documents</app> is an application of <em>GNOME</em> that lets you read, "
+"<app>Documents</app> is an application of <em>Endless</em> that lets you read, "
 "store and organize information about the documents you have created. "
 "Supported formats are PDF, DVI, XPS, PostScript and all the formats "
 "supported by Evince, Microsoft Office, Libreoffice files and Google Docs."
@@ -4874,7 +4874,7 @@ msgid ""
 "If your computer's graphics card doesn't support certain features, a more "
 "basic version of the desktop will be displayed and you will see a message "
 "telling you what happened. This is called <em>fallback mode</em>, and it "
-"allows you to use GNOME on your computer without some of its more advanced "
+"allows you to use Endless on your computer without some of its more advanced "
 "features."
 msgstr ""
 
@@ -4892,10 +4892,10 @@ msgstr ""
 #: C/fallback-mode.page:23(page/p)
 msgid ""
 "Starting in fallback mode doesn't necessarily mean that your graphics card "
-"isn't good enough to run GNOME - it might just mean that you don't have the "
+"isn't good enough to run Endless - it might just mean that you don't have the "
 "right drivers installed for your graphics card. If you can find better "
 "graphics card drivers for your computer, you may be able to run the full "
-"version of GNOME."
+"version of Endless."
 msgstr ""
 
 #: C/files-autorun.page:13(info/desc)
@@ -5555,7 +5555,7 @@ msgstr "Ẩn tập tin"
 
 #: C/files-hidden.page:20(page/p)
 msgid ""
-"The GNOME file manager gives you the ability to hide and unhide files at "
+"The Endless file manager gives you the ability to hide and unhide files at "
 "your discretion. When a file is hiddden, it isn't displayed by the file "
 "manager, but it's still there in its folder."
 msgstr ""
@@ -6038,7 +6038,7 @@ msgstr "Đổi tên tập tin hoặc thư mục"
 
 #: C/files-rename.page:27(page/p)
 msgid ""
-"As with other file managers, you can use the GNOME file manager to change "
+"As with other file managers, you can use the Endless file manager to change "
 "the name of a file or folder."
 msgstr ""
 
@@ -6915,10 +6915,10 @@ msgstr ""
 #: C/get-involved.page:37(section/p)
 msgid ""
 "Your report will be given an ID number, and its status will be updated as it "
-"is being dealt with. Thanks for helping make the GNOME Help better!"
+"is being dealt with. Thanks for helping make the Endless Help better!"
 msgstr ""
 "Thông báo lỗi của bạn sẽ được gán một số ID, tình trạng của nó sẽ được cập "
-"nhật khi nó được xử lý. Cám ơn bạn đã giúp Trợ giúp GNOME trở nên tốt hơn!"
+"nhật khi nó được xử lý. Cám ơn bạn đã giúp Trợ giúp Endless trở nên tốt hơn!"
 
 #: C/get-involved.page:43(section/title)
 msgid "Contact us"
@@ -6927,7 +6927,7 @@ msgstr "Liên hệ với chúng tôi"
 #: C/get-involved.page:44(section/p)
 msgid ""
 "You can send an <link href=\"mailto:gnome-doc-list@gnome.org\">email</link> "
-"to the GNOME docs mailing list to learn more about how to get involved with "
+"to the Endless docs mailing list to learn more about how to get involved with "
 "the documentation team."
 msgstr ""
 
@@ -7107,13 +7107,13 @@ msgstr "IRC"
 #: C/help-irc.page:19(page/p)
 msgid ""
 "IRC stands for Internet Relay Chat. It is a real-time multi-user messaging "
-"system. You can get help and advice on the GNOME IRC server from other GNOME "
+"system. You can get help and advice on the Endless IRC server from other Endless "
 "users and developers."
 msgstr ""
 
 #: C/help-irc.page:24(page/p)
 msgid ""
-"To connect to the GNOME IRC server using <app>empathy</app> or <app>xchat</"
+"To connect to the Endless IRC server using <app>empathy</app> or <app>xchat</"
 "app>, or by using a web interface like <link href=\"http://chat.mibbit.com/"
 "\">mibbit</link>."
 msgstr ""
@@ -7126,7 +7126,7 @@ msgstr ""
 
 #: C/help-irc.page:32(page/p)
 msgid ""
-"The GNOME IRC server is <sys>irc.gnome.org</sys>. You may also see it "
+"The Endless IRC server is <sys>irc.gnome.org</sys>. You may also see it "
 "referred to as the \"GIMP network\". If your computer is properly configured "
 "you can click on the link <link href=\"irc://irc.gnome.org/gnome\"/> to "
 "access the <sys>gnome</sys> channel."
@@ -7140,7 +7140,7 @@ msgstr ""
 
 #: C/help-irc.page:41(note/p)
 msgid ""
-"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">GNOME "
+"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">Endless "
 "code of conduct</link> applies when you chat on IRC."
 msgstr ""
 
@@ -7155,7 +7155,7 @@ msgstr "Hộp thư chung"
 #: C/help-mailing-list.page:23(page/p)
 msgid ""
 "Mailing lists are email based discussions. You can ask for support using the "
-"GNOME mailing lists. Almost each GNOME application has its own mailing list. "
+"Endless mailing lists. Almost each Endless application has its own mailing list. "
 "The complete list of mailing-lists are listed at <link href=\"http://mail."
 "gnome.org/mailman/listinfo\"/>."
 msgstr ""
@@ -8408,7 +8408,7 @@ msgstr "Có ba lựa chọn từ danh sách thả xuống bên trái."
 #: C/look-background.page:48(item/p)
 msgid ""
 "Select <gui>Wallpapers</gui> to use one of the many professional background "
-"images that ship with GNOME. Some wallpapers are partially transparent and "
+"images that ship with Endless. Some wallpapers are partially transparent and "
 "allow a background color to show through. For these wallpapers, there will "
 "be a color selector button in the bottom-right corner."
 msgstr ""
@@ -11212,8 +11212,8 @@ msgid "<link xref=\"net-default-email\">Default email apps</link>"
 msgstr "<link xref=\"net-default-email\">Ứng dụng email mặc định</link>"
 
 #: C/net-email.page:19(credit/name) C/net-general.page:22(credit/name)
-msgid "The GNOME Documentation Project"
-msgstr "Dự án tài liệu GNOME"
+msgid "The Endless Documentation Project"
+msgstr "Dự án tài liệu Endless"
 
 #: C/net-email.page:23(page/title)
 msgid "Email &amp; email software"
@@ -11304,9 +11304,9 @@ msgid ""
 "network. Depending on how your computer is set up, you may need to adjust "
 "the firewall to allow these services to work as intended."
 msgstr ""
-"Nhiều chương trình GNOME cung cấp các dịch vụ mạng. Ví dụ, bạn có thể chia "
+"Nhiều chương trình Endless cung cấp các dịch vụ mạng. Ví dụ, bạn có thể chia "
 "sẻ tập tin, hoặc cho ai đó ở xa xem màn hình làm việc của mình. Tuỳ vào cách "
-"bạn cài đặt GNOME, bạn có thể cần điều chỉnh tường lửa để cho phép những "
+"bạn cài đặt Endless, bạn có thể cần điều chỉnh tường lửa để cho phép những "
 "dịch vụ này hoạt động như mong muốn."
 
 #: C/net-firewall-on-off.page:27(page/p)
@@ -16876,13 +16876,13 @@ msgstr "Ngưng"
 #: C/shell-exit.page:71(section/p)
 msgid ""
 "To save power, suspend your computer when you aren't using it. If you use a "
-"laptop, GNOME suspends your computer automatically when you close the lid. "
+"laptop, Endless suspends your computer automatically when you close the lid. "
 "This saves your state to your computer's memory and powers off most of the "
 "computer's functions. A very small amount of power is still used during "
 "suspend."
 msgstr ""
 "Để tiết kiệm năng lượng, ngưng máy tính khi bạn không dùng nữa. Nếu bạn dùng "
-"laptop, GNOME tự động ngưng máy tính khi bạn đóng nắp máy. Hành động này lưu "
+"laptop, Endless tự động ngưng máy tính khi bạn đóng nắp máy. Hành động này lưu "
 "trạng thái máy vào bộ nhớ và tắt gần hết các tính năng máy tính. Một phần "
 "nhỏ năng lượng vẫn được dùng khi đang ngưng."
 
@@ -16989,22 +16989,22 @@ msgstr ""
 "Giới thiệu trực quan về màn hình làm việc, thanh đỉnh và tổng quan hoạt động."
 
 #: C/shell-introduction.page:23(page/title)
-msgid "Introduction to GNOME"
-msgstr "Giới thiệu GNOME"
+msgid "Introduction to Endless"
+msgstr "Giới thiệu Endless"
 
 #: C/shell-introduction.page:30(page/p)
 msgid ""
-"GNOME 3 features a completely reimagined user interface designed to stay out "
+"Endless features a completely reimagined user interface designed to stay out "
 "of your way, minimize distractions, and help you get things done. When you "
 "first log in, you will see an empty desktop and the top bar."
 msgstr ""
-"GNOME 3 giới thiệu một giao diện người dùng được thiết kế lại hoàn toàn để "
+"Endless giới thiệu một giao diện người dùng được thiết kế lại hoàn toàn để "
 "không ảnh hưởng đến công việc chính của bạn, hạn chế phân tâm, giúp công "
 "việc hiệu quả hơn. Sau khi đăng nhập, bạn sẽ thấy một màn hình trống và một "
 "thanh trên đỉnh."
 
 #: C/shell-introduction.page:36(media/p)
-msgid "GNOME shell top bar"
+msgid "Endless shell top bar"
 msgstr "Thanh đỉnh"
 
 #: C/shell-introduction.page:39(page/p)
@@ -18929,11 +18929,11 @@ msgstr "Bảng ký tự"
 
 #: C/tips-specialchars.page:39(section/p)
 msgid ""
-"GNOME comes with a character map application that allows you to browse all "
+"Endless comes with a character map application that allows you to browse all "
 "the characters in Unicode. Use the character map to find the character you "
 "want, and then copy and paste it to wherever you need it."
 msgstr ""
-"GNOME có ứng dụng bản đồ ký tự, cho phép bạn duyệt qua mọi ký tự trong "
+"Endless có ứng dụng bản đồ ký tự, cho phép bạn duyệt qua mọi ký tự trong "
 "Unicode. Bạn có thể tìm ký tự bạn cần,, sau đó chép và dán vào chỗ cần có."
 
 #: C/tips-specialchars.page:42(section/p)
@@ -19135,10 +19135,10 @@ msgstr "Tham gia cải thiện bản dịch"
 
 #: C/translate.page:26(page/p)
 msgid ""
-"GNOME's help is being translated by a world-wide volunteer community. You "
+"Endless's help is being translated by a world-wide volunteer community. You "
 "are welcome to participate."
 msgstr ""
-"Trợ giúp GNOME được dịch bởi tình nguyện viên trên toàn thế giới. Bạn cũng "
+"Trợ giúp Endless được dịch bởi tình nguyện viên trên toàn thế giới. Bạn cũng "
 "có thể tham gia."
 
 #: C/translate.page:29(page/p)
@@ -19163,12 +19163,12 @@ msgstr ""
 
 #: C/translate.page:36(page/p)
 msgid ""
-"You can chat with GNOME translators using <link href=\"https://cbe003.chat."
+"You can chat with Endless translators using <link href=\"https://cbe003.chat."
 "mibbit.com/?url=irc%3A%2F%2Firc.gnome.org%2Fi18n\">irc</link>. People on the "
 "channel are located worldwide, so you may not get an immediate response as a "
 "result of timezone differences."
 msgstr ""
-"Bạn có thể trò chuyện với dịch giả GNOME bằng <link href=\"https://cbe003."
+"Bạn có thể trò chuyện với dịch giả Endless bằng <link href=\"https://cbe003."
 "chat.mibbit.com/?url=irc%3A%2F%2Firc.gnome.org%2Fi18n\">irc</link>. Nơi này "
 "tụ tập người từ mọi nơi trên thế giới, nên bạn có thể không nhận được phản "
 "hồi tức thì vì khác biệt múi giờ."
@@ -19337,11 +19337,11 @@ msgstr "Nhấn <gui>Đổi</gui>."
 msgid ""
 "Back in the <gui>User Accounts</gui> window you can click the image next to "
 "the user's name on the right to set an image for the account. This image "
-"will be shown in the login window. GNOME provides some stock photos you can "
+"will be shown in the login window. Endless provides some stock photos you can "
 "use, or you can select your own or take a picture with your webcam."
 msgstr ""
 "Nếu thích bạn có thể nhấn vào ảnh kế bên tên người dùng bên phải để chọn ảnh "
-"cho tài khoản. Ảnh này sẽ được hiển thị trong cửa sổ đăng nhập. GNOME cũng "
+"cho tài khoản. Ảnh này sẽ được hiển thị trong cửa sổ đăng nhập. Endless cũng "
 "cấp sẵn vài ảnh bạn có thể dùng, hoặc bạn có thể chọn ảnh riêng, hoặc dùng "
 "webcam để chụp ảnh mới."
 
@@ -20845,12 +20845,12 @@ msgstr "Nhấn giữ tổ hợp phím mong muốn."
 #~ msgid ""
 #~ "If you like, you can click the image next to the guest user's name on the "
 #~ "right to set an image for the account. This image will be shown in the "
-#~ "login window. GNOME provides some stock photos you can use, or you can "
+#~ "login window. Endless provides some stock photos you can use, or you can "
 #~ "select your own or take a picture with your webcam."
 #~ msgstr ""
 #~ "Nếu thích bạn có thể nhấn vào ảnh kế bên tên người dùng bên phải để chọn "
 #~ "ảnh cho tài khoản khách. Ảnh này sẽ được hiển thị trong cửa sổ đăng nhập. "
-#~ "GNOME cũng cấp sẵn vài ảnh bạn có thể dùng, hoặc bạn có thể chọn ảnh "
+#~ "Endless cũng cấp sẵn vài ảnh bạn có thể dùng, hoặc bạn có thể chọn ảnh "
 #~ "riêng, hoặc dùng webcam để chụp ảnh mới."
 
 #~ msgid ""
@@ -20966,11 +20966,11 @@ msgstr "Nhấn giữ tổ hợp phím mong muốn."
 #~ msgstr "Thay đổi tình trạng của bạn"
 
 #~ msgid ""
-#~ "If you use GNOME's built-in instant messaging features, this will also "
+#~ "If you use Endless's built-in instant messaging features, this will also "
 #~ "change your availability to your chat contacts, so they know not to "
 #~ "disturb you."
 #~ msgstr ""
-#~ "Nếu bạn dùng tính năng nhắn tin có sẵn của GNOME, trạng thái của bạn cũng "
+#~ "Nếu bạn dùng tính năng nhắn tin có sẵn của Endless, trạng thái của bạn cũng "
 #~ "sẽ được tự động thông báo cho các liên lạc tán gẫu của bạn, nhờ đó họ "
 #~ "biết và không làm phiền bạn."
 
@@ -21739,18 +21739,18 @@ msgstr "Nhấn giữ tổ hợp phím mong muốn."
 
 #~ msgid ""
 #~ "The following table lists ports used by your system's firewall to <link "
-#~ "xref=\"net-firewall-on-off\">block or allow access</link> to GNOME "
+#~ "xref=\"net-firewall-on-off\">block or allow access</link> to Endless "
 #~ "programs over the network. There are thousands of ports in use, so this "
 #~ "table isn't complete. Instead, it presents some of the most common ports "
 #~ "you may want to configure on your system. In some cases, the vendor of "
-#~ "your GNOME desktop may have pre-configured access to these ports when the "
+#~ "your Endless desktop may have pre-configured access to these ports when the "
 #~ "system was installed."
 #~ msgstr ""
 #~ "Bảng sau liệt kê các cổng được dùng bởi tường lửa hệ thống để <link xref="
 #~ "\"net-firewall-on-off\">chặn hoặc cho phép truy cập</link> các chương "
-#~ "trình GNOME khi truy cập mạng. Có vài ngàn cổng được dùng nên bảng này sẽ "
+#~ "trình Endless khi truy cập mạng. Có vài ngàn cổng được dùng nên bảng này sẽ "
 #~ "không đầy đủ mà chỉ thể hiện những cổng thường dùng nhất. Trong một số "
-#~ "trược hợp, nhà sản xuất môi trường làm việc GNOME cấu hình sẵn truy cập "
+#~ "trược hợp, nhà sản xuất môi trường làm việc Endless cấu hình sẵn truy cập "
 #~ "cho những cổng này."
 
 #~ msgid ""

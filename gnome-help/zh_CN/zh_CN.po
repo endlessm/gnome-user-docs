@@ -59,20 +59,20 @@ msgstr ""
 "md5='292c209957ac50bb031fcec6cddfa47f'"
 
 #: C/index.page:6(info/desc)
-msgid "A guide for GNOME 3 desktop users"
-msgstr "用于 GNOME3 的桌面用户指南"
+msgid "A guide for Endless desktop users"
+msgstr "用于 Endless3 的桌面用户指南"
 
 #: C/index.page:8(info/title)
 #, fuzzy
 msgctxt "link"
-msgid "GNOME Help"
-msgstr "GNOME 顶部面板条"
+msgid "Endless Help"
+msgstr "Endless 顶部面板条"
 
 #: C/index.page:9(info/title)
 #, fuzzy
 msgctxt "text"
-msgid "GNOME Help"
-msgstr "GNOME 顶部面板条"
+msgid "Endless Help"
+msgstr "Endless 顶部面板条"
 
 #: C/index.page:10(info/title)
 msgctxt "link:trail"
@@ -87,7 +87,7 @@ msgstr ""
 #, fuzzy
 msgid ""
 "<media type=\"image\" src=\"figures/yelp-icon-big.png\">Yelp logo</media> "
-"GNOME Help"
+"Endless Help"
 msgstr ""
 "<media type=\"image\" src=\"figures/yelp-icon-big.png\">Yelp 图标</media>桌面"
 "帮助"
@@ -419,13 +419,13 @@ msgstr "使用盲文阅读屏幕"
 
 #: C/a11y-braille.page:21(page/p)
 msgid ""
-"GNOME provides the <app>Orca</app> screen reader to display the user "
+"Endless provides the <app>Orca</app> screen reader to display the user "
 "interface on a refreshable Braille display. Depending on how you installed "
-"GNOME, you might not have Orca installed. <link href=\"install:orca"
+"Endless, you might not have Orca installed. <link href=\"install:orca"
 "\">Install Orca</link>, then refer to the <link href=\"help:orca\">Orca "
 "Help</link> for more information."
 msgstr ""
-"GNOME 在可刷新盲文显示器上提供屏幕阅读器来显示用户界面，这取决于你安装 GNOME "
+"Endless 在可刷新盲文显示器上提供屏幕阅读器来显示用户界面，这取决于你安装 Endless "
 "的方式，您可能没有安装 Orca。更多详细信息，请访问<link href=\"install:orca\">"
 "安装 Orca</link> 页面，然后打开<link href=\"help:orca\">Orca 帮助</link>。"
 
@@ -737,12 +737,12 @@ msgstr "通用辅助功能"
 
 #: C/a11y.page:28(page/p)
 msgid ""
-"The GNOME desktop includes assistive technologies to support users with "
+"The Endless desktop includes assistive technologies to support users with "
 "various impairments and special needs, and to interact with common assistive "
 "devices. Many accessibility features can be accessed from the accessibility "
 "menu in the top bar."
 msgstr ""
-"GNOME 提供辅助技术来支持各种残疾用户操作和特殊需要，与常用的辅助设备互动。许"
+"Endless 提供辅助技术来支持各种残疾用户操作和特殊需要，与常用的辅助设备互动。许"
 "多辅助特性都可以在顶部面板的辅助菜单里找到。"
 
 #: C/a11y.page:34(section/title)
@@ -905,12 +905,12 @@ msgstr "朗读屏幕"
 
 #: C/a11y-screen-reader.page:20(page/p)
 msgid ""
-"GNOME provides the <app>Orca</app> screen reader to speak the user "
-"interface. Depending on how you installed GNOME, you might not have Orca "
+"Endless provides the <app>Orca</app> screen reader to speak the user "
+"interface. Depending on how you installed Endless, you might not have Orca "
 "installed. <link href=\"install:orca\">Install Orca</link>, then refer to "
 "the <link href=\"help:orca\">Orca Help</link> for more information."
 msgstr ""
-"GNOME 提供 <app>Orca</app> 屏幕阅读器来朗读用户界面，这取决于你安装 GNOME 的"
+"Endless 提供 <app>Orca</app> 屏幕阅读器来朗读用户界面，这取决于你安装 Endless 的"
 "方式，您可能没有安装 Orca。更多详细信息，请访问<link href=\"install:orca\">安"
 "装 Orca</link> 页面，然后打开<link href=\"help:orca\">Orca 帮助</link>。"
 
@@ -1207,8 +1207,8 @@ msgstr "一些关于使用帮助指南的小提示。"
 #: C/user-changepicture.page:11(credit/name)
 #: C/user-delete.page:15(credit/name) C/user-goodpassword.page:12(credit/name)
 #: C/video-dvd.page:14(credit/name) C/video-sending.page:11(credit/name)
-msgid "GNOME Documentation Project"
-msgstr "GNOME 文档项目"
+msgid "Endless Documentation Project"
+msgstr "Endless 文档项目"
 
 #: C/about-this-guide.page:17(page/title)
 msgid "About this guide"
@@ -1268,8 +1268,8 @@ msgid ""
 msgstr "感谢您花费时间阅读这个帮助指南，我们真诚地希望它能帮助您解决疑难问题。"
 
 #: C/about-this-guide.page:29(page/p)
-msgid "-- The GNOME documentation team"
-msgstr "——GNOME 文档小组"
+msgid "-- The Endless documentation team"
+msgstr "——Endless 文档小组"
 
 #: C/accounts-add.page:6(info/desc)
 msgid "Connect an online account."
@@ -1310,11 +1310,11 @@ msgstr "添加帐号"
 
 #: C/accounts-add.page:21(page/p)
 msgid ""
-"Adding an account will help link your online accounts with your GNOME "
+"Adding an account will help link your online accounts with your Endless "
 "desktop. Thus, your email program, chat program, and other related "
 "applications will be set up for you."
 msgstr ""
-"添加一个帐号将会把您的在线帐号和GNOME桌面联系起来。这样，您可以设置自己的邮件"
+"添加一个帐号将会把您的在线帐号和Endless桌面联系起来。这样，您可以设置自己的邮件"
 "程序、聊天程序和其他相关程序。"
 
 #: C/accounts-add.page:26(item/p)
@@ -1347,10 +1347,10 @@ msgstr ""
 #: C/accounts-add.page:36(item/p)
 msgid ""
 "If you've entered your credentials correctly, you will be prompted to allow "
-"GNOME access to your online account. Select <gui>Grant Access</gui> to "
+"Endless access to your online account. Select <gui>Grant Access</gui> to "
 "continue."
 msgstr ""
-"如果您的验证信息正确，将会提示是否允许 GNOME 访问您的在线帐号，点击<gui>允许"
+"如果您的验证信息正确，将会提示是否允许 Endless 访问您的在线帐号，点击<gui>允许"
 "访问</gui>继续。"
 
 #: C/accounts-add.page:39(item/p)
@@ -1371,12 +1371,12 @@ msgstr "在您添加帐号后，选中的应用程序在运行时，将会自动
 
 #: C/accounts-add.page:49(note/p)
 msgid ""
-"For security reasons, GNOME will not store your password on your computer. "
+"For security reasons, Endless will not store your password on your computer. "
 "Instead, it stores a token that is provided by the online service. If you "
 "want to fully revoke the link between your desktop and the online service, "
 "<link xref=\"accounts-remove\">remove</link> it."
 msgstr ""
-"基于安全方面的因素，GNOME 不在计算机上存储您的密码信息，而是存储在线服务提供"
+"基于安全方面的因素，Endless 不在计算机上存储您的密码信息，而是存储在线服务提供"
 "的密钥环。如果您想彻底清除计算机和在线服务之间的关联，请参阅 <link xref="
 "\"accounts-remove\">移除</link> 章节。"
 
@@ -1488,9 +1488,9 @@ msgstr "填写注册表单，通常您会要求填写用户名、密码等个人
 
 #: C/accounts-create.page:62(item/p)
 msgid ""
-"You need to grant GNOME access to your new account in order to use it with "
+"You need to grant Endless access to your new account in order to use it with "
 "<app>Online Accounts</app>."
-msgstr "您需要允许 GNOME 的<app>在线帐号</app>访问这个新注册的帐号。"
+msgstr "您需要允许 Endless 的<app>在线帐号</app>访问这个新注册的帐号。"
 
 #: C/accounts-create.page:66(item/p)
 msgid ""
@@ -3450,10 +3450,10 @@ msgstr "支持哪些颜色测量仪器？"
 
 #: C/color-calibrationdevices.page:21(page/p)
 msgid ""
-"GNOME relies on the Argyll color management system to support color "
+"Endless relies on the Argyll color management system to support color "
 "instruments. Thus the following display measuring instruments are supported:"
 msgstr ""
-"GNOME 依靠 ArgyllCMS 色彩管理系统来支持颜色仪器。因此，支持以下显示测量仪器："
+"Endless 依靠 ArgyllCMS 色彩管理系统来支持颜色仪器。因此，支持以下显示测量仪器："
 
 #: C/color-calibrationdevices.page:28(item/p)
 msgid "Gretag-Macbeth i1 Pro (spectrometer)"
@@ -3835,10 +3835,10 @@ msgstr "颜色配置文件的影响有时是微小的，要看到变化可能有
 
 #: C/color-testing.page:24(page/p)
 msgid ""
-"In GNOME we ship several profiles for testing that make it very clear when "
+"In Endless we ship several profiles for testing that make it very clear when "
 "the profiles are being applied:"
 msgstr ""
-"在 GNOME 中，我们给出了几个测试用的配置文件，当使用这些配置文件时变化会非常清"
+"在 Endless 中，我们给出了几个测试用的配置文件，当使用这些配置文件时变化会非常清"
 "楚："
 
 #: C/color-testing.page:31(item/p)
@@ -5533,11 +5533,11 @@ msgstr "文档"
 
 #: C/documents.page:36(page/p)
 msgid ""
-"<app>Documents</app> is a GNOME application that lets you display, organize, "
+"<app>Documents</app> is an Endless application that lets you display, organize, "
 "and print the documents on your computer or those created remotely using "
 "<em>Google Docs</em> or <em>SkyDrive</em>."
 msgstr ""
-"<app>文档</app>程序是一个 GNOME 应用程序，它可以显示、组织、打印您计算机上的"
+"<app>文档</app>程序是一个 Endless 应用程序，它可以显示、组织、打印您计算机上的"
 "文档，也可以处理使用 <em>Google Docs</em> 或 <em>SkyDrive</em> 创建的远程文"
 "档。"
 
@@ -6460,11 +6460,11 @@ msgstr "隐藏文件"
 
 #: C/files-hidden.page:24(page/p)
 msgid ""
-"The GNOME file manager gives you the ability to hide and unhide files at "
+"The Endless file manager gives you the ability to hide and unhide files at "
 "your discretion. When a file is hidden, it isn't displayed by the file "
 "manager, but it's still there in its folder."
 msgstr ""
-"GNOME 文件管理器赋予您根据需要，隐藏和不隐藏文件的能力。当一个文件被隐藏，它"
+"Endless 文件管理器赋予您根据需要，隐藏和不隐藏文件的能力。当一个文件被隐藏，它"
 "将不显示在文件管理器中，但它仍然在那个文件夹中。"
 
 #: C/files-hidden.page:28(page/p)
@@ -6925,10 +6925,10 @@ msgstr "重命名文件或文件夹"
 
 #: C/files-rename.page:32(page/p)
 msgid ""
-"As with other file managers, you can use the GNOME file manager to change "
+"As with other file managers, you can use the Endless file manager to change "
 "the name of a file or folder."
 msgstr ""
-"跟其他文件管理器一样，您也可以使用 GNOME 文件管理器来重命名文件或文件夹。"
+"跟其他文件管理器一样，您也可以使用 Endless 文件管理器来重命名文件或文件夹。"
 
 #: C/files-rename.page:35(steps/title)
 msgid "To rename a file or folder:"
@@ -7692,9 +7692,9 @@ msgstr ""
 #: C/get-involved.page:37(section/p)
 msgid ""
 "Your report will be given an ID number, and its status will be updated as it "
-"is being dealt with. Thanks for helping make the GNOME Help better!"
+"is being dealt with. Thanks for helping make the Endless Help better!"
 msgstr ""
-"您的报告会有一个 ID 号，接受处理后会更新状态。感谢您对 GNOME 完善的帮助。"
+"您的报告会有一个 ID 号，接受处理后会更新状态。感谢您对 Endless 完善的帮助。"
 
 #: C/get-involved.page:43(section/title)
 msgid "Contact us"
@@ -7703,15 +7703,15 @@ msgstr "联系我们"
 #: C/get-involved.page:44(section/p)
 msgid ""
 "You can send an <link href=\"mailto:gnome-doc-list@gnome.org\">email</link> "
-"to the GNOME docs mailing list to learn more about how to get involved with "
+"to the Endless docs mailing list to learn more about how to get involved with "
 "the documentation team."
 msgstr ""
-"您可以发送<link href=\"mailto:gnome-doc-list@gnome.org\">邮件</link>到 GNOME "
+"您可以发送<link href=\"mailto:gnome-doc-list@gnome.org\">邮件</link>到 Endless "
 "文档列表，了解如何加入文档项目组。"
 
 #: C/gnome-classic.page:11(info/desc)
 msgid ""
-"Consider switching to GNOME Classic if you prefer a more traditional desktop "
+"Consider switching to Endless Classic if you prefer a more traditional desktop "
 "experience."
 msgstr ""
 
@@ -7721,13 +7721,13 @@ msgstr ""
 
 #: C/gnome-classic.page:25(page/title)
 #, fuzzy
-msgid "What is GNOME Classic?"
+msgid "What is Endless Classic?"
 msgstr "什么是 MAC 地址？"
 
 #: C/gnome-classic.page:27(page/p)
 msgid ""
-"<em>GNOME Classic</em> is a feature for users who prefer a more traditional "
-"desktop experience. While <em>GNOME Classic</em> is based on <em>GNOME 3</"
+"<em>Endless Classic</em> is a feature for users who prefer a more traditional "
+"desktop experience. While <em>Endless Classic</em> is based on <em>Endless</"
 "em> technologies, it provides a number of changes to the user interface, "
 "such as the <gui xref=\"shell-terminology\">Applications</gui> and <gui xref="
 "\"shell-terminology\">Places</gui> menus on the top bar, and a window list "
@@ -7762,7 +7762,7 @@ msgstr ""
 
 #: C/gnome-classic.page:48(section/p) C/shell-introduction.page:285(when/p)
 msgid ""
-"At the right-hand side of the window list, GNOME displays a short identifier "
+"At the right-hand side of the window list, Endless displays a short identifier "
 "for the current worskpace, such as <gui>1</gui> for the first (top) "
 "workspace. In addition, the identifier also displays the total number of "
 "available workspaces. To switch to a different workspace, you can click the "
@@ -7778,18 +7778,18 @@ msgid ""
 msgstr ""
 
 #: C/gnome-classic.page:62(section/title)
-msgid "Switch to and from GNOME Classic"
+msgid "Switch to and from Endless Classic"
 msgstr ""
 
 #: C/gnome-classic.page:65(note/p)
 msgid ""
-"GNOME Classic is only available on systems with certain GNOME Shell "
+"Endless Classic is only available on systems with certain Endless Shell "
 "extensions installed. Some Linux distributions may not have these extensions "
 "available or installed by default."
 msgstr ""
 
 #: C/gnome-classic.page:71(steps/title)
-msgid "To switch from <em>GNOME</em> to <em>GNOME Classic</em>:"
+msgid "To switch from <em>Endless</em> to <em>Endless Classic</em>:"
 msgstr ""
 
 #: C/gnome-classic.page:73(item/p) C/gnome-classic.page:98(item/p)
@@ -7821,7 +7821,7 @@ msgstr "在出来的提示里输入自己的密码。"
 
 #: C/gnome-classic.page:87(item/p)
 msgid ""
-"Click <gui>Session</gui> below the password entry box and choose <gui>GNOME "
+"Click <gui>Session</gui> below the password entry box and choose <gui>Endless "
 "Classic</gui>."
 msgstr ""
 
@@ -7831,12 +7831,12 @@ msgid "Click <gui>Sign In</gui>."
 msgstr "点击<gui>声音</gui>。"
 
 #: C/gnome-classic.page:96(steps/title)
-msgid "To switch from <em>GNOME Classic</em> to <em>GNOME</em>:"
+msgid "To switch from <em>Endless Classic</em> to <em>Endless</em>:"
 msgstr ""
 
 #: C/gnome-classic.page:112(item/p)
 msgid ""
-"Click <gui>Session</gui> below the password entry box and choose <gui>GNOME</"
+"Click <gui>Session</gui> below the password entry box and choose <gui>Endless</"
 "gui>."
 msgstr ""
 
@@ -8044,20 +8044,20 @@ msgstr "IRC"
 #: C/help-irc.page:19(page/p)
 msgid ""
 "IRC stands for Internet Relay Chat. It is a real-time multi-user messaging "
-"system. You can get help and advice on the GNOME IRC server from other GNOME "
+"system. You can get help and advice on the Endless IRC server from other Endless "
 "users and developers."
 msgstr ""
-"IRC 是基于互联网的聊天室，它是实时多用户信息系统，您可以在 GNOME IRC 服务器上"
-"获得其他 GNOME 用户和开发者的帮助和建议。"
+"IRC 是基于互联网的聊天室，它是实时多用户信息系统，您可以在 Endless IRC 服务器上"
+"获得其他 Endless 用户和开发者的帮助和建议。"
 
 #: C/help-irc.page:24(page/p)
 #, fuzzy
 msgid ""
-"To connect to the GNOME IRC server, use <app>empathy</app> or <app>xchat</"
+"To connect to the Endless IRC server, use <app>empathy</app> or <app>xchat</"
 "app>, or use a web interface like <link href=\"http://chat.mibbit.com/"
 "\">mibbit</link>."
 msgstr ""
-"要连接到 GNOME IRC 服务器，请使用 <app>empathy</app> 或 <app>xchat</app> 程"
+"要连接到 Endless IRC 服务器，请使用 <app>empathy</app> 或 <app>xchat</app> 程"
 "序，也可以使用像 <link href=\"http://chat.mibbit.com/\">mibbit</link> 这样的"
 "网络接口。"
 
@@ -8071,12 +8071,12 @@ msgstr ""
 
 #: C/help-irc.page:32(page/p)
 msgid ""
-"The GNOME IRC server is <sys>irc.gnome.org</sys>. You may also see it "
+"The Endless IRC server is <sys>irc.gnome.org</sys>. You may also see it "
 "referred to as the \"GIMP network\". If your computer is properly configured "
 "you can click on the link <link href=\"irc://irc.gnome.org/gnome\"/> to "
 "access the <sys>gnome</sys> channel."
 msgstr ""
-"GNOME IRC 服务器地址是 <sys>irc.gnome.org</sys>，您也可以看到它被称为“GIMP "
+"Endless IRC 服务器地址是 <sys>irc.gnome.org</sys>，您也可以看到它被称为“GIMP "
 "network”，如果您的计算机配置正确，可以点击 <link href=\"irc://irc.gnome.org/"
 "gnome\"/> 来访问 <sys>gnome</sys> 频道。"
 
@@ -8089,11 +8089,11 @@ msgstr "因为 IRC 是进行实时讨论，人们往往不能立即回复，所�
 
 #: C/help-irc.page:41(note/p)
 msgid ""
-"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">GNOME "
+"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">Endless "
 "code of conduct</link> applies when you chat on IRC."
 msgstr ""
 "请在使用 IRC 聊天时，遵守<link href=\"https://live.gnome.org/CodeOfConduct/"
-"\">GNOME 行为守则</link>。"
+"\">Endless 行为守则</link>。"
 
 #: C/help-mailing-list.page:7(info/desc)
 msgid "Request support by e-mail."
@@ -8106,12 +8106,12 @@ msgstr "邮件列表"
 #: C/help-mailing-list.page:23(page/p)
 msgid ""
 "Mailing lists are email based discussions. You can ask for support using the "
-"GNOME mailing lists. Almost each GNOME application has its own mailing list. "
+"Endless mailing lists. Almost each Endless application has its own mailing list. "
 "The complete list of mailing-lists are listed at <link href=\"http://mail."
 "gnome.org/mailman/listinfo\"/>."
 msgstr ""
-"邮件列表基于电子邮件来讨论，您可以通过 GNOME 邮件列表获得支持，几乎每个 "
-"GNOME 应用程序都有自己的邮件列表，完整的邮件列表请访问： <link href=\"http://"
+"邮件列表基于电子邮件来讨论，您可以通过 Endless 邮件列表获得支持，几乎每个 "
+"Endless 应用程序都有自己的邮件列表，完整的邮件列表请访问： <link href=\"http://"
 "mail.gnome.org/mailman/listinfo\"/>。"
 
 #: C/help-mailing-list.page:30(note/p)
@@ -9709,11 +9709,11 @@ msgstr "在上边有三种显示方式可供选择："
 #: C/look-background.page:51(item/p)
 msgid ""
 "Select <gui>Wallpapers</gui> to use one of the many professional background "
-"images that ship with GNOME. Some wallpapers are partially transparent and "
+"images that ship with Endless. Some wallpapers are partially transparent and "
 "allow a background color to show through. For these wallpapers, there will "
 "be a color selector button in the bottom-right corner."
 msgstr ""
-"选择<gui>墙纸</gui>使用 GNOME 自带的一些经典背景图片。一些图片是半透明的，可"
+"选择<gui>墙纸</gui>使用 Endless 自带的一些经典背景图片。一些图片是半透明的，可"
 "以显示出背景的来。对于这些图片，在右下角有一个颜色选择器按钮。"
 
 #: C/look-background.page:56(item/p)
@@ -12426,8 +12426,8 @@ msgid "<link xref=\"net-default-email\">Default email apps</link>"
 msgstr "<link xref=\"net-default-email\">默认电子邮件应用程序</link>"
 
 #: C/net-email.page:19(credit/name) C/net-general.page:22(credit/name)
-msgid "The GNOME Documentation Project"
-msgstr "GNOME 文档项目"
+msgid "The Endless Documentation Project"
+msgstr "Endless 文档项目"
 
 #: C/net-email.page:23(page/title)
 msgid "Email &amp; email software"
@@ -17409,7 +17409,7 @@ msgstr "IPv4 设置"
 
 #: C/privacy.page:23(page/p)
 msgid ""
-"The <em>Privacy Settings</em> in GNOME help you control whether or not "
+"The <em>Privacy Settings</em> in Endless help you control whether or not "
 "certain parts of your desktop are visible to others. You can also use these "
 "settings to clear your computer usage history and clean-out unecessary files."
 msgstr ""
@@ -17543,7 +17543,7 @@ msgstr ""
 
 #: C/privacy-name-visibility.page:32(note/p)
 msgid ""
-"Many help topics in the GNOME Help instruct you to \"Click your name in the "
+"Many help topics in the Endless Help instruct you to \"Click your name in the "
 "<gui>top bar</gui>.\" If you hide your name in the <gui>top bar</gui>, you "
 "will need to click the small <gui>notification icon</gui> in the <gui>top "
 "bar</gui> instead."
@@ -18163,7 +18163,7 @@ msgstr "设置"
 
 #: C/settings-sharing.page:23(page/p)
 msgid ""
-"The <em>Sharing Settings</em> in GNOME help you control what is shared over "
+"The <em>Sharing Settings</em> in Endless help you control what is shared over "
 "the local network, or through other technologies such as <em>Bluetooth</em>."
 msgstr ""
 
@@ -18719,13 +18719,13 @@ msgstr "挂起"
 #, fuzzy
 msgid ""
 "To save power, suspend your computer when you are not using it. If you use a "
-"laptop, GNOME suspends your computer automatically when you close the lid. "
+"laptop, Endless suspends your computer automatically when you close the lid. "
 "This saves your state to your computer's memory and powers off most of the "
 "computer's functions. A very small amount of power is still used during "
 "suspend."
 msgstr ""
 "要节省电量，在您不用的时候可以让计算机进入待机状态，如果您使用的是笔记本电"
-"脑，在您合上屏幕时，GNOME 会自动进入待机状态。它会将您当前状态存入内存中，关"
+"脑，在您合上屏幕时，Endless 会自动进入待机状态。它会将您当前状态存入内存中，关"
 "闭其他绝大部分功能，待机时只使用很少的电量。"
 
 #: C/shell-exit.page:98(section/p)
@@ -18906,21 +18906,21 @@ msgid ""
 msgstr "桌面、顶部面板、活动概览的可视化指导。"
 
 #: C/shell-introduction.page:27(page/title)
-msgid "Introduction to GNOME"
-msgstr "GNOME 指导"
+msgid "Introduction to Endless"
+msgstr "Endless 指导"
 
 #: C/shell-introduction.page:29(page/p)
 msgid ""
-"GNOME 3 features a completely reimagined user interface designed to stay out "
+"Endless features a completely reimagined user interface designed to stay out "
 "of your way, minimize distractions, and help you get things done. When you "
 "first log in, you will see an empty desktop and the top bar."
 msgstr ""
-"GNOME 3 完全重绘了用户界面，它的首首次设计保持您的思路，减少注意力的分散，帮"
+"Endless 完全重绘了用户界面，它的首首次设计保持您的思路，减少注意力的分散，帮"
 "助您完成任务。当您首次登录时，只看到一个空旷的桌面和顶部面板条。"
 
 #: C/shell-introduction.page:37(media/p) C/shell-introduction.page:43(media/p)
-msgid "GNOME shell top bar"
-msgstr "GNOME 顶部面板条"
+msgid "Endless shell top bar"
+msgstr "Endless 顶部面板条"
 
 #: C/shell-introduction.page:48(page/p)
 msgid ""
@@ -19160,7 +19160,7 @@ msgstr "Windows Live"
 
 #: C/shell-introduction.page:264(when/p)
 msgid ""
-"GNOME features a different approach to switching windows than a permanently "
+"Endless features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus "
 "on the task at hand without distractions."
 msgstr ""
@@ -20001,10 +20001,10 @@ msgstr "移动和缩放窗口"
 #, fuzzy
 msgid ""
 "You can move and resize windows to help you work more efficiently. In "
-"addition to the dragging behavior you might expect, GNOME features shortcuts "
+"addition to the dragging behavior you might expect, Endless features shortcuts "
 "and modifiers to help you arrange windows quickly."
 msgstr ""
-"您可以移动和改变窗口大小，以便工作更高效，除了拖动以外，您还可以使用 GNOME 操"
+"您可以移动和改变窗口大小，以便工作更高效，除了拖动以外，您还可以使用 Endless 操"
 "作快捷键和修饰键来帮您快速管理窗口。"
 
 #: C/shell-windows-states.page:30(item/p)
@@ -20205,7 +20205,7 @@ msgstr "窗口和工作区"
 #: C/shell-windows.page:23(page/p)
 #, fuzzy
 msgid ""
-"Like other desktops, GNOME uses windows to display your running "
+"Like other desktops, Endless uses windows to display your running "
 "applications. Using both the <gui>Activities</gui> overview and the "
 "<gui>dash</gui>, you can launch new applications and control active windows."
 msgstr ""
@@ -21732,15 +21732,15 @@ msgstr "顶部面板的图标有什么作用？"
 msgid ""
 "This section explains the meaning of icons located on the top right corner "
 "of the screen. More specifically, the different variations of the icons "
-"provided by the GNOME interface are described."
+"provided by the Endless interface are described."
 msgstr ""
 "本章节将会解释屏幕右上角顶部面板上的各个图标的作用，尤其是图标在不同情况下的"
 "变化。"
 
 #: C/status-icons.page:28(media/p) C/status-icons.page:34(media/p)
 #, fuzzy
-msgid "GNOME Shell top bar"
-msgstr "GNOME 顶部面板条"
+msgid "Endless Shell top bar"
+msgstr "Endless 顶部面板条"
 
 #: C/status-icons.page:42(section/title)
 msgid "Universal Access Menu Icons"
@@ -22020,11 +22020,11 @@ msgstr "字符映射表"
 
 #: C/tips-specialchars.page:36(section/p)
 msgid ""
-"GNOME comes with a character map application that allows you to browse all "
+"Endless comes with a character map application that allows you to browse all "
 "the characters in Unicode. Use the character map to find the character you "
 "want, and then copy and paste it to wherever you need it."
 msgstr ""
-"GNOME 附带一个字符映射表程序，可以让您浏览所有 Unicode 字符，使用它可以找到您"
+"Endless 附带一个字符映射表程序，可以让您浏览所有 Unicode 字符，使用它可以找到您"
 "想要的字符，然后复制粘贴到其他您要使用的地方。"
 
 #: C/tips-specialchars.page:39(section/p)
@@ -22226,9 +22226,9 @@ msgstr "加入到翻译"
 
 #: C/translate.page:26(page/p)
 msgid ""
-"GNOME's help is being translated by a world-wide volunteer community. You "
+"Endless's help is being translated by a world-wide volunteer community. You "
 "are welcome to participate."
-msgstr "GNOME 帮助手册，由世界各地社区志愿者来翻译的，也欢迎您的加入。"
+msgstr "Endless 帮助手册，由世界各地社区志愿者来翻译的，也欢迎您的加入。"
 
 #: C/translate.page:29(page/p)
 msgid ""
@@ -22251,13 +22251,13 @@ msgstr ""
 
 #: C/translate.page:36(page/p)
 msgid ""
-"You can chat with GNOME translators using <link href=\"https://cbe003.chat."
+"You can chat with Endless translators using <link href=\"https://cbe003.chat."
 "mibbit.com/?url=irc%3A%2F%2Firc.gnome.org%2Fi18n\">irc</link>. People on the "
 "channel are located worldwide, so you may not get an immediate response as a "
 "result of timezone differences."
 msgstr ""
 "您可以使用 <link href=\"https://cbe003.chat.mibbit.com/?url=irc%3A%2F%2Firc."
-"gnome.org%2Fi18n\">irc</link> 与 GNOME 翻译人员聊天，这个频道上的人们来自世界"
+"gnome.org%2Fi18n\">irc</link> 与 Endless 翻译人员聊天，这个频道上的人们来自世界"
 "各地，由于时区不同，您可能不会立刻得到响应。"
 
 #: C/translate.page:39(page/p)
@@ -22417,11 +22417,11 @@ msgstr "点击<gui>更改</gui>按钮。"
 msgid ""
 "In the <gui>User Accounts</gui> window you can click the image next to the "
 "user's name on the right to set an image for the account. This image will be "
-"shown in the login window. GNOME provides some stock photos you can use, or "
+"shown in the login window. Endless provides some stock photos you can use, or "
 "you can select your own or take a picture with your webcam."
 msgstr ""
 "在<gui>用户帐号</gui>窗口，您可以点击右边用户名旁边的图片，为帐号选择一个图"
-"片。这个图片也会显示在登录窗口。GNOME 为您提供了一些经典图片，您还可以自己选"
+"片。这个图片也会显示在登录窗口。Endless 为您提供了一些经典图片，您还可以自己选"
 "择一幅图片，或者用摄像头拍一张。"
 
 #: C/user-addguest.page:7(info/desc)
@@ -22496,11 +22496,11 @@ msgstr ""
 msgid ""
 "Back in the <gui>User Accounts</gui> window you can click the image next to "
 "the user's name on the right to set an image for the account. This image "
-"will be shown in the login window. GNOME provides some stock photos you can "
+"will be shown in the login window. Endless provides some stock photos you can "
 "use, or you can select your own or take a picture with your webcam."
 msgstr ""
 "返回<gui>用户帐号</gui>窗口，您可以点击右边用户名旁边的图片，给帐号设置一个图"
-"片，这个图片会显示在登录窗口。GNOME 提供了一些图片供您选择，您也可以自己选择"
+"片，这个图片会显示在登录窗口。Endless 提供了一些图片供您选择，您也可以自己选择"
 "或者用摄像头捕捉一张图片。"
 
 #: C/user-admin-change.page:10(info/desc)
@@ -23616,11 +23616,11 @@ msgstr "Wacom 图形手写板"
 #~ "If your computer's graphics card doesn't support certain features, a more "
 #~ "basic version of the desktop will be displayed and you will see a message "
 #~ "telling you what happened. This is called <em>fallback mode</em>, and it "
-#~ "allows you to use GNOME on your computer without some of its more "
+#~ "allows you to use Endless on your computer without some of its more "
 #~ "advanced features."
 #~ msgstr ""
 #~ "如果您的显卡不支持当前特效，将会启动一个简洁的桌面版本，将会显示一条信息提"
-#~ "醒您。这称为<em>后备模式</em>，您可以在计算机上运行 GNOME，但一些高级功能"
+#~ "醒您。这称为<em>后备模式</em>，您可以在计算机上运行 Endless，但一些高级功能"
 #~ "用不了。"
 
 #~ msgid ""
@@ -23660,13 +23660,13 @@ msgstr "Wacom 图形手写板"
 
 #~ msgid ""
 #~ "Starting in fallback mode doesn't necessarily mean that your graphics "
-#~ "card isn't good enough to run GNOME - it might just mean that you don't "
+#~ "card isn't good enough to run Endless - it might just mean that you don't "
 #~ "have the right drivers installed for your graphics card. If you can find "
 #~ "better graphics card drivers for your computer, you may be able to run "
-#~ "the full version of GNOME."
+#~ "the full version of Endless."
 #~ msgstr ""
 #~ "运行在后备模式下并不一定意味着您的显卡不够好－也可能是显卡没有安装正确的驱"
-#~ "动程序。如果您找到更合适的显卡驱动，可以试着运行完整版的 GNOME。"
+#~ "动程序。如果您找到更合适的显卡驱动，可以试着运行完整版的 Endless。"
 
 #~ msgid "Share and transfer files"
 #~ msgstr "共享和传送文件"

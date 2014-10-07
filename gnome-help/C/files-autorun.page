@@ -13,7 +13,7 @@
     <revision pkgversion="3.9.92" date="2013-10-04" status="review"/>
 
     <credit type="author">
-      <name>GNOME Documentation Project</name>
+      <name>Endless Documentation Project</name>
       <email its:translate="no">gnome-doc-list@gnome.org</email>
     </credit>
     <credit type="editor">

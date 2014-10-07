@@ -62,20 +62,20 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/index.page:6
-msgid "A guide for GNOME 3 desktop users"
-msgstr "Ceļvedis GNOME 3 darbvirsmas lietotājiem"
+msgid "A guide for Endless desktop users"
+msgstr "Ceļvedis Endless darbvirsmas lietotājiem"
 
 #. (itstool) path: info/title
 #: C/index.page:8
 msgctxt "link"
-msgid "GNOME Help"
-msgstr "GNOME palīdzība"
+msgid "Endless Help"
+msgstr "Endless palīdzība"
 
 #. (itstool) path: info/title
 #: C/index.page:9
 msgctxt "text"
-msgid "GNOME Help"
-msgstr "GNOME palīdzība"
+msgid "Endless Help"
+msgstr "Endless palīdzība"
 
 #. (itstool) path: info/title
 #: C/index.page:10
@@ -91,10 +91,10 @@ msgstr ""
 #: C/index.page:15
 msgid ""
 "<media type=\"image\" src=\"figures/yelp-icon-big.png\">Yelp logo</media> "
-"GNOME Help"
+"Endless Help"
 msgstr ""
 "<media type=\"image\" src=\"figures/yelp-icon-big.png\">Yelp logo</media> "
-"GNOME palīdzība"
+"Endless palīdzība"
 
 #. (itstool) path: p/link
 #: C/legal.xml:3
@@ -374,15 +374,15 @@ msgstr "Lasīt ekrānu ar Brailu"
 #. (itstool) path: page/p
 #: C/a11y-braille.page:25
 msgid ""
-"GNOME provides the <app>Orca</app> screen reader to display the user "
+"Endless provides the <app>Orca</app> screen reader to display the user "
 "interface on a refreshable Braille display. Depending on how you installed "
-"GNOME, you might not have Orca installed. <link href=\"install:orca"
+"Endless, you might not have Orca installed. <link href=\"install:orca"
 "\">Install Orca</link>, then refer to the <link href=\"help:orca\">Orca "
 "Help</link> for more information."
 msgstr ""
-"GNOME nodrošina <app>Orca</app> ekrāna lasītāju, lai attēlotu lietotāja "
+"Endless nodrošina <app>Orca</app> ekrāna lasītāju, lai attēlotu lietotāja "
 "saskarni uz atsvaidzināma Braila ekrāna. Atkarībā no veida, kā esat "
-"uzinstalējis GNOME, jums varētu nebūt uzinstalēta Orca. <link href=\"install:"
+"uzinstalējis Endless, jums varētu nebūt uzinstalēta Orca. <link href=\"install:"
 "orca\">Instalējiet Orca</link>, tad skatiet <link href=\"help:orca\">Orca "
 "palīdzību</link>, lai iegūtu vairāk informācijas."
 
@@ -781,12 +781,12 @@ msgstr "Universālā piekļuve"
 #. (itstool) path: page/p
 #: C/a11y.page:35
 msgid ""
-"The GNOME desktop includes assistive technologies to support users with "
+"The Endless desktop includes assistive technologies to support users with "
 "various impairments and special needs, and to interact with common assistive "
 "devices. An accessibility menu can be added to the top bar, giving easier "
 "access to many of the accessibility features."
 msgstr ""
-"GNOME darbvirsma iekļauj asistējošās tehnoloģijas, lai atbalstītu lietotājus "
+"Endless darbvirsma iekļauj asistējošās tehnoloģijas, lai atbalstītu lietotājus "
 "ar dažādām invaliditātēm un speciālām vajadzībām, un lai sadarbotos ar "
 "vienkāršām asistējošām ierīcēm. Pieejamības izvēlni var pievienot augšējai "
 "joslai, lai tās būtu vieglāk pieejamas."
@@ -972,13 +972,13 @@ msgstr "Lasīt ekrānu skaļi"
 #. (itstool) path: page/p
 #: C/a11y-screen-reader.page:21
 msgid ""
-"GNOME provides the <app>Orca</app> screen reader to speak the user "
-"interface. Depending on how you installed GNOME, you might not have Orca "
+"Endless provides the <app>Orca</app> screen reader to speak the user "
+"interface. Depending on how you installed Endless, you might not have Orca "
 "installed. <link href=\"install:orca\">Install Orca</link>, then refer to "
 "the <link href=\"help:orca\">Orca Help</link> for more information."
 msgstr ""
-"GNOME nodrošina <app>Orca</app> ekrāna lasītāju lai izrunātu lietotāja "
-"saskarni. Atkarībā no veida, kā esat uzinstalējis GNOME, jums varētu nebūt "
+"Endless nodrošina <app>Orca</app> ekrāna lasītāju lai izrunātu lietotāja "
+"saskarni. Atkarībā no veida, kā esat uzinstalējis Endless, jums varētu nebūt "
 "uzinstalēta Orca. <link href=\"install:orca\">Instalējiet Orca</link>, tad "
 "skatiet <link href=\"help:orca\">Orca palīdzību</link>, lai iegūtu vairāk "
 "informācijas."
@@ -1312,8 +1312,8 @@ msgstr "Daži padomi, kā izmantot darbvirsmas palīdzības rokasgrāmatu."
 #: C/user-admin-problems.page:13 C/user-changepassword.page:14
 #: C/user-changepicture.page:13 C/user-delete.page:17
 #: C/user-goodpassword.page:12 C/video-dvd.page:14 C/video-sending.page:11
-msgid "GNOME Documentation Project"
-msgstr "GNOME dokumentācijas projekts"
+msgid "Endless Documentation Project"
+msgstr "Endless dokumentācijas projekts"
 
 #. (itstool) path: page/title
 #: C/about-this-guide.page:17
@@ -1390,8 +1390,8 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/about-this-guide.page:29
-msgid "-- The GNOME documentation team"
-msgstr "-- GNOME dokumentācijas komanda"
+msgid "-- The Endless documentation team"
+msgstr "-- Endless dokumentācijas komanda"
 
 #. (itstool) path: credit/name
 #: C/accounts-add.page:13 C/bluetooth-connect-device.page:15
@@ -1423,11 +1423,11 @@ msgstr "Pievienot kontu"
 #. (itstool) path: page/p
 #: C/accounts-add.page:26
 msgid ""
-"Adding an account will help link your online accounts with your GNOME "
+"Adding an account will help link your online accounts with your Endless "
 "desktop. Thus, your email program, chat program and other related "
 "applications will be set up for you."
 msgstr ""
-"Konta pievienošana palīdzēs saistīt jūsu tiešsaistes kontus ar jūsu GNOME "
+"Konta pievienošana palīdzēs saistīt jūsu tiešsaistes kontus ar jūsu Endless "
 "darbvirsmu. Tādējādi jūsu e-pasta, tērzēšanas programmas un citas saistītās "
 "lietotnes tiks iestatītas jūsu vietā."
 
@@ -1464,10 +1464,10 @@ msgstr ""
 #: C/accounts-add.page:46
 msgid ""
 "If you have entered your credentials correctly, you will be prompted to "
-"allow GNOME access to your online account. Authorize access to continue."
+"allow Endless access to your online account. Authorize access to continue."
 msgstr ""
 "Ja esat ievadījis jūsu akreditācijas datus korekti, jums tiks vaicāts atļaut "
-"GNOME pieeju jūsu tiešsaistes kontam. Lai turpinātu, sankcionējiet piekļuvi."
+"Endless pieeju jūsu tiešsaistes kontam. Lai turpinātu, sankcionējiet piekļuvi."
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:51
@@ -1494,12 +1494,12 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/accounts-add.page:62
 msgid ""
-"For security reasons, GNOME will not store your password on your computer. "
+"For security reasons, Endless will not store your password on your computer. "
 "Instead, it stores a token that is provided by the online service. If you "
 "want to fully revoke the link between your desktop and the online service, "
 "<link xref=\"accounts-remove\">remove</link> it."
 msgstr ""
-"Drošības dēļ GNOME neglabās jūsu paroli uz jūsu datora. Tā vietā tā glabās "
+"Drošības dēļ Endless neglabās jūsu paroli uz jūsu datora. Tā vietā tā glabās "
 "marķieri, ko nodrošina tiešsaistes serviss. Ja vēlaties pilnībā atsaukt "
 "saiti starp jūsu darbvirsmu un tiešsaistes servisu, <link xref=\"accounts-"
 "remove\">izņemiet</link> to."
@@ -1596,10 +1596,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/accounts-create.page:63
 msgid ""
-"You need to grant GNOME access to your new account in order to use it with "
+"You need to grant Endless access to your new account in order to use it with "
 "<app>Online Accounts</app>."
 msgstr ""
-"Jums vajadzēs ļaut GNOME piekļūt jaunajam konta, lai varētu to izmantot ar "
+"Jums vajadzēs ļaut Endless piekļūt jaunajam konta, lai varētu to izmantot ar "
 "<app>Tiešsaistes kontiem</app>"
 
 #. (itstool) path: item/p
@@ -1766,10 +1766,10 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/accounts-remove.page:50
 msgid ""
-"To remove GNOME's access to the online account, you should revoke the access "
+"To remove Endless's access to the online account, you should revoke the access "
 "through the account's website or similar service."
 msgstr ""
-"Lai liegtu GNOME pieeju tiešsaistes kontam, jums vajadzētu atsaukt pieeju no "
+"Lai liegtu Endless pieeju tiešsaistes kontam, jums vajadzētu atsaukt pieeju no "
 "konta tīmekļa vietnes vai līdzīga pakalpojuma."
 
 #. (itstool) path: credit/years
@@ -3978,10 +3978,10 @@ msgstr "Kādi krāsu mērīšanas instrumenti tiek atbalstīti?"
 #. (itstool) path: page/p
 #: C/color-calibrationdevices.page:21
 msgid ""
-"GNOME relies on the Argyll color management system to support color "
+"Endless relies on the Argyll color management system to support color "
 "instruments. Thus the following display measuring instruments are supported:"
 msgstr ""
-"GNOME balstās uz Argyll krāsu pārvaldības sistēmu, lai atbalstītu krāsu "
+"Endless balstās uz Argyll krāsu pārvaldības sistēmu, lai atbalstītu krāsu "
 "instrumentus. Tādējādi sekojoši displeja mērīšanas instrumenti ir atbalstīti:"
 
 #. (itstool) path: item/p
@@ -4478,10 +4478,10 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/color-testing.page:24
 msgid ""
-"In GNOME we ship several profiles for testing that make it very clear when "
+"In Endless we ship several profiles for testing that make it very clear when "
 "the profiles are being applied:"
 msgstr ""
-"GNOME mēs esam pievienojuši dažus profilus testēšanai norādot, kad šie "
+"Endless mēs esam pievienojuši dažus profilus testēšanai norādot, kad šie "
 "profili tiek pielietoti:"
 
 #. (itstool) path: item/p
@@ -6317,11 +6317,11 @@ msgstr "Dokumenti"
 #. (itstool) path: page/p
 #: C/documents.page:37
 msgid ""
-"<app>Documents</app> is a GNOME application that lets you display, organize, "
+"<app>Documents</app> is an Endless application that lets you display, organize, "
 "and print the documents on your computer or those created remotely using "
 "<em>Google Docs</em> or <em>SkyDrive</em>."
 msgstr ""
-"<app>Dokumenti</app> ir GNOME lietotne, kas ļauj attēlot, organizēt un "
+"<app>Dokumenti</app> ir Endless lietotne, kas ļauj attēlot, organizēt un "
 "drukāt dokumentus, kas atrodas uz jūsu datora vai tos, kas veidoti "
 "attālināti, izmantojot<em>Google Docs</em> vai <em>SkyDrive</em>."
 
@@ -7496,11 +7496,11 @@ msgstr "Slēpt datni"
 #. (itstool) path: page/p
 #: C/files-hidden.page:24
 msgid ""
-"The GNOME file manager gives you the ability to hide and unhide files at "
+"The Endless file manager gives you the ability to hide and unhide files at "
 "your discretion. When a file is hidden, it isn't displayed by the file "
 "manager, but it's still there in its folder."
 msgstr ""
-"GNOME datņu pārvaldnieks dod iespēju pēc izvēles paslēpt vai parādīt "
+"Endless datņu pārvaldnieks dod iespēju pēc izvēles paslēpt vai parādīt "
 "atsevišķas datnes. Kad datne ir paslēpta, to nerāda datņu pārvaldnieks, "
 "tomēr tā vēl joprojām atrodas mapē."
 
@@ -8068,10 +8068,10 @@ msgstr "Pārsaukt datni vai mapi"
 #. (itstool) path: page/p
 #: C/files-rename.page:32
 msgid ""
-"As with other file managers, you can use the GNOME file manager to change "
+"As with other file managers, you can use the Endless file manager to change "
 "the name of a file or folder."
 msgstr ""
-"Tāpat kā citus datņu pārvaldniekus, arī GNOME datņu pārvaldnieku var lietot, "
+"Tāpat kā citus datņu pārvaldniekus, arī Endless datņu pārvaldnieku var lietot, "
 "lai mainītu datnes vai mapes nosaukumu."
 
 #. (itstool) path: steps/title
@@ -8997,10 +8997,10 @@ msgstr ""
 #: C/get-involved.page:37
 msgid ""
 "Your report will be given an ID number, and its status will be updated as it "
-"is being dealt with. Thanks for helping make the GNOME Help better!"
+"is being dealt with. Thanks for helping make the Endless Help better!"
 msgstr ""
 "Jūsu ziņojumam tiks piešķirts ID numurs, un tā statuss tiks atjaunināts, kad "
-"tas tiks izskatīts. Paldies par palīdzību padarīt GNOME palīdzību labāku!"
+"tas tiks izskatīts. Paldies par palīdzību padarīt Endless palīdzību labāku!"
 
 #. (itstool) path: section/title
 #: C/get-involved.page:43
@@ -9011,11 +9011,11 @@ msgstr "Sazinieties ar mums"
 #: C/get-involved.page:44
 msgid ""
 "You can send an <link href=\"mailto:gnome-doc-list@gnome.org\">email</link> "
-"to the GNOME docs mailing list to learn more about how to get involved with "
+"to the Endless docs mailing list to learn more about how to get involved with "
 "the documentation team."
 msgstr ""
 "Jūs varat nosūtīt <link href=\"mailto:gnome-doc-list@gnome.org\">e-pasta "
-"vēstuli</link> uz GNOME dokumentu projekta saraksti, lai uzzinātu sīkāk par "
+"vēstuli</link> uz Endless dokumentu projekta saraksti, lai uzzinātu sīkāk par "
 "iespējām piedalīties dokumentēšanas komandā."
 
 #. (itstool) path: credit/name
@@ -9026,29 +9026,29 @@ msgstr "Petr Kovar"
 #. (itstool) path: info/desc
 #: C/gnome-classic.page:22
 msgid ""
-"Consider switching to GNOME Classic if you prefer a more traditional desktop "
+"Consider switching to Endless Classic if you prefer a more traditional desktop "
 "experience."
 msgstr ""
 "Ja vēlaties tradicionālāku darbvirsmas vidi, apsveriet pārslēgšanos uz "
-"klasisko GNOME."
+"klasisko Endless."
 
 #. (itstool) path: page/title
 #: C/gnome-classic.page:25
-msgid "What is GNOME Classic?"
-msgstr "Kas ir klasiskais GNOME?"
+msgid "What is Endless Classic?"
+msgstr "Kas ir klasiskais Endless?"
 
 #. (itstool) path: page/p
 #: C/gnome-classic.page:27
 msgid ""
-"<em>GNOME Classic</em> is a feature for users who prefer a more traditional "
-"desktop experience. While <em>GNOME Classic</em> is based on <em>GNOME 3</"
+"<em>Endless Classic</em> is a feature for users who prefer a more traditional "
+"desktop experience. While <em>Endless Classic</em> is based on <em>Endless</"
 "em> technologies, it provides a number of changes to the user interface, "
 "such as the <gui xref=\"shell-terminology\">Applications</gui> and <gui xref="
 "\"shell-terminology\">Places</gui> menus on the top bar, and a window list "
 "at the bottom of the screen."
 msgstr ""
-"<em>Klasiskais GNOME</em> ir tradicionālāka darbvirsmas vide. Lai arī "
-"<em>klasiskais GNOME</em> ir balstīts uz <em>GNOME 3</em> tehnoloģijām, tajā "
+"<em>Klasiskais Endless</em> ir tradicionālāka darbvirsmas vide. Lai arī "
+"<em>klasiskais Endless</em> ir balstīts uz <em>Endless</em> tehnoloģijām, tajā "
 "ir vairākas izmaiņas lietotāja saskarnē, piemēram, izvēlnes <gui xref="
 "\"shell-terminology\">Lietotnes</gui> un <gui xref=\"shell-terminology"
 "\">Vietas</gui> augšējā joslā, un logu saraksts ekrāna apakšā."
@@ -9094,20 +9094,20 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/gnome-classic.page:48
 #| msgid ""
-#| "At the right-hand side of the window list, GNOME displays a short "
+#| "At the right-hand side of the window list, Endless displays a short "
 #| "identifier for the current worskpace, such as <gui>1</gui> for the first "
 #| "(top) workspace. In addition, the identifier also displays the total "
 #| "number of available workspaces. To switch to a different workspace, you "
 #| "can click the identifier and select the workspace you want to use from "
 #| "the menu."
 msgid ""
-"At the right-hand side of the window list, GNOME displays a short identifier "
+"At the right-hand side of the window list, Endless displays a short identifier "
 "for the current workspace, such as <gui>1</gui> for the first (top) "
 "workspace. In addition, the identifier also displays the total number of "
 "available workspaces. To switch to a different workspace, you can click the "
 "identifier and select the workspace you want to use from the menu."
 msgstr ""
-"Logu saraksta labajā pusē GNOME parāda pašreizējās darbvietas "
+"Logu saraksta labajā pusē Endless parāda pašreizējās darbvietas "
 "identifikatoru, piemēram, <gui>1</gui> pirmajai (augšējai) darbvietai. "
 "Identifikators arī attēlo kopējo pieejamo darbvietu skaitu. Lai pārslēgtos "
 "uz citu darbvietu, varat spiest uz identifikatora un izvēlēties vēlamo "
@@ -9128,24 +9128,24 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/gnome-classic.page:62
-msgid "Switch to and from GNOME Classic"
-msgstr "Pārslēgties uz un no klasiskā GNOME"
+msgid "Switch to and from Endless Classic"
+msgstr "Pārslēgties uz un no klasiskā Endless"
 
 #. (itstool) path: note/p
 #: C/gnome-classic.page:65
 msgid ""
-"GNOME Classic is only available on systems with certain GNOME Shell "
+"Endless Classic is only available on systems with certain Endless Shell "
 "extensions installed. Some Linux distributions may not have these extensions "
 "available or installed by default."
 msgstr ""
-"Klasiskais GNOME ir pieejams tikai uz sistēmām, kurās ir uzinstalēti "
-"noteikti GNOME čaulas paplašinājumi. Dažās Linux distribūcijās šie "
+"Klasiskais Endless ir pieejams tikai uz sistēmām, kurās ir uzinstalēti "
+"noteikti Endless čaulas paplašinājumi. Dažās Linux distribūcijās šie "
 "paplašinājumi varētu nebūt pieejami vai pēc noklusējuma uzinstalēti."
 
 #. (itstool) path: steps/title
 #: C/gnome-classic.page:71
-msgid "To switch from <em>GNOME</em> to <em>GNOME Classic</em>:"
-msgstr "Lai pārslēgtos no <em>GNOME</em> uz <em>klasisko GNOME</em>:"
+msgid "To switch from <em>Endless</em> to <em>Endless Classic</em>:"
+msgstr "Lai pārslēgtos no <em>Endless</em> uz <em>klasisko Endless</em>:"
 
 #. (itstool) path: item/p
 #: C/gnome-classic.page:73 C/gnome-classic.page:98
@@ -9191,7 +9191,7 @@ msgstr "Ievadiet savu paroli paroles ievades kastē."
 #| "<gui>System Settings</gui>."
 msgid ""
 "Click the options icon, which is displayed to the left of the <gui>Sign In</"
-"gui> button, and select <gui>GNOME Classic</gui>."
+"gui> button, and select <gui>Endless Classic</gui>."
 msgstr ""
 "Spiediet uz ikonas labajā stūrī <gui>izvēlnes joslā</gui> un izvēlieties "
 "<gui>Sistēmas iestatījumi</gui>."
@@ -9205,8 +9205,8 @@ msgstr "Spiediet <gui>+</gui> pogu."
 
 #. (itstool) path: steps/title
 #: C/gnome-classic.page:96
-msgid "To switch from <em>GNOME Classic</em> to <em>GNOME</em>:"
-msgstr "Pārslēgties no <em>klasiskā GNOME</em> uz <em>GNOME</em>:"
+msgid "To switch from <em>Endless Classic</em> to <em>Endless</em>:"
+msgstr "Pārslēgties no <em>klasiskā Endless</em> uz <em>Endless</em>:"
 
 #. (itstool) path: item/p
 #: C/gnome-classic.page:112
@@ -9216,7 +9216,7 @@ msgstr "Pārslēgties no <em>klasiskā GNOME</em> uz <em>GNOME</em>:"
 #| "<gui>System Settings</gui>."
 msgid ""
 "Click the options icon, which is displayed to the left of the <gui>Sign In</"
-"gui> button, and select <gui>GNOME</gui>."
+"gui> button, and select <gui>Endless</gui>."
 msgstr ""
 "Spiediet uz ikonas labajā stūrī <gui>izvēlnes joslā</gui> un izvēlieties "
 "<gui>Sistēmas iestatījumi</gui>."
@@ -9475,21 +9475,21 @@ msgstr "IRC"
 #: C/help-irc.page:19
 msgid ""
 "IRC stands for Internet Relay Chat. It is a real-time multi-user messaging "
-"system. You can get help and advice on the GNOME IRC server from other GNOME "
+"system. You can get help and advice on the Endless IRC server from other Endless "
 "users and developers."
 msgstr ""
 "IRC nozīmē Internet Relay Chat. Tā ir reāllaika vairāku lietotāju ziņojumu "
-"apmaiņas sistēma. Jūs varat saņemt palīdzību un atbalstu GNOME IRC serverī "
-"no citiem GNOME lietotājiem un izstrādātājiem."
+"apmaiņas sistēma. Jūs varat saņemt palīdzību un atbalstu Endless IRC serverī "
+"no citiem Endless lietotājiem un izstrādātājiem."
 
 #. (itstool) path: page/p
 #: C/help-irc.page:24
 msgid ""
-"To connect to the GNOME IRC server, use <app>empathy</app> or <app>xchat</"
+"To connect to the Endless IRC server, use <app>empathy</app> or <app>xchat</"
 "app>, or use a web interface like <link href=\"http://chat.mibbit.com/"
 "\">mibbit</link>."
 msgstr ""
-"Lai savienotos ar GNOME IRC serveri, izmantojiet <app>empathy</app> vai "
+"Lai savienotos ar Endless IRC serveri, izmantojiet <app>empathy</app> vai "
 "<app>xchat</app> vai izmantojiet tīmekļa saskarni, piemēram <link href="
 "\"http://chat.mibbit.com/\">mibbit</link>."
 
@@ -9505,12 +9505,12 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/help-irc.page:32
 msgid ""
-"The GNOME IRC server is <sys>irc.gnome.org</sys>. You may also see it "
+"The Endless IRC server is <sys>irc.gnome.org</sys>. You may also see it "
 "referred to as the \"GIMP network\". If your computer is properly configured "
 "you can click on the link <link href=\"irc://irc.gnome.org/gnome\"/> to "
 "access the <sys>gnome</sys> channel."
 msgstr ""
-"GNOME IRC serveris ir <sys>irc.gnome.org</sys>. To dažkārt dēvē par \"GIMP "
+"Endless IRC serveris ir <sys>irc.gnome.org</sys>. To dažkārt dēvē par \"GIMP "
 "tīklu\". Ja jūsu dators ir pareizi konfigurēts, jūs varat klikšķināt uz "
 "saites, <link href=\"irc://irc.gnome.org/gnome\"/> lai piekļūtu <sys>gnome</"
 "sys> kanālam."
@@ -9527,10 +9527,10 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/help-irc.page:41
 msgid ""
-"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">GNOME "
+"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">Endless "
 "code of conduct</link> applies when you chat on IRC."
 msgstr ""
-"Ņemiet vērā, ka <link href=\"https://live.gnome.org/CodeOfConduct/\">GNOME "
+"Ņemiet vērā, ka <link href=\"https://live.gnome.org/CodeOfConduct/\">Endless "
 "rīcības kodekss</link> attiecas arī uz sarunām IRC kanālos."
 
 #. (itstool) path: info/desc
@@ -9547,12 +9547,12 @@ msgstr "Adresātu saraksts"
 #: C/help-mailing-list.page:23
 msgid ""
 "Mailing lists are email based discussions. You can ask for support using the "
-"GNOME mailing lists. Almost each GNOME application has its own mailing list. "
+"Endless mailing lists. Almost each Endless application has its own mailing list. "
 "The complete list of mailing-lists are listed at <link href=\"http://mail."
 "gnome.org/mailman/listinfo\"/>."
 msgstr ""
 "Adresātu saraksti ir uz e-pastu balstītas diskusijas. Jūs varat pieprasīt "
-"atbalstu, izmantojot GNOME adresātu sarakstu. Gandrīz katrai GNOME lietotnei "
+"atbalstu, izmantojot Endless adresātu sarakstu. Gandrīz katrai Endless lietotnei "
 "ir pašai savs adresātu saraksts. Pilns saraksts ar adresātu sarakstiem ir "
 "pieejami <link href=\"http://mail.gnome.org/mailman/listinfo\"/>."
 
@@ -11599,12 +11599,12 @@ msgstr "Augšā ir attēlotas trīs izvēles iespējas:"
 #: C/look-background.page:61
 msgid ""
 "Select <gui>Wallpapers</gui> to use one of the many professional background "
-"images that ship with GNOME. Some wallpapers are partially transparent and "
+"images that ship with Endless. Some wallpapers are partially transparent and "
 "allow a background color to show through. For these wallpapers, there will "
 "be a color selector button in the bottom-right corner."
 msgstr ""
 "Izvēlieties <gui>Tapetes</gui>, lai izmantotu kādu no profesionāli "
-"veidotajiem fona attēliem, ko piedāvā GNOME. Dažas tapetes ir daļēji "
+"veidotajiem fona attēliem, ko piedāvā Endless. Dažas tapetes ir daļēji "
 "caurspīdīgas, un caur tām ir redzama fona krāsa. Šīm tapetēm ir pieejama "
 "fona krāsas izvēles poga."
 
@@ -15056,8 +15056,8 @@ msgstr "<link xref=\"net-default-email\">Noklusētās e-pasta programmas</link>"
 
 #. (itstool) path: credit/name
 #: C/net-email.page:19 C/net-general.page:22
-msgid "The GNOME Documentation Project"
-msgstr "GNOME dokumentācijas projekts"
+msgid "The Endless Documentation Project"
+msgstr "Endless dokumentācijas projekts"
 
 #. (itstool) path: page/title
 #: C/net-email.page:23
@@ -21387,11 +21387,11 @@ msgstr "Privātuma iestatījumi"
 #. (itstool) path: page/p
 #: C/privacy.page:27
 msgid ""
-"The <em>Privacy Settings</em> in GNOME help you control whether or not "
+"The <em>Privacy Settings</em> in Endless help you control whether or not "
 "certain parts of your desktop are visible to others. You can also use these "
 "settings to clear your computer usage history and clean-out unecessary files."
 msgstr ""
-"GNOME <em>privātuma iestatījumi</em> palīdz jums noteikt, vai noteiktas jūsu "
+"Endless <em>privātuma iestatījumi</em> palīdz jums noteikt, vai noteiktas jūsu "
 "darbvirsmas daļas ir redzamas citiem. Jūs arī varat izmantot šos "
 "iestatījumus, lai iztīrītu sava datora lietošanas vēsturi un izmest "
 "nevajadzīgās datnes."
@@ -22259,10 +22259,10 @@ msgstr "Koplietošanas iestatījumi"
 #. (itstool) path: page/p
 #: C/settings-sharing.page:25
 msgid ""
-"The <em>Sharing Settings</em> in GNOME help you control what is shared over "
+"The <em>Sharing Settings</em> in Endless help you control what is shared over "
 "the local network, or through other technologies such as <em>Bluetooth</em>."
 msgstr ""
-"GNOME <em>koplietošanas iestatījumi</em> palīdz jums kontrolēt, kas tiek "
+"Endless <em>koplietošanas iestatījumi</em> palīdz jums kontrolēt, kas tiek "
 "koplietots lokālajā tīklā, vai caur citām tehnoloģijām, piemēram "
 "<em>Bluetooth</em>."
 
@@ -23077,13 +23077,13 @@ msgstr "Iesnaudināt"
 #: C/shell-exit.page:103
 msgid ""
 "To save power, suspend your computer when you are not using it. If you use a "
-"laptop, GNOME suspends your computer automatically when you close the lid. "
+"laptop, Endless suspends your computer automatically when you close the lid. "
 "This saves your state to your computer's memory and powers off most of the "
 "computer's functions. A very small amount of power is still used during "
 "suspend."
 msgstr ""
 "Lai taupītu jaudu, iesnaudiniet savu datoru, kad to nelietojiet. Ja lietojat "
-"klēpjdatoru, GNOME iesnaudinās datoru automātiski, kad ekrāns ir aizvērts. "
+"klēpjdatoru, Endless iesnaudinās datoru automātiski, kad ekrāns ir aizvērts. "
 "Iesnaudināšana saglabā datora stāvokli atmiņā un izslēdz lielāko daļu datora "
 "funkciju. Iesnaudināšanas laikā tiek izmatots ļoti maz jaudas."
 
@@ -23287,25 +23287,25 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/shell-introduction.page:32
-msgid "Introduction to GNOME"
-msgstr "Ievads GNOME vidē"
+msgid "Introduction to Endless"
+msgstr "Ievads Endless vidē"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:34
 msgid ""
-"GNOME 3 features a completely reimagined user interface designed to stay out "
+"Endless features a completely reimagined user interface designed to stay out "
 "of your way, minimize distractions, and help you get things done. When you "
 "first log in, you will see an empty desktop and the top bar."
 msgstr ""
-"GNOME 3 ir izstrādāta pilnīgi jauna lietotāja saskarne, kuras uzdevums ir "
+"Endless ir izstrādāta pilnīgi jauna lietotāja saskarne, kuras uzdevums ir "
 "neuzkrītoši novērst traucējumus jūsu darbā un palīdzēt efektīvi paveikt "
 "iecerēto. Pirmo reizi ierakstoties, jūs redzēsiet tukšu darbvirsmu un "
 "augšējo joslu."
 
 #. (itstool) path: media/p
 #: C/shell-introduction.page:41 C/shell-introduction.page:46
-msgid "GNOME shell top bar"
-msgstr "GNOME čaulas augšējā josla"
+msgid "Endless shell top bar"
+msgstr "Endless čaulas augšējā josla"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:51
@@ -23611,11 +23611,11 @@ msgstr "Logu saraksts"
 #. (itstool) path: when/p
 #: C/shell-introduction.page:263
 msgid ""
-"GNOME features a different approach to switching windows than a permanently "
+"Endless features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus "
 "on the task at hand without distractions."
 msgstr ""
-"GNOME izmanto citu veidu, kā pārslēgties starp logiem, nevis redzamu logu "
+"Endless izmanto citu veidu, kā pārslēgties starp logiem, nevis redzamu logu "
 "sarakstu, kā tas ir citās darbvirsmās. Tas jums ļauj pievērst uzmanību "
 "aktīvajam uzdevumam bet uzmanības novēršanas."
 
@@ -23634,13 +23634,13 @@ msgstr ""
 #. (itstool) path: when/p
 #: C/shell-introduction.page:280
 msgid ""
-"At the right-hand side of the window list, GNOME displays a short identifier "
+"At the right-hand side of the window list, Endless displays a short identifier "
 "for the current worskpace, such as <gui>1</gui> for the first (top) "
 "workspace. In addition, the identifier also displays the total number of "
 "available workspaces. To switch to a different workspace, you can click the "
 "identifier and select the workspace you want to use from the menu."
 msgstr ""
-"Logu saraksta labajā pusē GNOME parāda pašreizējās darbvietas "
+"Logu saraksta labajā pusē Endless parāda pašreizējās darbvietas "
 "identifikatoru, piemēram, <gui>1</gui> pirmajai (augšējai) darbvietai. "
 "Identifikators arī attēlo kopējo pieejamo darbvietu skaitu. Lai pārslēgtos "
 "uz citu darbvietu, varat spiest uz identifikatora un izvēlēties vēlamo "
@@ -24740,7 +24740,7 @@ msgstr "Pārvietot logus un mainīt to izmēru"
 #: C/shell-windows-states.page:25
 msgid ""
 "You can move and resize windows to help you work more efficiently. In "
-"addition to the dragging behavior you might expect, GNOME features shortcuts "
+"addition to the dragging behavior you might expect, Endless features shortcuts "
 "and modifiers to help you arrange windows quickly."
 msgstr ""
 "Jūs varat pārvietot un mainīt izmērus logiem, lai jūs varētu strādāt "
@@ -24989,11 +24989,11 @@ msgstr "Logi un darbvietas"
 #. (itstool) path: page/p
 #: C/shell-windows.page:23
 msgid ""
-"Like other desktops, GNOME uses windows to display your running "
+"Like other desktops, Endless uses windows to display your running "
 "applications. Using both the <gui>Activities</gui> overview and the "
 "<gui>dash</gui>, you can launch new applications and control active windows."
 msgstr ""
-"Kā citas darbvirsmas, GNOME izmanto logus, lai attēlotu palaistās lietotnes. "
+"Kā citas darbvirsmas, Endless izmanto logus, lai attēlotu palaistās lietotnes. "
 "Lietojot <gui>Aktivitāšu</gui> pārskatu un <gui>paneli</gui>, jūs varat "
 "palaist jaunas lietotnes un kontrolēt aktīvo logu."
 
@@ -26088,15 +26088,15 @@ msgstr "Ko nozīmē ikonas augšējā joslā?"
 msgid ""
 "This section explains the meaning of icons located on the top right corner "
 "of the screen. More specifically, the different variations of the icons "
-"provided by the GNOME interface are described."
+"provided by the Endless interface are described."
 msgstr ""
 "Šī sadaļā izskaidros ekrāna augšējā labajā stūrī esošo ikonu nozīmi. "
-"Precīzāk, ir aprakstīt dažādie ikonu varianti, ko rāda GNOME saskarne."
+"Precīzāk, ir aprakstīt dažādie ikonu varianti, ko rāda Endless saskarne."
 
 #. (itstool) path: media/p
 #: C/status-icons.page:29 C/status-icons.page:35
-msgid "GNOME Shell top bar"
-msgstr "GNOME čaulas augšējā josla"
+msgid "Endless Shell top bar"
+msgstr "Endless čaulas augšējā josla"
 
 #. (itstool) path: section/title
 #: C/status-icons.page:43
@@ -26417,11 +26417,11 @@ msgstr "Rakstzīmju karte"
 #. (itstool) path: section/p
 #: C/tips-specialchars.page:43
 msgid ""
-"GNOME comes with a character map application that allows you to browse all "
+"Endless comes with a character map application that allows you to browse all "
 "the characters in Unicode. Use the character map to find the character you "
 "want, and then copy and paste it to wherever you need it."
 msgstr ""
-"GNOME nāk kopā ar rakstzīmju kartes programmu, kas ļauj jums aplūkot visas "
+"Endless nāk kopā ar rakstzīmju kartes programmu, kas ļauj jums aplūkot visas "
 "rakstzīmes unikodā. Izmantojiet rakstzīmju karti, lai atrast rakstzīmes, "
 "kuras jums vajag, un pēc tam nokopējiet un ielīmējiet tās, kur vien jums "
 "vajag."
@@ -26679,10 +26679,10 @@ msgstr "Piedalīties, lai uzlabotu tulkojumus"
 #. (itstool) path: page/p
 #: C/translate.page:26
 msgid ""
-"GNOME's help is being translated by a world-wide volunteer community. You "
+"Endless's help is being translated by a world-wide volunteer community. You "
 "are welcome to participate."
 msgstr ""
-"GNOME palīdzības lapas tulko brīvprātīgo kopiena visā pasaulē. Katrs ir "
+"Endless palīdzības lapas tulko brīvprātīgo kopiena visā pasaulē. Katrs ir "
 "laipni aicināts piedalīties."
 
 #. (itstool) path: page/p
@@ -26710,12 +26710,12 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/translate.page:36
 msgid ""
-"You can chat with GNOME translators using <link href=\"https://cbe003.chat."
+"You can chat with Endless translators using <link href=\"https://cbe003.chat."
 "mibbit.com/?url=irc%3A%2F%2Firc.gnome.org%2Fi18n\">irc</link>. People on the "
 "channel are located worldwide, so you may not get an immediate response as a "
 "result of timezone differences."
 msgstr ""
-"Jūs varat tērzēt ar GNOME tulkotājiem, lietojot <link href=\"https://cbe003."
+"Jūs varat tērzēt ar Endless tulkotājiem, lietojot <link href=\"https://cbe003."
 "chat.mibbit.com/?url=irc%3A%2F%2Firc.gnome.org%2Fi18n\">IRC</link>. Cilvēki "
 "kanālā dzīvo dažādās pasaules valstīs, tāpēc laika zonu atšķirību dēļ var "
 "gadīties nesaņemt tūlītēju atbildi."
@@ -26917,17 +26917,17 @@ msgstr ""
 #| msgid ""
 #| "In the <gui>User Accounts</gui> window you can click the image next to "
 #| "the user's name on the right to set an image for the account. This image "
-#| "will be shown in the login window. GNOME provides some stock photos you "
+#| "will be shown in the login window. Endless provides some stock photos you "
 #| "can use, or you can select your own or take a picture with your webcam."
 msgid ""
 "In the <gui>Users</gui> panel, you can click the image next to the user's "
 "name to the right to set an image for the account. This image will be shown "
-"in the login window. GNOME provides some stock photos you can use, or you "
+"in the login window. Endless provides some stock photos you can use, or you "
 "can select your own or take a picture with your webcam."
 msgstr ""
 "Logā <gui>Lietotāju konti</gui> var veikt klikšķi uz attēla līdzās lietotāja "
 "vārdam labajā pusē, lai iestatītu konta attēlu. Šis attēls parādīsies "
-"ierakstīšanās logā. GNOME piedāvā standarta attēlus, bet jūs varat arī "
+"ierakstīšanās logā. Endless piedāvā standarta attēlus, bet jūs varat arī "
 "izvēlēties kādu no savējiem vai uzņemt jaunu attēlu ar tīmekļa kameru."
 
 #. (itstool) path: info/desc
@@ -28223,17 +28223,17 @@ msgstr "Wacom grafikas planšete"
 
 #~ msgid ""
 #~ "Click <gui>Session</gui> below the password entry box and choose "
-#~ "<gui>GNOME Classic</gui>."
+#~ "<gui>Endless Classic</gui>."
 #~ msgstr ""
 #~ "Spiediet <gui>Sesija</gui> zem paroles ievades kastes un izvēlieties "
-#~ "<gui>klasisko GNOME</gui>."
+#~ "<gui>klasisko Endless</gui>."
 
 #~ msgid ""
 #~ "Click <gui>Session</gui> below the password entry box and choose "
-#~ "<gui>GNOME</gui>."
+#~ "<gui>Endless</gui>."
 #~ msgstr ""
 #~ "Spiediet <gui>Sesija</gui> zem paroles ievades kastes un izvēlieties "
-#~ "<gui>GNOME</gui>."
+#~ "<gui>Endless</gui>."
 
 #~ msgid "Open <gui>Keyboard</gui>."
 #~ msgstr "Atveriet <gui>Tastatūra</gui>."
@@ -28670,13 +28670,13 @@ msgstr "Wacom grafikas planšete"
 #~ msgid ""
 #~ "Back in the <gui>User Accounts</gui> window you can click the image next "
 #~ "to the user's name on the right to set an image for the account. This "
-#~ "image will be shown in the login window. GNOME provides some stock photos "
+#~ "image will be shown in the login window. Endless provides some stock photos "
 #~ "you can use, or you can select your own or take a picture with your "
 #~ "webcam."
 #~ msgstr ""
 #~ "Pēc atgriešanās logā <gui>Lietotāju konti</gui> varat nospiest attēlu "
 #~ "līdzās lietotāja vārdam, lai iestatītu konta attēlu. Šis attēls "
-#~ "parādīsies ierakstīšanās logā. GNOME piedāvā standarta attēlus, bet jūs "
+#~ "parādīsies ierakstīšanās logā. Endless piedāvā standarta attēlus, bet jūs "
 #~ "varat arī izvēlēties kādu no savējiem vai uzņemt jaunu attēlu ar tīmekļa "
 #~ "kameru."
 
@@ -28865,12 +28865,12 @@ msgstr "Wacom grafikas planšete"
 #~ "jūsu vārdu no ekrāna, kad tas ir bloķēts."
 
 #~ msgid ""
-#~ "Many help topics in the GNOME Help instruct you to \"Click your name in "
+#~ "Many help topics in the Endless Help instruct you to \"Click your name in "
 #~ "the <gui>top bar</gui>.\" If you hide your name in the <gui>top bar</"
 #~ "gui>, you will need to click the small <gui>notification icon</gui> in "
 #~ "the <gui>top bar</gui> instead."
 #~ msgstr ""
-#~ "Daudzi palīdzības jautājumi GNOME palīdzībā norāda, ka “ir jāspiež uz "
+#~ "Daudzi palīdzības jautājumi Endless palīdzībā norāda, ka “ir jāspiež uz "
 #~ "sava vārda <gui>augšējā joslā</gui>”. Ja <gui>augšējā joslā</gui> "
 #~ "slēpsiet savu vārdu, tā vietā jums vajadzēs spiest uz mazas "
 #~ "<gui>paziņojumu ikonas</gui> <gui>augšējā joslā</gui>."
@@ -29311,13 +29311,13 @@ msgstr "Wacom grafikas planšete"
 #~ "If your computer's graphics card doesn't support certain features, a more "
 #~ "basic version of the desktop will be displayed and you will see a message "
 #~ "telling you what happened. This is called <em>fallback mode</em>, and it "
-#~ "allows you to use GNOME on your computer without some of its more "
+#~ "allows you to use Endless on your computer without some of its more "
 #~ "advanced features."
 #~ msgstr ""
 #~ "Ja jūsu datora video karte neatbalsta visas vajadzīgās iespējas, "
 #~ "parādīsies vienkāršāka darbvirsmas versija ar ziņojumu par to, kas "
 #~ "noticis. To sauc par <em>atkāpšanās režīmu</em>, un tas ļauj jums "
-#~ "izmantot GNOME bez dažām jaunākajām iespējām."
+#~ "izmantot Endless bez dažām jaunākajām iespējām."
 
 #~ msgid ""
 #~ "You can manually switch to <em>fallback mode</em> by doing the following:"
@@ -29361,15 +29361,15 @@ msgstr "Wacom grafikas planšete"
 
 #~ msgid ""
 #~ "Starting in fallback mode doesn't necessarily mean that your graphics "
-#~ "card isn't good enough to run GNOME - it might just mean that you don't "
+#~ "card isn't good enough to run Endless - it might just mean that you don't "
 #~ "have the right drivers installed for your graphics card. If you can find "
 #~ "better graphics card drivers for your computer, you may be able to run "
-#~ "the full version of GNOME."
+#~ "the full version of Endless."
 #~ msgstr ""
 #~ "Palaišanās atkāpšanās režīmā neliecina, ka jūsu video karte neatbalsta "
-#~ "GNOME iespējas - varbūt vienkārši vēl nav instalēti pareizie draiveri. Ja "
+#~ "Endless iespējas - varbūt vienkārši vēl nav instalēti pareizie draiveri. Ja "
 #~ "varat atrast labākus video kartes draiverus jūsu datoram, iespējams, ar "
-#~ "tiem izdosies palaist pilno GNOME versiju."
+#~ "tiem izdosies palaist pilno Endless versiju."
 
 #~ msgid "Share and transfer files"
 #~ msgstr "Koplietot un pārsūtīt datnes"
@@ -30597,13 +30597,13 @@ msgstr "Wacom grafikas planšete"
 #~ "\">nosūtīšanai.</link>"
 
 #~ msgid ""
-#~ "<app>Documents</app> is an application of <em>GNOME</em> that lets you "
+#~ "<app>Documents</app> is an application of <em>Endless</em> that lets you "
 #~ "read, store and organize information about the documents you have "
 #~ "created. Supported formats are PDF, DVI, XPS, PostScript and all the "
 #~ "formats supported by Evince, Microsoft Office, Libreoffice files and "
 #~ "Google Docs."
 #~ msgstr ""
-#~ "<app>Dokumenti</app> ir <em>GNOME</em> lietotne, kas dod iespēju lasīt, "
+#~ "<app>Dokumenti</app> ir <em>Endless</em> lietotne, kas dod iespēju lasīt, "
 #~ "saglabāt un organizēt informāciju par jūsu izveidotajiem dokumentiem. "
 #~ "Atbalstītie formāti ir PDF, DVI, XPS, PostScript un citi formāti, ko "
 #~ "atbalsta Evince, Microsoft Office, LibreOffice un Google Docs."
@@ -31698,14 +31698,14 @@ msgstr "Wacom grafikas planšete"
 #~ "If you're working on something and don't want to be bothered, you can "
 #~ "change your status to <gui>Unavailable</gui>. Just click your name on the "
 #~ "top bar and select <gui>Available</gui> to toggle it to <gui>Unavailable</"
-#~ "gui>. If you use GNOME's built-in instant messaging features, this will "
+#~ "gui>. If you use Endless's built-in instant messaging features, this will "
 #~ "change your availability to your chat contacts, so they know not to "
 #~ "disturb you."
 #~ msgstr ""
 #~ "Ja jūs pie kaut kā strādājat un nevēlaties tapt traucēts, jūs varat "
 #~ "nomainīt savu statusu uz <gui>Nav pieejams</gui>. Vienkārši spiediet savu "
 #~ "vārdu augšējā joslā un izvēlieties <gui>Pieejams</gui>, lai to pārslēgtu "
-#~ "uz <gui>Nav pieejams</gui>. Ja lietojat GNOME iebūvētās tērzēšanas "
+#~ "uz <gui>Nav pieejams</gui>. Ja lietojat Endless iebūvētās tērzēšanas "
 #~ "iezīmes, jūsu pieejamība tiks mainīta jūsu tērzēšanas kontaktiem, lai tie "
 #~ "jūs netraucētu."
 

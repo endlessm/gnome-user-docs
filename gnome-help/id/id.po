@@ -53,18 +53,18 @@ msgid ""
 msgstr "-"
 
 #: C/index.page:6(info/desc)
-msgid "A guide for GNOME 3 desktop users"
-msgstr "Panduan bagi pengguna desktop GNOME 3"
+msgid "A guide for Endless desktop users"
+msgstr "Panduan bagi pengguna desktop Endless"
 
 #: C/index.page:8(info/title)
 msgctxt "link"
-msgid "GNOME Help"
-msgstr "Bantuan GNOME"
+msgid "Endless Help"
+msgstr "Bantuan Endless"
 
 #: C/index.page:9(info/title)
 msgctxt "text"
-msgid "GNOME Help"
-msgstr "Bantuan GNOME"
+msgid "Endless Help"
+msgstr "Bantuan Endless"
 
 #: C/index.page:10(info/title)
 msgctxt "link:trail"
@@ -78,10 +78,10 @@ msgstr ""
 #: C/index.page:15(page/title)
 msgid ""
 "<media type=\"image\" src=\"figures/yelp-icon-big.png\">Yelp logo</media> "
-"GNOME Help"
+"Endless Help"
 msgstr ""
 "<media type=\"image\" src=\"figures/yelp-icon-big.png\">Logo Yelp</media> "
-"Bantuan GNOME"
+"Bantuan Endless"
 
 #: C/legal.xml:3(p/link)
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
@@ -473,15 +473,15 @@ msgstr "Baca layar dalam Braille"
 
 #: C/a11y-braille.page:25(page/p)
 msgid ""
-"GNOME provides the <app>Orca</app> screen reader to display the user "
+"Endless provides the <app>Orca</app> screen reader to display the user "
 "interface on a refreshable Braille display. Depending on how you installed "
-"GNOME, you might not have Orca installed. <link href=\"install:orca"
+"Endless, you might not have Orca installed. <link href=\"install:orca"
 "\">Install Orca</link>, then refer to the <link href=\"help:orca\">Orca "
 "Help</link> for more information."
 msgstr ""
-"GNOME menyediakan pembaca layar <app>Orca</app> untuk menampilkan antar muka "
+"Endless menyediakan pembaca layar <app>Orca</app> untuk menampilkan antar muka "
 "pengguna pada suatu tampilan Braille yang dapat disegarkan. Bergantung "
-"kepada bagaimana Anda memasang GNOME, mungkin Anda belum memasang Orca. "
+"kepada bagaimana Anda memasang Endless, mungkin Anda belum memasang Orca. "
 "<link href=\"install:orca\">Pasang Orca</link>, lalu lihatlah <link href="
 "\"help:orca\">Bantuan Orca</link> untuk informasi lebih lanjut."
 
@@ -842,12 +842,12 @@ msgstr "Akses universal"
 
 #: C/a11y.page:35(page/p)
 msgid ""
-"The GNOME desktop includes assistive technologies to support users with "
+"The Endless desktop includes assistive technologies to support users with "
 "various impairments and special needs, and to interact with common assistive "
 "devices. An accessibility menu can be added to the top bar, giving easier "
 "access to many of the accessibility features."
 msgstr ""
-"Desktop GNOME mengandung teknologi bantu untuk mendukung para pengguna yang "
+"Desktop Endless mengandung teknologi bantu untuk mendukung para pengguna yang "
 "memiliki berbagai kebutuhan khusus dan kekurangan, dan untuk berinteraksi "
 "dengan berbagai perangkat bantu umum. Menu aksesibilitas dapat ditambahkan "
 "ke bilah di puncah, memberikan akses yang lebih mudah ke banyak fitur "
@@ -1028,13 +1028,13 @@ msgstr "Baca layar keras-keras"
 
 #: C/a11y-screen-reader.page:21(page/p)
 msgid ""
-"GNOME provides the <app>Orca</app> screen reader to speak the user "
-"interface. Depending on how you installed GNOME, you might not have Orca "
+"Endless provides the <app>Orca</app> screen reader to speak the user "
+"interface. Depending on how you installed Endless, you might not have Orca "
 "installed. <link href=\"install:orca\">Install Orca</link>, then refer to "
 "the <link href=\"help:orca\">Orca Help</link> for more information."
 msgstr ""
-"GNOME menyediakan <app>Orca</app> pembaca layar untuk mengucapkan antar muka "
-"pengguna. Tergantung pada bagaimana Anda memasang GNOME, Orca mungkin tidak "
+"Endless menyediakan <app>Orca</app> pembaca layar untuk mengucapkan antar muka "
+"pengguna. Tergantung pada bagaimana Anda memasang Endless, Orca mungkin tidak "
 "terpasang. <link href=\"install:orca\">Pasang Orca</link>, kemudian lihat "
 "<link href=\"help:orca\">Bantuan Orca</link> untuk informasi lebih lanjut."
 
@@ -1369,8 +1369,8 @@ msgstr "Beberapa tip tentang menggunakan panduan bantuan desktop."
 #: C/user-changepicture.page:13(credit/name)
 #: C/user-delete.page:17(credit/name) C/user-goodpassword.page:12(credit/name)
 #: C/video-dvd.page:14(credit/name) C/video-sending.page:11(credit/name)
-msgid "GNOME Documentation Project"
-msgstr "Projek Dokumentasi GNOME"
+msgid "Endless Documentation Project"
+msgstr "Projek Dokumentasi Endless"
 
 #: C/about-this-guide.page:17(page/title)
 msgid "About this guide"
@@ -1440,8 +1440,8 @@ msgstr ""
 "berharap bahwa Anda tak pernah perlu memakainya."
 
 #: C/about-this-guide.page:29(page/p)
-msgid "-- The GNOME documentation team"
-msgstr "-- Tim dokumentasi GNOME"
+msgid "-- The Endless documentation team"
+msgstr "-- Tim dokumentasi Endless"
 
 #: C/accounts-add.page:13(credit/name)
 #: C/bluetooth-connect-device.page:17(credit/name)
@@ -1481,12 +1481,12 @@ msgstr "Tambahkan akun"
 
 #: C/accounts-add.page:26(page/p)
 msgid ""
-"Adding an account will help link your online accounts with your GNOME "
+"Adding an account will help link your online accounts with your Endless "
 "desktop. Thus, your email program, chat program and other related "
 "applications will be set up for you."
 msgstr ""
 "Menambahkan akun akan membantu menghubungkan akun daring Anda dengan desktop "
-"GNOME Anda. Jadi, program surel, program obrolan, dan aplikasi terkait lain "
+"Endless Anda. Jadi, program surel, program obrolan, dan aplikasi terkait lain "
 "akan disiapkan untuk Anda."
 
 #: C/accounts-add.page:32(item/p)
@@ -1518,10 +1518,10 @@ msgstr ""
 #, fuzzy
 msgid ""
 "If you have entered your credentials correctly, you will be prompted to "
-"allow GNOME access to your online account. Authorize access to continue."
+"allow Endless access to your online account. Authorize access to continue."
 msgstr ""
 "Setelah Anda memasukkan kredensial dengan benar, Anda akan ditanya untuk "
-"mengijinkan GNOME mengakses akun daring Anda. Pilih <gui>Berikan Akses</gui> "
+"mengijinkan Endless mengakses akun daring Anda. Pilih <gui>Berikan Akses</gui> "
 "untuk melanjutkan."
 
 #: C/accounts-add.page:51(item/p)
@@ -1546,12 +1546,12 @@ msgstr ""
 
 #: C/accounts-add.page:62(note/p)
 msgid ""
-"For security reasons, GNOME will not store your password on your computer. "
+"For security reasons, Endless will not store your password on your computer. "
 "Instead, it stores a token that is provided by the online service. If you "
 "want to fully revoke the link between your desktop and the online service, "
 "<link xref=\"accounts-remove\">remove</link> it."
 msgstr ""
-"Untuk alasan keamanan, GNOME tidak akan menyimpan sandi Anda di komputer "
+"Untuk alasan keamanan, Endless tidak akan menyimpan sandi Anda di komputer "
 "Anda. Sebagai gantinya, ia menyimpan suatu token yang disediakan oleh "
 "layanan daring. Bila Anda ingin mencabut sepenuhnya kaitan antara desktop "
 "Anda dan layanan daring,, <link xref=\"accounts-remove\">hapus</link> saja."
@@ -1642,10 +1642,10 @@ msgstr ""
 
 #: C/accounts-create.page:63(item/p)
 msgid ""
-"You need to grant GNOME access to your new account in order to use it with "
+"You need to grant Endless access to your new account in order to use it with "
 "<app>Online Accounts</app>."
 msgstr ""
-"Anda perlu memberi ijin kepada GNOME untuk mengakses akun baru Anda untuk "
+"Anda perlu memberi ijin kepada Endless untuk mengakses akun baru Anda untuk "
 "memakainya dengan <app>Akun Daring</app>"
 
 #: C/accounts-create.page:67(item/p)
@@ -1803,7 +1803,7 @@ msgstr ""
 
 #: C/accounts-remove.page:50(page/p)
 msgid ""
-"To remove GNOME's access to the online account, you should revoke the access "
+"To remove Endless's access to the online account, you should revoke the access "
 "through the account's website or similar service."
 msgstr ""
 
@@ -3843,10 +3843,10 @@ msgstr "Apa instrumen pengukuran warna yang didukung?"
 
 #: C/color-calibrationdevices.page:21(page/p)
 msgid ""
-"GNOME relies on the Argyll color management system to support color "
+"Endless relies on the Argyll color management system to support color "
 "instruments. Thus the following display measuring instruments are supported:"
 msgstr ""
-"GNOME bergantung kepada sistem manajemen warna Argyll untuk mendukung "
+"Endless bergantung kepada sistem manajemen warna Argyll untuk mendukung "
 "instrumen warna. Maka instrumen pengukuran tampilan berikut didukung:"
 
 #: C/color-calibrationdevices.page:28(item/p)
@@ -4291,10 +4291,10 @@ msgstr ""
 #: C/color-testing.page:33(page/p)
 #, fuzzy
 msgid ""
-"GNOME comes with several profiles for testing that make it very clear when "
+"Endless comes with several profiles for testing that make it very clear when "
 "the profiles are being applied:"
 msgstr ""
-"Di GNOME kami meluncurkan beberapa profil untuk percobaan yang membuatnya "
+"Di Endless kami meluncurkan beberapa profil untuk percobaan yang membuatnya "
 "sangat jelas ketika profil sedang diterapkan:"
 
 #: C/color-testing.page:38(item/title)
@@ -5956,7 +5956,7 @@ msgstr "Dokumen"
 
 #: C/documents.page:37(page/p)
 msgid ""
-"<app>Documents</app> is a GNOME application that lets you display, organize, "
+"<app>Documents</app> is an Endless application that lets you display, organize, "
 "and print the documents on your computer or those created remotely using "
 "<em>Google Docs</em> or <em>SkyDrive</em>."
 msgstr ""
@@ -6810,7 +6810,7 @@ msgstr "Menyembunyikan berkas"
 
 #: C/files-hidden.page:24(page/p)
 msgid ""
-"The GNOME file manager gives you the ability to hide and unhide files at "
+"The Endless file manager gives you the ability to hide and unhide files at "
 "your discretion. When a file is hidden, it isn't displayed by the file "
 "manager, but it's still there in its folder."
 msgstr ""
@@ -7217,7 +7217,7 @@ msgstr "Mengubah nama berkas atau folder"
 
 #: C/files-rename.page:32(page/p)
 msgid ""
-"As with other file managers, you can use the GNOME file manager to change "
+"As with other file managers, you can use the Endless file manager to change "
 "the name of a file or folder."
 msgstr ""
 
@@ -7897,10 +7897,10 @@ msgstr ""
 #: C/get-involved.page:37(section/p)
 msgid ""
 "Your report will be given an ID number, and its status will be updated as it "
-"is being dealt with. Thanks for helping make the GNOME Help better!"
+"is being dealt with. Thanks for helping make the Endless Help better!"
 msgstr ""
 "Laporan Anda akan diberi suatu nomor ID, dan statusnya akan dimutakhirkan "
-"ketika sedang ditangani. Terima kasih telah membantu membuat Bantuan GNOME "
+"ketika sedang ditangani. Terima kasih telah membantu membuat Bantuan Endless "
 "lebih baik!"
 
 #: C/get-involved.page:43(section/title)
@@ -7910,7 +7910,7 @@ msgstr "Hubungi kami"
 #: C/get-involved.page:44(section/p)
 msgid ""
 "You can send an <link href=\"mailto:gnome-doc-list@gnome.org\">email</link> "
-"to the GNOME docs mailing list to learn more about how to get involved with "
+"to the Endless docs mailing list to learn more about how to get involved with "
 "the documentation team."
 msgstr ""
 
@@ -7920,18 +7920,18 @@ msgstr "Petr Kovar"
 
 #: C/gnome-classic.page:22(info/desc)
 msgid ""
-"Consider switching to GNOME Classic if you prefer a more traditional desktop "
+"Consider switching to Endless Classic if you prefer a more traditional desktop "
 "experience."
 msgstr ""
 
 #: C/gnome-classic.page:26(page/title)
-msgid "What is GNOME Classic?"
-msgstr "Apa itu GNOME Klasik?"
+msgid "What is Endless Classic?"
+msgstr "Apa itu Endless Klasik?"
 
 #: C/gnome-classic.page:28(page/p)
 msgid ""
-"<em>GNOME Classic</em> is a feature for users who prefer a more traditional "
-"desktop experience. While <em>GNOME Classic</em> is based on <em>GNOME 3</"
+"<em>Endless Classic</em> is a feature for users who prefer a more traditional "
+"desktop experience. While <em>Endless Classic</em> is based on <em>Endless</"
 "em> technologies, it provides a number of changes to the user interface, "
 "such as the <gui xref=\"shell-terminology\">Applications</gui> and <gui xref="
 "\"shell-terminology\">Places</gui> menus on the top bar, and a window list "
@@ -7966,7 +7966,7 @@ msgstr ""
 
 #: C/gnome-classic.page:49(section/p)
 msgid ""
-"At the right-hand side of the window list, GNOME displays a short identifier "
+"At the right-hand side of the window list, Endless displays a short identifier "
 "for the current workspace, such as <gui>1</gui> for the first (top) "
 "workspace. In addition, the identifier also displays the total number of "
 "available workspaces. To switch to a different workspace, you can click the "
@@ -7982,18 +7982,18 @@ msgid ""
 msgstr ""
 
 #: C/gnome-classic.page:63(section/title)
-msgid "Switch to and from GNOME Classic"
-msgstr "Bertukar ke dan dari GNOME Klasik"
+msgid "Switch to and from Endless Classic"
+msgstr "Bertukar ke dan dari Endless Klasik"
 
 #: C/gnome-classic.page:66(note/p)
 msgid ""
-"GNOME Classic is only available on systems with certain GNOME Shell "
+"Endless Classic is only available on systems with certain Endless Shell "
 "extensions installed. Some Linux distributions may not have these extensions "
 "available or installed by default."
 msgstr ""
 
 #: C/gnome-classic.page:72(steps/title)
-msgid "To switch from <em>GNOME</em> to <em>GNOME Classic</em>:"
+msgid "To switch from <em>Endless</em> to <em>Endless Classic</em>:"
 msgstr ""
 
 #: C/gnome-classic.page:74(item/p) C/gnome-classic.page:99(item/p)
@@ -8025,7 +8025,7 @@ msgstr "Masukkan sandi pada sapaan."
 #: C/gnome-classic.page:88(item/p)
 msgid ""
 "Click the options icon, which is displayed to the left of the <gui>Sign In</"
-"gui> button, and select <gui>GNOME Classic</gui>."
+"gui> button, and select <gui>Endless Classic</gui>."
 msgstr ""
 
 #: C/gnome-classic.page:92(item/p) C/gnome-classic.page:117(item/p)
@@ -8034,13 +8034,13 @@ msgid "Click the <gui>Sign In</gui> button."
 msgstr "Klik tombol <gui>✓</gui>."
 
 #: C/gnome-classic.page:97(steps/title)
-msgid "To switch from <em>GNOME Classic</em> to <em>GNOME</em>:"
+msgid "To switch from <em>Endless Classic</em> to <em>Endless</em>:"
 msgstr ""
 
 #: C/gnome-classic.page:113(item/p)
 msgid ""
 "Click the options icon, which is displayed to the left of the <gui>Sign In</"
-"gui> button, and select <gui>GNOME</gui>."
+"gui> button, and select <gui>Endless</gui>."
 msgstr ""
 
 #: C/hardware-auth.page:13(info/desc)
@@ -8219,13 +8219,13 @@ msgstr "IRC"
 #: C/help-irc.page:19(page/p)
 msgid ""
 "IRC stands for Internet Relay Chat. It is a real-time multi-user messaging "
-"system. You can get help and advice on the GNOME IRC server from other GNOME "
+"system. You can get help and advice on the Endless IRC server from other Endless "
 "users and developers."
 msgstr ""
 
 #: C/help-irc.page:24(page/p)
 msgid ""
-"To connect to the GNOME IRC server, use <app>empathy</app> or <app>xchat</"
+"To connect to the Endless IRC server, use <app>empathy</app> or <app>xchat</"
 "app>, or use a web interface like <link href=\"http://chat.mibbit.com/"
 "\">mibbit</link>."
 msgstr ""
@@ -8238,7 +8238,7 @@ msgstr ""
 
 #: C/help-irc.page:32(page/p)
 msgid ""
-"The GNOME IRC server is <sys>irc.gnome.org</sys>. You may also see it "
+"The Endless IRC server is <sys>irc.gnome.org</sys>. You may also see it "
 "referred to as the \"GIMP network\". If your computer is properly configured "
 "you can click on the link <link href=\"irc://irc.gnome.org/gnome\"/> to "
 "access the <sys>gnome</sys> channel."
@@ -8254,7 +8254,7 @@ msgstr ""
 
 #: C/help-irc.page:41(note/p)
 msgid ""
-"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">GNOME "
+"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">Endless "
 "code of conduct</link> applies when you chat on IRC."
 msgstr ""
 
@@ -8269,7 +8269,7 @@ msgstr "Milis"
 #: C/help-mailing-list.page:28(page/p)
 msgid ""
 "Mailing lists are email based discussions. You can ask for support using the "
-"GNOME mailing lists. Almost each GNOME application has its own mailing list. "
+"Endless mailing lists. Almost each Endless application has its own mailing list. "
 "The complete list of mailing-lists are listed at <link href=\"http://mail."
 "gnome.org/mailman/listinfo\"/>."
 msgstr ""
@@ -9851,7 +9851,7 @@ msgstr "Ada tiga pilihan yang ditampilkan di puncak:"
 #: C/look-background.page:71(item/p)
 msgid ""
 "Select <gui>Wallpapers</gui> to use one of the many professional background "
-"images that ship with GNOME. Some wallpapers change throughout the day. "
+"images that ship with Endless. Some wallpapers change throughout the day. "
 "These wallpapers have a small clock icon in the bottom-right corner."
 msgstr ""
 
@@ -12271,8 +12271,8 @@ msgid "<link xref=\"net-default-email\">Default email apps</link>"
 msgstr "<link xref=\"net-default-email\">App surel baku</link>"
 
 #: C/net-email.page:19(credit/name) C/net-general.page:22(credit/name)
-msgid "The GNOME Documentation Project"
-msgstr "Projek Dokumentasi GNOME"
+msgid "The Endless Documentation Project"
+msgstr "Projek Dokumentasi Endless"
 
 #: C/net-email.page:23(page/title)
 msgid "Email &amp; email software"
@@ -16694,7 +16694,7 @@ msgstr "Tatanan Privasi"
 
 #: C/privacy.page:27(page/p)
 msgid ""
-"The <em>Privacy Settings</em> in GNOME help you control whether or not "
+"The <em>Privacy Settings</em> in Endless help you control whether or not "
 "certain parts of your desktop are visible to others. You can also use these "
 "settings to clear your computer usage history and clean-out unecessary files."
 msgstr ""
@@ -17338,7 +17338,7 @@ msgstr "Pengaturan Berbagi"
 
 #: C/settings-sharing.page:25(page/p)
 msgid ""
-"The <em>Sharing Settings</em> in GNOME help you control what is shared over "
+"The <em>Sharing Settings</em> in Endless help you control what is shared over "
 "the local network, or through other technologies such as <em>Bluetooth</em>."
 msgstr ""
 
@@ -17922,7 +17922,7 @@ msgstr "Suspensi"
 #: C/shell-exit.page:103(section/p)
 msgid ""
 "To save power, suspend your computer when you are not using it. If you use a "
-"laptop, GNOME suspends your computer automatically when you close the lid. "
+"laptop, Endless suspends your computer automatically when you close the lid. "
 "This saves your state to your computer's memory and powers off most of the "
 "computer's functions. A very small amount of power is still used during "
 "suspend."
@@ -18078,19 +18078,19 @@ msgstr ""
 "<gui>Aktivitas</gui>."
 
 #: C/shell-introduction.page:32(page/title)
-msgid "Introduction to GNOME"
-msgstr "Pengenalan ke GNOME"
+msgid "Introduction to Endless"
+msgstr "Pengenalan ke Endless"
 
 #: C/shell-introduction.page:34(page/p)
 msgid ""
-"GNOME 3 features a completely reimagined user interface designed to stay out "
+"Endless features a completely reimagined user interface designed to stay out "
 "of your way, minimize distractions, and help you get things done. When you "
 "first log in, you will see an empty desktop and the top bar."
 msgstr ""
 
 #: C/shell-introduction.page:41(media/p) C/shell-introduction.page:46(media/p)
-msgid "GNOME shell top bar"
-msgstr "Bilah puncak shell GNOME"
+msgid "Endless shell top bar"
+msgstr "Bilah puncak shell Endless"
 
 #: C/shell-introduction.page:51(page/p)
 msgid ""
@@ -18286,7 +18286,7 @@ msgstr "Daftar Jendela"
 
 #: C/shell-introduction.page:263(when/p)
 msgid ""
-"GNOME features a different approach to switching windows than a permanently "
+"Endless features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus "
 "on the task at hand without distractions."
 msgstr ""
@@ -18302,7 +18302,7 @@ msgstr ""
 
 #: C/shell-introduction.page:280(when/p)
 msgid ""
-"At the right-hand side of the window list, GNOME displays a short identifier "
+"At the right-hand side of the window list, Endless displays a short identifier "
 "for the current worskpace, such as <gui>1</gui> for the first (top) "
 "workspace. In addition, the identifier also displays the total number of "
 "available workspaces. To switch to a different workspace, you can click the "
@@ -19082,7 +19082,7 @@ msgstr "Memindah dan mengubah ukuran jendela"
 #: C/shell-windows-states.page:25(page/p)
 msgid ""
 "You can move and resize windows to help you work more efficiently. In "
-"addition to the dragging behavior you might expect, GNOME features shortcuts "
+"addition to the dragging behavior you might expect, Endless features shortcuts "
 "and modifiers to help you arrange windows quickly."
 msgstr ""
 
@@ -19259,7 +19259,7 @@ msgstr "Jendela dan area kerja"
 
 #: C/shell-windows.page:23(page/p)
 msgid ""
-"Like other desktops, GNOME uses windows to display your running "
+"Like other desktops, Endless uses windows to display your running "
 "applications. Using both the <gui>Activities</gui> overview and the "
 "<gui>dash</gui>, you can launch new applications and control active windows."
 msgstr ""
@@ -20583,12 +20583,12 @@ msgstr "Apa arti ikon-ikon pada bilah puncak?"
 msgid ""
 "This section explains the meaning of icons located on the top right corner "
 "of the screen. More specifically, the different variations of the icons "
-"provided by the GNOME interface are described."
+"provided by the Endless interface are described."
 msgstr ""
 
 #: C/status-icons.page:29(media/p) C/status-icons.page:35(media/p)
-msgid "GNOME Shell top bar"
-msgstr "Bilah puncak Shell GNOME"
+msgid "Endless Shell top bar"
+msgstr "Bilah puncak Shell Endless"
 
 #: C/status-icons.page:43(section/title)
 msgid "Universal Access Menu Icons"
@@ -20842,7 +20842,7 @@ msgstr "Peta karakter"
 
 #: C/tips-specialchars.page:43(section/p)
 msgid ""
-"GNOME comes with a character map application that allows you to browse all "
+"Endless comes with a character map application that allows you to browse all "
 "the characters in Unicode. Use the character map to find the character you "
 "want, and then copy and paste it to wherever you need it."
 msgstr ""
@@ -21014,10 +21014,10 @@ msgstr "Berpartisipasi untuk memperbaiki terjemahan"
 
 #: C/translate.page:26(page/p)
 msgid ""
-"GNOME's help is being translated by a world-wide volunteer community. You "
+"Endless's help is being translated by a world-wide volunteer community. You "
 "are welcome to participate."
 msgstr ""
-"Bantuan GNOME sedang diterjemahkan oleh komunitas sukarelawan di seluruh "
+"Bantuan Endless sedang diterjemahkan oleh komunitas sukarelawan di seluruh "
 "dunia. Anda dipersilakan untuk berpartisipasi."
 
 #: C/translate.page:29(page/p)
@@ -21042,12 +21042,12 @@ msgstr ""
 
 #: C/translate.page:36(page/p)
 msgid ""
-"You can chat with GNOME translators using <link href=\"https://cbe003.chat."
+"You can chat with Endless translators using <link href=\"https://cbe003.chat."
 "mibbit.com/?url=irc%3A%2F%2Firc.gnome.org%2Fi18n\">irc</link>. People on the "
 "channel are located worldwide, so you may not get an immediate response as a "
 "result of timezone differences."
 msgstr ""
-"Anda dapat mengobrol dengan para penerjemah GNOME memakai <link href="
+"Anda dapat mengobrol dengan para penerjemah Endless memakai <link href="
 "\"https://cbe003.chat.mibbit.com/?url=irc%3A%2F%2Firc.gnome.org%2Fi18n"
 "\">irc</link>. Orang-orang di kanal berada di seluruh penjuru dunia, "
 "sehingga Anda mungkin tidak mendapat respon seketika sebagai akibat dari "
@@ -21195,12 +21195,12 @@ msgstr ""
 msgid ""
 "In the <gui>Users</gui> panel, you can click the image next to the user's "
 "name to the right to set an image for the account. This image will be shown "
-"in the login window. GNOME provides some stock photos you can use, or you "
+"in the login window. Endless provides some stock photos you can use, or you "
 "can select your own or take a picture with your webcam."
 msgstr ""
 "Kembali ke <gui>User Account</gui> jendela Anda dapat mengklik gambar di "
 "samping nama pengguna pada hak untuk mengatur gambar untuk account. Gambar "
-"ini akan ditampilkan dalam jendela login. GNOME menyediakan stok foto "
+"ini akan ditampilkan dalam jendela login. Endless menyediakan stok foto "
 "beberapa dapat Anda gunakan, atau Anda dapat memilih sendiri atau mengambil "
 "gambar dengan webcam Anda."
 
