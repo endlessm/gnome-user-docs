@@ -39,7 +39,7 @@ msgstr ""
 "Shushi Kurose <md81bird@hitaki.net>, 2012\n"
 "Noriko Mizumoto <noriko@fedoraproject.org>, 2013\n"
 "坂本 貴史 <o-takashi@sakamocchi.jp>, 2013, 2014\n"
-"日本GNOMEユーザー会 <http://www.gnome.gr.jp/>, 2011, 2012"
+"日本Endlessユーザー会 <http://www.gnome.gr.jp/>, 2011, 2012"
 
 #. (itstool) path: credit/name
 msgid "Shaun McCance"
@@ -115,8 +115,8 @@ msgid "Read screen in Braille"
 msgstr "点字で画面を読む"
 
 #. (itstool) path: page/p
-msgid "GNOME provides the <app>Orca</app> screen reader to display the user interface on a refreshable Braille display. Depending on how you installed GNOME, you might not have Orca installed. <link href=\"install:orca\">Install Orca</link>, then refer to the <link href=\"help:orca\">Orca Help</link> for more information."
-msgstr "GNOME には <app>Orca</app> というスクリーンリーダーがあり、画面のユーザーインターフェースを点字ディスプレイに表示することができます。GNOME のインストール方法によっては、Orca がインストールされていないこともあります。<link href=\"install:orca\">Orca をインストールして</link>、詳細について<link href=\"help:orca\">Orca のヘルプ</link> を参照してください。"
+msgid "Endless provides the <app>Orca</app> screen reader to display the user interface on a refreshable Braille display. Depending on how you installed Endless, you might not have Orca installed. <link href=\"install:orca\">Install Orca</link>, then refer to the <link href=\"help:orca\">Orca Help</link> for more information."
+msgstr "Endless には <app>Orca</app> というスクリーンリーダーがあり、画面のユーザーインターフェースを点字ディスプレイに表示することができます。Endless のインストール方法によっては、Orca がインストールされていないこともあります。<link href=\"install:orca\">Orca をインストールして</link>、詳細について<link href=\"help:orca\">Orca のヘルプ</link> を参照してください。"
 
 #. (itstool) path: info/desc
 msgid "Make windows and buttons on the screen more (or less) vivid, so they're easier to see."
@@ -328,9 +328,9 @@ msgstr "ユニバーサルアクセス"
 
 #. (itstool) path: page/p
 #, fuzzy
-#| msgid "The GNOME desktop includes assistive technologies to support users with various impairments and special needs, and to interact with common assistive devices. Many accessibility features can be accessed from the accessibility menu in the top bar."
-msgid "The GNOME desktop includes assistive technologies to support users with various impairments and special needs, and to interact with common assistive devices. An accessibility menu can be added to the top bar, giving easier access to many of the accessibility features."
-msgstr "GNOME デスクトップは、さまざまな障害や特殊なニーズを持つユーザーをサポートし、一般的な支援機器と連携して動作する支援技術が備わっています。多くのアクセシビリティ機能は、トップバーのアクセシビリティメニューから操作できます。"
+#| msgid "The Endless desktop includes assistive technologies to support users with various impairments and special needs, and to interact with common assistive devices. Many accessibility features can be accessed from the accessibility menu in the top bar."
+msgid "The Endless desktop includes assistive technologies to support users with various impairments and special needs, and to interact with common assistive devices. An accessibility menu can be added to the top bar, giving easier access to many of the accessibility features."
+msgstr "Endless デスクトップは、さまざまな障害や特殊なニーズを持つユーザーをサポートし、一般的な支援機器と連携して動作する支援技術が備わっています。多くのアクセシビリティ機能は、トップバーのアクセシビリティメニューから操作できます。"
 
 #. (itstool) path: section/title
 msgid "Visual impairments"
@@ -433,8 +433,8 @@ msgid "Read screen aloud"
 msgstr "画面を読み上げる"
 
 #. (itstool) path: page/p
-msgid "GNOME provides the <app>Orca</app> screen reader to speak the user interface. Depending on how you installed GNOME, you might not have Orca installed. <link href=\"install:orca\">Install Orca</link>, then refer to the <link href=\"help:orca\">Orca Help</link> for more information."
-msgstr "GNOME には <app>Orca</app> というスクリーンリーダーがあり、画面のユーザーインターフェースを音声で読み上げることができます。GNOME のインストール方法によっては、Orca がインストールされていないこともあります。<link href=\"install:orca\">Orca をインストールして</link>、詳細について <link href=\"help:orca\">Orca のヘルプ</link> を参照してください。"
+msgid "Endless provides the <app>Orca</app> screen reader to speak the user interface. Depending on how you installed Endless, you might not have Orca installed. <link href=\"install:orca\">Install Orca</link>, then refer to the <link href=\"help:orca\">Orca Help</link> for more information."
+msgstr "Endless には <app>Orca</app> というスクリーンリーダーがあり、画面のユーザーインターフェースを音声で読み上げることができます。Endless のインストール方法によっては、Orca がインストールされていないこともあります。<link href=\"install:orca\">Orca をインストールして</link>、詳細について <link href=\"help:orca\">Orca のヘルプ</link> を参照してください。"
 
 #. (itstool) path: info/desc
 msgid "Have a delay between a key being pressed and that letter appearing on the screen."
@@ -577,8 +577,8 @@ msgid "A few tips on using the desktop help guide."
 msgstr "このデスクトップヘルプを利用する上でのいくつかのヒント"
 
 #. (itstool) path: credit/name
-msgid "GNOME Documentation Project"
-msgstr "GNOME ドキュメンテーションプロジェクト"
+msgid "Endless Documentation Project"
+msgstr "Endless ドキュメンテーションプロジェクト"
 
 #. (itstool) path: page/title
 msgid "About this guide"
@@ -609,8 +609,8 @@ msgid "Thank you for taking the time to read the desktop help. We sincerely hope
 msgstr "時間を割いてデスクトップヘルプを読んでくださり、ありがとうございます。今後これを読む必要がなくなることを心から願っております。"
 
 #. (itstool) path: page/p
-msgid "-- The GNOME documentation team"
-msgstr "-- GNOME ドキュメンテーションチーム"
+msgid "-- The Endless documentation team"
+msgstr "-- Endless ドキュメンテーションチーム"
 
 #. (itstool) path: credit/name
 msgid "Jim Campbell"
@@ -626,9 +626,9 @@ msgstr "アカウントの追加"
 
 #. (itstool) path: page/p
 #, fuzzy
-#| msgid "Adding an account will help link your online accounts with your GNOME desktop. Thus, your email program, chat program, and other related applications will be set up for you."
-msgid "Adding an account will help link your online accounts with your GNOME desktop. Thus, your email program, chat program and other related applications will be set up for you."
-msgstr "アカウントを追加することで、あなたのオンラインアカウントと GNOME デスクトップをリンクできるようになります。これにより、メールクライアント、チャットクライアント、また他の関連アプリケーションがセットアップされます。"
+#| msgid "Adding an account will help link your online accounts with your Endless desktop. Thus, your email program, chat program, and other related applications will be set up for you."
+msgid "Adding an account will help link your online accounts with your Endless desktop. Thus, your email program, chat program and other related applications will be set up for you."
+msgstr "アカウントを追加することで、あなたのオンラインアカウントと Endless デスクトップをリンクできるようになります。これにより、メールクライアント、チャットクライアント、また他の関連アプリケーションがセットアップされます。"
 
 #. (itstool) path: item/p
 msgid "Click the <key>+</key> button in the lower-left portion of the window."
@@ -652,9 +652,9 @@ msgstr "小さなウェブサイトウィンドウが開き、そこにあなた
 
 #. (itstool) path: item/p
 #, fuzzy
-#| msgid "If you've entered your credentials correctly, you will be prompted to allow GNOME access to your online account. Select <gui>Grant Access</gui> to continue."
-msgid "If you have entered your credentials correctly, you will be prompted to allow GNOME access to your online account. Authorize access to continue."
-msgstr "認証情報が正しく入力できれば、あなたのオンラインアカウントへのアクセスを GNOME に許可してもよいか確認画面が表示されます。<gui>Grant Access (アクセスを許可)</gui> を選択し、次に進みます。"
+#| msgid "If you've entered your credentials correctly, you will be prompted to allow Endless access to your online account. Select <gui>Grant Access</gui> to continue."
+msgid "If you have entered your credentials correctly, you will be prompted to allow Endless access to your online account. Authorize access to continue."
+msgstr "認証情報が正しく入力できれば、あなたのオンラインアカウントへのアクセスを Endless に許可してもよいか確認画面が表示されます。<gui>Grant Access (アクセスを許可)</gui> を選択し、次に進みます。"
 
 #. (itstool) path: item/p
 #, fuzzy
@@ -667,8 +667,8 @@ msgid "After you have added the accounts, each application that you have selecte
 msgstr "アカウントを追加した後は、選択された各アプリケーションは起動時に自動的にその認証情報を使います。"
 
 #. (itstool) path: note/p
-msgid "For security reasons, GNOME will not store your password on your computer. Instead, it stores a token that is provided by the online service. If you want to fully revoke the link between your desktop and the online service, <link xref=\"accounts-remove\">remove</link> it."
-msgstr "セキュリティ上の理由により、GNOME はあなたのパスワードをコンピューター内に保存しません。その代わりに、オンラインサービスにより提供されるトークンを保存します。デスクトップとオンラインサービスとのリンクを完全に破棄する場合は、追加したアカウントを<link xref=\"accounts-remove\">削除</link>します。"
+msgid "For security reasons, Endless will not store your password on your computer. Instead, it stores a token that is provided by the online service. If you want to fully revoke the link between your desktop and the online service, <link xref=\"accounts-remove\">remove</link> it."
+msgstr "セキュリティ上の理由により、Endless はあなたのパスワードをコンピューター内に保存しません。その代わりに、オンラインサービスにより提供されるトークンを保存します。デスクトップとオンラインサービスとのリンクを完全に破棄する場合は、追加したアカウントを<link xref=\"accounts-remove\">削除</link>します。"
 
 #. (itstool) path: credit/name
 msgid "Julita Inca"
@@ -716,8 +716,8 @@ msgid "Fill in the registration form. You will typically be asked for some perso
 msgstr "登録フォームを記入します。たいていユーザー名やパスワードなど個人情報を記入する必要があります。"
 
 #. (itstool) path: item/p
-msgid "You need to grant GNOME access to your new account in order to use it with <app>Online Accounts</app>."
-msgstr "新規に作成したアカウントを<app>オンラインアカウント</app>で使用できるように、GNOME にアカウントへのアクセスを許可する必要があります。"
+msgid "You need to grant Endless access to your new account in order to use it with <app>Online Accounts</app>."
+msgstr "新規に作成したアカウントを<app>オンラインアカウント</app>で使用できるように、Endless にアカウントへのアクセスを許可する必要があります。"
 
 #. (itstool) path: item/p
 #, fuzzy
@@ -814,7 +814,7 @@ msgid "Instead of deleting the account completely, it's possible to <link xref=\
 msgstr "アカウントを完全に削除するのではなく、デスクトップからアクセスする<link xref=\"accounts-disable-service\">サービスを制限する</link>ことができます"
 
 #. (itstool) path: page/p
-msgid "To remove GNOME's access to the online account, you should revoke the access through the account's website or similar service."
+msgid "To remove Endless's access to the online account, you should revoke the access through the account's website or similar service."
 msgstr ""
 
 #. (itstool) path: credit/years
@@ -1934,7 +1934,7 @@ msgid "What color measuring instruments are supported?"
 msgstr ""
 
 #. (itstool) path: page/p
-msgid "GNOME relies on the Argyll color management system to support color instruments. Thus the following display measuring instruments are supported:"
+msgid "Endless relies on the Argyll color management system to support color instruments. Thus the following display measuring instruments are supported:"
 msgstr ""
 
 #. (itstool) path: item/p
@@ -2224,7 +2224,7 @@ msgid "The effects of a color profile are sometimes subtle and it may be hard to
 msgstr ""
 
 #. (itstool) path: page/p
-msgid "GNOME comes with several profiles for testing that make it very clear when the profiles are being applied:"
+msgid "Endless comes with several profiles for testing that make it very clear when the profiles are being applied:"
 msgstr ""
 
 #. (itstool) path: item/title
@@ -3133,8 +3133,8 @@ msgid "Documents"
 msgstr "ドキュメント"
 
 #. (itstool) path: page/p
-msgid "<app>Documents</app> is a GNOME application that lets you display, organize, and print the documents on your computer or those created remotely using <em>Google Docs</em> or <em>SkyDrive</em>."
-msgstr "<app>ドキュメント</app> (gnome-documents) と呼ばれる GNOME アプリケーションがあります。このアプリケーションを使えば、お使いのコンピューターに保存されているドキュメントや、<em>Google Docs</em>、<em>SkyDrive</em>などを利用して作成したリモートのドキュメントの表示、整理、印刷ができます。"
+msgid "<app>Documents</app> is an Endless application that lets you display, organize, and print the documents on your computer or those created remotely using <em>Google Docs</em> or <em>SkyDrive</em>."
+msgstr "<app>ドキュメント</app> (gnome-documents) と呼ばれる Endless アプリケーションがあります。このアプリケーションを使えば、お使いのコンピューターに保存されているドキュメントや、<em>Google Docs</em>、<em>SkyDrive</em>などを利用して作成したリモートのドキュメントの表示、整理、印刷ができます。"
 
 #. (itstool) path: section/title
 msgid "View, Sort and Search"
@@ -3721,7 +3721,7 @@ msgid "Hide a file"
 msgstr "ファイルを隠す"
 
 #. (itstool) path: page/p
-msgid "The GNOME file manager gives you the ability to hide and unhide files at your discretion. When a file is hidden, it isn't displayed by the file manager, but it's still there in its folder."
+msgid "The Endless file manager gives you the ability to hide and unhide files at your discretion. When a file is hidden, it isn't displayed by the file manager, but it's still there in its folder."
 msgstr "ファイルマネージャーでは、ユーザーの判断でファイルを隠したり、表示させたりできます。隠しファイルは、ファイルマネージャーには表示されませんが、依然として存在します。"
 
 #. (itstool) path: page/p
@@ -3981,8 +3981,8 @@ msgid "Rename a file or folder"
 msgstr "ファイル、フォルダーの名前を変更する"
 
 #. (itstool) path: page/p
-msgid "As with other file managers, you can use the GNOME file manager to change the name of a file or folder."
-msgstr "他のファイルマネージャーと同様に、GNOME のファイルマネージャーを使ってファイルやフォルダーの名前を変更できます。"
+msgid "As with other file managers, you can use the Endless file manager to change the name of a file or folder."
+msgstr "他のファイルマネージャーと同様に、Endless のファイルマネージャーを使ってファイルやフォルダーの名前を変更できます。"
 
 #. (itstool) path: steps/title
 msgid "To rename a file or folder:"
@@ -4459,32 +4459,32 @@ msgid "If you are requesting help about a topic that you feel is not covered, ch
 msgstr "カバーされていないと思うトピックについてヘルプの追加を要求する場合、<gui>Severity</gui> メニューの <gui>enhancement</gui> を選択してください。Summary と Description の欄に記入して、<gui>Commit</gui> をクリックします。"
 
 #. (itstool) path: section/p
-msgid "Your report will be given an ID number, and its status will be updated as it is being dealt with. Thanks for helping make the GNOME Help better!"
-msgstr "バグレポートに対して ID が割り振られます。また処理に応じてステータスが更新されます。GNOME のヘルプの改善に協力してくれてありがとう!"
+msgid "Your report will be given an ID number, and its status will be updated as it is being dealt with. Thanks for helping make the Endless Help better!"
+msgstr "バグレポートに対して ID が割り振られます。また処理に応じてステータスが更新されます。Endless のヘルプの改善に協力してくれてありがとう!"
 
 #. (itstool) path: section/title
 msgid "Contact us"
 msgstr "連絡先"
 
 #. (itstool) path: section/p
-msgid "You can send an <link href=\"mailto:gnome-doc-list@gnome.org\">email</link> to the GNOME docs mailing list to learn more about how to get involved with the documentation team."
-msgstr "ドキュメンテーションチームへの参加方法についてより詳しく知りたい場合は、GNOME ドキュメンテーションチームのメーリングリストに<link href=\"mailto:gnome-doc-list@gnome.org\">メール</link>を送ってください。"
+msgid "You can send an <link href=\"mailto:gnome-doc-list@gnome.org\">email</link> to the Endless docs mailing list to learn more about how to get involved with the documentation team."
+msgstr "ドキュメンテーションチームへの参加方法についてより詳しく知りたい場合は、Endless ドキュメンテーションチームのメーリングリストに<link href=\"mailto:gnome-doc-list@gnome.org\">メール</link>を送ってください。"
 
 #. (itstool) path: credit/name
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
 
 #. (itstool) path: info/desc
-msgid "Consider switching to GNOME Classic if you prefer a more traditional desktop experience."
-msgstr "旧来型のデスクトップ体験が好みであれば、GNOME クラシックという選択肢があります。"
+msgid "Consider switching to Endless Classic if you prefer a more traditional desktop experience."
+msgstr "旧来型のデスクトップ体験が好みであれば、Endless クラシックという選択肢があります。"
 
 #. (itstool) path: page/title
-msgid "What is GNOME Classic?"
-msgstr "GNOME クラシックとは何ですか?"
+msgid "What is Endless Classic?"
+msgstr "Endless クラシックとは何ですか?"
 
 #. (itstool) path: page/p
-msgid "<em>GNOME Classic</em> is a feature for users who prefer a more traditional desktop experience. While <em>GNOME Classic</em> is based on <em>GNOME 3</em> technologies, it provides a number of changes to the user interface, such as the <gui xref=\"shell-terminology\">Applications</gui> and <gui xref=\"shell-terminology\">Places</gui> menus on the top bar, and a window list at the bottom of the screen."
-msgstr "<em>GNOME クラシック</em> とは、旧来型のデスクトップ体験を好むユーザー向けの機能です。<em>GNOME クラシック</em> は <em>GNOME 3</em> の技術をベースとしていますが、ユーザーインターフェースに多くの変更を加えています。たとえば、トップバーの<gui xref=\"shell-terminology\">アプリケーション</gui>メニューや<gui xref=\"shell-terminology\">場所</gui>メニュー、画面最下部のウィンドウ一覧などが使用できます。"
+msgid "<em>Endless Classic</em> is a feature for users who prefer a more traditional desktop experience. While <em>Endless Classic</em> is based on <em>Endless</em> technologies, it provides a number of changes to the user interface, such as the <gui xref=\"shell-terminology\">Applications</gui> and <gui xref=\"shell-terminology\">Places</gui> menus on the top bar, and a window list at the bottom of the screen."
+msgstr "<em>Endless クラシック</em> とは、旧来型のデスクトップ体験を好むユーザー向けの機能です。<em>Endless クラシック</em> は <em>Endless</em> の技術をベースとしていますが、ユーザーインターフェースに多くの変更を加えています。たとえば、トップバーの<gui xref=\"shell-terminology\">アプリケーション</gui>メニューや<gui xref=\"shell-terminology\">場所</gui>メニュー、画面最下部のウィンドウ一覧などが使用できます。"
 
 #. (itstool) path: page/p
 #, fuzzy
@@ -4510,8 +4510,8 @@ msgstr "画面最下部のウィンドウ一覧から、開いているウィン
 
 #. (itstool) path: section/p
 #, fuzzy
-#| msgid "At the right-hand side of the window list, GNOME displays a short identifier for the current worskpace, such as <gui>1</gui> for the first (top) workspace. In addition, the identifier also displays the total number of available workspaces. To switch to a different workspace, you can click the identifier and select the workspace you want to use from the menu."
-msgid "At the right-hand side of the window list, GNOME displays a short identifier for the current workspace, such as <gui>1</gui> for the first (top) workspace. In addition, the identifier also displays the total number of available workspaces. To switch to a different workspace, you can click the identifier and select the workspace you want to use from the menu."
+#| msgid "At the right-hand side of the window list, Endless displays a short identifier for the current worskpace, such as <gui>1</gui> for the first (top) workspace. In addition, the identifier also displays the total number of available workspaces. To switch to a different workspace, you can click the identifier and select the workspace you want to use from the menu."
+msgid "At the right-hand side of the window list, Endless displays a short identifier for the current workspace, such as <gui>1</gui> for the first (top) workspace. In addition, the identifier also displays the total number of available workspaces. To switch to a different workspace, you can click the identifier and select the workspace you want to use from the menu."
 msgstr "ウィンドウ一覧の右側に、現在のワークスペースを示すインジケーターが表示されます。たとえば最初 (先頭) のワークスペースの場合、<gui>1</gui> と記されます。また、このインジケーターには、利用可能なワークスペースの総数も示されます。他のワークスペースに切り替えるには、インジケーターを押して、表示されるメニューから使用するワークスペースを選択してください。"
 
 #. (itstool) path: section/p
@@ -4519,16 +4519,16 @@ msgid "If an application or a system component wants to get your attention, it w
 msgstr "アプリケーションやシステムコンポーネントがユーザーへ注意喚起をする場合に、青いアイコンをウィンドウ一覧の右側に表示します。青いアイコンを押すとメッセージトレイが表示され、すべての通知を参照できます。"
 
 #. (itstool) path: section/title
-msgid "Switch to and from GNOME Classic"
-msgstr "GNOME クラシックへの切り替え"
+msgid "Switch to and from Endless Classic"
+msgstr "Endless クラシックへの切り替え"
 
 #. (itstool) path: note/p
-msgid "GNOME Classic is only available on systems with certain GNOME Shell extensions installed. Some Linux distributions may not have these extensions available or installed by default."
-msgstr "GNOME クラシックを利用するには、特定の GNOME Shell 拡張機能をインストールする必要があります。Linux ディストリビューションによっては、関連する拡張機能が提供されていない、あるいはデフォルトではインストールされていないこともあるでしょう。"
+msgid "Endless Classic is only available on systems with certain Endless Shell extensions installed. Some Linux distributions may not have these extensions available or installed by default."
+msgstr "Endless クラシックを利用するには、特定の Endless Shell 拡張機能をインストールする必要があります。Linux ディストリビューションによっては、関連する拡張機能が提供されていない、あるいはデフォルトではインストールされていないこともあるでしょう。"
 
 #. (itstool) path: steps/title
-msgid "To switch from <em>GNOME</em> to <em>GNOME Classic</em>:"
-msgstr "<em>GNOME</em> から <em>GNOME クラシック</em> へ切り替える手順は次のとおりです。"
+msgid "To switch from <em>Endless</em> to <em>Endless Classic</em>:"
+msgstr "<em>Endless</em> から <em>Endless クラシック</em> へ切り替える手順は次のとおりです。"
 
 #. (itstool) path: item/p
 #, fuzzy
@@ -4553,7 +4553,7 @@ msgstr "パスワードをテキストボックスに入力します。"
 #. (itstool) path: item/p
 #, fuzzy
 #| msgid "Click the icon at the very right of the <gui>menu bar</gui> and select <gui>System Settings</gui>."
-msgid "Click the options icon, which is displayed to the left of the <gui>Sign In</gui> button, and select <gui>GNOME Classic</gui>."
+msgid "Click the options icon, which is displayed to the left of the <gui>Sign In</gui> button, and select <gui>Endless Classic</gui>."
 msgstr "<gui>メニューバー</gui>の右端のアイコンをクリックし、<gui>システム設定</gui>を選択します。"
 
 #. (itstool) path: item/p
@@ -4563,13 +4563,13 @@ msgid "Click the <gui>Sign In</gui> button."
 msgstr "<gui>✓</gui> ボタンを押します。"
 
 #. (itstool) path: steps/title
-msgid "To switch from <em>GNOME Classic</em> to <em>GNOME</em>:"
-msgstr "<em>GNOME クラシック</em> から <em>GNOME</em> へ切り替える手順は次のとおりです。"
+msgid "To switch from <em>Endless Classic</em> to <em>Endless</em>:"
+msgstr "<em>Endless クラシック</em> から <em>Endless</em> へ切り替える手順は次のとおりです。"
 
 #. (itstool) path: item/p
 #, fuzzy
 #| msgid "Click the icon at the very right of the <gui>menu bar</gui> and select <gui>System Settings</gui>."
-msgid "Click the options icon, which is displayed to the left of the <gui>Sign In</gui> button, and select <gui>GNOME</gui>."
+msgid "Click the options icon, which is displayed to the left of the <gui>Sign In</gui> button, and select <gui>Endless</gui>."
 msgstr "<gui>メニューバー</gui>の右端のアイコンをクリックし、<gui>システム設定</gui>を選択します。"
 
 #. (itstool) path: info/desc
@@ -4686,28 +4686,28 @@ msgid "IRC"
 msgstr "IRC"
 
 #. (itstool) path: page/p
-msgid "IRC stands for Internet Relay Chat. It is a real-time multi-user messaging system. You can get help and advice on the GNOME IRC server from other GNOME users and developers."
-msgstr "IRC とは、インターネットリレーチャット (Internet Relay Chat) の略称です。IRC は、リアルタイムかつマルチユーザーのメッセージングシステムです。GNOME IRC サーバー上では、他の GNOME ユーザーや開発者とコミュニケーションを取り、助言をもらうことができます。"
+msgid "IRC stands for Internet Relay Chat. It is a real-time multi-user messaging system. You can get help and advice on the Endless IRC server from other Endless users and developers."
+msgstr "IRC とは、インターネットリレーチャット (Internet Relay Chat) の略称です。IRC は、リアルタイムかつマルチユーザーのメッセージングシステムです。Endless IRC サーバー上では、他の Endless ユーザーや開発者とコミュニケーションを取り、助言をもらうことができます。"
 
 #. (itstool) path: page/p
-msgid "To connect to the GNOME IRC server, use <app>empathy</app> or <app>xchat</app>, or use a web interface like <link href=\"http://chat.mibbit.com/\">mibbit</link>."
-msgstr "GNOME IRC サーバーに接続するには、<app>empathy</app> や <app>xchat</app> を使用するか、あるいは <link href=\"http://chat.mibbit.com/\">mibbit</link> などの Web インターフェースを使用します。"
+msgid "To connect to the Endless IRC server, use <app>empathy</app> or <app>xchat</app>, or use a web interface like <link href=\"http://chat.mibbit.com/\">mibbit</link>."
+msgstr "Endless IRC サーバーに接続するには、<app>empathy</app> や <app>xchat</app> を使用するか、あるいは <link href=\"http://chat.mibbit.com/\">mibbit</link> などの Web インターフェースを使用します。"
 
 #. (itstool) path: page/p
 msgid "To create an IRC account in empathy, see the <link href=\"help:empathy/irc-manage\">Empathy documentation</link>."
 msgstr "empathy で IRC アカウントを作成する方法については、<link href=\"help:empathy/irc-manage\">Empathy のドキュメント</link>を参照してください。"
 
 #. (itstool) path: page/p
-msgid "The GNOME IRC server is <sys>irc.gnome.org</sys>. You may also see it referred to as the \"GIMP network\". If your computer is properly configured you can click on the link <link href=\"irc://irc.gnome.org/gnome\"/> to access the <sys>gnome</sys> channel."
-msgstr "GNOME IRC サーバーは、<sys>irc.gnome.org</sys> です。これは \"GIMP network\" としても参照できます。お使いのコンピューターが適切に設定されていれば、<link href=\"irc://irc.gnome.org/gnome\"/> のリンクから、gnome チャンネルに接続できます。"
+msgid "The Endless IRC server is <sys>irc.gnome.org</sys>. You may also see it referred to as the \"GIMP network\". If your computer is properly configured you can click on the link <link href=\"irc://irc.gnome.org/gnome\"/> to access the <sys>gnome</sys> channel."
+msgstr "Endless IRC サーバーは、<sys>irc.gnome.org</sys> です。これは \"GIMP network\" としても参照できます。お使いのコンピューターが適切に設定されていれば、<link href=\"irc://irc.gnome.org/gnome\"/> のリンクから、gnome チャンネルに接続できます。"
 
 #. (itstool) path: page/p
 msgid "While IRC being a real-time discussion, people tend to not reply immediately, so be patient."
 msgstr "IRC ではリアルタイムで会話できますが、参加者がすぐに返事できないことはよくあります。気長に返事を待ってください。"
 
 #. (itstool) path: note/p
-msgid "Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">GNOME code of conduct</link> applies when you chat on IRC."
-msgstr "IRC でチャットをするときは、<link href=\"https://live.gnome.org/CodeOfConduct/\">GNOME 行動規範</link>に従ってください。"
+msgid "Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">Endless code of conduct</link> applies when you chat on IRC."
+msgstr "IRC でチャットをするときは、<link href=\"https://live.gnome.org/CodeOfConduct/\">Endless 行動規範</link>に従ってください。"
 
 #. (itstool) path: info/desc
 msgid "Request support by e-mail."
@@ -4718,8 +4718,8 @@ msgid "Mailing list"
 msgstr "メーリングリスト"
 
 #. (itstool) path: page/p
-msgid "Mailing lists are email based discussions. You can ask for support using the GNOME mailing lists. Almost each GNOME application has its own mailing list. The complete list of mailing-lists are listed at <link href=\"http://mail.gnome.org/mailman/listinfo\"/>."
-msgstr "メーリングリストはE-メールベースの議論です。GNOMEメーリングリストを使って質問することができます。たいていの GNOME アプリケーションは専用のメーリングリストがあります。すべてのメーリングリスト一覧は <link href=\"http://mail.gnome.org/mailman/listinfo\"/> にあります。"
+msgid "Mailing lists are email based discussions. You can ask for support using the Endless mailing lists. Almost each Endless application has its own mailing list. The complete list of mailing-lists are listed at <link href=\"http://mail.gnome.org/mailman/listinfo\"/>."
+msgstr "メーリングリストはE-メールベースの議論です。Endlessメーリングリストを使って質問することができます。たいていの Endless アプリケーションは専用のメーリングリストがあります。すべてのメーリングリスト一覧は <link href=\"http://mail.gnome.org/mailman/listinfo\"/> にあります。"
 
 #. (itstool) path: note/p
 #, fuzzy
@@ -4750,18 +4750,18 @@ msgid "external ref='figures/yelp-icon-big.png' md5='292c209957ac50bb031fcec6cdd
 msgstr "external ref='figures/yelp-icon-big.png' md5='292c209957ac50bb031fcec6cddfa47f'"
 
 #. (itstool) path: info/desc
-msgid "A guide for GNOME 3 desktop users"
-msgstr "GNOME 3 デスクトップのユーザーズガイド"
+msgid "A guide for Endless desktop users"
+msgstr "Endless デスクトップのユーザーズガイド"
 
 #. (itstool) path: info/title
 msgctxt "link"
-msgid "GNOME Help"
-msgstr "GNOME ヘルプ"
+msgid "Endless Help"
+msgstr "Endless ヘルプ"
 
 #. (itstool) path: info/title
 msgctxt "text"
-msgid "GNOME Help"
-msgstr "GNOME ヘルプ"
+msgid "Endless Help"
+msgstr "Endless ヘルプ"
 
 #. (itstool) path: info/title
 msgctxt "link:trail"
@@ -4769,8 +4769,8 @@ msgid "<media type=\"image\" mime=\"image/png\" src=\"figures/gnome.png\">Help</
 msgstr "<media type=\"image\" mime=\"image/png\" src=\"figures/gnome.png\">ヘルプ</media>"
 
 #. (itstool) path: page/title
-msgid "<media type=\"image\" src=\"figures/yelp-icon-big.png\">Yelp logo</media> GNOME Help"
-msgstr "<media type=\"image\" src=\"figures/yelp-icon-big.png\">Yelp ロゴ</media> GNOME ヘルプ"
+msgid "<media type=\"image\" src=\"figures/yelp-icon-big.png\">Yelp logo</media> Endless Help"
+msgstr "<media type=\"image\" src=\"figures/yelp-icon-big.png\">Yelp ロゴ</media> Endless ヘルプ"
 
 #. (itstool) path: info/desc
 msgid "Make the insertion point blink and control how quickly it blinks."
@@ -6007,7 +6007,7 @@ msgid "There are three choices displayed on top:"
 msgstr ""
 
 #. (itstool) path: item/p
-msgid "Select <gui>Wallpapers</gui> to use one of the many professional background images that ship with GNOME. Some wallpapers change throughout the day. These wallpapers have a small clock icon in the bottom-right corner."
+msgid "Select <gui>Wallpapers</gui> to use one of the many professional background images that ship with Endless. Some wallpapers change throughout the day. These wallpapers have a small clock icon in the bottom-right corner."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -7656,8 +7656,8 @@ msgid "<link xref=\"net-default-email\">Default email apps</link>"
 msgstr "<link xref=\"net-default-email\">既定のメールクライアント</link>"
 
 #. (itstool) path: credit/name
-msgid "The GNOME Documentation Project"
-msgstr "GNOME ドキュメンテーションプロジェクト"
+msgid "The Endless Documentation Project"
+msgstr "Endless ドキュメンテーションプロジェクト"
 
 #. (itstool) path: page/title
 msgid "Email &amp; email software"
@@ -10445,7 +10445,7 @@ msgid "Privacy Settings"
 msgstr "プライバシー設定"
 
 #. (itstool) path: page/p
-msgid "The <em>Privacy Settings</em> in GNOME help you control whether or not certain parts of your desktop are visible to others. You can also use these settings to clear your computer usage history and clean-out unecessary files."
+msgid "The <em>Privacy Settings</em> in Endless help you control whether or not certain parts of your desktop are visible to others. You can also use these settings to clear your computer usage history and clean-out unecessary files."
 msgstr "<em>プライバシー設定</em>で、デスクトップの一部分を外部から見えるようにするかどうかを設定できます。また、コンピューターの使用履歴のクリアや、不要ファイルの削除もここから行うことができます。"
 
 #. (itstool) path: info/desc
@@ -10898,7 +10898,7 @@ msgid "Sharing Settings"
 msgstr "共有設定"
 
 #. (itstool) path: page/p
-msgid "The <em>Sharing Settings</em> in GNOME help you control what is shared over the local network, or through other technologies such as <em>Bluetooth</em>."
+msgid "The <em>Sharing Settings</em> in Endless help you control what is shared over the local network, or through other technologies such as <em>Bluetooth</em>."
 msgstr "<em>共有設定</em>で、ローカルネットワーク上で何を共有するか、あるいは <em>Bluetooth</em> など他の技術を使用した共有を行うかどうか、などを設定できます。"
 
 #. (itstool) path: info/desc
@@ -11331,9 +11331,9 @@ msgstr "サスペンド"
 
 #. (itstool) path: section/p
 #, fuzzy
-#| msgid "To save power, suspend your computer when you aren't using it. If you use a laptop, GNOME suspends your computer automatically when you close the lid. This saves your state to your computer's memory and powers off most of the computer's functions. A very small amount of power is still used during suspend."
-msgid "To save power, suspend your computer when you are not using it. If you use a laptop, GNOME suspends your computer automatically when you close the lid. This saves your state to your computer's memory and powers off most of the computer's functions. A very small amount of power is still used during suspend."
-msgstr "節電するには、コンピューターを使っていないときにサスペンドしてください。ラップトップをお使いであれば、蓋を閉じると GNOME が自動的にコンピューターをサスペンドします。そのときの状態をコンピューターの記憶装置に保存し、コンピューターのほとんどの機能をオフにします。サスペンド中でも、ほんの少しの電力は使用されます。"
+#| msgid "To save power, suspend your computer when you aren't using it. If you use a laptop, Endless suspends your computer automatically when you close the lid. This saves your state to your computer's memory and powers off most of the computer's functions. A very small amount of power is still used during suspend."
+msgid "To save power, suspend your computer when you are not using it. If you use a laptop, Endless suspends your computer automatically when you close the lid. This saves your state to your computer's memory and powers off most of the computer's functions. A very small amount of power is still used during suspend."
+msgstr "節電するには、コンピューターを使っていないときにサスペンドしてください。ラップトップをお使いであれば、蓋を閉じると Endless が自動的にコンピューターをサスペンドします。そのときの状態をコンピューターの記憶装置に保存し、コンピューターのほとんどの機能をオフにします。サスペンド中でも、ほんの少しの電力は使用されます。"
 
 #. (itstool) path: section/p
 #, fuzzy
@@ -11472,16 +11472,16 @@ msgid "A visual introduction to your desktop, the top bar, and the <gui>Activiti
 msgstr "デスクトップ、トップバー、およびアクティビティ画面について画像をまじえた入門。"
 
 #. (itstool) path: page/title
-msgid "Introduction to GNOME"
-msgstr "GNOME 入門"
+msgid "Introduction to Endless"
+msgstr "Endless 入門"
 
 #. (itstool) path: page/p
-msgid "GNOME 3 features a completely reimagined user interface designed to stay out of your way, minimize distractions, and help you get things done. When you first log in, you will see an empty desktop and the top bar."
-msgstr "GNOME 3 はユーザーインターフェースを徹底的に見直しました。ユーザーにあれこれ干渉せず、邪魔なものをできるだけ取り除き、ユーザーが作業を片付けるのに役立つように設計されています。最初にログインしたときは、何もない空っぽのデスクトップとトップバーが見えます。"
+msgid "Endless features a completely reimagined user interface designed to stay out of your way, minimize distractions, and help you get things done. When you first log in, you will see an empty desktop and the top bar."
+msgstr "Endless はユーザーインターフェースを徹底的に見直しました。ユーザーにあれこれ干渉せず、邪魔なものをできるだけ取り除き、ユーザーが作業を片付けるのに役立つように設計されています。最初にログインしたときは、何もない空っぽのデスクトップとトップバーが見えます。"
 
 #. (itstool) path: media/p
-msgid "GNOME shell top bar"
-msgstr "GNOME Shell トップバー"
+msgid "Endless shell top bar"
+msgstr "Endless Shell トップバー"
 
 #. (itstool) path: page/p
 #, fuzzy
@@ -11617,8 +11617,8 @@ msgid "Window List"
 msgstr "ウィンドウの一覧"
 
 #. (itstool) path: when/p
-msgid "GNOME features a different approach to switching windows than a permanently visible window list found in other desktop environments. This lets you focus on the task at hand without distractions."
-msgstr "GNOME におけるウィンドウ切り替えのスタイルは、他のデスクトップ環境で採用されているような、常にウィンドウ一覧を表示するものとは異なったアプローチを取っています。"
+msgid "Endless features a different approach to switching windows than a permanently visible window list found in other desktop environments. This lets you focus on the task at hand without distractions."
+msgstr "Endless におけるウィンドウ切り替えのスタイルは、他のデスクトップ環境で採用されているような、常にウィンドウ一覧を表示するものとは異なったアプローチを取っています。"
 
 #. (itstool) path: item/p
 #, fuzzy
@@ -11627,7 +11627,7 @@ msgid "<link xref=\"shell-windows-switching\">Learn more about switching windows
 msgstr "<link xref=\"shell-windows-switching\">ウィンドウの切り替えについてもっと詳しく。</link>"
 
 #. (itstool) path: when/p
-msgid "At the right-hand side of the window list, GNOME displays a short identifier for the current worskpace, such as <gui>1</gui> for the first (top) workspace. In addition, the identifier also displays the total number of available workspaces. To switch to a different workspace, you can click the identifier and select the workspace you want to use from the menu."
+msgid "At the right-hand side of the window list, Endless displays a short identifier for the current worskpace, such as <gui>1</gui> for the first (top) workspace. In addition, the identifier also displays the total number of available workspaces. To switch to a different workspace, you can click the identifier and select the workspace you want to use from the menu."
 msgstr "ウィンドウ一覧の右側に、現在のワークスペースを示すインジケーターが表示されます。たとえば最初 (先頭) のワークスペースの場合、<gui>1</gui> と記されます。また、このインジケーターには、利用可能なワークスペースの総数も示されます。他のワークスペースに切り替えるには、インジケーターを押して、表示されるメニューから使用するワークスペースを選択してください。"
 
 #. (itstool) path: when/p
@@ -12202,9 +12202,9 @@ msgstr "ウィンドウを移動する、サイズを変更する"
 
 #. (itstool) path: page/p
 #, fuzzy
-#| msgid "You can move and resize windows to help you work more efficiently. In addition to the the dragging behavior you might expect, GNOME features shortcuts and modifiers to help you arrange windows quickly."
-msgid "You can move and resize windows to help you work more efficiently. In addition to the dragging behavior you might expect, GNOME features shortcuts and modifiers to help you arrange windows quickly."
-msgstr "ウィンドウの移動やサイズ変更をすることで、より効率的に作業できるようになります。ドラッグによる移動やサイズ変更についてはご存知でしょうが、方法はそれだけではありません。GNOME では、ショートカットや修飾キーを使ってすばやくウィンドウを配置することができます。"
+#| msgid "You can move and resize windows to help you work more efficiently. In addition to the the dragging behavior you might expect, Endless features shortcuts and modifiers to help you arrange windows quickly."
+msgid "You can move and resize windows to help you work more efficiently. In addition to the dragging behavior you might expect, Endless features shortcuts and modifiers to help you arrange windows quickly."
+msgstr "ウィンドウの移動やサイズ変更をすることで、より効率的に作業できるようになります。ドラッグによる移動やサイズ変更についてはご存知でしょうが、方法はそれだけではありません。Endless では、ショートカットや修飾キーを使ってすばやくウィンドウを配置することができます。"
 
 #. (itstool) path: item/p
 msgid "Move a window by dragging the titlebar, or hold down <key>Alt</key> and drag anywhere in the window. Hold down <key>Shift</key> while moving to snap the window to the edges of the screen and other windows."
@@ -12327,8 +12327,8 @@ msgstr "ウィンドウとワークスペース"
 #. (itstool) path: page/p
 #, fuzzy
 #| msgid "Like other desktops, Gnome uses windows to display your running applications. Using both the <gui>overview</gui> and the <gui>dash</gui>, you can launch new applications and control which window is active."
-msgid "Like other desktops, GNOME uses windows to display your running applications. Using both the <gui>Activities</gui> overview and the <gui>dash</gui>, you can launch new applications and control active windows."
-msgstr "他のデスクトップ環境と同様に、GNOME は起動中のアプリケーションを表示するのにウィンドウを使用します。<gui>アクティビティ画面</gui>および<gui>ダッシュボード</gui>の両方から、新たにアプリケーションを起動したり、アクティブなウィンドウを制御したりすることができます。"
+msgid "Like other desktops, Endless uses windows to display your running applications. Using both the <gui>Activities</gui> overview and the <gui>dash</gui>, you can launch new applications and control active windows."
+msgstr "他のデスクトップ環境と同様に、Endless は起動中のアプリケーションを表示するのにウィンドウを使用します。<gui>アクティビティ画面</gui>および<gui>ダッシュボード</gui>の両方から、新たにアプリケーションを起動したり、アクティブなウィンドウを制御したりすることができます。"
 
 #. (itstool) path: page/p
 #, fuzzy
@@ -12873,14 +12873,14 @@ msgstr "トップバーのアイコンの意味は?"
 #. (itstool) path: page/p
 #, fuzzy
 #| msgid "This section will explain the icons located on the top right of the screen, specifically the different variations of the icons that are possible."
-msgid "This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the GNOME interface are described."
+msgid "This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the Endless interface are described."
 msgstr "このセクションでは画面の右上に置かれているアイコン、特にアイコンの変化の違いについて説明します。"
 
 #. (itstool) path: media/p
 #, fuzzy
-#| msgid "GNOME shell top bar"
-msgid "GNOME Shell top bar"
-msgstr "GNOME Shell トップバー"
+#| msgid "Endless shell top bar"
+msgid "Endless Shell top bar"
+msgstr "Endless Shell トップバー"
 
 #. (itstool) path: section/title
 msgid "Universal Access Menu Icons"
@@ -13177,8 +13177,8 @@ msgid "Character map"
 msgstr "文字マップ"
 
 #. (itstool) path: section/p
-msgid "GNOME comes with a character map application that allows you to browse all the characters in Unicode. Use the character map to find the character you want, and then copy and paste it to wherever you need it."
-msgstr "GNOME には、Unicode のすべての文字を参照できる文字マップツールが搭載されています。この文字マップを使って文字を探し、好きな箇所へコピー・アンド・ペーストできます。"
+msgid "Endless comes with a character map application that allows you to browse all the characters in Unicode. Use the character map to find the character you want, and then copy and paste it to wherever you need it."
+msgstr "Endless には、Unicode のすべての文字を参照できる文字マップツールが搭載されています。この文字マップを使って文字を探し、好きな箇所へコピー・アンド・ペーストできます。"
 
 #. (itstool) path: section/p
 msgid "You can find <app>Character Map</app> in the <gui>Activities</gui> overview. For more information on the character map, see the <link href=\"help:gucharmap\">Character Map Manual</link>."
@@ -13292,8 +13292,8 @@ msgid "Participate to improve translations"
 msgstr "翻訳改善への参加"
 
 #. (itstool) path: page/p
-msgid "GNOME's help is being translated by a world-wide volunteer community. You are welcome to participate."
-msgstr "GNOME ヘルプは、世界中のボランティアコミュニティによって翻訳されています。お気軽にご参加ください。"
+msgid "Endless's help is being translated by a world-wide volunteer community. You are welcome to participate."
+msgstr "Endless ヘルプは、世界中のボランティアコミュニティによって翻訳されています。お気軽にご参加ください。"
 
 #. (itstool) path: page/p
 msgid "There are <link href=\"http://l10n.gnome.org/module/gnome-user-docs/\">many languages</link> for which translations are still needed."
@@ -13304,8 +13304,8 @@ msgid "To start translating you will need to <link href=\"http://l10n.gnome.org\
 msgstr "翻訳を始めるには、<link href=\"http:l10n.gnome.org\">アカウントを作成</link>し、あなたの言語の<link href=\"http://l10n.gnome.org/teams/\">翻訳チーム</link>に参加する必要があります。これにより、新しい翻訳をアップロードすることができるようになります。"
 
 #. (itstool) path: page/p
-msgid "You can chat with GNOME translators using <link href=\"https://cbe003.chat.mibbit.com/?url=irc%3A%2F%2Firc.gnome.org%2Fi18n\">irc</link>. People on the channel are located worldwide, so you may not get an immediate response as a result of timezone differences."
-msgstr "<link href=\"https://cbe003.chat.mibbit.com/?url=irc%3A%2F%2Firc.gnome.org%2Fi18n\">IRC</link> を使って、GNOME の翻訳者たちとチャットできます。チャンネル上の人々は世界各地に住んでいます。したがって、タイムゾーンの違いにより、ただちに返事を得られないこともあります。"
+msgid "You can chat with Endless translators using <link href=\"https://cbe003.chat.mibbit.com/?url=irc%3A%2F%2Firc.gnome.org%2Fi18n\">irc</link>. People on the channel are located worldwide, so you may not get an immediate response as a result of timezone differences."
+msgstr "<link href=\"https://cbe003.chat.mibbit.com/?url=irc%3A%2F%2Firc.gnome.org%2Fi18n\">IRC</link> を使って、Endless の翻訳者たちとチャットできます。チャンネル上の人々は世界各地に住んでいます。したがって、タイムゾーンの違いにより、ただちに返事を得られないこともあります。"
 
 #. (itstool) path: page/p
 msgid "Alternatively, you can contact the Internationalization Team using their <link href=\"http://mail.gnome.org/mailman/listinfo/gnome-i18n\">mailing list</link>."
@@ -13409,9 +13409,9 @@ msgstr ""
 
 #. (itstool) path: note/p
 #, fuzzy
-#| msgid "In the <gui>User Accounts</gui> window you can click the image next to the user's name on the right to set an image for the account. This image will be shown in the login window. GNOME provides some stock photos you can use, or you can select your own or take a picture with your webcam."
-msgid "In the <gui>Users</gui> panel, you can click the image next to the user's name to the right to set an image for the account. This image will be shown in the login window. GNOME provides some stock photos you can use, or you can select your own or take a picture with your webcam."
-msgstr "<gui>ユーザーアカウント</gui>ウィンドウでは、ユーザー名の横の画像をクリックして、そのアカウントの画像を設定できます。この画像はログインウィンドウに表示されます。GNOME ではストック写真を提供しており、それを使用することができます。あるいは、ご自身の画像を使用することもできますし、ウェブカメラで写真を撮ることもできます。"
+#| msgid "In the <gui>User Accounts</gui> window you can click the image next to the user's name on the right to set an image for the account. This image will be shown in the login window. Endless provides some stock photos you can use, or you can select your own or take a picture with your webcam."
+msgid "In the <gui>Users</gui> panel, you can click the image next to the user's name to the right to set an image for the account. This image will be shown in the login window. Endless provides some stock photos you can use, or you can select your own or take a picture with your webcam."
+msgstr "<gui>ユーザーアカウント</gui>ウィンドウでは、ユーザー名の横の画像をクリックして、そのアカウントの画像を設定できます。この画像はログインウィンドウに表示されます。Endless ではストック写真を提供しており、それを使用することができます。あるいは、ご自身の画像を使用することもできますし、ウェブカメラで写真を撮ることもできます。"
 
 #. (itstool) path: info/desc
 msgid "You can change which users are allowed to make changes to the system by giving them administrative privileges."
@@ -14050,14 +14050,14 @@ msgstr "<gui>キーボード</gui>を選択します。"
 #~ msgid "Open the <app>Files</app> application from the <gui>Activities </gui> overview."
 #~ msgstr "<gui>アクティビティ</gui>画面から<app>ファイル</app>アプリケーションを開きます。"
 
-#~ msgid "Click <gui>Session</gui> below the password entry box and choose <gui>GNOME Classic</gui>."
-#~ msgstr "テキストボックスの下の<gui>セッション</gui>を開き、<gui>GNOME クラシック</gui>を選択します。"
+#~ msgid "Click <gui>Session</gui> below the password entry box and choose <gui>Endless Classic</gui>."
+#~ msgstr "テキストボックスの下の<gui>セッション</gui>を開き、<gui>Endless クラシック</gui>を選択します。"
 
 #~ msgid "Click <gui>Sign In</gui>."
 #~ msgstr "<gui>サインイン</gui>ボタンを押します。"
 
-#~ msgid "Click <gui>Session</gui> below the password entry box and choose <gui>GNOME</gui>."
-#~ msgstr "テキストボックスの下の<gui>セッション</gui>を開き、<gui>GNOME</gui>を選択します。"
+#~ msgid "Click <gui>Session</gui> below the password entry box and choose <gui>Endless</gui>."
+#~ msgstr "テキストボックスの下の<gui>セッション</gui>を開き、<gui>Endless</gui>を選択します。"
 
 #~ msgid "Open <gui>Keyboard</gui>."
 #~ msgstr "<gui>キーボード</gui>を開きます。"
@@ -14202,8 +14202,8 @@ msgstr "<gui>キーボード</gui>を選択します。"
 #~ msgid "Setting <gui>Stealth Mode</gui> to <gui>On</gui> will also hide your full name when your screen is locked."
 #~ msgstr "<gui>ステルスモード</gui>を<gui>オン</gui>にすると、ロック画面のフルネーム表示もオフになります。"
 
-#~ msgid "Many help topics in the GNOME Help instruct you to \"Click your name in the <gui>top bar</gui>.\" If you hide your name in the <gui>top bar</gui>, you will need to click the small <gui>notification icon</gui> in the <gui>top bar</gui> instead."
-#~ msgstr "この GNOME ヘルプの多くの箇所に「トップバーにあるユーザー名をクリックする」という説明があります。<gui>トップバー</gui>に名前を表示していない場合は、名前の代わりに<gui>トップバー</gui>の小さな<gui>通知アイコン</gui>をクリックしてください。"
+#~ msgid "Many help topics in the Endless Help instruct you to \"Click your name in the <gui>top bar</gui>.\" If you hide your name in the <gui>top bar</gui>, you will need to click the small <gui>notification icon</gui> in the <gui>top bar</gui> instead."
+#~ msgstr "この Endless ヘルプの多くの箇所に「トップバーにあるユーザー名をクリックする」という説明があります。<gui>トップバー</gui>に名前を表示していない場合は、名前の代わりに<gui>トップバー</gui>の小さな<gui>通知アイコン</gui>をクリックしてください。"
 
 #~ msgid "Click your name on the <gui>top bar</gui>."
 #~ msgstr "<gui>トップバー</gui>にあるユーザー名をクリックします。"
@@ -14297,7 +14297,7 @@ msgstr "<gui>キーボード</gui>を選択します。"
 #~ msgid "Select the new guest user account. Under <gui>Login Options</gui>, click the label <gui>Account disabled</gui> next to <gui>Password</gui>. You will be presented with a window with password options. From the <gui>Action</gui> drop-down list, select <gui>Log in without a password</gui>."
 #~ msgstr "新しいゲストユーザーアカウントが選択されます。<gui>ログインオプション</gui>欄の、<gui>パスワード</gui>というラベルの横の<gui>無効アカウント</gui>をクリックします。パスワードオプションのウィンドウが表示されます。<gui>アクション</gui>のドロップダウンリストから<gui>パスワードなしでログインする</gui>を選択し、"
 
-#~ msgid "Back in the <gui>User Accounts</gui> window you can click the image next to the user's name on the right to set an image for the account. This image will be shown in the login window. GNOME provides some stock photos you can use, or you can select your own or take a picture with your webcam."
+#~ msgid "Back in the <gui>User Accounts</gui> window you can click the image next to the user's name on the right to set an image for the account. This image will be shown in the login window. Endless provides some stock photos you can use, or you can select your own or take a picture with your webcam."
 #~ msgstr "<gui>ユーザーアカウント</gui>ウィンドウに戻ると、ユーザー名の横の画像をクリックして、そのアカウントの画像を設定できます。この画像はログインウィンドウに表示されます。あるいは、あなたの画像を使用することもできますし、ウェブカメラで写真を撮ることもできます。"
 
 #~ msgid "Click the label next to <gui>Password</gui>."

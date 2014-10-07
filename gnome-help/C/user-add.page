@@ -11,7 +11,7 @@
     <revision pkgversion="3.10" date="2013-11-01" status="review"/>
 
     <credit type="author">
-      <name>GNOME Documentation Project</name>
+      <name>Endless Documentation Project</name>
       <email its:translate="no">gnome-doc-list@gnome.org</email>
     </credit>
     <credit type="author">
@@ -123,7 +123,7 @@
   <note>
     <p>In the <gui>Users</gui> panel, you can click the image next to the
     user's name to the right to set an image for the account. This image will
-    be shown in the login window. GNOME provides some stock photos you can use,
+    be shown in the login window. Endless provides some stock photos you can use,
     or you can select your own or take a picture with your webcam.</p>
   </note>
 

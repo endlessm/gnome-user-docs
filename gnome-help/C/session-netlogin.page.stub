@@ -8,7 +8,7 @@
     <desc>XXXXX</desc>
     <revision pkgversion="3.0" version="0.1" date="2011-03-19" status="stub"/>
     <credit type="author">
-      <name>GNOME Documentation Project</name>
+      <name>Endless Documentation Project</name>
       <email>gnome-doc-list@gnome.org</email>
     </credit>
 
@@ -18,7 +18,7 @@
 <title>Log-in over a network</title>
 
   <comment>
-   <cite date="2010-10-31" href="mailto:gnome-doc-list@gnome.org">GNOME Documentation Project</cite>
+   <cite date="2010-10-31" href="mailto:gnome-doc-list@gnome.org">Endless Documentation Project</cite>
    <p>Difficult set of topics! Explain how to set-up different types of network logins, and how the user can log-in over a network via GDM etc. Mention some common problems and how to resolve them.</p>
   </comment>
 	

@@ -10,7 +10,7 @@
     <revision pkgversion="3.10" date="2013-11-07" status="review"/>
 
     <credit type="author">
-      <name>GNOME Documentation Project</name>
+      <name>Endless Documentation Project</name>
       <email its:translate="no">gnome-doc-list@gnome.org</email>
     </credit>
     <credit type="author">
@@ -69,7 +69,7 @@
       <list>
         <item>
           <p>Select <gui>Wallpapers</gui> to use one of the many professional
-          background images that ship with GNOME. Some wallpapers change
+          background images that ship with Endless. Some wallpapers change
           throughout the day. These wallpapers have a small clock icon in the
           bottom-right corner.</p>
         </item>

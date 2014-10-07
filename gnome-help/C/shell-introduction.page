@@ -29,21 +29,21 @@
     <desc>A visual introduction to your desktop, the top bar, and the <gui>Activities</gui> overview.</desc>
   </info>
 
-  <title>Introduction to GNOME</title>
+  <title>Introduction to Endless</title>
 
-  <p>GNOME 3 features a completely reimagined user interface designed to
+  <p>Endless features a completely reimagined user interface designed to
   stay out of your way, minimize distractions, and help you get things done.
   When you first log in, you will see an empty desktop and the top bar.</p>
 
 <if:choose>
   <if:when test="!platform:gnome-classic">
     <media type="image" src="figures/shell-top-bar.png" width="600" if:test="!target:mobile">
-      <p>GNOME shell top bar</p>
+      <p>Endless shell top bar</p>
     </media>
   </if:when>
   <if:when test="platform:gnome-classic">
     <media type="image" src="figures/shell-top-bar-classic.png" width="500" height="40" if:test="!target:mobile">
-      <p>GNOME shell top bar</p>
+      <p>Endless shell top bar</p>
     </media>
   </if:when>
 </if:choose>
@@ -289,7 +289,7 @@ messages will be presented, such as when your battery is critically low.</p>
 
 <if:choose>
   <if:when test="!platform:gnome-classic">
-    <p>GNOME features a different approach to switching windows than a
+    <p>Endless features a different approach to switching windows than a
     permanently visible window list found in other desktop environments. This
     lets you focus on the task at hand without distractions.</p>
     <list style="compact">
@@ -306,7 +306,7 @@ messages will be presented, such as when your battery is critically low.</p>
     <p>The window list at the bottom of the screen provides access to all your
     open windows and applications and lets you quickly minimize and restore
     them.</p>
-    <p>At the right-hand side of the window list, GNOME displays a short
+    <p>At the right-hand side of the window list, Endless displays a short
     identifier for the current worskpace, such as <gui>1</gui> for the first
     (top) workspace. In addition, the identifier also displays the total number
     of available workspaces. To switch to a different workspace, you can click

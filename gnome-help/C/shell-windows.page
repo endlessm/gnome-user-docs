@@ -11,7 +11,7 @@
     <revision pkgversion="3.4.0" date="2012-02-19" status="review"/>
 
     <credit type="author">
-      <name>GNOME Documentation Project</name>
+      <name>Endless Documentation Project</name>
       <email>gnome-doc-list@gnome.org</email>
     </credit>
 
@@ -20,7 +20,7 @@
 
 <title>Windows and workspaces</title>
 
-  <p>Like other desktops, GNOME uses windows to display your running
+  <p>Like other desktops, Endless uses windows to display your running
   applications. Using both the <gui>Activities</gui> overview and the
   <gui>dash</gui>, you can launch new applications and control active windows.</p>
 

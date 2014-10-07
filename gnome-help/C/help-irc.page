@@ -18,11 +18,11 @@
 <title>IRC</title>
    <p>
       IRC stands for Internet Relay Chat. It is a real-time multi-user messaging
-      system. You can get help and advice on the GNOME IRC server from other
-      GNOME users and developers.
+      system. You can get help and advice on the Endless IRC server from other
+      Endless users and developers.
    </p>
    <p>
-      To connect to the GNOME IRC server, use <app>empathy</app> or <app>xchat</app>,
+      To connect to the Endless IRC server, use <app>empathy</app> or <app>xchat</app>,
       or use a web interface like <link href="http://chat.mibbit.com/">mibbit</link>.
    </p>
    <p>
@@ -30,7 +30,7 @@
       <link href="help:empathy/irc-manage">Empathy documentation</link>.
    </p>
    <p>
-      The GNOME IRC server is <sys>irc.gnome.org</sys>. You may also see it referred to as the "GIMP network".
+      The Endless IRC server is <sys>irc.gnome.org</sys>. You may also see it referred to as the "GIMP network".
       If your computer is properly configured you can click on the link
       <link href="irc://irc.gnome.org/gnome" /> to access the <sys>gnome</sys> channel.
    </p>
@@ -38,7 +38,7 @@
       While IRC being a real-time discussion, people tend to not reply immediately, so be patient.
    </p>
    <note>
-      <p>Please note the <link href="https://live.gnome.org/CodeOfConduct/">GNOME code of conduct</link>
+      <p>Please note the <link href="https://live.gnome.org/CodeOfConduct/">Endless code of conduct</link>
       applies when you chat on IRC.</p>
    </note>
 </page>

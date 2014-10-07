@@ -43,20 +43,20 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/index.page:6
-msgid "A guide for GNOME 3 desktop users"
-msgstr "GNOME 3 ডেস্কটপ ব্যৱহাৰকাৰীসকলৰ বাবে এটা সহায়ক"
+msgid "A guide for Endless desktop users"
+msgstr "Endless ডেস্কটপ ব্যৱহাৰকাৰীসকলৰ বাবে এটা সহায়ক"
 
 #. (itstool) path: info/title
 #: C/index.page:8
 msgctxt "link"
-msgid "GNOME Help"
-msgstr "GNOME সহায়"
+msgid "Endless Help"
+msgstr "Endless সহায়"
 
 #. (itstool) path: info/title
 #: C/index.page:9
 msgctxt "text"
-msgid "GNOME Help"
-msgstr "GNOME সহায়"
+msgid "Endless Help"
+msgstr "Endless সহায়"
 
 #. (itstool) path: info/title
 #: C/index.page:10
@@ -72,10 +72,10 @@ msgstr ""
 #: C/index.page:15
 msgid ""
 "<media type=\"image\" src=\"figures/yelp-icon-big.png\">Yelp logo</media> "
-"GNOME Help"
+"Endless Help"
 msgstr ""
 "<media type=\"image\" src=\"figures/yelp-icon-big.png\">Yelp ল'গো</media> "
-"GNOME সহায়"
+"Endless সহায়"
 
 #. (itstool) path: p/link
 #: C/legal.xml:3
@@ -364,14 +364,14 @@ msgstr "ব্ৰেইলত পৰ্দা পঢ়ক"
 #. (itstool) path: page/p
 #: C/a11y-braille.page:25
 msgid ""
-"GNOME provides the <app>Orca</app> screen reader to display the user "
+"Endless provides the <app>Orca</app> screen reader to display the user "
 "interface on a refreshable Braille display. Depending on how you installed "
-"GNOME, you might not have Orca installed. <link href=\"install:orca"
+"Endless, you might not have Orca installed. <link href=\"install:orca"
 "\">Install Orca</link>, then refer to the <link href=\"help:orca\">Orca "
 "Help</link> for more information."
 msgstr ""
-"GNOME এ এটা সতেজ কৰিব পৰা ব্ৰেইল প্ৰদৰ্শনত ব্যৱহাৰকাৰী আন্তঃপৃষ্ঠ প্ৰদৰ্শন কৰিবলৈ "
-"<app>Orca</app> পৰ্দা ৰিডাৰ প্ৰদান কৰে। আপুনি GNOME কেনেকৈ ইনস্টল কৰিছে, তাৰ "
+"Endless এ এটা সতেজ কৰিব পৰা ব্ৰেইল প্ৰদৰ্শনত ব্যৱহাৰকাৰী আন্তঃপৃষ্ঠ প্ৰদৰ্শন কৰিবলৈ "
+"<app>Orca</app> পৰ্দা ৰিডাৰ প্ৰদান কৰে। আপুনি Endless কেনেকৈ ইনস্টল কৰিছে, তাৰ "
 "ওপৰত নিৰ্ভৰ কৰি, আপোনাৰ Orca ইনস্টল নাথাকিব পাৰে। <link href=\"install:orca"
 "\">Orca ইনস্টল কৰক</link>, তাৰ পিছত অধিক তথ্যৰ বাবে <link href=\"help:orca"
 "\">Orca সহায়</link> চাওক।"
@@ -767,12 +767,12 @@ msgstr "সাৰ্বভৈমক অভিগম"
 #: C/a11y.page:35
 #, fuzzy
 msgid ""
-"The GNOME desktop includes assistive technologies to support users with "
+"The Endless desktop includes assistive technologies to support users with "
 "various impairments and special needs, and to interact with common assistive "
 "devices. An accessibility menu can be added to the top bar, giving easier "
 "access to many of the accessibility features."
 msgstr ""
-"GNOME ডেস্কটপে বিভিন্ন দূৰ্বলতা আৰু বিশেষ প্ৰয়োজনীয়তা থকা ব্যৱহাৰকাৰীসকলক সমৰ্থন "
+"Endless ডেস্কটপে বিভিন্ন দূৰ্বলতা আৰু বিশেষ প্ৰয়োজনীয়তা থকা ব্যৱহাৰকাৰীসকলক সমৰ্থন "
 "কৰিবলৈ আৰু সাধাৰণ সহায়ক ডিভাইচসমূহৰ সৈতে ভাৱবিনিময় কৰিবলৈ, সহায়ক প্ৰযুক্তি "
 "অন্তৰ্ভুক্ত কৰে। ওপৰ বাৰত অভিগম্যতা মেনুৰ পৰা কেইবাটাও অভিগম্যতা বৈশিষ্ট্য অভিগম কৰিব "
 "পাৰি।"
@@ -956,13 +956,13 @@ msgstr "পৰ্দাক ৰাউচি পঢ়ক"
 #. (itstool) path: page/p
 #: C/a11y-screen-reader.page:21
 msgid ""
-"GNOME provides the <app>Orca</app> screen reader to speak the user "
-"interface. Depending on how you installed GNOME, you might not have Orca "
+"Endless provides the <app>Orca</app> screen reader to speak the user "
+"interface. Depending on how you installed Endless, you might not have Orca "
 "installed. <link href=\"install:orca\">Install Orca</link>, then refer to "
 "the <link href=\"help:orca\">Orca Help</link> for more information."
 msgstr ""
-"GNOME এ ব্যৱহাৰকাৰী আন্তঃপৃষ্ঠত কথা কবলৈ <app>Orca</app> পৰ্দা ৰিডাৰ প্ৰদান কৰে। "
-"আপুনি GNOME কেনেকৈ ইনস্টল কৰিছে, তাৰ ওপৰত নিৰ্ভৰ কৰি, আপোনাৰ Orca ইনস্টল নাথাকিব "
+"Endless এ ব্যৱহাৰকাৰী আন্তঃপৃষ্ঠত কথা কবলৈ <app>Orca</app> পৰ্দা ৰিডাৰ প্ৰদান কৰে। "
+"আপুনি Endless কেনেকৈ ইনস্টল কৰিছে, তাৰ ওপৰত নিৰ্ভৰ কৰি, আপোনাৰ Orca ইনস্টল নাথাকিব "
 "পাৰে। <link href=\"install:orca\">Orca ইনস্টল কৰক</link>, তাৰ পিছত অধিক তথ্যৰ "
 "বাবে <link href=\"help:orca\">Orca সহায়</link> চাওক।"
 
@@ -1291,8 +1291,8 @@ msgstr "ডেস্কটপ সহায় ব্যৱহাৰ কৰিবল
 #: C/user-admin-problems.page:13 C/user-changepassword.page:14
 #: C/user-changepicture.page:13 C/user-delete.page:17
 #: C/user-goodpassword.page:12 C/video-dvd.page:14 C/video-sending.page:11
-msgid "GNOME Documentation Project"
-msgstr "GNOME তথ্যচিত্ৰ প্ৰকল্প"
+msgid "Endless Documentation Project"
+msgstr "Endless তথ্যচিত্ৰ প্ৰকল্প"
 
 #. (itstool) path: page/title
 #: C/about-this-guide.page:17
@@ -1366,8 +1366,8 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/about-this-guide.page:29
-msgid "-- The GNOME documentation team"
-msgstr "-- GNOME তথ্যচিত্ৰ দল"
+msgid "-- The Endless documentation team"
+msgstr "-- Endless তথ্যচিত্ৰ দল"
 
 #. (itstool) path: credit/name
 #: C/accounts-add.page:13 C/bluetooth-connect-device.page:17
@@ -1400,11 +1400,11 @@ msgstr "এটা একাওন্ট যোগ কৰক"
 #: C/accounts-add.page:26
 #, fuzzy
 msgid ""
-"Adding an account will help link your online accounts with your GNOME "
+"Adding an account will help link your online accounts with your Endless "
 "desktop. Thus, your email program, chat program and other related "
 "applications will be set up for you."
 msgstr ""
-"এটা একাওন্ট যোগ কৰিলে আপোনাৰ অনলাইন একাওন্টসমূহ আপোনাৰ GNOME ডেস্কটপৰ সৈতে সংযোগ "
+"এটা একাওন্ট যোগ কৰিলে আপোনাৰ অনলাইন একাওন্টসমূহ আপোনাৰ Endless ডেস্কটপৰ সৈতে সংযোগ "
 "কৰাত সহায়ক হব। সেয়েহে, আপোনাৰ ইমেইল প্ৰগ্ৰাম, চেট প্ৰগ্ৰাম, আৰু অন্য প্ৰাসংগিক "
 "এপ্লিকেচনসমূহ আপোনাৰ বাবে সংস্থাপন কৰা হব।"
 
@@ -1443,9 +1443,9 @@ msgstr ""
 #, fuzzy
 msgid ""
 "If you have entered your credentials correctly, you will be prompted to "
-"allow GNOME access to your online account. Authorize access to continue."
+"allow Endless access to your online account. Authorize access to continue."
 msgstr ""
-"যদি আপুনি আপোনাৰ তথ্যসমূহ সঠিক সুমুৱাইছে, আপোনাক আপোনাৰ অনলাইন একাওন্টলৈ GNOME "
+"যদি আপুনি আপোনাৰ তথ্যসমূহ সঠিক সুমুৱাইছে, আপোনাক আপোনাৰ অনলাইন একাওন্টলৈ Endless "
 "অভিগমৰ অনুমতি দিবলৈ প্ৰমপ্ট কৰা হব। আগবাঢ়িবলৈ <gui>অভিগম প্ৰদান কৰক</gui> বাছক।"
 
 #. (itstool) path: item/p
@@ -1473,12 +1473,12 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/accounts-add.page:62
 msgid ""
-"For security reasons, GNOME will not store your password on your computer. "
+"For security reasons, Endless will not store your password on your computer. "
 "Instead, it stores a token that is provided by the online service. If you "
 "want to fully revoke the link between your desktop and the online service, "
 "<link xref=\"accounts-remove\">remove</link> it."
 msgstr ""
-"সুৰক্ষা কাৰণৰ বাবে, GNOME এ আপোনাৰ পাছৱাৰ্ড আপোনাৰ কমপিউটাৰত সংৰক্ষণ নকৰে। ইয়াৰ "
+"সুৰক্ষা কাৰণৰ বাবে, Endless এ আপোনাৰ পাছৱাৰ্ড আপোনাৰ কমপিউটাৰত সংৰক্ষণ নকৰে। ইয়াৰ "
 "পৰিৱৰ্তে, ই অনলাইন সেৱা দ্বাৰা প্ৰদান কৰা এটা টকেন সংৰক্ষণ কৰে। যদি আপুনি আপোনাৰ "
 "ডেস্কটপ আৰু অনলাইন সেৱাৰ মাজৰ সংযোগ সম্পূৰ্ণভাৱে আতৰাব খোজে, ইয়াক <link xref="
 "\"accounts-remove\">আতৰাওক</link>।"
@@ -1571,11 +1571,11 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/accounts-create.page:63
 msgid ""
-"You need to grant GNOME access to your new account in order to use it with "
+"You need to grant Endless access to your new account in order to use it with "
 "<app>Online Accounts</app>."
 msgstr ""
 "আপোনাৰ নতুন একাওন্টক <app>অনলাইন একাওন্টসমূহ</app> ৰ সৈতে ব্যৱহাৰ কৰিবলৈ আপুনি "
-"ইয়াক GNOME অভিগম প্ৰদান কৰিব লাগিব।"
+"ইয়াক Endless অভিগম প্ৰদান কৰিব লাগিব।"
 
 #. (itstool) path: item/p
 #: C/accounts-create.page:67
@@ -1748,7 +1748,7 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/accounts-remove.page:50
 msgid ""
-"To remove GNOME's access to the online account, you should revoke the access "
+"To remove Endless's access to the online account, you should revoke the access "
 "through the account's website or similar service."
 msgstr ""
 
@@ -3896,10 +3896,10 @@ msgstr "কোনবোৰ ৰঙ জোখা যন্ত্ৰ সমৰ্�
 #. (itstool) path: page/p
 #: C/color-calibrationdevices.page:21
 msgid ""
-"GNOME relies on the Argyll color management system to support color "
+"Endless relies on the Argyll color management system to support color "
 "instruments. Thus the following display measuring instruments are supported:"
 msgstr ""
-"GNOME এ ৰঙৰ যন্ত্ৰবোৰ সমৰ্থন কৰিবলৈ Argyll ৰঙ ব্যৱস্থাপনা চিস্টেমৰ ওপৰত ভৰষা কৰে। "
+"Endless এ ৰঙৰ যন্ত্ৰবোৰ সমৰ্থন কৰিবলৈ Argyll ৰঙ ব্যৱস্থাপনা চিস্টেমৰ ওপৰত ভৰষা কৰে। "
 "সেয়েহে নিম্নলিখিত প্ৰদৰ্শন জোখা যন্ত্ৰবোৰ সমৰ্থন কৰা হয়:"
 
 #. (itstool) path: item/p
@@ -4391,10 +4391,10 @@ msgstr ""
 #: C/color-testing.page:33
 #, fuzzy
 msgid ""
-"GNOME comes with several profiles for testing that make it very clear when "
+"Endless comes with several profiles for testing that make it very clear when "
 "the profiles are being applied:"
 msgstr ""
-"GNOME ত আমি পৰিক্ষণৰ বাবে কেইবাটাও আলেখ্য প্ৰদান কৰো যি আলেখ্যবোৰ প্ৰয়োগ হওতে "
+"Endless ত আমি পৰিক্ষণৰ বাবে কেইবাটাও আলেখ্য প্ৰদান কৰো যি আলেখ্যবোৰ প্ৰয়োগ হওতে "
 "ইয়াক অতি পৰিক্ষাৰ কৰে:"
 
 #. (itstool) path: item/title
@@ -6060,11 +6060,11 @@ msgstr "দস্তাবেজসমূহ"
 #. (itstool) path: page/p
 #: C/documents.page:37
 msgid ""
-"<app>Documents</app> is a GNOME application that lets you display, organize, "
+"<app>Documents</app> is an Endless application that lets you display, organize, "
 "and print the documents on your computer or those created remotely using "
 "<em>Google Docs</em> or <em>SkyDrive</em>."
 msgstr ""
-"<app>দস্তাবেজসমূহ</app> এটা GNOME এপ্লিকেচন যি আপোনাক আপোনাৰ কমপিউটাৰৰ "
+"<app>দস্তাবেজসমূহ</app> এটা Endless এপ্লিকেচন যি আপোনাক আপোনাৰ কমপিউটাৰৰ "
 "দস্তাবেজসমূহ অথবা <em>Google Docs</em> অথবা <em>SkyDrive</em> ব্যৱহাৰ কৰি সৃষ্টি "
 "কৰা দস্তাবেজসমূহ প্ৰদৰ্শন, সংঘঠন, আৰু প্ৰিন্ট কৰাৰ সুবিধা দিয়ে।"
 
@@ -7184,11 +7184,11 @@ msgstr "এটা ফাইল লুকুৱাওক"
 #. (itstool) path: page/p
 #: C/files-hidden.page:24
 msgid ""
-"The GNOME file manager gives you the ability to hide and unhide files at "
+"The Endless file manager gives you the ability to hide and unhide files at "
 "your discretion. When a file is hidden, it isn't displayed by the file "
 "manager, but it's still there in its folder."
 msgstr ""
-"GNOME ফাইল ব্যৱস্থাপকৰ সহায়ত আপুনি আপোনাৰ ইচ্ছামতে ফাইলসমূহ লুকুৱাব আৰু উন্মুক্ত কৰিব "
+"Endless ফাইল ব্যৱস্থাপকৰ সহায়ত আপুনি আপোনাৰ ইচ্ছামতে ফাইলসমূহ লুকুৱাব আৰু উন্মুক্ত কৰিব "
 "পাৰিব। যেতিয়া এটা ফাইল লুকুৱা থাকে, ইয়াক ফাইল ব্যৱস্থাপক দ্বাৰা দেখুৱা নহয়, কিন্তু ই "
 "আচলতে ফোল্ডাৰতে থাকে।"
 
@@ -7712,11 +7712,11 @@ msgstr "এটা ফাইল অথবা ফোল্ডাৰ পুনৰ�
 #. (itstool) path: page/p
 #: C/files-rename.page:32
 msgid ""
-"As with other file managers, you can use the GNOME file manager to change "
+"As with other file managers, you can use the Endless file manager to change "
 "the name of a file or folder."
 msgstr ""
 "অন্য ফাইল ব্যৱস্থাপকৰ নিচিনা, আপুনি এটা ফাইল অথবা ফোল্ডাৰৰ নাম পৰিবৰ্তন কৰিবলৈ "
-"GNOME ফাইল ব্যৱস্থাপক ব্যৱহাৰ কৰিব পাৰিব।"
+"Endless ফাইল ব্যৱস্থাপক ব্যৱহাৰ কৰিব পাৰিব।"
 
 #. (itstool) path: steps/title
 #: C/files-rename.page:35
@@ -8536,10 +8536,10 @@ msgstr ""
 #: C/get-involved.page:37
 msgid ""
 "Your report will be given an ID number, and its status will be updated as it "
-"is being dealt with. Thanks for helping make the GNOME Help better!"
+"is being dealt with. Thanks for helping make the Endless Help better!"
 msgstr ""
 "আপোনাৰ সংবাদক এটা ID সংখ্যা দিয়া হব, আৰু ইয়াৰ অৱস্থা আপডেইট কৰা হব যিহেতু ইয়াৰ "
-"ওপৰত কাম কৰা হৈছে। GNOME সহায়ক উন্নত কৰাত সহায়ৰ বাবে ধন্যবাদ!"
+"ওপৰত কাম কৰা হৈছে। Endless সহায়ক উন্নত কৰাত সহায়ৰ বাবে ধন্যবাদ!"
 
 #. (itstool) path: section/title
 #: C/get-involved.page:43
@@ -8550,7 +8550,7 @@ msgstr "আমাক যোগাযোগ কৰক"
 #: C/get-involved.page:44
 msgid ""
 "You can send an <link href=\"mailto:gnome-doc-list@gnome.org\">email</link> "
-"to the GNOME docs mailing list to learn more about how to get involved with "
+"to the Endless docs mailing list to learn more about how to get involved with "
 "the documentation team."
 msgstr ""
 
@@ -8562,20 +8562,20 @@ msgstr "পিটাৰ ক'ভাৰ"
 #. (itstool) path: info/desc
 #: C/gnome-classic.page:22
 msgid ""
-"Consider switching to GNOME Classic if you prefer a more traditional desktop "
+"Consider switching to Endless Classic if you prefer a more traditional desktop "
 "experience."
-msgstr "যদি আপুনি এটা পাৰম্পৰিক ডেস্কটপ অনুভৱ পছন্দ কৰে GNOME ক্লাচিকলৈ উভতি যাওক।"
+msgstr "যদি আপুনি এটা পাৰম্পৰিক ডেস্কটপ অনুভৱ পছন্দ কৰে Endless ক্লাচিকলৈ উভতি যাওক।"
 
 #. (itstool) path: page/title
 #: C/gnome-classic.page:26
-msgid "What is GNOME Classic?"
-msgstr "GNOME ক্লাচিক কি?"
+msgid "What is Endless Classic?"
+msgstr "Endless ক্লাচিক কি?"
 
 #. (itstool) path: page/p
 #: C/gnome-classic.page:28
 msgid ""
-"<em>GNOME Classic</em> is a feature for users who prefer a more traditional "
-"desktop experience. While <em>GNOME Classic</em> is based on <em>GNOME 3</"
+"<em>Endless Classic</em> is a feature for users who prefer a more traditional "
+"desktop experience. While <em>Endless Classic</em> is based on <em>Endless</"
 "em> technologies, it provides a number of changes to the user interface, "
 "such as the <gui xref=\"shell-terminology\">Applications</gui> and <gui xref="
 "\"shell-terminology\">Places</gui> menus on the top bar, and a window list "
@@ -8623,7 +8623,7 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/gnome-classic.page:49
 msgid ""
-"At the right-hand side of the window list, GNOME displays a short identifier "
+"At the right-hand side of the window list, Endless displays a short identifier "
 "for the current workspace, such as <gui>1</gui> for the first (top) "
 "workspace. In addition, the identifier also displays the total number of "
 "available workspaces. To switch to a different workspace, you can click the "
@@ -8641,21 +8641,21 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/gnome-classic.page:63
-msgid "Switch to and from GNOME Classic"
-msgstr "GNOME ক্লাচিকলৈ আৰু GNOME ক্লাচিকৰ পৰা পৰিবৰ্তন কৰক"
+msgid "Switch to and from Endless Classic"
+msgstr "Endless ক্লাচিকলৈ আৰু Endless ক্লাচিকৰ পৰা পৰিবৰ্তন কৰক"
 
 #. (itstool) path: note/p
 #: C/gnome-classic.page:66
 msgid ""
-"GNOME Classic is only available on systems with certain GNOME Shell "
+"Endless Classic is only available on systems with certain Endless Shell "
 "extensions installed. Some Linux distributions may not have these extensions "
 "available or installed by default."
 msgstr ""
 
 #. (itstool) path: steps/title
 #: C/gnome-classic.page:72
-msgid "To switch from <em>GNOME</em> to <em>GNOME Classic</em>:"
-msgstr "<em>GNOME</em> ৰ পৰা <em>GNOME ক্লাচিক</em> লৈ পৰিবৰ্তন কৰিবলৈ:"
+msgid "To switch from <em>Endless</em> to <em>Endless Classic</em>:"
+msgstr "<em>Endless</em> ৰ পৰা <em>Endless ক্লাচিক</em> লৈ পৰিবৰ্তন কৰিবলৈ:"
 
 #. (itstool) path: item/p
 #: C/gnome-classic.page:74 C/gnome-classic.page:99
@@ -8690,7 +8690,7 @@ msgstr "পাছৱাৰ্ড প্ৰৱিষ্টি বাকচত আ
 #: C/gnome-classic.page:88
 msgid ""
 "Click the options icon, which is displayed to the left of the <gui>Sign In</"
-"gui> button, and select <gui>GNOME Classic</gui>."
+"gui> button, and select <gui>Endless Classic</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -8701,14 +8701,14 @@ msgstr "<gui>✓</gui> বুটাম ক্লিক কৰক।"
 
 #. (itstool) path: steps/title
 #: C/gnome-classic.page:97
-msgid "To switch from <em>GNOME Classic</em> to <em>GNOME</em>:"
-msgstr "<em>GNOME Classic</em> ৰ পৰা <em>GNOME</em> লৈ পৰিবৰ্তন কৰিবলৈ:"
+msgid "To switch from <em>Endless Classic</em> to <em>Endless</em>:"
+msgstr "<em>Endless Classic</em> ৰ পৰা <em>Endless</em> লৈ পৰিবৰ্তন কৰিবলৈ:"
 
 #. (itstool) path: item/p
 #: C/gnome-classic.page:113
 msgid ""
 "Click the options icon, which is displayed to the left of the <gui>Sign In</"
-"gui> button, and select <gui>GNOME</gui>."
+"gui> button, and select <gui>Endless</gui>."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -8916,14 +8916,14 @@ msgstr "IRC"
 #: C/help-irc.page:19
 msgid ""
 "IRC stands for Internet Relay Chat. It is a real-time multi-user messaging "
-"system. You can get help and advice on the GNOME IRC server from other GNOME "
+"system. You can get help and advice on the Endless IRC server from other Endless "
 "users and developers."
 msgstr ""
 
 #. (itstool) path: page/p
 #: C/help-irc.page:24
 msgid ""
-"To connect to the GNOME IRC server, use <app>empathy</app> or <app>xchat</"
+"To connect to the Endless IRC server, use <app>empathy</app> or <app>xchat</"
 "app>, or use a web interface like <link href=\"http://chat.mibbit.com/"
 "\">mibbit</link>."
 msgstr ""
@@ -8940,7 +8940,7 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/help-irc.page:32
 msgid ""
-"The GNOME IRC server is <sys>irc.gnome.org</sys>. You may also see it "
+"The Endless IRC server is <sys>irc.gnome.org</sys>. You may also see it "
 "referred to as the \"GIMP network\". If your computer is properly configured "
 "you can click on the link <link href=\"irc://irc.gnome.org/gnome\"/> to "
 "access the <sys>gnome</sys> channel."
@@ -8958,11 +8958,11 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/help-irc.page:41
 msgid ""
-"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">GNOME "
+"Please note the <link href=\"https://live.gnome.org/CodeOfConduct/\">Endless "
 "code of conduct</link> applies when you chat on IRC."
 msgstr ""
 "অনুগ্ৰহ কৰি মন কৰিব যে <link href=\"https://live.gnome.org/CodeOfConduct/"
-"\">GNOME আচৰণ বিধি</link> প্ৰযোজ্য হয় যেতিয়া আপুনি IRC ত চেট কৰে।"
+"\">Endless আচৰণ বিধি</link> প্ৰযোজ্য হয় যেতিয়া আপুনি IRC ত চেট কৰে।"
 
 #. (itstool) path: info/desc
 #: C/help-mailing-list.page:23
@@ -8978,7 +8978,7 @@ msgstr "মেইলিং তালিকা"
 #: C/help-mailing-list.page:28
 msgid ""
 "Mailing lists are email based discussions. You can ask for support using the "
-"GNOME mailing lists. Almost each GNOME application has its own mailing list. "
+"Endless mailing lists. Almost each Endless application has its own mailing list. "
 "The complete list of mailing-lists are listed at <link href=\"http://mail."
 "gnome.org/mailman/listinfo\"/>."
 msgstr ""
@@ -10850,7 +10850,7 @@ msgstr "ওপৰ প্ৰদৰ্শিত তিনিটা পছন্দ
 #: C/look-background.page:71
 msgid ""
 "Select <gui>Wallpapers</gui> to use one of the many professional background "
-"images that ship with GNOME. Some wallpapers change throughout the day. "
+"images that ship with Endless. Some wallpapers change throughout the day. "
 "These wallpapers have a small clock icon in the bottom-right corner."
 msgstr ""
 
@@ -13819,8 +13819,8 @@ msgstr "<link xref=\"net-default-email\">অবিকল্পিত ইমে�
 
 #. (itstool) path: credit/name
 #: C/net-email.page:19 C/net-general.page:22
-msgid "The GNOME Documentation Project"
-msgstr "GNOME তথ্যচিত্ৰ প্ৰকল্প"
+msgid "The Endless Documentation Project"
+msgstr "Endless তথ্যচিত্ৰ প্ৰকল্প"
 
 #. (itstool) path: page/title
 #: C/net-email.page:23
@@ -19189,11 +19189,11 @@ msgstr "গোপনীয়তা সংহতিসমূহ"
 #. (itstool) path: page/p
 #: C/privacy.page:27
 msgid ""
-"The <em>Privacy Settings</em> in GNOME help you control whether or not "
+"The <em>Privacy Settings</em> in Endless help you control whether or not "
 "certain parts of your desktop are visible to others. You can also use these "
 "settings to clear your computer usage history and clean-out unecessary files."
 msgstr ""
-"GNOME ত <em>গোপনীয়তা সংহতিসমূহ</em> এ আপোনাক আপোনাৰ ডেস্কটপ কিছুমান অংশ অন্যলৈ "
+"Endless ত <em>গোপনীয়তা সংহতিসমূহ</em> এ আপোনাক আপোনাৰ ডেস্কটপ কিছুমান অংশ অন্যলৈ "
 "দৃশ্যমান হব নে নহব নিয়ন্ত্ৰণ কৰাত সহায় কৰে। আপুনি এই সংহতিসমূহ ব্যৱহাৰ কৰি আপোনাৰ "
 "কমপিউটাৰৰ ব্যৱহাৰ ইতিহাস আৰু অপ্ৰয়োজনীয় ফাইলসমূহ আতৰাব পাৰিব।"
 
@@ -20006,10 +20006,10 @@ msgstr "অংশীদাৰী সংহতিসমূহ"
 #. (itstool) path: page/p
 #: C/settings-sharing.page:25
 msgid ""
-"The <em>Sharing Settings</em> in GNOME help you control what is shared over "
+"The <em>Sharing Settings</em> in Endless help you control what is shared over "
 "the local network, or through other technologies such as <em>Bluetooth</em>."
 msgstr ""
-"GNOME ত <em>অংশীদাৰী সংহতিসমূহ</em> এ আপোনাক স্থানীয় নেটৱাৰ্ক, অথবা অন্য প্ৰযুক্তি "
+"Endless ত <em>অংশীদাৰী সংহতিসমূহ</em> এ আপোনাক স্থানীয় নেটৱাৰ্ক, অথবা অন্য প্ৰযুক্তি "
 "যেনে <em>ব্লুটুথ</em> দ্বাৰা অংশীদাৰী কৰা বস্তুবোৰ নিয়ন্ত্ৰণ কৰাত সহায় কৰে।"
 
 #. (itstool) path: info/desc
@@ -20804,7 +20804,7 @@ msgstr "স্থগিত কৰক"
 #: C/shell-exit.page:103
 msgid ""
 "To save power, suspend your computer when you are not using it. If you use a "
-"laptop, GNOME suspends your computer automatically when you close the lid. "
+"laptop, Endless suspends your computer automatically when you close the lid. "
 "This saves your state to your computer's memory and powers off most of the "
 "computer's functions. A very small amount of power is still used during "
 "suspend."
@@ -21013,21 +21013,21 @@ msgstr "আপোনাৰ ডেস্কটপ, ওপৰ বাৰ, আৰু
 
 #. (itstool) path: page/title
 #: C/shell-introduction.page:32
-msgid "Introduction to GNOME"
-msgstr "GNOME লৈ পৰিচয়"
+msgid "Introduction to Endless"
+msgstr "Endless লৈ পৰিচয়"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:34
 msgid ""
-"GNOME 3 features a completely reimagined user interface designed to stay out "
+"Endless features a completely reimagined user interface designed to stay out "
 "of your way, minimize distractions, and help you get things done. When you "
 "first log in, you will see an empty desktop and the top bar."
 msgstr ""
 
 #. (itstool) path: media/p
 #: C/shell-introduction.page:41 C/shell-introduction.page:46
-msgid "GNOME shell top bar"
-msgstr "GNOME শ্বেল ওপৰ বাৰ"
+msgid "Endless shell top bar"
+msgstr "Endless শ্বেল ওপৰ বাৰ"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:51
@@ -21255,7 +21255,7 @@ msgstr "উইন্ডো তালিকা"
 #. (itstool) path: when/p
 #: C/shell-introduction.page:263
 msgid ""
-"GNOME features a different approach to switching windows than a permanently "
+"Endless features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus "
 "on the task at hand without distractions."
 msgstr ""
@@ -21273,7 +21273,7 @@ msgstr ""
 #. (itstool) path: when/p
 #: C/shell-introduction.page:280
 msgid ""
-"At the right-hand side of the window list, GNOME displays a short identifier "
+"At the right-hand side of the window list, Endless displays a short identifier "
 "for the current worskpace, such as <gui>1</gui> for the first (top) "
 "workspace. In addition, the identifier also displays the total number of "
 "available workspaces. To switch to a different workspace, you can click the "
@@ -22232,11 +22232,11 @@ msgstr "উইন্ডোসমূহ স্থানান্তৰ কৰক 
 #: C/shell-windows-states.page:25
 msgid ""
 "You can move and resize windows to help you work more efficiently. In "
-"addition to the dragging behavior you might expect, GNOME features shortcuts "
+"addition to the dragging behavior you might expect, Endless features shortcuts "
 "and modifiers to help you arrange windows quickly."
 msgstr ""
 "আপুনি অধিক দক্ষতাৰে কাম কৰিবলে উইন্ডোসমূহক স্থানান্তৰ আৰু পুনৰ আকাৰ দিব পাৰিব। আপুনি "
-"আশা কৰিব পৰা টনা ব্যৱহাৰৰ অতিৰিক্তে, GNOME এ আপুনি উইন্ডোসমূহ দ্ৰুত সংঘটিত কৰাত "
+"আশা কৰিব পৰা টনা ব্যৱহাৰৰ অতিৰিক্তে, Endless এ আপুনি উইন্ডোসমূহ দ্ৰুত সংঘটিত কৰাত "
 "সহায় কৰিবলে চৰ্টকাট আৰু পৰিবৰ্তকসমূহ প্ৰদান কৰে।"
 
 #. (itstool) path: item/p
@@ -22470,11 +22470,11 @@ msgstr "উইন্ডো আৰু কাৰ্য্যস্থানসম�
 #. (itstool) path: page/p
 #: C/shell-windows.page:23
 msgid ""
-"Like other desktops, GNOME uses windows to display your running "
+"Like other desktops, Endless uses windows to display your running "
 "applications. Using both the <gui>Activities</gui> overview and the "
 "<gui>dash</gui>, you can launch new applications and control active windows."
 msgstr ""
-"অন্য ডেস্কটপৰ নিচিনা, GNOME এ আপোনাৰ চলি থকা এপ্লিকেচনসমূহ প্ৰদৰ্শন কৰিবলৈ "
+"অন্য ডেস্কটপৰ নিচিনা, Endless এ আপোনাৰ চলি থকা এপ্লিকেচনসমূহ প্ৰদৰ্শন কৰিবলৈ "
 "উইন্ডোসমূহ ব্যৱহাৰ কৰে। <gui>কাৰ্য্যসমূহ</gui> অভাৰভিউ আৰু <gui>ডেশ</gui> ব্যৱহাৰ "
 "কৰি, আপুনি নতুন এপ্লিকেচনসমূহ লঞ্চ কৰিব পাৰিব আৰু সক্ৰিয় উইন্ডোসমূহ নিয়ন্ত্ৰণ কৰিব "
 "পাৰিব।"
@@ -23454,13 +23454,13 @@ msgstr "ওপৰ বাৰৰ আইকনসমূহে কি বুজা�
 msgid ""
 "This section explains the meaning of icons located on the top right corner "
 "of the screen. More specifically, the different variations of the icons "
-"provided by the GNOME interface are described."
+"provided by the Endless interface are described."
 msgstr ""
 
 #. (itstool) path: media/p
 #: C/status-icons.page:29 C/status-icons.page:35
-msgid "GNOME Shell top bar"
-msgstr "GNOME শ্বেল ওপৰ বাৰ"
+msgid "Endless Shell top bar"
+msgstr "Endless শ্বেল ওপৰ বাৰ"
 
 #. (itstool) path: section/title
 #: C/status-icons.page:43
@@ -23776,7 +23776,7 @@ msgstr "আখৰ মানচিত্ৰ"
 #. (itstool) path: section/p
 #: C/tips-specialchars.page:43
 msgid ""
-"GNOME comes with a character map application that allows you to browse all "
+"Endless comes with a character map application that allows you to browse all "
 "the characters in Unicode. Use the character map to find the character you "
 "want, and then copy and paste it to wherever you need it."
 msgstr ""
@@ -23991,10 +23991,10 @@ msgstr "অনুবাদসমূহ উন্নত কৰিবলৈ অং
 #. (itstool) path: page/p
 #: C/translate.page:26
 msgid ""
-"GNOME's help is being translated by a world-wide volunteer community. You "
+"Endless's help is being translated by a world-wide volunteer community. You "
 "are welcome to participate."
 msgstr ""
-"GNOME সহায়ক বিশ্বব্যাপী স্বেচ্ছাসেৱী সম্প্ৰদায় দ্বাৰা অনুবাদ কৰা হৈ আছে। আপুনি "
+"Endless সহায়ক বিশ্বব্যাপী স্বেচ্ছাসেৱী সম্প্ৰদায় দ্বাৰা অনুবাদ কৰা হৈ আছে। আপুনি "
 "অংশগ্ৰহণ কৰিবলৈ স্বাগতম।"
 
 #. (itstool) path: page/p
@@ -24018,7 +24018,7 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/translate.page:36
 msgid ""
-"You can chat with GNOME translators using <link href=\"https://cbe003.chat."
+"You can chat with Endless translators using <link href=\"https://cbe003.chat."
 "mibbit.com/?url=irc%3A%2F%2Firc.gnome.org%2Fi18n\">irc</link>. People on the "
 "channel are located worldwide, so you may not get an immediate response as a "
 "result of timezone differences."
@@ -24189,7 +24189,7 @@ msgstr ""
 msgid ""
 "In the <gui>Users</gui> panel, you can click the image next to the user's "
 "name to the right to set an image for the account. This image will be shown "
-"in the login window. GNOME provides some stock photos you can use, or you "
+"in the login window. Endless provides some stock photos you can use, or you "
 "can select your own or take a picture with your webcam."
 msgstr ""
 
@@ -25591,9 +25591,9 @@ msgstr "Wacom গ্ৰাফিক্স টেবলেট"
 
 #~ msgid ""
 #~ "Click <gui>Session</gui> below the password entry box and choose "
-#~ "<gui>GNOME Classic</gui>."
+#~ "<gui>Endless Classic</gui>."
 #~ msgstr ""
-#~ "পাছৱাৰ্ড প্ৰৱিষ্টি বাকচৰ তলত <gui>অধিবেশন</gui> ক্লিক কৰক আৰু <gui>GNOME "
+#~ "পাছৱাৰ্ড প্ৰৱিষ্টি বাকচৰ তলত <gui>অধিবেশন</gui> ক্লিক কৰক আৰু <gui>Endless "
 #~ "ক্লাচিক</gui> বাছক।"
 
 #~ msgid "Click <gui>Sign In</gui>."
@@ -25601,9 +25601,9 @@ msgstr "Wacom গ্ৰাফিক্স টেবলেট"
 
 #~ msgid ""
 #~ "Click <gui>Session</gui> below the password entry box and choose "
-#~ "<gui>GNOME</gui>."
+#~ "<gui>Endless</gui>."
 #~ msgstr ""
-#~ "পাছৱাৰ্ড প্ৰৱিষ্টি বাকচৰ তলত <gui>অধিবেশন</gui> ক্লিক কৰক আৰু <gui>GNOME</gui> "
+#~ "পাছৱাৰ্ড প্ৰৱিষ্টি বাকচৰ তলত <gui>অধিবেশন</gui> ক্লিক কৰক আৰু <gui>Endless</gui> "
 #~ "বাছক।"
 
 #~ msgid "Click the current shortcut definition on the far right."
@@ -25999,12 +25999,12 @@ msgstr "Wacom গ্ৰাফিক্স টেবলেট"
 #~ "সম্পূৰ্ণ নাম লুকুৱাব।"
 
 #~ msgid ""
-#~ "Many help topics in the GNOME Help instruct you to \"Click your name in "
+#~ "Many help topics in the Endless Help instruct you to \"Click your name in "
 #~ "the <gui>top bar</gui>.\" If you hide your name in the <gui>top bar</"
 #~ "gui>, you will need to click the small <gui>notification icon</gui> in "
 #~ "the <gui>top bar</gui> instead."
 #~ msgstr ""
-#~ "GNOME সহায়ত বহুতো সহায় বিষয় আপোনাক \"<gui>ওপৰ বাৰ</gui> ত আপোনাৰ নামত ক্লিক "
+#~ "Endless সহায়ত বহুতো সহায় বিষয় আপোনাক \"<gui>ওপৰ বাৰ</gui> ত আপোনাৰ নামত ক্লিক "
 #~ "কৰাৰ নিৰ্দেশ দিয়ে\"। যদি আপুনি <gui>ওপৰ বাৰ</gui> ত আপোনাৰ নাম লুকুৱায়, আপুনি "
 #~ "<gui>ওপৰ বাৰ</gui> ত সৰু <gui>অধিসূচনা</gui> ত ক্লিক কৰিব লাগিব।"
 

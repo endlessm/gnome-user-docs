@@ -38,12 +38,12 @@
   <p>Your home or office network may include a printer. Many modern, inexpensive printers can be directly attached to your network. If you're in an office environment, your system administration staff should be able to provide details about the available network printers.</p>
 
   <comment>
-    <cite date="2011-03-20" href="mailto:gnome-docs-list@gnome.org">GNOME Documentation Project</cite>
+    <cite date="2011-03-20" href="mailto:gnome-docs-list@gnome.org">Endless Documentation Project</cite>
     <p>Let's assume that the printer is shared out correctly in a way that makes it discoverable (via mDNS/avahi) and that it's providing CUPS/IPP service over port 631. These capabilities are typical in most modern printers that have cross-platform support.</p>
-    <p>Perhaps installing a printer in that way on GNOME should be covered elsewhere, but the capability doesn't currently exist in the GNOME 3 Printers tool, meaning it would need to be covered by distros.</p>
+    <p>Perhaps installing a printer in that way on Endless should be covered elsewhere, but the capability doesn't currently exist in the Endless Printers tool, meaning it would need to be covered by distros.</p>
   </comment>
 
-  <p>To make sure the new printer is available to your GNOME system, use the Printers tool.</p>
+  <p>To make sure the new printer is available to your Endless system, use the Printers tool.</p>
 
   <steps>
     <item><p>Open the <gui xref="shell-terminology">Activities</gui> overview

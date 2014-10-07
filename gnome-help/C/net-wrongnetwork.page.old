@@ -24,7 +24,7 @@
 <comment>
 <cite date="2011-06-13">shaunm</cite>
 <p>The instructions for accessing the network settings are wrong. Also, I don't
-actually see how to accomplish this task with GNOME 3. Needs revision.</p>
+actually see how to accomplish this task with Endless. Needs revision.</p>
 </comment>
 
 <p>When you turn your computer on, your computer will automatically try to connect to wireless networks that you have connected to in the past. If it tries to connect to the wrong network each time (that is, not the one that you want it to connect to), do the following:</p>

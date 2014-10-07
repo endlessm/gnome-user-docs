@@ -9,7 +9,7 @@
     <revision pkgversion="3.5.92" version="0.2" date="2012-09-19" status="review"/>
 
     <credit type="author">
-      <name>GNOME Documentation Project</name>
+      <name>Endless Documentation Project</name>
       <email>gnome-doc-list@gnome.org</email>
     </credit>
     <credit type="author">
@@ -29,7 +29,7 @@
 
   <title>Rename a file or folder</title>
 
-  <p>As with other file managers, you can use the GNOME file manager to change
+  <p>As with other file managers, you can use the Endless file manager to change
   the name of a file or folder.</p>
   <steps>
     <title>To rename a file or folder:</title>

@@ -29,12 +29,12 @@
     <p>This assumes the reader knows how to use <em>Google Docs</em>. By the end
     of this page, the reader will be able to organize all your documents in one
     application. This document is about:
-       - Overview of GNOME Documents, and what it does
+       - Overview of Endless Documents, and what it does
        - Explain that it's not really the same as a file browser
        - Explain that it can connect to remote documents</p>
   </comment>
 
-  <p><app>Documents</app> is a GNOME application that lets you display,
+  <p><app>Documents</app> is an Endless application that lets you display,
    organize, and print the documents on your computer or those created remotely
    using <em>Google Docs</em> or <em>SkyDrive</em>.</p>
 
