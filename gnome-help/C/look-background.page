@@ -55,11 +55,11 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-terminology">Activities</gui> overview and
-      start typing <gui>Background</gui>.</p>
+      <p>Click on the System Menu at the very bottom left-hand corner of your
+      screen and select the <gui>Settings</gui> button.</p>
     </item>
     <item>
-      <p>Click on <gui>Background</gui> to open the panel.</p>
+      <p>Click on the <gui>Background</gui>button to open the panel.</p>
     </item>
     <item>
       <p>Select the <gui>Background</gui> or <gui>Lock Screen</gui>.</p>

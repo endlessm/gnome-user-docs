@@ -27,7 +27,8 @@
 
   <steps>
     <item>
-      <p>Open <app>Settings</app> from the <gui>Activities</gui> overview.</p>
+      <p>Click on the System Menu at the very bottom left-hand corner of your
+      screen and select the <gui>Settings</gui> button.</p>
     </item>
     <item>
       <p>Open the <gui>Users</gui> panel from <app>Settings</app>.</p>

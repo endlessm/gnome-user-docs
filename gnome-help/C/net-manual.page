@@ -34,11 +34,8 @@
 <steps>
   <title>To manually set your network settings:</title>
  <item>
-      <p>Open the <gui xref="shell-terminology">Activities</gui> overview and
-      start typing <gui>Settings</gui>.</p>
- </item>
- <item>
-      <p>Click on <gui>Settings</gui> to open the control center.</p>
+      <p>Click on the System Menu on the very bottom left-hand corner of your
+      screen and then click on <gui>Settings</gui>.</p>
  </item>
  <item>
       <p>Click on <gui>Network</gui> to open the panel.</p>

@@ -38,14 +38,14 @@
 file manager.</p>
 
   <note style="important">
-    <p>Before you begin, make sure <app>Evolution</app> is installed on your
-    computer, and your email account is configured.</p>
+    <p>Before you begin, make sure the <app>Email</app> application is installed
+    on your desktop, and that your email account is configured. Look for it on
+    the <gui>Social</gui> folder on the desktop.</p>
   </note>
 
 <steps>
   <title>To share a file by email:</title>
-  <item><p>Open the <app>Files</app> application from the <gui>Activities</gui>
-  overview.</p></item>
+  <item><p>Click on the <app>Documents</app> icon from the <gui>Desktop</gui>.</p></item>
   <item><p>Locate the file you want to transfer.</p></item>
   <item><p>Right-click the file and select <gui>Send To</gui>. The
   <gui>Compose Message</gui> window will appear with the file attached.</p></item>

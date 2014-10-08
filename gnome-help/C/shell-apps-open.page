@@ -23,10 +23,11 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>Launch apps from the <gui>Activities</gui> overview.</desc>
+    <desc>Install free apps onto your desktop from the <gui>App
+    Store</gui>.</desc>
   </info>
 
-  <title>Start applications</title>
+  <title>Installing Applications</title>
 
 <comment>
 <cite>shaunm</cite>
@@ -36,51 +37,103 @@ to overview in list item below, not just workspace thumbnail.) Right-click
 icon to choose a window to focus or get new window. Mention middle-click?</p>
 </comment>
 
-  <p if:test="!platform:gnome-classic">Move your mouse pointer to the
-  <gui>Activities</gui> corner at the top left of the screen to show the
-  <gui>Activities</gui> overview. This is where you can find all of your
-  applications. You can also open the overview by pressing the
-  <key xref="keyboard-key-super">Super</key> key.</p>
-  
-  <p if:test="platform:gnome-classic">You can start applications from the
-  <link xref="shell-terminology"><gui>Applications</gui> menu</link> at the top
-  left of the screen, or you can use the <gui>Activities</gui> overview by
-  pressing the <key xref="keyboard-key-super">Super</key> key.</p>
+  <p>Endless comes packed with great applications and resources for you to
+  discover and explore. The pre-installed applications on your desktop are just
+  a few of the many applications available to you, and the <gui>App Store</gui>
+  is your portal to everything from games, to educational applications, to
+  valuable health resources, and much more. The App Store also allows you to add
+  links to your favorite websites directly to your desktop for quicker access,
+  and it allows you to create folders to keep yourself organized in a way that
+  makes sense to you.</p>
+  <p> To access the App Store at any time, go to your desktop and click on the
+  <gui>More Apps</gui> button. You'll instantly launch the App Store.</p>
 
-  <p>There are several ways of opening an application once you're in the
-  <gui>Activities</gui> overview:</p>
+  <section>
+  <title>Installing Applications</title>
+  <steps>
+    <item>
+      <p>Open the <gui>App Store</gui> by clicking once on the <gui>More
+      Apps</gui> button on the desktop.</p>
+    </item>
+    <item>
+      <p>All of the applications you see are free. You can browse by category
+      and read each application's short description until you find one that you
+      want to install onto your desktop. When you find one you like, click on
+      its name to read more about it, see screenshots and install.</p>
+    </item>
+    <item>
+      <p>To install an application simply click <gui>Install app</gui>. You will
+      need an internet connection to download these applications.</p>
+    </item>
+    <item>
+      <p>Some applications are already downloaded to your computer and you can
+      add them to your desktop by clicking <gui>Add to desktop</gui>. </p>
+    </item>
+    <item>
+      <p>When the application's installation is complete, the green button will
+      change to <gui>Open app</gui> and you can start using the application
+      immediately! </p>
+      <p>The application's icon will also be installed on your desktop, to the
+      left of the <gui>More Apps</gui> button. You can then move it wherever
+      makes sense to you so you can find it easily.</p>
+    </item>
+  </steps>
+  </section>
 
-  <list>
+ <section>
+  <title>Installing Websites</title>
+  <steps>
     <item>
-      <p>Start typing the name of an application - searching begins instantly.
-      (If this doesn't happen, click the search bar at the top of the screen
-      and start typing.) Click the application's icon to start it.</p>
+      <p>Open the <gui>App Store</gui> by clicking once on the <gui>More
+      Apps</gui> button on the desktop. Click on the <gui>Websites</gui>
+      button.</p>
     </item>
     <item>
-      <p>Some applications have icons in the <em>dash</em>, the vertical strip
-      of icons on the left-hand side of the <gui>Activities</gui> overview.
-      Click one of these to start the corresponding application.</p>
-      <p>If you have applications that you use very frequently, you can
-      <link xref="shell-apps-favorites">add them to the dash</link>
-      yourself.</p>
+      <p>Browse the website links that we have as suggestions by category. If
+      you see one that you like, just scroll over it and click on the green
+      <gui>+</gui> button that will appear. This will add it directly to your
+      desktop, to the left of the More Apps button.</p>
     </item>
     <item>
-      <p>Click the grid button at the bottom of the dash. You will see the
-      frequently used applications if the <gui style="button">Frequent</gui>
-      view is enabled. If you want to run a new application, press the
-      <gui style="button">All</gui> button at the bottom to view all the
-      applications. Press on the application to start it.</p>
+      <p>Add your own website links to pages that we don't already have by
+      typing the website link's address into the bar at the top and hitting the
+      <gui>Enter</gui> key to search.</p>
     </item>
     <item>
-      <p>You can launch an application in a separate
-      <link xref="shell-workspaces">workspace</link> by dragging its icon from
-      the dash (or from the list of applications), and dropping it onto one of
-      the workspaces on the right-hand side of the screen. The application will
-      open in the chosen workspace.</p>
-      <p>You can launch an application in a <em>new</em> workspace by
-      middle-clicking its icon in the dash or in the application list.</p>
+      <p>Click on the green <gui>+</gui> button, and your link will be installed
+      to the desktop. Add another website, application or folder, or else close
+      the App Store to find your new folder. It will be directly to the left of
+      the More Apps button.</p>
     </item>
-  </list>
+  </steps>
+  </section>
+
+ <section>
+  <title>Installing Folders</title>
+  <steps>
+    <item>
+      <p>Open the <gui>App Store</gui> by clicking once on the <gui>More
+      Apps</gui> button on the desktop.Click on the <gui>Folders</gui>
+      button.</p>
+    </item>
+    <item>
+      <p>Choose an icon for your folder that you like, or that you think
+      represents the types of files or folders that you would like to store in
+      it.</p>
+    </item>
+    <item>
+      <p>Click in the bar that appears under the icon and type the name of the
+      folder as you would like it to appear on the desktop. Remember to keep it
+      pretty short so that the name does not get cut off.</p>
+    </item>
+    <item>
+      <p>Click on the green <gui>+</gui> button, and your folder will be
+      installed to the desktop. Add another folder, application or website, or
+      else close the App Store to find your new folder. It will be directly to
+      the left of the More Apps button.</p>
+    </item>
+  </steps>
+  </section>
 
 <note style="tip">
  <title>Quickly running a command</title>

@@ -35,7 +35,7 @@
 
   <steps>
     <title>To eject a removable device:</title>
-    <item><p>From the <gui>Activities</gui> overview, open <app>Files</app>.</p>
+    <item><p>Click on the <app>Documents</app> icon from the <gui>Desktop</gui>.</p>
     </item>
     <item><p>Locate the device in the sidebar. It should have a small
     eject icon next to the name. Click the eject icon to safely

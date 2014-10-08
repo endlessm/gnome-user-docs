@@ -45,9 +45,9 @@ link below where it says the name of the network is your device name.</p>
 </comment>
 
 <steps>
-  <item><p>Click the system status area on the top bar and select
-  <gui>Wi-Fi</gui>.</p></item>
-  <item><p>Select <gui>Wi-Fi Settings</gui>.</p></item>
+  <item><p>Click on the network status icon on the task bar at the very bottom
+  right-hand corner of your screen.</p></item>
+  <item><p>Click <gui>Network Settings</gui>.</p></item>
   <item><p>Click the <gui>Use as Hotspot...</gui> button.</p></item>
   <item><p>If you are already connected to a wireless network, you will be asked
   if you want to disconnect from that network. A single wireless adapter can

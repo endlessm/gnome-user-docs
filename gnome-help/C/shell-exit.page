@@ -44,8 +44,8 @@
   as-is. Incomplete for now</p>
 </comment>
 
-  <p>When you have finished using your computer, you can turn it off, suspend
-  it (to save power), or leave it powered on and log out.</p>
+  <p>When you have finished using your computer, you can turn it off or leave it
+  powered on and log out.</p>
 
 <section id="logout">
   <title>Log out or switch users</title>
@@ -54,19 +54,9 @@
   yourself logged in and just switch users. If you switch users, all of
   your applications will continue running, and everything will be where you
   left it when you log back in.</p>
-  <p>To <gui>Log Out</gui> or <gui>Switch User</gui>, click the system menu on
-  the right side of the top bar, click your name and then choose the right
-  option.</p>
-
-  <note if:test="!platform:gnome-classic">
-    <p>The <gui>Log Out</gui> and <gui>Switch User</gui> entries only appear in
-    the menu if you have more than one user account on your system.</p>
-  </note>
-
-  <note if:test="platform:gnome-classic">
-    <p>The <gui>Switch User</gui> entry only appears in the menu if you have
-    more than one user account on your system.</p>
-  </note>
+  <p>To log out (i.e. in order to switch to a different user), click
+  the System Menu on the bottom left corner of your screen, click
+  <gui>Exit</gui> and then choose <gui>Log Out</gui>.</p>
 
 </section>
 
@@ -79,38 +69,19 @@
 
   <p>If you're leaving your computer for a short time, you should lock your
   screen to prevent other people from accessing your files or running
-  applications. When you return, raise the
-  <link xref="shell-lockscreen">lock screen</link> curtain and enter your
-  password to log back in. If you don't lock your screen, it will lock
-  automatically after a certain amount of time.</p>
+  applications. When you return, you'll need to enter your password to log back
+  in and you will find your computer running all the same things it was when you
+  left.</p>
+  <p>To lock your screen, click click on the System Menu at the very bottom
+  left-hand side of your screen and press the <gui>Lock</gui> button at the
+  bottom right of the menu.</p>
 
-  <p>To lock your screen, click the system menu on the right side of the top
-  bar and press the lock screen button at the bottom of the menu.</p>
-
-  <p>When your screen is locked, other users can log in to their own accounts
-  by clicking <gui>Log in as another user</gui> on the password screen. You
-  can switch back to your desktop when they are finished.</p>
-
-</section>
-
-<section id="suspend">
-  <info>
-    <link type="seealso" xref="power-suspend"/>
-  </info>
-
-  <title>Suspend</title>
-
-  <p>To save power, suspend your computer when you are not using it. If you use
-  a laptop, Endless suspends your computer automatically when you close the lid.
-  This saves your state to your computer's memory and powers off most of the
-  computer's functions. A very small amount of power is still used during
-  suspend.</p>
-
-  <p>To suspend your computer manually, click the system menu on the right side
-  of the top bar and hold down the <key>Alt</key> key. The power off button
-  will change to suspend. Press the button.</p>
+<note><p>If you don't lock your screen, it will lock automatically after a
+certain amount of time, unless you disable that feature from the
+<gui>Privacy</gui> section in <gui>Settings</gui>.</p></note>
 
 </section>
+
 
 <section id="shutdown">
 <!--<info>
@@ -120,9 +91,10 @@
   <title>Power off or restart</title>
 
   <p>If you want to power off your computer entirely, or do a full restart,
-  click the system menu on the right side of the top bar and press the power
-  off button at the bottom of the menu. A dialog will open offering you the
-  options to either <gui>Restart</gui> or <gui>Power Off</gui>.</p>
+  click the System Menu at the very bottom left-hand side of your screen and
+  press the <gui>Exit</gui> button at the bottom left of the menu. A dialog will
+  open offering you the options to, among other options, <gui>Restart</gui> or
+  <gui>Power Off</gui>.</p>
 
   <p>If there are other users logged in, you may not be allowed to power off or
   restart the computer because this will end their sessions.  If you are an

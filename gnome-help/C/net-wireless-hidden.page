@@ -35,9 +35,9 @@
  <gui>Network</gui> settings. To connect to a hidden wireless network:</p>
 
 <steps>
-  <item><p>Click the system status area on the top bar and select
-  <gui>Wi-Fi</gui>.</p></item>
-  <item><p>Select <gui>Wi-Fi Settings</gui>.</p></item>
+  <item><p>Click the network icon on your taskbar, on the bottom right of your
+  screen.</p></item>
+  <item><p>Select <gui>Network Settings</gui>.</p></item>
   <item><p>Click the <gui>Connect to Hidden Network…</gui> button.</p></item>
  <item>
   <p>In the window that appears, select a previously-connected hidden network
