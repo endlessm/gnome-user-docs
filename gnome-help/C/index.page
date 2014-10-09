@@ -23,9 +23,8 @@
        prefs hardware
        a11y tips more-help"/>
 
-<note style="tip">
-  <p><link href = "endlessm-app://com.endlessm.Tutorial">
-      <span its:translate="yes">Tutorial</span>
-  </link></p>
-</note>
+<section id="endless-tutorial">
+  <title><link href = "endlessm-app://com.endlessm.Tutorial">Tutorial</link></title>
+</section>
+
 </page>
