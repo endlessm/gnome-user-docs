@@ -9,7 +9,9 @@
     <title role="trail" type="link">Desktop</title>
 
     <desc>
-      <link xref="shell-introduction">Introduction</link>…
+      <link xref="shell-exit">Logging in</link>,
+      <link xref="shell-lockscreen">the lock screen</link>,
+      <link xref="shell-windows-switching">switching windows</link>…
     </desc>
 
     <revision pkgversion="3.4.0" date="2012-02-19" status="review"/>

@@ -14,7 +14,9 @@
 
 
     <desc>
-      <link xref="net-wireless">Wireless</link>…
+      <link xref="net-wireless">Wireless</link>,
+      <link xref="net-wireless-hidden">hidden networks</link>,
+      <link xref="net-antivirus">antivirus</link>…
     </desc>
 <!--
     chat…

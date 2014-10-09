@@ -9,7 +9,8 @@
     <revision pkgversion="3.8.0" date="2013-03-10" status="candidate"/>
 
     <desc>
-      <link xref="keyboard-layouts">Keyboard layouts</link>…
+      <link xref="keyboard-layouts">Keyboard layouts</link>,
+      <link xref="keyboard-layouts">super key</link>…
     </desc>
 
     <credit type="author">

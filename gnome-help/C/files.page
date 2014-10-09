@@ -40,13 +40,6 @@
   <title>More topics</title>
 </links>
 
-  <!-- Documents is a different app, might make more sense towards the bottom
-       or as a seealso -->
-<section id="documents">
-  <title>Documents</title>
-  <links type="topic"/>
-</section>
-
 <section id="removable">
   <title>Removable drives and external disks</title>
   <links type="topic" style="2column"/>

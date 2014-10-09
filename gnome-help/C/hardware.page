@@ -13,7 +13,7 @@
     <title type="link" role="trail">Hardware</title>
 
     <desc>
-      <link xref="hardware#problems">Hardware problems</link>,
+      <link xref="mouse-sensitivity">Mouse sensitivity</link>,
       <link xref="printing">printers</link>…
     </desc>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -26,14 +26,5 @@
 <links type="topic" style="linklist" groups="more">
   <title>More topics</title>
 </links>
-
-<section id="problems" style="2column">
-  <info>
-    <title type="link" role="trail">Problems</title>
-    <title type="link">Hardware problems</title>
-  </info>
- <title>Common problems</title>
- <links type="topic" style="linklist"/>
-</section>
 
 </page>
