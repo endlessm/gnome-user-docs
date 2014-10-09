@@ -38,7 +38,8 @@
 <section id="screenshot">
  <title>Take a screenshot</title>
 <steps>
-<item><p>Open <app>Screenshot</app> from the <gui>Activities</gui> overview.</p></item>
+<item><p>Install the <gui>Screenshot</gui> application from the <gui>App
+Store</gui>, under the <gui>Utilities</gui> category, and open it.</p></item>
 
 <item>
  <p>In the <app>Take Screenshot</app> window, select whether to grab the

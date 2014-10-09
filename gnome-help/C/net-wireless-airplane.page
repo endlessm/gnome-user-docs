@@ -26,14 +26,16 @@
  for example). To do this:</p>
 
 <steps>
- <item><p>Click the system status area on the top bar and select
-  <gui>Wi-Fi</gui>.</p>
+ <item><p>Click on the network status icon on the task bar at the very bottom
+ right-hand corner of your screen.</p>
  </item>
- <item><p>Select <gui>Wi-Fi Settings</gui>.</p>
+ <item><p>Select <gui>Network Settings</gui>.</p>
  </item>
  <item>
-  <p>Switch <gui>Airplane Mode</gui> to <gui>ON</gui>. This will turn off your
- wireless connection until you switch airplane mode off again.</p>
+  <p>Switch <gui>Airplane Mode</gui> to <gui>ON</gui>. You can find this button
+  on the very top right-hand corner of the network settings window. This will
+  turn off your wireless connection until you switch airplane mode off
+  again.</p>
  </item>
 </steps>
 

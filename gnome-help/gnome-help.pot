@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-09-30 14:42-0700\n"
+"POT-Creation-Date: 2014-10-08 18:45-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1674,36 +1674,26 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/backup-how.page:28
-msgid "The easiest way of backing up your files and settings is to let a backup application manage the backup process for you. A number of different backup applications are available, for example <app>Déjà Dup</app>."
+msgid "To <link xref=\"files-copy\">copy your files</link> to a safe location, such as an external hard drive, another computer on the network, or a USB drive. Your <link xref=\"backup-thinkabout\">personal files</link> and settings are usually in your <gui>Home</gui> folder, so you can copy them from there."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/backup-how.page:32
-msgid "The help for your chosen backup application will walk you through setting your preferences for the backup, as well as how to restore your data."
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/backup-how.page:35
-msgid "An alternative option is to <link xref=\"files-copy\">copy your files</link> to a safe location, such as an external hard drive, another computer on the network, or a USB drive. Your <link xref=\"backup-thinkabout\">personal files</link> and settings are usually in your Home folder, so you can copy them from there."
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/backup-how.page:40
-msgid "The amount of data you can back up is limited by the size of the storage device. If you have the room on your backup device, it is best to back up the entire Home folder with the following exceptions:"
+#: C/backup-how.page:33
+msgid "The amount of data you can back up is limited by the size of the storage device. If you have the room on your backup device, it is best to back up your entire <gui>Home</gui> folder with the following exceptions:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/backup-how.page:45
+#: C/backup-how.page:38
 msgid "Files that are already backed up somewhere else, such as to a CD, DVD, or other removable media."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/backup-how.page:47
+#: C/backup-how.page:40
 msgid "Files that you can recreate easily. For example, if you are a programmer, you don't have to back up the files that get produced when you compile your programs. Instead, just make sure that you back up the original source files."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/backup-how.page:51
+#: C/backup-how.page:44
 msgid "Any files in the Trash folder. Your Trash folder can be found in <file>~/.local/share/Trash</file>."
 msgstr ""
 
@@ -2425,7 +2415,6 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/clock-calendar.page:60
-#: C/shell-introduction.page:163
 msgctxt "_"
 msgid "external ref='figures/shell-appts.png' md5='3bd352466637914eaabacc29774c408d'"
 msgstr ""
@@ -2436,7 +2425,7 @@ msgstr ""
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/clock-calendar.page:65
-#: C/shell-introduction.page:168
+#: C/shell-introduction.page:81
 msgctxt "_"
 msgid "external ref='figures/shell-appts-classic.png' md5='e3ede8dd9aeb53b75596bec7b9f88b6e'"
 msgstr ""
@@ -2484,8 +2473,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/clock-calendar.page:61
 #: C/clock-calendar.page:66
-#: C/shell-introduction.page:164
-#: C/shell-introduction.page:169
+#: C/shell-introduction.page:82
 msgid "Clock, calendar, and appointments"
 msgstr ""
 
@@ -4080,9 +4068,21 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:82
-#: C/look-display-fuzzy.page:64
-#: C/look-resolution.page:54
-msgid "Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start typing <gui>Displays</gui>."
+#: C/keyboard-layouts.page:53
+#: C/look-background.page:58
+#: C/mouse-doubleclick.page:42
+#: C/mouse-sensitivity.page:42
+#: C/printing-cancel-job.page:43
+#: C/printing-setup-default-printer.page:42
+#: C/printing-setup.page:74
+#: C/session-language.page:46
+#: C/user-add.page:81
+#: C/user-admin-change.page:39
+#: C/user-autologin.page:30
+#: C/user-changepassword.page:66
+#: C/user-changepicture.page:42
+#: C/user-delete.page:49
+msgid "Click on the System Menu at the very bottom left-hand corner of your screen and select the <gui>Settings</gui> button."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -4176,7 +4176,7 @@ msgstr ""
 #. whatever you like once you have updated your copy of the file.
 #: C/documents-filter.page:20
 #: C/documents-search.page:49
-#: C/files-browse.page:79
+#: C/files-browse.page:78
 #: C/files-hidden.page:41
 #: C/files-hidden.page:47
 #: C/files-hidden.page:56
@@ -4737,41 +4737,41 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/files-browse.page:42
-msgid "Use the <app>Files</app> file manager to browse and organize the files on your computer. You can also use it to manage files on storage devices (like external hard disks), on <link xref=\"nautilus-connect\">file servers</link>, and on network shares."
+msgid "Use the <app>Documents</app> file manager to browse and organize the files on your computer. You can also use it to manage files on storage devices (like external hard disks), on <link xref=\"nautilus-connect\">file servers</link>, and on network shares."
 msgstr ""
 
 #. (itstool) path: page/p
 #: C/files-browse.page:47
-msgid "To start the file manager, open <app>Files</app> in the <gui>Activities</gui> overview. You can also search for files and folders through the overview in the same way you would <link xref=\"shell-apps-open\">search for applications</link>."
+msgid "To start the file manager, click on the <app>Documents</app> icon on the <gui>Desktop</gui>. You can also search for files and folders using the <gui>global search bar</gui> at the bottom of your desktop."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/files-browse.page:53
+#: C/files-browse.page:52
 msgid "Exploring the contents of folders"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/files-browse.page:55
+#: C/files-browse.page:54
 msgid "In the file manager, double-click any folder to view its contents, and double-click any file to open it with the default application for that file. You can also right-click a folder to open it in a new tab or new window."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/files-browse.page:60
+#: C/files-browse.page:59
 msgid "When looking through the files in a folder, you can quickly <link xref=\"files-preview\">preview each file</link> by pressing the space bar to be sure you have the right file before opening it, copying it, or deleting it."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/files-browse.page:65
+#: C/files-browse.page:64
 msgid "The <em>path bar</em> above the list of files and folders shows you which folder you're viewing, including the parent folders of the current folder. Click a parent folder in the path bar to go to that folder. Right-click any folder in the path bar to open it in a new tab or window, copy or move it, or access its properties."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/files-browse.page:71
+#: C/files-browse.page:70
 msgid "If you want to quickly skip to a file in the folder you're viewing, start typing its name. A search box will appear at the top of the window and the first file which matches your search will be highlighted. Press the down arrow key, or scroll with the mouse, to skip to the next file that matches your search."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/files-browse.page:77
+#: C/files-browse.page:76
 msgid "You can quickly access common places from the <em>sidebar</em>. If you do not see the sidebar, click the <media type=\"image\" src=\"figures/go-down.png\">down</media> button in the toolbar and pick <gui>Show Sidebar</gui>. You can add bookmarks to folders that you use often and they will appear in the sidebar. Use the <gui>Bookmarks</gui> menu to do this, or simply drag a folder into the sidebar."
 msgstr ""
 
@@ -5275,29 +5275,28 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/files-recover.page:29
-#: C/files-search.page:43
-#: C/files-share.page:47
-#: C/video-sending.page:29
-msgid "Open the <app>Files</app> application from the <gui>Activities</gui> overview."
+#: C/files-removedrive.page:38
+#: C/files-share.page:48
+msgid "Click on the <app>Documents</app> icon from the <gui>Desktop</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-recover.page:33
+#: C/files-recover.page:32
 msgid "Click <gui>Trash</gui> in the sidebar."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-recover.page:36
+#: C/files-recover.page:35
 msgid "If your deleted file is there, click on it and select <gui>Restore</gui>. It will be restored to the folder from where it was deleted."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/files-recover.page:42
+#: C/files-recover.page:41
 msgid "If you deleted the file by pressing <keyseq><key>Shift</key><key>Delete </key></keyseq>, or by using the command line, the file has been permanently deleted. Files that have been permanently deleted can't be recovered from the <gui>Trash</gui>."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/files-recover.page:47
+#: C/files-recover.page:46
 msgid "There are a number of recovery tools available that are sometimes able to recover files that were permanently deleted. These tools are generally not very easy to use, however. If you accidentally permanently deleted a file, it's probably best to ask for advice on a support forum to see if you can recover it."
 msgstr ""
 
@@ -5319,11 +5318,6 @@ msgstr ""
 #. (itstool) path: steps/title
 #: C/files-removedrive.page:37
 msgid "To eject a removable device:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/files-removedrive.page:38
-msgid "From the <gui>Activities</gui> overview, open <app>Files</app>."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -5476,7 +5470,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/files-search.page:30
-msgid "You can search for files based on their name or file type directly within the file manager. You can even save common searches, and they will appear as special folders in your home folder."
+msgid "You can search for files based on their name or file type directly within the file manager. You can even save common searches, and they will appear as special folders in your <gui>Home</gui> folder."
 msgstr ""
 
 #. (itstool) path: links/title
@@ -5493,72 +5487,77 @@ msgid "Search"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-search.page:47
+#: C/files-search.page:43
+msgid "Click on the <app>Documents</app> icon on your <gui>Desktop</gui>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/files-search.page:46
 msgid "If you know the files you want are under a particular folder, go to that folder."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-search.page:51
+#: C/files-search.page:50
 msgid "Click the magnifying glass in the toolbar, or press <keyseq><key>Ctrl</key><key>F</key></keyseq>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-search.page:55
+#: C/files-search.page:54
 msgid "Type a word or words that you know appear in the file name. For example, if you name all your invoices with the word \"Invoice\", type <input>invoice</input>. Press <key>Enter</key>. Words are matched regardless of case."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-search.page:61
+#: C/files-search.page:60
 msgid "You can narrow your results by location and file type."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-search.page:64
+#: C/files-search.page:63
 msgid "Click <gui>Home</gui> to restrict the search results to your <file>Home</file> folder, or <gui>All Files</gui> to search everywhere."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-search.page:69
+#: C/files-search.page:68
 msgid "Click <key>+</key> and pick a <gui>File Type</gui> from the drop-down list to narrow the search results based on file type. Click the <key>x</key> button to remove this option and widen the search results."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-search.page:77
+#: C/files-search.page:76
 msgid "You can open, copy, delete, or otherwise work with your files from the search results, just as you would from any folder in the file manager."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-search.page:82
+#: C/files-search.page:81
 msgid "Click the magnifying glass in the toolbar again to exit the search and return to the folder."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/files-search.page:87
+#: C/files-search.page:86
 msgid "If you perform certain searches often, you can save them to access them quickly."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/files-search.page:91
+#: C/files-search.page:90
 msgid "Save a search"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-search.page:92
+#: C/files-search.page:91
 msgid "Start a search as above."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-search.page:93
+#: C/files-search.page:92
 msgid "When you're happy with the search parameters, click the ⚙ gear button and select <gui>Save Search As</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-search.page:95
+#: C/files-search.page:94
 msgid "Give the search a name and click <gui>Save</gui>. If you like, select a different folder to save the search in. When you view that folder, you will see your saved search as an orange folder icon with a magnifying glass on it."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/files-search.page:101
+#: C/files-search.page:100
 msgid "To remove the search file when you are done with it, simply <link xref=\"files-delete\">delete</link> the search as you would any other file. When you delete a saved search, it does not delete the files that the search matched."
 msgstr ""
 
@@ -5639,11 +5638,11 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/files-share.page:41
-msgid "Before you begin, make sure <app>Evolution</app> is installed on your computer, and your email account is configured."
+msgid "Before you begin, make sure the <app>Email</app> application is installed on your desktop, and that your email account is configured. Look for it on the <gui>Social</gui> folder on the desktop."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/files-share.page:46
+#: C/files-share.page:47
 msgid "To share a file by email:"
 msgstr ""
 
@@ -6014,9 +6013,8 @@ msgid "Window list"
 msgstr ""
 
 #. (itstool) path: section/p
-#. (itstool) path: when/p
 #: C/gnome-classic.page:58
-#: C/shell-introduction.page:306
+#: C/shell-introduction.page:203
 msgid "The window list at the bottom of the screen provides access to all your open windows and applications and lets you quickly minimize and restore them."
 msgstr ""
 
@@ -6480,14 +6478,6 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/keyboard-layouts.page:44
 msgid "Keyboards come in hundreds of different layouts for different languages. Even for a single language, there are often multiple keyboard layouts, such as the Dvorak layout for English. You can make your keyboard behave like a keyboard with a different layout, regardless of the letters and symbols printed on the keys. This is useful if you often switch between multiple languages."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/keyboard-layouts.page:53
-#: C/session-formats.page:35
-#: C/session-language.page:46
-#: C/session-language.page:83
-msgid "Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start typing <gui>Region &amp; Language</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -7581,7 +7571,9 @@ msgid "High contrast on or off"
 msgstr ""
 
 #. (itstool) path: table/title
+#. (itstool) path: page/title
 #: C/keyboard-shortcuts-set.page:383
+#: C/shell-windows.page:21
 msgid "Windows"
 msgstr ""
 
@@ -7803,13 +7795,8 @@ msgid "You can change the image used for your backgrounds or set it to a be a so
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/look-background.page:58
-msgid "Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start typing <gui>Background</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
 #: C/look-background.page:62
-msgid "Click on <gui>Background</gui> to open the panel."
+msgid "Click on the <gui>Background</gui>button to open the panel."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -7885,6 +7872,12 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/look-display-fuzzy.page:60
 msgid "To set up the displays so that they each have their own resolution:"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/look-display-fuzzy.page:64
+#: C/look-resolution.page:54
+msgid "Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start typing <gui>Displays</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -8055,9 +8048,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/mouse-disabletouchpad.page:37
-#: C/mouse-doubleclick.page:42
 #: C/mouse-lefthanded.page:42
-#: C/mouse-sensitivity.page:42
 #: C/mouse-touchpad-click.page:43
 #: C/mouse-touchpad-click.page:98
 #: C/mouse-touchpad-click.page:140
@@ -9865,7 +9856,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-findip.page:49
 #: C/net-macaddress.page:52
-#: C/net-manual.page:44
+#: C/net-manual.page:41
 #: C/net-othersconnect.page:49
 #: C/net-othersedit.page:69
 #: C/net-proxy.page:62
@@ -10310,57 +10301,52 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/net-manual.page:37
-msgid "Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start typing <gui>Settings</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-manual.page:41
-msgid "Click on <gui>Settings</gui> to open the control center."
+msgid "Click on the System Menu on the very bottom left-hand corner of your screen and then click on <gui>Settings</gui>."
 msgstr ""
 
 #. (itstool) path: media/span
+#: C/net-manual.page:46
 #: C/net-manual.page:49
-#: C/net-manual.page:52
 msgid "settings"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-manual.page:47
+#: C/net-manual.page:44
 msgid "In the left pane, select the network connection that you want to set up manually and click the <_:media-1/> button. For example, if you plug in to the network with a cable, click <gui>Wired</gui>. For a <gui>Wi-Fi</gui> connection, the <_:media-2/> button will be located next to the active network."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-manual.page:54
+#: C/net-manual.page:51
 msgid "Make sure that your wireless card is turned on or a network cable is plugged in."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-manual.page:58
+#: C/net-manual.page:55
 msgid "Click <gui>IPv4</gui> and change <gui>Addresses</gui> to <gui>Manual</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-manual.page:62
+#: C/net-manual.page:59
 msgid "Type in the <gui>Address</gui> and <gui>Gateway</gui>, as well as the appropriate <gui>Netmask</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-manual.page:64
+#: C/net-manual.page:61
 msgid "These must be <em>IP addresses</em>; that is, they must be four numbers separated by periods (e.g. 123.45.6.78)."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-manual.page:68
+#: C/net-manual.page:65
 msgid "In the <gui>DNS</gui> section, switch <gui>Automatic</gui> to <gui>OFF</gui>. Enter the IP address of a DNS server you want to use. Enter additional DNS server addresses using the <key>+</key> button."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-manual.page:73
+#: C/net-manual.page:70
 msgid "In the <gui>Routes</gui> section, switch <gui>Automatic</gui> to <gui>OFF</gui>. Enter the <gui>Address</gui>, <gui>Netmask</gui>, <gui>Gateway</gui> and <gui>Metric</gui> for a route you want to use. Enter additional routes using the <key>+</key> button."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-manual.page:79
+#: C/net-manual.page:76
 msgid "Click <gui>Apply</gui>. If you are not connected to the network, click the system status area on the top bar and connect. Test the network settings by trying to visit a website or look at shared files on the network, for example."
 msgstr ""
 
@@ -10827,15 +10813,12 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:48
 #: C/net-wireless-airplane.page:29
-#: C/net-wireless-hidden.page:38
-msgid "Click the system status area on the top bar and select <gui>Wi-Fi</gui>."
+msgid "Click on the network status icon on the task bar at the very bottom right-hand corner of your screen."
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:50
-#: C/net-wireless-airplane.page:32
-#: C/net-wireless-hidden.page:40
-msgid "Select <gui>Wi-Fi Settings</gui>."
+msgid "Click <gui>Network Settings</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -10869,12 +10852,18 @@ msgid "If you have your computer on an airplane (or some other area where wirele
 msgstr ""
 
 #. (itstool) path: item/p
+#: C/net-wireless-airplane.page:32
+#: C/net-wireless-hidden.page:40
+msgid "Select <gui>Network Settings</gui>."
+msgstr ""
+
+#. (itstool) path: item/p
 #: C/net-wireless-airplane.page:35
-msgid "Switch <gui>Airplane Mode</gui> to <gui>ON</gui>. This will turn off your wireless connection until you switch airplane mode off again."
+msgid "Switch <gui>Airplane Mode</gui> to <gui>ON</gui>. You can find this button on the very top right-hand corner of the network settings window. This will turn off your wireless connection until you switch airplane mode off again."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/net-wireless-airplane.page:40
+#: C/net-wireless-airplane.page:42
 msgid "Using <em>Airplane Mode</em> will completely turn off both wireless and Bluetooth connections."
 msgstr ""
 
@@ -11056,6 +11045,11 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/net-wireless-hidden.page:33
 msgid "It is possible to set up a wireless network so that it is \"hidden.\" Hidden networks won't show up in the list of wireless networks displayed in the <gui>Network</gui> settings. To connect to a hidden wireless network:"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/net-wireless-hidden.page:38
+msgid "Click the network icon on your taskbar, on the bottom right of your screen."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -12697,14 +12691,6 @@ msgid "How to cancel a print job:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:43
-#: C/printing-name-location.page:43
-#: C/printing-setup-default-printer.page:42
-#: C/printing-setup.page:74
-msgid "Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start typing <gui>Printers</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
 #: C/printing-cancel-job.page:47
 #: C/printing-cancel-job.page:87
 #: C/printing-name-location.page:47
@@ -12919,6 +12905,11 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/printing-name-location.page:39
 msgid "If you want to change the name of a printer, take the following steps:"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/printing-name-location.page:43
+msgid "Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start typing <gui>Printers</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -13518,96 +13509,96 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:41
-msgid "Open <app>Screenshot</app> from the <gui>Activities</gui> overview."
+msgid "Install the <gui>Screenshot</gui> application from the <gui>App Store</gui>, under the <gui>Utilities</gui> category, and open it."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:44
+#: C/screen-shot-record.page:45
 msgid "In the <app>Take Screenshot</app> window, select whether to grab the whole screen, the current window, or an area of the screen. Set a delay if you need to select a window or otherwise set up your desktop for the screenshot. Then choose any effects you want."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:51
+#: C/screen-shot-record.page:52
 msgid "Click <gui>Take Screenshot</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:52
+#: C/screen-shot-record.page:53
 msgid "If you selected <gui>Select area to grab</gui>, the pointer changes into a crosshair. Click and drag the area you want for the screenshot."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:57
+#: C/screen-shot-record.page:58
 msgid "In the <gui>Save Screenshot</gui> window, enter a file name and choose a folder, then click <gui>Save</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:59
+#: C/screen-shot-record.page:60
 msgid "Alternatively, import the screenshot directly into an image-editing application without saving it first. Click <gui>Copy to Clipboard</gui> then paste the image in the other application, or drag the screenshot thumbnail to the application."
 msgstr ""
 
 #. (itstool) path: note/title
-#: C/screen-shot-record.page:66
+#: C/screen-shot-record.page:67
 msgid "Keyboard shortcuts"
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/screen-shot-record.page:67
+#: C/screen-shot-record.page:68
 msgid "Quickly take a screenshot of the desktop, a window, or an area at any time using these global keyboard shortcuts:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:70
+#: C/screen-shot-record.page:71
 msgid "<key>Prt Scrn</key> to take a screenshot of the desktop."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:71
+#: C/screen-shot-record.page:72
 msgid "<keyseq><key>Alt</key><key>Prt Scrn</key></keyseq> to take a screenshot of a window."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:73
+#: C/screen-shot-record.page:74
 msgid "<keyseq><key>Shift</key><key>Prt Scrn</key></keyseq> to take a screenshot of an area you select."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/screen-shot-record.page:76
+#: C/screen-shot-record.page:77
 msgid "When you use a keyboard shortcut, the image is automatically saved in your Pictures folder with a file name that begins with \"Screenshot\" and includes the date and time it was taken."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/screen-shot-record.page:79
+#: C/screen-shot-record.page:80
 msgid "You can also hold down <key>Ctrl</key> with any of the above shortcuts to copy the screenshot image to the clipboard instead of saving it."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/screen-shot-record.page:86
+#: C/screen-shot-record.page:87
 msgid "Make a screencast"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/screen-shot-record.page:87
+#: C/screen-shot-record.page:88
 msgid "You can make a video recording of what is happening on your screen:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:91
+#: C/screen-shot-record.page:92
 msgid "Press <keyseq><key>Ctrl</key><key>Alt</key><key>Shift</key><key>R</key></keyseq> to start recording what's on your screen."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:93
+#: C/screen-shot-record.page:94
 msgid "A red circle is displayed in the bottom right corner of the screen when the recording is in progress. This indicator does not show up in the video."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:98
+#: C/screen-shot-record.page:99
 msgid "Once you've finished, press <keyseq><key>Ctrl</key><key>Alt</key><key>Shift</key><key>R</key></keyseq> again to stop the recording."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:104
+#: C/screen-shot-record.page:105
 msgid "The video is automatically saved in your Videos folder with a file name that starts with \"Screencast\" and includes the date and time it was taken."
 msgstr ""
 
@@ -13652,11 +13643,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/session-fingerprint.page:55
-#: C/user-add.page:81
-#: C/user-admin-change.page:39
-#: C/user-changepassword.page:66
-#: C/user-changepicture.page:42
-#: C/user-delete.page:49
 msgid "Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start typing <gui>Users</gui>."
 msgstr ""
 
@@ -13728,6 +13714,12 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/session-formats.page:30
 msgid "You can control the formats that are used for dates, times, numbers, currency, and measurement to match the local customs of your region."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/session-formats.page:35
+#: C/session-language.page:83
+msgid "Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start typing <gui>Region &amp; Language</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -14205,71 +14197,118 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/shell-apps-open.page:26
-msgid "Launch apps from the <gui>Activities</gui> overview."
+msgid "Install free apps onto your desktop from the <gui>App Store</gui>."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/shell-apps-open.page:29
-msgid "Start applications"
+#. (itstool) path: section/title
+#: C/shell-apps-open.page:30
+#: C/shell-apps-open.page:52
+msgid "Installing Applications"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-apps-open.page:39
-msgid "Move your mouse pointer to the <gui>Activities</gui> corner at the top left of the screen to show the <gui>Activities</gui> overview. This is where you can find all of your applications. You can also open the overview by pressing the <key xref=\"keyboard-key-super\">Super</key> key."
+#: C/shell-apps-open.page:40
+msgid "Endless comes packed with great applications and resources for you to discover and explore. The pre-installed applications on your desktop are just a few of the many applications available to you, and the <gui>App Store</gui> is your portal to everything from games, to educational applications, to valuable health resources, and much more. The App Store also allows you to add links to your favorite websites directly to your desktop for quicker access, and it allows you to create folders to keep yourself organized in a way that makes sense to you."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-apps-open.page:45
-msgid "You can start applications from the <link xref=\"shell-terminology\"><gui>Applications</gui> menu</link> at the top left of the screen, or you can use the <gui>Activities</gui> overview by pressing the <key xref=\"keyboard-key-super\">Super</key> key."
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/shell-apps-open.page:50
-msgid "There are several ways of opening an application once you're in the <gui>Activities</gui> overview:"
+#: C/shell-apps-open.page:48
+msgid "To access the App Store at any time, go to your desktop and click on the <gui>More Apps</gui> button. You'll instantly launch the App Store."
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:55
-msgid "Start typing the name of an application - searching begins instantly. (If this doesn't happen, click the search bar at the top of the screen and start typing.) Click the application's icon to start it."
+msgid "Open the <gui>App Store</gui> by clicking once on the <gui>More Apps</gui> button on the desktop."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:60
-msgid "Some applications have icons in the <em>dash</em>, the vertical strip of icons on the left-hand side of the <gui>Activities</gui> overview. Click one of these to start the corresponding application."
+#: C/shell-apps-open.page:59
+msgid "All of the applications you see are free. You can browse by category and read each application's short description until you find one that you want to install onto your desktop. When you find one you like, click on its name to read more about it, see screenshots and install."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:63
-msgid "If you have applications that you use very frequently, you can <link xref=\"shell-apps-favorites\">add them to the dash</link> yourself."
+#: C/shell-apps-open.page:65
+msgid "To install an application simply click <gui>Install app</gui>. You will need an internet connection to download these applications."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:68
-msgid "Click the grid button at the bottom of the dash. You will see the frequently used applications if the <gui style=\"button\">Frequent</gui> view is enabled. If you want to run a new application, press the <gui style=\"button\">All</gui> button at the bottom to view all the applications. Press on the application to start it."
+#: C/shell-apps-open.page:69
+msgid "Some applications are already downloaded to your computer and you can add them to your desktop by clicking <gui>Add to desktop</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:75
-msgid "You can launch an application in a separate <link xref=\"shell-workspaces\">workspace</link> by dragging its icon from the dash (or from the list of applications), and dropping it onto one of the workspaces on the right-hand side of the screen. The application will open in the chosen workspace."
+#: C/shell-apps-open.page:73
+msgid "When the application's installation is complete, the green button will change to <gui>Open app</gui> and you can start using the application immediately!"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:80
-msgid "You can launch an application in a <em>new</em> workspace by middle-clicking its icon in the dash or in the application list."
+#: C/shell-apps-open.page:76
+msgid "The application's icon will also be installed on your desktop, to the left of the <gui>More Apps</gui> button. You can then move it wherever makes sense to you so you can find it easily."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/shell-apps-open.page:84
+msgid "Installing Websites"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/shell-apps-open.page:87
+msgid "Open the <gui>App Store</gui> by clicking once on the <gui>More Apps</gui> button on the desktop. Click on the <gui>Websites</gui> button."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/shell-apps-open.page:92
+msgid "Browse the website links that we have as suggestions by category. If you see one that you like, just scroll over it and click on the green <gui>+</gui> button that will appear. This will add it directly to your desktop, to the left of the More Apps button."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/shell-apps-open.page:98
+msgid "Add your own website links to pages that we don't already have by typing the website link's address into the bar at the top and hitting the <gui>Enter</gui> key to search."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/shell-apps-open.page:103
+msgid "Click on the green <gui>+</gui> button, and your link will be installed to the desktop. Add another website, application or folder, or else close the App Store to find your new folder. It will be directly to the left of the More Apps button."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/shell-apps-open.page:112
+msgid "Installing Folders"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/shell-apps-open.page:115
+msgid "Open the <gui>App Store</gui> by clicking once on the <gui>More Apps</gui> button on the desktop.Click on the <gui>Folders</gui> button."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/shell-apps-open.page:120
+msgid "Choose an icon for your folder that you like, or that you think represents the types of files or folders that you would like to store in it."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/shell-apps-open.page:125
+msgid "Click in the bar that appears under the icon and type the name of the folder as you would like it to appear on the desktop. Remember to keep it pretty short so that the name does not get cut off."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/shell-apps-open.page:130
+msgid "Click on the green <gui>+</gui> button, and your folder will be installed to the desktop. Add another folder, application or website, or else close the App Store to find your new folder. It will be directly to the left of the More Apps button."
 msgstr ""
 
 #. (itstool) path: note/title
-#: C/shell-apps-open.page:86
+#: C/shell-apps-open.page:139
 msgid "Quickly running a command"
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-apps-open.page:87
+#: C/shell-apps-open.page:140
 msgid "Another way of launching an application is to press <keyseq><key>Alt</key><key>F2</key></keyseq>, enter its <em>command name</em>, and then press the <key>Enter</key> key."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-apps-open.page:90
+#: C/shell-apps-open.page:143
 msgid "For example, to launch <app>Rhythmbox</app>, press <keyseq><key>Alt</key><key>F2</key></keyseq> and type 'rhythmbox' (without the single-quotes). The name of the app is the command to launch the program."
 msgstr ""
 
@@ -14290,7 +14329,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/shell-exit.page:47
-msgid "When you have finished using your computer, you can turn it off, suspend it (to save power), or leave it powered on and log out."
+msgid "When you have finished using your computer, you can turn it off or leave it powered on and log out."
 msgstr ""
 
 #. (itstool) path: section/title
@@ -14305,71 +14344,46 @@ msgstr ""
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:57
-msgid "To <gui>Log Out</gui> or <gui>Switch User</gui>, click the system menu on the right side of the top bar, click your name and then choose the right option."
-msgstr ""
-
-#. (itstool) path: note/p
-#: C/shell-exit.page:62
-msgid "The <gui>Log Out</gui> and <gui>Switch User</gui> entries only appear in the menu if you have more than one user account on your system."
-msgstr ""
-
-#. (itstool) path: note/p
-#: C/shell-exit.page:67
-msgid "The <gui>Switch User</gui> entry only appears in the menu if you have more than one user account on your system."
+msgid "To log out (i.e. in order to switch to a different user), click the System Menu on the bottom left corner of your screen, click <gui>Exit</gui> and then choose <gui>Log Out</gui>."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:78
+#: C/shell-exit.page:68
 msgid "Lock the screen"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:80
-msgid "If you're leaving your computer for a short time, you should lock your screen to prevent other people from accessing your files or running applications. When you return, raise the <link xref=\"shell-lockscreen\">lock screen</link> curtain and enter your password to log back in. If you don't lock your screen, it will lock automatically after a certain amount of time."
+#: C/shell-exit.page:70
+msgid "If you're leaving your computer for a short time, you should lock your screen to prevent other people from accessing your files or running applications. When you return, you'll need to enter your password to log back in and you will find your computer running all the same things it was when you left."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:87
-msgid "To lock your screen, click the system menu on the right side of the top bar and press the lock screen button at the bottom of the menu."
+#: C/shell-exit.page:75
+msgid "To lock your screen, click click on the System Menu at the very bottom left-hand side of your screen and press the <gui>Lock</gui> button at the bottom right of the menu."
 msgstr ""
 
-#. (itstool) path: section/p
-#: C/shell-exit.page:90
-msgid "When your screen is locked, other users can log in to their own accounts by clicking <gui>Log in as another user</gui> on the password screen. You can switch back to your desktop when they are finished."
+#. (itstool) path: note/p
+#: C/shell-exit.page:79
+msgid "If you don't lock your screen, it will lock automatically after a certain amount of time, unless you disable that feature from the <gui>Privacy</gui> section in <gui>Settings</gui>."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:101
-msgid "Suspend"
-msgstr ""
-
-#. (itstool) path: section/p
-#: C/shell-exit.page:103
-msgid "To save power, suspend your computer when you are not using it. If you use a laptop, Endless suspends your computer automatically when you close the lid. This saves your state to your computer's memory and powers off most of the computer's functions. A very small amount of power is still used during suspend."
-msgstr ""
-
-#. (itstool) path: section/p
-#: C/shell-exit.page:109
-msgid "To suspend your computer manually, click the system menu on the right side of the top bar and hold down the <key>Alt</key> key. The power off button will change to suspend. Press the button."
-msgstr ""
-
-#. (itstool) path: section/title
-#: C/shell-exit.page:120
+#: C/shell-exit.page:91
 msgid "Power off or restart"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:122
-msgid "If you want to power off your computer entirely, or do a full restart, click the system menu on the right side of the top bar and press the power off button at the bottom of the menu. A dialog will open offering you the options to either <gui>Restart</gui> or <gui>Power Off</gui>."
+#: C/shell-exit.page:93
+msgid "If you want to power off your computer entirely, or do a full restart, click the System Menu at the very bottom left-hand side of your screen and press the <gui>Exit</gui> button at the bottom left of the menu. A dialog will open offering you the options to, among other options, <gui>Restart</gui> or <gui>Power Off</gui>."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:127
+#: C/shell-exit.page:99
 msgid "If there are other users logged in, you may not be allowed to power off or restart the computer because this will end their sessions. If you are an administrative user, you may be asked for your password to power off."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-exit.page:132
+#: C/shell-exit.page:104
 msgid "You may want to power off your computer if you wish to move it and do not have a battery, if your battery is low or does not hold charge well. A powered off computer also uses <link xref=\"power-batterylife\">less energy</link> than one which is suspended."
 msgstr ""
 
@@ -14378,114 +14392,14 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:40
-msgctxt "_"
-msgid "external ref='figures/shell-top-bar.png' md5='47dcaf839a377218b5a593c834a8aed9'"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:45
-msgctxt "_"
-msgid "external ref='figures/shell-top-bar-classic.png' md5='b102db16e8fb7c87cb4e718422359ba4'"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:65
-msgctxt "_"
-msgid "external ref='figures/shell-activities.png' md5='e9fd4a053aade039919675b0c6b9b3e2'"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:70
-msgctxt "_"
-msgid "external ref='figures/shell-activities-classic.png' md5='3e44ebb1a8da23348a1727c60d65d013'"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:90
-msgctxt "_"
-msgid "external ref='figures/shell-dash.png' md5='829fcd84aaa0651ab3a0136157661800'"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:134
-msgctxt "_"
-msgid "external ref='figures/shell-appmenu-shell.png' md5='af4db3d3d3ed4572fb2c4d3847ca0836'"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:145
-msgctxt "_"
-msgid "external ref='figures/shell-appmenu-classic.png' md5='6e28997f340de69969bbd0ea6d4ec822'"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:193
-msgctxt "_"
-msgid "external ref='figures/shell-exit.png' md5='bfe2580e70c3220b06582417451cda96'"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:198
+#: C/shell-introduction.page:106
 msgctxt "_"
 msgid "external ref='figures/shell-exit-classic.png' md5='f36e3a0a115ff2181a6fc787e6a83283'"
 msgstr ""
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:247
-msgctxt "_"
-msgid "external ref='figures/shell-lock.png' md5='b8894ae82f64e964bc802982aa3b988a'"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:303
-msgctxt "_"
-msgid "external ref='figures/shell-window-list-classic.png' md5='83226d03f64e23f5c87794c897c81bcf'"
-msgstr ""
-
 #. (itstool) path: info/desc
 #: C/shell-introduction.page:29
-msgid "A visual introduction to your desktop, the top bar, and the <gui>Activities</gui> overview."
+msgid "A quick introduction to your desktop and some of its cool features."
 msgstr ""
 
 #. (itstool) path: page/title
@@ -14495,201 +14409,126 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:34
-msgid "Endless features a completely reimagined user interface designed to stay out of your way, minimize distractions, and help you get things done. When you first log in, you will see an empty desktop and the top bar."
-msgstr ""
-
-#. (itstool) path: media/p
-#: C/shell-introduction.page:41
-#: C/shell-introduction.page:46
-msgid "Endless shell top bar"
+msgid "Endless has been created just for you. We have re-imagined the user interface and designed Endless to be simple, beautiful and powerful. When you first turn your computer on, you'll find some important applications already installed on your desktop. You'll also notice the task bar at the very bottom of your screen."
 msgstr ""
 
 #. (itstool) path: page/p
+#: C/shell-introduction.page:40
+msgid "The task bar provides access to important things like your windows and applications, your calendar and clock, and <link xref=\"status-icons\">system properties</link> like sound and networking. There, you can change the volume, edit your <gui>Wi-Fi</gui> connection details, check your battery status, log out or switch users, and turn off your computer. We have also included the possibility to connect to Facebook on this task bar, so that you can keep in touch with your friends more easily than ever!"
+msgstr ""
+
+#. (itstool) path: section/title
 #: C/shell-introduction.page:51
-msgid "The top bar provides access to your windows and applications, your calendar and appointments, and <link xref=\"status-icons\">system properties</link> like sound, networking, and power. In the status menu in the top bar, you can change the volume or screen brightness, edit your <gui>Wi-Fi</gui> connection details, check your battery status, log out or switch users, and turn off your computer."
+msgid "<gui>App Store</gui> overview"
 msgstr ""
 
-#. (itstool) path: section/title
-#. (itstool) path: item/title
+#. (itstool) path: section/p
+#: C/shell-introduction.page:53
+msgid "Your computer should be incredibly useful to you both online and offline. For that reason, we have packed Endless with all sorts of applications and content for you to explore and discover. While you will find pre-installed applications on your desktop, you can always add more applications by clicking on the <gui>More Apps</gui> button on the desktop. This will launch our App Store, which is full of free applications for you to install on your desktop."
+msgstr ""
+
+#. (itstool) path: section/p
 #: C/shell-introduction.page:61
-#: C/shell-terminology.page:37
-msgid "<gui>Activities</gui> overview"
-msgstr ""
-
-#. (itstool) path: media/p
-#: C/shell-introduction.page:66
-#: C/shell-introduction.page:71
-msgid "Activities button"
-msgstr ""
-
-#. (itstool) path: section/p
-#: C/shell-introduction.page:76
-msgid "To access your windows and applications, click the <gui>Activities</gui> button, or just move your mouse pointer to the top-left hot corner. You can also press the <key xref=\"keyboard-key-super\">Super</key> key on your keyboard. You can see your windows and applications in the overview. You can also just start typing to search your applications, files, folders and the web."
-msgstr ""
-
-#. (itstool) path: section/p
-#: C/shell-introduction.page:83
-msgid "To access your windows and applications, click the <link xref=\"shell-terminology\"><gui>Applications</gui> menu</link> at the top left of the screen and select the <gui>Activities Overview</gui> item. You can also press the <key xref=\"keyboard-key-super\">Super</key> key to see your windows and applications in the <gui>Activities</gui> overview. Just start typing to search your applications, files, and folders."
-msgstr ""
-
-#. (itstool) path: media/p
-#: C/shell-introduction.page:91
-msgid "The dash"
-msgstr ""
-
-#. (itstool) path: section/p
-#: C/shell-introduction.page:94
-msgid "On the left of the overview, you will find the <em>dash</em>. The dash shows you your favorite and running applications. Click any icon in the dash to open that application; if the application is already running, it will be highlighted. Clicking its icon will bring up the most recently used window. You can also drag the icon to the overview, or onto any workspace on the right."
-msgstr ""
-
-#. (itstool) path: section/p
-#: C/shell-introduction.page:101
-msgid "Right-clicking the icon displays a menu that allows you to pick any window in a running application, or to open a new window. You can also click the icon while holding down <key>Ctrl</key> to open a new window."
-msgstr ""
-
-#. (itstool) path: section/p
-#: C/shell-introduction.page:105
-msgid "When you enter the overview, you will initially be in the windows overview. This shows you live thumbnails of all the windows on the current workspace."
-msgstr ""
-
-#. (itstool) path: section/p
-#: C/shell-introduction.page:109
-msgid "Click the grid button at the bottom of the dash to display the applications overview. This shows you all the applications installed on your computer. Click any application to run it, or drag an application to the overview or onto a workspace thumbnail. You can also drag an application onto the dash to make it a favorite. Your favorite applications stay in the dash even when they're not running, so you can access them quickly."
+msgid "The App Store is divided into three sections: Apps, Websites, and Folders. You can browse applications you may want to install by category, add shortcuts to your favorite websites onto your desktop, or simply create new folders to organize all of your things in a way that makes sense to you."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:118
-msgid "<link xref=\"shell-apps-open\">Learn more about starting applications.</link>"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-introduction.page:122
-msgid "<link xref=\"shell-windows\">Learn more about windows and workspaces.</link>"
+#: C/shell-introduction.page:69
+msgid "<link xref=\"shell-apps-open\">Learn more about installing applications.</link>"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:130
-msgid "Application menu"
-msgstr ""
-
-#. (itstool) path: media/p
-#: C/shell-introduction.page:135
-#: C/shell-introduction.page:146
-msgid "App Menu of <app>Terminal</app>"
-msgstr ""
-
-#. (itstool) path: when/p
-#: C/shell-introduction.page:137
-msgid "Application menu, located beside the <gui>Activities</gui> button, shows the name of the active application alongside with its icon and provides quick access to application preferences or help. The items that are available in the application menu vary depending on the application."
-msgstr ""
-
-#. (itstool) path: when/p
-#: C/shell-introduction.page:148
-msgid "Application menu, located next to the <gui>Applications</gui> and <gui>Places</gui> menus, shows the name of the active application alongside with its icon and provides quick access to application preferences or help. The items that are available in the application menu vary depending on the application."
-msgstr ""
-
-#. (itstool) path: section/title
-#: C/shell-introduction.page:159
+#: C/shell-introduction.page:77
 msgid "Clock, calendar &amp; appointments"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:174
-msgid "Click the clock on the top bar to see the current date, a month-by-month calendar, and a list of your upcoming appointments. You can also access the date and time settings and open your full <app>Evolution</app> calendar directly from the menu."
+#: C/shell-introduction.page:87
+msgid "Click the clock on the bottom task bar to see the current date, a month-by- month calendar, and a list of your upcoming appointments. You can also access the date and time settings and open your full <app>Email</app> directly from the menu."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:181
+#: C/shell-introduction.page:94
 msgid "<link xref=\"clock-calendar\">Learn more about the calendar and appointments.</link>"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:189
+#: C/shell-introduction.page:102
 msgid "You and your computer"
 msgstr ""
 
 #. (itstool) path: media/p
-#: C/shell-introduction.page:194
-#: C/shell-introduction.page:199
+#: C/shell-introduction.page:107
 msgid "User menu"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:204
-msgid "Click the system menu in the top-right corner to manage your system settings and your computer."
+#: C/shell-introduction.page:112
+msgid "Click the System Menu on the bottom left corner to manage your system settings and your computer."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:231
-msgid "When you leave your computer, you can lock your screen to prevent other people from using it. You can also quickly switch users without logging out completely to give somebody else access to the computer, or you can suspend or power off the computer from the menu."
+#: C/shell-introduction.page:139
+msgid "When you leave your computer, you can lock your screen to prevent other people from using it. You can also choose to turn off or restart your computer."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:238
+#: C/shell-introduction.page:145
 msgid "<link xref=\"shell-exit\">Learn more about switching users, logging out, and turning off your computer.</link>"
 msgstr ""
 
 #. (itstool) path: section/title
-#. (itstool) path: media/p
-#: C/shell-introduction.page:245
-#: C/shell-introduction.page:248
+#: C/shell-introduction.page:152
 msgid "Lock Screen"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:251
+#: C/shell-introduction.page:154
 msgid "When you lock your screen, or it locks automatically, the lock screen is displayed. In addition to protecting your desktop while you're away from your computer, the lock screen displays the date and time. It also shows information about your battery and network status, and allows you to control media playback."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:259
+#: C/shell-introduction.page:162
 msgid "<link xref=\"shell-lockscreen\">Learn more about the lock screen.</link>"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:267
+#: C/shell-introduction.page:170
 msgid "Message Tray"
 msgstr ""
 
-#. (itstool) path: media/p
-#: C/shell-introduction.page:270
-msgid "Message tray"
-msgstr ""
-
 #. (itstool) path: section/p
-#: C/shell-introduction.page:273
-msgid "The message tray can be brought into view by pushing your mouse pointer against the bottom of the screen or by pressing <keyseq><key>Super</key><key>M</key></keyseq>. This is where your notifications are stored until you are ready to view them."
+#: C/shell-introduction.page:172
+msgid "The message tray can be brought into view by pressing <keyseq><key>Super</key><key>M</key></keyseq>. This is where your notifications from chats and emails are stored until you are ready to view them, if you enable the applications to display messages for you."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:280
+#: C/shell-introduction.page:179
 msgid "<link xref=\"shell-notifications\">Learn more about notifications and the message tray.</link>"
 msgstr ""
 
 #. (itstool) path: section/title
-#. (itstool) path: media/p
-#: C/shell-introduction.page:288
-#: C/shell-introduction.page:304
-msgid "Window List"
+#: C/shell-introduction.page:187
+msgid "Hot Corner"
 msgstr ""
 
-#. (itstool) path: when/p
-#: C/shell-introduction.page:292
-msgid "Endless features a different approach to switching windows than a permanently visible window list found in other desktop environments. This lets you focus on the task at hand without distractions."
+#. (itstool) path: section/p
+#: C/shell-introduction.page:189
+msgid "Endless allows you to see all of your open windows and tasks so that you can multitask like a pro. To access this cool feature, move your mouse pointer to the very bottom right-hand corner of your screen. You can then click on the window or task that you'd like to open, so that you can get around much, much faster. For example, if you want to return to the desktop from layers of open applications and media, just click on an open space behind your open windows!"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:297
+#: C/shell-introduction.page:198
 msgid "<link xref=\"shell-windows-switching\">Learn more about switching windows.</link>"
 msgstr ""
 
-#. (itstool) path: when/p
-#: C/shell-introduction.page:309
+#. (itstool) path: section/p
+#: C/shell-introduction.page:206
 msgid "At the right-hand side of the window list, Endless displays a short identifier for the current worskpace, such as <gui>1</gui> for the first (top) workspace. In addition, the identifier also displays the total number of available workspaces. To switch to a different workspace, you can click the identifier and select the workspace you want to use from the menu."
 msgstr ""
 
-#. (itstool) path: when/p
-#: C/shell-introduction.page:314
+#. (itstool) path: section/p
+#: C/shell-introduction.page:211
 msgid "If an application or a system component wants to get your attention, it will display a blue icon at the right-hand side of the window list. Clicking the blue icon shows the message tray."
 msgstr ""
 
@@ -14910,32 +14749,37 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/shell-lockscreen.page:20
-msgid "The lock screen means that you can see what is happening while your computer is locked, and it allows you to get a summary of what has been happening while you have been away. The lock screen curtain shows an attractive image on the screen while your computer is locked, and provides useful information:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-lockscreen.page:25
-msgid "the name of the logged-in user"
+msgid "Activating the lock screen when you step away from your computer allows you to keep all of your open programs running so you can resume your work more quickly when you return, without worrying that others will be able to access your workspace while you're gone. The lock screen also provides the following useful information:"
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-lockscreen.page:26
-msgid "date and time, and certain notifications"
+msgid "the name of the logged-in user"
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-lockscreen.page:27
-msgid "battery and network status"
+msgid "date and time, and certain notifications"
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-lockscreen.page:28
+msgid "battery and network status"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/shell-lockscreen.page:29
 msgid "the ability to control media playback - change the volume, skip a track or pause your music without having to enter a password"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-lockscreen.page:31
-msgid "To unlock your computer, raise the lock screen curtain by dragging it upward with the cursor, or by pressing <key>Esc</key> or <key>Enter</key>. This will reveal the login screen, where you can enter your password to unlock. You can also switch users if your computer is configured for more than one."
+#: C/shell-lockscreen.page:32
+msgid "To unlock your computer, just enter your password."
+msgstr ""
+
+#. (itstool) path: note/p
+#: C/shell-lockscreen.page:34
+msgid "You can change the lock screen settings under the <gui>Privacy</gui> section in the <gui>Settings</gui> folder that you can access from the System Menu on the very bottom left-hand side of your screen."
 msgstr ""
 
 #. (itstool) path: media
@@ -15097,6 +14941,11 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/shell-terminology.page:31
 msgid "Activities, dash, top bar… What are they?"
+msgstr ""
+
+#. (itstool) path: item/title
+#: C/shell-terminology.page:37
+msgid "<gui>Activities</gui> overview"
 msgstr ""
 
 #. (itstool) path: item/p
@@ -15457,40 +15306,30 @@ msgstr ""
 msgid "Move and organize your windows."
 msgstr ""
 
-#. (itstool) path: page/title
-#: C/shell-windows.page:21
-msgid "Windows and workspaces"
-msgstr ""
-
 #. (itstool) path: page/p
 #: C/shell-windows.page:23
-msgid "Like other desktops, Endless uses windows to display your running applications. Using both the <gui>Activities</gui> overview and the <gui>dash</gui>, you can launch new applications and control active windows."
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/shell-windows.page:27
-msgid "You can also group your applications together within workspaces. Visit the window and workspace help topics below to better learn how to use these features."
+msgid "Like other desktops, Endless uses windows to display your running applications. You can launch new applications and control active windows."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/shell-windows.page:57
+#: C/shell-windows.page:52
 msgctxt "link:trail"
 msgid "Windows"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-windows.page:59
+#: C/shell-windows.page:54
 msgid "Working with windows"
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/shell-windows.page:64
+#: C/shell-windows.page:59
 msgctxt "link:trail"
 msgid "Workspaces"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-windows.page:66
+#: C/shell-windows.page:61
 msgid "Working with workspaces"
 msgstr ""
 
@@ -16845,37 +16684,32 @@ msgid "You can change your settings so that you are automatically logged in to y
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:30
-msgid "Open <app>Settings</app> from the <gui>Activities</gui> overview."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/user-autologin.page:33
+#: C/user-autologin.page:34
 msgid "Open the <gui>Users</gui> panel from <app>Settings</app>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:36
+#: C/user-autologin.page:37
 msgid "Select the user account that you want to log in to automatically at startup."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:40
+#: C/user-autologin.page:41
 msgid "Press <gui style=\"button\">Unlock</gui> and enter your password."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:43
+#: C/user-autologin.page:44
 msgid "Toggle the <gui>Automatic Login</gui> switch to <gui>On</gui>."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/user-autologin.page:47
+#: C/user-autologin.page:48
 msgid "When you next start up your computer, you will be logged in automatically. If you have this option enabled, you will not need to type in your password to log in to your account which means that if someone else starts up your computer, they will be able to access your account and your personal data including your files and browser history."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/user-autologin.page:54
+#: C/user-autologin.page:55
 msgid "If your account type is <em>Standard</em>, you cannot change this setting. Contact your system administrator who can change this setting for you."
 msgstr ""
 
@@ -17147,6 +16981,11 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/video-sending.page:23
 msgid "To be able to play your video, the person you sent it to must have the right <em>codecs</em> installed. A codec is a little piece of software that knows how to take the video and display it on the screen. There are lots of different video formats and each requires a different codec to play it back. You can check which format your video is by doing:"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/video-sending.page:29
+msgid "Open the <app>Files</app> application from the <gui>Activities</gui> overview."
 msgstr ""
 
 #. (itstool) path: item/p

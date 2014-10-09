@@ -26,8 +26,7 @@
   <steps>
     <title>To restore a file from the Trash:</title>
     <item>
-      <p>Open the <app>Files</app> application from the <gui>Activities</gui>
-      overview.</p>
+      <p>Click on the <app>Documents</app> icon from the <gui>Desktop</gui>.</p>
     </item>
     <item>
       <p>Click <gui>Trash</gui> in the sidebar.</p>

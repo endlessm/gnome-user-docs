@@ -29,7 +29,7 @@
 
   <p>You can search for files based on their name or file type directly
   within the file manager. You can even save common searches, and they
-  will appear as special folders in your home folder.</p>
+  will appear as special folders in your <gui>Home</gui> folder.</p>
 
   <links type="topic" style="linklist">
     <title>Other search applications</title>
@@ -40,8 +40,7 @@
   <steps>
     <title>Search</title>
     <item>
-      <p>Open the <app>Files</app> application from the <gui>Activities</gui>
-      overview.</p>
+      <p>Click on the <app>Documents</app> icon on your <gui>Desktop</gui>.</p>
     </item>
     <item>
       <p>If you know the files you want are under a particular folder, go to

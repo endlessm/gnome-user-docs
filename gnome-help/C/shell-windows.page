@@ -18,15 +18,10 @@
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
   </info>
 
-<title>Windows and workspaces</title>
+<title>Windows</title>
 
   <p>Like other desktops, Endless uses windows to display your running
-  applications. Using both the <gui>Activities</gui> overview and the
-  <gui>dash</gui>, you can launch new applications and control active windows.</p>
-
-  <p>You can also group your applications together within workspaces.
-  Visit the window and workspace help topics below to better
-  learn how to use these features.</p>
+  applications. You can launch new applications and control active windows.</p>
 <!-- 
   <p>In the <gui>Activities</gui> overview, the <gui>dash</gui> displays your 
   favorite applications as well as your running applications. 

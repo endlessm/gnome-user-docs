@@ -39,15 +39,14 @@
 	the sidebar (link to a topic or explain it here).</p>
 </comment>
 
-<p>Use the <app>Files</app> file manager to browse and organize the files on
-your computer. You can also use it to manage files on storage devices (like
+<p>Use the <app>Documents</app> file manager to browse and organize the files
+on your computer. You can also use it to manage files on storage devices (like
 external hard disks), on <link xref="nautilus-connect">file servers</link>, and
 on network shares.</p>
 
-<p>To start the file manager, open <app>Files</app> in the <gui>Activities</gui>
-overview. You can also search for files and folders through the overview in the
-same way you would <link xref="shell-apps-open">search for applications</link>.
-</p>
+<p>To start the file manager, click on the <app>Documents</app> icon on the
+<gui>Desktop</gui>. You can also search for files and folders using the
+<gui>global search bar</gui> at the bottom of your desktop.</p>
 
 <section id="files-view-folder-contents">
   <title>Exploring the contents of folders</title>
