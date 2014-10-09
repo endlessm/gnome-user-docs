@@ -120,7 +120,6 @@ HELP_FILES = \
 	files-removedrive.page \
 	files-rename.page \
 	files-share.page \
-	files-sort.page \
 	files.page \
 	hardware.page \
 	index.page \
@@ -166,7 +165,6 @@ HELP_FILES = \
 	shell-exit.page \
 	shell-introduction.page \
 	shell-lockscreen.page \
-	shell-notifications.page \
 	shell-overview.page \
 	shell-windows-maximize.page \
 	shell-windows-switching.page \
