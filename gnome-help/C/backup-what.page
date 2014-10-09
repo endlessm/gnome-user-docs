@@ -25,10 +25,9 @@
 
   <title>What to back up</title>
 
-  <p>Your priority should be to back up your
- <link xref="backup-thinkabout">most important files</link> as well as those
- that are difficult to recreate.  For example, ranked from most important to
- least important:</p>
+  <p>Your priority should be to back up your most important files as well as
+   those that are difficult to recreate.  For example, ranked from most important
+   to least important:</p>
 
 <terms>
  <item>

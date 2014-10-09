@@ -5,7 +5,6 @@
 
   <info>
     <link type="guide" xref="net-wireless"/>
-    <link type="guide" xref="net-wired"/>
 
     <revision pkgversion="3.4.0" date="2012-02-19" status="review"/>
     <revision pkgversion="3.10" date="2013-12-05" status="review"/>
@@ -57,11 +56,11 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-terminology">Activities</gui> overview and
-      start typing <gui>Network</gui>.</p>
+      <p>Click on the System Menu at the very bottom left-hand corner of your
+      screen and select the <gui>Settings</gui> button.</p>
     </item>
     <item>
-      <p>Click on <gui>Network</gui> to open the control center.</p>
+      <p>Click on <gui>Network</gui>.</p>
     </item>
     <item>
       <p>At the bottom of the list on the left, click the <key>+</key> button

@@ -6,8 +6,6 @@
 
   <info>
     <link type="guide" xref="shell-overview#desktop" />
-    <link type="guide" xref="power" />
-    <link type="seealso" xref="power-hibernate"/>
     <link type="guide" xref="index" group="#first"/>
 
     <revision pkgversion="3.6.0" date="2012-09-15" status="review"/>
@@ -61,10 +59,6 @@
 </section>
 
 <section id="lock-screen">
-  <info>
-    <link type="seealso" xref="session-screenlocks"/>
-  </info>
-
   <title>Lock the screen</title>
 
   <p>If you're leaving your computer for a short time, you should lock your
@@ -99,13 +93,6 @@ certain amount of time, unless you disable that feature from the
   <p>If there are other users logged in, you may not be allowed to power off or
   restart the computer because this will end their sessions.  If you are an
   administrative user, you may be asked for your password to power off.</p>
-
-  <note style="tip">
-    <p>You may want to power off your computer if you wish to move it and do
-    not have a battery, if your battery is low or does not hold charge well. A
-    powered off computer also uses <link xref="power-batterylife">less
-    energy</link> than one which is suspended.</p>
-  </note>
 
 </section>
 

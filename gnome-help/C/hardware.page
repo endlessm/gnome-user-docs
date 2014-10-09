@@ -14,11 +14,7 @@
 
     <desc>
       <link xref="hardware#problems">Hardware problems</link>,
-      <link xref="printing">printers</link>,
-      <link xref="power">power settings</link>,
-      <link xref="color">color management</link>,
-      <link xref="bluetooth">Bluetooth</link>,
-      <link xref="disk">disks</link>…
+      <link xref="printing">printers</link>…
     </desc>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
   </info>

@@ -3,7 +3,6 @@
       id="power-othercountry">
 
   <info>
-    <link type="guide" xref="power#problems"/>
     <desc>Your computer will work, but you might need a different power cable or a travel adapter.</desc>
 
     <revision pkgversion="3.4.0" date="2012-02-20" status="review"/>

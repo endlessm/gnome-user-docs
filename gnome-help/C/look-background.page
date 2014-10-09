@@ -90,10 +90,6 @@
     <item>
       <p>The settings are applied immediately.</p>
     </item>
-    <item>
-      <p><link xref="shell-workspaces-switch">Switch to an empty workspace</link>
-      to view your entire desktop.</p>
-    </item>
   </steps>
 
 </page>

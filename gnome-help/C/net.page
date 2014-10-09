@@ -14,11 +14,7 @@
 
 
     <desc>
-      <link xref="net-wireless">Wireless</link>,
-      <link xref="net-wired">wired</link>,
-      <link xref="net-problem">connection problems</link>,
-      <link xref="net-browser">web browsing</link>,
-      <link xref="net-email">email accounts</link>…
+      <link xref="net-wireless">Wireless</link>…
     </desc>
 <!--
     chat…

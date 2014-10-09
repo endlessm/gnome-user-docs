@@ -41,8 +41,7 @@
 
 <p>Use the <app>Documents</app> file manager to browse and organize the files
 on your computer. You can also use it to manage files on storage devices (like
-external hard disks), on <link xref="nautilus-connect">file servers</link>, and
-on network shares.</p>
+external hard disks), on file servers, and on network shares.</p>
 
 <p>To start the file manager, click on the <app>Documents</app> icon on the
 <gui>Desktop</gui>. You can also search for files and folders using the

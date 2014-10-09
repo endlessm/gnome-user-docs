@@ -9,10 +9,7 @@
     <title role="trail" type="link">Desktop</title>
 
     <desc>
-      <link xref="shell-introduction">Introduction</link>,
-      <link xref="shell-keyboard-shortcuts">keyboard shortcuts</link>,
-      <link xref="clock-calendar">calendar</link>,
-      <link xref="shell-notifications">notifications</link>…
+      <link xref="shell-introduction">Introduction</link>…
     </desc>
 
     <revision pkgversion="3.4.0" date="2012-02-19" status="review"/>

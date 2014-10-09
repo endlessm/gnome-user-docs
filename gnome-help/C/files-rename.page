@@ -38,9 +38,6 @@
     <item><p>Type the new name and press <key>Enter</key>.</p></item>
   </steps>
 
-  <p>You can also rename a file from the
-  <link xref="nautilus-file-properties-basic">properties</link> window.</p>
-
   <p>When you rename a file, only the first part of the name of the file is
   selected, not the file extension (the part after the "."). The extension
   normally denotes what type of file it is (e.g. <file>file.pdf</file> is a PDF
@@ -64,8 +61,7 @@
 
     <note style="warning">
     <p> If you name a file with a <key>.</key> as the first character, the file
-    will be <link xref="files-hidden">hidden</link> when you attempt to view
-    it in the file manager.</p>
+    will be hidden when you attempt to view it in the file manager.</p>
     </note>
   </section>
 
@@ -94,9 +90,7 @@
         <title>The option to rename is grayed out</title>
         <p>If <gui>Rename</gui> is grayed out, you do not have permission to
         rename the file. You should use caution with renaming such files, as
-        renaming some protected files may cause your system to become unstable.
-        See <link xref="nautilus-file-properties-permissions"/> for more
-        information.</p>
+        renaming some protected files may cause your system to become unstable.</p>
       </item>
     </terms>
   </section>

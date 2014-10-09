@@ -5,7 +5,6 @@
       id="session-language">
 
   <info>
-    <link type="guide" xref="prefs-language"/>
     <desc>Switch to a different language for user interface and help text.</desc>
 
     <revision pkgversion="3.8.0" version="0.3" date="2013-03-13" status="candidate"/>
@@ -80,11 +79,11 @@
 
     <steps>
     <item>
-      <p>Open the <gui xref="shell-terminology">Activities</gui> overview and
-      start typing <gui>Region &amp; Language</gui>.</p>
+      <p>Click on the System Menu at the very bottom left-hand corner of your
+      screen and select the <gui>Settings</gui> button.</p>
     </item>
     <item>
-      <p>Click on <gui>Region &amp; Language</gui> to open the panel.</p>
+      <p>Click on <gui>Region &amp; Language</gui>.</p>
     </item>
       <item><p>Click the <gui style="button">Login Screen</gui> button.</p></item>
       <item><p>Click <gui>Language</gui>.
