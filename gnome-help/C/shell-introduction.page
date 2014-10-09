@@ -26,7 +26,7 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>A quick introduction to your desktop and some its cool features.</desc>
+    <desc>A quick introduction to your desktop and some of its cool features.</desc>
   </info>
 
   <title>Introduction to Endless</title>
