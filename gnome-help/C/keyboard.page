@@ -10,8 +10,7 @@
 
     <desc>
       <link xref="keyboard-layouts">Keyboard layouts</link>,
-      <link xref="keyboard-cursor-blink">cursor blinking</link>,
-      <link xref="a11y#mobility">keyboard accessibility</link>…
+      <link xref="keyboard-layouts">super key</link>…
     </desc>
 
     <credit type="author">
@@ -31,16 +30,6 @@
 
 <title>Keyboard</title>
 
-<links type="topic" groups="i18n" style="linklist">
-  <title>Region &amp; Language</title>
-</links>
-
-<links type="topic" groups="a11y" style="linklist">
-  <title>Universal access</title>
-</links>
-
-<links type="topic" groups="#first #default #last" style="linklist">
-  <title>Other topics</title>
-</links>
+<links type="topic" style="2column"/>
 
 </page>

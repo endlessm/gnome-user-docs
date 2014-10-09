@@ -35,7 +35,7 @@
 
  <item>
   <p>Try turning your wireless card off and then on again</p>
-  <p>Sometimes wireless cards get stuck or experience a minor problem that means they won't connect. Try turning the card off and then on again to reset it - see <link xref="net-wireless-troubleshooting"/> for more information.</p>
+  <p>Sometimes wireless cards get stuck or experience a minor problem that means they won't connect. Try turning the card off and then on again to reset it.</p>
  </item>
 
  <item>
@@ -45,7 +45,7 @@
 
  <item>
   <p>Check that your wireless card is properly supported</p>
-  <p>Some wireless cards aren't supported very well. They show up as a wireless connection, but they can't connect to a network because their drivers lack the ability to do this. See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different <em>firmware</em>). See <link xref="net-wireless-troubleshooting"/> for more information.</p>
+  <p>Some wireless cards aren't supported very well. They show up as a wireless connection, but they can't connect to a network because their drivers lack the ability to do this. See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different <em>firmware</em>).</p>
  </item>
 
 </list>

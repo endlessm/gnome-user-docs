@@ -5,7 +5,6 @@
       id="shell-introduction">
 
   <info>
-    <link type="guide" xref="shell-overview" group="#first"/>
     <link type="guide" xref="index" group="#first"/>
 
     <revision pkgversion="3.6.0" version="0.2" date="2012-10-13" status="review"/>
@@ -38,12 +37,12 @@
   bottom of your screen.</p>
 
   <p>The task bar provides access to important things like your windows and
-  applications, your calendar and clock, and <link xref="status-icons">system
-  properties</link> like sound and networking. There, you can change the volume,
-  edit your <gui>Wi-Fi</gui> connection details, check your battery status, log
-  out or switch users, and turn off your computer. We have also included the
-  possibility to connect to Facebook on this task bar, so that you can keep in
-  touch with your friends more easily than ever!</p>
+  applications, your calendar and clock, and system properties like sound and
+  networking. There, you can change the volume, edit your <gui>Wi-Fi</gui>
+  connection details, check your battery status, log out or switch users, and
+  turn off your computer. We have also included the possibility to connect to
+  Facebook on this task bar, so that you can keep in touch with your friends
+  more easily than ever!</p>
 
 <links type="section"/>
 
@@ -68,31 +67,6 @@
     <item>
       <p><link xref="shell-apps-open">Learn more about installing
       applications.</link></p>
-    </item>
-  </list>
-
-</section>
-
-<section id="clock">
-  <title>Clock, calendar &amp; appointments</title>
-
-<if:choose>
-  <if:when test="platform:gnome-classic">
-    <media type="image" src="figures/shell-appts-classic.png" width="373" height="250" style="floatend floatright" if:test="!target:mobile">
-      <p>Clock, calendar, and appointments</p>
-    </media>
-  </if:when>
-</if:choose>
-
-  <p>Click the clock on the bottom task bar to see the current date, a month-by-
-  month calendar, and a list of your upcoming appointments. You can also access
-  the date and time settings and open your full <app>Email</app> directly
-  from the menu.</p>
-
-  <list style="compact">
-    <item>
-      <p><link xref="clock-calendar">Learn more about the calendar and
-      appointments.</link></p>
     </item>
   </list>
 
@@ -161,23 +135,6 @@ messages will be presented, such as when your battery is critically low.</p>
     <item>
       <p><link xref="shell-lockscreen">Learn more about the lock
       screen.</link></p>
-    </item>
-  </list>
-
-</section>
-
-<section id="message-tray">
-  <title>Message Tray</title>
-
-  <p>The message tray can be brought into view by pressing
-  <keyseq><key>Super</key><key>M</key></keyseq>. This is where your
-  notifications from chats and emails are stored until you are ready to view
-  them, if you enable the applications to display messages for you.</p>
-
-  <list style="compact">
-    <item>
-      <p><link xref="shell-notifications">Learn more about notifications and
-      the message tray.</link></p>
     </item>
   </list>
 

@@ -4,7 +4,6 @@
       id="shell-windows-switching">
 
   <info>
-    <link type="guide" xref="shell-windows#working-with-windows"/>
     <link type="guide" xref="shell-overview#apps"/>
 
     <revision pkgversion="3.4.0" date="2012-02-19" status="review"/>
@@ -63,15 +62,6 @@
  clicking it with the mouse.</p></item>
   <item><p>Previews of applications with a single window can be displayed with
   the <key>&#8595;</key> key.</p></item>
-</list>
-
-<p>From the <gui>Activities</gui> overview:</p>
-<list>
-  <item><p>Click on a <link xref="shell-windows">window</link> to switch to it
-  and leave the overview. If you have multiple
-  <link xref="shell-windows#working-with-workspaces">workspaces</link> open, you
-  can click on each workspace to view the open windows on each workspace.</p>
-  </item>
 </list>
 
 </page>

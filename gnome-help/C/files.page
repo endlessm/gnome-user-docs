@@ -18,8 +18,7 @@
     <title type="link" role="trail">Files</title>
 
     <desc>
-      <link xref="files-search">Searching</link>,
-      <link xref="files-delete">delete files</link>,
+      <link xref="files-delete">Delete files</link>,
       <link xref="files#backup">backups</link>,
       <link xref="files#removable">removable drives</link>…
     </desc>
@@ -41,13 +40,6 @@
   <title>More topics</title>
 </links>
 
-  <!-- Documents is a different app, might make more sense towards the bottom
-       or as a seealso -->
-<section id="documents">
-  <title>Documents</title>
-  <links type="topic"/>
-</section>
-
 <section id="removable">
   <title>Removable drives and external disks</title>
   <links type="topic" style="2column"/>
@@ -55,11 +47,6 @@
 
 <section id="backup">
   <title>Backing up</title>
-  <links type="topic" style="2column"/>
-</section>
-
-<section id="faq">
-  <title>Tips and questions</title>
   <links type="topic" style="2column"/>
 </section>
 

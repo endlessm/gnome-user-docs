@@ -4,7 +4,6 @@
 
   <info>
     <link type="guide" xref="files" group="more"/>
-    <link type="seealso" xref="files-lost" />
     <desc>Deleted files are normally sent to the Trash, but can be recovered.
     </desc>
 

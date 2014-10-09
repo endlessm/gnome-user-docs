@@ -2,7 +2,6 @@
       type="topic" style="question"
       id="net-email-virus">
   <info>
-    <link type="guide" xref="net-email"/>
     <link type="guide" xref="net-security"/>
     <link type="seealso" xref="net-antivirus"/>
 

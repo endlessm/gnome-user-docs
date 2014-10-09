@@ -7,13 +7,10 @@
     <revision pkgversion="3.10" version="0.2" date="2013-11-11" status="review"/>
 
     <link type="guide" xref="net" group="#first"/>
-    <link type="seealso" xref="net-general"/>
-    <link type="seealso" xref="net-problem"/>
 
     <desc>
       <link xref="net-wireless-connect">Connect to wifi</link>,
       <link xref="net-wireless-hidden">Hidden networks</link>,
-      <link xref="net-editcon">Edit connection settings</link>,
       <link xref="net-wireless-disconnecting">Disconnecting</link>…
     </desc>
 

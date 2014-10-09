@@ -5,9 +5,8 @@
     <link type="guide" xref="prefs"/>
     <link type="guide" xref="hardware"/>
     <desc>
-      <link xref="mouse-lefthanded">Left-handed</link>,
-      <link xref="mouse-sensitivity">speed and sensitivity</link>,
-      <link xref="mouse-touchpad-click">touchpad clicking and scrolling</link>…
+      <link xref="mouse-sensitivity">Speed and sensitivity</link>,
+      <link xref="mouse-doubleclick">double click speed</link>…
     </desc>
     <revision pkgversion="3.4.0" date="2012-02-19" status="review"/>
 
@@ -27,19 +26,4 @@
   </p>
 </comment>
 
-<section id="problems" style="2column">
-  <info>
-    <title type="link">Common mouse problems</title>
-    <title type="link" role="trail">Common problems</title>
-  </info>
-  <title>Common problems</title>
-</section>
-
-<section id="tips" style="2column">
- <info>
-   <title type="link">Mouse tips</title>
-   <title type="link" role="trail">Tips</title>
- </info>
- <title>Tips</title>
-</section>
 </page>
