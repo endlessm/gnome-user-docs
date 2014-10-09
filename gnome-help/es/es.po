@@ -1,6 +1,9 @@
 # 
 # Translators:
+# Alejandro Farfán <alejandro@endlessm.com>, 2014
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2011-2014
+# Eddy Alegria <eddy@endlessm.com>, 2014
+# Fernando Farfan <fernando@endlessm.com>, 2014
 # Francisco Molinero <paco@byasl.com>, 2011
 # Joaquín Ignacio Aramendía <samsagax@gmail.com>, 2011
 # Jorge González <jorgegonz@svn.gnome.org>, 2011
@@ -10,9 +13,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2014-09-30 14:42-0700\n"
-"PO-Revision-Date: 2014-10-07 06:17+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"POT-Creation-Date: 2014-10-08 18:45-0700\n"
+"PO-Revision-Date: 2014-10-09 03:56+0000\n"
+"Last-Translator: Alejandro Farfán <alejandro@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/gnome-user-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -268,7 +271,7 @@ msgid ""
 "icon\">accessibility icon</link> on the top bar and selecting <gui>Bounce "
 "Keys</gui>. The accessibility icon is visible when one or more settings have"
 " been enabled from the <gui>Universal Access</gui> panel."
-msgstr "Puede activar rápidamente el rechazo de teclas, pulsando en el <link xref=\"a11y-icon\">icono de accesibilidad</link> en la barra superior y seleccionando <gui>Rechazo de teclas</gui>. El icono de accesibilidad está visible cuando se han activado una o mas opciones en el panel de <gui>Acceso universal</gui>."
+msgstr "Puedes activar rápidamente el rechazo de teclas, pulsando en el <link xref=\"a11y-icon\">ícono de accesibilidad</link> en la barra superior y seleccionando <gui>Rechazo de teclas</gui>. El ícono de accesibilidad está visible cuando se han activado una o más opciones en el panel de <gui>Acceso universal</gui>."
 
 #. (itstool) path: page/p
 #: C/a11y-bouncekeys.page:68
@@ -278,13 +281,13 @@ msgid ""
 "the first time. Select <gui>Beep when a key is rejected</gui> if you want "
 "the computer to make a sound each time it ignores a key press because it "
 "happened too soon after the previous key press."
-msgstr "Use el deslizador <gui>Retardo de aceptación</gui> para cambiar el tiempo que debe esperar el rechazo de teclas antes de registrar otra tecla pulsada después de la pulsada en primer lugar. Seleccione <gui>Pitar al rechazar una tecla</gui> si quiere que el equipo emita un sonido cada vez que ignora una tecla porque la pulsación ha sucedido demasiado pronto después de la pulsación de la tecla anterior."
+msgstr "Usa el deslizador <gui>Retardo de aceptación</gui> para cambiar el tiempo que debe esperar el rechazo de teclas antes de registrar otra tecla pulsada después de la pulsada en primer lugar. Selecciona <gui>Pitar al rechazar una tecla</gui> si quieres que el equipo emita un sonido cada vez que ignora una tecla porque la pulsación ha sucedido demasiado pronto después de la pulsación de la tecla anterior."
 
 #. (itstool) path: info/desc
 #: C/a11y-braille.page:19
 msgid ""
 "Use the <app>Orca</app> screen reader with a refreshable Braille display."
-msgstr "Use el lector de pantalla <app>Orca</app> con un dispositivo Braille actualizable."
+msgstr "Usa el lector de pantalla <app>Orca</app> con un dispositivo Braille actualizable."
 
 #. (itstool) path: page/title
 #: C/a11y-braille.page:23
@@ -306,7 +309,7 @@ msgstr "Endless proporciona el lector de pantalla <app>Orca</app> para mostrar l
 msgid ""
 "Make windows and buttons on the screen more (or less) vivid, so they're "
 "easier to see."
-msgstr "Hacer que las ventanas y los botones de la pantalla más vivos, para que sean más fáciles de ver."
+msgstr "Hacer las ventanas y los botones de la pantalla más (o menos) vivos, para que sean más fáciles de ver."
 
 #. (itstool) path: page/title
 #: C/a11y-contrast.page:31
@@ -337,7 +340,7 @@ msgid ""
 "You can turn high contrast on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the top bar and selecting <gui>High "
 "Contrast</gui>."
-msgstr "Puede activar y desactivar el contraste alto pulsando en el <link xref=\"a11y-icon\">icono de accesibilidad</link> en la barra superior y seleccionando <gui>Alto contraste</gui>."
+msgstr "Puede activar y desactivar el contraste alto pulsando en el <link xref=\"a11y-icon\">ícono de accesibilidad</link> en la barra superior y seleccionando <gui>Alto contraste</gui>."
 
 #. (itstool) path: info/desc
 #: C/a11y-dwellclick.page:32
@@ -366,14 +369,14 @@ msgid ""
 "When <gui>Hover Click</gui> is enabled, you can move your mouse pointer over"
 " a control, let go of the mouse, and then wait for a while before the button"
 " will be clicked for you."
-msgstr "Cuando la <gui>Pulsación al pasar por encima</gui> está activada puede mover el puntero de su ratón sobre un control, dejar el ratón y esperar un poco hasta que el botón se pulse automáticamente."
+msgstr "Cuando la <gui>Pulsación al pasar por encima</gui> está activada puedes mover el puntero del ratón sobre un control, dejar el ratón y esperar un poco hasta que el botón se pulse automáticamente."
 
 #. (itstool) path: item/p
 #: C/a11y-dwellclick.page:56
 msgid ""
 "Press <gui>Click Assistant</gui> in the <gui>Pointing and Clicking</gui> "
 "section."
-msgstr "Pulse en <gui>Asistente de pulsación</gui> en la sección <gui>Apuntar y pulsar</gui>."
+msgstr "Pulsa en <gui>Asistente de pulsación</gui> en la sección <gui>Apuntar y pulsar</gui>."
 
 #. (itstool) path: item/p
 #: C/a11y-dwellclick.page:60
@@ -435,7 +438,7 @@ msgstr "Cambiar el tamaño del texto en la pantalla"
 msgid ""
 "If you have difficulty reading the text on your screen, you can change the "
 "size of the font."
-msgstr "Si tiene dificultades para leer el texto en su pantalla, puede cambiar el tamaño de la tipografía."
+msgstr "Si tienes dificultades para leer el texto en tu pantalla, puedes cambiar el tamaño de la tipografía."
 
 #. (itstool) path: item/p
 #: C/a11y-font-size.page:44
@@ -450,7 +453,7 @@ msgid ""
 "Alternatively, you can quickly change the text size by clicking the <link "
 "xref=\"a11y-icon\">accessibility icon</link> on the top bar and selecting "
 "<gui>Large Text</gui>."
-msgstr "Alternativamente, puede ajustar rápidamente el tamaño del texto pulsando en el <link xref=\"a11y-icon\">icono de accesibilidad</link> en la barra superior y seleccionando <gui>Texto grande</gui>."
+msgstr "Alternativamente, puede ajustar rápidamente el tamaño del texto pulsando en el <link xref=\"a11y-icon\">ícono de accesibilidad</link> en la barra superior y seleccionando <gui>Texto grande</gui>."
 
 #. (itstool) path: note/p
 #: C/a11y-font-size.page:54
@@ -472,7 +475,7 @@ msgstr "La opción <gui>Texto grande</gui> ampliará el texto 1.2 veces. Tambié
 msgid ""
 "The universal access menu is the icon on the top bar that looks like a "
 "person."
-msgstr "El menú del acceso universal es el icono que parece una persona en la barra superior."
+msgstr "El menú del acceso universal es el ícono que parece una persona en la barra superior."
 
 #. (itstool) path: page/title
 #: C/a11y-icon.page:22
@@ -485,7 +488,7 @@ msgid ""
 "The <em>universal access menu</em> is where you can turn on some of the "
 "accessibility settings. You can find this menu by clicking the icon which "
 "looks like a person surrounded by a circle on the top bar."
-msgstr "El <em>menú de acceso universal</em> es donde puede activar varios ajustes de accesibilidad. Puede encontrar este menú pulsando sobre el icono que parece una persona rodeada de un círculo, en la barra superior."
+msgstr "El <em>menú de acceso universal</em> es donde puede activar varios ajustes de accesibilidad. Puede encontrar este menú pulsando sobre el ícono que parece una persona rodeada de un círculo, en la barra superior."
 
 #. (itstool) path: figure/desc
 #: C/a11y-icon.page:29
@@ -497,7 +500,7 @@ msgstr "El menú de acceso universal se puede encontrar en la barra superior."
 msgid ""
 "If you do not see the universal access menu, you can enable it from the "
 "<gui>Universal Access</gui> settings panel:"
-msgstr "Si no ve el menú del acceso universal en el menú, puede activarlo en la configuración del panel de <gui>Acceso universal</gui>:"
+msgstr "Si no ve el menú de acceso universal en el menú, puede activarlo en la configuración del panel de <gui>Acceso universal</gui>:"
 
 #. (itstool) path: item/p
 #: C/a11y-icon.page:45
@@ -552,7 +555,7 @@ msgid ""
 "You can now move around the screen area. By moving your mouse to the edges "
 "of the screen, you will move the magnified area in different directions, "
 "allowing you to view your area of choice."
-msgstr "Puede moverse en el área de la pantalla. Moviendo su ratón por los bordes de la ptanlla, puede mover el área magnificada en diferentes direcciones, permitiéndole ver el área de su elección."
+msgstr "Ahora puede moverse en el área de la pantalla. Moviendo su ratón por los bordes de la pantalla, puede mover el área magnificada en diferentes direcciones, permitiéndole ver el área de su elección."
 
 #. (itstool) path: note/p
 #: C/a11y-mag.page:64
@@ -560,7 +563,7 @@ msgid ""
 "You can quickly turn zoom on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the top bar and selecting "
 "<gui>Zoom</gui>."
-msgstr "Puede activar o desactivar la ampliación rápidamente pulsando el <link xref=\"a11y-icon\">icono de accesibilidad</link> en la barra superior y seleccionando <gui>Ampliación</gui>."
+msgstr "Puede activar o desactivar la ampliación rápidamente pulsando el <link xref=\"a11y-icon\">ícono de accesibilidad</link> en la barra superior y seleccionando <gui>Ampliación</gui>."
 
 #. (itstool) path: page/p
 #: C/a11y-mag.page:69
@@ -1710,45 +1713,29 @@ msgstr "Cómo hacer copias de respaldo"
 #. (itstool) path: page/p
 #: C/backup-how.page:28
 msgid ""
-"The easiest way of backing up your files and settings is to let a backup "
-"application manage the backup process for you. A number of different backup "
-"applications are available, for example <app>Déjà Dup</app>."
-msgstr "La manera más sencilla de hacer copias de seguridad de sus archivos y configuración es dejar a una aplicación de copia de seguridad que gestiones los procesos de respaldo. Hay un cierto número de aplicaciones de copia de seguridad, por ejemplo <app>Déjà Dup</app>."
+"To <link xref=\"files-copy\">copy your files</link> to a safe location, such"
+" as an external hard drive, another computer on the network, or a USB drive."
+" Your <link xref=\"backup-thinkabout\">personal files</link> and settings "
+"are usually in your <gui>Home</gui> folder, so you can copy them from there."
+msgstr "Para <link xref=\"files-copy\">copiar tus archivos</link> a un lugar seguro, como un disco duro externo, a otra computadora en la misma red, o a un USB. Tus <link xref=\"backup-thinkabout\"> archivos personales </link> y configuraciones usualmente están  en tu carpeta llamada <gui>Mis Documentos</ gui> para que puedas copiarlos desde allí."
 
 #. (itstool) path: page/p
-#: C/backup-how.page:32
-msgid ""
-"The help for your chosen backup application will walk you through setting "
-"your preferences for the backup, as well as how to restore your data."
-msgstr "La ayuda para la aplicación de copia de respaldo elegida le guiará mientras establece sus preferencias de copia de respaldo, así como para restaurar sus datos."
-
-#. (itstool) path: page/p
-#: C/backup-how.page:35
-msgid ""
-"An alternative option is to <link xref=\"files-copy\">copy your files</link>"
-" to a safe location, such as an external hard drive, another computer on the"
-" network, or a USB drive. Your <link xref=\"backup-thinkabout\">personal "
-"files</link> and settings are usually in your Home folder, so you can copy "
-"them from there."
-msgstr "Una opción alternativa consiste, simplemente, en <link xref=\"files-copy\">copiar sus archivos</link> en un lugar seguro, como un disco duro externo, otro equipo de la red, o una unidad USB. Sus <link xref=\"backup-thinkabout\">archivos personales</link> y preferencias suelen estar en su carpeta personal, por lo que puede copiarlos de ahí."
-
-#. (itstool) path: page/p
-#: C/backup-how.page:40
+#: C/backup-how.page:33
 msgid ""
 "The amount of data you can back up is limited by the size of the storage "
 "device. If you have the room on your backup device, it is best to back up "
-"the entire Home folder with the following exceptions:"
-msgstr "La cantidad de datos que puede respaldar está limitada por el tamaño del dispositivo de almacenamiento. Si tiene espacio suficiente en su dispositivo de respaldo, es mejor copiar la carpeta personal completa con las siguientes excepciones:"
+"your entire <gui>Home</gui> folder with the following exceptions:"
+msgstr "La cantidad de datos de los que puedes hacer una copia de seguridad está limitada por la capacidad de almacenamiento de tu dispositivo. Si cuentas con espacio en tu dispositivo para copias de seguridad, lo mejor es guardar una copia completa de tu carpeta <gui>Mis Documentos</gui>, con las siguientes excepciones:"
 
 #. (itstool) path: item/p
-#: C/backup-how.page:45
+#: C/backup-how.page:38
 msgid ""
 "Files that are already backed up somewhere else, such as to a CD, DVD, or "
 "other removable media."
 msgstr "Archivos que están respaldados en algún sitio, tal como un CD o un DVD, u otro medio extraíble."
 
 #. (itstool) path: item/p
-#: C/backup-how.page:47
+#: C/backup-how.page:40
 msgid ""
 "Files that you can recreate easily. For example, if you are a programmer, "
 "you don't have to back up the files that get produced when you compile your "
@@ -1757,7 +1744,7 @@ msgid ""
 msgstr "Los archivos que puede volver a crear fácilmente. Por ejemplo, si es programador, no tiene que respaldar todos los archivos que ha generado al compilar sus programas. En su lugar, simplemente asegúrese de que respalda los archivos fuente originales."
 
 #. (itstool) path: item/p
-#: C/backup-how.page:51
+#: C/backup-how.page:44
 msgid ""
 "Any files in the Trash folder. Your Trash folder can be found in "
 "<file>~/.local/share/Trash</file>."
@@ -2672,7 +2659,7 @@ msgstr "Calibrado"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/clock-calendar.page:60 C/shell-introduction.page:163
+#: C/clock-calendar.page:60
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-appts.png' "
@@ -2684,7 +2671,7 @@ msgstr "external ref='figures/shell-appts.png' md5='3bd352466637914eaabacc29774c
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/clock-calendar.page:65 C/shell-introduction.page:168
+#: C/clock-calendar.page:65 C/shell-introduction.page:81
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-appts-classic.png' "
@@ -2742,7 +2729,7 @@ msgstr "El calendario mostrará las citas existentes a la derecha. Ya que las ci
 
 #. (itstool) path: media/p
 #: C/clock-calendar.page:61 C/clock-calendar.page:66
-#: C/shell-introduction.page:164 C/shell-introduction.page:169
+#: C/shell-introduction.page:82
 msgid "Clock, calendar, and appointments"
 msgstr "Reloj, calendario y citas"
 
@@ -4803,12 +4790,17 @@ msgid ""
 msgstr "Para configurar una pantalla adicional, conecte la pantalla al equipo. Si su sistema no la reconoce inmediatamente, o si quiere ajustar su configuración:"
 
 #. (itstool) path: item/p
-#: C/display-dual-monitors.page:82 C/look-display-fuzzy.page:64
-#: C/look-resolution.page:54
+#: C/display-dual-monitors.page:82 C/keyboard-layouts.page:53
+#: C/look-background.page:58 C/mouse-doubleclick.page:42
+#: C/mouse-sensitivity.page:42 C/printing-cancel-job.page:43
+#: C/printing-setup-default-printer.page:42 C/printing-setup.page:74
+#: C/session-language.page:46 C/user-add.page:81 C/user-admin-change.page:39
+#: C/user-autologin.page:30 C/user-changepassword.page:66
+#: C/user-changepicture.page:42 C/user-delete.page:49
 msgid ""
-"Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start"
-" typing <gui>Displays</gui>."
-msgstr "Abra la vista de <gui xref=\"shell-terminology\">Actividades</gui> y empiece a escribir <gui>Pantallas</gui>."
+"Click on the System Menu at the very bottom left-hand corner of your screen "
+"and select the <gui>Settings</gui> button."
+msgstr "Haz clic en el Menú del sistema, que se encuentra en la esquina inferior izquierda de la pantalla, y selecciona <gui>Configuraciones</ gui>."
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:86 C/look-resolution.page:58
@@ -4918,7 +4910,7 @@ msgstr "Pulse el icono de la papelera en la barra de botones. La colección se e
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
 #: C/documents-filter.page:20 C/documents-search.page:49
-#: C/files-browse.page:79 C/files-hidden.page:41 C/files-hidden.page:47
+#: C/files-browse.page:78 C/files-hidden.page:41 C/files-hidden.page:47
 #: C/files-hidden.page:56 C/files-hidden.page:63 C/files-lost.page:51
 #: C/files-sort.page:44 C/files-sort.page:60 C/files-tilde.page:32
 #: C/nautilus-display.page:43 C/nautilus-views.page:65
@@ -5586,28 +5578,27 @@ msgstr "Examinar archivos y carpetas"
 #. (itstool) path: page/p
 #: C/files-browse.page:42
 msgid ""
-"Use the <app>Files</app> file manager to browse and organize the files on "
-"your computer. You can also use it to manage files on storage devices (like "
-"external hard disks), on <link xref=\"nautilus-connect\">file "
+"Use the <app>Documents</app> file manager to browse and organize the files "
+"on your computer. You can also use it to manage files on storage devices "
+"(like external hard disks), on <link xref=\"nautilus-connect\">file "
 "servers</link>, and on network shares."
-msgstr "Use la aplicación <app>Archivos</app> para navegar y gestionar los archivos en su equipo. También puede usarlo para gestionar archivos en dispositivos de almacenamiento (como discos externos), en <link xref=\"nautilus-connect\">servidores de archivos</link> y en recursos compartidos de la red."
+msgstr "Utiliza <app>Mis Documentos</ app> para buscar y organizar los archivos en tu computadora. También puedes utilizarlo para administrar archivos en dispositivos de almacenamiento (como discos duros externos), en <link xref=\"nautilus-connect\">servidores de archivos</ link>, y en redes compartidas."
 
 #. (itstool) path: page/p
 #: C/files-browse.page:47
 msgid ""
-"To start the file manager, open <app>Files</app> in the "
-"<gui>Activities</gui> overview. You can also search for files and folders "
-"through the overview in the same way you would <link xref=\"shell-apps-"
-"open\">search for applications</link>."
-msgstr "Para abrir el gestor de archivos, abra <app>Archivos</app> en la vista de <gui>Actividades</gui>. También puede buscar archivos y carpetas en la vista de la misma manera que <link xref=\"shell-apps-open\">busca aplicaciones</link>."
+"To start the file manager, click on the <app>Documents</app> icon on the "
+"<gui>Desktop</gui>. You can also search for files and folders using the "
+"<gui>global search bar</gui> at the bottom of your desktop."
+msgstr "Para iniciar el explorador de archivos, haz clic en <app>Mis Documentos</app> desde tu <gui>Escritorio</ gui>. También puedes buscar archivos y carpetas utilizando la<gui>barra de búsqueda global</gui> en la parte inferior de tu escritorio."
 
 #. (itstool) path: section/title
-#: C/files-browse.page:53
+#: C/files-browse.page:52
 msgid "Exploring the contents of folders"
 msgstr "Explorar el contenido de carpetas"
 
 #. (itstool) path: section/p
-#: C/files-browse.page:55
+#: C/files-browse.page:54
 msgid ""
 "In the file manager, double-click any folder to view its contents, and "
 "double-click any file to open it with the default application for that file."
@@ -5615,7 +5606,7 @@ msgid ""
 msgstr "En el gestor de archivos, pulse dos veces sobre una carpeta para ver su contenido, o sobre un archivo para abrirlo con la aplicación predeterminada para ese archivo. También puede pulsar con el botón derecho sobre una carpeta para abrirla en una pestaña o una ventana nueva."
 
 #. (itstool) path: section/p
-#: C/files-browse.page:60
+#: C/files-browse.page:59
 msgid ""
 "When looking through the files in a folder, you can quickly <link xref"
 "=\"files-preview\">preview each file</link> by pressing the space bar to be "
@@ -5623,7 +5614,7 @@ msgid ""
 msgstr "Al examinar los archivos en una carpeta puede <link xref=\"files-preview\">previsualizar rápidamente cada archivo</link> rápidamente pulsando la barra espaciadora para asegurarse de que tiene el archivo correcto antes de abrirlo, copiarlo o eliminarlo."
 
 #. (itstool) path: section/p
-#: C/files-browse.page:65
+#: C/files-browse.page:64
 msgid ""
 "The <em>path bar</em> above the list of files and folders shows you which "
 "folder you're viewing, including the parent folders of the current folder. "
@@ -5633,7 +5624,7 @@ msgid ""
 msgstr "La <em>barra de rutas</em> situada encima de la lista de archivos y carpetas muestra qué carpeta está visualizando, incluyendo sus carpetas padre hasta su carpeta personal. Pulse en una carpeta padre de la barra de rutas para moverse a esa carpeta. Pulse con el botón derecho sobre cualquier carpeta de la barra de rutas para abrirla en una pestaña o ventana nueva, copiarla, moverla o acceder a sus propiedades."
 
 #. (itstool) path: section/p
-#: C/files-browse.page:71
+#: C/files-browse.page:70
 msgid ""
 "If you want to quickly skip to a file in the folder you're viewing, start "
 "typing its name. A search box will appear at the top of the window and the "
@@ -5643,7 +5634,7 @@ msgid ""
 msgstr "Si quiere saltar rápidamente a un archivo en la carpeta que está viendo, empiece a escribir su nombre. Aparecerá una caja de búsqueda en la parte inferior de la ventana y se resaltará el primer archivo que coincida con su búsqueda. Pulse la flecha «abajo»  o desplácese con el ratón para saltar al siguiente archivo que coincida con su búsqueda."
 
 #. (itstool) path: section/p
-#: C/files-browse.page:77
+#: C/files-browse.page:76
 msgid ""
 "You can quickly access common places from the <em>sidebar</em>. If you do "
 "not see the sidebar, click the <media type=\"image\" src=\"figures/go-"
@@ -6341,27 +6332,24 @@ msgid "To restore a file from the Trash:"
 msgstr "Para restaurar un archivo de la papelera:"
 
 #. (itstool) path: item/p
-#: C/files-recover.page:29 C/files-search.page:43 C/files-share.page:47
-#: C/video-sending.page:29
-msgid ""
-"Open the <app>Files</app> application from the <gui>Activities</gui> "
-"overview."
-msgstr "Abra la aplicación <app>Archivos</app> desde la vista de <gui>Actividades</gui>."
+#: C/files-recover.page:29 C/files-removedrive.page:38 C/files-share.page:48
+msgid "Click on the <app>Documents</app> icon from the <gui>Desktop</gui>."
+msgstr "Haz clic en <app>Mis Documentos</app> desde tu <gui>Escritorio</ gui>. "
 
 #. (itstool) path: item/p
-#: C/files-recover.page:33
+#: C/files-recover.page:32
 msgid "Click <gui>Trash</gui> in the sidebar."
 msgstr "Pulse <gui>Papelera</gui> en la barra lateral."
 
 #. (itstool) path: item/p
-#: C/files-recover.page:36
+#: C/files-recover.page:35
 msgid ""
 "If your deleted file is there, click on it and select <gui>Restore</gui>. It"
 " will be restored to the folder from where it was deleted."
 msgstr "Si su archivo eliminado está ahí, selecciónelo y elija <gui>Restaurar</gui>. Se devolverá a la carpeta de la que se eliminó."
 
 #. (itstool) path: page/p
-#: C/files-recover.page:42
+#: C/files-recover.page:41
 msgid ""
 "If you deleted the file by pressing <keyseq><key>Shift</key><key>Delete "
 "</key></keyseq>, or by using the command line, the file has been permanently"
@@ -6370,7 +6358,7 @@ msgid ""
 msgstr "Si eliminó el archivo pulsando <keyseq><key>Mayús</key><key>Supr</key></keyseq> o desde la línea de comandos, el archivo no se podrá recuperar usando este método porque se habrá eliminado permanentemente. Los archivos eliminados permanentemente no se pueden recuperar de la <gui>Papelera</gui>."
 
 #. (itstool) path: page/p
-#: C/files-recover.page:47
+#: C/files-recover.page:46
 msgid ""
 "There are a number of recovery tools available that are sometimes able to "
 "recover files that were permanently deleted. These tools are generally not "
@@ -6404,11 +6392,6 @@ msgstr "Cuando use dispositivos de almacenamiento externo, como memorias USB o s
 #: C/files-removedrive.page:37
 msgid "To eject a removable device:"
 msgstr "Para expulsar un dispositivo extraíble:"
-
-#. (itstool) path: item/p
-#: C/files-removedrive.page:38
-msgid "From the <gui>Activities</gui> overview, open <app>Files</app>."
-msgstr "Desde la vista de <gui>Actividades</gui>, abra <app>Archivos</app>."
 
 #. (itstool) path: item/p
 #: C/files-removedrive.page:40
@@ -6609,8 +6592,8 @@ msgstr "Busque los archivos basándose en el nombre del archivo y el tipo. Guard
 msgid ""
 "You can search for files based on their name or file type directly within "
 "the file manager. You can even save common searches, and they will appear as"
-" special folders in your home folder."
-msgstr "Puede buscar archivos según su nombre o su tipo de archivo directamente desde el gestor de archivos. También puede guardar búsquedas frecuentes, que aparecerán como carpetas especiales dentro de su carpeta personal."
+" special folders in your <gui>Home</gui> folder."
+msgstr "Puedes buscar por archivos por su nombre o por el tipo de archivo que es, directamente en el explorador de archivos. Incluso puedes guardar las búsquedas comunes que haces, y aparecerán como carpetas especiales en tu carpeta llamada <gui>Mis Documentos</gui>."
 
 #. (itstool) path: links/title
 #: C/files-search.page:35
@@ -6625,21 +6608,26 @@ msgid "Search"
 msgstr "Buscar"
 
 #. (itstool) path: item/p
-#: C/files-search.page:47
+#: C/files-search.page:43
+msgid "Click on the <app>Documents</app> icon on your <gui>Desktop</gui>."
+msgstr "Haz clic en el icono <app>Mis Documentos</ app> en tu <gui>Escritorio</gui>."
+
+#. (itstool) path: item/p
+#: C/files-search.page:46
 msgid ""
 "If you know the files you want are under a particular folder, go to that "
 "folder."
 msgstr "Si sabe que los archivos que quiere buscar están en una carpeta determinada, vaya a esa carpeta."
 
 #. (itstool) path: item/p
-#: C/files-search.page:51
+#: C/files-search.page:50
 msgid ""
 "Click the magnifying glass in the toolbar, or press "
 "<keyseq><key>Ctrl</key><key>F</key></keyseq>."
 msgstr "Pulse sobre la lupa en la barra de herramientas, o pulse <keyseq><key>Ctrl</key><key>F</key></keyseq>."
 
 #. (itstool) path: item/p
-#: C/files-search.page:55
+#: C/files-search.page:54
 msgid ""
 "Type a word or words that you know appear in the file name. For example, if "
 "you name all your invoices with the word \"Invoice\", type "
@@ -6648,19 +6636,19 @@ msgid ""
 msgstr "Escriba una o varias palabras que sepa que aparecen en el nombre del archivo. Por ejemplo, si todas sus facturas contienen en su nombre la palabra «Factura», teclee <input>factura</input>. Pulse <key>Intro</key> No hace falta tener en cuenta las mayúsculas y minúsculas."
 
 #. (itstool) path: item/p
-#: C/files-search.page:61
+#: C/files-search.page:60
 msgid "You can narrow your results by location and file type."
 msgstr "Puede acotar los resultados por ubicación y tipo de archivo."
 
 #. (itstool) path: item/p
-#: C/files-search.page:64
+#: C/files-search.page:63
 msgid ""
 "Click <gui>Home</gui> to restrict the search results to your "
 "<file>Home</file> folder, or <gui>All Files</gui> to search everywhere."
 msgstr "Pulse <gui>Carpeta personal</gui> para restringir los resultados de la búsqueda a su <file>Carpeta personal</file> o <gui>Todos los archivos</gui> para buscar en todos los sitios."
 
 #. (itstool) path: item/p
-#: C/files-search.page:69
+#: C/files-search.page:68
 msgid ""
 "Click <key>+</key> and pick a <gui>File Type</gui> from the drop-down list "
 "to narrow the search results based on file type. Click the <key>x</key> "
@@ -6668,45 +6656,45 @@ msgid ""
 msgstr "Pulse <key>+</key> y elija un <gui>Tipo de archivo</gui> de la lista desplegable para acotar el resultado de la búsqueda basándose en este tipo de archivo. Pulse el botón <key>x</key> para quitar esta opción y ampliar el resultado de la búsqueda."
 
 #. (itstool) path: item/p
-#: C/files-search.page:77
+#: C/files-search.page:76
 msgid ""
 "You can open, copy, delete, or otherwise work with your files from the "
 "search results, just as you would from any folder in the file manager."
 msgstr "Puede abrir, copiar, eliminar o trabajar con sus archivos desde los resultados de búsqueda, igual como si estuviera en cualquier carpeta en el gestor de archivos."
 
 #. (itstool) path: item/p
-#: C/files-search.page:82
+#: C/files-search.page:81
 msgid ""
 "Click the magnifying glass in the toolbar again to exit the search and "
 "return to the folder."
 msgstr "Pulse otra vez sobre la lupa en la barra de herramientas para salir de la búsqueda y volver a la carpeta."
 
 #. (itstool) path: page/p
-#: C/files-search.page:87
+#: C/files-search.page:86
 msgid ""
 "If you perform certain searches often, you can save them to access them "
 "quickly."
 msgstr "Si lleva a cabo ciertas búsquedas muy a menudo, puede guardarlas para acceder a ellas rápidamente."
 
 #. (itstool) path: steps/title
-#: C/files-search.page:91
+#: C/files-search.page:90
 msgid "Save a search"
 msgstr "Guardar una búsqueda"
 
 #. (itstool) path: item/p
-#: C/files-search.page:92
+#: C/files-search.page:91
 msgid "Start a search as above."
 msgstr "Iniciar una búsqueda como la de arriba."
 
 #. (itstool) path: item/p
-#: C/files-search.page:93
+#: C/files-search.page:92
 msgid ""
 "When you're happy with the search parameters, click the ⚙ gear button and "
 "select <gui>Save Search As</gui>."
 msgstr "Cuando esté satisfecho con sus parámetros de búsqueda, pulse sobre la rueda dentada ⚙ y elija <gui>Guardar búsqueda como</gui>."
 
 #. (itstool) path: item/p
-#: C/files-search.page:95
+#: C/files-search.page:94
 msgid ""
 "Give the search a name and click <gui>Save</gui>. If you like, select a "
 "different folder to save the search in. When you view that folder, you will "
@@ -6715,7 +6703,7 @@ msgid ""
 msgstr "Asigne un nombre a la búsqueda y pulse <gui>Guardar</gui>. Si quiere, seleccione una carpeta distinta en la que guardarla. Cuando visualice esa carpeta, verá sus búsquedas guardadas como un icono de carpeta color naranja con una lupa."
 
 #. (itstool) path: page/p
-#: C/files-search.page:101
+#: C/files-search.page:100
 msgid ""
 "To remove the search file when you are done with it, simply <link xref"
 "=\"files-delete\">delete</link> the search as you would any other file. When"
@@ -6821,12 +6809,13 @@ msgstr "Puede compartir archivos fácilmente con sus contactos por correo-e dire
 #. (itstool) path: note/p
 #: C/files-share.page:41
 msgid ""
-"Before you begin, make sure <app>Evolution</app> is installed on your "
-"computer, and your email account is configured."
-msgstr "Antes de empezar, asegúrese de que <app>Evolution</app> está instalado en su equipo y de que su cuenta de correo-e está configurada."
+"Before you begin, make sure the <app>Email</app> application is installed on"
+" your desktop, and that your email account is configured. Look for it on the"
+" <gui>Social</gui> folder on the desktop."
+msgstr "Antes de empezar, asegúrate de que hayas instalado el programa <app>E-mail</app> en tu escritorio, y de que hayas configurado tu cuenta de correo electrónico para que funcione con él. Encuentra el programa en la carpeta <gui> Sociales</gui> en tu escritorio."
 
 #. (itstool) path: steps/title
-#: C/files-share.page:46
+#: C/files-share.page:47
 msgid "To share a file by email:"
 msgstr "Para compartir archivos por correo-e:"
 
@@ -7307,8 +7296,7 @@ msgid "Window list"
 msgstr "Lista de ventanas"
 
 #. (itstool) path: section/p
-#. (itstool) path: when/p
-#: C/gnome-classic.page:58 C/shell-introduction.page:306
+#: C/gnome-classic.page:58 C/shell-introduction.page:203
 msgid ""
 "The window list at the bottom of the screen provides access to all your open"
 " windows and applications and lets you quickly minimize and restore them."
@@ -7917,14 +7905,6 @@ msgid ""
 msgstr "Los teclados vienen en cientos de distribuciones diferentes para distintos idiomas. Incluso para un solo idioma pueden existir muchas distribuciones de teclado, como la distribución Dvorak para el inglés. Puede hacer que su teclado se comporte como un teclado con una distribución diferente, independientemente de qué letras y símbolos tenga escritos en las teclas. Esto es útil si tiene que cambiar entre varios idiomas con frecuencia."
 
 #. (itstool) path: item/p
-#: C/keyboard-layouts.page:53 C/session-formats.page:35
-#: C/session-language.page:46 C/session-language.page:83
-msgid ""
-"Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start"
-" typing <gui>Region &amp; Language</gui>."
-msgstr "Abra la vista de <gui xref=\"shell-terminology\">Actividades</gui> y empiece a escribir <gui>Región e idioma</gui>."
-
-#. (itstool) path: item/p
 #: C/keyboard-layouts.page:57 C/session-formats.page:39
 #: C/session-language.page:50 C/session-language.page:87
 msgid "Click on <gui>Region &amp; Language</gui> to open the panel."
@@ -7940,7 +7920,7 @@ msgstr "Pulse el botón <key>+</key>, seleccione el idioma asociado a la distrib
 #. (itstool) path: media/span
 #: C/keyboard-layouts.page:68 C/keyboard-layouts.page:74
 msgid "preview"
-msgstr "vista preliminaria"
+msgstr "vista preliminar"
 
 #. (itstool) path: note/p
 #: C/keyboard-layouts.page:66
@@ -9115,7 +9095,8 @@ msgid "High contrast on or off"
 msgstr "Contraste alto activado o desactivado"
 
 #. (itstool) path: table/title
-#: C/keyboard-shortcuts-set.page:383
+#. (itstool) path: page/title
+#: C/keyboard-shortcuts-set.page:383 C/shell-windows.page:21
 msgid "Windows"
 msgstr "Ventanas"
 
@@ -9368,16 +9349,9 @@ msgid ""
 msgstr "Puede cambiar la imagen usada como fondo o establecer un color sólido."
 
 #. (itstool) path: item/p
-#: C/look-background.page:58
-msgid ""
-"Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start"
-" typing <gui>Background</gui>."
-msgstr "Abra la vista de <gui xref=\"shell-terminology\">Actividades</gui> y empiece a escribir <gui>Fondo</gui>."
-
-#. (itstool) path: item/p
 #: C/look-background.page:62
-msgid "Click on <gui>Background</gui> to open the panel."
-msgstr "Pulse en <gui>Fondo</gui> para abrir el panel."
+msgid "Click on the <gui>Background</gui>button to open the panel."
+msgstr "Haz clic en <gui>Fondo</gui> para abrir la pantalla apropiada."
 
 #. (itstool) path: item/p
 #: C/look-background.page:65
@@ -9480,6 +9454,13 @@ msgstr "Es posible hacer que las dos pantallas tengan distinta resolución, per
 #: C/look-display-fuzzy.page:60
 msgid "To set up the displays so that they each have their own resolution:"
 msgstr "Para configurar las pantallas, para que cada una tenga su propia resolución:"
+
+#. (itstool) path: item/p
+#: C/look-display-fuzzy.page:64 C/look-resolution.page:54
+msgid ""
+"Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start"
+" typing <gui>Displays</gui>."
+msgstr "Abra la vista de <gui xref=\"shell-terminology\">Actividades</gui> y empiece a escribir <gui>Pantallas</gui>."
 
 #. (itstool) path: item/p
 #: C/look-display-fuzzy.page:68
@@ -9687,8 +9668,7 @@ msgid ""
 msgstr "Los «touchpads» en los portátiles se sitúan normalmente donde descansa su muñeca mientras está tecleando, por lo que a veces puede provocar pulsaciones accidentales mientras teclea. Puede desactivar el «touchpad» mientras teclea. Funcionará de nuevo un poco después de que haya pulsado la última tecla."
 
 #. (itstool) path: item/p
-#: C/mouse-disabletouchpad.page:37 C/mouse-doubleclick.page:42
-#: C/mouse-lefthanded.page:42 C/mouse-sensitivity.page:42
+#: C/mouse-disabletouchpad.page:37 C/mouse-lefthanded.page:42
 #: C/mouse-touchpad-click.page:43 C/mouse-touchpad-click.page:98
 #: C/mouse-touchpad-click.page:140
 msgid ""
@@ -12120,7 +12100,7 @@ msgid ""
 msgstr "Abra la vista de <gui xref=\"shell-terminology\">Actividades</gui> y empiece a escribir <gui>Red</gui>."
 
 #. (itstool) path: item/p
-#: C/net-findip.page:49 C/net-macaddress.page:52 C/net-manual.page:44
+#: C/net-findip.page:49 C/net-macaddress.page:52 C/net-manual.page:41
 #: C/net-othersconnect.page:49 C/net-othersedit.page:69 C/net-proxy.page:62
 #: C/power-nowireless.page:50
 msgid "Click on <gui>Network</gui> to open the panel."
@@ -12708,22 +12688,17 @@ msgstr "ParaeEstablecer la configuración de la red manualmente:"
 #. (itstool) path: item/p
 #: C/net-manual.page:37
 msgid ""
-"Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start"
-" typing <gui>Settings</gui>."
-msgstr "Abra la vista de <gui xref=\"shell-terminology\">Actividades</gui> y empiece a escribir <gui>Configuración</gui>."
-
-#. (itstool) path: item/p
-#: C/net-manual.page:41
-msgid "Click on <gui>Settings</gui> to open the control center."
-msgstr "Pulse en <gui>Configuración</gui> para abrir el centro de control."
+"Click on the System Menu on the very bottom left-hand corner of your screen "
+"and then click on <gui>Settings</gui>."
+msgstr "Haz clic en el Menú del sistema en la esquina inferior izquierda de la pantalla y luego haz clic en <gui>Configuraciones</ gui>."
 
 #. (itstool) path: media/span
-#: C/net-manual.page:49 C/net-manual.page:52
+#: C/net-manual.page:46 C/net-manual.page:49
 msgid "settings"
 msgstr "configuraciones"
 
 #. (itstool) path: item/p
-#: C/net-manual.page:47
+#: C/net-manual.page:44
 msgid ""
 "In the left pane, select the network connection that you want to set up "
 "manually and click the <_:media-1/> button. For example, if you plug in to "
@@ -12733,34 +12708,34 @@ msgid ""
 msgstr "En el panel de la izquierda, seleccione la conexión de red que quiere configurar manualmente y pulse el botón <_:media-1/>. Por ejemplo, si se conecta a la red con un cable, pulse <gui>Cableada</gui>. Para una conexión <gui>Inalámbrica</gui>, el botón de <_:media-2/> se situará junto a la red activa."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:54
+#: C/net-manual.page:51
 msgid ""
 "Make sure that your wireless card is turned on or a network cable is plugged"
 " in."
 msgstr "Asegúrese de que su tarjeta inalámbrica está encendida o que el cable de red está conectado."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:58
+#: C/net-manual.page:55
 msgid ""
 "Click <gui>IPv4</gui> and change <gui>Addresses</gui> to <gui>Manual</gui>."
 msgstr "Pulse en <gui>IPv4</gui> y cambie las <gui>Direcciones</gui> a <gui>Manual</gui>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:62
+#: C/net-manual.page:59
 msgid ""
 "Type in the <gui>Address</gui> and <gui>Gateway</gui>, as well as the "
 "appropriate <gui>Netmask</gui>."
 msgstr "Escriba la <gui>Dirección</gui> y la <gui>Puerta de enlace</gui>, así como la <gui>Máscara de red</gui> apropiada."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:64
+#: C/net-manual.page:61
 msgid ""
 "These must be <em>IP addresses</em>; that is, they must be four numbers "
 "separated by periods (e.g. 123.45.6.78)."
 msgstr "Estas tres direcciones deben ser <em>direcciones IP</em>; esto es, deben ser cuatro números separados por puntos (ej. 123.45.6.78)."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:68
+#: C/net-manual.page:65
 msgid ""
 "In the <gui>DNS</gui> section, switch <gui>Automatic</gui> to "
 "<gui>OFF</gui>. Enter the IP address of a DNS server you want to use. Enter "
@@ -12768,7 +12743,7 @@ msgid ""
 msgstr "En la sección <gui>DNS</gui> cambie <gui>Automático</gui> a <gui>Apagado</gui>. Introduzca la dirección IP de los servidores DNS que quiere usar. Introduzca direcciones de servidores DNS adicionales usando el botón <key>+</key>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:73
+#: C/net-manual.page:70
 msgid ""
 "In the <gui>Routes</gui> section, switch <gui>Automatic</gui> to "
 "<gui>OFF</gui>. Enter the <gui>Address</gui>, <gui>Netmask</gui>, "
@@ -12777,7 +12752,7 @@ msgid ""
 msgstr "En la sección <gui>Rutas</gui>, cambie la opción la opción <gui>Automático</gui> a <gui>Apagado</gui> . Introduzca la <gui>Dirección</gui>, la <gui>Máscara de red</gui>, la <gui>Puerta de enlace</gui> y la <gui>Métrica</gui> para la ruta que quiera usar. Puede añadir más rutas usando el botón <key>+</key>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:79
+#: C/net-manual.page:76
 msgid ""
 "Click <gui>Apply</gui>. If you are not connected to the network, click the "
 "system status area on the top bar and connect. Test the network settings by "
@@ -13424,16 +13399,15 @@ msgstr "Puede usar su equipo como un «hotspot» inalámbrico. Esto permite a ot
 
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:48 C/net-wireless-airplane.page:29
-#: C/net-wireless-hidden.page:38
 msgid ""
-"Click the system status area on the top bar and select <gui>Wi-Fi</gui>."
-msgstr "Pulse en el área de estado del sistema en la barra superior y seleccione <gui>Inalámbrica</gui>."
+"Click on the network status icon on the task bar at the very bottom right-"
+"hand corner of your screen."
+msgstr "Haz clic en el icono directamente a la izquierda del icono de Facebook en la barra de tareas en la esquina inferior derecha de tu pantalla."
 
 #. (itstool) path: item/p
-#: C/net-wireless-adhoc.page:50 C/net-wireless-airplane.page:32
-#: C/net-wireless-hidden.page:40
-msgid "Select <gui>Wi-Fi Settings</gui>."
-msgstr "Seleccione <gui>Configuración inalámbrica</gui>."
+#: C/net-wireless-adhoc.page:50
+msgid "Click <gui>Network Settings</gui>."
+msgstr "Haz clic en <gui>Configuración de la red</gui>."
 
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:51
@@ -13477,14 +13451,20 @@ msgid ""
 msgstr "Si tiene su equipo en un avión (o en alguna otra área donde no estén permitidas las conexiones inalámbricas), debe apagar su sistema inalámbrico. También debería apagarlo por otras razones: (para ahorrar batería, por ejemplo). Para hacer esto:"
 
 #. (itstool) path: item/p
+#: C/net-wireless-airplane.page:32 C/net-wireless-hidden.page:40
+msgid "Select <gui>Network Settings</gui>."
+msgstr "Haz clic en <gui>Ajustes de red</gui>."
+
+#. (itstool) path: item/p
 #: C/net-wireless-airplane.page:35
 msgid ""
-"Switch <gui>Airplane Mode</gui> to <gui>ON</gui>. This will turn off your "
-"wireless connection until you switch airplane mode off again."
-msgstr "<gui>Active</gui> el <gui>Modo avión</gui>. Esto apagará su conexión inalámbrica hasta que apague de nuevo el modo avión."
+"Switch <gui>Airplane Mode</gui> to <gui>ON</gui>. You can find this button "
+"on the very top right-hand corner of the network settings window. This will "
+"turn off your wireless connection until you switch airplane mode off again."
+msgstr "Cambia <gui>Modo avión</ gui> a <gui>PRENDIDO</ gui>. Puedes encontrar este botón en la esquina superior derecha de la pantalla de configuración. Esto desactivará la conexión inalámbrica hasta que lo cambies."
 
 #. (itstool) path: note/p
-#: C/net-wireless-airplane.page:40
+#: C/net-wireless-airplane.page:42
 msgid ""
 "Using <em>Airplane Mode</em> will completely turn off both wireless and "
 "Bluetooth connections."
@@ -13760,6 +13740,12 @@ msgid ""
 " networks won't show up in the list of wireless networks displayed in the "
 "<gui>Network</gui> settings. To connect to a hidden wireless network:"
 msgstr "Es posible configurar una red inalámbrica para que esté «oculta». Las redes ocultas no se muestran en la lista de redes que se muestran al pulsar en la configuración de la <gui>Red</gui> (o la lista de redes inalámbricas en cualquier otro equipo). Para conectarse a una red inalámbrica oculta:"
+
+#. (itstool) path: item/p
+#: C/net-wireless-hidden.page:38
+msgid ""
+"Click the network icon on your taskbar, on the bottom right of your screen."
+msgstr "Haz clic en el icono directamente a la izquierda del icono de Facebook en la barra de tareas en la esquina inferior derecha de tu pantalla."
 
 #. (itstool) path: item/p
 #: C/net-wireless-hidden.page:41
@@ -16033,14 +16019,6 @@ msgid "How to cancel a print job:"
 msgstr "Cómo cancelar un trabajo de impresión:"
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:43 C/printing-name-location.page:43
-#: C/printing-setup-default-printer.page:42 C/printing-setup.page:74
-msgid ""
-"Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start"
-" typing <gui>Printers</gui>."
-msgstr "Abra la vista de <gui xref=\"shell-terminology\">Actividades</gui> y empiece a escribir <gui>Impresoras</gui>."
-
-#. (itstool) path: item/p
 #: C/printing-cancel-job.page:47 C/printing-cancel-job.page:87
 #: C/printing-name-location.page:47 C/printing-name-location.page:74
 #: C/printing-setup-default-printer.page:46 C/printing-setup.page:78
@@ -16317,6 +16295,13 @@ msgstr "Cambiar el nombre de la impresora"
 #: C/printing-name-location.page:39
 msgid "If you want to change the name of a printer, take the following steps:"
 msgstr "Si quiere cambiar el nombre de una impresora, siga estos pasos:"
+
+#. (itstool) path: item/p
+#: C/printing-name-location.page:43
+msgid ""
+"Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start"
+" typing <gui>Printers</gui>."
+msgstr "Abra la vista de <gui xref=\"shell-terminology\">Actividades</gui> y empiece a escribir <gui>Impresoras</gui>."
 
 #. (itstool) path: item/p
 #: C/printing-name-location.page:50 C/printing-name-location.page:77
@@ -17065,11 +17050,13 @@ msgstr "Puede tomar una imagen de su pantalla (una <em>captura de pantalla</em>)
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:41
-msgid "Open <app>Screenshot</app> from the <gui>Activities</gui> overview."
-msgstr "Abra la aplicación <app>Captura de pantalla</app> desde la vista de <gui>actividades</gui>."
+msgid ""
+"Install the <gui>Screenshot</gui> application from the <gui>App Store</gui>,"
+" under the <gui>Utilities</gui> category, and open it."
+msgstr "Instalar el programa gui>Captura pantalla</gui> desde  <gui>Más programas</gui>, que se encuentra en la categoría <gui>Herramientas</gui> y abrirlo."
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:44
+#: C/screen-shot-record.page:45
 msgid ""
 "In the <app>Take Screenshot</app> window, select whether to grab the whole "
 "screen, the current window, or an area of the screen. Set a delay if you "
@@ -17078,26 +17065,26 @@ msgid ""
 msgstr "En la ventana <app>Capturar pantalla</app>, seleccione si se debe capturar el escritorio completo, la ventana actual o un área de la pantalla. Establezca un retardo si necesita seleccionar una ventana o si necesita configurar su escritorio para la captura. Entonces, elija los efectos que quiera"
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:51
+#: C/screen-shot-record.page:52
 msgid "Click <gui>Take Screenshot</gui>."
 msgstr "Pulse <gui>Capturar pantalla</gui>."
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:52
+#: C/screen-shot-record.page:53
 msgid ""
 "If you selected <gui>Select area to grab</gui>, the pointer changes into a "
 "crosshair. Click and drag the area you want for the screenshot."
 msgstr "Si selecciona <gui>Seleccionar área que capturar</gui>, el cursor se convertirá en una cruz. Pulse y arrastre el área que quiere para la captura de pantalla."
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:57
+#: C/screen-shot-record.page:58
 msgid ""
 "In the <gui>Save Screenshot</gui> window, enter a file name and choose a "
 "folder, then click <gui>Save</gui>."
 msgstr "En la ventana <gui>Guardar la captura de pantalla</gui>, introduzca el nombre del archivo, elija una carpeta y pulse <gui>Guardar</gui>."
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:59
+#: C/screen-shot-record.page:60
 msgid ""
 "Alternatively, import the screenshot directly into an image-editing "
 "application without saving it first. Click <gui>Copy to Clipboard</gui> then"
@@ -17106,38 +17093,38 @@ msgid ""
 msgstr "Alternativamente, importe la captura de pantalla directamente en su aplicación de edición de imágenes sin guardar previamente. Pulse <gui>Copiar al portapapeles</gui>, pegue la imagen en la otra aplicación o la miniatura de la captura de la pantalla a aplicación."
 
 #. (itstool) path: note/title
-#: C/screen-shot-record.page:66
+#: C/screen-shot-record.page:67
 msgid "Keyboard shortcuts"
 msgstr "Atajos de teclado"
 
 #. (itstool) path: note/p
-#: C/screen-shot-record.page:67
+#: C/screen-shot-record.page:68
 msgid ""
 "Quickly take a screenshot of the desktop, a window, or an area at any time "
 "using these global keyboard shortcuts:"
 msgstr "Tome una captura rápida del escritorio, una ventana o un área en cualquier momento usando estos atajos de teclado globales:"
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:70
+#: C/screen-shot-record.page:71
 msgid "<key>Prt Scrn</key> to take a screenshot of the desktop."
 msgstr "<key>Imp Pant</key> para hacer una captura de pantalla del escritorio."
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:71
+#: C/screen-shot-record.page:72
 msgid ""
 "<keyseq><key>Alt</key><key>Prt Scrn</key></keyseq> to take a screenshot of a"
 " window."
 msgstr "<keyseq><key>Alt</key><key>Impt Pant</key></keyseq> para hacer una captura de pantalla de la ventana."
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:73
+#: C/screen-shot-record.page:74
 msgid ""
 "<keyseq><key>Shift</key><key>Prt Scrn</key></keyseq> to take a screenshot of"
 " an area you select."
 msgstr "<keyseq><key>Mayús</key><key>Imp Pant</key></keyseq> to take a screenshot of an area you select."
 
 #. (itstool) path: note/p
-#: C/screen-shot-record.page:76
+#: C/screen-shot-record.page:77
 msgid ""
 "When you use a keyboard shortcut, the image is automatically saved in your "
 "Pictures folder with a file name that begins with \"Screenshot\" and "
@@ -17145,24 +17132,24 @@ msgid ""
 msgstr "Cuando usa un atajo de teclado, la imagen se guarda automáticamente en su carpeta Imágenes con un nombre de archivo que empieza por «Pantallazo» y que incluye la fecha y la hora en que se creó."
 
 #. (itstool) path: note/p
-#: C/screen-shot-record.page:79
+#: C/screen-shot-record.page:80
 msgid ""
 "You can also hold down <key>Ctrl</key> with any of the above shortcuts to "
 "copy the screenshot image to the clipboard instead of saving it."
 msgstr "También puede mantener pulsada la tecla <key>Ctrl</key> con cualquiera de los atajos anteriores para copiar la imagen de la captura de pantalla al portapapeles en lugar de guardarla."
 
 #. (itstool) path: section/title
-#: C/screen-shot-record.page:86
+#: C/screen-shot-record.page:87
 msgid "Make a screencast"
 msgstr "Grabación de vídeo"
 
 #. (itstool) path: section/p
-#: C/screen-shot-record.page:87
+#: C/screen-shot-record.page:88
 msgid "You can make a video recording of what is happening on your screen:"
 msgstr "Puede grabar un vídeo de lo que ocurre en su pantalla:"
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:91
+#: C/screen-shot-record.page:92
 msgid ""
 "Press "
 "<keyseq><key>Ctrl</key><key>Alt</key><key>Shift</key><key>R</key></keyseq> "
@@ -17170,14 +17157,14 @@ msgid ""
 msgstr "Pulse <keyseq><key>Ctrl</key><key>Alt</key><key>Mayús</key><key>R</key></keyseq> para comenzar a grabar lo que sucede en su pantalla."
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:93
+#: C/screen-shot-record.page:94
 msgid ""
 "A red circle is displayed in the bottom right corner of the screen when the "
 "recording is in progress. This indicator does not show up in the video."
 msgstr "Se muestra un círculo rojo en la esquina inferior derecha de la pantalla cuando la grabación está en proceso. Este indicador no se muestra en el vídeo."
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:98
+#: C/screen-shot-record.page:99
 msgid ""
 "Once you've finished, press "
 "<keyseq><key>Ctrl</key><key>Alt</key><key>Shift</key><key>R</key></keyseq> "
@@ -17185,7 +17172,7 @@ msgid ""
 msgstr "Una vez que haya acabado, pulse <keyseq><key>Ctrl</key><key>Alt</key><key>Mayús</key><key>R</key></keyseq> de nuevo para detener la grabación."
 
 #. (itstool) path: item/p
-#: C/screen-shot-record.page:104
+#: C/screen-shot-record.page:105
 msgid ""
 "The video is automatically saved in your Videos folder with a file name that"
 " starts with \"Screencast\" and includes the date and time it was taken."
@@ -17240,9 +17227,7 @@ msgid ""
 msgstr "Si su dedo está demasiado seco, puede que tenga dificultad para registrar su huella dactilar. Si esto sucede, humedezca ligeramente el dedo, séquelo con un paño limpio y sin pelusa, y vuelva a intentarlo."
 
 #. (itstool) path: item/p
-#: C/session-fingerprint.page:55 C/user-add.page:81
-#: C/user-admin-change.page:39 C/user-changepassword.page:66
-#: C/user-changepicture.page:42 C/user-delete.page:49
+#: C/session-fingerprint.page:55
 msgid ""
 "Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start"
 " typing <gui>Users</gui>."
@@ -17336,6 +17321,13 @@ msgid ""
 "You can control the formats that are used for dates, times, numbers, "
 "currency, and measurement to match the local customs of your region."
 msgstr "Puede controlar los formatos que se usan para fechas, horas, números, moneda y medidas para que coincidan con los usados en su región."
+
+#. (itstool) path: item/p
+#: C/session-formats.page:35 C/session-language.page:83
+msgid ""
+"Open the <gui xref=\"shell-terminology\">Activities</gui> overview and start"
+" typing <gui>Region &amp; Language</gui>."
+msgstr "Abra la vista de <gui xref=\"shell-terminology\">Actividades</gui> y empiece a escribir <gui>Región e idioma</gui>."
 
 #. (itstool) path: item/p
 #: C/session-formats.page:41
@@ -17945,96 +17937,162 @@ msgstr "Las aplicaciones favoritas también aparecen en la sección <gui>Favorit
 
 #. (itstool) path: info/desc
 #: C/shell-apps-open.page:26
-msgid "Launch apps from the <gui>Activities</gui> overview."
-msgstr "Lanzar aplicaciones desde la vista de <gui>actividades</gui>."
+msgid "Install free apps onto your desktop from the <gui>App Store</gui>."
+msgstr "Instalar programas gratis en tu escritorio desde <gui>Más Programas</gui>."
 
 #. (itstool) path: page/title
-#: C/shell-apps-open.page:29
-msgid "Start applications"
-msgstr "Iniciar aplicaciones"
+#. (itstool) path: section/title
+#: C/shell-apps-open.page:30 C/shell-apps-open.page:52
+msgid "Installing Applications"
+msgstr "Instalando programas"
 
 #. (itstool) path: page/p
-#: C/shell-apps-open.page:39
+#: C/shell-apps-open.page:40
 msgid ""
-"Move your mouse pointer to the <gui>Activities</gui> corner at the top left "
-"of the screen to show the <gui>Activities</gui> overview. This is where you "
-"can find all of your applications. You can also open the overview by "
-"pressing the <key xref=\"keyboard-key-super\">Super</key> key."
-msgstr "Mueva el puntero de su ratón a la esquina de <gui>Actividades</gui> en la parte superior izquierda de la pantalla para mostrar la vista de <gui>actividades</gui>. Aquí es donde puede encontrar todas sus aplicaciones. También puede abrir la vista pulsando la tecla <link xref=\"keyboard-key-super\">Super</link>."
+"Endless comes packed with great applications and resources for you to "
+"discover and explore. The pre-installed applications on your desktop are "
+"just a few of the many applications available to you, and the <gui>App "
+"Store</gui> is your portal to everything from games, to educational "
+"applications, to valuable health resources, and much more. The App Store "
+"also allows you to add links to your favorite websites directly to your "
+"desktop for quicker access, and it allows you to create folders to keep "
+"yourself organized in a way that makes sense to you."
+msgstr "Endless viene con muchos programas grandiosos y recursos para que descubras y explores. Los programas preinstalados en tu escritorio son solo algunos de los muchos programas disponibles para ti, y en <gui>Más Programas</gui> tendrás un portal donde podrás encontrar cualquier cosa desde juegos hasta programas educativos, o importantes recursos sobre salud, y mucho más. Más Programas también te permite añadir accesos directos a tus páginas de internet favoritas directamente en tu escritorio para que tengas un acceso más rápido, y te permitirá crear carpetas para que permanezcas organizado en un modo que sea práctico para ti."
 
 #. (itstool) path: page/p
-#: C/shell-apps-open.page:45
+#: C/shell-apps-open.page:48
 msgid ""
-"You can start applications from the <link xref=\"shell-"
-"terminology\"><gui>Applications</gui> menu</link> at the top left of the "
-"screen, or you can use the <gui>Activities</gui> overview by pressing the "
-"<key xref=\"keyboard-key-super\">Super</key> key."
-msgstr "Puede iniciar aplicaciones desde el <link xref=\"shell-terminology\">menú <gui>Aplicaciones</gui></link> en la parte superior izquierda de la pantalla, o pude usar la vista de <gui>actividades</gui> pulsando la tecla <key xref=\"keyboard-key-super\">Super</key>."
-
-#. (itstool) path: page/p
-#: C/shell-apps-open.page:50
-msgid ""
-"There are several ways of opening an application once you're in the "
-"<gui>Activities</gui> overview:"
-msgstr "Hay varias maneras de abrir una aplicación una vez que está en la vista de <gui>actividades</gui>:"
+"To access the App Store at any time, go to your desktop and click on the "
+"<gui>More Apps</gui> button. You'll instantly launch the App Store."
+msgstr "Para acceder a Más Programas en cualquier momento, puedes ir a tu escritorio y hacer un click en el botón <gui>Más Programas</gui>. Se abrirá la ventana para instalar más programas rápidamente."
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:55
 msgid ""
-"Start typing the name of an application - searching begins instantly. (If "
-"this doesn't happen, click the search bar at the top of the screen and start"
-" typing.) Click the application's icon to start it."
-msgstr "Comience a escribir el nombre de una aplicación; la búsqueda comenzará al instante. (Si esto no sucede, pulse en la barra de búsqueda en la parte superior derecha de la pantalla y comience a escribir.) Pulse en el icono de la aplicación para iniciarla."
+"Open the <gui>App Store</gui> by clicking once on the <gui>More Apps</gui> "
+"button on the desktop."
+msgstr "Abre la <gui>Tienda de programas</gui> haciendo click una vez en el botón identificado como <gui>Tienda de programas</gui> en tu escritorio."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:60
+#: C/shell-apps-open.page:59
 msgid ""
-"Some applications have icons in the <em>dash</em>, the vertical strip of "
-"icons on the left-hand side of the <gui>Activities</gui> overview. Click one"
-" of these to start the corresponding application."
-msgstr "Algunas aplicaciones tienen iconos en el <em>tablero</em>, la franja vertical de los iconos en el lado izquierdo de la vista de <gui>actividades</gui>. Pulse en uno de ellos para iniciar la aplicación correspondiente."
+"All of the applications you see are free. You can browse by category and "
+"read each application's short description until you find one that you want "
+"to install onto your desktop. When you find one you like, click on its name "
+"to read more about it, see screenshots and install."
+msgstr "Todos los programas que ves son gratis. Puedes buscar por categorías y leer una pequeña descripción de cada programa hasta encontrar el que quieras instalar en tu escritorio. Cuando encuentres uno que te guste, haz click en su nombre para leer más sobre ese programa, ver capturas de pantalla e instalarlo."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:63
+#: C/shell-apps-open.page:65
 msgid ""
-"If you have applications that you use very frequently, you can <link xref"
-"=\"shell-apps-favorites\">add them to the dash</link> yourself."
-msgstr "Si tiene aplicaciones que usa muy frecuentemente, puede <link xref=\"shell-apps-favorites\">añadirlas al tablero</link>."
+"To install an application simply click <gui>Install app</gui>. You will need"
+" an internet connection to download these applications."
+msgstr "Para instalar un programa, solo debes hacer click en <gui>Instalar Programa</gui>. Necesitarás conexión a internet para descargar estos programas."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:68
+#: C/shell-apps-open.page:69
 msgid ""
-"Click the grid button at the bottom of the dash. You will see the frequently"
-" used applications if the <gui style=\"button\">Frequent</gui> view is "
-"enabled. If you want to run a new application, press the <gui "
-"style=\"button\">All</gui> button at the bottom to view all the "
-"applications. Press on the application to start it."
-msgstr "Pulse el botón de la rejilla en la parte inferior del tablero. Verá las aplicaciones usadas frecuentemente si la vista de <gui style=\"button\">Frecuentes</gui> está activada. Si quiere ejecutar una aplicación nueva, pulse el botón <gui style=\"button\">Todas</gui> en la parte inferior para ver todas las aplicaciones. Pulse sobre una aplicación para iniciarla."
+"Some applications are already downloaded to your computer and you can add "
+"them to your desktop by clicking <gui>Add to desktop</gui>."
+msgstr "Algunos programas ya han sido descargados a tu computadora y puedes agregarlos a tu escritorio haciendo click en el botón <gui>Agregar al Escritorio</gui>."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:75
+#: C/shell-apps-open.page:73
 msgid ""
-"You can launch an application in a separate <link xref=\"shell-"
-"workspaces\">workspace</link> by dragging its icon from the dash (or from "
-"the list of applications), and dropping it onto one of the workspaces on the"
-" right-hand side of the screen. The application will open in the chosen "
-"workspace."
-msgstr "Puede iniciar una aplicación en un <link xref=\"shell-workspaces\">área de trabajo</link> independiente arrastrando el icono de la aplicación desde el tablero (o desde la lista de aplicaciones), y colocándolo en una de las áreas de trabajo en la parte derecha de la pantalla. La aplicación se abrirá en el área de trabajo que elija."
+"When the application's installation is complete, the green button will "
+"change to <gui>Open app</gui> and you can start using the application "
+"immediately!"
+msgstr "Cuando la instalación del programa ha finalizado, el botón verde cambiará a <gui>Abrir programa</gui> y podrás empezar a utilizar el programa inmediatamente!"
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:80
+#: C/shell-apps-open.page:76
 msgid ""
-"You can launch an application in a <em>new</em> workspace by middle-clicking"
-" its icon in the dash or in the application list."
-msgstr "Puede lazar una aplicación en un <em>área de trabajo</em> pulsando con el botón central sobre su icono en el tablero o en la lista de aplicaciones."
+"The application's icon will also be installed on your desktop, to the left "
+"of the <gui>More Apps</gui> button. You can then move it wherever makes "
+"sense to you so you can find it easily."
+msgstr "El ícono del programa también será instalado en tu escritorio, a la izquierda del botón <gui>Tienda de programas</gui>."
+
+#. (itstool) path: section/title
+#: C/shell-apps-open.page:84
+msgid "Installing Websites"
+msgstr "Instalar Páginas Web"
+
+#. (itstool) path: item/p
+#: C/shell-apps-open.page:87
+msgid ""
+"Open the <gui>App Store</gui> by clicking once on the <gui>More Apps</gui> "
+"button on the desktop. Click on the <gui>Websites</gui> button."
+msgstr "Abre la <gui>Tienda de programas</gui> haciendo click una vez en el botón <gui>Más programas</gui> en el escritorio. Haz click en el botón <gui>Páginas Web</gui>."
+
+#. (itstool) path: item/p
+#: C/shell-apps-open.page:92
+msgid ""
+"Browse the website links that we have as suggestions by category. If you see"
+" one that you like, just scroll over it and click on the green <gui>+</gui> "
+"button that will appear. This will add it directly to your desktop, to the "
+"left of the More Apps button."
+msgstr "Busca por categorías los enlaces a Páginas Web que te mostramos como sugerencia. Si ves un enlace que te llame la atención, simplemente coloca encima el puntero de tu ratón y haz click en el botón verde <gui>+</gui>. que aparecerá. Esto lo agregará directamente a tu escritorio, a la izquierda del botón Más Programas."
+
+#. (itstool) path: item/p
+#: C/shell-apps-open.page:98
+msgid ""
+"Add your own website links to pages that we don't already have by typing the"
+" website link's address into the bar at the top and hitting the "
+"<gui>Enter</gui> key to search."
+msgstr "Agrega tus propios enlaces a Páginas Web que no estén disponibles agregando la dirección web en la barra de arriba y presionando la tecla <gui>Enter</gui> para buscarlas."
+
+#. (itstool) path: item/p
+#: C/shell-apps-open.page:103
+msgid ""
+"Click on the green <gui>+</gui> button, and your link will be installed to "
+"the desktop. Add another website, application or folder, or else close the "
+"App Store to find your new folder. It will be directly to the left of the "
+"More Apps button."
+msgstr "Haz click en el botón verde <gui>+</gui> y tu enlace será instalado en el escritorio. Agrega otra página web, programa o carpeta, o bien cierra la Tienda de Programas para buscar tu nueva carpeta. La encontrarás directamente a la izquierda del botón Más Programas."
+
+#. (itstool) path: section/title
+#: C/shell-apps-open.page:112
+msgid "Installing Folders"
+msgstr "Instalar Carpetas"
+
+#. (itstool) path: item/p
+#: C/shell-apps-open.page:115
+msgid ""
+"Open the <gui>App Store</gui> by clicking once on the <gui>More Apps</gui> "
+"button on the desktop.Click on the <gui>Folders</gui> button."
+msgstr "Abre la <gui>Tienda de Programas</gui> haciendo clic en el botón de <gui>Más Programas</gui> en el escritorio. Haz clic en el botón de <gui>Carpetas</gui>."
+
+#. (itstool) path: item/p
+#: C/shell-apps-open.page:120
+msgid ""
+"Choose an icon for your folder that you like, or that you think represents "
+"the types of files or folders that you would like to store in it."
+msgstr "Escoge un ícono que te guste para tu carpeta, o uno que creas que represente el tipo de archivos o carpetas que almacenarás en ella."
+
+#. (itstool) path: item/p
+#: C/shell-apps-open.page:125
+msgid ""
+"Click in the bar that appears under the icon and type the name of the folder"
+" as you would like it to appear on the desktop. Remember to keep it pretty "
+"short so that the name does not get cut off."
+msgstr "Haz clic en la barra que aparece debajo del ícono y escribe el nombre de la carpeta como quieras que aparezca en el escritorio. Recuerda escoger un nombre corto para que el nombre no se corte."
+
+#. (itstool) path: item/p
+#: C/shell-apps-open.page:130
+msgid ""
+"Click on the green <gui>+</gui> button, and your folder will be installed to"
+" the desktop. Add another folder, application or website, or else close the "
+"App Store to find your new folder. It will be directly to the left of the "
+"More Apps button."
+msgstr "Haz clic en el botón verde <gui>+</gui>, y tu carpeta será instalada en el escritorio. Agrega otra carpeta, aplicación o sitio web, de lo contrario cierra la Tienda de Programas para encontrar tu nueva carpeta. Estará directamente a la izquierda del botón de Más Programas. "
 
 #. (itstool) path: note/title
-#: C/shell-apps-open.page:86
+#: C/shell-apps-open.page:139
 msgid "Quickly running a command"
 msgstr "Ejecutar rápidamente un comando"
 
 #. (itstool) path: note/p
-#: C/shell-apps-open.page:87
+#: C/shell-apps-open.page:140
 msgid ""
 "Another way of launching an application is to press "
 "<keyseq><key>Alt</key><key>F2</key></keyseq>, enter its <em>command "
@@ -18042,7 +18100,7 @@ msgid ""
 msgstr "Otra manera de ejecutar una aplicación es pulsar <keyseq><key>Alt</key><key>F2</key></keyseq>, introduciendo el <em>nombre del comando</em> y pulsando la tecla <key>Intro</key>."
 
 #. (itstool) path: note/p
-#: C/shell-apps-open.page:90
+#: C/shell-apps-open.page:143
 msgid ""
 "For example, to launch <app>Rhythmbox</app>, press "
 "<keyseq><key>Alt</key><key>F2</key></keyseq> and type 'rhythmbox' (without "
@@ -18070,9 +18128,9 @@ msgstr "Cerrar la sesión, apagar o cambiar de usuario"
 #. (itstool) path: page/p
 #: C/shell-exit.page:47
 msgid ""
-"When you have finished using your computer, you can turn it off, suspend it "
-"(to save power), or leave it powered on and log out."
-msgstr "Cuando haya terminado de usar su equipo, puede apagarlo, suspenderlo (para ahorrar energía), o dejarlo encendido y cerrar la sesión."
+"When you have finished using your computer, you can turn it off or leave it "
+"powered on and log out."
+msgstr "Cuando hayas terminado de utilizar tu computadora, puedes apagarla o dejarla encendida y cerrar la sesión."
 
 #. (itstool) path: section/title
 #: C/shell-exit.page:51
@@ -18091,95 +18149,59 @@ msgstr "Para permitir que otros usuarios usen su equipo, puede salir de la sesi�
 #. (itstool) path: section/p
 #: C/shell-exit.page:57
 msgid ""
-"To <gui>Log Out</gui> or <gui>Switch User</gui>, click the system menu on "
-"the right side of the top bar, click your name and then choose the right "
-"option."
-msgstr "Para <gui>Salir de la sesión</gui> o <gui>Cambiar de usuario</gui>, pulse sobre en el menú del sistema en la barra superior, pulse sobre su nombre y seleccione la opción apropiada."
-
-#. (itstool) path: note/p
-#: C/shell-exit.page:62
-msgid ""
-"The <gui>Log Out</gui> and <gui>Switch User</gui> entries only appear in the"
-" menu if you have more than one user account on your system."
-msgstr "Las opciones <gui>Salir de la sesión</gui> y <gui>Cambiar de usuario</gui>, sólo aparecen en el menú si tiene más de una cuenta de usuario en su sistema."
-
-#. (itstool) path: note/p
-#: C/shell-exit.page:67
-msgid ""
-"The <gui>Switch User</gui> entry only appears in the menu if you have more "
-"than one user account on your system."
-msgstr "La opción <gui>Cambiar de usuario</gui>, sólo aparece en el menú si tiene más de una cuenta de usuario en su sistema."
+"To log out (i.e. in order to switch to a different user), click the System "
+"Menu on the bottom left corner of your screen, click <gui>Exit</gui> and "
+"then choose <gui>Log Out</gui>."
+msgstr "Para cerrar la sesión (es decir, para cambiar a un usuario diferente), haz clic en el menú de Sistema en la esquina inferior izquierda de tu pantalla, haz clic en <gui>Salir</gui> y luego escoge <gui>Cerrar sesión</gui>."
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:78
+#: C/shell-exit.page:68
 msgid "Lock the screen"
 msgstr "Bloquear la pantalla"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:80
+#: C/shell-exit.page:70
 msgid ""
 "If you're leaving your computer for a short time, you should lock your "
 "screen to prevent other people from accessing your files or running "
-"applications. When you return, raise the <link xref=\"shell-"
-"lockscreen\">lock screen</link> curtain and enter your password to log back "
-"in. If you don't lock your screen, it will lock automatically after a "
-"certain amount of time."
-msgstr "Si deja su equipo durante un breve periodo de tiempo, debe bloquear la pantalla para evitar que otras personas tengan acceso a sus archivos o ejecuten aplicaciones. Cuando vuelva, suba el panel <link xref=\"shell-lockscreen\">bloquear pantalla</link> e introduzca su contraseña para volver a iniciar la sesión. Si no bloquea su pantalla, se bloqueará automáticamente después de cierto tiempo."
+"applications. When you return, you'll need to enter your password to log "
+"back in and you will find your computer running all the same things it was "
+"when you left."
+msgstr "Si dejarás tu computadora por un tiempo más corto, deberías bloquear tu pantalla para evitar que otras personas puedan acceder a tus archivos o abrir programas. Cuando regreses, necesitarás escribir tu contraseña para volver a entrar y encontrarás tu computadora con todos los elementos que estaban abiertos cuando la bloqueaste."
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:87
+#: C/shell-exit.page:75
 msgid ""
-"To lock your screen, click the system menu on the right side of the top bar "
-"and press the lock screen button at the bottom of the menu."
-msgstr "Para bloquear la pantalla, pulse en el menú del sistema en la parte derecha de la barra superior y pulse el botón de bloqueo en la parte inferior del menú."
+"To lock your screen, click click on the System Menu at the very bottom left-"
+"hand side of your screen and press the <gui>Lock</gui> button at the bottom "
+"right of the menu."
+msgstr "Para bloquear tu pantalla, haz un click en el menú Endless en la esquina inferior izquierda de tu pantalla y luego haz click una vez en el botón <gui>Bloquear</gui> en la parte inferior derecha del menú."
 
-#. (itstool) path: section/p
-#: C/shell-exit.page:90
+#. (itstool) path: note/p
+#: C/shell-exit.page:79
 msgid ""
-"When your screen is locked, other users can log in to their own accounts by "
-"clicking <gui>Log in as another user</gui> on the password screen. You can "
-"switch back to your desktop when they are finished."
-msgstr "Cuando su pantalla está bloqueada otros usuarios pueden iniciar sesión en sus propias cuentas pulsando <gui>Iniciar sesión como otro usuario</gui> en la pantalla de contraseña. Puede volver a su escritorio cuando hayan terminado."
+"If you don't lock your screen, it will lock automatically after a certain "
+"amount of time, unless you disable that feature from the <gui>Privacy</gui> "
+"section in <gui>Settings</gui>."
+msgstr "Si no bloqueas tu pantalla, se bloqueará automáticamente después de cierta cantidad de tiempo, hasta que desactives esta opción en la sección <gui>Privacidad</gui> en <gui>Configuración</gui>."
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:101
-msgid "Suspend"
-msgstr "Suspender"
-
-#. (itstool) path: section/p
-#: C/shell-exit.page:103
-msgid ""
-"To save power, suspend your computer when you are not using it. If you use a"
-" laptop, Endless suspends your computer automatically when you close the "
-"lid. This saves your state to your computer's memory and powers off most of "
-"the computer's functions. A very small amount of power is still used during "
-"suspend."
-msgstr "Para ahorrar energía, suspenda su equipo cuando no lo esté usando. Si usa un equipo portátil, Endless suspende su equipo automáticamente cuando cierra su tapa. Esto guarda su estado en la memoria de su equipo y apaga la mayor parte de las funciones de su equipo. Durante la suspensión se sigue usando una cantidad muy pequeña de energía."
-
-#. (itstool) path: section/p
-#: C/shell-exit.page:109
-msgid ""
-"To suspend your computer manually, click the system menu on the right side "
-"of the top bar and hold down the <key>Alt</key> key. The power off button "
-"will change to suspend. Press the button."
-msgstr "Para suspender el equipo manualmente, pulse en el menú del sistema en la parte derecha de la barra superior y mantenga pulsada la tecla <key>Alt</key>. La opción de apagar cambiará a «Suspender». Pulse el botón."
-
-#. (itstool) path: section/title
-#: C/shell-exit.page:120
+#: C/shell-exit.page:91
 msgid "Power off or restart"
 msgstr "Apagar o reiniciar"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:122
+#: C/shell-exit.page:93
 msgid ""
 "If you want to power off your computer entirely, or do a full restart, click"
-" the system menu on the right side of the top bar and press the power off "
-"button at the bottom of the menu. A dialog will open offering you the "
-"options to either <gui>Restart</gui> or <gui>Power Off</gui>."
-msgstr "Si quiere apagar su equipo por completo o hacer un reinicio total, pulse sobre en el menú del sistema en la parte derecha de la barra superior y pulse el botón de apagar en la parte inferior del menú. Aparecerá un diálogo ofreciéndole <gui>Reiniciar</gui> o <gui>Apagar</gui>."
+" the System Menu at the very bottom left-hand side of your screen and press "
+"the <gui>Exit</gui> button at the bottom left of the menu. A dialog will "
+"open offering you the options to, among other options, <gui>Restart</gui> or"
+" <gui>Power Off</gui>."
+msgstr "Si quieres apagar completamente tu computadora, o reiniciarla, haz click en el menú Endless en la esquina inferior izquierda de tu pantalla y luego haz click en el botón <gui>Salir</gui> abajo a la izquierda en el menú. Un diálogo se abrirá ofreciéndote, entre otras, las opciones de <gui>Reiniciar</gui> o de <gui>Apagar</gui>."
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:127
+#: C/shell-exit.page:99
 msgid ""
 "If there are other users logged in, you may not be allowed to power off or "
 "restart the computer because this will end their sessions. If you are an "
@@ -18187,7 +18209,7 @@ msgid ""
 msgstr "Si hay otros usuarios conectados, no podrá apagar o reiniciar el equipo, porque esto cerraría sus sesiones. Si es un usuario administrador, se le pedirá su contraseña para apagar."
 
 #. (itstool) path: note/p
-#: C/shell-exit.page:132
+#: C/shell-exit.page:104
 msgid ""
 "You may want to power off your computer if you wish to move it and do not "
 "have a battery, if your battery is low or does not hold charge well. A "
@@ -18200,136 +18222,17 @@ msgstr "Puede querer apagar el equipo si quiere moverlo y no tiene una batería,
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:40
-msgctxt "_"
-msgid ""
-"external ref='figures/shell-top-bar.png' "
-"md5='47dcaf839a377218b5a593c834a8aed9'"
-msgstr "external ref='figures/shell-top-bar.png' md5='47dcaf839a377218b5a593c834a8aed9'"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:45
-msgctxt "_"
-msgid ""
-"external ref='figures/shell-top-bar-classic.png' "
-"md5='b102db16e8fb7c87cb4e718422359ba4'"
-msgstr "external ref='figures/shell-top-bar-classic.png' md5='b102db16e8fb7c87cb4e718422359ba4'"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:65
-msgctxt "_"
-msgid ""
-"external ref='figures/shell-activities.png' "
-"md5='e9fd4a053aade039919675b0c6b9b3e2'"
-msgstr "external ref='figures/shell-activities.png' md5='e9fd4a053aade039919675b0c6b9b3e2'"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:70
-msgctxt "_"
-msgid ""
-"external ref='figures/shell-activities-classic.png' "
-"md5='3e44ebb1a8da23348a1727c60d65d013'"
-msgstr "external ref='figures/shell-activities-classic.png' md5='3e44ebb1a8da23348a1727c60d65d013'"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:90
-msgctxt "_"
-msgid ""
-"external ref='figures/shell-dash.png' md5='829fcd84aaa0651ab3a0136157661800'"
-msgstr "external ref='figures/shell-dash.png' md5='829fcd84aaa0651ab3a0136157661800'"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:134
-msgctxt "_"
-msgid ""
-"external ref='figures/shell-appmenu-shell.png' "
-"md5='af4db3d3d3ed4572fb2c4d3847ca0836'"
-msgstr "external ref='figures/shell-appmenu-shell.png' md5='af4db3d3d3ed4572fb2c4d3847ca0836'"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:145
-msgctxt "_"
-msgid ""
-"external ref='figures/shell-appmenu-classic.png' "
-"md5='6e28997f340de69969bbd0ea6d4ec822'"
-msgstr "external ref='figures/shell-appmenu-classic.png' md5='6e28997f340de69969bbd0ea6d4ec822'"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:193
-msgctxt "_"
-msgid ""
-"external ref='figures/shell-exit.png' md5='bfe2580e70c3220b06582417451cda96'"
-msgstr "external ref='figures/shell-exit.png' md5='bfe2580e70c3220b06582417451cda96'"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:198
+#: C/shell-introduction.page:106
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-classic.png' "
 "md5='f36e3a0a115ff2181a6fc787e6a83283'"
 msgstr "external ref='figures/shell-exit-classic.png' md5='f36e3a0a115ff2181a6fc787e6a83283'"
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:247
-msgctxt "_"
-msgid ""
-"external ref='figures/shell-lock.png' md5='b8894ae82f64e964bc802982aa3b988a'"
-msgstr "external ref='figures/shell-lock.png' md5='b8894ae82f64e964bc802982aa3b988a'"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:303
-msgctxt "_"
-msgid ""
-"external ref='figures/shell-window-list-classic.png' "
-"md5='83226d03f64e23f5c87794c897c81bcf'"
-msgstr "external ref='figures/shell-window-list-classic.png' md5='83226d03f64e23f5c87794c897c81bcf'"
-
 #. (itstool) path: info/desc
 #: C/shell-introduction.page:29
-msgid ""
-"A visual introduction to your desktop, the top bar, and the "
-"<gui>Activities</gui> overview."
-msgstr "Una introducción visual a su escritorio, la barra superior y la vista de <gui>actividades</gui>."
+msgid "A quick introduction to your desktop and some of its cool features."
+msgstr "Una corta presentación de tu escritorio y algunas de sus geniales características."
 
 #. (itstool) path: page/title
 #: C/shell-introduction.page:32
@@ -18339,206 +18242,118 @@ msgstr "Introducción a Endless"
 #. (itstool) path: page/p
 #: C/shell-introduction.page:34
 msgid ""
-"Endless features a completely reimagined user interface designed to stay out"
-" of your way, minimize distractions, and help you get things done. When you "
-"first log in, you will see an empty desktop and the top bar."
-msgstr "Endless cuenta con una interfaz de usuario completamente reinventada, diseñada para permanecer fuera de su vista, minimizar las distracciones, y ayudarle a trabajar. La primera vez que inicie una sesión, verá un escritorio vacío y la barra superior."
-
-#. (itstool) path: media/p
-#: C/shell-introduction.page:41 C/shell-introduction.page:46
-msgid "Endless shell top bar"
-msgstr "Barra superior de Endless Shell"
+"Endless has been created just for you. We have re-imagined the user "
+"interface and designed Endless to be simple, beautiful and powerful. When "
+"you first turn your computer on, you'll find some important applications "
+"already installed on your desktop. You'll also notice the task bar at the "
+"very bottom of your screen."
+msgstr "Endless ha sido creado solo para ti. Hemos reinventado la interfaz de usuario y diseñado Endless para que sea simple, bello y poderoso. Cuando enciendas tu computadora por primera vez, encontrarás algunos programas importantes instalados en tu escritorio. También verás la barra de tareas en la parte de abajo de tu pantalla."
 
 #. (itstool) path: page/p
+#: C/shell-introduction.page:40
+msgid ""
+"The task bar provides access to important things like your windows and "
+"applications, your calendar and clock, and <link xref=\"status-"
+"icons\">system properties</link> like sound and networking. There, you can "
+"change the volume, edit your <gui>Wi-Fi</gui> connection details, check your"
+" battery status, log out or switch users, and turn off your computer. We "
+"have also included the possibility to connect to Facebook on this task bar, "
+"so that you can keep in touch with your friends more easily than ever!"
+msgstr "La barra de tareas te da acceso a cosas importantes como tus ventanas y programas, tu calendario y reloj, y a las <link xref=\"status-icons\">propiedades del sistema</link> como sonido y propiedades de red. Allí, podrás cambar el volumen, editar los detalles de tu conexión <gui>Wi-Fi</gui>, verificar el status de tu batería, salir de tu usuario o cambiar a otro usuario, y apagar tu computadora. También hemos incluido la posibilidad de conectarte a Facebook en esta barra de tareas, ¡para que puedas mantenerte en comunicación con tus amigos más facil que nunca!"
+
+#. (itstool) path: section/title
 #: C/shell-introduction.page:51
-msgid ""
-"The top bar provides access to your windows and applications, your calendar "
-"and appointments, and <link xref=\"status-icons\">system properties</link> "
-"like sound, networking, and power. In the status menu in the top bar, you "
-"can change the volume or screen brightness, edit your <gui>Wi-Fi</gui> "
-"connection details, check your battery status, log out or switch users, and "
-"turn off your computer."
-msgstr "La barra superior proporciona acceso a las ventanas y a sus aplicaciones, a su calendario y a sus citas, y a las <link xref=\"status-icons\">propiedades del sistema</link> como el sonido, la red, y la energía. En el menú de estado en la barra superior, puede cambiar el volumen o el brillo de la pantalla, editar su conexión <gui>inalámbrica</gui>, comprobar el estado de la batería, salir o cambiar de usuario, y apagar el equipo."
-
-#. (itstool) path: section/title
-#. (itstool) path: item/title
-#: C/shell-introduction.page:61 C/shell-terminology.page:37
-msgid "<gui>Activities</gui> overview"
-msgstr "Vista de <gui>Actividades</gui>"
-
-#. (itstool) path: media/p
-#: C/shell-introduction.page:66 C/shell-introduction.page:71
-msgid "Activities button"
-msgstr "Botón «Actividades»"
+msgid "<gui>App Store</gui> overview"
+msgstr "Vista general de la <gui>Tienda de programas</gui>"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:76
+#: C/shell-introduction.page:53
 msgid ""
-"To access your windows and applications, click the <gui>Activities</gui> "
-"button, or just move your mouse pointer to the top-left hot corner. You can "
-"also press the <key xref=\"keyboard-key-super\">Super</key> key on your "
-"keyboard. You can see your windows and applications in the overview. You can"
-" also just start typing to search your applications, files, folders and the "
-"web."
-msgstr "Para acceder a sus ventanas y aplicaciones, pulse el botón <gui>Actividades</gui>, o simplemente lleve el puntero del ratón a la esquina activa. También puede pulsar la tecla <link xref=\"keyboard-key-super\">Super</link> en su teclado. Puede ver sus ventanas y aplicaciones en la vista de actividades. También puede empezar a escribir para buscar aplicaciones, archivos o carpetas."
+"Your computer should be incredibly useful to you both online and offline. "
+"For that reason, we have packed Endless with all sorts of applications and "
+"content for you to explore and discover. While you will find pre-installed "
+"applications on your desktop, you can always add more applications by "
+"clicking on the <gui>More Apps</gui> button on the desktop. This will launch"
+" our App Store, which is full of free applications for you to install on "
+"your desktop."
+msgstr "Tu computadora Endless será increíblemente útil tanto con internet como sin conexión a internet. Por esta razón, hemos incluído en ella todo tipo de programas y contenido para que puedas explorar y discubrir. Encontrarás programas ya instalados en tu escritorio, pero puedes añadir más programas haciendo click en el botón <gui>Más Programas</gui> que se encuentra en el escritorio. Esto abrirá la sección de Más Programas, que tiene muchos programas gratis que podrás instalar en tu escritorio"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:83
+#: C/shell-introduction.page:61
 msgid ""
-"To access your windows and applications, click the <link xref=\"shell-"
-"terminology\"><gui>Applications</gui> menu</link> at the top left of the "
-"screen and select the <gui>Activities Overview</gui> item. You can also "
-"press the <key xref=\"keyboard-key-super\">Super</key> key to see your "
-"windows and applications in the <gui>Activities</gui> overview. Just start "
-"typing to search your applications, files, and folders."
-msgstr "Para acceder a sus ventanas y aplicaciones, pulse en el <link xref=\"shell-terminology\">menú <gui>Aplicaciones</gui></link> en la parte superior izquierda de la pantalla y seleccione el elemento <gui>Vista de actividades</gui>. También puede pulsar la tecla <key xref=\"keyboard-key-super\">Super</key> para ver sus ventanas y aplicaciones en la vista de <gui>actividades</gui>. Simplemente empiece a escribir para ver sus aplicaciones, archivos y carpetas."
-
-#. (itstool) path: media/p
-#: C/shell-introduction.page:91
-msgid "The dash"
-msgstr "El tablero"
-
-#. (itstool) path: section/p
-#: C/shell-introduction.page:94
-msgid ""
-"On the left of the overview, you will find the <em>dash</em>. The dash shows"
-" you your favorite and running applications. Click any icon in the dash to "
-"open that application; if the application is already running, it will be "
-"highlighted. Clicking its icon will bring up the most recently used window. "
-"You can also drag the icon to the overview, or onto any workspace on the "
-"right."
-msgstr "A la izquierda de la vista, encontrará el <em>tablero</em>. El tablero le muestra sus aplicaciones favoritas y en ejecución. Pulse en cualquier icono en el tablero para abrir dicha aplicación. Si la aplicación se está ejecutando, se resaltará. Pulsar en el icono abrirá la ventana utilizada ​​más recientemente. También puede arrastrar el icono a la vista general o a cualquier área de trabajo de la derecha."
-
-#. (itstool) path: section/p
-#: C/shell-introduction.page:101
-msgid ""
-"Right-clicking the icon displays a menu that allows you to pick any window "
-"in a running application, or to open a new window. You can also click the "
-"icon while holding down <key>Ctrl</key> to open a new window."
-msgstr "Pulsar con el botón derecho muestra un menú que le permite escoger cualquier ventana de una aplicación en ejecución, o abrir una ventana nueva. También puede pulsar en el icono mientras mantiene pulsada la tecla <key>Ctrl</key> para abrir una ventana nueva."
-
-#. (itstool) path: section/p
-#: C/shell-introduction.page:105
-msgid ""
-"When you enter the overview, you will initially be in the windows overview. "
-"This shows you live thumbnails of all the windows on the current workspace."
-msgstr "Cuando entre en la vista, inicialmente estará en la vista de las ventanas. Esto muestra las miniaturas de todas las ventanas en el área de trabajo actual."
-
-#. (itstool) path: section/p
-#: C/shell-introduction.page:109
-msgid ""
-"Click the grid button at the bottom of the dash to display the applications "
-"overview. This shows you all the applications installed on your computer. "
-"Click any application to run it, or drag an application to the overview or "
-"onto a workspace thumbnail. You can also drag an application onto the dash "
-"to make it a favorite. Your favorite applications stay in the dash even when"
-" they're not running, so you can access them quickly."
-msgstr "Pulse en el botón de rejilla en la parte inferior del tablero para mostrar la vista de aplicaciones. Esto le muestra todas las aplicaciones instaladas en su equipo. Pulse en cualquier aplicación para ejecutarla, o arrastre una aplicación a la vista o sobre la miniatura del espacio de trabajo. También puede arrastrar una aplicación al tablero para que sea uno de los favoritos. Sus aplicaciones favoritas permanecerán en el tablero, incluso cuando no estén en funcionamiento, para que pueda acceder a ellas rápidamente."
+"The App Store is divided into three sections: Apps, Websites, and Folders. "
+"You can browse applications you may want to install by category, add "
+"shortcuts to your favorite websites onto your desktop, or simply create new "
+"folders to organize all of your things in a way that makes sense to you."
+msgstr "La sección de Más Programas está dividida en tres secciones: Programas, Páginas de internet y Carpetas. Puedes buscar programas que quieras instalar por categoría, y accesos directos a tus páginas de internet favoritas en tu escritorio, o simplemente crear nuevas carpetas para organizar todos tus programas de una manera que tenga sentido para tí."
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:118
+#: C/shell-introduction.page:69
 msgid ""
-"<link xref=\"shell-apps-open\">Learn more about starting "
+"<link xref=\"shell-apps-open\">Learn more about installing "
 "applications.</link>"
-msgstr "<link xref=\"shell-apps-open\">Aprender más acerca de iniciar aplicaciones.</link>"
-
-#. (itstool) path: item/p
-#: C/shell-introduction.page:122
-msgid ""
-"<link xref=\"shell-windows\">Learn more about windows and workspaces.</link>"
-msgstr "<link xref=\"shell-windows\">Aprender más acerca de las ventanas y las áreas de trabajo.</link>"
+msgstr "<link xref=\"shell-apps-open\">Conoce más sobre cómo instalar programas.</link>"
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:130
-msgid "Application menu"
-msgstr "Menú de aplicaciones"
-
-#. (itstool) path: media/p
-#: C/shell-introduction.page:135 C/shell-introduction.page:146
-msgid "App Menu of <app>Terminal</app>"
-msgstr "Menú de aplicación de la <app>Terminal</app>"
-
-#. (itstool) path: when/p
-#: C/shell-introduction.page:137
-msgid ""
-"Application menu, located beside the <gui>Activities</gui> button, shows the"
-" name of the active application alongside with its icon and provides quick "
-"access to application preferences or help. The items that are available in "
-"the application menu vary depending on the application."
-msgstr "El menú de aplicación, situado junto al botón de <gui>Actividades</gui>, muestra el nombre de la aplicación junto con su icono y proporciona un acceso rápido a las preferencias de la aplicación o a su ayuda. Los elementos disponibles en este menú varían en función de la aplicación."
-
-#. (itstool) path: when/p
-#: C/shell-introduction.page:148
-msgid ""
-"Application menu, located next to the <gui>Applications</gui> and "
-"<gui>Places</gui> menus, shows the name of the active application alongside "
-"with its icon and provides quick access to application preferences or help. "
-"The items that are available in the application menu vary depending on the "
-"application."
-msgstr "El menú de aplicación, situado junto a los menús de <gui>Actividades</gui> y <gui>Lugares</gui>, muestra el nombre de la aplicación junto con su icono y proporciona un acceso rápido a las preferencias de la aplicación o a su ayuda. Los elementos disponibles en este menú varían en función de la aplicación."
-
-#. (itstool) path: section/title
-#: C/shell-introduction.page:159
+#: C/shell-introduction.page:77
 msgid "Clock, calendar &amp; appointments"
 msgstr "Reloj, calendario y citas"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:174
+#: C/shell-introduction.page:87
 msgid ""
-"Click the clock on the top bar to see the current date, a month-by-month "
-"calendar, and a list of your upcoming appointments. You can also access the "
-"date and time settings and open your full <app>Evolution</app> calendar "
+"Click the clock on the bottom task bar to see the current date, a month-by- "
+"month calendar, and a list of your upcoming appointments. You can also "
+"access the date and time settings and open your full <app>Email</app> "
 "directly from the menu."
-msgstr "Pulse en el reloj en el centro de la barra superior para ver la fecha actual, un calendario mensual y una lista de sus próximas citas. También puede acceder a la configuración de fecha y hora y abrir totalmente su calendario de <app>Evolution</app> directamente desde el menú."
+msgstr "Haz click en el reloj que se encuentra en la barra de herramientas en la parte inferior de tu pantalla para ver la fecha actual, un calendario mensual y un listado de tus próximas citas. Puedes también acceder a las configuraciones de fecha y hora y abrir tu <app>Correo Electrónico</app> directamente desde el menú."
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:181
+#: C/shell-introduction.page:94
 msgid ""
 "<link xref=\"clock-calendar\">Learn more about the calendar and "
 "appointments.</link>"
 msgstr "<link xref=\"clock-calendar\">Aprender más sobre el calendario y las citas.</link>"
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:189
+#: C/shell-introduction.page:102
 msgid "You and your computer"
 msgstr "Usted y su equipo"
 
 #. (itstool) path: media/p
-#: C/shell-introduction.page:194 C/shell-introduction.page:199
+#: C/shell-introduction.page:107
 msgid "User menu"
 msgstr "Menú del usuario"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:204
+#: C/shell-introduction.page:112
 msgid ""
-"Click the system menu in the top-right corner to manage your system settings"
-" and your computer."
-msgstr "Pulse en el menú del sistema en la esquina superior derecha de la pantalla para la configuración del sistema y su equipo."
+"Click the System Menu on the bottom left corner to manage your system "
+"settings and your computer."
+msgstr "Haz click en el Menú de Sistema en la esquina inferior izquierda para administrar las configuraciones del sistema y tu computadora."
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:231
+#: C/shell-introduction.page:139
 msgid ""
 "When you leave your computer, you can lock your screen to prevent other "
-"people from using it. You can also quickly switch users without logging out "
-"completely to give somebody else access to the computer, or you can suspend "
-"or power off the computer from the menu."
-msgstr "Al dejar su equipo, puede bloquear la pantalla para evitar que otras personas lo usen. Puede rápidamente cambiar de usuario sin necesidad de iniciar la sesión completamente para dar a alguien acceso al equipo. O bien, puede suspender o apagar el equipo desde el menú."
+"people from using it. You can also choose to turn off or restart your "
+"computer."
+msgstr "Cuando dejas tu computadora por un lado, puedes bloquear tu pantalla para evitar que otras personas la utilicen. Puedes también elegir entre apagar o reiniciar tu computadora."
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:238
+#: C/shell-introduction.page:145
 msgid ""
 "<link xref=\"shell-exit\">Learn more about switching users, logging out, and"
 " turning off your computer.</link>"
 msgstr "<link xref=\"shell-exit\">Aprender más acerca de cambiar de usuario, cerrar la sesión y apagar el equipo.</link>"
 
 #. (itstool) path: section/title
-#. (itstool) path: media/p
-#: C/shell-introduction.page:245 C/shell-introduction.page:248
+#: C/shell-introduction.page:152
 msgid "Lock Screen"
 msgstr "Bloquear la pantalla"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:251
+#: C/shell-introduction.page:154
 msgid ""
 "When you lock your screen, or it locks automatically, the lock screen is "
 "displayed. In addition to protecting your desktop while you're away from "
@@ -18548,59 +18363,57 @@ msgid ""
 msgstr "Cuando bloquea su pantalla o se bloquea automáticamente, se muestra la pantalla de bloqueo. Además de proteger su escritorio mientras está ausente de su equipo, la pantalla de bloqueo muestra la fecha y la hora. También muestra información sobre la batería y el estado de la red, y le permite controlar la reproducción de medios."
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:259
+#: C/shell-introduction.page:162
 msgid "<link xref=\"shell-lockscreen\">Learn more about the lock screen.</link>"
 msgstr "<link xref=\"shell-lockscreen\">Aprenda más sobre la pantalla de bloqueo.</link>"
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:267
+#: C/shell-introduction.page:170
 msgid "Message Tray"
 msgstr "Bandeja de mensajes"
 
-#. (itstool) path: media/p
-#: C/shell-introduction.page:270
-msgid "Message tray"
-msgstr "Ventana de mensajes"
-
 #. (itstool) path: section/p
-#: C/shell-introduction.page:273
+#: C/shell-introduction.page:172
 msgid ""
-"The message tray can be brought into view by pushing your mouse pointer "
-"against the bottom of the screen or by pressing "
+"The message tray can be brought into view by pressing "
 "<keyseq><key>Super</key><key>M</key></keyseq>. This is where your "
-"notifications are stored until you are ready to view them."
-msgstr "Se puede mostrar la bandeja de mensajes moviendo el ratón a la parte inferior de la pantalla o pulsando <keyseq><key>Super</key><key>M</key></keyseq>. Aquí es donde se almacenan las notificaciones hasta que esté listo para verlas."
+"notifications from chats and emails are stored until you are ready to view "
+"them, if you enable the applications to display messages for you."
+msgstr "La bandeja de mensajes puede visualizarse presionando la tecla<keyseq><key>Super</key><key>M</key></keyseq>. Es aquí donde tus notificaciones de chats y correos electrónicos son almacenadas hasta que estés listo para verlas, en el caso en que hayas habilitado el mostrar notificaciones de programas."
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:280
+#: C/shell-introduction.page:179
 msgid ""
 "<link xref=\"shell-notifications\">Learn more about notifications and the "
 "message tray.</link>"
 msgstr "<link xref=\"shell-notifications\">Aprender más acerca de la bandeja de mensajes</link>."
 
 #. (itstool) path: section/title
-#. (itstool) path: media/p
-#: C/shell-introduction.page:288 C/shell-introduction.page:304
-msgid "Window List"
-msgstr "Lista de ventanas"
+#: C/shell-introduction.page:187
+msgid "Hot Corner"
+msgstr "Esquina Activa"
 
-#. (itstool) path: when/p
-#: C/shell-introduction.page:292
+#. (itstool) path: section/p
+#: C/shell-introduction.page:189
 msgid ""
-"Endless features a different approach to switching windows than a "
-"permanently visible window list found in other desktop environments. This "
-"lets you focus on the task at hand without distractions."
-msgstr "Endless implementa una manera de cambiar entre ventanas diferente a a la de la lista de ventanas visible en otros entornos de escritorio. Esto le permite centrarse en las tareas que tiene a mano sin distracciones."
+"Endless allows you to see all of your open windows and tasks so that you can"
+" multitask like a pro. To access this cool feature, move your mouse pointer "
+"to the very bottom right-hand corner of your screen. You can then click on "
+"the window or task that you'd like to open, so that you can get around much,"
+" much faster. For example, if you want to return to the desktop from layers "
+"of open applications and media, just click on an open space behind your open"
+" windows!"
+msgstr "Endless te permite observar todas tus ventanas y tareas para que puedas trabajar en varias tareas a la vez como un profesional. Para acceder a esta genial característica, mueve el puntero de tu ratón hacia la esquina inferior derecha de tu pantalla. Luego puedes hacer click en la ventana o tarea que desees abrir, así podrás moverte mucho más rápido. Por ejemplo, si deseas regresar al escritorio, solo haz click en un espacio vacío detrás de tus ventanas abiertas!"
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:297
+#: C/shell-introduction.page:198
 msgid ""
 "<link xref=\"shell-windows-switching\">Learn more about switching "
 "windows.</link>"
 msgstr "<link xref=\"shell-windows-switching\">Aprender más sobre cambiar entre ventanas. </link>"
 
-#. (itstool) path: when/p
-#: C/shell-introduction.page:309
+#. (itstool) path: section/p
+#: C/shell-introduction.page:206
 msgid ""
 "At the right-hand side of the window list, Endless displays a short "
 "identifier for the current worskpace, such as <gui>1</gui> for the first "
@@ -18609,8 +18422,8 @@ msgid ""
 "the identifier and select the workspace you want to use from the menu."
 msgstr "A la derecha de la lista de ventanas, Endless muestra un identificador corto para el área de trabajo actual, como <gui>1</gui> para la primera área de trabajo. Además, el identificador también muestra el número total de áreas de trabajo disponibles. Para cambiar a un área de trabajo diferente, puede pulsar el en identificador y seleccionar el área de trabado que quiere usar en el menú."
 
-#. (itstool) path: when/p
-#: C/shell-introduction.page:314
+#. (itstool) path: section/p
+#: C/shell-introduction.page:211
 msgid ""
 "If an application or a system component wants to get your attention, it will"
 " display a blue icon at the right-hand side of the window list. Clicking the"
@@ -18875,43 +18688,47 @@ msgstr "La pantalla de bloqueo"
 #. (itstool) path: page/p
 #: C/shell-lockscreen.page:20
 msgid ""
-"The lock screen means that you can see what is happening while your computer"
-" is locked, and it allows you to get a summary of what has been happening "
-"while you have been away. The lock screen curtain shows an attractive image "
-"on the screen while your computer is locked, and provides useful "
-"information:"
-msgstr "La pantalla de bloqueo significa que puede ver qué está pasando mientras su equipo está bloqueado, y le permite obtener un resumen de qué ha pasado mientras estuvo ausente. El panel de la pantalla de bloqueo muestra una imagen atractiva mientras su equipo está bloqueado y proporciona información útil:"
+"Activating the lock screen when you step away from your computer allows you "
+"to keep all of your open programs running so you can resume your work more "
+"quickly when you return, without worrying that others will be able to access"
+" your workspace while you're gone. The lock screen also provides the "
+"following useful information:"
+msgstr "Activar el bloqueo de pantalla cuando te alejas de ti computadora te permite dejar todos tus programas abierto y ejecutándose y que puedas continuar con tu trabajo más rápidamente cuando regreses, sin que tengas que preocuparte que otros accedan tu lugar de trabajo mientras tú no estás. La pantalla bloqueada también provee la siguiente información de utilidad:"
 
 #. (itstool) path: item/p
-#: C/shell-lockscreen.page:25
+#: C/shell-lockscreen.page:26
 msgid "the name of the logged-in user"
 msgstr "el nombre del usuario que ha iniciado sesión"
 
 #. (itstool) path: item/p
-#: C/shell-lockscreen.page:26
+#: C/shell-lockscreen.page:27
 msgid "date and time, and certain notifications"
 msgstr "fecha y hora, y ciertas notificaciones"
 
 #. (itstool) path: item/p
-#: C/shell-lockscreen.page:27
+#: C/shell-lockscreen.page:28
 msgid "battery and network status"
 msgstr "batería y estado de la red"
 
 #. (itstool) path: item/p
-#: C/shell-lockscreen.page:28
+#: C/shell-lockscreen.page:29
 msgid ""
 "the ability to control media playback - change the volume, skip a track or "
 "pause your music without having to enter a password"
 msgstr "la habilidad para controlar la reproducción de medios: cambiar el volumen, saltar una pista o pausar su música sin tener que ingresar una contraseña"
 
 #. (itstool) path: page/p
-#: C/shell-lockscreen.page:31
+#: C/shell-lockscreen.page:32
+msgid "To unlock your computer, just enter your password."
+msgstr "Para desbloquear tu computadora, sólo ingresa tu contraseña."
+
+#. (itstool) path: note/p
+#: C/shell-lockscreen.page:34
 msgid ""
-"To unlock your computer, raise the lock screen curtain by dragging it upward"
-" with the cursor, or by pressing <key>Esc</key> or <key>Enter</key>. This "
-"will reveal the login screen, where you can enter your password to unlock. "
-"You can also switch users if your computer is configured for more than one."
-msgstr "Para desbloquear su equipo, eleve el panel de bloqueo arrastrándolo hacia arriba con el cursor, o presionando <key>Esc</key> o <key>Intro</key>. Esto mostrará la pantalla de inicio de sesión, donde puede ingresar su contraseña para desbloquear. Puede también cambiar usuarios si su equipo está configurado para más de uno."
+"You can change the lock screen settings under the <gui>Privacy</gui> section"
+" in the <gui>Settings</gui> folder that you can access from the System Menu "
+"on the very bottom left-hand side of your screen."
+msgstr "Tú puedes cambiar la configuración de bloqueo de pantalla bajo la sección de <gui>Privacidad</gui> en la carpeta de <gui>Configuración</gui> que puedes acceder desde el Menú de Sistema en la esquina inferior izquierda de tu pantalla."
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -19125,6 +18942,11 @@ msgstr "Un resumen de términos usados para describir partes del escritorio."
 #: C/shell-terminology.page:31
 msgid "Activities, dash, top bar… What are they?"
 msgstr "Actividades, tablero, barra superior… ¿Qué son?"
+
+#. (itstool) path: item/title
+#: C/shell-terminology.page:37
+msgid "<gui>Activities</gui> overview"
+msgstr "Vista de <gui>Actividades</gui>"
 
 #. (itstool) path: item/p
 #: C/shell-terminology.page:38
@@ -19629,46 +19451,32 @@ msgstr "Para restaurar una ventana a su tamaño original, arrástrela fuera de l
 msgid "Move and organize your windows."
 msgstr "Mover y organizar sus ventanas."
 
-#. (itstool) path: page/title
-#: C/shell-windows.page:21
-msgid "Windows and workspaces"
-msgstr "Ventanas y áreas de trabajo"
-
 #. (itstool) path: page/p
 #: C/shell-windows.page:23
 msgid ""
 "Like other desktops, Endless uses windows to display your running "
-"applications. Using both the <gui>Activities</gui> overview and the "
-"<gui>dash</gui>, you can launch new applications and control active windows."
-msgstr "Al igual que otros escritorios, Endless usa ventanas para mostrar las aplicaciones en ejecución. Usando la vista de <gui>actividades</gui> y el <gui>tablero</gui>, puede lanzar aplicaciones nuevas y controlar qué ventana está activa."
-
-#. (itstool) path: page/p
-#: C/shell-windows.page:27
-msgid ""
-"You can also group your applications together within workspaces. Visit the "
-"window and workspace help topics below to better learn how to use these "
-"features."
-msgstr "También puede agrupar sus aplicaciones en áreas de trabajo. Visite los temas de ayuda de ventana y área de trabajo que se muestran a continuación para aprender mejor cómo usar estas características."
+"applications. You can launch new applications and control active windows."
+msgstr "Al igual que otros escritorios, Endless utiliza ventanas para desplegar las aplicaciones que están corriendo. Tú puedes comenzar nuevos programas y controlar las ventanas activas."
 
 #. (itstool) path: info/title
-#: C/shell-windows.page:57
+#: C/shell-windows.page:52
 msgctxt "link:trail"
 msgid "Windows"
 msgstr "Ventanas"
 
 #. (itstool) path: section/title
-#: C/shell-windows.page:59
+#: C/shell-windows.page:54
 msgid "Working with windows"
 msgstr "Trabajar con ventanas"
 
 #. (itstool) path: info/title
-#: C/shell-windows.page:64
+#: C/shell-windows.page:59
 msgctxt "link:trail"
 msgid "Workspaces"
 msgstr "Áreas de trabajo"
 
 #. (itstool) path: section/title
-#: C/shell-windows.page:66
+#: C/shell-windows.page:61
 msgid "Working with workspaces"
 msgstr "Trabajar con áreas de trabajo:"
 
@@ -21421,33 +21229,28 @@ msgid ""
 msgstr "Puede cambiar su configuración para que se inicie la sesión automáticamente con su cuenta cuando arranque el equipo:"
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:30
-msgid "Open <app>Settings</app> from the <gui>Activities</gui> overview."
-msgstr "Abra la <app>Configuración</app> desde la vista de <gui>Actividades</gui>."
-
-#. (itstool) path: item/p
-#: C/user-autologin.page:33
+#: C/user-autologin.page:34
 msgid "Open the <gui>Users</gui> panel from <app>Settings</app>."
 msgstr "Abra el panel <gui>Usuarios</gui> desde la <app>Configuración</app>."
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:36
+#: C/user-autologin.page:37
 msgid ""
 "Select the user account that you want to log in to automatically at startup."
 msgstr "Seleccione la cuenta de usuario con la que quiere iniciar la sesión automáticamente al inicio."
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:40
+#: C/user-autologin.page:41
 msgid "Press <gui style=\"button\">Unlock</gui> and enter your password."
 msgstr "Pulse <gui style=\"button\">Desbloquear</gui> e introduzca su contraseña."
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:43
+#: C/user-autologin.page:44
 msgid "Toggle the <gui>Automatic Login</gui> switch to <gui>On</gui>."
 msgstr "Mueva el deslizador <gui>Inicio de sesión automático</gui> a <gui>Encendido</gui>."
 
 #. (itstool) path: page/p
-#: C/user-autologin.page:47
+#: C/user-autologin.page:48
 msgid ""
 "When you next start up your computer, you will be logged in automatically. "
 "If you have this option enabled, you will not need to type in your password "
@@ -21457,7 +21260,7 @@ msgid ""
 msgstr "La próxima vez que arranque su equipo, se iniciará la sesión automáticamente. Si tiene esta opción activada, no será necesario que escriba su contraseña para iniciar la sesión, lo que significa que si alguien arranca su equipo, podrá acceder a su cuenta y a sus datos personales, incluyendo sus archivos y su histórico de navegación."
 
 #. (itstool) path: note/p
-#: C/user-autologin.page:54
+#: C/user-autologin.page:55
 msgid ""
 "If your account type is <em>Standard</em>, you cannot change this setting. "
 "Contact your system administrator who can change this setting for you."
@@ -21850,6 +21653,13 @@ msgid ""
 msgstr "Para poder reproducir su vídeo, la persona a la que lo envió debe tener los <em>códecs</em> adecuados instalados. Un códec es una pequeña pieza de software que sabe cómo sacar el vídeo y mostrarlo en la pantalla. Hay muchos formatos de vídeo diferentes y cada uno requiere un códec para reproducirse. Puede comprobar el formato de su vídeo haciendo lo siguiente:"
 
 #. (itstool) path: item/p
+#: C/video-sending.page:29
+msgid ""
+"Open the <app>Files</app> application from the <gui>Activities</gui> "
+"overview."
+msgstr "Abra la aplicación <app>Archivos</app> desde la vista de <gui>Actividades</gui>."
+
+#. (itstool) path: item/p
 #: C/video-sending.page:31
 msgid "Right-click on video file and select <gui>Properties</gui>."
 msgstr "Pulse con el botón derecho del ratón sobre el archivo de vídeo y seleccione <gui>Propiedades</gui>."
@@ -21995,7 +21805,7 @@ msgstr "Elegir una pantalla"
 #. (itstool) path: item/p
 #: C/wacom-multi-monitor.page:40
 msgid "Click <gui>Map to Monitor…</gui>"
-msgstr "Pulse <gui>Mapa que monitorizar…</gui>."
+msgstr "Pulse <gui>Mapear a Monitor…</gui>."
 
 #. (itstool) path: item/p
 #: C/wacom-multi-monitor.page:41
@@ -22027,12 +21837,12 @@ msgstr "<gui>Active</gui> la opción <gui>Mantener relación de aspecto (letterb
 #. (itstool) path: info/desc
 #: C/wacom-stylus.page:17
 msgid "Define the button functions and pressure feel of the Wacom stylus."
-msgstr "Definir las funciones de los botones y el tacto de la presión de la Wacom stylus."
+msgstr "Definir las funciones de los botones y la sensibilidad y la presión del lápiz Wacom."
 
 #. (itstool) path: page/title
 #: C/wacom-stylus.page:20
 msgid "Configure the stylus"
-msgstr "Configurar la tableta"
+msgstr "Configurar el lápiz"
 
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:40
@@ -22065,7 +21875,7 @@ msgstr "Configuración del <gui>Botón/rueda de desplazamiento</gui> (esto cambi
 msgid ""
 "<gui>Tip Pressure Feel:</gui> use the slider to adjust the \"feel\" between "
 "<gui>Soft</gui> and <gui>Firm</gui>."
-msgstr "<gui>Sensibilidad de presión del lápiz:</gui> use el deslizador para ajustar la sensibilidad entre <gui>Suave</gui> y <gui>Firme</gui>."
+msgstr "<gui>Sensibilidad de presión del lápiz:</gui> usa el deslizador para ajustar la sensibilidad entre <gui>Suave</gui> y <gui>Firme</gui>."
 
 #. (itstool) path: note/p
 #: C/wacom-stylus.page:58
@@ -22073,7 +21883,7 @@ msgid ""
 "If you have more than one stylus, when the additional stylus gets close to "
 "the tablet, a pager will be displayed next to the stylus device name. Use "
 "the pager to choose which stylus to configured."
-msgstr "Si tiene más de una «stylus», cuando la «stylus» adicional esté cerca de la tableta, aparecerá un paginador junto al nombre del dispositivo. Use el paginador para elegir qué «stylus» configurar."
+msgstr "Si tienes más de un lápiz, cuando el lápiz adicional esté cerca de la tableta, aparecerá un paginador junto al nombre del dispositivo. Usa el paginador para elegir qué lápiz configurar."
 
 #. (itstool) path: info/desc
 #: C/wacom.page:7
