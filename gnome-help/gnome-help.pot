@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-10-09 10:30-0700\n"
+"POT-Creation-Date: 2014-10-09 20:37-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2185,7 +2185,7 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/prefs-display.page:13
-msgid "<link xref=\"look-background\">Background</link>, <link xref=\"display-daul-monitors\">extra monitors</link>…"
+msgid "<link xref=\"look-background\">Background</link>, <link xref=\"display-dual-monitors\">extra monitors</link>…"
 msgstr ""
 
 #. (itstool) path: page/title

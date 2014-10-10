@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2014-10-09 10:30-0700\n"
-"PO-Revision-Date: 2014-10-09 17:32+0000\n"
+"POT-Creation-Date: 2014-10-09 20:37-0700\n"
+"PO-Revision-Date: 2014-10-10 03:39+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/gnome-user-docs/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -2807,7 +2807,7 @@ msgstr "Soyez prudent si vous changez les câbles d'alimentation ou quand vous u
 #. (itstool) path: info/desc
 #: C/prefs-display.page:13
 msgid ""
-"<link xref=\"look-background\">Background</link>, <link xref=\"display-daul-"
+"<link xref=\"look-background\">Background</link>, <link xref=\"display-dual-"
 "monitors\">extra monitors</link>…"
 msgstr ""
 
