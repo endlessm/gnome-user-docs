@@ -6,6 +6,7 @@
 # Fernando Farfan <fernando@endlessm.com>, 2014
 # Francisco Molinero <paco@byasl.com>, 2011
 # Joaquín Ignacio Aramendía <samsagax@gmail.com>, 2011
+# Joel Gil Leon <joel@endlessm.com>, 2014
 # Jorge González <jorgegonz@svn.gnome.org>, 2011
 # Milagros Alessandra Infante Montero <maim92@gmail.com>, 2012
 # Nuritzi Sanchez <ns@endlessm.com>, 2014
@@ -14,8 +15,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2014-10-09 10:30-0700\n"
-"PO-Revision-Date: 2014-10-09 20:29+0000\n"
-"Last-Translator: Nuritzi Sanchez <ns@endlessm.com>\n"
+"PO-Revision-Date: 2014-10-10 00:53+0000\n"
+"Last-Translator: Joel Gil Leon <joel@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/gnome-user-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -164,7 +165,7 @@ msgid ""
 "The amount of data you can back up is limited by the size of the storage "
 "device. If you have the room on your backup device, it is best to back up "
 "your entire <gui>Home</gui> folder with the following exceptions:"
-msgstr "La cantidad de datos de los que puedes hacer una copia de seguridad está limitada por la capacidad de almacenamiento de tu dispositivo. Si cuentas con espacio en tu dispositivo para copias de seguridad, lo mejor es guardar una copia completa de tu carpeta <gui>Mis Documentos</gui>, con las siguientes excepciones:"
+msgstr "La cantidad de datos de los que puedes hacer una copia de seguridad está limitada por la capacidad del hardware de almacenamiento que usarás. Si cuentas con suficiente espacio, lo mejor es hacer una copia completa de tu carpeta <gui>Mis Documentos</gui>, con las siguientes excepciones:"
 
 #. (itstool) path: item/p
 #: C/backup-how.page:38
@@ -386,7 +387,7 @@ msgstr "Para configurar una pantalla adicional, conecte la pantalla al equipo. S
 msgid ""
 "Click on the System Menu at the very bottom left-hand corner of your screen "
 "and select the <gui>Settings</gui> button."
-msgstr "Haz clic en el Menú del sistema, que se encuentra en la esquina inferior izquierda de la pantalla, y selecciona <gui>Configuraciones</ gui>."
+msgstr "Haz clic en el Menú del sistema, que se encuentra en la esquina inferior izquierda de la pantalla, y selecciona <gui>Configuraciones</gui>."
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:86
@@ -526,7 +527,7 @@ msgid ""
 "To start the file manager, click on the <app>Documents</app> icon on the "
 "<gui>Desktop</gui>. You can also search for files and folders using the "
 "<gui>global search bar</gui> at the bottom of your desktop."
-msgstr "Para iniciar el explorador de archivos, haz clic en <app>Mis Documentos</app> desde tu <gui>Escritorio</ gui>. También puedes buscar archivos y carpetas utilizando la<gui>barra de búsqueda global</gui> en la parte inferior de tu escritorio."
+msgstr "Para iniciar el explorador de archivos, haz clic en <app>Mis Documentos</app> desde tu <gui>Escritorio</gui>. También puedes buscar archivos y carpetas utilizando la<gui>barra de búsqueda global</gui> en la parte inferior de tu escritorio."
 
 #. (itstool) path: section/title
 #: C/files-browse.page:51
@@ -730,7 +731,7 @@ msgid ""
 "You can't copy or move a file into a folder that is <em>read-only</em>. Some"
 " folders are read-only to prevent you from making changes to their contents."
 " You can change things from being read-only by changing file permissions."
-msgstr "No puedes copiar o mover un archivo a una carpeta de <em>solo lectura</em>. Las carpetas de solo lectura contienen archivos que no se pueden modificar. Solo puedes modificar a las carpetas de solo lectura cambiándole los permisos."
+msgstr "No puedes copiar o mover archivos a una carpeta de <em>solo-lectura</em>. Algunas carpetas son solo-lectura para prevenir que se hagan cambios dentro de ellas. Puedes modificar las carpetas de solo-lectura cambiándole los permisos."
 
 #. (itstool) path: info/desc
 #: C/files-delete.page:8
@@ -909,7 +910,7 @@ msgstr "Para restaurar un archivo de la papelera:"
 #. (itstool) path: item/p
 #: C/files-recover.page:28 C/files-removedrive.page:38 C/files-share.page:46
 msgid "Click on the <app>Documents</app> icon from the <gui>Desktop</gui>."
-msgstr "Haz clic en <app>Mis Documentos</app> desde tu <gui>Escritorio</ gui>. "
+msgstr "Haz clic en <app>Mis Documentos</app> desde tu <gui>Escritorio</gui>. "
 
 #. (itstool) path: item/p
 #: C/files-recover.page:31
@@ -1826,7 +1827,7 @@ msgstr "ParaeEstablecer la configuración de la red manualmente:"
 msgid ""
 "Click on the System Menu on the very bottom left-hand corner of your screen "
 "and then click on <gui>Settings</gui>."
-msgstr "Haz clic en el Menú del sistema en la esquina inferior izquierda de la pantalla y luego haz clic en <gui>Configuraciones</ gui>."
+msgstr "Haz clic en el Menú del sistema en la esquina inferior izquierda de la pantalla y luego haz clic en <gui>Configuraciones</gui>."
 
 #. (itstool) path: item/p
 #: C/net-manual.page:40
@@ -2271,7 +2272,7 @@ msgid ""
 "Switch <gui>Airplane Mode</gui> to <gui>ON</gui>. You can find this button "
 "on the very top right-hand corner of the network settings window. This will "
 "turn off your wireless connection until you switch airplane mode off again."
-msgstr "Cambia <gui>Modo avión</ gui> a <gui>PRENDIDO</ gui>. Puedes encontrar este botón en la esquina superior derecha de la pantalla de configuración. Esto desactivará la conexión inalámbrica hasta que lo cambies."
+msgstr "Activa el <gui>Modo avión</gui> presionando <gui>1</gui> para que el botón se ponga azul. Puedes encontrar este botón en la esquina superior derecha de la pantalla de configuración. Esto desactivará la conexión inalámbrica hasta que lo cambies."
 
 #. (itstool) path: note/p
 #: C/net-wireless-airplane.page:42
@@ -3664,7 +3665,7 @@ msgstr "Cuando cambia el idioma, sólo lo cambia para su cuenta después de inic
 #. (itstool) path: item/p
 #: C/session-language.page:86
 msgid "Click on <gui>Region &amp; Language</gui>."
-msgstr "Haz clic en <gui>Región y idioma</gui>."
+msgstr "Haz clic en <gui>Región e idioma</gui>."
 
 #. (itstool) path: item/p
 #: C/session-language.page:88
@@ -3731,7 +3732,7 @@ msgstr "Todos los programas que ves son gratis. Puedes buscar por categorías y 
 msgid ""
 "To install an application simply click <gui>Install app</gui>. You will need"
 " an internet connection to download these applications."
-msgstr "Para instalar un programa, solo debes hacer click en <gui>Instalar Programa</gui>. Necesitarás conexión a internet para descargar estos programas."
+msgstr "Para instalar un programa, solo debes hacer click en <gui>Instalar programa</gui>. Necesitarás conexión a internet para descargar estos programas."
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:69
