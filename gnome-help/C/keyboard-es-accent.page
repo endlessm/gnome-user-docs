@@ -1,0 +1,36 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="keyboard-es-accent">
+
+  <info>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Learn how to type accents with your keyboard.</desc>
+  </info>
+
+  <title>Type Spanish language accents in Endless</title>
+
+  <p>It's easy to type accents on Endless - it is the same as most other
+  platforms. On a Spanish Latin American keyboard, start by pressing the accute
+  accent key and then the letter you'd like to accent:</p>
+
+  <p>´ + a = á</p>
+
+  <p>´ + e = é</p>
+
+  <p>´ + i = í</p>
+
+  <p>´ + o = ó</p>
+
+  <p>´ + u = ú</p>
+
+  <p>" + u = ü</p>
+</page>

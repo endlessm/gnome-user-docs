@@ -1,0 +1,46 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="net-read-news">
+
+  <info>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Keep up to date with the latest news.</desc>
+  </info>
+
+  <title>Read the News</title>
+
+  <p>We have added several different newspaper websites to your Browser so that
+  you can read all the latest news! Explore current events, sports, local news
+  and more just with a click of a button!</p>
+
+  <steps>
+    <title>To read news online:</title>
+    <item>
+
+      <p>Click the Internet icon on your desktop or on the taskbar to open the
+      browser.</p>
+
+    </item>
+    <item>
+      <p>Click on Newspaper section on the left side menu.</p>
+    </item>
+    <item>
+      <p>Discover the internet!</p>
+    </item>
+  </steps>
+
+  <note>
+    <p>You'll need an internet connection in order to access the news websites.
+    If you can't access the internet right now, don't worry, your computer comes
+    packed with great offline content.</p>
+  </note>
+</page>

@@ -1,0 +1,22 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      type="guide" style="task 2column"
+      id="net-troubleshoot">
+
+  <info>
+    <link type="guide" xref="net#connecting"/>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Identify and fix problems with your internet connections.</desc>
+  </info>
+
+  <title>Troubleshoot your internet problems</title>
+
+</page>

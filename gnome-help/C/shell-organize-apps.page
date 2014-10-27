@@ -1,0 +1,45 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="shell-organize-apps">
+
+  <info>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Keep all of your apps organized.</desc>
+  </info>
+
+  <title>Organize your apps</title>
+
+  <p>Add folders to the desktop</p>
+
+  <comment>{video 2}</comment>
+
+  <steps>
+    <item>
+      <p>To add a new Folder, right-click the desktop and select <gui>Add
+      folder</gui>.</p>
+    </item>
+    <item>
+      <p>Pick an icon for your new Folder.</p>
+    </item>
+    <item>
+      <p>Type a name for your new Folder ("School" for example) and hit
+      Enter.</p>
+    </item>
+    <item>
+      <p>You have added a new folder to the desktop. Great! Now click on the
+      close button on the top-right of the window to go back to the desktop.</p>
+    </item>
+    <item>
+      <p>Drag and drop the icons you want into your folder.</p>
+    </item>
+  </steps>
+</page>

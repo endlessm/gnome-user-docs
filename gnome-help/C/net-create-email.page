@@ -1,0 +1,67 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="net-create-email">
+
+  <info>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Learn why you need an email address and how to make one.</desc>
+  </info>
+
+  <title>Create an email address</title>
+
+  <p>Having an email address is very important since it is becoming more and
+  more popular as an every day communication tool, and you cannot access a lot
+  of online services without one.</p> <p>There are a few major email providers,
+  and if you want to set up an account with one of them, you will need to read
+  their instructions. Below, you will find a list of some of the most popular
+  providers of free email accounts. Try searching for them and you will find
+  instructions on how to <gui>Sign Up</gui>!</p>
+
+  <list>
+    <title>Popular email providers</title>
+    <item>
+      <p>Gmail</p>
+    </item>
+    <item>
+      <p>Hotmail</p>
+    </item>
+    <item>
+      <p>Yahoo Mail</p>
+    </item>
+    <item>
+      <p>Live</p>
+    </item>
+  </list>
+
+  <list>
+    <title>Tips and internet security</title>
+    <item>
+      <p>Make sure you remember your password but also make it hard for others
+      to guess. It may be a good idea to write it down and keep it somewhere
+      secure in case you ever forget. </p>
+    </item>
+    <item>
+      <p>If someone you don't know writes you and asks you for money, or tells
+      you that you have won something, be skeptical. There are many scams out
+      there that have cost good people a lot of money. </p>
+    </item>
+    <item>
+      <p>Try not to open emails sent from people you don't know since they may
+      contain viruses. Just delete them without opening them.</p>
+    </item>
+    <item>
+      <p>Remember to log out of your email account if you share your computer
+      with others; otherwise, they will be able to read all of your email and
+      use your account.</p>
+    </item>
+  </list>
+</page>

@@ -1,0 +1,26 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="net-3g-dongles">
+
+  <info>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Learn which 3G dongles are currently supported.</desc>
+  </info>
+
+  <title>Learn about supported 3G dongles</title>
+
+  <p>The following 3G dongles should work properly on Endless, but please keep
+  in mind that this list does not include every supported model.</p>
+
+  <p>If you have questions about a specific model, please contact our customer
+  support team.</p>
+</page>

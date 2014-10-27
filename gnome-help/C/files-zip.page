@@ -1,0 +1,43 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="files-zip">
+
+  <info>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Create zip files to save space and share your files more easily.</desc>
+  </info>
+
+  <title>Create zip files</title>
+
+  <p>Zip files allow you store your files in less space. This is especially
+  good when you are trying to share files with friends.</p>
+
+  <steps>
+    <title>To create a zip file, follow these steps:</title>
+    <item>
+      <p>Click on the <gui>Documents</gui> icon from your desktop.</p>
+    </item>
+    <item>
+      <p>Search for the file or folders that you would like to send or make
+      smaller.</p>
+    </item>
+    <item>
+      <p>Right-click on the file or folder and select the <gui>Compress...</gui>
+      option that you will see.</p>
+    </item>
+  </steps>
+
+  <p>Your computer will create a compressed copy of the file or folder, which
+  will appear right next to the original. You can move that zip file somewhere
+  else, or share it with whomever you wish more quickly and easily than if you
+  tried to send the original!</p>
+</page>

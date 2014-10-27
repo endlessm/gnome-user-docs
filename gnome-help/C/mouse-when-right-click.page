@@ -1,0 +1,56 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="mouse-when-right-click">
+
+  <info>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>When to use the right click option on your mouse.</desc>
+  </info>
+
+  <title>How and when to use the right click</title>
+
+  <p>When using your mouse, you have the ability to left click and to right
+  click. These buttons are on the top part of your mouse. Left clicking allows
+  you select something, while right clicking bring up a menu with options for
+  actions.</p>
+
+  <p>For example, if you right click on your desktop, you will see options to
+  change your background, add an app, add a website or add a folder. You can
+  then left click on a menu option to select it. You can right click on almost
+  anything to see similar shortcuts and options.</p>
+
+  <section>
+    <title>If your mouse only has one button</title>
+
+    <p>If your mouse only have one button, you will need to change your settings
+    to allow for you to use just one click button. Here's how to change your
+    settings:</p>
+
+    <steps>
+      <item>
+        <p> Click on the <gui>Start Menu</gui> on the bottom left-hand corner of
+        your screen, then click on <gui>Settings</gui>.</p>
+      </item>
+      <item>
+        <p>Click on the <gui>Universal Access</gui> panel.</p>
+      </item>
+      <item>
+        <p>Scroll to the bottom and select <gui>Cick Assist</gui>.</p>
+      </item>
+      <item>
+        <p> Turn the <gui>Simulated secondary click</gui> option on. There you
+        can also adjust the amount of time you'll need to hold down the key to
+        activate the right click. </p>
+      </item>
+    </steps>
+  </section>
+</page>

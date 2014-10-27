@@ -1,0 +1,53 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="media-listen-music">
+
+  <info>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Learn about the Music app.</desc>
+  </info>
+
+  <title>Listen to my music</title>
+
+  <p>You can listen to songs with the Music app, which is located on your
+  desktop. Click on the icon once to open it.</p>
+
+  <p>When the music app loads, you will see some songs that already come with
+  your computer. You can add as many songs as you like, from your own collection
+  on another device, or by downloading more from the internet.</p>
+
+  <list>
+    <item>
+      <p>Double click on a song to play it.</p>
+    </item>
+    <item>
+      <p>Pause the song by clicking the pause button on the top left hand
+      corner.</p>
+    </item>
+    <item>
+      <p>Skip a song or go back to it by clicking on the left and right
+      arrows.</p>
+    </item>
+    <item>
+      <p>Click on the rectangle button to repeat the song or the whole
+      track.</p>
+    </item>
+    <item>
+      <p>Click on the mixed arrows next to the rectangle to shuffle the songs.
+      Click it again to play the songs in order.</p>
+    </item>
+    <item>
+      <p>Control the volume bar on the right. You can slide the round button to
+      get to your desired volume. </p>
+    </item>
+  </list>
+</page>

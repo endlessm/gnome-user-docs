@@ -1,0 +1,58 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="media-play-videos">
+
+  <info>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Learn how to watch videos on your computer.</desc>
+  </info>
+
+  <title>Play my videos</title>
+
+  <p>Endless comes with some short videos already installed and a media player
+  to play them.</p>
+
+  <steps>
+    <title>To watch a video:</title>
+    <item>
+      <p>Click on the Documents icon on your desktop.</p>
+    </item>
+    <item>
+       <p>Click on the Videos folder.</p>
+    </item>
+    <item>
+      <p>Click on the Samples folder.</p>
+    </item>
+    <item>
+      <p>Browse the videos available. When you are ready to watch one, simply
+      double click on the file.</p>
+      <p>Your video will start to play automatically. You can control it within
+      the app and choose to pause it, or rewind it with the controls on the
+      bottom left corner.</p>
+    </item>
+    <item>
+      <p>Make the video full screen by pressing the diagonal arrows next to the
+      control buttons.</p>
+    </item>
+  </steps>
+
+  <note>
+    <p>To exit the full screen mode, press the Esc button on the top left-hand
+    corner of your keyboard.</p>
+  </note>
+
+  <note>
+    <p>Remember, you need to connect some headphones or speakers to be able to
+    listen to the videos. If your computer if connected to a TV, the sound
+    should work. </p>
+  </note>
+</page>

@@ -1,0 +1,28 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="security-data-collection">
+
+  <info>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Learn more about what metrics Endless collects to improve the user
+    experience.</desc>
+  </info>
+
+  <title>Data Collection</title>
+
+  <p>Endless collects metrics on user behavior and actions. We use the data to
+  improve the apps and the system. All data sent is anonymous.</p>
+
+  <p>You can disable <gui>Metrics Collection</gui> under
+  <gui>Settings > Privacy > Metrics.</gui></p>
+
+</page>

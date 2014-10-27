@@ -1,0 +1,49 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="shell-delete-app-desktop">
+
+  <info>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Learn how to remove apps from your desktop.</desc>
+  </info>
+
+  <title>Delete apps from the desktop</title>
+
+  <steps>
+    <title>To delete an app from your desktop:</title>
+    <item>
+      <p>Click and hold the app icon you want to delete.</p>
+    </item>
+    <item>
+      <p>Keeping the mouse-key pressed, drag the icon to the <gui>More Apps</gui>
+      icon.</p>
+    </item>
+    <item>
+      <p>You will notice that the <gui>More Apps</gui> icon will become a trash
+      can icon.</p>
+    </item>
+    <item>
+      <p>Just drop the icon there to delete the app.</p>
+    </item>
+  </steps>
+
+  <p>The <gui>More Apps</gui> icon will always be the last icon on your desktop.
+  </p>
+
+  <comment>[include image showing how to delete]</comment>
+
+  <note>
+    <p>Deleting the app from your desktop doesn't remove it from the system. If
+    you want to delete the app entirely from the system to make storage space
+    available, you can do it from the app center.</p>
+  </note>
+</page>

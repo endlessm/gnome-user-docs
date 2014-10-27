@@ -1,0 +1,52 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="shell-update-app">
+
+  <info>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Learn how to install available updates for your apps.</desc>
+  </info>
+
+  <title>Updating Apps</title>
+
+  <p>Endless is constantly improving apps so that they get better, faster and
+  richer in content. We suggest that you update the Apps you use the most:</p>
+
+  <steps>
+    <item>
+      <p>Click the <gui>More Apps</gui> button on your desktop.</p>
+    </item>
+    <item>
+      <p>On the left menu, click on the section <gui>Installed</gui>. All apps
+      that are installed on your Endless will be there.</p>
+    </item>
+    <item>
+      <p>Click the thumbnail of the app you want to update.</p>
+    </item>
+    <item>
+      <p>If there is an update available, you will see a green button with the
+      label <gui>Update app</gui>. Click on it to download the update. It will
+      be installed automatically once it's ready.</p>
+    </item>
+    <item>
+      <p>Once the update is installed, you will see the <gui>Open app</gui>
+      button.</p>
+    </item>
+  </steps>
+
+  <note>
+    <p>To update an app, you will need an internet connection.</p>
+  </note>
+  <note style = "tip">
+    <p>You can close the App store while the app is updating.</p>
+  </note>
+</page>

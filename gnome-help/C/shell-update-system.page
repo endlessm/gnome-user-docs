@@ -1,0 +1,63 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="shell-update-system">
+
+  <info>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Learn how to update your computer.</desc>
+  </info>
+
+  <title>Update Endless</title>
+
+  <p>We are constantly working to improve Endless and will provide you with free
+  system updates to help make your computer faster and easier to use.</p>
+
+ <section>
+  <title>If you have Wi-Fi or a wired internet connection</title>
+    <p>New updates will be automatically downloaded to your computer when they
+    become available. When the download is complete, you will see a notification
+    that asks you to restart your computer to finish the installation process.
+    You can restart your computer when you first see the notification, or at a
+    later time. When your computer restarts, it will have the newest version of
+    Endless!</p>
+ </section>
+
+  <section>
+    <title>If you use a 3G connection</title>
+
+    <p>Your computer will not download updates automatically.</p>
+
+    <p>If you would like to check for updates, you will need to follow these
+    steps:</p>
+    <steps>
+      <item>
+          <p>Click on the <gui>Start Menu</gui>, which is on the bottom left-
+          hand corner of your screen.</p>
+      </item>
+      <item>
+          <p>Click on <gui>Settings</gui> and then click on the
+          <gui>Details</gui> button.</p>
+      </item>
+      <item>
+          <p>Click on the <gui>Search for Updates</gui> button. If there are
+          updates, you can choose to download and install them.</p>
+      </item>
+    </steps>
+
+    <note>
+        <p>Make sure you don't go over your data limit! You may want to wait
+        until you can get a Wi-Fi or wired internet connection. You can also
+        contact our customer support so they can help you find other
+        options.</p>
+    </note>
+ </section>
+</page>
