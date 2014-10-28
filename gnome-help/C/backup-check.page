@@ -31,9 +31,4 @@
  and folders you transferred are actually there in the backup, you can have
  extra confidence that the process was successful.</p>
 
-  <note style="tip"><p>If you find that you do regular backups of large amounts
- of data, you may find it easier to use a dedicated backup program, such as
- <app>Déjà Dup</app>. Such a program is more powerful and more reliable than
- just copying and pasting files.</p></note>
-
 </page>
