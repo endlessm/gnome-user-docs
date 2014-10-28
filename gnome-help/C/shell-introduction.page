@@ -83,8 +83,9 @@
   </if:when>
 </if:choose>
 
-  <p>Click the System Menu on the bottom left corner to manage your system
-  settings and your computer.</p>
+
+  <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of your
+  screen to manage your system settings and your computer.</p>
 
 <!-- Apparently not anymore. TODO: figure out how to update status.
   <p>You can quickly set your availability directly from the menu. This will set

@@ -53,7 +53,7 @@
   your applications will continue running, and everything will be where you
   left it when you log back in.</p>
   <p>To log out (i.e. in order to switch to a different user), click
-  the System Menu on the bottom left corner of your screen, click
+  the User Menu on the bottom left corner of your screen, click
   <gui>Exit</gui> and then choose <gui>Log Out</gui>.</p>
 
 </section>
@@ -66,7 +66,7 @@
   applications. When you return, you'll need to enter your password to log back
   in and you will find your computer running all the same things it was when you
   left.</p>
-  <p>To lock your screen, click click on the System Menu at the very bottom
+  <p>To lock your screen, click click on the User Menu at the very bottom
   left-hand side of your screen and press the <gui>Lock</gui> button at the
   bottom right of the menu.</p>
 
@@ -85,7 +85,7 @@ certain amount of time, unless you disable that feature from the
   <title>Power off or restart</title>
 
   <p>If you want to power off your computer entirely, or do a full restart,
-  click the System Menu at the very bottom left-hand side of your screen and
+  click the User Menu at the very bottom left-hand side of your screen and
   press the <gui>Exit</gui> button at the bottom left of the menu. A dialog will
   open offering you the options to, among other options, <gui>Restart</gui> or
   <gui>Power Off</gui>.</p>

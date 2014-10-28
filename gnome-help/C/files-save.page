@@ -67,7 +67,7 @@
     <p>When you save your files, it is like saving them into a particular
     language that only your computer knows how to read. So, each file extension
     name tells your computer in which "language" you are saving your files. Some
-    programs only know how to work with certain files.</p>
+    apps only know how to work with certain files.</p>
 
     <note>
       <p>Another common type of file is called PDF (.pdf). These documents
@@ -79,14 +79,14 @@
   <section>
     <title>How do I save a file?</title>
 
-    <p>Each program has its own way of saving a file, but you can usually save
+    <p>Each app has its own way of saving a file, but you can usually save
     files one of two ways:</p>
 
     <steps>
       <title>Saving with the file menu:</title>
 
       <item>
-        <p>Click once on your program's <gui>File</gui> menu (usually in the top
+        <p>Click once on your app's <gui>File</gui> menu (usually in the top
         left hand corner) and click once on the <gui>Save</gui> option within
         it.</p>
       </item>
@@ -115,9 +115,9 @@
       <title>Saving with keyboard shortcuts:</title>
 
       <item>
-        <p>Most programs allow you to press <input>Ctrl</input>
+        <p>Most apps allow you to press <input>Ctrl</input>
         +<input>S</input> to save your files. This is a keyboard shortcut, and
-        may be different in different programs, but it usually works. </p>
+        may be different in different apps, but it usually works. </p>
       </item>
     </steps>
 

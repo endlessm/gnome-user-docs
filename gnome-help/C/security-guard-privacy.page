@@ -21,7 +21,7 @@
   <p><gui>The Lock Screen</gui></p>
 
   <p> Activating the lock screen when you step away from your computer allows
-  you to keep all of your open programs running so you can resume your work more
+  you to keep all of your open apps running so you can resume your work more
   quickly when you return, without worrying that others will be able to access
   your workspace while you're gone. The lock screen also provides the following
   useful information:</p>
@@ -45,7 +45,7 @@
 
   <note>
     <p>You can change the lock screen settings under the <gui>Privacy</gui>
-    section in the <gui>Settings</gui> folder that you can access from the Start
+    section in the <gui>Settings</gui> window that you can access from the User
     Menu on the very bottom left-hand side of your screen.</p>
   </note>
 </page>
