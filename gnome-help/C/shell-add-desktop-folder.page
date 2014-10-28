@@ -4,6 +4,8 @@
       id="shell-add-desktop-folder">
 
   <info>
+    <link type="guide" xref="shell-overview#customize"/>
+
     <credit type="author">
       <name>Nuritzi Sanchez</name>
     </credit>

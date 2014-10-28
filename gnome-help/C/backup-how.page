@@ -3,7 +3,8 @@
       id="backup-how">
 
   <info>
-    <link type="guide" xref="backup-why"/>
+    <link type="guide" xref="security-and-privacy#backup"/>
+
     <desc>Backup your valuable files and settings to protect against loss.</desc>
     <revision pkgversion="3.4.0" date="2012-02-19" status="review"/>
 

@@ -3,7 +3,8 @@
       id="backup-frequency">
 
   <info>
-    <link type="guide" xref="files#backup"/>
+    <link type="guide" xref="security-and-privacy#backup"/>
+
     <desc>Learn how often you should backup your important files to make sure
     that they're safe.</desc>
     <revision pkgversion="3.4.0" date="2012-02-19" status="review"/>

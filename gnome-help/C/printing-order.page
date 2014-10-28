@@ -3,7 +3,7 @@
       id="printing-order">
 
   <info>
-    <link type="guide" xref="printing#paper"/>
+    <link type="guide" xref="hardware#printers"/>
 
     <desc>Collate and reverse the print order.</desc>
 

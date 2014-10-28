@@ -2,7 +2,7 @@
       type="topic" style="task"
       id="sound-volume">
   <info>
-    <link type="guide" xref="media#sound"/>
+    <link type="guide" xref="hardware#sound"/>
 
     <credit type="author">
       <name>Phil Bull</name>

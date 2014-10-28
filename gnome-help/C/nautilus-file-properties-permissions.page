@@ -3,8 +3,7 @@
       id="nautilus-file-properties-permissions">
 
   <info>
-    <link type="guide" xref="files#faq"/>
-    <link type="seealso" xref="nautilus-file-properties-basic"/>
+    <link type="guide" xref="files"/>
 
     <desc>Control who can view and edit your files and folders.</desc>
 

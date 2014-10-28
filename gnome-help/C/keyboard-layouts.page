@@ -4,7 +4,7 @@
       id="keyboard-layouts">
 
   <info>
-    <link type="guide" xref="keyboard" group="i18n"/>
+    <link type="guide" xref="keyboard"/>
 
     <revision pkgversion="3.8" version="0.3" date="2013-04-30" status="review"/>
     <revision pkgversion="3.10" date="2013-10-28" status="review"/>

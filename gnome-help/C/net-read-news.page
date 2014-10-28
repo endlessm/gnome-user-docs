@@ -4,6 +4,8 @@
       id="net-read-news">
 
   <info>
+    <link type="guide" xref="net#browser"/>
+
     <credit type="author">
       <name>Nuritzi Sanchez</name>
     </credit>

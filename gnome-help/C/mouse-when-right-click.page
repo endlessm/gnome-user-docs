@@ -4,6 +4,8 @@
       id="mouse-when-right-click">
 
   <info>
+    <link type="guide" xref="mouse"/>
+
     <credit type="author">
       <name>Nuritzi Sanchez</name>
     </credit>

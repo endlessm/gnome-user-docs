@@ -4,6 +4,8 @@
       id="printing-supported">
 
   <info>
+    <link type="guide" xref="hardware#printers"/>
+
     <credit type="author">
       <name>Nuritzi Sanchez</name>
     </credit>

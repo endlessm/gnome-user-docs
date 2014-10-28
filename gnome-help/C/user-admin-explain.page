@@ -1,10 +1,10 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:its="http://www.w3.org/2005/11/its"
-      type="topic" style="tip"
+      type="guide" style="task 2column"
       id="user-admin-explain">
 
   <info>
-    <link type="guide" xref="user-accounts#privileges"/>
+    <link type="guide" xref="security-and-privacy#multiple-users"/>
 
     <revision pkgversion="3.8.0" date="2013-03-09" status="candidate"/>
     <revision pkgversion="3.10" date="2013-11-03" status="review"/>
@@ -24,6 +24,8 @@
   </info>
 
   <title>How do administrative privileges work?</title>
+
+  <links type="topic" style="2column"/>
 
   <p>As well as the files that <em>you</em> create, your computer has a number
   of files which are needed by the system for it to work properly. If these

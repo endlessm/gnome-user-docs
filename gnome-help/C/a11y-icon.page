@@ -4,7 +4,7 @@
       id="a11y-icon">
 
   <info>
-    <link type="guide" xref="a11y"/>
+    <link type="guide" xref="a11y#vision"/>
 
     <revision pkgversion="3.9.92" date="2013-09-18" status="candidate"/>
 

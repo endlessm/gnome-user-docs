@@ -4,6 +4,8 @@
       id="media-listen-music">
 
   <info>
+    <link type="guide" xref="files#media"/>
+
     <credit type="author">
       <name>Nuritzi Sanchez</name>
     </credit>

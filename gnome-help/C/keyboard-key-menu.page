@@ -4,9 +4,7 @@
       id="keyboard-key-menu">
 
   <info>
-    <link type="guide" xref="keyboard" group="a11y"/>
-    <link type="seealso" xref="shell-keyboard-shortcuts"/>
-    <link type="seealso" xref="a11y#mobility" group="keyboard"/>
+    <link type="guide" xref="a11y#see-also"/>
 
     <revision pkgversion="3.7.91" version="0.2" date="2013-03-16" status="new"/>
 

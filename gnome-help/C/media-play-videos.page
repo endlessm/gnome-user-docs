@@ -4,6 +4,8 @@
       id="media-play-videos">
 
   <info>
+    <link type="guide" xref="files#media"/>
+
     <credit type="author">
       <name>Nuritzi Sanchez</name>
     </credit>

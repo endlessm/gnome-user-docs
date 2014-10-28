@@ -5,7 +5,7 @@
       id="shell-notifications">
 
   <info>
-    <link type="guide" xref="shell-overview#desktop" />
+    <link type="guide" xref="shell-overview#customize"/>
 
     <revision pkgversion="3.8.0" version="0.3" date="2013-04-23" status="review"/>
     <revision pkgversion="3.10" date="2013-11-02" status="review"/>

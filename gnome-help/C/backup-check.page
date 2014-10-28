@@ -3,7 +3,8 @@
       id="backup-check">
 
   <info>
-    <link type="guide" xref="files#backup"/>
+    <link type="guide" xref="security-and-privacy#backup"/>
+
     <desc>Verify your backup was successful.</desc>
     <revision pkgversion="3.4.0" date="2012-02-19" status="review"/>
 

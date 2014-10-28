@@ -4,8 +4,7 @@
       id="a11y-braille">
 
   <info>
-    <link type="guide" xref="a11y#vision" group="blind"/>
-    <link type="seealso" xref="a11y-screen-reader"/>
+    <link type="guide" xref="a11y#vision"/>
 
     <revision pkgversion="3.9.92" date="2013-09-18" status="incomplete"/>
 

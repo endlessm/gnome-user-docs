@@ -5,9 +5,8 @@
   id="privacy-screen-lock">
 
   <info>
-    <link type="guide" xref="privacy"/>
-    <link type="seealso" xref="session-screenlocks"/>
-    <link type="seealso" xref="shell-exit#lock-screen"/>
+    <link type="guide" xref="shell-overview#lock"/>
+
     <revision pkgversion="3.8" date="2013-05-21" status="candidate"/>
 
     <desc>Prevent other people from using your desktop when you

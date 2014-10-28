@@ -3,7 +3,7 @@
       id="net-antivirus">
 
   <info>
-    <link type="guide" xref="net-security"/>
+    <link type="guide" xref="security-and-privacy#protect"/>
 
     <revision pkgversion="3.4.0" date="2012-02-20" status="final"/>
 

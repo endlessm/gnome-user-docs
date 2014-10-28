@@ -3,8 +3,7 @@
       type="topic" style="task" version="1.0 if/1.0"
       id="sharing-media">
   <info>
-    <link type="guide" xref="sharing"/>
-    <link type="guide" xref="settings-sharing"/>
+    <link type="guide" xref="files#media"/>
 
     <revision pkgversion="3.10" version="0.2" date="2013-11-02" status="review"/>
 

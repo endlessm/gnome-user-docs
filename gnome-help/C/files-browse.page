@@ -4,8 +4,7 @@
 
 
   <info>
-    <link type="guide" xref="files" group="#first"/>
-    <link type="seealso" xref="files-copy"/>
+    <link type="guide" xref="files"/>
     <desc>Manage and organize files with the file manager.</desc>
 
     <revision pkgversion="3.5.92" version="0.2" date="2012-09-16" status="review"/>

@@ -2,8 +2,7 @@
       type="topic" style="task"
       id="keyboard-cursor-blink">
   <info>
-    <link type="guide" xref="a11y#vision" group="lowvision"/>
-    <link type="guide" xref="keyboard"/>
+    <link type="guide" xref="a11y#low-vision"/>
 
     <revision pkgversion="3.8.0" version="0.3" date="2013-03-13" status="candidate"/>
     <revision pkgversion="3.9.92" date="2013-10-11" status="candidate"/>

@@ -4,6 +4,8 @@
       id="shell-windows-hide">
 
   <info>
+    <link type="guide" xref="shell-overview#windows"/>
+
     <credit type="author">
       <name>Nuritzi Sanchez</name>
     </credit>

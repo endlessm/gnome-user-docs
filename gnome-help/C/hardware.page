@@ -1,10 +1,7 @@
 <page xmlns="http://projectmallard.org/1.0/"
-      type="guide" style="task"
+      type="guide" style="task 2column"
       id="hardware">
   <info>
-
-    <link type="guide" xref="index" group="hardware"/>
-
     <credit type="author">
       <name>Shaun McCance</name>
       <email>shaunm@gnome.org</email>
@@ -12,19 +9,25 @@
 
     <title type="link" role="trail">Hardware</title>
 
-    <desc>
-      <link xref="mouse-sensitivity">Mouse sensitivity</link>,
-      <link xref="printing">printers</link>…
-    </desc>
+    <desc>Setup up your printers, display, mice and keyboards with Endless</desc>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
   </info>
 
-<title>Hardware &amp; drivers</title>
+  <title>Printers, Displays &amp; Accessories</title>
 
-<links type="topic" style="toronto"/>
+  <section id="displays" style="2column">
+   <title>Displays</title>
+  </section>
 
-<links type="topic" style="linklist" groups="more">
-  <title>More topics</title>
-</links>
+  <section id="sound" style="2column">
+   <title>Sound</title>
+  </section>
 
+  <section id="printers" style="2column">
+   <title>Printers</title>
+  </section>
+
+  <section id="keyboard-mouse" style="2column">
+   <title>Keyboard &amp; Mouse</title>
+  </section>
 </page>

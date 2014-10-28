@@ -4,8 +4,7 @@
       id="keyboard-osk">
 
   <info>
-    <link type="guide" xref="keyboard" group="a11y"/>
-    <link type="guide" xref="a11y#mobility" group="keyboard"/>
+    <link type="guide" xref="a11y#mobility"/>
 
     <revision pkgversion="3.8.0" version="0.3" date="2013-03-13" status="outdated"/>
     <revision pkgversion="3.10" date="2013-10-28" status="review"/>

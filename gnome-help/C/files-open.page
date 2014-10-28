@@ -3,7 +3,7 @@
       id="files-open">
 
   <info>
-    <link type="guide" xref="files" group="more"/>
+    <link type="guide" xref="files"/>
 
     <revision pkgversion="3.6.0" version="0.2" date="2012-09-30" status="review"/>
 

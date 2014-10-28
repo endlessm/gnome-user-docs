@@ -4,6 +4,8 @@
       id="shell-delete-app-desktop">
 
   <info>
+    <link type="guide" xref="shell-overview#apps"/>
+
     <credit type="author">
       <name>Nuritzi Sanchez</name>
     </credit>

@@ -4,6 +4,8 @@
       id="net-facebook-social-bar">
 
   <info>
+    <link type="guide" xref="net#social"/>
+
     <credit type="author">
       <name>Nuritzi Sanchez</name>
     </credit>

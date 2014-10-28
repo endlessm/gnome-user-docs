@@ -4,6 +4,8 @@
       id="backup-why">
 
   <info>
+    <link type="guide" xref="security-and-privacy#backup"/>
+
     <revision pkgversion="3.6.0" version="0.2" date="2012-10-14" status="review"/>
     <credit type="author">
       <name>Nuritzi Sanchez</name>

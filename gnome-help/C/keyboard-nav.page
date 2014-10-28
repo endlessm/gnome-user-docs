@@ -2,9 +2,8 @@
       type="topic" style="tip"
       id="keyboard-nav">
   <info>
-    <link type="guide" xref="keyboard" group="a11y"/>
-    <link type="guide" xref="a11y#mobility" group="keyboard"/>
-    <link type="seealso" xref="shell-keyboard-shortcuts"/>
+    <link type="guide" xref="hardware#keyboard"/>
+    <link type="guide" xref="a11y#mobility"/>
 
     <revision pkgversion="3.7.5" version="0.2" date="2013-02-23" status="review"/>
 

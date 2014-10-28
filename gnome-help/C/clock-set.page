@@ -4,7 +4,7 @@
       id="clock-set">
 
   <info>
-    <link type="guide" xref="clock"/>
+    <link type="guide" xref="shell-overview#time"/>
 
     <revision pkgversion="3.8.0" date="2013-03-09" status="candidate"/>
     <revision pkgversion="3.10" date="2013-11-01" status="review"/>

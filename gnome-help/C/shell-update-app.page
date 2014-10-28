@@ -4,6 +4,8 @@
       id="shell-update-app">
 
   <info>
+    <link type="guide" xref="shell-overview#apps"/>
+
     <credit type="author">
       <name>Nuritzi Sanchez</name>
     </credit>

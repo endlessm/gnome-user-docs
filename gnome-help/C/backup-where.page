@@ -3,7 +3,8 @@
       id="backup-where">
 
   <info>
-    <link type="guide" xref="backup-why"/>
+    <link type="guide" xref="security-and-privacy#backup"/>
+
     <desc>Advice on where to store your backups and what type of storage device
     to use.</desc>
     <title type="sort">c</title>
