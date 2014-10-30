@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-10-09 20:37-0700\n"
+"POT-Creation-Date: 2014-10-30 12:18-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1091,6 +1091,36 @@ msgstr ""
 msgid "Hardware &amp; drivers"
 msgstr ""
 
+#. (itstool) path: media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/index.page:30
+msgctxt "_"
+msgid "external ref='figures/index-video-thumbnail-01.jpg' md5='85d08a6ad3a67696958656330deb92ac'"
+msgstr ""
+
+#. (itstool) path: media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/index.page:31
+msgctxt "_"
+msgid "external ref='figures/index-video-thumbnail-02.jpg' md5='7523618f51c0199521a2e1a264a50276'"
+msgstr ""
+
+#. (itstool) path: media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/index.page:32
+msgctxt "_"
+msgid "external ref='figures/index-video-thumbnail-03.jpg' md5='cbc6b376116c631b6300122d24d208be'"
+msgstr ""
+
 #. (itstool) path: info/desc
 #: C/index.page:7
 msgid "A guide for Endless desktop users"
@@ -1125,6 +1155,31 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/index.page:27
+msgid "Videos"
+msgstr ""
+
+#. (itstool) path: td/p
+#: C/index.page:33
+msgid "<link xref=\"endless-videos\">More…</link>"
+msgstr ""
+
+#. (itstool) path: td/p
+#: C/index.page:36
+msgid "<link xref=\"endless-01-desktop\">Introduction to the desktop</link>"
+msgstr ""
+
+#. (itstool) path: td/p
+#: C/index.page:37
+msgid "<link xref=\"endless-02-folders\">Adding folders to the desktop</link>"
+msgstr ""
+
+#. (itstool) path: td/p
+#: C/index.page:38
+msgid "<link xref=\"endless-03-programs\">Installing programs</link>"
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/index.page:44
 msgid "<link href=\"endlessm-app://com.endlessm.Tutorial\">Tutorial</link>"
 msgstr ""
 

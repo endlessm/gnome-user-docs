@@ -35,6 +35,9 @@ HELP_MEDIA = \
 	figures/emblem-system-symbolic.svg \
 	figures/gnome.png \
 	figures/go-down.png \
+	figures/index-video-thumbnail-01.jpg \
+	figures/index-video-thumbnail-02.jpg \
+	figures/index-video-thumbnail-03.jpg \
 	figures/input-keyboard-symbolic.png \
 	figures/input-methods-switcher.png \
 	figures/keyboard-key-menu.svg \

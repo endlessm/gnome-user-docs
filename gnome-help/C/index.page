@@ -23,6 +23,23 @@
        prefs hardware
        a11y tips more-help"/>
 
+<section id="home-video-links">
+  <title>Videos</title>
+  <table>
+    <tr>
+      <td><p><media xref="endless-01-desktop" type="image" src="figures/index-video-thumbnail-01.jpg"/></p></td>
+      <td><p><media xref="endless-02-folders" type="image" src="figures/index-video-thumbnail-02.jpg"/></p></td>
+      <td><p><media xref="endless-03-programs" type="image" src="figures/index-video-thumbnail-03.jpg"/></p></td>
+      <td><p><link xref="endless-videos">More…</link></p></td>
+    </tr>
+    <tr>
+      <td><p><link xref="endless-01-desktop">Introduction to the desktop</link></p></td>
+      <td><p><link xref="endless-02-folders">Adding folders to the desktop</link></p></td>
+      <td><p><link xref="endless-03-programs">Installing programs</link></p></td>
+    </tr>
+  </table>
+</section>
+
 <section id="endless-tutorial">
   <title><link href = "endlessm-app://com.endlessm.Tutorial">Tutorial</link></title>
 </section>
