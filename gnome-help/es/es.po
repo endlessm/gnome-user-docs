@@ -17,8 +17,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2014-10-30 12:18-0700\n"
-"PO-Revision-Date: 2014-10-30 21:04+0000\n"
-"Last-Translator: goizueta <goizueta@endlessm.com>\n"
+"PO-Revision-Date: 2014-11-01 00:48+0000\n"
+"Last-Translator: c.sanchez <cassandra@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/gnome-user-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -94,17 +94,17 @@ msgid ""
 "On the other hand, if you are backing up the data on your home computer then"
 " hourly backups would likely be unnecessary. You may find it helpful to "
 "consider the following points when planning your backup schedule:"
-msgstr "Por otro lado, si está haciendo la copia de respaldo de los datos en su equipo personal entonces los respaldos cada hora son innecesarios. Puede que considere de ayuda los siguientes puntos al planificar un respaldo:"
+msgstr "Por otro lado, si estás haciendo la copia de seguridad de los datos en tu computadora personal entonces las copias cada hora son innecesarias. Puede que consideres de ayuda los siguientes puntos al planificar tus copias de seguridad:"
 
 #. (itstool) path: item/p
 #: C/backup-frequency.page:33
 msgid "The amount of time you spend on the computer."
-msgstr "La cantidad de tiempo que pasa con su equipo."
+msgstr "La cantidad de tiempo que pasas en tu computadora."
 
 #. (itstool) path: item/p
 #: C/backup-frequency.page:34
 msgid "How often and by how much the data on the computer changes."
-msgstr "Con qué frecuencia y en qué medida cambian los datos de su equipo."
+msgstr "Con qué frecuencia y en qué medida cambias los datos de tu computadora."
 
 #. (itstool) path: page/p
 #: C/backup-frequency.page:37
@@ -113,7 +113,7 @@ msgid ""
 "changes, like music, e-mails and family photos, then weekly or even monthly "
 "backups may suffice. However, if you happen to be in the middle of a tax "
 "audit, more frequent backups may be necessary."
-msgstr "Si los datos que quiere respaldar son de poca importancia, o están sujetos a pocos cambios, como música, correos electrónicos y fotos de familia, hacer copias semanales o incluso mensuales puede ser suficiente. No obstante, si está en mitad de una auditoría fiscal, puede que sea necesario hacer copias más frecuentes."
+msgstr "Si los datos que quieres guardar son de poca importancia, o están sujetos a pocos cambios, como música, correos electrónicos y fotos de familia, hacer copias semanales o incluso mensuales puede ser suficiente. No obstante, si estás en mitad de una auditoría fiscal, puede que sea necesario hacer copias más frecuentes."
 
 #. (itstool) path: page/p
 #: C/backup-frequency.page:42
@@ -122,14 +122,14 @@ msgid ""
 "than the amount of time you are willing to spend re-doing any lost work. For"
 " example, if spending a week re-writing lost documents is too long for you, "
 "you should back up at least once per week."
-msgstr "Como regla general, la cantidad de tiempo entre copias de respaldo no debe ser mayor que la cantidad de tiempo que podría estar parado rehaciendo cualquier trabajo perdido. Por ejemplo, si emplear una semana escribiendo documentos perdidos es demasiado, debería hacer una copia de respaldo al menos una vez por semana."
+msgstr "Como regla general, la cantidad de tiempo entre copias de seguridad no debe ser mayor que la cantidad de tiempo que podrías tardar rehaciendo cualquier trabajo perdido. Por ejemplo, si tardar una semana escribiendo documentos perdidos es demasiado, deberías hacer una copia de seguridad al menos una vez por semana."
 
 #. (itstool) path: info/desc
 #: C/backup-how.page:7
 msgid ""
 "Use Déjà Dup (or some other backup application) to make copies of your "
 "valuable files and settings to protect against loss."
-msgstr "Use Déjà Dup (u otra aplicación de copias de respaldo) para hacer copias de sus archivos valiosos y de su configuración para evitar pérdidas."
+msgstr "Usa Déjà Dup (u otra aplicación de copias de seguridad) para hacer copias de tus archivos valiosos y de tus configuraciones para evitar pérdidas."
 
 #. (itstool) path: credit/name
 #: C/backup-how.page:20 C/backup-what.page:19 C/display-dual-monitors.page:17
@@ -150,7 +150,7 @@ msgstr "Michael Hill"
 #. (itstool) path: page/title
 #: C/backup-how.page:26
 msgid "How to back up"
-msgstr "Cómo hacer copias de respaldo"
+msgstr "Cómo hacer copias de seguridad"
 
 #. (itstool) path: page/p
 #: C/backup-how.page:28
@@ -159,7 +159,7 @@ msgid ""
 " as an external hard drive, another computer on the network, or a USB drive."
 " Your personal files and settings are usually in your <gui>Home</gui> "
 "folder, so you can copy them from there."
-msgstr "Para <link xref=\"files-copy\">copiar tus archivos</link> a un lugar seguro, como un disco duro externo, a otra computadora en la misma red, o a un USB. Tus archivos personales y configuraciones usualmente están en la carpeta llamada <gui>Mis Documentos</gui> y puedes copiarlos desde allí."
+msgstr "Para <link xref=\"files-copy\">copiar tus archivos</link> a un lugar seguro, como un disco duro externo, a otra computadora en la misma red o a un USB. Tus archivos personales y configuraciones usualmente están en la carpeta llamada <gui>Mis Documentos</gui> y puedes copiarlos desde allí."
 
 #. (itstool) path: page/p
 #: C/backup-how.page:33
@@ -167,14 +167,14 @@ msgid ""
 "The amount of data you can back up is limited by the size of the storage "
 "device. If you have the room on your backup device, it is best to back up "
 "your entire <gui>Home</gui> folder with the following exceptions:"
-msgstr "La cantidad de datos de los que puedes hacer una copia de seguridad está limitada por la capacidad del hardware de almacenamiento que usarás. Si cuentas con suficiente espacio, lo mejor es hacer una copia completa de tu carpeta <gui>Mis Documentos</gui>, con las siguientes excepciones:"
+msgstr "La cantidad de datos de los que puedes hacer copias de seguridad está limitada por la capacidad del hardware de almacenamiento que uses. Si cuentas con suficiente espacio, lo mejor es hacer una copia completa de tu carpeta <gui>Mis Documentos</gui>, con las siguientes excepciones:"
 
 #. (itstool) path: item/p
 #: C/backup-how.page:38
 msgid ""
 "Files that are already backed up somewhere else, such as to a CD, DVD, or "
 "other removable media."
-msgstr "Archivos que están respaldados en algún sitio, tal como un CD o un DVD, u otro medio extraíble."
+msgstr "Archivos que están guardados en algún sitio, tal como un CD, un DVD u otro medio extraíble."
 
 #. (itstool) path: item/p
 #: C/backup-how.page:40
@@ -183,31 +183,31 @@ msgid ""
 "you don't have to back up the files that get produced when you compile your "
 "programs. Instead, just make sure that you back up the original source "
 "files."
-msgstr "Los archivos que puede volver a crear fácilmente. Por ejemplo, si es programador, no tiene que respaldar todos los archivos que ha generado al compilar sus programas. En su lugar, simplemente asegúrese de que respalda los archivos fuente originales."
+msgstr "Los archivos que puedes volver a crear fácilmente. Por ejemplo, si eres programador, no tienes que hacer copias de seguridad de todos los archivos que has generado al compilar tus programas. En su lugar, simplemente asegúrate de hacer copias de seguridad de los archivos fuentes originales."
 
 #. (itstool) path: item/p
 #: C/backup-how.page:44
 msgid ""
 "Any files in the Trash folder. Your Trash folder can be found in "
 "<file>~/.local/share/Trash</file>."
-msgstr "Cualquier archivo en la carpeta Papelera. Puede encontrar su carpeta de Papelera en <cmd>~/.local/share/Trash</cmd>."
+msgstr "Cualquier archivo en la carpeta Papelera. Puedes encontrar tu carpeta de Papelera en <cmd>~/.local/share/Trash</cmd>."
 
 #. (itstool) path: info/desc
 #: C/backup-restore.page:7
 msgid "Retrieve your files from a backup."
-msgstr "Recuperar sus archivos desde una copia de respaldo."
+msgstr "Recuperar tus archivos desde una copia de seguridad."
 
 #. (itstool) path: page/title
 #: C/backup-restore.page:22
 msgid "Restore a backup"
-msgstr "Restaurar una copia de respaldo"
+msgstr "Restaurar una copia de seguridad"
 
 #. (itstool) path: page/p
 #: C/backup-restore.page:24
 msgid ""
 "If you lost or deleted some of your files, but you have a backup of them, "
 "you can restore them from the backup:"
-msgstr "Si ha perdido o eliminado algunos de sus archivos pero tiene un respaldo de los mismos, puede restaurarlos desde el respaldo:"
+msgstr "Si has perdido o eliminado algunos de tus archivos pero tienes una copia de seguridad de los mismos, puedes restaurarlos desde la copia:"
 
 #. (itstool) path: item/p
 #: C/backup-restore.page:28
@@ -215,7 +215,7 @@ msgid ""
 "If you want to restore your backup from a device such as external hard "
 "drive, USB drive or another computer on the network, you can <link xref"
 "=\"files-copy\">copy them</link> back to your computer."
-msgstr "Si quiere restaurar su respaldo desde un dispositivo tal como un disco duro externo, una unidad USB u otro equipo de la red, puede <link xref=\"files-copy\">copiarlos</link> de nuevo en su equipo."
+msgstr "Si quieres restaurar tu copia de seguridad desde un dispositivo tal como un disco duro externo, una unidad USB u otro equipo de la red, puedes <link xref=\"files-copy\">copiarlos</link> de nuevo en tu computadora."
 
 #. (itstool) path: item/p
 #: C/backup-restore.page:32
@@ -224,17 +224,17 @@ msgid ""
 "Dup</app>, it is recommended that you use the same application to restore "
 "your backup. Review the application help for your backup program: it will "
 "provide specific instructions on how to restore your files."
-msgstr "Si ha creado su respaldo usando una aplicación de respaldos tal como <app>Déjà Dup</app>, se recomienda que use la misma aplicación para restaurar su respaldo. Revise la ayuda de la aplicación de su programa de respaldos: le proporcionará instrucciones específicas acerca de cómo restaurar sus archivos."
+msgstr "Si has creado tu copia de seguridad usando una aplicación tal como <app>Déjà Dup</app>, se recomienda que uses la misma aplicación para restaurar tu copia de seguridad. Revisa la ayuda de la aplicación de tu programa de copias de seguridad: te dará instrucciones específicas acerca de cómo restaurar tus archivos."
 
 #. (itstool) path: info/desc
 #: C/backup-what.page:7
 msgid "Back up anything that you can't bear to lose if something goes wrong."
-msgstr "Respalde cualquier cosa de la que no pueda prescindir si algo va mal."
+msgstr "Haz copias de seguridad de cualquier cosa de la que no puedas prescindir si algo va mal."
 
 #. (itstool) path: page/title
 #: C/backup-what.page:26
 msgid "What to back up"
-msgstr "De qué hacer una copia de respaldo"
+msgstr "De qué hacer una copia de seguridad"
 
 #. (itstool) path: page/p
 #: C/backup-what.page:28
@@ -242,12 +242,12 @@ msgid ""
 "Your priority should be to back up your most important files as well as "
 "those that are difficult to recreate. For example, ranked from most "
 "important to least important:"
-msgstr "La prioridad debería ser respaldar a tus archivos más importantes, así como los que resultarían más difíciles de recrear. Aquí hay unos ejemplos, ordenados de mayor a menor importancia:"
+msgstr "La prioridad debería ser hacer copias de seguridad a tus archivos más importantes, así como los que resultarían ser más difíciles de recrear. Aquí hay unos ejemplos, ordenados de mayor a menor importancia:"
 
 #. (itstool) path: item/title
 #: C/backup-what.page:34
 msgid "Your personal files"
-msgstr "Sus archivos personales"
+msgstr "Tus archivos personales"
 
 #. (itstool) path: item/p
 #: C/backup-what.page:35
@@ -255,12 +255,12 @@ msgid ""
 "This may include documents, spreadsheets, email, calendar appointments, "
 "financial data, family photos, or any other personal files that you would "
 "consider irreplaceable."
-msgstr "Esto puede incluir documentos, hojas de cálculo, correo-e, citas en el calendario, datos financieros, fotos familiares o cualquier cosa personal que considere irreemplazable."
+msgstr "Esto puede incluir documentos, hojas de cálculo, correo electrónico, citas en el calendario, datos financieros, fotos familiares o cualquier cosa personal que consideres irreemplazable."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:41
 msgid "Your personal settings"
-msgstr "Su configuración personal"
+msgstr "Tu configuración personal"
 
 #. (itstool) path: item/p
 #: C/backup-what.page:42
@@ -270,7 +270,7 @@ msgid ""
 "application preferences, such as settings for <app>LibreOffice</app>, your "
 "music player, and your email program. These are replaceable, but may take a "
 "while to recreate."
-msgstr "Esto incluye los cambios que haya hecho a los colores, fondos, resolución de la pantalla y configuración del ratón en su escritorio. También incluye las preferencias de las aplicaciones, como la configuración de <app>LibreOffice</app>, su reproductor de música y su programa de correo electrónico. Son reemplazables, pero puede tardar un tiempo en volverlos a crear."
+msgstr "Esto incluye los cambios que hayas hecho a los colores, fondos, resolución de la pantalla y configuración del ratón en tu escritorio. También incluye las preferencias de las aplicaciones, como la configuración de <app>LibreOffice</app>, tu reproductor de música y tu programa de correo electrónico. Son reemplazables, pero puede tardar un tiempo en volverlos a crear."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:50
@@ -284,7 +284,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr "La mayoría de la gente nunca cambia la configuración que se crea durante la instalación. Si se personaliza la configuración del sistema, o si usa su equipo como un servidor, entonces es posible que quiera hacer una copia de respaldo de esta configuración."
+msgstr "La mayoría de la gente nunca cambia la configuración que se crea durante la instalación. Si has personalizado la configuración del sistema, o si usas tu computadora como un servidor, entonces es posible que quieras hacer una copia de seguridad de esta configuración."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:58
@@ -296,7 +296,7 @@ msgstr "Software instalado"
 msgid ""
 "The software you use can normally be restored quite quickly after a serious "
 "computer problem by reinstalling it."
-msgstr "El software que usa se puede restaurar normalmente de manera rápida después de un problema serio en el equipo, reinstalándolo."
+msgstr "El software que usas se puede restaurar normalmente de manera rápida después de un problema serio en la computadora, reinstalándolo."
 
 #. (itstool) path: page/p
 #: C/backup-what.page:64
@@ -305,7 +305,7 @@ msgid ""
 "that require a great time investment to replace without a backup. If things "
 "are easy to replace, on the other hand, you may not want to use up disk "
 "space by having backups of them."
-msgstr "En general, querrá respaldar los archivos que sean irreemplazables así como los que necesiten de una gran inversión para sustituirlos si no se tuviera copia de respaldo. Por otra parte, si todo resulta fácil de sustituir, puede que no desee usar espacio de disco respaldándolo."
+msgstr "En general, querrás hacer copias de seguridad de los archivos que sean irreemplazables y de los que necesiten una gran inversión para sustituirlos si no hubiera copia de seguridad. Por otra parte, si todo resulta fácil de sustituir, puede que no desees usar espacio de disco con sus copias de seguridad."
 
 #. (itstool) path: info/desc
 #: C/backup-why.page:7
@@ -316,12 +316,12 @@ msgstr "Por qué, qué, dónde y cómo hacer copias de seguridad."
 #: C/backup-why.page:8
 msgctxt "link:trail"
 msgid "Backups"
-msgstr "Copias de respaldo"
+msgstr "Copias de seguridad"
 
 #. (itstool) path: page/title
 #: C/backup-why.page:19
 msgid "Back up your important files"
-msgstr "Hacer copias de respaldo de sus archivos importantes"
+msgstr "Hacer copias de seguridad de tus archivos importantes"
 
 #. (itstool) path: page/p
 #: C/backup-why.page:21
@@ -339,7 +339,7 @@ msgstr "<em>Respaldar</em> sus archivos significa, sencillamente, hacer una copi
 msgid ""
 "The best way to back up your files is to do so regularly, keeping the copies"
 " off-site and (possibly) encrypted."
-msgstr "La mejor manera de respaldar sus archivos es hacerlo regularmente y mantener las copias fuera del sitio y cifradas (si es posible)."
+msgstr "La mejor manera de hacer copias de seguridad de tus archivos es hacerlo regularmente y mantener las copias fuera del sitio y (si es posible) cifradas."
 
 #. (itstool) path: credit/name
 #: C/display-dual-monitors.page:21 C/keyboard-key-super.page:17
@@ -361,7 +361,7 @@ msgstr "Configurar un monitor adicional."
 #. (itstool) path: page/title
 #: C/display-dual-monitors.page:30
 msgid "Connect another monitor to your computer"
-msgstr "Conectar otra pantalla al equipo"
+msgstr "Conectar otra pantalla a la computadora"
 
 #. (itstool) path: section/title
 #: C/display-dual-monitors.page:75
@@ -374,7 +374,7 @@ msgid ""
 "To set up an additional monitor, connect the monitor to your computer. If "
 "your system does not recognize it immediately, or you would like to adjust "
 "the settings:"
-msgstr "Para configurar una pantalla adicional, conecte la pantalla al equipo. Si su sistema no la reconoce inmediatamente, o si quiere ajustar su configuración:"
+msgstr "Para configurar una pantalla adicional, conecta la pantalla a la computadora. Si tu sistema no la reconoce inmediatamente, o si quieres ajustar las configuraciones:"
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:82 C/keyboard-key-super.page:49
@@ -394,7 +394,7 @@ msgstr "Haz clic en el Menú del sistema, que se encuentra en la esquina inferio
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:86
 msgid "Click on <gui>Displays</gui> to open the panel."
-msgstr "Pulse en <gui>Pantallas</gui> para abrir el panel."
+msgstr "Haz clic en <gui>Pantallas</gui> para abrir el panel."
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:94
@@ -403,21 +403,21 @@ msgid ""
 " main monitor. To change which monitor is treated as \"main\", click on the "
 "top bar and drag it over to the monitor which you want to set as the "
 "\"main\" monitor."
-msgstr "La pantalla con la <link xref=\"shell-introduction\">barra superior</link> es la pantalla principal. Para cambiar qué pantalla es la «principal», pulse en la barra superior y arrástrela hasta la pantalla que quiere que sea la pantalla «principal»."
+msgstr "La pantalla con la <link xref=\"shell-introduction\">barra superior</link> es la pantalla principal. Para cambiar cual pantalla es la «principal», haz clic en la barra superior y arrástrala hasta la pantalla que quieres que sea la pantalla «principal»."
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:110
 msgid ""
 "To rotate the orientation of the monitor, click on it and use the buttons "
 "with the arrows to rotate it."
-msgstr "Para rotar la orientación de la pantalla, pulse sobre ella y use los botones de flechas para rotarla."
+msgstr "Para rotar la orientación de la pantalla, haz clic en ella y usa los botones de flechas para rotarla."
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:114
 msgid ""
 "When you are happy with your settings, click <gui>Apply</gui> and then click"
 " <gui>Keep Changes</gui>."
-msgstr "Cuando esté satisfecho con la configuración, pulse <gui>Aplicar</gui> y luego pulse <gui>Mantener cambios</gui>."
+msgstr "Cuando estés satisfecho con la configuración, haz clic en <gui>Aplicar</gui> y luego en <gui>Mantener cambios</gui>."
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -445,7 +445,7 @@ msgstr "2012"
 #. (itstool) path: info/desc
 #: C/documents-search.page:18
 msgid "Find your documents by title or author."
-msgstr "Buscar sus documentos por título o autor."
+msgstr "Buscar tus documentos por título o por autor."
 
 #. (itstool) path: page/title
 #: C/documents-search.page:21
@@ -462,14 +462,14 @@ msgstr "Para iniciar una búsqueda en <app>Documentos</app>:"
 msgid ""
 "Press <keyseq><key>Ctrl</key><key>F</key></keyseq> to open the search bar at"
 " the top of the window."
-msgstr "Pulse <keyseq><key>Ctrl</key><key>F</key></keyseq> para abrir la barra de búsqueda en la parte superior de la ventana."
+msgstr "Haz clic en <keyseq><key>Ctrl</key><key>F</key></keyseq> para abrir la barra de búsqueda en la parte superior de la ventana."
 
 #. (itstool) path: item/p
 #: C/documents-search.page:41
 msgid ""
 "Start typing keywords, and searching begins instantly. You will see a list "
 "of documents whose title or author matches the keywords."
-msgstr "Empiece a escribir las palabras clave y la búsqueda empezará al instante. Verá una lista de documentos cuyo título o autor coincide con las palabras clave."
+msgstr "Empieza a escribir las palabras claves y la búsqueda empezará al instante. Verás una lista de documentos cuyo título o autor coincide con las palabras claves."
 
 #. (itstool) path: note/p
 #: C/documents-search.page:46
@@ -477,12 +477,12 @@ msgid ""
 "You can restrict or filter the search results by clicking the <media "
 "type=\"image\" src=\"figures/go-down.png\">down</media> button and selecting"
 " various filters."
-msgstr "Puedes restringir o filtrar a los resultados de búsqueda pulsando el botón <media type=\"image\" src=\"figures/go-down.png\">abajo</media> y seleccionando entre varios filtros."
+msgstr "Puedes restringir o filtrar los resultados de búsqueda haciendo clic el botón <media type=\"image\" src=\"figures/go-down.png\">abajo</media> y seleccionando entre varios filtros."
 
 #. (itstool) path: info/desc
 #: C/files-browse.page:9
 msgid "Manage and organize files with the file manager."
-msgstr "Gestione y organice archivos con el gestor de archivos."
+msgstr "Gestiona y organiza archivos con el explorador de archivos."
 
 #. (itstool) path: credit/name
 #: C/files-browse.page:18 C/files-delete.page:17 C/files-preview.page:13
@@ -521,7 +521,7 @@ msgid ""
 "Use the <app>Documents</app> file manager to browse and organize the files "
 "on your computer. You can also use it to manage files on storage devices "
 "(like external hard disks), on file servers, and on network shares."
-msgstr "Utiliza <app>Mis Documentos</app> para buscar por y organizar a los archivos en tu computadora. También puedes utilizarlo para administrar archivos en dispositivos de almacenamiento (como discos duros externos), en servidores de archivos, y en redes compartidas."
+msgstr "Utiliza <app>Mis Documentos</app> para buscar por y organizar a los archivos en tu computadora. También puedes utilizarlo para administrar archivos en dispositivos de almacenamiento (como discos duros externos), en servidores de archivos y en redes compartidas."
 
 #. (itstool) path: page/p
 #: C/files-browse.page:46
@@ -534,7 +534,7 @@ msgstr "Para iniciar el explorador de archivos, haz clic en <app>Mis Documentos<
 #. (itstool) path: section/title
 #: C/files-browse.page:51
 msgid "Exploring the contents of folders"
-msgstr "Explorar el contenido de carpetas"
+msgstr "Explorando el contenido de carpetas"
 
 #. (itstool) path: section/p
 #: C/files-browse.page:53
@@ -542,7 +542,7 @@ msgid ""
 "In the file manager, double-click any folder to view its contents, and "
 "double-click any file to open it with the default application for that file."
 " You can also right-click a folder to open it in a new tab or new window."
-msgstr "En el gestor de archivos, pulse dos veces sobre una carpeta para ver su contenido, o sobre un archivo para abrirlo con la aplicación predeterminada para ese archivo. También puede pulsar con el botón derecho sobre una carpeta para abrirla en una pestaña o una ventana nueva."
+msgstr "En el explorador de archivos, haz doble clic sobre una carpeta para ver su contenido, o sobre un archivo para abrirlo con la aplicación predeterminada para ese archivo. También puedes hacer doble clic con el botón derecho sobre una carpeta para abrirla en una pestaña o en una ventana nueva."
 
 #. (itstool) path: section/p
 #: C/files-browse.page:58
@@ -550,7 +550,7 @@ msgid ""
 "When looking through the files in a folder, you can quickly <link xref"
 "=\"files-preview\">preview each file</link> by pressing the space bar to be "
 "sure you have the right file before opening it, copying it, or deleting it."
-msgstr "Al examinar los archivos en una carpeta puede <link xref=\"files-preview\">previsualizar rápidamente cada archivo</link> rápidamente pulsando la barra espaciadora para asegurarse de que tiene el archivo correcto antes de abrirlo, copiarlo o eliminarlo."
+msgstr "Al examinar los archivos en una carpeta puedes rápidamente <link xref=\"files-preview\">previsualizar rápidamente cada archivo</link> pulsando la barra espaciadora para asegurarte de que tienes el archivo correcto antes de abrirlo, copiarlo o eliminarlo."
 
 #. (itstool) path: section/p
 #: C/files-browse.page:63
@@ -560,7 +560,7 @@ msgid ""
 "Click a parent folder in the path bar to go to that folder. Right-click any "
 "folder in the path bar to open it in a new tab or window, copy or move it, "
 "or access its properties."
-msgstr "La <em>barra de rutas</em> situada encima de la lista de archivos y carpetas muestra qué carpeta está visualizando, incluyendo sus carpetas padre hasta su carpeta personal. Pulse en una carpeta padre de la barra de rutas para moverse a esa carpeta. Pulse con el botón derecho sobre cualquier carpeta de la barra de rutas para abrirla en una pestaña o ventana nueva, copiarla, moverla o acceder a sus propiedades."
+msgstr "La <em>barra de rutas</em> situada arriba de la lista de archivos y carpetas muestra cuál carpeta estás visualizando, incluyendo las carpetas principales hasta tu carpeta personal. Haz clic en una carpeta principal de la barra de rutas para moverte a esa carpeta. Haz clic con el botón derecho sobre cualquier carpeta de la barra de rutas para abrirla en una pestaña o ventana nueva, copiarla, moverla o acceder a sus propiedades."
 
 #. (itstool) path: section/p
 #: C/files-browse.page:69
@@ -570,7 +570,7 @@ msgid ""
 "first file which matches your search will be highlighted. Press the down "
 "arrow key, or scroll with the mouse, to skip to the next file that matches "
 "your search."
-msgstr "Si quiere saltar rápidamente a un archivo en la carpeta que está viendo, empiece a escribir su nombre. Aparecerá una caja de búsqueda en la parte inferior de la ventana y se resaltará el primer archivo que coincida con su búsqueda. Pulse la flecha «abajo»  o desplácese con el ratón para saltar al siguiente archivo que coincida con su búsqueda."
+msgstr "Si quieres saltar rápidamente a un archivo en la carpeta que estás viendo, empieza a escribir su nombre. Aparecerá una caja de búsqueda en la parte inferior de la ventana y se resaltará el primer archivo que coincida con su búsqueda. Pulsa la flecha «abajo»  o desplázate con el ratón para saltar al siguiente archivo que coincida con tu búsqueda."
 
 #. (itstool) path: section/p
 #: C/files-browse.page:75
@@ -581,7 +581,7 @@ msgid ""
 "Sidebar</gui>. You can add bookmarks to folders that you use often and they "
 "will appear in the sidebar. Use the <gui>Bookmarks</gui> menu to do this, or"
 " simply drag a folder into the sidebar."
-msgstr "Puede acceder rápidamente a lugares comunes desde la <em>barra lateral</em>. Si no ve la barra lateral, pulse el botón <media type=\"image\" src=\"figures/go-down.png\">abajo</media> en la barra de herramientas y elija <gui>Mostrar barra lateral</gui>. Puede añadir marcadores a carpetas que use con frecuencia y aparecerán en la barra lateral. Use el menú <gui>Marcadores</gui> para hacer esto, o simplemente arrastre una carpeta a la barra lateral."
+msgstr "Puedes acceder rápidamente a lugares comunes desde la <em>barra lateral</em>. Si no ves la barra lateral, haz clic en el botón <media type=\"image\" src=\"figures/go-down.png\">abajo</media> en la barra de herramientas y elige <gui>Mostrar barra lateral</gui>. Puedes añadir marcadores a carpetas que usas con frecuencia y aparecerán en la barra lateral. Usa el menú <gui>Marcadores</gui> para hacer esto, o simplemente arrastra una carpeta a la barra lateral."
 
 #. (itstool) path: info/desc
 #: C/files-copy.page:8
@@ -604,7 +604,7 @@ msgid ""
 "A file or folder can be copied or moved to a new location by dragging and "
 "dropping with the mouse, using the copy and paste commands, or by using "
 "keyboard shortcuts."
-msgstr "Es posible copiar o mover un archivo o carpeta en una nueva ubicación arrastrando y soltando con el ratón, usando los comandos de copiar y pegar, o mediante combinaciones de teclas."
+msgstr "Es posible copiar o mover un archivo o carpeta en una nueva ubicación arrastrándola y soltándola con el ratón, usando los comandos de copiar y pega, o usando una combinación de teclas."
 
 #. (itstool) path: page/p
 #: C/files-copy.page:33
@@ -613,7 +613,7 @@ msgid ""
 "you can take it to work with you. Or, you could make a back-up copy of a "
 "document before you make changes to it (and then use the old copy if you "
 "don't like your changes)."
-msgstr "Por ejemplo, es posible que quiera copiar una presentación en una tarjeta de memoria para trabajar con ella. O bien, podría hacer una copia de seguridad de un documento antes de realizar cambios en el mismo (y luego utilizar la copia antigua no le gustan los cambios)."
+msgstr "Por ejemplo, es posible que quieras copiar una presentación en una tarjeta de memoria para llevártela al trabajo. O, podrías hacer una copia de seguridad de un documento antes de realizar cambios en él mismo (y luego utilizar la copia antigua si no te gustan los cambios)."
 
 #. (itstool) path: page/p
 #: C/files-copy.page:38
@@ -630,20 +630,20 @@ msgstr "Copiar y pegar archivos"
 #. (itstool) path: item/p
 #: C/files-copy.page:43
 msgid "Select the file you want to copy by clicking on it once."
-msgstr "Seleccione el archivo que quiera copiar,pulsándolo una sola vez."
+msgstr "Selecciona el archivo que quieras copiar, haciéndole clic una sola vez."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:44
 msgid ""
 "Right-click and pick <gui>Copy</gui>, or press "
 "<keyseq><key>Ctrl</key><key>C</key></keyseq>."
-msgstr "Pulse con el botón derecho y elija <gui>Copiar</gui>, o pulse <keyseq><key>Ctrl</key><key>C</key></keyseq>."
+msgstr "Haz clic con el botón derecho y elige <gui>Copiar</gui>, o pulsa <keyseq><key>Ctrl</key><key>C</key></keyseq>."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:46
 msgid ""
 "Navigate to another folder, where you want to put the copy of the file."
-msgstr "Vaya a otra carpeta donde quiera poner la copia del archivo."
+msgstr "Ve a otra carpeta donde quieras poner la copia del archivo."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:48
@@ -651,7 +651,7 @@ msgid ""
 "Click the gear icon and pick <gui>Paste</gui> to finish copying the file, or"
 " press <keyseq><key>Ctrl</key><key>V</key></keyseq>. There will now be a "
 "copy of the file in the original folder and the other folder."
-msgstr "Pulse el icono de la rueda dentada y elija <gui>Pegar</gui> para finalizar la copia del archivo, o pulse <keyseq><key>Ctrl</key><key>V</key></keyseq>. Ahora habrá una copia del archivo en la carpeta original y en la otra carpeta."
+msgstr "Haz clic en el ícono de la rueda dentada y elige <gui>Pegar</gui> para finalizar la copia del archivo, o pulsa <keyseq><key>Ctrl</key><key>V</key></keyseq>. Ahora habrá una copia del archivo en la carpeta original y en la otra carpeta."
 
 #. (itstool) path: steps/title
 #: C/files-copy.page:55
@@ -661,7 +661,7 @@ msgstr "Cortar y pegar archivos para moverlos"
 #. (itstool) path: item/p
 #: C/files-copy.page:56
 msgid "Select the file you want to move by clicking on it once."
-msgstr "Seleccione el archivo que quiere mover pulsándolo una sola vez."
+msgstr "Selecciona el archivo que quieres mover haciéndoles clic una sola vez."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:57
@@ -673,7 +673,7 @@ msgstr "Pulse con el botón derecho y elija <gui>Cortar</gui>, o pulse <keyseq><
 #. (itstool) path: item/p
 #: C/files-copy.page:59
 msgid "Navigate to another folder, where you want to move the file."
-msgstr "Vaya a otra carpeta donde quiera mover el archivo."
+msgstr "Ve a otra carpeta a donde quieras mover el archivo."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:60
@@ -686,14 +686,14 @@ msgstr "Pulse el icono de la rueda dentada y elija <gui>Pegar</gui> para finaliz
 #. (itstool) path: steps/title
 #: C/files-copy.page:67
 msgid "Drag files to copy or move"
-msgstr "Arrastrar archivos para copiarlos o moverlos"
+msgstr "Arrastra archivos para copiarlos o moverlos"
 
 #. (itstool) path: item/p
 #: C/files-copy.page:68
 msgid ""
 "Open the file manager and go to the folder which contains the file you want "
 "to copy."
-msgstr "Abra el gestor de archivos y vaya a la carpeta que contenga el elemento que quiere copiar."
+msgstr "Abre el explorador de archivos y ve a la carpeta que contenga el elemento que quieras copiar."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:70
@@ -702,7 +702,7 @@ msgid ""
 "press <keyseq><key>Ctrl</key><key>N</key></keyseq>) to open a second window."
 " In the new window, navigate to the folder where you want to move or copy "
 "the file."
-msgstr "Pulse <gui>Archivo</gui> en la barra superior, elija <gui>Ventana nueva</gui> (o pulse <keyseq><key>Ctrl</key><key>N</key></keyseq>) para abrir una segunda ventana. En la ventana nueva, navegue hasta la carpeta donde quiere copiar o mover el elemento."
+msgstr "Haz clic <gui>Archivo</gui> en la barra superior, elige <gui>Ventana nueva</gui> (o pulsa <keyseq><key>Ctrl</key><key>N</key></keyseq>) para abrir una segunda ventana. En la ventana nueva, navega hasta la carpeta donde quieras copiar o mover el elemento."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:75
@@ -710,14 +710,14 @@ msgid ""
 "Click and drag the file from one window to another. This will <em>move "
 "it</em> if the destination is on the <em>same</em> device, or <em>copy "
 "it</em> if the destination is on a <em>different</em> device."
-msgstr "Pulse y arrastre el elemento de una ventana a la otra. Esto lo <em>moverá</em> si el destino está en el <em>mismo</em> dispositivo, o lo <em>copiará</em> si el destino está en un dispositivo <em>diferente</em>."
+msgstr "Haz clic y arrastra el elemento de una ventana a la otra. Esto lo <em>moverá</em> si el destino está en el <em>mismo</em> dispositivo, o lo <em>copiará</em> si el destino está en un dispositivo <em>diferente</em>."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:78
 msgid ""
 "For example, if you drag a file from a USB memory stick to your Home folder,"
 " it will be copied, because you're dragging from one device to another."
-msgstr "Por ejemplo, si arrastra un archivo de una memoria USB a su carpeta personal éste se copiará porque lo está arrastrando desde un dispositivo a otro."
+msgstr "Por ejemplo, si arrastras un archivo de una memoria USB a tu carpeta personal, se copiará porque lo estás arrastrando desde un dispositivo a otro."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:80
@@ -738,7 +738,7 @@ msgstr "No puedes copiar o mover archivos a una carpeta de <em>solo-lectura</em>
 #. (itstool) path: info/desc
 #: C/files-delete.page:8
 msgid "Remove files or folders you no longer need."
-msgstr "Quitar archivos o carpetas que ya no necesita."
+msgstr "Quitar archivos o carpetas que ya no necesitas."
 
 #. (itstool) path: credit/name
 #: C/files-delete.page:22 C/files-removedrive.page:12 C/files-rename.page:20
@@ -763,7 +763,7 @@ msgid ""
 "recover\">restore items </link> in the <gui>Trash</gui> folder to their "
 "original location if you decide you need them, or if they were accidentally "
 "deleted."
-msgstr "Si ya no quiere un archivo o una carpeta, puede eliminarla. Cuando elimina un elemento, se mueve a la carpeta <gui>Papelera</gui>, donde se guarda hasta que la vacía. Puede <link xref=\"files-recover\">restaurar elementos</link> de la <gui>Papelera</gui> a su ubicación original si decide que los necesita, o si los eliminó accidentalmente."
+msgstr "Si ya no quieres un archivo o una carpeta, puedes eliminarla. Cuando eliminas un elemento, se mueve a la carpeta <gui>Papelera</gui>, donde se guarda hasta que la vacíes. Puedes <link xref=\"files-recover\">restaurar elementos</link> de la <gui>Papelera</gui> a su ubicación original si decides que los necesitas, o si los eliminaste accidentalmente."
 
 #. (itstool) path: steps/title
 #: C/files-delete.page:40
@@ -773,14 +773,14 @@ msgstr "Para enviar un archivo a la papelera:"
 #. (itstool) path: item/p
 #: C/files-delete.page:41
 msgid "Select the item you want to place in the trash by clicking it once."
-msgstr "Seleccione el elemento que quiere eliminar pulsándolo una sola vez."
+msgstr "Selecciona el elemento que quieres eliminar haciéndoles clic una sola vez."
 
 #. (itstool) path: item/p
 #: C/files-delete.page:43
 msgid ""
 "Press <keyseq><key>Ctrl</key><key>Delete</key></keyseq> on your keyboard. "
 "Alternatively, drag the item to the <gui>Trash</gui> in the sidebar."
-msgstr "Pulse <keyseq><key>Ctrl</key><key>Supr</key></keyseq> en su teclado. Alternativamente, arrastre el elemento hasta la <gui>Papelera</gui> en la barra lateral."
+msgstr "Pulsa <keyseq><key>Ctrl</key><key>Supr</key></keyseq> en tu teclado. Alternativamente, arrastra el elemento hasta la <gui>Papelera</gui> en la barra lateral."
 
 #. (itstool) path: page/p
 #: C/files-delete.page:48
@@ -788,43 +788,43 @@ msgid ""
 "To delete files permanently, and free up disk space on your computer, you "
 "need to empty the trash. To empty the trash, right-click <gui>Trash</gui> in"
 " the sidebar and select <gui>Empty Trash</gui>."
-msgstr "Para eliminar archivos permanentemente y liberar espacio en el equipo, debe vaciar la papelera. Para vaciar la papelera, pulse con el botón derecho en la <gui>Papelera</gui> en la barra lateral y elija <gui>Vaciar papelera</gui>."
+msgstr "Para eliminar archivos permanentemente y hacer espacio en tu computadora, debes vaciar la papelera. Para vaciar la papelera, haz clic con el botón derecho en la <gui>Papelera</gui> en la barra lateral y elige <gui>Vaciar papelera</gui>."
 
 #. (itstool) path: section/title
 #: C/files-delete.page:53
 msgid "Permanently delete a file"
-msgstr "Eliminar permanentemente un archivo"
+msgstr "Eliminar un archivo permanentemente"
 
 #. (itstool) path: section/p
 #: C/files-delete.page:54
 msgid ""
 "You can immediately delete a file permanently, without having to send it to "
 "the trash first."
-msgstr "Puede eliminar un archivo permanentemente de forma inmediata, sin tenerlo que enviar primero a la papelera."
+msgstr "Puedes eliminar un archivo permanentemente de forma inmediata, sin tenerlo que enviar primero a la papelera."
 
 #. (itstool) path: steps/title
 #: C/files-delete.page:58
 msgid "To permanently delete a file:"
-msgstr "Para eliminar permanentemente un archivo:"
+msgstr "Para permanentemente eliminar un archivo:"
 
 #. (itstool) path: item/p
 #: C/files-delete.page:59
 msgid "Select the item you want to delete."
-msgstr "Seleccione el elemento que quiere eliminar."
+msgstr "Selecciona el elemento que quieras eliminar."
 
 #. (itstool) path: item/p
 #: C/files-delete.page:60
 msgid ""
 "Press and hold the <key>Shift</key> key, then press the <key>Delete</key> "
 "key on your keyboard."
-msgstr "Pulse y mantenga pulsada la tecla <key>Mayús</key>, y luego pulse la tecla <key>Supr</key> de su teclado."
+msgstr "Pulsa y mantén pulsada la tecla <key>Mayús</key>, y luego pulsa la tecla <key>Supr</key> de tu teclado."
 
 #. (itstool) path: item/p
 #: C/files-delete.page:62
 msgid ""
 "Because you cannot undo this, you will be asked to confirm that you want to "
 "delete the file or folder."
-msgstr "Como no puede deshacer esta operación, se le preguntará que confirme si quiere eliminar el archivo o carpeta."
+msgstr "Como no puedes deshacer esta operación, se te preguntará que confirmes si quieres eliminar el archivo o carpeta."
 
 #. (itstool) path: note/p
 #: C/files-delete.page:66
@@ -835,7 +835,7 @@ msgid ""
 "in the top bar, pick <gui>Preferences</gui> and select the "
 "<gui>Behavior</gui> tab. Select <gui>Include a Delete command that bypasses "
 "Trash</gui>."
-msgstr "Si necesita con frecuencia eliminar archivos sin usar la papelera (por ejemplo, si trabaja a menudo con datos sensibles), puede añadir una opción <gui>Eliminar</gui> al menú contextual de archivos y carpetas. Pulse <gui>Archivos</gui>en la barra superior, elija <gui>Preferencias</gui> y seleccione la pestaña <gui>Comportamiento</gui>. Seleccione <gui>Incluir un comando «Eliminar» que no use la papelera</gui>."
+msgstr "Si necesitas con frecuencia eliminar archivos sin usar la papelera (por ejemplo, si trabajas a menudo con datos sensibles), puedes añadir una opción <gui>Eliminar</gui> al menú contextual de archivos y carpetas. Pulse <gui>Archivos</gui>en la barra superior, elige <gui>Preferencias</gui> y selecciona la pestaña <gui>Comportamiento</gui>. Selecciona <gui>Incluir un comando «Eliminar» que no use la papelera</gui>."
 
 #. (itstool) path: note/p
 #: C/files-delete.page:73
@@ -1291,7 +1291,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/index-video-thumbnail-01.jpg' "
 "md5='85d08a6ad3a67696958656330deb92ac'"
-msgstr ""
+msgstr "external ref='figures/index-video-thumbnail-01.jpg' md5='85d08a6ad3a67696958656330deb92ac'"
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -1303,7 +1303,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/index-video-thumbnail-02.jpg' "
 "md5='7523618f51c0199521a2e1a264a50276'"
-msgstr ""
+msgstr "external ref='figures/index-video-thumbnail-02.jpg' md5='7523618f51c0199521a2e1a264a50276'"
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -1315,7 +1315,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/index-video-thumbnail-03.jpg' "
 "md5='cbc6b376116c631b6300122d24d208be'"
-msgstr ""
+msgstr "external ref='figures/index-video-thumbnail-03.jpg' md5='cbc6b376116c631b6300122d24d208be'"
 
 #. (itstool) path: info/desc
 #: C/index.page:7
@@ -5049,7 +5049,7 @@ msgid ""
 "password, so even one that would be difficult for a human to guess might be "
 "extremely easy for a computer program to crack. Here are some tips for "
 "choosing a good password:"
-msgstr "Las personas pueden incluso usar equipos para intentar sistemáticamente adivinar su contraseña, de tal forma que incluso una que fuese difícil adivinar a un humano, puede ser extremadamente fácil de obtener para un programa. Aquí tiene algunos consejos para elegir una buena contraseña:"
+msgstr "Las personas pueden incluso usar computadoras para intentar de sistemáticamente adivinar tu contraseña, de tal forma que incluso una que fuera difícil adivinar para una persona, puede ser extremadamente fácil de obtener para un programa. Aquí hay algunos consejos para elegir una buena contraseña:"
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:49
@@ -5058,7 +5058,7 @@ msgid ""
 "spaces in the password. This makes it more difficult to guess; there are "
 "more symbols from which to choose, meaning more possible passwords that "
 "someone would have to check when trying to guess yours."
-msgstr "Use una mezcla de letras mayúsculas y minúsculas, números, símbolos y espacios en la contraseña. Esto hace que sea más difícil de adivinar; cuantos más símbolos hay para elegir, hay más contraseñas posibles que, alguien que intenta adivinar, su contraseña debería probar."
+msgstr "Usa una mezcla de letras mayúsculas y minúsculas, números, símbolos y espacios en la contraseña. Esto hace que sea más difícil de adivinar; cuantos más símbolos hay para elegir, hay más contraseñas posibles que alguien que intenta adivinar tu contraseña tendría que probar."
 
 #. (itstool) path: note/p
 #: C/user-goodpassword.page:54
@@ -5067,14 +5067,14 @@ msgid ""
 "word in a phrase that you can remember. The phrase could be the name of a "
 "movie, a book, a song or an album. For example, \"Flatland: A Romance of "
 "Many Dimensions\" would become F:ARoMD or faromd or f: aromd."
-msgstr "Un buen método para elegir una contraseña es tomar la primera letra de cada palabra de una frase que pueda recordar. La frase puede ser el nombre de una película, un libro, una canción o un disco. Por ejemplo, «Planilandia: Una novela de muchas dimensiones» podría ser «P:UNdMD», «pundmd» o «p: undmd»."
+msgstr "Un buen método para elegir una contraseña es tomar la primera letra de cada palabra de una frase que puedas recordar. La frase puede ser el nombre de una película, un libro, una canción o un disco. Por ejemplo, «Planilandia: Una novela de muchas dimensiones» podría ser «P:UNdMD», «pundmd» o «p: undmd»."
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:61
 msgid ""
 "Make your password as long as possible. The more characters it contains, the"
 " longer it should take for a person or computer to guess it."
-msgstr "Haga que su contraseña sea lo más larga posible. Cuantos más caracteres contenga, más tiempo le llevará a una persona o a un ordenador adivinarla."
+msgstr "Haga que tu contraseña sea lo más larga posible. Cuantos más caracteres contenga, más tiempo le llevará a una persona o a una computadora adivinarla."
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:65
@@ -5082,19 +5082,19 @@ msgid ""
 "Do not use any words that appear in a standard dictionary in any language. "
 "Password crackers will try these first. The most common password is "
 "\"password\" -- people can guess passwords like this very quickly!"
-msgstr "No use palabras que aparezcan en diccionarios estándar de cualquier idioma. Serán las que se prueben primero para intentar romper la contraseña. La contraseña más común es «password»; la gente adivina este tipo de contraseñas muy rápidamente."
+msgstr "No uses palabras que aparezcan en diccionarios estándar de cualquier idioma. Serán las que se prueben primero para intentar romper la contraseña. La contraseña más común es «password»; la gente adivina este tipo de contraseñas muy rápidamente."
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:70
 msgid ""
 "Do not use any personal information such as a date, license plate number, or"
 " any family member's name."
-msgstr "No use ninguna información personal, tal como fechas, números de matrículas o el nombre de cualquier familiar."
+msgstr "No uses ninguna información personal, tal como fechas, números de matrículas o el nombre de cualquier familiar."
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:74
 msgid "Do not use any nouns."
-msgstr "No use ningún sustantivo."
+msgstr "No uses ningún sustantivo."
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:77
@@ -5102,29 +5102,29 @@ msgid ""
 "Choose a password that can be typed quickly, to decrease the chances of "
 "someone being able to make out what you have typed if they happen to be "
 "watching you."
-msgstr "Elija una contraseña que se pueda teclear rápidamente, para reducir las oportunidades de que alguien pueda ver lo que escribe, en caso de que le estén observando."
+msgstr "Elige una contraseña que se pueda teclear rápidamente, para reducir las oportunidades de que alguien pueda ver lo que escribes, en caso de que te estén observando."
 
 #. (itstool) path: note/p
 #: C/user-goodpassword.page:81
 msgid "Never write your passwords down anywhere. They can be easily found!"
-msgstr "Nunca escriba sus contraseñas en ningún sitio. Es fácil encontrarlas."
+msgstr "Nunca escribas tus contraseñas en ningún sitio. Es fácil encontrarlas."
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:85
 msgid "Use different passwords for different things."
-msgstr "Use contraseñas diferentes para diferentes cosas."
+msgstr "Usa contraseñas diferentes para diferentes cosas."
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:89
 msgid "Use different passwords for different accounts."
-msgstr "Use contraseñas diferentes para diferentes cuentas."
+msgstr "Usa contraseñas diferentes para diferentes cuentas."
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:90
 msgid ""
 "If you use the same password for all of your accounts, anyone who guesses it"
 " will be able to access all of your accounts immediately."
-msgstr "Si usa la misma contraseña para todas sus cuentas, cualquiera que la adivine será capaz de acceder a toda su información de forma inmediata."
+msgstr "Si usas la misma contraseña para todas tus cuentas, cualquiera que la adivine será capaz de acceder a toda tu información de forma inmediata."
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:92
@@ -5134,9 +5134,9 @@ msgid ""
 "use the same one for things that don't matter (like websites), and different"
 " ones for important things (like your online banking account and your "
 "email)."
-msgstr "Sin embargo, puede ser difícil recordar muchas contraseñas. Aunque no es tan seguro como usar una contraseña diferente para cada cosa, puede ser más fácil usar la misma para cosas sin importancia (como páginas web), y contraseñas diferentes para las cosas importantes (como su cuenta bancaria y su correo-e)."
+msgstr "Sin embargo, puede ser difícil recordar muchas contraseñas. Aunque no es tan seguro como usar una contraseña diferente para cada cosa, puede ser más fácil usar la misma para cosas sin importancia (como páginas web), y contraseñas diferentes para las cosas importantes (como tu cuenta bancaria y tu correo electrónico)."
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:99
 msgid "Change your passwords regularly."
-msgstr "Cambie sus contraseñas con regularidad."
+msgstr "Cambia tus contraseñas con regularidad."
