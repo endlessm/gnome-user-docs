@@ -138,7 +138,6 @@ HELP_FILES = \
 	clock-set.page \
 	clock-timezone.page \
 	display-dual-monitors.page \
-	documents-search.page \
 	files-browse.page \
 	files-copy.page \
 	files-delete.page \
@@ -183,11 +182,9 @@ HELP_FILES = \
 	net-installing-other-browsers.page \
 	net-manual.page \
 	net-read-news.page \
-	net-security.page \
 	net-slow.page \
 	net-social-bar.page \
 	net-troubleshoot.page \
-	net-vpn-connect.page \
 	net-wired-connect.page \
 	net-wireless-adhoc.page \
 	net-wireless-airplane.page \
@@ -197,11 +194,7 @@ HELP_FILES = \
 	net-wireless-hidden.page \
 	net-wireless-noconnection.page \
 	net-wireless-wepwpa.page \
-	net-wireless.page \
 	net.page \
-	power-othercountry.page \
-	prefs-display.page \
-	prefs.page \
 	printing-2sided.page \
 	printing-cancel-job.page \
 	printing-differentsize.page \
@@ -212,7 +205,6 @@ HELP_FILES = \
 	printing-setup.page \
 	printing-supported.page \
 	printing-to-file.page \
-	printing.page \
 	privacy-screen-lock.page \
 	screen-shot-record.page \
 	security-and-privacy.page \
@@ -231,7 +223,6 @@ HELP_FILES = \
 	shell-install-ext-apps.page \
 	shell-introduction.page \
 	shell-keyboard-shortcuts.page \
-	shell-lockscreen.page \
 	shell-notifications.page \
 	shell-organize-apps.page \
 	shell-overview.page \
@@ -243,8 +234,6 @@ HELP_FILES = \
 	shell-windows-switching.page \
 	sound-alert.page \
 	sound-volume.page \
-	tips.page \
-	user-accounts.page \
 	user-add.page \
 	user-admin-change.page \
 	user-admin-explain.page \
