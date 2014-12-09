@@ -108,31 +108,65 @@ HELP_MEDIA = \
 
 HELP_FILES = \
 	legal.xml \
+	a11y-bouncekeys.page \
+	a11y-braille.page \
+	a11y-contrast.page \
+	a11y-dwellclick.page \
+	a11y-font-size.page \
+	a11y-icon.page \
+	a11y-mag.page \
+	a11y-right-click.page \
+	a11y-screen-reader.page \
+	a11y-slowkeys.page \
+	a11y-stickykeys.page \
+	a11y-visualalert.page \
+	a11y.page \
+	accounts-add.page \
+	backup-check.page \
 	backup-frequency.page \
 	backup-how.page \
 	backup-restore.page \
 	backup-what.page \
+	backup-where.page \
 	backup-why.page \
+	bluetooth-connect-device.page \
+	bluetooth-problem-connecting.page \
+	bluetooth-remove-connection.page \
+	bluetooth-send-file.page \
+	bluetooth-turn-on-off.page \
+	bluetooth.page \
+	clock-set.page \
+	clock-timezone.page \
 	display-dual-monitors.page \
 	documents-search.page \
 	files-browse.page \
 	files-copy.page \
 	files-delete.page \
+	files-open.page \
 	files-preview.page \
 	files-recover.page \
 	files-removedrive.page \
 	files-rename.page \
+	files-search.page \
 	files-share.page \
 	files.page \
 	hardware.page \
 	index.page \
+	keyboard-cursor-blink.page \
+	keyboard-key-menu.page \
 	keyboard-key-super.page \
 	keyboard-layouts.page \
+	keyboard-nav.page \
+	keyboard-osk.page \
+	keyboard-repeat-keys.page \
 	keyboard.page \
 	look-background.page \
 	mouse-doubleclick.page \
+	mouse-mousekeys.page \
 	mouse-sensitivity.page \
 	mouse.page \
+	nautilus-file-properties-basic.page \
+	nautilus-file-properties-permissions.page \
 	net-antivirus.page \
 	net-email-virus.page \
 	net-manual.page \
@@ -162,15 +196,23 @@ HELP_FILES = \
 	printing-setup.page \
 	printing-to-file.page \
 	printing.page \
+	privacy-screen-lock.page \
 	screen-shot-record.page \
 	session-language.page \
+	sharing-bluetooth.page \
+	sharing-media.page \
 	shell-apps-open.page \
 	shell-exit.page \
 	shell-introduction.page \
+	shell-keyboard-shortcuts.page \
 	shell-lockscreen.page \
+	shell-notifications.page \
 	shell-overview.page \
 	shell-windows-maximize.page \
+	shell-windows-states.page \
 	shell-windows-switching.page \
+	sound-alert.page \
+	sound-volume.page \
 	tips.page \
 	user-accounts.page \
 	user-add.page \
