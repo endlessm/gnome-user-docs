@@ -21,18 +21,16 @@
       <email its:translate="no">mdhillca@gmail.com</email>
     </credit>
 
-    <desc>Use an ad-hoc network to allow other devices to connect to your
-    computer and its network connections.</desc>
+    <desc>Create a wireless hotspot and connect to other devices.</desc>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
   </info>
 
 <title>Create a wireless hotspot</title>
 
-<p>You can use your computer as a wireless hotspot. This allows other devices to
-connect to you without a separate network, and allows you to share an internet
-connection you've made with another interface, such as to a wired network or
-over the cellular network.</p>
+<p>If you have a <link xref="net-wired-connect">wired connection</link>, you can
+use your computer as a wireless hotspot. This allows other devices to connect to
+you and allows you to share an internet connection or cellular network.</p>
 
 <comment>
 <cite date="2012-02-19">shaunm</cite>
@@ -58,5 +56,8 @@ link below where it says the name of the network is your device name.</p>
 <p>A network name (SSID) and security key are automatically generated.
 The network name will be based on the name of your computer. Other devices
 will need this information to connect to the hotspot you've just created.</p>
+
+<note><p> It is not possible to connect to the internet via a wireless
+connection while the hotspot is active.</p></note>
 
 </page>

@@ -38,8 +38,8 @@ just get two separate clicks, not a double click. If you have difficulty
 pressing the mouse button quickly, you should increase the timeout.</p>
 
 <steps>
-  <item><p>Click on the System Menu at the very bottom left-hand corner of your
-  screen and select the <gui>Settings</gui> button.</p></item>
+  <item><p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
+  your screen, then click on <gui>Settings</gui>.</p></item>
   <item><p>Click on <gui>Mouse &amp; Touchpad</gui> to open the panel.</p></item>
   <item><p>Under <gui>General</gui>, adjust the <gui>Double-click</gui>
   slider to a value you find comfortable.</p></item>

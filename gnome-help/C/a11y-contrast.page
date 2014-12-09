@@ -31,15 +31,14 @@
   <title>Adjust the contrast</title>
 
   <p>You can adjust the contrast of windows and buttons so that they're easier
-  to see. This is not the same as <!--display-dimscreen is a stub. Please add
-  the link back when it's unstubbed.-Aruna<link xref="display-dimscreen">-->
-  changing the brightness of the whole screen; only parts of the
-  <em>user interface</em> will change.</p>
+  to see. This is not the same as changing the brightness of the whole screen
+  since only parts of the <gui>user interface</gui> will change.</p>
 
   <steps>
+    <title>To adjust the contrast of your window:</title>
     <item>
-      <p>Open the <gui xref="shell-terminology">Activities</gui> overview and
-      start typing <gui>Universal Access</gui>.</p>
+      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
+      your screen, then click on <gui>Settings</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Universal Access</gui> to open the panel.</p>
@@ -48,12 +47,4 @@
       <p>Switch <gui>High Contrast</gui> to <gui>ON</gui>.</p>
     </item>
   </steps>
-
-  <note style = "tip">
-    <title>Quickly turn high contrast on and off</title>
-    <p>You can turn high contrast on and off by clicking the
-    <link xref="a11y-icon">accessibility icon</link> on the top bar and
-    selecting <gui>High Contrast</gui>.</p>
-  </note>
-
 </page>

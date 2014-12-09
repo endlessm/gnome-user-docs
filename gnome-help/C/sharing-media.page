@@ -13,61 +13,78 @@
       <email its:translate="no">mdhillca@gmail.com</email>
     </credit>
 
-    <desc>Share media on your local network using Rygel.</desc>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <desc>Learn how to use the Photo Editor app.</desc>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
   </info>
 
-  <title>Share your music, photos and videos</title>
+  <title>Edit and share my photos</title>
 
-  <p>You can browse, search and play the media on your computer using a
- <sys>UPnP</sys> or <sys>DLNA</sys> enabled device such as a phone, TV or game
- console. Configure <gui>Media Sharing</gui> to allow these devices to access
- the folders containing your music, photos and videos.</p>
-
-  <note style="info package">
-    <p>You must have the <app>Rygel</app> package installed for
-     <gui>Media Sharing</gui> to be visible.</p>
-
-    <if:choose xmlns:if="http://projectmallard.org/if/1.0/">
-      <if:when test="action:install">
-        <p><link action="install:rygel" style="button">Install Rygel</link></p>
-      </if:when>
-    </if:choose>
-  </note>
+  <p>Do you like editing photos? The Photo Editor app makes it easier than ever
+  to make fun photos and share them with your friends and family through
+  Facebook!</p>
 
   <steps>
+    <title>To edit your photos:</title>
     <item>
-      <p>Open the <gui xref="shell-terminology">Activities</gui> overview and
-      start typing <gui>Sharing</gui>.</p>
+      <p>Click on the <gui>Photo Editor</gui> icon from your desktop.</p>
     </item>
     <item>
-      <p>Click on <gui>Sharing</gui> to open the panel.</p>
+      <p>Click <gui>Open Image</gui>. This will launch the <gui>Pictures</gui>
+      folder on your computer.</p>
     </item>
     <item>
-      <p>If <gui>Sharing</gui> is <gui>OFF</gui>, switch it to
-      <gui>ON</gui>.</p>
+      <p>Choose an image to edit. You can choose a sample image or one that you
+      have added to your computer.</p>
 
-      <note style="info"><p>If the text below <gui>Computer Name</gui> allows
-      you to edit it, you can change the name your computer displays on the
-      network.</p></note>
+      <p>To look at the sample images on your computer, double click on the
+      <gui>Samples</gui> folder. Scroll through the images and see a small
+      version of them on the right hand side of the window. When you find an
+      image you want to edit, click <gui>OK</gui> or press
+      <input>Enter</input>.</p>
     </item>
     <item>
-      <p>Select <gui>Media Sharing</gui>.</p>
+      <p>Edit your photo! You can crop your image to make it the right size, add
+      filters to make it beautiful, funny or cool, and add frames to finish it up!
+      When you are finished you can share your creation on Facebook.</p>
+    </item>
+    <note>
+      <p>Make sure to save your edited photos! You may want to give your edited
+      photo a new name so that it doesn't replace the original copy.</p>
+    </note>
+    <note>
+      <p>Make your edited photo your computer's background photo with just a
+      click of a button!</p>
+    </note>
+  </steps>
+
+  <steps>
+    <title>To share your photos on Facebook:</title>
+    <p>Share your photo on your Facebook wall with just one click! You will need
+    to have an internet connection to use this feature.</p>
+    <item>
+      <p>Click on the Facebook button.</p>
     </item>
     <item>
-      <p>Switch <gui>Share Media On This Network</gui> to <gui>ON</gui>.</p>
+      <p>Write a description of your photo, or a message that you want your
+      friends to see.</p>
     </item>
     <item>
-      <p>Click <gui style="button">+</gui> to open the
-      <gui>Choose a folder</gui> window. Navigate <em>into</em> the desired
-      folder, <file>Music</file> in your <file>Home</file> directory for
-      example, and click <gui style="button">Open</gui>. Repeat for the other
-      folders you wish to share, for example <file>Pictures</file> and 
-      <file>Videos</file>.</p>
+      <p>If you are not already logged onto Facebook, you will need to login.
+      Facebook will guide you to do so and you will need to allow Endless Social
+      to post on your wall. We will not post anything that you do not
+      authorize.</p>
     </item>
     <item>
-      <p>Click <gui style="button">Close</gui>. You will now be able to browse
-      or play media in the folders you selected using the external device.</p>
+      <p>If you are already logged into Facebook, your photo will automatically
+      post with the description you wrote.</p>
+    </item>
+    <item>
+      <p>A notification will appear when your image has successfully posted to
+      Facebook.</p>
     </item>
   </steps>
 

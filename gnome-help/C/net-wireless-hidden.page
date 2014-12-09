@@ -22,37 +22,34 @@
       <email its:translate="no">kittykat3756@gmail.com</email>
     </credit>
 
-    <desc>Connect to a wireless network that is not displayed in the network
-    list.</desc>
+    <desc>Connect to a network that you might not be able to see.</desc>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
   </info>
 
 <title>Connect to a hidden wireless network</title>
 
-<p>It is possible to set up a wireless network so that it is "hidden." Hidden
- networks won't show up in the list of wireless networks displayed in the
- <gui>Network</gui> settings. To connect to a hidden wireless network:</p>
+<p>Hidden networks doesn't show up in the list of wireless networks. Having a
+hidden network makes it harder for other people to find it, and so more likely
+to be secure. To connect to a hidden wireless network follow the steps:</p>
 
 <steps>
-  <item><p>Click the network icon on your taskbar, on the bottom right of your
-  screen.</p></item>
-  <item><p>Select <gui>Network Settings</gui>.</p></item>
-  <item><p>Click the <gui>Connect to Hidden Network…</gui> button.</p></item>
- <item>
-  <p>In the window that appears, select a previously-connected hidden network
-  using the <gui>Connection</gui> drop-down list, or <gui>New</gui> for a new
-  one.</p>
- </item>
- <item>
-  <p>For a new connection, type the network name and choose the type of
-  wireless security from the <gui>Wi-Fi security</gui> drop-down list.</p>
- </item>
- <item>
-  <p>Enter the password or other security details.</p>
- </item>
- <item>
-  <p>Click <gui>Connect</gui>.</p>
- </item>
+  <item>
+    <p>Click the network icon on the task bar and select
+    <gui>NetworkSettings.</gui></p>
+  </item>
+  <item>
+    <p>Click the <gui>Connect to Hidden Network</gui> button.</p>
+  </item>
+  <item>
+    <p>In the window that appears, type the network name and choose the type
+    of wireless security from the Wi-Fi security drop-down list.</p>
+  </item>
+  <item>
+    <p>Enter the password or other security details.</p>
+  </item>
+  <item>
+    <p>Click Connect.</p>
+  </item>
 </steps>
 
   <p>You may have to check the settings of the wireless access point or router
@@ -65,10 +62,10 @@
   Look for terms like WEP and WPA.</p>
 
 <note>
- <p>You may think that hiding your wireless network will improve security by
- preventing people who don't know about it from connecting. In practice, this
- is not the case; the network is slightly harder to find but it is still
- detectable.</p>
+ <p>While hiding your network may help improve security by preventing people who
+ don't know about it from connecting, the network will still remain detectable.
+ You may want to take additional precautionary measures to further safeguard
+ your network.</p>
 </note>
 
 </page>

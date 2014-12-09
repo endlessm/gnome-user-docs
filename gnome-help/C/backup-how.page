@@ -4,8 +4,7 @@
 
   <info>
     <link type="guide" xref="backup-why"/>
-    <desc>Use Déjà Dup (or some other backup application) to make copies of your
-    valuable files and settings to protect against loss.</desc>
+    <desc>Backup your valuable files and settings to protect against loss.</desc>
     <revision pkgversion="3.4.0" date="2012-02-19" status="review"/>
 
     <credit type="author">
@@ -25,10 +24,14 @@
 
 <title>How to back up</title>
 
-  <p>To <link xref="files-copy">copy your files</link> to a safe location, such
- as an external hard drive, another computer on the network, or a USB drive.
- Your personal files and settings are usually in your <gui>Home</gui> folder, so
- you can copy them from there.</p>
+  <p>To make sure you don't lose your files, it is a good idea to perform
+ regular back ups. To back up your files,  <link xref="files-copy">copy your
+ files</link> to a safe location, such as an external hard drive, another
+ computer on the network, or a USB drive. Your <link xref="backup-
+ thinkabout">personal files</link> and settings are usually in your
+ <gui>Home</gui> folder, so you can copy them from there. To get to your
+ <gui>Home</gui> folder, first click on the <gui>Documents</gui> icon on the
+ desktop.</p>
 
   <p>The amount of data you can back up is limited by the size of the storage
  device. If you have the room on your backup device, it is best to back up your

@@ -39,9 +39,8 @@ information on navigating user interfaces with only the keyboard.</p>
   <tr xml:id="alt-f1">
     <td><p><keyseq><key>Alt</key><key>F1</key></keyseq> or the
     <key xref="keyboard-key-super">Super</key> key</p></td>
-    <td><p>Switch between the <gui>Activities</gui> overview and desktop. In
-    the overview, start typing to instantly search your applications, contacts,
-    and documents.</p></td>
+    <td><p>Bring up all of your open windows so that you can pick which window
+    to go to quickly.</p></td>
   </tr>
   <tr xml:id="alt-f2">
     <td><p><keyseq><key>Alt</key><key>F2</key></keyseq></p></td>
@@ -65,16 +64,8 @@ information on navigating user interfaces with only the keyboard.</p>
   <tr xml:id="ctrl-alt-tab">
     <!-- To be updated to <key>Tab</key> in the future. -->
     <td><p><keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq></p></td>
-    <td>
-      <p>Give keyboard focus to the top bar. In the <gui>Activities</gui>
-      overview, switch keyboard focus between the top bar, dash, windows
-      overview, applications list, and search field. Use the arrow keys to
-      navigate.</p>
-      <p>It is not currently possible to use the arrow keys to navigate the
-      windows overview. To switch windows, exit the overview and use
-      <keyseq><key>Super</key><key>Tab</key></keyseq> and
-      <keyseq><key>Super</key><key>`</key></keyseq>.</p>
-    </td>
+    <td><p>Give keyboard focus to the top bar, message tray or the
+    windows.</p></td>
   </tr>
   <tr xml:id="super-a">
     <td><p><keyseq><key>Super</key><key>A</key></keyseq></p></td>

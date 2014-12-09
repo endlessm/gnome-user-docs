@@ -85,8 +85,7 @@
 
 <note>
  <p>You can't copy or move a file into a folder that is <em>read-only</em>. Some
- folders are read-only to prevent you from making changes to their contents. You
- can change things from being read-only by changing file permissions.</p>
+ folders are read-only to prevent you from making changes to their contents.</p>
 </note>
 
 </page>

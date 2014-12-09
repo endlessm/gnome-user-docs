@@ -29,7 +29,7 @@
     <desc>Use applications and the desktop without a mouse.</desc>
   </info>
 
-  <title>Keyboard navigation</title>
+  <title>Use the keyboard</title>
 
   <comment>
     <cite date="2012-03-14" href="mailto:shaunm@gnome.org">Shaun McCance</cite>
@@ -39,9 +39,9 @@
     to drive things with the keyboard is a burden.</p>
   </comment>
 
-  <p>This page details keyboard navigation for people who cannot use a mouse or
-  other pointing device, or who want to use a keyboard as much as possible. For
-  keyboard shortcuts that are useful to all users, see
+  <p>This page is for people who cannot use a mouse or other pointing device, or
+  who want to use a keyboard as much as possible.</p>
+  <p>For keyboard shortcuts that are useful to all users, see
   <link xref="shell-keyboard-shortcuts"/> instead.</p>
 
   <note style="tip">

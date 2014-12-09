@@ -20,40 +20,31 @@
       <name>Shobha Tyagi</name>
       <email>tyagishobha@gmail.com</email>
     </credit>
+    <credit type="editor">
+      <name>Nuritzi Sanchez</name>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>Install free apps onto your desktop from the <gui>App
-    Store</gui>.</desc>
+    <desc>Install free apps, folders, and website shortcuts onto your desktop.</desc>
   </info>
 
-  <title>Installing Applications</title>
-
-<comment>
-<cite>shaunm</cite>
-<p>If an app is running, it's focused. You can create a new window by dragging
-to the windows overview or onto a workspace thumbnail. (Also mention dragging
-to overview in list item below, not just workspace thumbnail.) Right-click
-icon to choose a window to focus or get new window. Mention middle-click?</p>
-</comment>
+  <title>Add apps, folders and website shortcuts</title>
 
   <p>Endless comes packed with great applications and resources for you to
   discover and explore. The pre-installed applications on your desktop are just
-  a few of the many applications available to you, and the <gui>App Store</gui>
-  is your portal to everything from games, to educational applications, to
-  valuable health resources, and much more. The App Store also allows you to add
-  links to your favorite websites directly to your desktop for quicker access,
-  and it allows you to create folders to keep yourself organized in a way that
-  makes sense to you.</p>
-  <p> To access the App Store at any time, go to your desktop and click on the
-  <gui>More Apps</gui> button. You'll instantly launch the App Store.</p>
+  a few of the many applications available to you. You now have access to
+  everything from games, to educational applications, to valuable health
+  resources, and much more.</p>
+
+  <p>Below, you can learn how to add new apps, folders, and shortcuts to your
+  favorite websites directly to your desktop.</p>
 
   <section>
-  <title>Installing Applications</title>
+  <title>Installing Apps</title>
   <steps>
     <item>
-      <p>Open the <gui>App Store</gui> by clicking once on the <gui>More
-      Apps</gui> button on the desktop.</p>
+      <p>Click once on the <gui>More Apps</gui> button on the desktop.</p>
     </item>
     <item>
       <p>All of the applications you see are free. You can browse by category
@@ -84,9 +75,7 @@ icon to choose a window to focus or get new window. Mention middle-click?</p>
   <title>Installing Websites</title>
   <steps>
     <item>
-      <p>Open the <gui>App Store</gui> by clicking once on the <gui>More
-      Apps</gui> button on the desktop. Click on the <gui>Websites</gui>
-      button.</p>
+      <p>Click once on the <gui>More Apps</gui> button on the desktop.</p>
     </item>
     <item>
       <p>Browse the website links that we have as suggestions by category. If
@@ -112,9 +101,7 @@ icon to choose a window to focus or get new window. Mention middle-click?</p>
   <title>Installing Folders</title>
   <steps>
     <item>
-      <p>Open the <gui>App Store</gui> by clicking once on the <gui>More
-      Apps</gui> button on the desktop.Click on the <gui>Folders</gui>
-      button.</p>
+      <p>Click once on the <gui>More Apps</gui> button on the desktop.</p>
     </item>
     <item>
       <p>Choose an icon for your folder that you like, or that you think
@@ -122,15 +109,14 @@ icon to choose a window to focus or get new window. Mention middle-click?</p>
       it.</p>
     </item>
     <item>
-      <p>Click in the bar that appears under the icon and type the name of the
-      folder as you would like it to appear on the desktop. Remember to keep it
-      pretty short so that the name does not get cut off.</p>
+      <p>Name your folder by clicking in the bar that appears under the icon and
+      type the name of the folder as you would like it to appear on the desktop.
+      Remember to keep it short so that the name does not get cut off.</p>
     </item>
     <item>
-      <p>Click on the green <gui>+</gui> button, and your folder will be
-      installed to the desktop. Add another folder, application or website, or
-      else close the App Store to find your new folder. It will be directly to
-      the left of the More Apps button.</p>
+      <p>Install your folder on the desktop by clicking on the green
+      <gui>+</gui> button. It will appear directly to the left of the <gui>More
+      Apps</gui> button.</p>
     </item>
   </steps>
   </section>

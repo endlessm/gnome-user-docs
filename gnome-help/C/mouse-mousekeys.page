@@ -33,7 +33,7 @@
     keypad.</desc>
   </info>
 
-  <title>Click and move mouse pointer using the keypad</title>
+  <title>Controlling mouse with keypad</title>
 
   <p>If you have difficulties using a mouse or other pointing device, you can
   control the mouse pointer using the numeric keypad on your keyboard. This
@@ -41,13 +41,8 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-terminology">Activities</gui> overview and
-      start typing <gui>Universal Access</gui>.</p>
-      <p>You can access the <gui>Activities</gui> overview by pressing on it,
-      by moving your mouse pointer against the top-left corner of the screen,
-      using <keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq>
-      followed by <key>Enter</key> or using
-      <key xref="keyboard-key-super">Super</key>.</p>
+      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
+      your screen, then click on <gui>Settings</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Universal Access</gui> to open the panel.</p>
