@@ -69,18 +69,6 @@ information on navigating user interfaces with only the keyboard.</p>
     <td><p><keyseq><key>Super</key><key>A</key></keyseq></p></td>
     <td><p>Show the list of applications.</p></td>
   </tr>
-  <tr xml:id="super-updown">
-    <td><p><keyseq><key>Super</key><key>Page Up</key></keyseq> and
-    <keyseq><key>Super</key><key>Page Down</key></keyseq></p></td>
-    <td><p><link xref="shell-workspaces-switch">Switch between
-     workspaces</link>.</p></td>
-  </tr>
-  <tr xml:id="super-shift-updown">
-    <td><p><keyseq><key>Super</key><key>Shift</key><key>Page Up</key></keyseq>
-    and <keyseq><key>Super</key><key>Shift</key><key>Page Down</key></keyseq></p></td>
-    <td><p><link xref="shell-workspaces-movewindow">Move the current window to a
-     different workspace</link>.</p></td>
-  </tr>
   <tr xml:id="ctrl-alt-Del">
     <td><p><keyseq><key>Ctrl</key><key>Alt</key><key>Delete</key></keyseq></p></td>
     <!-- TODO: test, as design team assigns this to 'power off'. -->

@@ -57,21 +57,11 @@
 
   <steps>
     <item>
-      <if:choose>
-        <if:when test="platform:unity">
-      <p>Click the Bluetooth icon in the menu bar and select <gui>Send Files to
-      Device</gui>.</p>
-        </if:when>
-      <p>Open the <gui xref="shell-terminology">Activities</gui> overview and
-      start typing <gui>Bluetooth</gui>.</p>
-    </if:choose>
+      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
+      your screen, then click on <gui>Settings</gui>.</p>
     </item>
     <item>
-    <if:choose>
-      <if:when test="platform:gnome-shell">
-      <p>Click on <gui>Bluetooth</gui> to open the panel.</p>
-      </if:when>
-    </if:choose>
+      <p>Click <gui>Bluetooth</gui>.</p>
     </item>
     <item>
       <p>In the <gui>Devices</gui> list, select the device to which to send the

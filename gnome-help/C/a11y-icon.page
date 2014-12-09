@@ -35,11 +35,11 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-terminology">Activities</gui> overview and
-      start typing <gui>Universal Access</gui>.</p>
+      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
+      your screen, then click on <gui>Settings</gui>.</p>
     </item>
     <item>
-      <p>Click on <gui>Universal Access</gui> to open the panel.</p>
+      <p>Click <gui>Universal Access</gui>.</p>
     </item>
     <item>
       <p>Switch <gui>Always Show Universal Access Menu</gui> to

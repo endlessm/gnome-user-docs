@@ -36,11 +36,11 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-terminology">Activities</gui> overview and
-      start typing <gui>Sound</gui>.</p>
+      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
+      your screen, then click on <gui>Settings</gui>.</p>
     </item>
     <item>
-      <p>Click on <gui>Sound</gui> to open the panel.</p>
+      <p>Click <gui>Sound</gui>.</p>
     </item>
     <item>
       <p>In the <gui>Sound Effects</gui> tab, select an alert sound. Each sound

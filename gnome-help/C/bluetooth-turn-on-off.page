@@ -42,20 +42,15 @@
   </comment>
 
 <if:choose>
-  <if:when test="platform:unity">
-    <p>You can turn Bluetooth on to use Bluetooth devices and send and receive
-    files, but turn it off to conserve power. To turn Bluetooth on, click the
-    Bluetooth icon in the menu bar and click <gui>Turn On Bluetooth</gui>.</p>
-  </if:when>
   <p>You can turn Bluetooth on to use Bluetooth devices and send and receive
   files, but turn it off to conserve power. To turn Bluetooth on:</p>
   <steps>
     <item>
-      <p>Open the <gui xref="shell-terminology">Activities</gui> overview and
-      start typing <gui>Bluetooth</gui>.</p>
+      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
+      your screen, then click on <gui>Settings</gui>.</p>
     </item>
     <item>
-      <p>Click on <gui>Bluetooth</gui> to open the panel.</p>
+      <p>Click <gui>Bluetooth</gui>.</p>
     </item>
     <item>
       <p>Set the switch in the titlebar to <gui>ON</gui>.</p>
@@ -79,18 +74,14 @@
 </if:choose>
 
 <if:choose>
-  <if:when test="platform:unity">
-    <p>To turn Bluetooth off, click the Bluetooth icon and click
-    <gui>Turn Off Bluetooth</gui>.</p>
-  </if:when>
   <p>To turn Bluetooth off:</p>
   <steps>
     <item>
-      <p>Open the <gui xref="shell-terminology">Activities</gui> overview and
-      start typing <gui>Bluetooth</gui>.</p>
+      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
+      your screen, then click on <gui>Settings</gui>.</p>
     </item>
     <item>
-      <p>Click on <gui>Bluetooth</gui> to open the panel.</p>
+      <p>Click <gui>Bluetooth</gui>.</p>
     </item>
     <item>
       <p>Set the switch in the titlebar to <gui>OFF</gui>.</p>
@@ -99,7 +90,6 @@
 </if:choose>
 
 <note><p>You only need to switch <gui>Visibility</gui> on if you are connecting
-to this computer from another device. See <link xref="bluetooth-visibility"/>
-for more information.</p></note>
+to this computer from another device.</p></note>
 
 </page>

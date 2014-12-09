@@ -61,8 +61,7 @@
   <note style="tip">
     <p>For security reasons, Endless will not store your password on your
     computer. Instead, it stores a token that is provided by the online
-    service. If you want to fully revoke the link between your desktop and the
-    online service, <link xref="accounts-remove">remove</link> it.</p>
+    service.</p>
   </note>
 
 </page>

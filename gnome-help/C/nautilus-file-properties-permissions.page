@@ -57,8 +57,7 @@
     <p>If the file is a program, such as a script, you must select <gui>Allow
     executing file as program</gui> to run it. Even with this option selected,
     the file manager may still open the file in an application or ask you
-    what to do. See <link xref="nautilus-behavior#executable"/> for more
-    information.</p>
+    what to do.</p>
   </section>
 
   <section id="folders">

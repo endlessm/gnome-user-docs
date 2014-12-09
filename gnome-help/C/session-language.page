@@ -49,9 +49,9 @@
     </item>
     <item>
       <p>Select your desired language. If your language is not listed, click
-      <media its:translate="no" type="image" mime="image/svg" src="figures/view-
-      more-symbolic.svg"/>. at the bottom of the list to select from all
-      available regions and languages.</p>
+      <media its:translate="no" type="image" mime="image/svg"
+      src="figures/view-more-symbolic.svg"/> at the bottom of the list to select
+      from all available regions and languages.</p>
     </item>
     <item>
       <p>Click <gui>Done</gui> to save.</p>

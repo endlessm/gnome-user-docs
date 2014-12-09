@@ -39,7 +39,7 @@ Bluetooth device, such as a phone or headset.</p>
   <item>
     <title>Bluetooth hardware not recognized</title>
     <p>Your Bluetooth adapter/dongle may not have been recognized by the computer.
-    This could be because <link xref="hardware-driver">drivers</link> for the
+    This could be because drivers for the
     adapter aren't installed. Some Bluetooth adapters aren't supported on Linux,
     so you may not be able to get the right drivers for them. In this case, you
     will probably have to get a different Bluetooth adapter.</p>
@@ -60,8 +60,7 @@ Bluetooth device, such as a phone or headset.</p>
   <item>
     <title>Device Bluetooth connection switched off</title>
     <p>Check that Bluetooth is turned on on the device you're trying to connect
-    to, and that it is
-    <link xref="bluetooth-visibility">discoverable or visible</link>. For
+    to, and that it is discoverable or visible. For
     example, if you're trying to connect to a phone, make sure that it's not in
     airplane mode.</p>
   </item>

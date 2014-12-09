@@ -145,19 +145,12 @@
   <include xmlns="http://www.w3.org/2001/XInclude"
            href="shell-keyboard-shortcuts.page"
            xpointer="ctrl-alt-tab"/>
-  <include xmlns="http://www.w3.org/2001/XInclude"
-           href="shell-keyboard-shortcuts.page"
-           xpointer="super-updown"/>
   <tr>
     <td><p><keyseq><key>Alt</key><key>F6</key></keyseq></p></td>
     <td><p>Cycle through windows in the same application. Hold down the <key>Alt</key>
     key and press <key>F6</key> until the window you want is highlighted, then release
     <key>Alt</key>. This is similar to the <keyseq><key>Alt</key><key>`</key></keyseq>
     feature.</p></td>
-  </tr>
-  <tr>
-    <td><p><keyseq><key>Alt</key><key>Esc</key></keyseq></p></td>
-    <td><p>Cycle through all open windows on a workspace.</p></td>
   </tr>
   <tr>
     <td><p><keyseq><key>Super</key><key>M</key></keyseq></p></td>
@@ -191,9 +184,6 @@
     then use the arrow keys to resize the window. Press <key>Enter</key> to finish
     resizing the window, or <key>Esc</key> to return it to its original size.</p></td>
   </tr>
-  <include xmlns="http://www.w3.org/2001/XInclude"
-           href="shell-keyboard-shortcuts.page"
-           xpointer="super-shift-updown"/>
   <tr>
     <td><p><keyseq><key>Alt</key><key>F10</key></keyseq> or
     <keyseq><key>Super</key><key>&#8593;</key></keyseq></p>
