@@ -4,8 +4,7 @@
       id="user-admin-change">
 
   <info>
-    <link type="guide" xref="user-accounts#privileges"/>
-    <link type="seealso" xref="user-admin-explain" />
+    <link type="guide" xref="user-admin-explain"/>
 
     <revision pkgversion="3.8.0" date="2013-03-09" status="candidate"/>
     <revision pkgversion="3.10" date="2013-11-01" status="review"/>
@@ -36,8 +35,8 @@
 
   <steps>
     <item>
-      <p>Click on the System Menu at the very bottom left-hand corner of your
-      screen and select the <gui>Settings</gui> button.</p>
+      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
+      your screen, then click on <gui>Settings</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Users</gui> to open the panel.</p>

@@ -3,7 +3,8 @@
       id="files-share">
 
   <info>
-    <link type="guide" xref="files" group="more"/>
+    <link type="guide" xref="files#share"/>
+
     <desc>Easily transfer files to your email contacts from the file
     manager.</desc>
 

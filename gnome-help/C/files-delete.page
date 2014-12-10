@@ -4,7 +4,6 @@
 
   <info>
     <link type="guide" xref="files"/>
-    <link type="seealso" xref="files-recover"/>
     <desc>Remove files or folders you no longer need.</desc>
 
     <revision pkgversion="3.5.92" version="0.2" date="2012-09-16" status="review"/>
@@ -70,7 +69,7 @@
   the <gui>Behavior</gui> tab. Select <gui>Include a Delete command that
   bypasses Trash</gui>.</p></note>
 
-  <note><p>Deleted files on a <link xref="files#removable">removable device
+  <note><p>Deleted files on a <link xref="files-removedrive">removable device
   </link> may not be visible on other operating systems, such Windows or Mac
   OS. The files are still there, and will be available when you plug the device
   back into your computer.</p></note>

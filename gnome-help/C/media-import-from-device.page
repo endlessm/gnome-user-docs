@@ -1,0 +1,104 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="media-import-from-device">
+
+  <info>
+    <link type="guide" xref="files#media"/>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Import photos and videos from your device to your computer.</desc>
+  </info>
+
+  <title>Import photos from a phone or camera</title>
+
+  <p>There are a few ways that you can import your photos and videos from an
+  external device to your computer. Here are some ways to do so:</p>
+
+  <section>
+    <steps>
+      <title>Using a USB Cable</title>
+      <item>
+        <p>If your camera or phone has a USB cable, connect it directly to your
+        Endless computer.</p>
+      </item>
+      <item>
+        <p>Click on the <app>Documents</app> icon from your desktop.</p>
+      </item>
+      <item>
+        <p>You will see the name of your device appear on the left hand side
+        menu. Double click on it to open it.</p>
+      </item>
+      <item>
+        <p>Look through the photos or videos on your device by scrolling through
+        the files. A preview of the image will appear on the right hand side of
+        the window.</p>
+      </item>
+      <item>
+        <p>When you find the photo that you want to import, simply drag the
+        photos from that folder into another folder.</p>
+      </item>
+    </steps>
+
+    <p>When you use external storage devices like cameras, USB flash drives, and
+    phones, you should safely remove them before unplugging them. If you just
+    unplug a device, you run the risk of unplugging while an application is
+    still using it. This could result in some of your files being lost or
+    damaged. When you use an optical disc like a CD or DVD, you can use the same
+    steps to eject the disc from your computer.</p>
+
+    <steps>
+      <title>Safely disconnect your camera or phone:</title>
+
+      <item>
+        <p>Click on the <app>Documents</app> icon from your desktop.</p>
+      </item>
+      <item>
+        <p>Locate the device in the sidebar. It should have a small eject icon
+        next to the name. Click the eject icon to safely remove or eject the
+        device.</p>
+
+        <p>Alternately, you can right-click the name of the device in the
+        sidebar and select <gui>Eject</gui>.</p>
+      </item>
+    </steps>
+
+    <p>If any of the files on the device are open and in use by an
+    application, you will not be able to safely remove the device. You will be
+    prompted with a window telling you <gui>Volume is busy</gui>.</p>
+
+    <steps>
+      <title>Safely remove a device that is in use</title>
+
+
+      <item>
+        <p>Click <gui>Cancel</gui>.</p>
+      </item>
+      <item>
+        <p>Close all the files on the device.</p>
+      </item>
+      <item>
+        <p>Click the eject icon to safely remove or eject the device.</p>
+      </item>
+      <item>
+        <p>Alternately, you can right-click the name of the device in the
+        sidebar and select <gui>Eject</gui>.</p>
+      </item>
+    </steps>
+
+    <note>
+      <p>If you have a smartphone, try emailing your photos to yourself so that
+      you can open them on your computer's browser and download and save them to
+      your computer.</p>
+    </note>
+  </section>
+
+</page>

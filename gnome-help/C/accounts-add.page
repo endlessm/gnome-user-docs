@@ -1,0 +1,67 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="topic" style="task"
+      id="accounts-add">
+
+  <info>
+    <link type="guide" xref="shell-overview#customize"/>
+
+    <revision pkgversion="3.5.5" version="0.1" date="2012-08-14" status="draft"/>
+    <revision pkgversion="3.9.92" date="2012-09-18" status="candidate"/>
+
+    <credit type="author">
+      <name>Jim Campbell</name>
+      <email its:translate="no">jwcampbell@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Hill</name>
+      <email its:translate="no">mdhillca@gmail.com</email>
+    </credit>
+
+    <desc>Connect an online account.</desc>
+</info>
+
+  <title>Add an account</title>
+
+  <p>Adding an account will help link your online accounts with your Endless
+  desktop. Thus, your email app, chat app and other related
+  applications will be set up for you.</p>
+
+  <steps>
+    <item>
+      <p>Click the <key>+</key> button in the lower-left portion of the
+      window.</p>
+    </item>
+    <item>
+      <p>Select the type of account which you want to add.</p>
+      <p>If you want to add more than one account type, you can do so at a
+      later time.</p>
+    </item>
+    <item>
+      <p>A small window will open where you can enter your online
+      account credentials. For example, if you are setting up a Google account,
+      enter your Google username and password.</p>
+    </item>
+    <item>
+      <p>If you have entered your credentials correctly, you will be prompted
+      to allow Endless access to your online account. Authorize access to
+      continue.</p>
+    </item>
+    <item>
+      <p>Select the applications that you want linked to your online account.
+      For example, if you want to use an online account for chat, but do not
+      want to use an online account for your calendar, turn the
+      <gui>Calendar</gui> option to <gui>Off</gui>.</p>
+    </item>
+  </steps>
+
+  <p>After you have added the accounts, each application that you have selected
+  will automatically use those credentials when you start them.</p>
+
+  <note style="tip">
+    <p>For security reasons, Endless will not store your password on your
+    computer. Instead, it stores a token that is provided by the online
+    service.</p>
+  </note>
+
+</page>

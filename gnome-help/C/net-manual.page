@@ -3,7 +3,7 @@
       type="topic" style="task"
       id="net-manual">
   <info>
-    <link type="guide" xref="net-wireless"/>
+    <link type="guide" xref="net#connecting"/>
 
     <revision pkgversion="3.4.0" date="2012-02-20" status="final"/>
     <revision pkgversion="3.10" version="0.2" date="2013-11-11" status="review"/>
@@ -33,7 +33,7 @@
 <steps>
   <title>To manually set your network settings:</title>
  <item>
-      <p>Click on the System Menu on the very bottom left-hand corner of your
+      <p>Click on the User Menu on the very bottom left-hand corner of your
       screen and then click on <gui>Settings</gui>.</p>
  </item>
  <item>

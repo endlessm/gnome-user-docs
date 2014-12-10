@@ -1,0 +1,78 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="shell-download-media">
+
+  <info>
+    <link type="guide" xref="shell-overview#customize"/>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+
+    <desc>Learn how to download songs and media from the internet.</desc>
+  </info>
+
+  <title>Download Songs and Media</title>
+
+  <p>You can use the <app>Frostwire</app> app to download songs and media from
+  the internet.</p>
+
+  <comment>Need to figure out what we are calling the <app>Frostwire</app> app and replace
+  the word throughout this page.</comment>
+
+  <steps>
+    <title>Download songs and media from the internet following these
+    steps:</title>
+    <item>
+      <p>Make sure that you have added the <app>Frostwire</app> app to your
+      desktop, then click on it once to open it.</p>
+    </item>
+    <item>
+      <p>Type in a search keyword and press <key>Enter</key> on your keyboard or
+      click on the search icon. Suggested keywords will show up as you type.
+      Click one if it is the keyword you want to search for.</p>
+    </item>
+    <item>
+      <p>Options will appear in the main window. Click on the file type by
+      selecting the icon of a music note (songs), a frame (photos), a film strip
+      (videos), or a sheet of paper (documents). You can also filter your
+      results by clicking on the <gui>Search Tools</gui> button on the right-
+      hand side of the window.</p>
+    </item>
+    <item>
+      <p>Double click on the name of a file or click once then click
+      <gui>Download</gui> to begin downloading the song.</p>
+    </item>
+    <item>
+      <p>Double click on the finished download that appears on the bottom half
+      of your screen or click on the <gui>Library</app> icon to open or play
+      your files. Right click on the finished file to see more options.</p>
+    </item>
+  </steps>
+
+  <note style="tip">
+    <title>Tips:</title>
+    <list>
+      <item>
+        <p>A song with more “Seeds” next to its name will download more
+        quickly.</p>
+      </item>
+      <item>
+        <p>Files from SoundCloud.com, Archive.org, or other similar services,
+        will not show any “Seeds” because they come directly from the source
+        rather than from other FrostWire users.</p>
+      </item>
+      <item>
+        <p>Click the triangle button next to a file to preview it before
+        downloading.</p>
+      </item>
+      <item>
+        <p>Click the plus button next to a file to select the parts of the
+        package that you want to download.</p>
+      </item>
+    </list>
+  </note>
+</page>

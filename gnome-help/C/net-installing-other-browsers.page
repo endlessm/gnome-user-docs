@@ -1,0 +1,32 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="net-installing-other-browsers">
+
+  <info>
+    <link type="guide" xref="net#browser"/>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Learn about our current and future browser support.</desc>
+  </info>
+
+  <title>Installing other browsers</title>
+
+  <p>Unfortunately, Endless does not currently support the installation of other
+  browsers.</p>
+
+  <p>We plan on supporting the installation of other browsers at a future date,
+  and will notify you when we add this feature. Feel free to give us your
+  feedback and let us know what you need.</p>
+
+  <p>In the meantime, we hope you enjoy using the current Endless browser to
+  explore new websites and stay updated on the world's news!</p>
+</page>

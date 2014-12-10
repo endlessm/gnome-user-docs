@@ -1,0 +1,218 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="files-save">
+
+  <info>
+    <link type="guide" xref="files"/>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Learn how to save your photos, music and documents.</desc>
+  </info>
+
+  <title>Save your files</title>
+
+  <p>There are a few types of files that you may want to save on your
+  computer, like photos, music and documents.</p>
+
+  <p>Here is information about what "files" are, how to save them, and some
+  best practices for making sure that you can later find them.</p>
+
+  <section>
+    <title>What are "files" and why are they important?</title>
+
+    <p>"Files" are packages that save and contain your stuff.</p>
+
+    <p>For example, if you are working on writing a document and want to save it
+    so that you can look at it later, you can save that file to your computer
+    and then open it later to continue working on it. Similarly, a song file
+    is something that has been created and saved so that you can open it and
+    listen to it.</p>
+
+    <p>When you see a file, you can tell what kind of stuff it contains by
+    looking at the end of its name. For example, many pictures end with ".jpg"
+    or ".png". The endings are called file name extensions.</p>
+
+    <p>Here are some examples of files you may be familiar with and some popular
+    name extensions that describe them:</p>
+
+    <terms>
+      <item>
+        <p>Photos = .jpg, .png, .tiff, .gif</p>
+      </item>
+      <item>
+        <p>Music = .mp3, .mp4</p>
+      </item>
+      <item>
+        <p>Libre Office Documents = .odf</p>
+      </item>
+      <item>
+        <p>Microsoft Word Documents = .doc</p>
+      </item>
+      <item>
+        <p>Photoshop = .psd</p>
+      </item>
+    </terms>
+
+    <p>It is important to learn a little bit about files and the extension names
+    before you start to save your own files so that you make sure to save yours
+    correctly.</p>
+
+    <p>When you save your files, it is like saving them into a particular
+    language that only your computer knows how to read. So, each file extension
+    name tells your computer in which "language" you are saving your files. Some
+    apps only know how to work with certain files.</p>
+
+    <note>
+      <p>Another common type of file is called PDF (.pdf). These documents
+      usually are not easily editable, but can be seen on almost any kind of
+      device, and are very popular. </p>
+    </note>
+  </section>
+
+  <section>
+    <title>How do I save a file?</title>
+
+    <p>Each app has its own way of saving a file, but you can usually save
+    files one of two ways:</p>
+
+    <steps>
+      <title>Saving with the file menu:</title>
+
+      <item>
+        <p>Click once on your app's <gui>File</gui> menu (usually in the top
+        left hand corner) and click once on the <gui>Save</gui> option within
+        it.</p>
+      </item>
+      <item>
+        <p>Name your new file. It is a good idea to name your file something
+        that will help you identify and remember it. For example, if your file
+        is a photo of you and your friends, you may want to name it something
+        like "friend photo Cassandra and Eddy" so that you can search for and
+        find it later. </p>
+      </item>
+      <item>
+        <p>Choose where to save your file. We have made a few folders that might
+        help you remember where your files are later:  Documents, Music,
+        Pictures, Videos and Downloads. To save your file to a folder, click on
+        it and make sure that it is highlighted in blue. You can also save your
+        files to a custom folder that you create (learn how to create a custom
+        folder below).</p>
+      </item>
+      <item>
+        <p>Click <gui>Save</gui> and your newly named file will be saved to the
+        folder that you have chosen. The <gui>Save</gui> button is usually on
+        the bottom right-hand corner of the window. </p>
+      </item>
+    </steps>
+    <steps>
+      <title>Saving with keyboard shortcuts:</title>
+
+      <item>
+        <p>Most apps allow you to press <keyseq><key>Ctrl</key><key>s</key>
+        </keyseq> to save your files. This is a keyboard shortcut, and
+        may be different in different apps, but it usually works. </p>
+      </item>
+    </steps>
+
+    <note>
+       <p>It is a great idea to save your documents or things you are working
+       on frequently!</p>
+
+       <p>If there is a power outage or interruption, you will lose everything
+       you are working on unless you save it.</p>
+
+       <p>Remember to save important documents every 2 - 5 minutes just to make
+       sure you don't lose any of your hard work! </p>
+    </note>
+
+    <note>
+      <p>If you are updating a file instead of trying to save a new one, you
+      will not be asked to name the file when you try to save it. Your computer
+      will just update the original file with any changes you have made. Your
+      updated file will appear in its original location. </p>
+    </note>
+  </section>
+
+  <section>
+    <title>How do I keep the original version too?</title>
+
+    <p>In order to keep both the original file and also an edited version, you
+    will need to use the "Save As" option. </p>
+
+    <steps>
+      <item>
+        <p>Go to the <gui>File</gui> menu at the top left corner of your screen.
+        Click on the <gui>Save As</gui> option. </p>
+      </item>
+      <item>
+        <p> Enter in a new name for your file. By renaming the photo, your
+        computer understands that you want to create a new file with its own
+        name, not replace the original one. You may want to name the new file
+        something similar to the original file, like "copy of friend photo
+        Cassandra and Eddy" or "friend photo Cassandra and Eddy 2". </p>
+      </item>
+      <item>
+        <p> Choose the location where you want to later find your file. We have
+        created a few folders to help you organize your files:  Documents,
+        Music, Pictures, Videos and Downloads. You may also want to create
+        custom folders to help you further organize your files. Learn how to
+        make a custom folder below. </p>
+      </item>
+    </steps>
+  </section>
+
+  <section>
+    <title>How do I create a folder to store my files?</title>
+
+    <p>Creating a folder to keep your files is different than creating a folder
+    to keep your apps. You can see the folders where your files are saved by
+    clicking on the "Documents" icon from the desktop.</p>
+
+    <steps>
+      <title>To create a folder to store your files:</title>
+
+      <item>
+        <p>Click on the <gui>Documents</gui> icon from the desktop. You will
+        see some folders that we have already created: Home, Documents, Music,
+        Pictures, Videos and Downloads.</p>
+      </item>
+      <item>
+        <p>Where do you want to keep your folder? You can put it inside of
+        another folder, or in the main "Home" folder by clicking on the the
+        location of your choice. Make sure the location you click on turns blue.
+        </p>
+      </item>
+      <item>
+        <p>Click on the <gui>Add Folder</gui> icon on the bottom right-hand
+        corner of the window. If you don't see it, click on the folder where you
+        want to add the new folder (e.g. Home, Pictures, or Music) twice. You
+        should then see the Add Folder button.</p>
+      </item>
+      <item>
+        <p>Name the folder something that will help you remember what kind of
+        files you are going to put inside of it, or to whom the files will
+        belong.</p>
+      </item>
+    </steps>
+
+    <note>
+      <p>You may want to add a folder inside of another folder to help keep
+      your files really organized.</p>
+
+      <p>For example, you may want to create a folder within "Pictures" called
+      "Friend Photos". If you have a lot of friends, you may even want to create
+      more folders inside of that folder, one for each of your friends
+      (something like "Pictures with Cassandra", "Pictures with Celia" and
+      "Pictures with Abel").</p>
+    </note>
+  </section>
+</page>

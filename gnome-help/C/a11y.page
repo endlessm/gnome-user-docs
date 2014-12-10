@@ -1,0 +1,51 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="guide" style="a11y task 2column"
+      id="a11y">
+
+  <info>
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <email its:translate="no">shaunm@gnome.org</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Hill</name>
+      <email its:translate="no">mdhillca@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Ekaterina Gerasimova</name>
+      <email its:translate="no">kittykat3756@gmail.com</email>
+    </credit>
+
+    <desc>Use your Endless computer with visual, hearing or mobility impairments.</desc>
+  </info>
+
+  <title>Universal Access</title>
+
+  <p>The Endless computer includes assistive technologies to support users with
+  various impairments and special needs, and to interact with common assistive
+  devices. An accessibility menu can be added to the top bar, giving easier
+  access to many of the accessibility features.</p>
+
+  <section id="vision" style="2column">
+    <title>Visual Impairments</title>
+  </section>
+
+  <section id="low-vision" style="2column">
+    <title>Low Vision</title>
+  </section>
+
+  <section id="hearing" style="2column">
+    <title>Hearing Impairments</title>
+  </section>
+
+  <section id="mobility" style="2column">
+    <title>Mobility Impairments</title>
+  </section>
+
+  <section id="see-also" style="2column">
+    <title>See Also</title>
+  </section>
+</page>

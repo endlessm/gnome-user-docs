@@ -1,0 +1,36 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="guide" style="task 2column"
+      id="security-and-privacy">
+
+  <info>
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Managing passwords, creating users, backing up your files.</desc>
+  </info>
+
+  <title>Security and Privacy</title>
+
+  <section id="user" style="2column">
+    <title>User Accounts</title>
+  </section>
+
+  <section id="multiple-users" style="2column">
+    <title>Multiple User Accounts</title>
+  </section>
+
+  <section id="backup" style="2column">
+    <title>Backup your Computer</title>
+  </section>
+
+  <section id="protect" style="2column">
+    <title>Protect your Computer</title>
+  </section>
+</page>

@@ -1,0 +1,36 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="shell-windows-hide">
+
+  <info>
+    <link type="guide" xref="shell-overview#windows"/>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Temporarily hide, then bring back windows.</desc>
+  </info>
+
+  <title>Hide your windows without closing them</title>
+
+  <p>To hide a window click the <gui>Hide</gui> button on the right of the title
+  bar.</p>
+
+  <comment>{include image of title bar}</comment>
+
+  <p>Once the app is hidden, you can bring it back by clicking on its icon on
+  the task bar.</p>
+
+  <note style="tip">
+    <p>If you want to hide several windows at the same time, you might want to
+    use the <gui>hot corner</gui> to quickly navigate between the hidden
+    apps.</p>
+  </note>
+</page>

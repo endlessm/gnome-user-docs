@@ -2,8 +2,7 @@
       type="topic" style="question"
       id="net-email-virus">
   <info>
-    <link type="guide" xref="net-security"/>
-    <link type="seealso" xref="net-antivirus"/>
+    <link type="guide" xref="security-and-privacy#protect"/>
 
     <revision pkgversion="3.4.0" date="2012-02-20" status="final"/>
 

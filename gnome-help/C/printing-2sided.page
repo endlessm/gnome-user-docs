@@ -3,7 +3,7 @@
       id="printing-2sided">
 
   <info>
-    <link type="guide" xref="printing#paper"/>
+    <link type="guide" xref="hardware#printers"/>
 
     <desc>Print on both sides of the paper, or multiple pages per sheet.</desc>
 

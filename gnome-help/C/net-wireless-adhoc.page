@@ -3,7 +3,7 @@
       type="topic" style="task"
       id="net-adhoc">
   <info>
-    <link type="guide" xref="net-wireless"/>
+    <link type="guide" xref="net#connecting"/>
 
     <revision pkgversion="3.4.0" date="2012-02-19" status="outdated"/>
     <revision pkgversion="3.10" version="0.2" date="2013-11-10" status="review"/>
@@ -21,18 +21,16 @@
       <email its:translate="no">mdhillca@gmail.com</email>
     </credit>
 
-    <desc>Use an ad-hoc network to allow other devices to connect to your
-    computer and its network connections.</desc>
+    <desc>Create a wireless hotspot and connect to other devices.</desc>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
   </info>
 
 <title>Create a wireless hotspot</title>
 
-<p>You can use your computer as a wireless hotspot. This allows other devices to
-connect to you without a separate network, and allows you to share an internet
-connection you've made with another interface, such as to a wired network or
-over the cellular network.</p>
+<p>If you have a <link xref="net-wired-connect">wired connection</link>, you can
+use your computer as a wireless hotspot. This allows other devices to connect to
+you and allows you to share an internet connection or cellular network.</p>
 
 <comment>
 <cite date="2012-02-19">shaunm</cite>
@@ -45,7 +43,7 @@ link below where it says the name of the network is your device name.</p>
 </comment>
 
 <steps>
-  <item><p>Click on the network status icon on the task bar at the very bottom
+  <item><p>Click on the network status icon on the task bar at the bottom
   right-hand corner of your screen.</p></item>
   <item><p>Click <gui>Network Settings</gui>.</p></item>
   <item><p>Click the <gui>Use as Hotspot...</gui> button.</p></item>
@@ -58,5 +56,8 @@ link below where it says the name of the network is your device name.</p>
 <p>A network name (SSID) and security key are automatically generated.
 The network name will be based on the name of your computer. Other devices
 will need this information to connect to the hotspot you've just created.</p>
+
+<note><p> It is not possible to connect to the internet via a wireless
+connection while the hotspot is active.</p></note>
 
 </page>

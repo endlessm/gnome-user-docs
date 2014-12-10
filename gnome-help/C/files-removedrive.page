@@ -2,7 +2,7 @@
       type="topic" style="task"
       id="files-removedrive">
   <info>
-    <link type="guide" xref="files#removable"/>
+    <link type="guide" xref="files"/>
 
     <credit type="author">
       <name>Shaun McCance</name>

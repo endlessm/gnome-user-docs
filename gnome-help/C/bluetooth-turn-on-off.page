@@ -1,0 +1,76 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="guide" style="task" version="1.0 if/1.0"
+      id="bluetooth-turn-on-off">
+
+  <info>
+    <link type="guide" xref="bluetooth"/>
+
+    <revision pkgversion="3.4.0" date="2012-02-19" status="outdated"/>
+    <revision pkgversion="3.10" version="0.2" date="2013-11-09" status="review"/>
+
+    <desc>Enable or disable the Bluetooth device on your computer.</desc>
+
+    <credit type="author">
+      <name>Jim Campbell</name>
+      <email its:translate="no">jwcampbell@gmail.com</email>
+    </credit>
+    <credit type="author">
+      <name>Shaun McCance</name>
+      <email its:translate="no">shaunm@gnome.org</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Hill</name>
+      <email its:translate="no">mdhillca@gmail.com</email>
+    </credit>
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+<title>Turn Bluetooth on or off</title>
+
+<media its:translate="no" type="image" src="figures/bluetooth-menu.png" style="floatend">
+  <p its:translate="yes">The Bluetooth icon on the top bar</p>
+</media>
+
+  <comment>
+    <cite date="2013-11-09" href="mailto:mdhillca@gmail.com">mdhill</cite>
+    <p>Add link to shell-terminology definition of system status *area* of top
+    bar when it has been written, explain that if your network connection is
+    through a bluetooth device it will show up in the system status *menu*
+    and only then will its icon be visible as shown.</p>
+  </comment>
+
+  <p>You can turn Bluetooth on to use Bluetooth devices and send and receive
+  files, but turn it off to conserve power. To turn Bluetooth on:</p>
+  <steps>
+    <item>
+      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
+      your screen, then click on <gui>Settings</gui>.</p>
+    </item>
+    <item>
+      <p>Click <gui>Bluetooth</gui>.</p>
+    </item>
+    <item>
+      <p>Set the switch in the titlebar to <gui>ON</gui>.</p>
+    </item>
+  </steps>
+
+  <p>To turn Bluetooth off:</p>
+  <steps>
+    <item>
+      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
+      your screen, then click on <gui>Settings</gui>.</p>
+    </item>
+    <item>
+      <p>Click <gui>Bluetooth</gui>.</p>
+    </item>
+    <item>
+      <p>Set the switch in the titlebar to <gui>OFF</gui>.</p>
+    </item>
+  </steps>
+
+<note><p>You only need to switch <gui>Visibility</gui> on if you are connecting
+to this computer from another device.</p></note>
+
+</page>

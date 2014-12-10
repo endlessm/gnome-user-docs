@@ -108,37 +108,83 @@ HELP_MEDIA = \
 
 HELP_FILES = \
 	legal.xml \
+	a11y-bouncekeys.page \
+	a11y-braille.page \
+	a11y-contrast.page \
+	a11y-dwellclick.page \
+	a11y-font-size.page \
+	a11y-icon.page \
+	a11y-mag.page \
+	a11y-right-click.page \
+	a11y-screen-reader.page \
+	a11y-slowkeys.page \
+	a11y-stickykeys.page \
+	a11y-visualalert.page \
+	a11y.page \
+	accounts-add.page \
+	backup-check.page \
 	backup-frequency.page \
 	backup-how.page \
 	backup-restore.page \
 	backup-what.page \
+	backup-where.page \
 	backup-why.page \
+	bluetooth-connect-device.page \
+	bluetooth-problem-connecting.page \
+	bluetooth-remove-connection.page \
+	bluetooth-send-file.page \
+	bluetooth-turn-on-off.page \
+	bluetooth.page \
+	clock-set.page \
+	clock-timezone.page \
 	display-dual-monitors.page \
-	documents-search.page \
 	files-browse.page \
 	files-copy.page \
 	files-delete.page \
+	files-microsoft-compatible.page \
+	files-open.page \
 	files-preview.page \
 	files-recover.page \
 	files-removedrive.page \
 	files-rename.page \
+	files-save.page \
+	files-search.page \
 	files-share.page \
+	files-zip.page \
 	files.page \
 	hardware.page \
 	index.page \
+	keyboard-cursor-blink.page \
+	keyboard-es-accent.page \
+	keyboard-key-menu.page \
 	keyboard-key-super.page \
 	keyboard-layouts.page \
+	keyboard-nav.page \
+	keyboard-osk.page \
+	keyboard-repeat-keys.page \
 	keyboard.page \
 	look-background.page \
+	media-import-from-device.page \
+	media-listen-music.page \
+	media-play-videos.page \
 	mouse-doubleclick.page \
+	mouse-mousekeys.page \
 	mouse-sensitivity.page \
+	mouse-when-right-click.page \
 	mouse.page \
+	nautilus-file-properties-basic.page \
+	nautilus-file-properties-permissions.page \
+	net-3g-dongles.page \
 	net-antivirus.page \
+	net-create-email.page \
+	net-discover-websites.page \
 	net-email-virus.page \
+	net-installing-other-browsers.page \
 	net-manual.page \
-	net-security.page \
+	net-read-news.page \
 	net-slow.page \
-	net-vpn-connect.page \
+	net-social-bar.page \
+	net-troubleshoot.page \
 	net-wired-connect.page \
 	net-wireless-adhoc.page \
 	net-wireless-airplane.page \
@@ -148,31 +194,46 @@ HELP_FILES = \
 	net-wireless-hidden.page \
 	net-wireless-noconnection.page \
 	net-wireless-wepwpa.page \
-	net-wireless.page \
 	net.page \
-	power-othercountry.page \
-	prefs-display.page \
-	prefs.page \
 	printing-2sided.page \
 	printing-cancel-job.page \
 	printing-differentsize.page \
+	printing-from-applications.page \
 	printing-order.page \
 	printing-select.page \
 	printing-setup-default-printer.page \
 	printing-setup.page \
+	printing-supported.page \
 	printing-to-file.page \
-	printing.page \
+	privacy-screen-lock.page \
 	screen-shot-record.page \
+	security-and-privacy.page \
+	security-data-collection.page \
+	security-guard-privacy.page \
+	security-understand-password.page \
 	session-language.page \
+	sharing-bluetooth.page \
+	sharing-media.page \
+	shell-add-desktop-folder.page \
+	shell-apps-close.page \
 	shell-apps-open.page \
+	shell-delete-app-desktop.page \
+	shell-download-media.page \
 	shell-exit.page \
+	shell-install-ext-apps.page \
 	shell-introduction.page \
-	shell-lockscreen.page \
+	shell-keyboard-shortcuts.page \
+	shell-notifications.page \
+	shell-organize-apps.page \
 	shell-overview.page \
+	shell-update-app.page \
+	shell-update-system.page \
+	shell-windows-hide.page \
 	shell-windows-maximize.page \
+	shell-windows-states.page \
 	shell-windows-switching.page \
-	tips.page \
-	user-accounts.page \
+	sound-alert.page \
+	sound-volume.page \
 	user-add.page \
 	user-admin-change.page \
 	user-admin-explain.page \

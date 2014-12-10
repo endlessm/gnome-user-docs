@@ -3,40 +3,27 @@
       id="net">
 
   <info>
-
-    <link type="guide" xref="index" group="net"/>
-
     <credit type="author">
       <name>Shaun McCance</name>
       <email>shaunm@gnome.org</email>
     </credit>
 
-
-
-    <desc>
-      <link xref="net-wireless">Wireless</link>,
-      <link xref="net-wireless-hidden">hidden networks</link>,
-      <link xref="net-antivirus">antivirus</link>…
-    </desc>
-<!--
-    chat…
--->
-<!--
-    <desc>
-      <link xref="net#problems">Connection problems</link>,
-      <link xref="net#wireless">wireless</link>,
-      <link xref="net#wired">wired</link>,
-      <link xref="net#sharing">sharing files</link>,
-      <link xref="net#security">security</link>,
-      <link xref="net#security">anti-virus</link>…
-    </desc>
-
--->
+    <desc>Connecting to your Wi-Fi and use your browser.</desc>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
   </info>
 
-<title>Networking, web, email &amp; chat</title>
-<links type="topic" style="toronto"/>
+  <title>Internet</title>
 
+  <section id="connecting" style="2column">
+   <title>Wi-Fi, Internet &amp; Bluetooth</title>
+  </section>
+
+  <section id="browser" style="2column">
+   <title>Browser &amp; Discovery Center</title>
+  </section>
+
+  <section id="social" style="2column">
+   <title>Facebook &amp; Online Accounts</title>
+  </section>
 </page>

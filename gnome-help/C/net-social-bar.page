@@ -1,0 +1,83 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="net-facebook-social-bar">
+
+  <info>
+    <link type="guide" xref="net#social"/>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Easily chat with your Facebook friends.</desc>
+  </info>
+
+  <title>Chat on Facebook from your desktop</title>
+
+  <p>Now you can stay connected with your Facebook friends more easily than
+  ever! You will need an internet connection to use this feature.</p>
+
+  <p>First, you'll need to set up your Facebook account on Endless.</p>
+
+  <steps>
+    <title>If you already have a Facebook account:</title>
+    <item>
+      <p>Click on the Facebook icon that is on the very bottom right-hand side
+      of your screen.</p>
+    </item>
+    <item>
+      <p>Enter in your email address and password, then click
+      <gui>Login</gui>.</p>
+    </item>
+    <item>
+      <p>You can now start using Facebook right from your desktop. You do not
+      need to close it if you are working on something else! Just click
+      outside of the Facebook screen or on the Facebook icon to get back to your
+      other open windows.</p>
+    </item>
+  </steps>
+  <steps>
+    <title>If you do not have a Facebook account:</title>
+    <item>
+       <p>Click on the Facebook icon that is on the very bottom right-hand
+       side of your screen.</p>
+    </item>
+    <item>
+       <p>Click on <gui>Create New Account</gui>.</p>
+    </item>
+    <item>
+      <p>Follow the steps that Facebook takes you through to complete their
+      set up process. You will need an email address in order to create a
+      Facebook account.</p>
+    </item>
+  </steps>
+
+  <note>
+    <p>Remember to log out of Facebook if you share your computer with other
+    users, otherwise they will be able to see and use your Facebook account!</p>
+  </note>
+
+  <steps>
+    <title>Logging out of Facebook</title>
+    <p>To log out of your Facebook account:</p>
+    <item>
+      <p>Click on the Facebook icon that is on the very bottom right-hand side
+      of your screen.</p>
+    </item>
+    <item>
+      <p>Click on the button with three white lines on the left-hand side of the
+      Facebook window. This will show you the main menu, with your news feed,
+      events, groups, and more.</p>
+    </item>
+    <item>
+      <p>Scroll all the way to the bottom of the menu and click on the <gui>Log
+      Out</gui> button.</p>
+    </item>
+  </steps>
+</page>

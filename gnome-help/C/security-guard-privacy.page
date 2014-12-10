@@ -1,0 +1,53 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="security-guard-privacy">
+
+  <info>
+    <link type="guide" xref="security-and-privacy#protect"/>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Make sure you keep your computer and information safe.</desc>
+  </info>
+
+  <title>Guard your privacy</title>
+
+  <p><gui>The Lock Screen</gui></p>
+
+  <p> Activating the lock screen when you step away from your computer allows
+  you to keep all of your open apps running so you can resume your work more
+  quickly when you return, without worrying that others will be able to access
+  your workspace while you're gone. The lock screen also provides the following
+  useful information:</p>
+
+  <list>
+    <item>
+      <p>the name of the logged-in user</p>
+    </item>
+    <item>
+      <p>date and time, and certain notifications</p>
+    </item>
+    <item>
+      <p>battery and network status</p>
+    </item>
+    <item>
+      <p>the ability to control media playback - change the volume, skip a track
+      or pause your music without having to enter a password</p>
+    </item>
+  </list>
+  <p>To unlock your computer, just enter your password.</p>
+
+  <note>
+    <p>You can change the lock screen settings under the <gui>Privacy</gui>
+    section in the <gui>Settings</gui> window that you can access from the User
+    Menu on the very bottom left-hand side of your screen.</p>
+  </note>
+</page>

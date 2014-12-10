@@ -2,6 +2,8 @@
       type="topic" style="problem"
       id="net-slow">
   <info>
+    <link type="guide" xref="net-troubleshoot"/>
+
     <revision pkgversion="3.4.0" date="2012-02-21" status="final"/>
 
     <credit type="author">

@@ -3,8 +3,9 @@
       id="print-to-file">
 
   <info>
+    <link type="guide" xref="hardware#printers"/>
+
     <revision pkgversion="3.8" version="0.1" date="2013-03-29" status="review"/>
-    <link type="guide" xref="printing" group="#last"/>
 
     <credit type="author copyright">
       <name>Ekaterina Gerasimova</name>

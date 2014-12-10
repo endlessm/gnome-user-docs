@@ -1,0 +1,23 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="printing-from-applications">
+
+  <info>
+    <link type="guide" xref="files#share"/>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>How to print documents from Writer and other apps.</desc>
+  </info>
+
+  <title>Print my documents</title>
+
+</page>

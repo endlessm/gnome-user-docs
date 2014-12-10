@@ -4,7 +4,7 @@
       id="user-admin-problems">
 
   <info>
-    <link type="guide" xref="user-accounts#privileges"/>
+    <link type="guide" xref="user-admin-explain"/>
 
     <revision pkgversion="3.8.0" date="2013-03-09" status="candidate"/>
     <revision pkgversion="3.10" date="2013-11-03" status="review"/>

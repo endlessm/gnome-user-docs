@@ -1,0 +1,38 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="shell-apps-close">
+
+  <info>
+    <link type="guide" xref="shell-overview#windows"/>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Learn a trick to close your windows in case you get stuck.</desc>
+  </info>
+
+  <title>Close your apps</title>
+
+  <p>You can close your apps two ways:</p>
+
+  <p><gui>Click the X:</gui></p>
+
+  <p>See the <gui>X</gui> button on the very top right corner of the window you
+  are currently viewing? If you press this button, you will close the
+  window.</p>
+
+  <p><gui>Exiting full screen displays:</gui></p>
+
+  <p>Some apps will launch full screen and will not show an <gui>X</gui> button
+  for you to press and close. To exit these apps, you can press the
+  <input>Esc</input> key on your keyboard. The window should then become
+  smaller, and you will see the top bar of the window and the Endless task bar
+  at the bottom. You can then click the <gui>X</gui> to quit.</p>
+</page>

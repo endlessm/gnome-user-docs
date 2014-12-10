@@ -1,0 +1,31 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="shell-install-ext-apps">
+
+  <info>
+    <link type="guide" xref="shell-overview#apps"/>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Learn about installing apps that don’t already come on Endless.</desc>
+  </info>
+
+  <title>Install apps that don't come on Endless</title>
+
+  <p>Currently, it is not possible to install apps outside of the <gui>App
+  Store</gui>. Luckily, Endless comes with a lot of great, and free, apps for
+  you to install and explore!</p>
+
+  <p>If you have a specific app that you would like to see on Endless in the
+  future, please <link href=gs-give-feedback>send us a message through the
+  Feedback option</link> so that we know.</p>
+
+</page>

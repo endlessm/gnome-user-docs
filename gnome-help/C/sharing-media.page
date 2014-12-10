@@ -1,0 +1,90 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="sharing-media">
+  <info>
+    <link type="guide" xref="files#media"/>
+
+    <revision pkgversion="3.10" version="0.2" date="2013-11-02" status="review"/>
+
+    <credit type="author">
+      <name>Michael Hill</name>
+      <email its:translate="no">mdhillca@gmail.com</email>
+    </credit>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <desc>Learn how to use the Photo Editor app.</desc>
+    <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
+  </info>
+
+  <title>Edit and share my photos</title>
+
+  <p>Do you like editing photos? The Photo Editor app makes it easier than ever
+  to make fun photos and share them with your friends and family through
+  Facebook!</p>
+
+  <steps>
+    <title>To edit your photos:</title>
+    <item>
+      <p>Click on the <gui>Photo Editor</gui> icon from your desktop.</p>
+    </item>
+    <item>
+      <p>Click <gui>Open Image</gui>. This will launch the <gui>Pictures</gui>
+      folder on your computer.</p>
+    </item>
+    <item>
+      <p>Choose an image to edit. You can choose a sample image or one that you
+      have added to your computer.</p>
+
+      <p>To look at the sample images on your computer, double click on the
+      <gui>Samples</gui> folder. Scroll through the images and see a small
+      version of them on the right hand side of the window. When you find an
+      image you want to edit, click <gui>OK</gui> or press
+      <key>Enter</key>.</p>
+    </item>
+    <item>
+      <p>Edit your photo! You can crop your image to make it the right size, add
+      filters to make it beautiful, funny or cool, and add frames to finish it up!
+      When you are finished you can share your creation on Facebook.</p>
+    </item>
+    <note>
+      <p>Make sure to save your edited photos! You may want to give your edited
+      photo a new name so that it doesn't replace the original copy.</p>
+    </note>
+    <note>
+      <p>Make your edited photo your computer's background photo with just a
+      click of a button!</p>
+    </note>
+  </steps>
+
+  <steps>
+    <title>To share your photos on Facebook:</title>
+    <p>Share your photo on your Facebook wall with just one click! You will need
+    to have an internet connection to use this feature.</p>
+    <item>
+      <p>Click on the Facebook button.</p>
+    </item>
+    <item>
+      <p>Write a description of your photo, or a message that you want your
+      friends to see.</p>
+    </item>
+    <item>
+      <p>If you are not already logged onto Facebook, you will need to login.
+      Facebook will guide you to do so and you will need to allow Endless Social
+      to post on your wall. We will not post anything that you do not
+      authorize.</p>
+    </item>
+    <item>
+      <p>If you are already logged into Facebook, your photo will automatically
+      post with the description you wrote.</p>
+    </item>
+    <item>
+      <p>A notification will appear when your image has successfully posted to
+      Facebook.</p>
+    </item>
+  </steps>
+
+</page>

@@ -1,0 +1,52 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="files-microsoft-compatible">
+
+  <info>
+    <link type="guide" xref="files#share"/>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2014</years>
+    </credit>
+
+    <desc>Learn how to make Microsoft-compatible files</desc>
+  </info>
+
+  <title>Save in a Microsoft compatible format</title>
+
+  <p>Endless has included apps where you can write documents, create
+  spreadsheets, make presentations, and use much of the same functionality as
+  Microsoft products (like Word, Excel and Powerpoint) - and for free!</p>
+
+  <p>Not only are the apps on Endless similar, but they are also compatible with
+  Microsoft apps. This means that you can open Microsoft files that you receive,
+  and you can also save your files so that people who have Microsoft apps can
+  open up and use your files too.</p>
+
+  <steps>
+    <title>To save your files in a Microsoft format:</title>
+    <item>
+      <p>Click on the <gui>File</gui> menu of the Write, Spreadsheet or
+      Presentation apps, which is on the top left corner of the screen.</p>
+    </item>
+    <item>
+      <p>Click on the <gui>Save</gui> option.</p>
+    </item>
+    <item>
+      <p>You will see a button that says <gui>All Formats</gui>. Click on it to
+      see all of the formats that you can save your file as, and choose the
+      Microsoft version that best suits your needs.</p>
+    </item>
+    <item>
+      <p>Give your file a name, choose where to store it, and click
+      <gui>Save</gui> to finish saving your file.</p>
+    </item>
+  </steps>
+
+</page>

@@ -1,9 +1,8 @@
 <page xmlns="http://projectmallard.org/1.0/"
-  type="guide" style="task"
-  id="mouse">
+      type="guide" style="task 2column"
+      id="mouse">
 <info>
-    <link type="guide" xref="prefs"/>
-    <link type="guide" xref="hardware"/>
+    <link type="guide" xref="hardware#keyboard-mouse"/>
     <desc>
       <link xref="mouse-sensitivity">Speed and sensitivity</link>,
       <link xref="mouse-doubleclick">double click speed</link>…
@@ -17,13 +16,6 @@
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 </info>
 
-<title>Mouse</title>
-<links type="topic" style="2column"/>
-
-<comment>
-  <cite date="2012-02-19">shaunm</cite>
-  <p>Maybe some topic grouping work.
-  </p>
-</comment>
+<title>Use your Mouse</title>
 
 </page>

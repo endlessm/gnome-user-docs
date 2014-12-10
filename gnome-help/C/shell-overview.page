@@ -1,18 +1,9 @@
 <page xmlns="http://projectmallard.org/1.0/"
-      type="guide" style="ui"
+      type="guide" style="task 2column"
       id="shell-overview">
 
   <info>
-
-    <link type="guide" xref="index" group="shell-overview" />
-
-    <title role="trail" type="link">Desktop</title>
-
-    <desc>
-      <link xref="shell-exit">Logging in</link>,
-      <link xref="shell-lockscreen">the lock screen</link>,
-      <link xref="shell-windows-switching">switching windows</link>…
-    </desc>
+    <desc>Using the desktop, search and managing windows.</desc>
 
     <revision pkgversion="3.4.0" date="2012-02-19" status="review"/>
 
@@ -24,16 +15,29 @@
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
   </info>
 
-<title>Desktop, apps &amp; windows</title>
+  <title>The Desktop</title>
 
-<links type="topic" style="2column"/>
+  <section id="apps" style="2column">
+   <title>Apps</title>
+  </section>
 
-<section id="desktop" style="2column">
- <title>The Desktop</title>
-</section>
+  <section id="search" style="2column">
+   <title>Searching on Endless</title>
+  </section>
 
-<section id="apps" style="2column">
- <title>Applications and windows</title>
-</section>
+  <section id="windows" style="2column">
+   <title>Window Management</title>
+  </section>
 
+  <section id="customize" style="2column">
+   <title>Customize Endless</title>
+  </section>
+
+  <section id="time" style="2column">
+   <title>Time and Date</title>
+  </section>
+
+  <section id="lock" style="2column">
+   <title>Restart, Shut Down &amp; Lock</title>
+  </section>
 </page>

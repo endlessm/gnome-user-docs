@@ -4,8 +4,7 @@
       id="user-add">
 
   <info>
-    <link type="guide" xref="user-accounts#manage" group="#first"/>
-    <!--<link type="seealso" xref="user-addguest"/>-->
+    <link type="guide" xref="security-and-privacy#multiple-users"/>
 
     <revision pkgversion="3.8.0" version="0.3" date="2013-03-09" status="candidate"/>
     <revision pkgversion="3.10" date="2013-11-01" status="review"/>
@@ -35,18 +34,6 @@
   <title>Add a new user account</title>
 
   <comment>
-    <cite date="2012-02-19">shaunm</cite>
-    <p>We need a note in here about password hints. Share content with
-    user-changepassword</p>
-  </comment>
-
-  <comment>
-    <cite date="2012-03-24">shaunm</cite>
-    <p>Let's add a "Disable account" page. Click the account, click the dots
-    next to "Password", select "Disable this account" from "Type".</p>
-  </comment>
-
-  <comment>
     <cite date="2012-03-24">shaunm</cite>
     <p>Much of the password dialog simply does not work:</p>
     <list>
@@ -69,16 +56,22 @@
     </list>
   </comment>
 
-  <p>You can add multiple user accounts to your computer. Give one account to
-  each person in your household or company. Every user has their own home
-  folder, documents, and settings.</p>
+  <p>You can create multiple user accounts on your computer and give a user
+  account to everyone who uses your computer. That way, you can make sure that
+  your files remain private and every user will have their own home folder,
+  documents, and custom settings.</p>
 
-  <p>You need <link xref="user-admin-explain">administrator privileges</link>
-  to add user accounts.</p>
+  <p>You will need <link xref="user-admin-explain">administrator
+  privileges</link> to add user accounts. The administrator is usually the
+  person who first set up their account when the computer was first purchased
+  and set up, although others may also have been given administrator privileges
+  by that first user.</p>
 
   <steps>
+    <title>If you are the administrator, follow these steps to create more user
+    accounts:</title>
     <item>
-      <p>Click on the System Menu at the very bottom left-hand corner of your
+      <p>Click on the User Menu at the very bottom left-hand corner of your
       screen and select the <gui>Settings</gui> button.</p>
     </item>
     <item>
@@ -127,4 +120,9 @@
     or you can select your own or take a picture with your webcam.</p>
   </note>
 
+  <note style="tip">
+    <p>You may want to create a "Guest" account so that friends or others who
+    visit you can use it and you can rest assured that they will not mess up any
+    of your preferernces, or delete files.</p>
+  </note>
 </page>
