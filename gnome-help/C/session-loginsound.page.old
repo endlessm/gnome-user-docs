@@ -11,7 +11,7 @@
     <!-- Can you do this any more? Is there even a login sound? -->
     
     <credit type="author">
-      <name>Endless Documentation Project</name>
+      <name>GNOME Documentation Project</name>
       <email>gnome-doc-list@gnome.org</email>
     </credit>
     
@@ -87,7 +87,7 @@
  </note>
 
   <comment>
-   <cite date="2010-10-31" href="mailto:gnome-doc-list@gnome.org">Endless Documentation Project</cite>
+   <cite date="2010-10-31" href="mailto:gnome-doc-list@gnome.org">GNOME Documentation Project</cite>
    <p>Instructions on turning off the sound that is made when the user logs in. Mention how to change it too, and how to make it quieter.</p>
   </comment>
 	
