@@ -24,15 +24,15 @@
   platforms. On a Spanish Latin American keyboard, start by pressing the accute
   accent key and then the letter you'd like to accent:</p>
 
-  <p>´ + a = á</p>
+  <p><keyseq><key>`</key><key>a</key></keyseq> = á</p>
 
-  <p>´ + e = é</p>
+  <p><keyseq><key>`</key><key>e</key></keyseq> = é</p>
 
-  <p>´ + i = í</p>
+  <p><keyseq><key>`</key><key>i</key></keyseq> = í</p>
 
-  <p>´ + o = ó</p>
+  <p><keyseq><key>`</key><key>o</key></keyseq> = ó</p>
 
-  <p>´ + u = ú</p>
+  <p><keyseq><key>`</key><key>u</key></keyseq> = ú</p>
 
-  <p>" + u = ü</p>
+  <p><keyseq><key>"</key><key>u</key></keyseq> = ü</p>
 </page>

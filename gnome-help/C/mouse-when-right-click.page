@@ -33,8 +33,8 @@
   <section>
     <title>If your mouse only has one button</title>
 
-    <p>If your mouse only have one button, you will need to change your settings
-    to allow for you to use just one click button. Here's how to change your
+    <p>If your mouse only has one button, you will need to change your settings
+    to allow for you to use just one button. Here's how to change your
     settings:</p>
 
     <steps>
@@ -46,7 +46,7 @@
         <p>Click on the <gui>Universal Access</gui> panel.</p>
       </item>
       <item>
-        <p>Scroll to the bottom and select <gui>Cick Assist</gui>.</p>
+        <p>Scroll to the bottom and select <gui>Click Assist</gui>.</p>
       </item>
       <item>
         <p> Turn the <gui>Simulated secondary click</gui> option on. There you

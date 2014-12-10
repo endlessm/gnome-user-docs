@@ -17,21 +17,21 @@
 
   <title>Download Songs and Media</title>
 
-  <p>You can use the <gui>Frostwire</gui> app to download songs and media from
+  <p>You can use the <app>Frostwire</app> app to download songs and media from
   the internet.</p>
 
-  <comment>Need to figure out what we are calling the Frostwire app and replace
+  <comment>Need to figure out what we are calling the <app>Frostwire</app> app and replace
   the word throughout this page.</comment>
 
   <steps>
     <title>Download songs and media from the internet following these
     steps:</title>
     <item>
-      <p>Make sure that you have added the <gui>Frostwire</gui> app to your
+      <p>Make sure that you have added the <app>Frostwire</app> app to your
       desktop, then click on it once to open it.</p>
     </item>
     <item>
-      <p>Type in a search keyword and press <gui>Enter</gui> on your keyboard or
+      <p>Type in a search keyword and press <key>Enter</key> on your keyboard or
       click on the search icon. Suggested keywords will show up as you type.
       Click one if it is the keyword you want to search for.</p>
     </item>
@@ -48,7 +48,7 @@
     </item>
     <item>
       <p>Double click on the finished download that appears on the bottom half
-      of your screen or click on the <gui>Library</gui> icon to open or play
+      of your screen or click on the <gui>Library</app> icon to open or play
       your files. Right click on the finished file to see more options.</p>
     </item>
   </steps>

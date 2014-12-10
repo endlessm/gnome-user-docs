@@ -64,8 +64,8 @@
   <p>You will need <link xref="user-admin-explain">administrator
   privileges</link> to add user accounts. The administrator is usually the
   person who first set up their account when the computer was first purchased
-  and set up, although others may also have been given administrator by that
-  first user.</p>
+  and set up, although others may also have been given administrator privileges
+  by that first user.</p>
 
   <steps>
     <title>If you are the administrator, follow these steps to create more user

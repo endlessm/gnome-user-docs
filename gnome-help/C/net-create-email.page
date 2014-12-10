@@ -21,26 +21,27 @@
   <title>Create an email address</title>
 
   <p>Having an email address is very important since it is becoming more and
-  more popular as an every day communication tool, and you cannot access a lot
-  of online services without one.</p> <p>There are a few major email providers,
-  and if you want to set up an account with one of them, you will need to read
-  their instructions. Below, you will find a list of some of the most popular
-  providers of free email accounts. Try searching for them and you will find
-  instructions on how to <gui>Sign Up</gui>!</p>
+  more popular as an everyday communication tool, and you cannot access a lot
+  of online services without one.</p>
+  <p>There are a few major email providers, and if you want to set up an account
+  with one of them, you will need to read their instructions. Below, you will
+  find a list of some of the most popular providers of free email accounts. Try
+  searching for them and you will find instructions on how to <gui>Sign
+  Up</gui>!</p>
 
   <list>
     <title>Popular email providers</title>
     <item>
-      <p>Gmail</p>
+      <p><link href="https://mail.google.com">Gmail</link></p>
     </item>
     <item>
-      <p>Hotmail</p>
+      <p><link href="https://www.hotmail.com">Hotmail</link></p>
     </item>
     <item>
-      <p>Yahoo Mail</p>
+      <p><link href="https://mail.yahoo.com">Yahoo Mail</link></p>
     </item>
     <item>
-      <p>Live</p>
+      <p><link href="https://mail.live.com">Live</link></p>
     </item>
   </list>
 

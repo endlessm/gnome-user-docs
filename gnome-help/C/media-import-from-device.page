@@ -31,7 +31,7 @@
         Endless computer.</p>
       </item>
       <item>
-        <p>Click on the Documents icon from your desktop.</p>
+        <p>Click on the <app>Documents</app> icon from your desktop.</p>
       </item>
       <item>
         <p>You will see the name of your device appear on the left hand side
@@ -59,8 +59,7 @@
       <title>Safely disconnect your camera or phone:</title>
 
       <item>
-        <p>Click on the <app>Documents</app> icon from the
-        <gui>Desktop</gui>.</p>
+        <p>Click on the <app>Documents</app> icon from your desktop.</p>
       </item>
       <item>
         <p>Locate the device in the sidebar. It should have a small eject icon
@@ -72,13 +71,13 @@
       </item>
     </steps>
 
+    <p>If any of the files on the device are open and in use by an
+    application, you will not be able to safely remove the device. You will be
+    prompted with a window telling you <gui>Volume is busy</gui>.</p>
+
     <steps>
       <title>Safely remove a device that is in use</title>
 
-      <p>If any of the files on the device are open and in use by an
-      application, you will not be able to safely remove the device. You will be
-      prompted with a window telling you <gui>Volume is busy</gui>. To safely
-      remove the device:</p>
 
       <item>
         <p>Click <gui>Cancel</gui>.</p>
@@ -94,11 +93,12 @@
         sidebar and select <gui>Eject</gui>.</p>
       </item>
     </steps>
+
+    <note>
+      <p>If you have a smartphone, try emailing your photos to yourself so that
+      you can open them on your computer's browser and download and save them to
+      your computer.</p>
+    </note>
   </section>
 
-  <note>
-    <p>If you have a smartphone, try emailing your photos to yourself so that
-    you can open them on your computer's browser and download and save them to
-    your computer.</p>
-  </note>
 </page>

@@ -25,6 +25,6 @@
   improve the apps and the system. All data sent is anonymous.</p>
 
   <p>You can disable <gui>Metrics Collection</gui> under
-  <gui>Settings > Privacy > Metrics.</gui></p>
+  <guiseq><gui>Settings</gui><gui>Privacy</gui><gui>Metrics</gui></guiseq>.</p>
 
 </page>

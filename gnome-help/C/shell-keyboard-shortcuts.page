@@ -62,7 +62,7 @@ information on navigating user interfaces with only the keyboard.</p>
   <tr xml:id="ctrl-alt-tab">
     <!-- To be updated to <key>Tab</key> in the future. -->
     <td><p><keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq></p></td>
-    <td><p>Give keyboard focus to the top bar, message tray or the
+    <td><p>Give keyboard focus to the bottom bar, message tray or the
     windows.</p></td>
   </tr>
   <tr xml:id="super-a">
@@ -72,7 +72,7 @@ information on navigating user interfaces with only the keyboard.</p>
   <tr xml:id="ctrl-alt-Del">
     <td><p><keyseq><key>Ctrl</key><key>Alt</key><key>Delete</key></keyseq></p></td>
     <!-- TODO: test, as design team assigns this to 'power off'. -->
-    <td><p><link xref="shell-exit">Log out</link>.</p></td>
+    <td><p>Quit applications.</p></td>
   </tr>
   <tr xml:id="ctrl-alt-l">
     <td><p><keyseq><key>Super</key><key>L</key></keyseq></p></td>

@@ -32,8 +32,8 @@
     <p>"Files" are packages that save and contain your stuff.</p>
 
     <p>For example, if you are working on writing a document and want to save it
-    so that you can look at it later, you can save that "file" to your computer
-    and then open it later to continue working on it. Similarly, a song "file"
+    so that you can look at it later, you can save that file to your computer
+    and then open it later to continue working on it. Similarly, a song file
     is something that has been created and saved so that you can open it and
     listen to it.</p>
 
@@ -44,7 +44,7 @@
     <p>Here are some examples of files you may be familiar with and some popular
     name extensions that describe them:</p>
 
-    <list>
+    <terms>
       <item>
         <p>Photos = .jpg, .png, .tiff, .gif</p>
       </item>
@@ -60,7 +60,7 @@
       <item>
         <p>Photoshop = .psd</p>
       </item>
-    </list>
+    </terms>
 
     <p>It is important to learn a little bit about files and the extension names
     before you start to save your own files so that you make sure to save yours
@@ -117,8 +117,8 @@
       <title>Saving with keyboard shortcuts:</title>
 
       <item>
-        <p>Most apps allow you to press <input>Ctrl</input>
-        +<input>S</input> to save your files. This is a keyboard shortcut, and
+        <p>Most apps allow you to press <keyseq><key>Ctrl</key><key>s</key>
+        </keyseq> to save your files. This is a keyboard shortcut, and
         may be different in different apps, but it usually works. </p>
       </item>
     </steps>
@@ -158,7 +158,7 @@
         computer understands that you want to create a new file with its own
         name, not replace the original one. You may want to name the new file
         something similar to the original file, like "copy of friend photo
-        Cassandra and Eddy" or "friend photo Cassandra and Eddy_2". </p>
+        Cassandra and Eddy" or "friend photo Cassandra and Eddy 2". </p>
       </item>
       <item>
         <p> Choose the location where you want to later find your file. We have

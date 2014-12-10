@@ -41,7 +41,6 @@
     and only then will its icon be visible as shown.</p>
   </comment>
 
-<if:choose>
   <p>You can turn Bluetooth on to use Bluetooth devices and send and receive
   files, but turn it off to conserve power. To turn Bluetooth on:</p>
   <steps>
@@ -56,24 +55,7 @@
       <p>Set the switch in the titlebar to <gui>ON</gui>.</p>
     </item>
   </steps>
-</if:choose>
 
-<if:choose>
-  <if:when test="platform:unity">
-    <p>Many laptop computers have a hardware switch or key combination to turn
-    Bluetooth on and off. If the Bluetooth hardware is turned off, you will not
-    see a Bluetooth icon in the menu bar. Look for a switch on your computer or
-    a key on your keyboard. The keyboard key is often accessed with the help of
-    the <key>Fn</key> key.</p>
- </if:when>
- <p>Many laptop computers have a hardware switch or key combination to turn
- Bluetooth on and off. If the Bluetooth hardware is turned off, you will not
- see a Bluetooth icon in the top bar. Look for a switch on your computer or
- a key on your keyboard. The keyboard key is often accessed with the help of
- the <key>Fn</key> key.</p>
-</if:choose>
-
-<if:choose>
   <p>To turn Bluetooth off:</p>
   <steps>
     <item>
@@ -87,7 +69,6 @@
       <p>Set the switch in the titlebar to <gui>OFF</gui>.</p>
     </item>
   </steps>
-</if:choose>
 
 <note><p>You only need to switch <gui>Visibility</gui> on if you are connecting
 to this computer from another device.</p></note>

@@ -43,7 +43,7 @@
       <gui>Samples</gui> folder. Scroll through the images and see a small
       version of them on the right hand side of the window. When you find an
       image you want to edit, click <gui>OK</gui> or press
-      <input>Enter</input>.</p>
+      <key>Enter</key>.</p>
     </item>
     <item>
       <p>Edit your photo! You can crop your image to make it the right size, add

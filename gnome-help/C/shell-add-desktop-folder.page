@@ -36,11 +36,11 @@
     </item>
     <item>
       <p>Type a name for your new folder (for example, "School") and hit
-      <gui>Enter</gui>.</p>
+      <key>Enter</key>.</p>
     </item>
     <item>
       <p>You have added a new folder to the desktop. Great! Now click on the
-      <gui>close button</gui> on the top-right of the window to go back to the
+      <gui>X</gui> on the top-right of the window to go back to the
       desktop.</p>
     </item>
     <item>

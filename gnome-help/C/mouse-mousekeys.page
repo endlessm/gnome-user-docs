@@ -4,7 +4,7 @@
       id="mouse-mousekeys">
 
   <info>
-    <link type="guide" xref="hardware#mouse"/>
+    <link type="guide" xref="mouse"/>
     <link type="guide" xref="a11y#mobility"/>
 
     <revision pkgversion="3.8.0" date="2013-03-16" status="outdated"/>

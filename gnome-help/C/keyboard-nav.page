@@ -2,7 +2,7 @@
       type="topic" style="tip"
       id="keyboard-nav">
   <info>
-    <link type="guide" xref="hardware#keyboard"/>
+    <link type="guide" xref="keyboard"/>
     <link type="guide" xref="a11y#mobility"/>
 
     <revision pkgversion="3.7.5" version="0.2" date="2013-02-23" status="review"/>
@@ -89,13 +89,6 @@
     <td><p><keyseq><key>Ctrl</key><key>Space</key></keyseq></p></td>
     <td><p>In a list or icon view, select or deselect the focused item without
     deselecting other items.</p></td>
-  </tr>
-  <tr>
-    <td><p><key>Alt</key></p></td>
-    <td><p>Hold down the <key>Alt</key> key to reveal <em>accelerators</em>:
-    underlined letters on menu items, buttons, and other controls. Press
-    <key>Alt</key> plus the underlined letter to activate a control, just
-    as if you had clicked on it.</p></td>
   </tr>
   <tr>
     <td><p><key>Esc</key></p></td>

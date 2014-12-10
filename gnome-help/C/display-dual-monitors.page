@@ -91,9 +91,9 @@
       then switch it <gui>ON/OFF</gui>.</p>
     </item>-->
     <item>
-      <p>The monitor with the <link xref="shell-introduction">top bar</link> is
+      <p>The monitor with the bottom bar is
       the main monitor. To change which monitor is treated as "main", click on
-      the top bar and drag it over to the monitor which you want to set as the
+      the bottom bar and drag it over to the monitor which you want to set as the
       "main" monitor.</p>
     </item>
 <!-- This does not work in 3.10 like this
