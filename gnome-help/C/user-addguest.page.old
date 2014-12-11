@@ -9,7 +9,7 @@
     <revision pkgversion="3.8.0" version="0.3" date="2013-03-09" status="candidate"/>
 
     <credit type="maintainer">
-      <name>Endless Documentation Project</name>
+      <name>GNOME Documentation Project</name>
       <email its:translate="no">gnome-doc-list@gnome.org</email>
     </credit>
     <credit type="author">
