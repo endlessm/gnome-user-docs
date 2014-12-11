@@ -74,7 +74,7 @@ Store</gui>, under the <gui>Utilities</gui> category, and open it.</p></item>
     of an area you select.</p></item>
   </list>
   <p>When you use a keyboard shortcut, the image is automatically saved in
-  your Pictures folder with a file name that begins with "Screenshot" and
+  your <gui>Pictures</gui> folder with a file name that begins with "Screenshot" and
   includes the date and time it was taken.</p>
   <p>You can also hold down <key>Ctrl</key> with any of the above shortcuts to
   copy the screenshot image to the clipboard instead of saving it.</p>
@@ -101,7 +101,7 @@ Store</gui>, under the <gui>Utilities</gui> category, and open it.</p></item>
 </item>
 
 <item>
-  <p>The video is automatically saved in your Videos folder with a file name
+  <p>The video is automatically saved in your <gui>Videos</gui> folder with a file name
   that starts with "Screencast" and includes the date and time it was taken.</p>
 </item>
 </steps>

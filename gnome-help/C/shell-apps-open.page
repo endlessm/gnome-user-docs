@@ -36,62 +36,60 @@
   everything from games, to educational applications, to valuable health
   resources, and much more.</p>
 
-  <p>Below, you can learn how to add new apps, folders, and shortcuts to your
-  favorite websites directly to your desktop.</p>
 
   <section>
-  <title>Installing Apps</title>
+  <title>Adding More Apps</title>
   <steps>
     <item>
-      <p>Click once on the <gui>More Apps</gui> button on the desktop.</p>
+      <p>Click once on [standard_more_apps_ES.png] from the desktop.</p>
     </item>
     <item>
-      <p>All of the applications you see are free. You can browse by category
+      <p>All of the applications you see are free. Browse by category
       and read each application's short description until you find one that you
-      want to install onto your desktop. When you find one you like, click on
-      its name to read more about it, see screenshots and install.</p>
-    </item>
-    <item>
-      <p>To install an application simply click <gui>Install app</gui>. You will
-      need an internet connection to download these applications.</p>
+      want to add to your desktop.</p>
     </item>
     <item>
       <p>Some applications are already downloaded to your computer and you can
       add them to your desktop by clicking <gui>Add to desktop</gui>. </p>
     </item>
     <item>
-      <p>When the application's installation is complete, the green button will
-      change to <gui>Open app</gui> and you can start using the application
-      immediately! </p>
-      <p>The application's icon will also be installed on your desktop, to the
-      left of the <gui>More Apps</gui> button. You can then move it wherever
+      <p>Other applicatons need to be installed and require an internet connection.
+      Click <gui>Install app</gui> to download and install these applications.</p>
+    </item>
+
+    <item>
+      <p>When the application has been successfully added to your desktop, the
+      green button will change to <gui>Open app</gui> and you can start using
+      the application immediately! </p>
+      <p>The application's icon will be installed on your desktop, to the left
+      of the [standard_more_apps_ES.png] button. You can then move it wherever
       makes sense to you so you can find it easily.</p>
     </item>
   </steps>
   </section>
 
  <section>
-  <title>Installing Websites</title>
+  <title>Installing Website Shortcuts </title>
   <steps>
     <item>
-      <p>Click once on the <gui>More Apps</gui> button on the desktop.</p>
+      <p>Click once on [standard_more_apps_ES.png] from the desktop.</p>
     </item>
     <item>
       <p>Browse the website links that we have as suggestions by category. If
       you see one that you like, just scroll over it and click on the green
-      <gui>+</gui> button that will appear. This will add it directly to your
-      desktop, to the left of the More Apps button.</p>
+      [add_website.png] button that will appear. This will add it directly to your
+      desktop, to the left of the [standard_more_apps_ES.png] button.</p>
     </item>
     <item>
       <p>Add your own website links to pages that we don't already have by
-      typing the website link's address into the bar at the top and hitting the
-      <gui>Enter</gui> key to search.</p>
+      typing the website into the bar at the top and hitting the
+      <input>Enter</input> key to search.</p>
     </item>
     <item>
-      <p>Click on the green <gui>+</gui> button, and your link will be installed
+      <p>Click on the [add_website.png] button, and your link will be installed
       to the desktop. Add another website, application or folder, or else close
       the App Store to find your new folder. It will be directly to the left of
-      the More Apps button.</p>
+      the [standard_more_apps_ES.png] button.</p>
     </item>
   </steps>
   </section>
@@ -100,7 +98,7 @@
   <title>Installing Folders</title>
   <steps>
     <item>
-      <p>Click once on the <gui>More Apps</gui> button on the desktop.</p>
+      <p>Click once on [standard_more_apps_ES.png] from the desktop.</p>
     </item>
     <item>
       <p>Choose an icon for your folder that you like, or that you think
@@ -113,21 +111,11 @@
       Remember to keep it short so that the name does not get cut off.</p>
     </item>
     <item>
-      <p>Install your folder on the desktop by clicking on the green
-      <gui>+</gui> button. It will appear directly to the left of the <gui>More
-      Apps</gui> button.</p>
+      <p>Install your folder on the desktop by clicking on the
+      [add_website.png] button. It will appear directly to the left of the
+      [standard_more_apps_ES.png] button.</p>
     </item>
   </steps>
   </section>
-
-<note style="tip">
- <title>Quickly running a command</title>
-  <p>Another way of launching an application is to press
-  <keyseq><key>Alt</key><key>F2</key></keyseq>, enter its <em>command name</em>,
-  and then press the <key>Enter</key> key.</p>
-  <p>For example, to launch <app>Rhythmbox</app>, press
-  <keyseq><key>Alt</key><key>F2</key></keyseq> and type 'rhythmbox' (without the
-  single-quotes). The name of the app is the command to launch the program.</p>
-</note>
 
 </page>

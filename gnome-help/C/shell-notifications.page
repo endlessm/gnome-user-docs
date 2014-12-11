@@ -43,17 +43,13 @@
   <p>To minimize distraction, some notifications first appear as a single line.
   You can move your mouse over them to see their full content.</p>
 
-  <media type="image" width="700" src="figures/shell-notification.png"/>
-
   <p>Other notifications have selectable option buttons. To close one of these
   notifications without selecting one of its options, click the close
   button.</p>
 
-  <media type="image" width="500" src="figures/notification-buttons.png"/>
 
   <p>Clicking the close button on some notifications dismisses them. Others,
-  like Rhythmbox or your chat application, will stay hidden in the message 
-  tray.</p>
+  like your chat application, will stay hidden in the message tray.</p>
 
 </section>
 
@@ -100,7 +96,7 @@
 
   <steps>
     <item>
-      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
+      <p>Click on [standard_user_menu.png] on the bottom left-hand corner of
       your screen, then click on <gui>Settings</gui>.</p>
     </item>
     <item>

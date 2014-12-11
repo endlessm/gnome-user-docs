@@ -20,28 +20,28 @@
 
   <title>Organize your apps</title>
 
-  <p>Add folders to the desktop</p>
+  <p>Add folders to the desktop to help keep yourself organized.</p>
 
   <comment>{video 2}</comment>
 
   <steps>
     <item>
-      <p>To add a new Folder, right-click the desktop and select <gui>Add
+      <p>To add a new folder, right-click the desktop and select <gui>Add
       folder</gui>.</p>
     </item>
     <item>
-      <p>Pick an icon for your new Folder.</p>
+      <p>Pick an icon for your new folder.</p>
     </item>
     <item>
-      <p>Type a name for your new Folder ("School" for example) and hit
-      Enter.</p>
+      <p>Type a name for your new folder ("School", for example) and hit
+      <input>Enter.</input></p>
     </item>
     <item>
       <p>You have added a new folder to the desktop. Great! Now click on the
       close button on the top-right of the window to go back to the desktop.</p>
     </item>
     <item>
-      <p>Drag and drop the icons you want into your folder.</p>
+      <p>Drag and drop the icons you want into your new folder.</p>
     </item>
   </steps>
 </page>
