@@ -2,10 +2,12 @@
 # Translators:
 # Alejandro Farfán <alejandro@endlessm.com>, 2014
 # c.sanchez <cassandra@endlessm.com>, 2014
+# c.sanchez <cassandra@endlessm.com>, 2014
 # Daniel Mustieles <daniel.mustieles@gmail.com>, 2011-2014
 # Eddy Alegria <eddy@endlessm.com>, 2014
 # Fernando Farfan <fernando@endlessm.com>, 2014
 # Francisco Molinero <paco@byasl.com>, 2011
+# goizueta <goizueta@endlessm.com>, 2014
 # goizueta <goizueta@endlessm.com>, 2014
 # Joaquín Ignacio Aramendía <samsagax@gmail.com>, 2011
 # Joel Gil Leon <joel@endlessm.com>, 2014
@@ -17,7 +19,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2014-12-11 14:01-0800\n"
-"PO-Revision-Date: 2014-11-01 00:48+0000\n"
+"PO-Revision-Date: 2014-12-16 22:31+0000\n"
 "Last-Translator: c.sanchez <cassandra@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/gnome-user-docs/"
 "language/es/)\n"
@@ -142,7 +144,7 @@ msgstr "Ignorar pulsaciones rápidas de la misma tecla."
 #. (itstool) path: page/title
 #: C/a11y-bouncekeys.page:34
 msgid "Turn on bounce keys"
-msgstr "Activar el rechazo de teclas"
+msgstr "Activar el rechazo de teclas repetidas"
 
 #. (itstool) path: page/p
 #: C/a11y-bouncekeys.page:36
@@ -152,10 +154,10 @@ msgid ""
 "key multiple times when you only want to press it once, you should turn on "
 "bounce keys."
 msgstr ""
-"Active el <em>rechazo de teclas</em> para ignorar las pulsaciones de teclas "
-"repetidas rápidamente. Por ejemplo, si tiene temblores de manos que pueden "
-"hacer que pulse teclas varias veces cuando solo quiere pulsarlas una vez, "
-"debería activar el rechazo de teclas."
+"Activa el <em>rechazo de teclas repetidas</em> para ignorar las pulsaciones "
+"rápidas de teclas repetidas. Por ejemplo, si tienes temblores de manos que "
+"pueden hacer que pulses teclas varias veces cuando solo quieres pulsarlas "
+"una vez, deberías activar el rechazo de teclas repetidas."
 
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:43 C/a11y-contrast.page:41 C/a11y-dwellclick.page:48
@@ -176,7 +178,6 @@ msgstr ""
 #: C/sound-alert.page:39 C/user-admin-change.page:38 C/user-autologin.page:29
 #: C/user-changepassword.page:65 C/user-changepicture.page:42
 #: C/user-delete.page:49
-#, fuzzy
 msgid ""
 "Click on the <gui>User Menu</gui> on the bottom left-hand corner of your "
 "screen, then click on <gui>Settings</gui>."
@@ -190,24 +191,25 @@ msgstr ""
 #: C/a11y-slowkeys.page:49 C/a11y-stickykeys.page:53
 #: C/a11y-visualalert.page:48 C/keyboard-osk.page:45 C/mouse-mousekeys.page:48
 msgid "Click on <gui>Universal Access</gui> to open the panel."
-msgstr "Pulse en <gui>Acceso universal</gui> para abrir el panel."
+msgstr "Haz clic en <gui>Acceso universal</gui> para abrir el menú."
 
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:50 C/a11y-slowkeys.page:52 C/a11y-stickykeys.page:56
 msgid ""
 "Press <gui>Typing Assist (AccessX)</gui> in the <gui>Typing</gui> section."
 msgstr ""
-"Pulse <gui>Asistente de escritura</gui> en la sección <gui>Teclear</gui>."
+"Pulsa <gui>Asistente de escritura</gui> en la sección <gui>Teclear</gui>"
 
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:54
 msgid "Switch <gui>Bounce Keys</gui> to <gui>On</gui>."
-msgstr "Active el <gui>Rechazo de teclas</gui> (<gui>Encendido</gui>)."
+msgstr ""
+"Activa el <gui>Rechazo de teclas repetidas</gui> (<gui>Encendido</gui>)."
 
 #. (itstool) path: note/title
 #: C/a11y-bouncekeys.page:59
 msgid "Quickly turn bounce keys on and off"
-msgstr "Activar y desactivar rápidamente el rechazo de teclas"
+msgstr "Activar y desactivar rápidamente el rechazo de teclas repetidas"
 
 #. (itstool) path: note/p
 #: C/a11y-bouncekeys.page:60
@@ -217,11 +219,11 @@ msgid ""
 "gui>. The accessibility icon is visible when one or more settings have been "
 "enabled from the <gui>Universal Access</gui> panel."
 msgstr ""
-"Puede activar rápidamente el rechazo de teclas, pulsando en el <link xref="
-"\"a11y-icon\">icono de accesibilidad</link> en la barra superior y "
-"seleccionando <gui>Rechazo de teclas</gui>. El icono de accesibilidad está "
-"visible cuando se han activado una o mas opciones en el panel de <gui>Acceso "
-"universal</gui>."
+"Puedes activar rápidamente el rechazo de teclas repetidas, haciendo clic en "
+"el <link xref=\"a11y-icon\">ícono de accesibilidad</link> en la barra "
+"superior y seleccionando <gui>Rechazo de teclas repetidas</gui>. El ícono de "
+"accesibilidad está visible cuando se han activado una o mas opciones en el "
+"menú de <gui>Acceso universal</gui>."
 
 #. (itstool) path: page/p
 #: C/a11y-bouncekeys.page:67
@@ -232,19 +234,19 @@ msgid ""
 "the computer to make a sound each time it ignores a key press because it "
 "happened too soon after the previous key press."
 msgstr ""
-"Use el deslizador <gui>Retardo de aceptación</gui> para cambiar el tiempo "
-"que debe esperar el rechazo de teclas antes de registrar otra tecla pulsada "
-"después de la pulsada en primer lugar. Seleccione <gui>Pitar al rechazar una "
-"tecla</gui> si quiere que el equipo emita un sonido cada vez que ignora una "
-"tecla porque la pulsación ha sucedido demasiado pronto después de la "
-"pulsación de la tecla anterior."
+"Usa el control deslizante <gui>Retraso de aceptación</gui> para cambiar el "
+"tiempo que debes esperar después de la primera pulsada para el rechazo de "
+"teclas antes de registrar otra tecla pulsada. Selecciona <gui>Pitar al "
+"rechazar una tecla</gui> si quieres que tu computadora haga un sonido cada "
+"vez que ignora una tecla porque la pulsación ha sucedido demasiado pronto "
+"después de la pulsación de la tecla anterior."
 
 #. (itstool) path: info/desc
 #: C/a11y-braille.page:18
 msgid ""
 "Use the <app>Orca</app> screen reader with a refreshable Braille display."
 msgstr ""
-"Use el lector de pantalla <app>Orca</app> con un dispositivo Braille "
+"Usa el lector de pantalla <app>Orca</app> con un visualizador Braille "
 "actualizable."
 
 #. (itstool) path: page/title
@@ -268,8 +270,8 @@ msgid ""
 "Make windows and buttons on the screen more (or less) vivid, so they're "
 "easier to see."
 msgstr ""
-"Hacer que las ventanas y los botones de la pantalla más vivos, para que sean "
-"más fáciles de ver."
+"Hacer que las ventanas y los botones de la pantalla sean más (o menos) "
+"brillantes, para que sean más fáciles de ver."
 
 #. (itstool) path: page/title
 #: C/a11y-contrast.page:32
@@ -283,16 +285,19 @@ msgid ""
 "see. This is not the same as changing the brightness of the whole screen "
 "since only parts of the <gui>user interface</gui> will change."
 msgstr ""
+"Puedes ajustar el contraste de ventanas y botones para que sean más fáciles "
+"de ver. Esto no es lo mismo que cambiar el brillo de toda la pantalla, ya "
+"que sólo partes de la <gui>interfaz del usuario</gui> cambiarán."
 
 #. (itstool) path: steps/title
 #: C/a11y-contrast.page:39
 msgid "To adjust the contrast of your window:"
-msgstr ""
+msgstr "Para ajustar el contraste de la ventana:"
 
 #. (itstool) path: item/p
 #: C/a11y-contrast.page:48
 msgid "Switch <gui>High Contrast</gui> to <gui>ON</gui>."
-msgstr "Active la opción <gui>Alto contraste</gui> (<gui>Encendido</gui>)."
+msgstr "Activar la opción <gui>Alto contraste</gui> (<gui>Encendido</gui>)."
 
 #. (itstool) path: info/desc
 #: C/a11y-dwellclick.page:31
@@ -300,13 +305,13 @@ msgid ""
 "The <gui>Hover Click</gui> (Dwell Click) feature allows you to click by "
 "holding the mouse still."
 msgstr ""
-"La <gui>pulsación al posarse</gui> (pulsación al posicionar el puntero) le "
-"permite pulsar manteniendo el ratón quieto."
+"La <gui>pulsación al posarse</gui> (pulsación al posicionar el cursor) le "
+"permite hacer clic manteniendo el ratón quieto."
 
 #. (itstool) path: page/title
 #: C/a11y-dwellclick.page:35
 msgid "Simulate clicking by hovering"
-msgstr "Simular una pulsación al posicionar el puntero"
+msgstr "Simular un clic al posicionar el cursor"
 
 #. (itstool) path: page/p
 #: C/a11y-dwellclick.page:37
@@ -316,10 +321,10 @@ msgid ""
 "mouse and click at the same time. This feature is called <gui>Hover Click</"
 "gui> or Dwell Click."
 msgstr ""
-"Puede pulsar o arrastrar simplemente posando el puntero de su ratón sobre un "
-"control o un objeto en la pantalla. Es útil si tiene dificultades para mover "
-"el ratón y pulsar a la vez. Esta característica se llama <gui>Pulsación al "
-"enfocar</gui> o pulsación al posarse."
+"Puedes hacer clic o arrastrar simplemente posando el cursor de tu ratón "
+"sobre un control o un objeto en la pantalla. Es útil si tienes dificultades "
+"para mover y pulsar el ratón a la vez. Esta característica se llama "
+"<gui>Pulsación al enfocar</gui> o pulsación al posarse."
 
 #. (itstool) path: page/p
 #: C/a11y-dwellclick.page:42
@@ -328,9 +333,9 @@ msgid ""
 "a control, let go of the mouse, and then wait for a while before the button "
 "will be clicked for you."
 msgstr ""
-"Cuando la <gui>Pulsación al pasar por encima</gui> está activada puede mover "
-"el puntero de su ratón sobre un control, dejar el ratón y esperar un poco "
-"hasta que el botón se pulse automáticamente."
+"Cuando la <gui>Pulsación al pasar por encima</gui> está activada puedes "
+"mover el cursor de su ratón sobre un control, dejar el ratón y esperar un "
+"poco hasta que el botón haga clic automáticamente."
 
 #. (itstool) path: item/p
 #: C/a11y-dwellclick.page:55
@@ -338,13 +343,13 @@ msgid ""
 "Press <gui>Click Assistant</gui> in the <gui>Pointing and Clicking</gui> "
 "section."
 msgstr ""
-"Pulse en <gui>Asistente de pulsación</gui> en la sección <gui>Apuntar y "
+"Haz clic en <gui>Asistente de pulsación</gui> en la sección <gui>Apuntar y "
 "pulsar</gui>."
 
 #. (itstool) path: item/p
 #: C/a11y-dwellclick.page:59
 msgid "Switch <gui>Hover Click</gui> to <gui>On</gui>."
-msgstr "Active la <gui>Pulsación al posarse</gui> (<gui>Encendido</gui>)."
+msgstr "Activa la <gui>Pulsación al posarse</gui> (<gui>Encendido</gui>)."
 
 #. (itstool) path: page/p
 #: C/a11y-dwellclick.page:63
@@ -356,11 +361,11 @@ msgid ""
 "drag, you will be automatically returned to clicking."
 msgstr ""
 "Se abrirá la ventana <gui>Pulsación al pasar por encima</gui>, que siempre "
-"estará encima del resto de ventanas. Puede usarla para elegir el tipo de "
-"pulsación que deberá aplicarse cuando coloque el ratón sobre un botón. Por "
-"ejemplo, si selecciona <gui>Pulsación secundaria</gui>, el ratón simulará "
-"una pulsación con el botón derecho cuando coloque el puntero sobre un botón "
-"durante unos pocos segundos."
+"estará encima del resto de las ventanas. Puedes usarla para elegir el tipo "
+"de pulsación, o clic, que se aplicará cuando coloques el ratón sobre un "
+"botón. Por ejemplo, si seleccionas <gui>Pulsación secundaria</gui>, el ratón "
+"simulará una pulsación con el botón derecho cuando coloques el cursor sobre "
+"un botón durante unos pocos segundos."
 
 #. (itstool) path: page/p
 #: C/a11y-dwellclick.page:69
@@ -369,7 +374,7 @@ msgid ""
 "gradually change color. When it has fully changed color, the button will be "
 "clicked."
 msgstr ""
-"Al pasar el puntero del ratón sobre un botón y no moverse, poco a poco "
+"Al pasar el cursor del ratón sobre un botón y no moverse, poco a poco "
 "cambiará de color. Una vez totalmente cambiado de color, el botón se pulsará."
 
 #. (itstool) path: page/p
@@ -378,8 +383,8 @@ msgid ""
 "Adjust the <gui>Delay</gui> setting to change how long you have to hold the "
 "mouse pointer still before clicking."
 msgstr ""
-"Ajuste la opción <gui>Retardo</gui> para controlar cuánto tiempo debe "
-"mantener el puntero del ratón para realizar la pulsación."
+"Ajusta la opción <gui>Retraso</gui> para controlar cuánto tiempo debes "
+"mantener el puntero del ratón para realizar el clic."
 
 #. (itstool) path: page/p
 #: C/a11y-dwellclick.page:76
@@ -388,10 +393,9 @@ msgid ""
 "The pointer is allowed to move a little bit and will still click after a "
 "while. If it moves too much, however, the click will not happen."
 msgstr ""
-"No necesita mantener el ratón perfectamente quieto al realizar una pulsación "
-"al pasar por encima. El puntero se puede mover un poco y aún así se hará la "
-"pulsación pasado un tiempo. En cambio, no se producirá la pulsación si lo "
-"mueve demasiado."
+"No necesitas mantener el ratón perfectamente quieto al realizar un clic al "
+"pasar por encima. El cursor se puede mover un poco y aún así se hará el "
+"clic. En cambio, no se hará el clic si lo mueves demasiado."
 
 #. (itstool) path: page/p
 #: C/a11y-dwellclick.page:80
@@ -399,8 +403,8 @@ msgid ""
 "Adjust the <gui>Motion threshold</gui> setting to change how much the "
 "pointer can move and still be considered to be hovering."
 msgstr ""
-"Ajuste la opción del <gui>Umbral de movimiento</gui> para cambiar cuánto se "
-"puede mover el puntero y que aún así se siga considerando una pulsación de "
+"Ajusta la opción del <gui>Umbral de movimiento</gui> para cambiar cuánto se "
+"puede mover el cursor y que aún así se siga considerando un clic de "
 "posicionamiento."
 
 #. (itstool) path: info/desc
@@ -420,7 +424,7 @@ msgid ""
 "If you have difficulty reading the text on your screen, you can change the "
 "size of the font."
 msgstr ""
-"Si tiene dificultades para leer el texto en su pantalla, puede cambiar el "
+"Si tienes dificultades para leer el texto en tu pantalla, puedes cambiar el "
 "tamaño de la tipografía."
 
 #. (itstool) path: item/p
@@ -429,7 +433,7 @@ msgid ""
 "Switch <gui>Large Text</gui> to <gui>On</gui> in the <gui>Seeing</gui> "
 "section."
 msgstr ""
-"Active la opción <gui>Texto grande</gui> (<gui>Encendido</gui>) en la "
+"Activa la opción <gui>Texto grande</gui> (<gui>Encendido</gui>) en la "
 "sección <gui>Visión</gui>."
 
 #. (itstool) path: page/p
@@ -439,9 +443,9 @@ msgid ""
 "xref=\"a11y-icon\">accessibility icon</link> on the top bar and selecting "
 "<gui>Large Text</gui>."
 msgstr ""
-"Alternativamente, puede ajustar rápidamente el tamaño del texto pulsando en "
-"el <link xref=\"a11y-icon\">icono de accesibilidad</link> en la barra "
-"superior y seleccionando <gui>Texto grande</gui>."
+"Alternativamente, puedes rápidamente ajustar el tamaño del texto haciendo "
+"clic en el <link xref=\"a11y-icon\">ícono de accesibilidad</link> en la "
+"barra superior y seleccionando <gui>Texto grande</gui>."
 
 #. (itstool) path: note/p
 #: C/a11y-font-size.page:54
@@ -450,9 +454,9 @@ msgid ""
 "<keyseq><key>Ctrl</key><key>+</key></keyseq>. To reduce the text size, press "
 "<keyseq><key>Ctrl</key><key>-</key></keyseq>."
 msgstr ""
-"En muchas aplicaciones, puede aumentar el tamaño del texto en cualquier "
+"En muchos programas, puedes aumentar el tamaño del texto en cualquier "
 "momento pulsando <keyseq><key>Ctrl</key><key>+</key></keyseq>. Para reducir "
-"el tamaño, pulse <keyseq><key>Ctrl</key><key>-</key></keyseq>."
+"el tamaño, pulsa <keyseq><key>Ctrl</key><key>-</key></keyseq>."
 
 #. (itstool) path: page/p
 #: C/a11y-font-size.page:59
@@ -460,9 +464,9 @@ msgid ""
 "<gui>Large Text</gui> will scale the text by 1.2 times. You can use "
 "<app>Tweak Tool</app> to make text size bigger or smaller."
 msgstr ""
-"La opción <gui>Texto grande</gui> ampliará el texto 1.2 veces. También puede "
-"usar la <app>Herramienta de retoques</app> para aumentar o disminuir el "
-"tamaño del texto."
+"La opción <gui>Texto grande</gui> ampliará el texto 1.2 veces. También "
+"puedes usar la <app>Herramienta de retoques</app> para aumentar o disminuir "
+"el tamaño del texto."
 
 #. (itstool) path: info/desc
 #: C/a11y-icon.page:18
@@ -470,8 +474,8 @@ msgid ""
 "The universal access menu is the icon on the top bar that looks like a "
 "person."
 msgstr ""
-"El menú del acceso universal es el icono que parece una persona en la barra "
-"superior."
+"El menú del acceso universal es el ícono en que parece una persona en la "
+"barra superior."
 
 #. (itstool) path: page/title
 #: C/a11y-icon.page:22
@@ -485,9 +489,9 @@ msgid ""
 "accessibility settings. You can find this menu by clicking the icon which "
 "looks like a person surrounded by a circle on the top bar."
 msgstr ""
-"El <em>menú de acceso universal</em> es donde puede activar varios ajustes "
-"de accesibilidad. Puede encontrar este menú pulsando sobre el icono que "
-"parece una persona rodeada de un círculo, en la barra superior."
+"El <em>menú de acceso universal</em> es donde puedes activar varios ajustes "
+"de accesibilidad. Puedes encontrar este menú haciendo clic sobre el ícono en "
+"que parece una persona rodeada de un círculo, en la barra superior."
 
 #. (itstool) path: figure/desc
 #: C/a11y-icon.page:29
@@ -500,19 +504,19 @@ msgid ""
 "If you do not see the universal access menu, you can enable it from the "
 "<gui>Universal Access</gui> settings panel:"
 msgstr ""
-"Si no ve el menú del acceso universal en el menú, puede activarlo en la "
-"configuración del panel de <gui>Acceso universal</gui>:"
+"Si no ves el ícono de acceso universal en el menú, puedes activarlo en la "
+"configuración del menú de <gui>Acceso universal</gui>:"
 
 #. (itstool) path: item/p
 #: C/a11y-icon.page:42
 msgid "Click <gui>Universal Access</gui>."
-msgstr "Pulse en <gui>Acceso universal</gui>."
+msgstr "Haz clic en <gui>Acceso universal</gui>."
 
 #. (itstool) path: item/p
 #: C/a11y-icon.page:45
 msgid "Switch <gui>Always Show Universal Access Menu</gui> to <gui>On</gui>."
 msgstr ""
-"Active la opción <gui>Mostrar siempre el menú de acceso universal</gui> "
+"Activa la opción <gui>Mostrar siempre el menú de acceso universal</gui> "
 "(<gui>Encendido</gui>)."
 
 #. (itstool) path: page/p
@@ -527,20 +531,20 @@ msgid ""
 "You can use the up and down arrow keys to select items in the menu. Press "
 "<key>Enter</key> to toggle the selected item."
 msgstr ""
-"Para acceder a este menú mediante el teclado en lugar del ratón, pulse "
+"Para acceder a este menú mediante el teclado en lugar del ratón, pulsa "
 "<keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq> para mover el "
 "foco del teclado a la barra superior. Aparecerá una línea blanca debajo del "
-"botón <gui>Actividades</gui>; le indica qué elemento de la barra superior se "
-"selecciona. Utilice las teclas de flecha del teclado para mover la línea "
-"blanca en el icono de menú de acceso universal y luego pulse <key>Intro</"
-"key> para abrirlo. Puede usar las teclas de flecha para seleccionar "
-"elementos del menú. Pulse <key>Intro</key> para cambiar al elemento "
-"seleccionado."
+"botón <gui>Actividades</gui>; te indica cuál elemento de la barra superior "
+"está seleccionado. Utiliza las teclas de flecha del teclado para mover la "
+"línea blanca en el ícono de menú de acceso universal y luego pulsa "
+"<key>Intro</key> para abrirlo. Puedes usar las teclas de flecha para "
+"seleccionar elementos del menú. Pulsa <key>Intro</key> para cambiar al "
+"elemento seleccionado."
 
 #. (itstool) path: info/desc
 #: C/a11y-mag.page:27
 msgid "Zoom in on your screen so that it is easier to see things."
-msgstr "Ampliar su pantalla de manera que sea más fácil ver cosas."
+msgstr "Ampliar tu pantalla para que sea más fácil ver cosas."
 
 #. (itstool) path: page/title
 #: C/a11y-mag.page:30
@@ -556,17 +560,17 @@ msgid ""
 msgstr ""
 "Magnificar la pantalla no es simplemente aumentar el <link xref=\"a11y-font-"
 "size\">tamaño del texto</link>. Esta característica es como tener una lupa "
-"que puede mover aumentando partes de la pantalla."
+"que puedes mover para aumentar diferentes partes de la pantalla."
 
 #. (itstool) path: item/p
 #: C/a11y-mag.page:46
 msgid "Press on <gui>Zoom</gui> in the <gui>Seeing</gui> section."
-msgstr "Pulse en <gui>Ampliación</gui> en la sección <gui>Visión</gui>."
+msgstr "Haz clic en <gui>Ampliación</gui> en la sección <gui>Visión</gui>."
 
 #. (itstool) path: item/p
 #: C/a11y-mag.page:49
 msgid "Switch <gui>Zoom</gui> to <gui>On</gui>."
-msgstr "Active la <gui>Ampliación</gui> (<gui>Encendido</gui>)."
+msgstr "Activa la <gui>Ampliación</gui> (<gui>Encendido</gui>)."
 
 #. (itstool) path: page/p
 #: C/a11y-mag.page:59
@@ -575,9 +579,9 @@ msgid ""
 "of the screen, you will move the magnified area in different directions, "
 "allowing you to view your area of choice."
 msgstr ""
-"Puede moverse en el área de la pantalla. Moviendo su ratón por los bordes de "
-"la ptanlla, puede mover el área magnificada en diferentes direcciones, "
-"permitiéndole ver el área de su elección."
+"Puedes moverte en el área de la pantalla. Moviendo tu ratón por los bordes "
+"de la ptanlla, puedes mover el área magnificada en diferentes direcciones, "
+"permitiéndote ver el área de tu elección."
 
 #. (itstool) path: note/p
 #: C/a11y-mag.page:64
@@ -586,7 +590,7 @@ msgid ""
 "\">accessibility icon</link> on the top bar and selecting <gui>Zoom</gui>."
 msgstr ""
 "Puede activar o desactivar la ampliación rápidamente pulsando el <link xref="
-"\"a11y-icon\">icono de accesibilidad</link> en la barra superior y "
+"\"a11y-icon\">ícono de accesibilidad</link> en la barra superior y "
 "seleccionando <gui>Ampliación</gui>."
 
 #. (itstool) path: page/p
@@ -824,8 +828,8 @@ msgid ""
 "enabled from the <gui>Universal Access</gui> panel."
 msgstr ""
 "También puede activar las teclas lentas pulsando el <link xref=\"a11y-icon"
-"\">icono de acceso universal</link> en la barra superior y cambie "
-"<gui>Teclas lentas</gui>. El icono de accesibilidad está visible cuando se "
+"\">ícono de acceso universal</link> en la barra superior y cambie "
+"<gui>Teclas lentas</gui>. El ícono de accesibilidad está visible cuando se "
 "han activado una o mas opciones en el panel de <gui>Acceso universal</gui>."
 
 #. (itstool) path: page/p
@@ -923,8 +927,8 @@ msgid ""
 "been enabled from the <gui>Universal Access</gui> panel."
 msgstr ""
 "También puede activar y desactivar las teclas lentas pulsando el <link xref="
-"\"a11y-icon\">icono de acceso universal</link> en la barra superior y "
-"cambiando las <gui>Teclas lentas</gui>. El icono de accesibilidad está "
+"\"a11y-icon\">ícono de acceso universal</link> en la barra superior y "
+"cambiando las <gui>Teclas lentas</gui>. El ícono de accesibilidad está "
 "visible cuando se han activado una o mas opciones en el panel de <gui>Acceso "
 "universal</gui>."
 
@@ -1046,13 +1050,15 @@ msgid ""
 "<gui>Visual Alerts</gui>."
 msgstr ""
 "Puede activar y desactivar rápidamente las alertas visuales pulsando en el "
-"<link xref=\"a11y-icon\">icono de accesibilidad</link> en la barra superior "
+"<link xref=\"a11y-icon\">ícono de accesibilidad</link> en la barra superior "
 "y seleccionando <gui>Alertas visuales</gui>."
 
 #. (itstool) path: info/desc
 #: C/a11y.page:22
 msgid "Use your Endless computer with visual, hearing or mobility impairments."
 msgstr ""
+"Usa tu computadora Endless con discapacidad visual, auditiva o problemas de "
+"movilidad."
 
 #. (itstool) path: page/title
 #: C/a11y.page:25
@@ -1071,27 +1077,27 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/a11y.page:33
 msgid "Visual Impairments"
-msgstr ""
+msgstr "Impedimentos visuales"
 
 #. (itstool) path: section/title
 #: C/a11y.page:37
 msgid "Low Vision"
-msgstr ""
+msgstr "Poca visión"
 
 #. (itstool) path: section/title
 #: C/a11y.page:41
 msgid "Hearing Impairments"
-msgstr ""
+msgstr "Deficiencias auditivas"
 
 #. (itstool) path: section/title
 #: C/a11y.page:45
 msgid "Mobility Impairments"
-msgstr ""
+msgstr "Problemas de movilidad"
 
 #. (itstool) path: section/title
 #: C/a11y.page:49
 msgid "See Also"
-msgstr ""
+msgstr "Ve también"
 
 #. (itstool) path: credit/name
 #: C/accounts-add.page:13 C/bluetooth-connect-device.page:16
@@ -1122,6 +1128,9 @@ msgid ""
 "desktop. Thus, your email app, chat app and other related applications will "
 "be set up for you."
 msgstr ""
+"Agregar una cuenta ayudará a unir tus cuentas en línea con tu escritorio "
+"Endless. De esta forma, tu programa de correo electrónico, programa de chat "
+"y otros programas relacionados se configurarán para ti."
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:32
@@ -1149,6 +1158,9 @@ msgid ""
 "credentials. For example, if you are setting up a Google account, enter your "
 "Google username and password."
 msgstr ""
+"Una pequeña ventana se abrirá donde puedes introducir las credenciales de tu "
+"cuenta en línea. Por ejemplo, si vas a configurar una cuenta de Google, "
+"introduce tu nombre de usuario y contraseña de Google."
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:46
@@ -1156,6 +1168,9 @@ msgid ""
 "If you have entered your credentials correctly, you will be prompted to "
 "allow Endless access to your online account. Authorize access to continue."
 msgstr ""
+"Si has introducido tus credenciales correctamente, se te pedirá permiso para "
+"permitir el acceso de Endless a tu cuenta en línea. Autoriza el acceso para "
+"continuar."
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:51
@@ -1185,6 +1200,9 @@ msgid ""
 "For security reasons, Endless will not store your password on your computer. "
 "Instead, it stores a token that is provided by the online service."
 msgstr ""
+"Por razones de seguridad, Endless no guardará tu contraseña en tu "
+"computadora. En su lugar, guarda un token que es proporcionado por el "
+"servicio en linea."
 
 #. (itstool) path: info/desc
 #: C/backup-check.page:8
@@ -1279,7 +1297,6 @@ msgstr "Frecuencia de las copias de seguridad"
 
 #. (itstool) path: page/p
 #: C/backup-frequency.page:25
-#, fuzzy
 msgid ""
 "How often you make backups will depend on the type of data to be backed up. "
 "For example, if you are running a business on a network environment with "
@@ -1316,7 +1333,6 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/backup-frequency.page:39
-#, fuzzy
 msgid ""
 "If the data you want to back up is lower priority, or subject to few "
 "changes, like music, e-mails and family photos, then weekly or even monthly "
@@ -1345,7 +1361,6 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/backup-how.page:8
-#, fuzzy
 msgid "Backup your valuable files and settings to protect against loss."
 msgstr ""
 "Usa Déjà Dup (u otra aplicación de copias de seguridad) para hacer copias de "
@@ -1358,7 +1373,6 @@ msgstr "Cómo hacer copias de seguridad"
 
 #. (itstool) path: page/p
 #: C/backup-how.page:28
-#, fuzzy
 msgid ""
 "To make sure you don't lose your files, it is a good idea to perform regular "
 "back ups. To back up your files, <link xref=\"files-copy\">copy your files</"
@@ -1427,7 +1441,6 @@ msgstr "Restaurar una copia de seguridad"
 
 #. (itstool) path: page/p
 #: C/backup-restore.page:25
-#, fuzzy
 msgid ""
 "If you have lost or deleted some of your files, but you have a backup of "
 "them, you can restore them from the backup."
@@ -1437,7 +1450,6 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/backup-restore.page:28
-#, fuzzy
 msgid ""
 "If you want to restore your backup from a device such as an external hard "
 "drive, USB drive or another computer on the network, you can <link xref="
@@ -1582,6 +1594,12 @@ msgid ""
 "computer. If there is a fire or theft, both copies of the data could be lost "
 "if they are kept together."
 msgstr ""
+"Debes guardar copias de seguridad de tus archivos en algún lugar aparte de "
+"tu computadora - en un disco duro externo, por ejemplo. De esa manera, si la "
+"computadora se  rompe, o se pierde o es robada, la copia de seguridad "
+"seguirá intacta. Para mayor seguridad, no debes tener la copia de seguridad "
+"en el mismo edificio en donde está tu computadora. Si hay un incendio o "
+"robo, ambas copias de datos podrían perderse si están juntas."
 
 #. (itstool) path: page/p
 #: C/backup-where.page:33
@@ -1669,16 +1687,17 @@ msgstr ""
 #: C/shell-organize-apps.page:10 C/shell-update-app.page:10
 #: C/shell-update-system.page:10 C/shell-windows-hide.page:10
 msgid "Nuritzi Sanchez"
-msgstr ""
+msgstr "Nuritzi Sanchez"
 
 #. (itstool) path: info/desc
 #: C/backup-why.page:16
 msgid "Back up your computer to prevent your files from being lost."
 msgstr ""
+"Guarda una copia de seguridad de la computadora para evitar que tus archivos "
+"se pierdan."
 
 #. (itstool) path: page/title
 #: C/backup-why.page:19
-#, fuzzy
 msgid "Why to back up your computer"
 msgstr "Usted y su equipo"
 
@@ -1690,10 +1709,13 @@ msgid ""
 "unexpected reasons, like theft or if you spill water on your computer, or if "
 "your computer otherwise stops working."
 msgstr ""
+"Es una buena idea crear una copia de seguridad de tu sistema y archivos tan "
+"seguido como sea posible para que no se pierdan. Tus archivos se pueden "
+"perder por muchas razones inesperadas, como un robo o si derramas agua en tu "
+"computadora, o si tu computadora deja de funcionar por otra razón."
 
 #. (itstool) path: page/p
 #: C/backup-why.page:26
-#, fuzzy
 msgid ""
 "Backing up your files simply means making a copy of them for safekeeping. "
 "This is done in case the original files become unusable due to loss or "
@@ -1712,7 +1734,6 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/backup-why.page:33
-#, fuzzy
 msgid ""
 "The best way to back up your files is to do so regularly, keeping the copies "
 "somewhere other than where you keep your computer to avoid theft or them "
@@ -1763,7 +1784,6 @@ msgstr ""
 #: C/bluetooth-connect-device.page:51 C/bluetooth-remove-connection.page:49
 #: C/bluetooth-send-file.page:64 C/bluetooth-turn-on-off.page:52
 #: C/bluetooth-turn-on-off.page:66
-#, fuzzy
 msgid "Click <gui>Bluetooth</gui>."
 msgstr "Pulse <gui>Conectar</gui>."
 
@@ -1773,6 +1793,8 @@ msgid ""
 "Make the other Bluetooth device discoverable or visible and place it within "
 "10 meters (about 33 feet) of your computer."
 msgstr ""
+"Pon tu Bluetooth en modo detectable o visible y colócalo dentro de 10 metros "
+"(alrededor de 33 pies) de tu computadora."
 
 #. (itstool) path: item/p
 #: C/bluetooth-connect-device.page:58
@@ -1953,6 +1975,12 @@ msgid ""
 "the right drivers for them. In this case, you will probably have to get a "
 "different Bluetooth adapter."
 msgstr ""
+"Tu adaptador Bluetooth/llave electrónica puede no haber sido reconocida por "
+"la computadora. Esto puede deberse a que los controladores para tu adaptador "
+"no estén instalados. Algunos adaptadores Bluetooth no son compatibles con "
+"Linux, por lo que tal vez no se puedan obtener los controladores adecuados "
+"para ellos. En este caso, es probable que tengas que conseguir un adaptador "
+"Bluetooth diferente."
 
 #. (itstool) path: item/title
 #: C/bluetooth-problem-connecting.page:48
@@ -1966,9 +1994,9 @@ msgid ""
 "icon in the <gui>menu bar</gui> and check that it's not <link xref="
 "\"bluetooth-turn-on-off\">disabled</link>."
 msgstr ""
-"Asegúrese de que su adaptador Bluetooth está encendido. Pulse en el icono de "
-"Bluetooth en la <gui>barra de menú</gui> y compruebe que no está <link xref="
-"\"bluetooth-turn-on-off\">desactivado</link>."
+"Asegúrate de que tu adaptador Bluetooth esté encendido. Haz clic en el ícono "
+"de Bluetooth en la <gui>barra de menú</gui> y comprueba que no esté <link "
+"xref=\"bluetooth-turn-on-off\">desactivado</link>."
 
 #. (itstool) path: choose/p
 #: C/bluetooth-problem-connecting.page:55
@@ -1993,6 +2021,10 @@ msgid ""
 "and that it is discoverable or visible. For example, if you're trying to "
 "connect to a phone, make sure that it's not in airplane mode."
 msgstr ""
+"Comprueba que el Bluetooth esté activado en el aparato con el que estás "
+"tratando de conectarte, y que sea detectable o visible. Por ejemplo, si "
+"estás tratando de conectarte a un teléfono, asegúrate de que no está en modo "
+"avión."
 
 #. (itstool) path: item/title
 #: C/bluetooth-problem-connecting.page:68
@@ -2045,8 +2077,8 @@ msgid ""
 "Select the device you want to disconnect in the left pane, then click the "
 "<key>-</key> icon below the list."
 msgstr ""
-"Seleccione en el panel de la izquierda el dispositivo que quiere "
-"desconectar, y después pulse el icono <gui>-</gui> de debajo de la lista."
+"Selecciona en el panel de la izquierda el dispositivo que quiere "
+"desconectar, y después pulse el ícono <gui>-</gui> de debajo de la lista."
 
 #. (itstool) path: item/p
 #: C/bluetooth-remove-connection.page:56
@@ -2192,11 +2224,13 @@ msgid ""
 "You only need to switch <gui>Visibility</gui> on if you are connecting to "
 "this computer from another device."
 msgstr ""
+"Sólo tienes que activar la <gui>Visibilidad</gui> si vas a conectarte a esta "
+"computadora desde otro aparato."
 
 #. (itstool) path: info/desc
 #: C/bluetooth.page:16
 msgid "Learn what Bluetooth is and how to use it."
-msgstr ""
+msgstr "Aprende lo que Bluetooth es y cómo usarlo."
 
 #. (itstool) path: page/title
 #: C/bluetooth.page:21
@@ -2211,6 +2245,10 @@ msgid ""
 "You can also use it to send files between devices, such as from your "
 "computer to your cell phone, or vice versa."
 msgstr ""
+"Bluetooth te permite conectar muchos diferentes tipos de aparatos a tu "
+"computadora. Es comúnmente usado para la conexión de ratones y teclados "
+"inalámbricos. También puedes usarlo para enviar archivos entre dispositivos, "
+"como desde tu computadora a tu teléfono celular, o viceversa."
 
 #. (itstool) path: page/p
 #: C/bluetooth.page:28
@@ -2218,6 +2256,8 @@ msgid ""
 "You can turn Bluetooth on to connect to other Bluetooth devices, or you can "
 "turn it off to conserve power."
 msgstr ""
+"Puedes activar Bluetooth para conectarte a otros aparatos con Bluetooth, o "
+"puedes apagarlo para ahorrar energía."
 
 #. (itstool) path: info/desc
 #: C/clock-set.page:23
@@ -2225,6 +2265,8 @@ msgid ""
 "Click the clock on the taskbar and go into the <gui>Date &amp; Time "
 "Settings</gui> to alter the date/time."
 msgstr ""
+"Haz clic en el reloj de la barra de tareas y entra en <gui>Configuración de "
+"Fecha y Hora</gui> para modificar la fecha y hora."
 
 #. (itstool) path: page/title
 #: C/clock-set.page:26
@@ -2242,7 +2284,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/clock-set.page:33
-#, fuzzy
 msgid ""
 "Click on the clock on the taskbar at the bottom right of your screen and "
 "select <gui>Date &amp; Time Settings</gui>."
@@ -2306,7 +2347,6 @@ msgstr "Cambiar su zona horaria"
 
 #. (itstool) path: item/p
 #: C/clock-timezone.page:34
-#, fuzzy
 msgid ""
 "Click on the clock on the taskbar on the bottom right side of your screen "
 "and select <gui>Date &amp; Time Settings</gui>."
@@ -2378,7 +2418,6 @@ msgstr "Haz clic en <gui>Pantallas</gui> para abrir el panel."
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:94
-#, fuzzy
 msgid ""
 "The monitor with the bottom bar is the main monitor. To change which monitor "
 "is treated as \"main\", click on the bottom bar and drag it over to the "
@@ -2658,7 +2697,6 @@ msgstr "Arrastra archivos para copiarlos o moverlos"
 
 #. (itstool) path: item/p
 #: C/files-copy.page:68
-#, fuzzy
 msgid ""
 "Click on [standard_my_documents.png] from the desktop and go to the folder "
 "which contains the file you want to copy."
@@ -2668,7 +2706,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/files-copy.page:70
-#, fuzzy
 msgid ""
 "Click [files-share.png] on the top right, and select <gui>New Window</gui> "
 "(or press <keyseq><key>Ctrl</key><key>N</key></keyseq>) to open a second "
@@ -2713,7 +2750,6 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/files-copy.page:87
-#, fuzzy
 msgid ""
 "You can't copy or move a file into a folder that is <em>read-only</em>. Some "
 "folders are read-only to prevent you from making changes to their contents."
@@ -2841,7 +2877,6 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/files-delete.page:72
-#, fuzzy
 msgid ""
 "Deleted files on a <link xref=\"files-removedrive\">removable device </link> "
 "may not be visible on other operating systems, such Windows or Mac OS. The "
@@ -2869,7 +2904,7 @@ msgstr ""
 #: C/shell-organize-apps.page:14 C/shell-update-app.page:14
 #: C/shell-update-system.page:14 C/shell-windows-hide.page:14
 msgid "Endless Mobile, Inc."
-msgstr ""
+msgstr "Endless Mobile,  Inc."
 
 #. (itstool) path: credit/years
 #: C/files-microsoft-compatible.page:15 C/files-save.page:15
@@ -2887,17 +2922,17 @@ msgstr ""
 #: C/shell-organize-apps.page:15 C/shell-update-app.page:15
 #: C/shell-update-system.page:15 C/shell-windows-hide.page:15
 msgid "2014"
-msgstr ""
+msgstr "2014"
 
 #. (itstool) path: info/desc
 #: C/files-microsoft-compatible.page:18
 msgid "Learn how to make Microsoft-compatible files"
-msgstr ""
+msgstr "Aprende cómo hacer archivos compatibles con Microsoft"
 
 #. (itstool) path: page/title
 #: C/files-microsoft-compatible.page:21
 msgid "Save in a Microsoft compatible format"
-msgstr ""
+msgstr "Guarda en un formato compatible con Microsoft"
 
 #. (itstool) path: page/p
 #: C/files-microsoft-compatible.page:23
@@ -2907,11 +2942,16 @@ msgid ""
 "that you receive, and can save your own files so that people who have "
 "Microsoft apps can open and use them."
 msgstr ""
+"Los programas de procesador de texto, hoja de cálculo y de presentación de "
+"Endless son similares y compatibles con los programas de Microsoft. Esto "
+"significa que puedes abrir archivos de Microsoft que recibes, y puedes "
+"guardar tus propios archivos para que las personas que tienen aplicaciones "
+"de Microsoft puedan abrir y utilizarlos."
 
 #. (itstool) path: steps/title
 #: C/files-microsoft-compatible.page:29
 msgid "To save your files in a Microsoft format:"
-msgstr ""
+msgstr "Para guardar tus archivos en un formato de Microsoft:"
 
 #. (itstool) path: item/p
 #: C/files-microsoft-compatible.page:31
@@ -2926,10 +2966,11 @@ msgid ""
 "Click on the <gui>File</gui> menu of the app, which is on the top left "
 "corner of the screen."
 msgstr ""
+"Haz clic en el menú <gui>Archivo</gui> de tu programa, en la parte superior "
+"izquierda de la pantalla."
 
 #. (itstool) path: item/p
 #: C/files-microsoft-compatible.page:39
-#, fuzzy
 msgid "Click on the <gui>Save</gui> option."
 msgstr "Seleccione la opción <gui>Predeterminada</gui>."
 
@@ -2940,6 +2981,9 @@ msgid ""
 "all of the formats that you can save your file as, and choose the Microsoft "
 "version that best suits your needs."
 msgstr ""
+"Verás un botón que dice <gui>Todos los Formatos</gui>. Haz clic para ver "
+"todos los formatos en los que puedes guardar tu archivo, y elige la versión "
+"de Microsoft que mejor se adapte a tus necesidades."
 
 #. (itstool) path: item/p
 #: C/files-microsoft-compatible.page:47
@@ -2947,6 +2991,8 @@ msgid ""
 "Give your file a name, choose where to store it, and click <gui>Save</gui> "
 "to finish saving your file."
 msgstr ""
+"Dale un nombre a tu archivo, elige dónde guardarlo y haz clic en "
+"<gui>Guardar</gui> para terminar de guardar el archivo."
 
 #. (itstool) path: info/desc
 #: C/files-open.page:10
@@ -3479,11 +3525,10 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/files-save.page:18
 msgid "Learn how to save your photos, music and documents."
-msgstr ""
+msgstr "Aprende a guardar tus fotos, música y documentos."
 
 #. (itstool) path: page/title
 #: C/files-save.page:21
-#, fuzzy
 msgid "Save your files"
 msgstr "Buscar archivos"
 
@@ -3493,6 +3538,8 @@ msgid ""
 "There are a few types of files that you may want to save on your computer, "
 "like photos, music and documents."
 msgstr ""
+"Hay algunos tipos de archivos que es posible que desees guardar en tu "
+"computadora, como fotos, música y documentos."
 
 #. (itstool) path: page/p
 #: C/files-save.page:26
@@ -3500,16 +3547,19 @@ msgid ""
 "Here is information about what \"files\" are, how to save them, and some "
 "best practices for making sure that you can later find them."
 msgstr ""
+"Aquí encontrarás información sobre qué son los \"archivos\", cómo guardarlos "
+"y algunas de las mejores prácticas para asegurarte de que luego los puedas "
+"encontrar."
 
 #. (itstool) path: section/title
 #: C/files-save.page:30
 msgid "What are \"files\" and why are they important?"
-msgstr ""
+msgstr "¿Qué son los \"archivos\" y por qué son importantes?"
 
 #. (itstool) path: section/p
 #: C/files-save.page:32
 msgid "\"Files\" are packages that save and contain your stuff."
-msgstr ""
+msgstr "Los \"Archivos\" son paquetes que guardan y contienen tus cosas."
 
 #. (itstool) path: section/p
 #: C/files-save.page:34
@@ -3520,6 +3570,11 @@ msgid ""
 "something that has been created and saved so that you can open it and listen "
 "to it."
 msgstr ""
+"Por ejemplo, si estás escribiendo un documento y deseas guardarlo para que "
+"puedas verlo más tarde, puedes guardar ese archivo en tu computadora y luego "
+"abrirlo después para seguir trabajando en él. Del mismo modo, un archivo de "
+"música es algo que ha sido creado y guardado para que lo puedas abrir y "
+"escuchar."
 
 #. (itstool) path: section/p
 #: C/files-save.page:40
@@ -3528,6 +3583,9 @@ msgid ""
 "at the end of its name. For example, many pictures end with \".jpg\" or \"."
 "png\". The endings are called file name extensions."
 msgstr ""
+"Cuando veas un archivo, puedes saber qué tipo de cosas contiene mirando el "
+"final de su nombre. Por ejemplo, muchas fotos terminan con \".jpg\" o \".png"
+"\". Las terminaciones del nombre del archivo se llaman extensiones."
 
 #. (itstool) path: section/p
 #: C/files-save.page:44
@@ -3535,31 +3593,33 @@ msgid ""
 "Here are some examples of files you may be familiar with and some popular "
 "name extensions that describe them:"
 msgstr ""
+"Aquí hay algunos ejemplos de archivos con los que puedes estar familiarizado "
+"y algunos nombres populares de extensiones que los describen:"
 
 #. (itstool) path: item/p
 #: C/files-save.page:49
 msgid "Photos = .jpg, .png, .tiff, .gif"
-msgstr ""
+msgstr "Fotos = .jpg, .png, .tiff, .gif"
 
 #. (itstool) path: item/p
 #: C/files-save.page:52
 msgid "Music = .mp3, .mp4"
-msgstr ""
+msgstr "Música = .mp3, .mp4"
 
 #. (itstool) path: item/p
 #: C/files-save.page:55
 msgid "Libre Office Documents = .odf"
-msgstr ""
+msgstr "Documentos de Libre Office = .odf"
 
 #. (itstool) path: item/p
 #: C/files-save.page:58
 msgid "Microsoft Word Documents = .doc"
-msgstr ""
+msgstr "Documentos de Microsoft Word = .doc "
 
 #. (itstool) path: item/p
 #: C/files-save.page:61
 msgid "Photoshop = .psd"
-msgstr ""
+msgstr "Photoshop = .psd"
 
 #. (itstool) path: section/p
 #: C/files-save.page:65
@@ -3568,6 +3628,9 @@ msgid ""
 "before you start to save your own files so that you make sure to save yours "
 "correctly."
 msgstr ""
+"Es importante aprender un poco acerca de los archivos y los nombres de "
+"extensión antes de empezar a guardar tus propios archivos para asegurar que "
+"los guardes correctamente."
 
 #. (itstool) path: section/p
 #: C/files-save.page:69
@@ -3577,6 +3640,10 @@ msgid ""
 "tells your computer in which \"language\" you are saving your files. Some "
 "apps only know how to work with certain files."
 msgstr ""
+"Cuando guardes tus archivos, es como guardarlos en un idioma que sólo tu "
+"computadora sabe leer. Así, cada nombre de extensión de archivo le dice a tu "
+"ordenador en cuál \"idioma\" los estás guardando. Algunos programas sólo "
+"saben cómo trabajar con ciertos archivos."
 
 #. (itstool) path: note/p
 #: C/files-save.page:75
@@ -3585,11 +3652,14 @@ msgid ""
 "are not easily editable, but can be seen on almost any kind of device, and "
 "are very popular."
 msgstr ""
+"Otro tipo común de archivo se llama PDF (.pdf). Estos documentos no suelen "
+"ser fácilmente editables, pero se pueden ver en casi cualquier tipo de "
+"aparato, y son muy populares."
 
 #. (itstool) path: section/title
 #: C/files-save.page:82
 msgid "How do I save a file?"
-msgstr ""
+msgstr "¿Cómo puedo guardar un archivo?"
 
 #. (itstool) path: section/p
 #: C/files-save.page:84
@@ -3597,11 +3667,13 @@ msgid ""
 "Each app has its own way of saving a file, but you can usually save files "
 "one of two ways:"
 msgstr ""
+"Cada programa tiene su propia forma de guardar un archivo, pero normalmente "
+"puedes guardar los archivos de dos maneras:"
 
 #. (itstool) path: steps/title
 #: C/files-save.page:88
 msgid "Saving with the file menu:"
-msgstr ""
+msgstr "Guardando con el menú de archivo:"
 
 #. (itstool) path: item/p
 #: C/files-save.page:91
@@ -3609,6 +3681,8 @@ msgid ""
 "Click once on your app's <gui>File</gui> menu (usually in the top left hand "
 "corner) and click once on the <gui>Save</gui> option within it."
 msgstr ""
+"Haz clic una vez en tu menú de <gui>Archivo</gui> (normalmente en la esquina "
+"superior izquierda) y haz clic una vez en la opción de <gui>Guardar</gui>."
 
 #. (itstool) path: item/p
 #: C/files-save.page:96
@@ -3618,6 +3692,10 @@ msgid ""
 "you and your friends, you may want to name it something like \"friend photo "
 "Cassandra and Eddy\" so that you can search for and find it later."
 msgstr ""
+"Nombra tu archivo nueva. Una buena idea es nombrar tu archivo con algo que "
+"te ayude a identificarlo y recordarlo. Por ejemplo, si tu archivo es una "
+"foto de ti y tus amigos, puede que quieras darle un nombre como \"foto con "
+"amigos Cassandra y Eddy\" para que puedas buscar y encontrarlo más tarde."
 
 #. (itstool) path: item/p
 #: C/files-save.page:103
@@ -3628,6 +3706,12 @@ msgid ""
 "it is highlighted in blue. You can also save your files to a custom folder "
 "that you create (learn how to create a custom folder below)."
 msgstr ""
+"Elige dónde deseas guardar el archivo. Hemos hecho unas cuantas carpetas que "
+"te pueden ayudar a recordar dónde están tus archivos: Documentos, Música, "
+"Imágenes, Videos y Descargas. Para guardar el archivo en una carpeta, haz "
+"clic en él y asegúrate de que esté resaltado en azul. También puedes guardar "
+"los archivos en una carpeta personalizada que has creado (aprende a crear "
+"una carpeta personalizada a continuación)."
 
 #. (itstool) path: item/p
 #: C/files-save.page:111
@@ -3636,10 +3720,12 @@ msgid ""
 "that you have chosen. The <gui>Save</gui> button is usually on the bottom "
 "right-hand corner of the window."
 msgstr ""
+"Haz clic en <gui>Guardar</gui> y el archivo recién nombrado se guardará en "
+"la carpeta que  hayas elegido. La tecla <gui>Guardar</gui> suele estar en la "
+"esquina inferior derecha de la ventana."
 
 #. (itstool) path: steps/title
 #: C/files-save.page:117
-#, fuzzy
 msgid "Saving with keyboard shortcuts:"
 msgstr "Atajos de teclado"
 
@@ -3650,6 +3736,10 @@ msgid ""
 "to save your files. This is a keyboard shortcut, and may be different in "
 "different apps, but it usually works."
 msgstr ""
+"La mayoría de los programas te permiten oprimir <keyseq><key>Ctrl</"
+"key><key>s</key> </keyseq> para guardar los archivos. Este es un acceso "
+"directo de teclado, y puede ser diferente en diferentes programas, pero por "
+"lo general funciona."
 
 #. (itstool) path: note/p
 #: C/files-save.page:127
@@ -3657,6 +3747,8 @@ msgid ""
 "It is a great idea to save your documents or things you are working on "
 "frequently!"
 msgstr ""
+"¡Es una buena idea guardar los documentos o cosas en las que estés "
+"trabajando con frecuencia!"
 
 #. (itstool) path: note/p
 #: C/files-save.page:130
@@ -3664,6 +3756,8 @@ msgid ""
 "If there is a power outage or interruption, you will lose everything you are "
 "working on unless you save it."
 msgstr ""
+"Si hay un apagón o alguna interrupción de electricidad, se perderá todo en "
+"lo que estés trabajando a menos que lo guardes."
 
 #. (itstool) path: note/p
 #: C/files-save.page:133
@@ -3671,6 +3765,8 @@ msgid ""
 "Remember to save important documents every 2 - 5 minutes just to make sure "
 "you don't lose any of your hard work!"
 msgstr ""
+"¡Recuerda guardar documentos importantes cada 2-5 minutos para asegurarte de "
+"no perder tu trabajo!"
 
 #. (itstool) path: note/p
 #: C/files-save.page:138
@@ -3680,11 +3776,15 @@ msgid ""
 "update the original file with any changes you have made. Your updated file "
 "will appear in its original location."
 msgstr ""
+"Si estás actualizando un archivo en vez de guardando uno nuevo, no se te "
+"pedirá nombrar el archivo cuando intentes guardarlo. Tu computadora "
+"solamente actualizará el archivo original con los cambios que hayas hecho. "
+"Tu archivo actualizado aparecerá en su ubicación original."
 
 #. (itstool) path: section/title
 #: C/files-save.page:146
 msgid "How do I keep the original version too?"
-msgstr ""
+msgstr "¿Cómo puedo mantener la versión original también?"
 
 #. (itstool) path: section/p
 #: C/files-save.page:148
@@ -3692,10 +3792,11 @@ msgid ""
 "In order to keep both the original file and also an edited version, you will "
 "need to use the \"Save As\" option."
 msgstr ""
+"Para mantener el archivo original y también una versión editada, tendrás que "
+"utilizar la opción \"Guardar como\"."
 
 #. (itstool) path: item/p
 #: C/files-save.page:153
-#, fuzzy
 msgid ""
 "Go to the <gui>File</gui> menu at the top left corner of your screen. Click "
 "on the <gui>Save As</gui> option."
@@ -3712,6 +3813,11 @@ msgid ""
 "similar to the original file, like \"copy of friend photo Cassandra and Eddy"
 "\" or \"friend photo Cassandra and Eddy 2\"."
 msgstr ""
+"Introduce un nuevo nombre para el archivo. Al cambiar el nombre de la foto, "
+"la computadora entiende que deseas crear un nuevo archivo con su propio "
+"nombre, y no sustituir al original. Es posible que quieras nombrar el "
+"archivo nuevo de manera similar al archivo original, como \"copia de la foto "
+"con amigos Cassandra y Eddy\" o \" foto con amigos Cassandra y Eddy 2\"."
 
 #. (itstool) path: item/p
 #: C/files-save.page:164
@@ -3721,11 +3827,16 @@ msgid ""
 "Videos and Downloads. You may also want to create custom folders to help you "
 "further organize your files. Learn how to make a custom folder below."
 msgstr ""
+"Elige el lugar donde luego quieres encontrar el archivo. Hemos creado unas "
+"cuantas carpetas para ayudarte a organizar tus archivos: Documentos, Música, "
+"Imágenes, Videos y Descargas. También puedes crear carpetas personalizadas "
+"para ayudar a organizar mejor tus archivos. Aprende cómo hacer una carpeta "
+"personalizada a continuación."
 
 #. (itstool) path: section/title
 #: C/files-save.page:174
 msgid "How do I create a folder to store my files?"
-msgstr ""
+msgstr "¿Cómo puedo crear una carpeta para guardar mis archivos?"
 
 #. (itstool) path: section/p
 #: C/files-save.page:176
@@ -3734,10 +3845,12 @@ msgid ""
 "keep your apps. You can see the folders where your files are saved by "
 "clicking on the \"Documents\" icon from the desktop."
 msgstr ""
+"Crear una carpeta para guardar tus archivos es diferente a crear una carpeta "
+"para mantener tus programas. Puedes ver las carpetas donde se guardan los "
+"archivos haciendo clic en el ícono de \"Documentos\" del escritorio."
 
 #. (itstool) path: steps/title
 #: C/files-save.page:181
-#, fuzzy
 msgid "To create a folder to store your files:"
 msgstr "Para renombrar un archivo o una carpeta:"
 
@@ -3748,6 +3861,9 @@ msgid ""
 "folders that we have already created: Home, Documents, Music, Pictures, "
 "Videos and Downloads."
 msgstr ""
+"Haz clic en el icono de <gui>Documentos</gui> en el escritorio. Verás "
+"algunas carpetas que ya hemos creado: Inicio, Documentos, Música, Imágenes, "
+"Videos y Descargas."
 
 #. (itstool) path: item/p
 #: C/files-save.page:189
@@ -3756,6 +3872,9 @@ msgid ""
 "folder, or in the main \"Home\" folder by clicking on the the location of "
 "your choice. Make sure the location you click on turns blue."
 msgstr ""
+"¿Dónde quieres guardar tu carpeta? Puedes ponerla dentro de otra carpeta, o "
+"en la carpeta principal \"Inicio\", haciendo clic en el lugar de tu "
+"elección. Asegúrate de que la ubicación en la que haces clic se vuelva azul."
 
 #. (itstool) path: item/p
 #: C/files-save.page:195
@@ -3765,6 +3884,10 @@ msgid ""
 "the new folder (e.g. Home, Pictures, or Music) twice. You should then see "
 "the Add Folder button."
 msgstr ""
+"Haz clic en el icono <gui>Agregar Carpeta</gui> en la esquina inferior "
+"derecha de la ventana. Si no la ves, haz clic en la carpeta donde quieres "
+"agregar la nueva carpeta (por ejemplo, Inicio, Imágenes o Música) dos veces. "
+"Luego verás el botón Agregar Carpeta."
 
 #. (itstool) path: item/p
 #: C/files-save.page:201
@@ -3772,6 +3895,8 @@ msgid ""
 "Name the folder something that will help you remember what kind of files you "
 "are going to put inside of it, or to whom the files will belong."
 msgstr ""
+"Nombra la carpeta con algo que te ayude a recordar qué tipo de archivos vas "
+"a poner dentro de ella, o a quienes pertenecerán los archivos."
 
 #. (itstool) path: note/p
 #: C/files-save.page:208
@@ -3779,6 +3904,8 @@ msgid ""
 "You may want to add a folder inside of another folder to help keep your "
 "files really organized."
 msgstr ""
+"Tal vez quieras agregar una carpeta dentro de otra carpeta para ayudar a "
+"mantener tus archivos bien organizados."
 
 #. (itstool) path: note/p
 #: C/files-save.page:211
@@ -3789,17 +3916,24 @@ msgid ""
 "like \"Pictures with Cassandra\", \"Pictures with Celia\" and \"Pictures "
 "with Abel\")."
 msgstr ""
+"Por ejemplo, es posible que quieras crear una carpeta dentro de \"Imágenes\" "
+"llamada \"Fotos con Amigos\". Si tienes un montón de amigos, puede que "
+"incluso quieras crear más carpetas dentro de esa carpeta, una para cada uno "
+"de tus amigos (algo así como \"Fotos con Cassandra\", \"Fotos con Celia\" y "
+"\"Fotos con Abel\")."
 
 #. (itstool) path: info/desc
 #: C/files-search.page:25
 msgid ""
 "Locate your photos, music and documents. Save your frequently used searches."
 msgstr ""
+"Encuentra tus fotos, música y documentos. Guarda tus búsquedas de uso "
+"frecuente."
 
 #. (itstool) path: page/title
 #: C/files-search.page:28
 msgid "Search for your saved photos, music, documents and folders"
-msgstr ""
+msgstr "Busca tus fotos, música, documentos y carpetas guardadas"
 
 #. (itstool) path: page/p
 #: C/files-search.page:30
@@ -3811,6 +3945,12 @@ msgid ""
 "by using the global search feature. From inside the <gui>Documents</gui> "
 "app, you can even save common searches to use later."
 msgstr ""
+"Si no sabes lo que hiciste con algo que has guardado o descargado en tu "
+"computadora, ¡no te preocupes, puedes buscarlo! Puedes buscar archivos y "
+"carpetas por medio de su nombre o el tipo de archivo (si son documentos, "
+"fotos, etc). Para esto, intenta buscar desde la carpeta Documentos o "
+"utilizando la función de búsqueda global. Desde el programa <gui>Documentos</"
+"gui>, incluso puedes guardar las búsquedas comunes para tu uso después."
 
 #. (itstool) path: links/title
 #: C/files-search.page:38
@@ -3820,16 +3960,15 @@ msgstr "Otras aplicaciones de búsqueda"
 #. (itstool) path: steps/title
 #: C/files-search.page:44
 msgid "Search from your Documents folder"
-msgstr ""
+msgstr "Buscar desde tu carpeta de Documentos"
 
 #. (itstool) path: item/p
 #: C/files-search.page:47
 msgid "Go to your desktop and click on the <gui>Documents</gui> icon."
-msgstr ""
+msgstr "Ve a tu escritorio y haz clic en el icono <gui>Documentos</gui>."
 
 #. (itstool) path: item/p
 #: C/files-search.page:50
-#, fuzzy
 msgid ""
 "Click the magnifying glass in the bar at the top of the window that opens, "
 "or press <keyseq><key>Ctrl</key><key>F</key></keyseq>."
@@ -3845,6 +3984,12 @@ msgid ""
 "photo\", type <input>friend photo</input>. Press <key>Enter</key>. Words are "
 "matched regardless of case, but you should make sure it is spelled correctly."
 msgstr ""
+"Escribe las palabras que sabes que aparecen en el nombre del archivo. Por "
+"ejemplo, si nombras y guardas todas las fotografías que te tomas con tus "
+"amigos con las palabras \"fotos con amigos\", escribe <input>foto con "
+"amigos</input>. Presiona <key>Intro</key>. Las palabras se corresponden si "
+"llevan mayúsculas o minúsculas, pero debes asegurarte de que estén escritas "
+"correctamente."
 
 #. (itstool) path: item/p
 #: C/files-search.page:61
@@ -3879,6 +4024,8 @@ msgid ""
 "You can open, copy, delete, or otherwise work with your files from the "
 "search results."
 msgstr ""
+"Puedes abrir, copiar, eliminar, o trabajar con los archivos de los "
+"resultados de la búsqueda."
 
 #. (itstool) path: item/p
 #: C/files-search.page:81
@@ -3944,7 +4091,6 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/files-share.page:8
-#, fuzzy
 msgid "Easily transfer files to your email contacts when you have internet."
 msgstr ""
 "Transferencia sencilla de archivos a sus contactos de correo-e desde el "
@@ -3957,7 +4103,6 @@ msgstr "Compartir archivos por correo-e"
 
 #. (itstool) path: page/p
 #: C/files-share.page:35
-#, fuzzy
 msgid "You can easily share files with your contacts by email."
 msgstr ""
 "Puede compartir archivos fácilmente con sus contactos por correo-e "
@@ -3982,7 +4127,6 @@ msgstr "Para compartir archivos por correo-e:"
 
 #. (itstool) path: item/p
 #: C/files-share.page:45
-#, fuzzy
 msgid "Click on [standard_my_documents.png] from the <gui>Desktop</gui>."
 msgstr "Haz clic en <app>Mis Documentos</app> desde tu <gui>Escritorio</gui>. "
 
@@ -4026,11 +4170,13 @@ msgstr ""
 #: C/files-zip.page:18
 msgid "Create zip files to save space and share your files more easily."
 msgstr ""
+"Crea archivos zip para ahorrar espacio y compartir tus archivos con más "
+"facilidad."
 
 #. (itstool) path: page/title
 #: C/files-zip.page:21
 msgid "Create zip files"
-msgstr ""
+msgstr "Crea archivos zip"
 
 #. (itstool) path: page/p
 #: C/files-zip.page:23
@@ -4038,16 +4184,16 @@ msgid ""
 "Zip files allow you store your files in less space. This is especially good "
 "when you are trying to share files with friends."
 msgstr ""
+"Los archivos zip te permiten almacenar tus archivos en menos espacio. Esto "
+"es muy bueno cuando estés tratando de compartir archivos con amigos."
 
 #. (itstool) path: steps/title
 #: C/files-zip.page:27
-#, fuzzy
 msgid "To create a zip file, follow these steps:"
 msgstr "Para restaurar un archivo de la papelera:"
 
 #. (itstool) path: item/p
 #: C/files-zip.page:29
-#, fuzzy
 msgid "Click on the <gui>Documents</gui> icon from your desktop."
 msgstr "Haz clic en <app>Mis Documentos</app> desde tu <gui>Escritorio</gui>. "
 
@@ -4055,11 +4201,10 @@ msgstr "Haz clic en <app>Mis Documentos</app> desde tu <gui>Escritorio</gui>. "
 #: C/files-zip.page:32
 msgid ""
 "Search for the file or folders that you would like to send or make smaller."
-msgstr ""
+msgstr "Busca la carpeta o el archivo que deseas enviar o hacer más pequeño."
 
 #. (itstool) path: item/p
 #: C/files-zip.page:36
-#, fuzzy
 msgid ""
 "Right-click on the file or folder and select the <gui>Compress...</gui> "
 "option that you will see."
@@ -4075,28 +4220,30 @@ msgid ""
 "else, or share it with whomever you wish more quickly and easily than if you "
 "tried to send the original!"
 msgstr ""
+"Tu computadora va a crear una copia comprimida del archivo o carpeta, la "
+"cuál aparecerá junto a la original. ¡Puedes mover ese archivo zip a otro "
+"lugar, o compartirlo con quien quieras con mayor rapidez y facilidad que si "
+"trataras de enviar el original!"
 
 #. (itstool) path: info/desc
 #: C/files.page:16
-#, fuzzy
 msgid "Using My Documents and the files on your computer."
 msgstr "Buscar tus documentos por título o por autor."
 
 #. (itstool) path: page/title
 #: C/files.page:20
 msgid "Documents &amp; Files"
-msgstr ""
+msgstr "Documentos y Archivos"
 
 #. (itstool) path: section/title
 #: C/files.page:23
-#, fuzzy
 msgid "Share your Files"
 msgstr "Buscar archivos"
 
 #. (itstool) path: section/title
 #: C/files.page:27
 msgid "Media"
-msgstr ""
+msgstr "Medios digitales"
 
 #. (itstool) path: info/title
 #: C/hardware.page:10
@@ -4107,33 +4254,30 @@ msgstr "Hardware"
 #. (itstool) path: info/desc
 #: C/hardware.page:12
 msgid "Setup up your printers, display, mice and keyboards with Endless"
-msgstr ""
+msgstr "Configura tu impresora, pantalla, ratón y teclado con Endless"
 
 #. (itstool) path: page/title
 #: C/hardware.page:16
-#, fuzzy
 msgid "Printers, Displays &amp; Accessories"
 msgstr "Pantalla"
 
 #. (itstool) path: section/title
 #: C/hardware.page:19
 msgid "Displays"
-msgstr ""
+msgstr "Pantallas"
 
 #. (itstool) path: section/title
 #: C/hardware.page:23
 msgid "Sound"
-msgstr ""
+msgstr "Sonido"
 
 #. (itstool) path: section/title
 #: C/hardware.page:27
-#, fuzzy
 msgid "Printers"
 msgstr "Problemas con la impresora"
 
 #. (itstool) path: section/title
 #: C/hardware.page:31
-#, fuzzy
 msgid "Keyboard &amp; Mouse"
 msgstr "Atajos de teclado"
 
@@ -4193,7 +4337,7 @@ msgstr "Ayuda de Endless"
 #. (itstool) path: page/title
 #: C/index.page:15
 msgid "Getting Started"
-msgstr ""
+msgstr "Empezar"
 
 #. (itstool) path: section/title
 #: C/index.page:18
@@ -4288,12 +4432,12 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/keyboard-es-accent.page:18
 msgid "Learn how to type accents with your keyboard."
-msgstr ""
+msgstr "Aprende cómo escribir acentos con tu teclado."
 
 #. (itstool) path: page/title
 #: C/keyboard-es-accent.page:21
 msgid "Type Spanish language accents in Endless"
-msgstr ""
+msgstr "Escribe acentos en español en Endless"
 
 #. (itstool) path: page/p
 #: C/keyboard-es-accent.page:23
@@ -4302,40 +4446,37 @@ msgid ""
 "platforms. On a Spanish Latin American keyboard, start by pressing the "
 "accute accent key and then the letter you'd like to accent:"
 msgstr ""
+"Es fácil escribir acentos en Endless - es lo mismo que con la mayoría de "
+"otras plataformas. En un teclado español latinoamericano, empieza con pulsar "
+"la tecla del acento y luego la letra que te gustaría acentuar:"
 
 #. (itstool) path: page/p
 #: C/keyboard-es-accent.page:27
-#, fuzzy
 msgid "<keyseq><key>`</key><key>a</key></keyseq> = á"
 msgstr "Pulse <keyseq><key>Super</key><key>Tab</key></keyseq>."
 
 #. (itstool) path: page/p
 #: C/keyboard-es-accent.page:29
-#, fuzzy
 msgid "<keyseq><key>`</key><key>e</key></keyseq> = é"
 msgstr "Pulse <keyseq><key>Super</key><key>Tab</key></keyseq>."
 
 #. (itstool) path: page/p
 #: C/keyboard-es-accent.page:31
-#, fuzzy
 msgid "<keyseq><key>`</key><key>i</key></keyseq> = í"
 msgstr "Pulse <keyseq><key>Super</key><key>Tab</key></keyseq>."
 
 #. (itstool) path: page/p
 #: C/keyboard-es-accent.page:33
-#, fuzzy
 msgid "<keyseq><key>`</key><key>o</key></keyseq> = ó"
 msgstr "Pulse <keyseq><key>Super</key><key>Tab</key></keyseq>."
 
 #. (itstool) path: page/p
 #: C/keyboard-es-accent.page:35
-#, fuzzy
 msgid "<keyseq><key>`</key><key>u</key></keyseq> = ú"
 msgstr "Pulse <keyseq><key>Super</key><key>Tab</key></keyseq>."
 
 #. (itstool) path: page/p
 #: C/keyboard-es-accent.page:37
-#, fuzzy
 msgid "<keyseq><key>\"</key><key>u</key></keyseq> = ü"
 msgstr "Pulse <keyseq><key>Super</key><key>Tab</key></keyseq>."
 
@@ -4361,7 +4502,7 @@ msgstr "Creative Commons Compartir Igual 3.0"
 #. (itstool) path: page/title
 #: C/keyboard-key-menu.page:26
 msgid "Right click with your keyboard"
-msgstr ""
+msgstr "Haz clic derecho con el teclado"
 
 #. (itstool) path: page/p
 #: C/keyboard-key-menu.page:28
@@ -4431,13 +4572,11 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/keyboard-key-super.page:26
-#, fuzzy
 msgid "Use the <key>Super</key> key"
 msgstr "¿Qué es la tecla <key>Super</key>?"
 
 #. (itstool) path: page/p
 #: C/keyboard-key-super.page:28
-#, fuzzy
 msgid ""
 "When you press the <key>Super</key> key, you will be able to see all of your "
 "open windows. This key can usually be found on the bottom-left of your "
@@ -4452,7 +4591,6 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/keyboard-key-super.page:34
-#, fuzzy
 msgid ""
 "If you have an Apple keyboard, you will have a <key>⌘</key> (Command) key "
 "instead of the Windows key, while Google's keyboards have a magnifying glass "
@@ -4463,7 +4601,6 @@ msgstr ""
 
 #. (itstool) path: steps/title
 #: C/keyboard-key-super.page:45
-#, fuzzy
 msgid "To change which key is used to display your open windows overview:"
 msgstr ""
 "Para cambiar la tecla que usar para mostrar la vista de <gui>actividades</"
@@ -4654,7 +4791,6 @@ msgstr "Usar aplicaciones y el escritorio sin ratón."
 
 #. (itstool) path: page/title
 #: C/keyboard-nav.page:31
-#, fuzzy
 msgid "Use the keyboard"
 msgstr "Usar distribuciones de teclado alternativas"
 
@@ -4664,6 +4800,8 @@ msgid ""
 "This page is for people who cannot use a mouse or other pointing device, or "
 "who want to use a keyboard as much as possible."
 msgstr ""
+"Esta página es para las personas que no pueden usar un ratón u otro aparato "
+"señalador, o que quieran utilizar un teclado tanto como sea posible."
 
 #. (itstool) path: page/p
 #: C/keyboard-nav.page:43
@@ -4671,6 +4809,8 @@ msgid ""
 "For keyboard shortcuts that are useful to all users, see <link xref=\"shell-"
 "keyboard-shortcuts\"/> instead."
 msgstr ""
+"Para conocer los accesos directos del teclado que son útiles para todos los "
+"usuarios, consulta <link xref=\"shell-keyboard-shortcuts\"/> en vez."
 
 #. (itstool) path: note/p
 #: C/keyboard-nav.page:47
@@ -5117,7 +5257,6 @@ msgstr ""
 
 #. (itstool) path: media/span
 #: C/keyboard-osk.page:62
-#, fuzzy
 msgid "keyboard"
 msgstr "Teclado"
 
@@ -5196,7 +5335,6 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/keyboard.page:29
-#, fuzzy
 msgid "Use your Keyboard"
 msgstr "Teclado"
 
@@ -5212,7 +5350,6 @@ msgstr "Andre Klapper"
 
 #. (itstool) path: info/desc
 #: C/look-background.page:50
-#, fuzzy
 msgid "Choose a picture, color, or gradient as your desktop background."
 msgstr ""
 "Establecer una imagen, color o degradado como su fondo de escritorio o como "
@@ -5221,7 +5358,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/look-background.page:53
 msgid "Choose a photo for your background"
-msgstr ""
+msgstr "Elige una foto para el fondo de escritorio"
 
 #. (itstool) path: page/p
 #: C/look-background.page:55
@@ -5230,16 +5367,17 @@ msgid ""
 "yours. Choose from some of the sample photos that came on your computer, "
 "some of the photos you have added, or choose your favorite color."
 msgstr ""
+"Puedes cambiar la imagen de fondo del escritorio para que sea exclusivamente "
+"tuyo. Elige entre algunas de las fotos de muestra que vinieron en tu "
+"computadora, algunas de las fotos que has agregado o elige tu color favorito."
 
 #. (itstool) path: item/p
 #: C/look-background.page:65
-#, fuzzy
 msgid "Click on the <gui>Background</gui> button to open the panel."
 msgstr "Haz clic en <gui>Fondo</gui> para abrir la pantalla apropiada."
 
 #. (itstool) path: item/p
 #: C/look-background.page:68
-#, fuzzy
 msgid "Click on the <gui>Background</gui> button with the picture in it."
 msgstr "Haz clic en <gui>Fondo</gui> para abrir la pantalla apropiada."
 
@@ -5254,6 +5392,8 @@ msgid ""
 "Select <gui>Wallpapers</gui> to use one of the beautiful background images "
 "that ship with Endless."
 msgstr ""
+"Selecciona <gui>Fondos de Pantalla</gui> para utilizar una de las bellas "
+"imágenes de fondo que se incluyen con Endless."
 
 #. (itstool) path: item/p
 #: C/look-background.page:78
@@ -5261,10 +5401,11 @@ msgid ""
 "Select <gui>Pictures</gui> to use one of your own photos from your "
 "<file>Pictures</file> folder."
 msgstr ""
+"Selecciona <gui>Imágenes</gui> para usar una de tus propias fotos de tu "
+"carpeta de <file>Imágenes</file>."
 
 #. (itstool) path: item/p
 #: C/look-background.page:82
-#, fuzzy
 msgid "Select <gui>Colors</gui> to just use a color."
 msgstr "Seleccione <gui>Colores</gui> para usar un color plano."
 
@@ -5276,12 +5417,12 @@ msgstr "La configuración se aplicará inmediatamente."
 #. (itstool) path: info/desc
 #: C/media-import-from-device.page:18
 msgid "Import photos and videos from your device to your computer."
-msgstr ""
+msgstr "Importa fotografías y vídeos desde tu aparato a tu computadora."
 
 #. (itstool) path: page/title
 #: C/media-import-from-device.page:21
 msgid "Import photos from a phone or camera"
-msgstr ""
+msgstr "Importa fotos desde un teléfono o una cámara"
 
 #. (itstool) path: page/p
 #: C/media-import-from-device.page:23
@@ -5289,11 +5430,13 @@ msgid ""
 "There are a few ways that you can import your photos and videos from an "
 "external device to your computer. Here are some ways to do so:"
 msgstr ""
+"Existen algunas formas para que puedas importar fotos y vídeos desde un "
+"aparato externo a tu computadora. Aquí hay algunas maneras de hacerlo:"
 
 #. (itstool) path: steps/title
 #: C/media-import-from-device.page:28
 msgid "Using a USB Cable"
-msgstr ""
+msgstr "Usando un cable USB"
 
 #. (itstool) path: item/p
 #: C/media-import-from-device.page:30
@@ -5301,10 +5444,11 @@ msgid ""
 "If your camera or phone has a USB cable, connect it directly to your Endless "
 "computer."
 msgstr ""
+"Si tu cámara o teléfono tiene un cable USB, conéctalo directamente a tu "
+"computadora Endless."
 
 #. (itstool) path: item/p
 #: C/media-import-from-device.page:34 C/media-import-from-device.page:62
-#, fuzzy
 msgid "Click on the <app>Documents</app> icon from your desktop."
 msgstr "Haz clic en <app>Mis Documentos</app> desde tu <gui>Escritorio</gui>. "
 
@@ -5314,6 +5458,8 @@ msgid ""
 "You will see the name of your device appear on the left hand side menu. "
 "Double click on it to open it."
 msgstr ""
+"Verás que el nombre de tu aparato aparece en el menú al lado izquierdo. Haz "
+"doble clic en él para abrirlo."
 
 #. (itstool) path: item/p
 #: C/media-import-from-device.page:41
@@ -5322,6 +5468,9 @@ msgid ""
 "files. A preview of the image will appear on the right hand side of the "
 "window."
 msgstr ""
+"Mira las fotos o vídeos en tu aparato desplazándote a través de los "
+"archivos. Una vista de muestra de la imagen aparecerá en la parte derecha de "
+"la ventana."
 
 #. (itstool) path: item/p
 #: C/media-import-from-device.page:46
@@ -5329,10 +5478,11 @@ msgid ""
 "When you find the photo that you want to import, simply drag the photos from "
 "that folder into another folder."
 msgstr ""
+"Cuando encuentres la foto que deseas importar, simplemente arrastra las "
+"fotos de esa carpeta a otra carpeta."
 
 #. (itstool) path: section/p
 #: C/media-import-from-device.page:51
-#, fuzzy
 msgid ""
 "When you use external storage devices like cameras, USB flash drives, and "
 "phones, you should safely remove them before unplugging them. If you just "
@@ -5351,11 +5501,10 @@ msgstr ""
 #. (itstool) path: steps/title
 #: C/media-import-from-device.page:59
 msgid "Safely disconnect your camera or phone:"
-msgstr ""
+msgstr "Desconectar de forma segura tu cámara o teléfono:"
 
 #. (itstool) path: section/p
 #: C/media-import-from-device.page:74
-#, fuzzy
 msgid ""
 "If any of the files on the device are open and in use by an application, you "
 "will not be able to safely remove the device. You will be prompted with a "
@@ -5373,16 +5522,19 @@ msgid ""
 "can open them on your computer's browser and download and save them to your "
 "computer."
 msgstr ""
+"Si tienes un teléfono inteligente, intenta enviar por correo electrónico tus "
+"fotos a ti mismo para que puedas abrirlas en el navegador de tu computadora "
+"y descargar y guardarlas en tu computadora."
 
 #. (itstool) path: info/desc
 #: C/media-listen-music.page:18
 msgid "Learn about the Music app."
-msgstr ""
+msgstr "Aprende sobre el programa Música."
 
 #. (itstool) path: page/title
 #: C/media-listen-music.page:21
 msgid "Listen to my music"
-msgstr ""
+msgstr "Escuchar mi música"
 
 #. (itstool) path: page/p
 #: C/media-listen-music.page:23
@@ -5390,6 +5542,8 @@ msgid ""
 "You can listen to songs with the Music app, which is located on your "
 "desktop. Click on the icon once to open it."
 msgstr ""
+"Puedes escuchar canciones con el programa Música, que se encuentra en el "
+"escritorio. Haz clic en el icono una vez para abrirlo."
 
 #. (itstool) path: page/p
 #: C/media-listen-music.page:26
@@ -5398,15 +5552,17 @@ msgid ""
 "your computer. You can add as many songs as you like, from your own "
 "collection on another device, or by downloading more from the internet."
 msgstr ""
+"Cuando se carga el programa de música, podrás ver algunas canciones que ya "
+"vienen con tu computadora. Puedes añadir tantas canciones como quieras, de "
+"tu propia colección en otro aparato, o descargando más del internet."
 
 #. (itstool) path: item/p
 #: C/media-listen-music.page:32
 msgid "Double click on a song to play it."
-msgstr ""
+msgstr "Haz doble clic en una canción para tocarla."
 
 #. (itstool) path: item/p
 #: C/media-listen-music.page:35
-#, fuzzy
 msgid ""
 "Pause the song by clicking the pause button on the top left hand corner."
 msgstr ""
@@ -5417,11 +5573,13 @@ msgstr ""
 #: C/media-listen-music.page:39
 msgid "Skip a song or go back to it by clicking on the left and right arrows."
 msgstr ""
+"Omite una canción o vuelve a ella haciendo clic en las flechas de izquierda "
+"y derecha."
 
 #. (itstool) path: item/p
 #: C/media-listen-music.page:43
 msgid "Click on the rectangle button to repeat the song or the whole track."
-msgstr ""
+msgstr "Haz clic en el botón de rectángulo para repetir la canción completa."
 
 #. (itstool) path: item/p
 #: C/media-listen-music.page:47
@@ -5429,6 +5587,8 @@ msgid ""
 "Click on the mixed arrows next to the rectangle to shuffle the songs. Click "
 "it again to play the songs in order."
 msgstr ""
+"Haz clic en las flechas mixtas junto al rectángulo para mezclar las "
+"canciones. Haz clic de nuevo para tocar las canciones en orden."
 
 #. (itstool) path: item/p
 #: C/media-listen-music.page:51
@@ -5436,17 +5596,18 @@ msgid ""
 "Control the volume bar on the right. You can slide the round button to get "
 "to your desired volume."
 msgstr ""
+"Controla la barra de volumen a la derecha. Puedes deslizar el botón redondo "
+"para llegar al volumen deseado."
 
 #. (itstool) path: info/desc
 #: C/media-play-videos.page:18
-#, fuzzy
 msgid "Learn how to watch videos on your computer."
 msgstr "Configurar una impresora que está conectada a su equipo."
 
 #. (itstool) path: page/title
 #: C/media-play-videos.page:21
 msgid "Play my videos"
-msgstr ""
+msgstr "Tocar mis videos"
 
 #. (itstool) path: page/p
 #: C/media-play-videos.page:23
@@ -5454,27 +5615,28 @@ msgid ""
 "Endless comes with some short videos already installed and a media player to "
 "play them."
 msgstr ""
+"Endless viene con algunos videos cortos ya instalados y un tocador de "
+"multimedia para tocarlos."
 
 #. (itstool) path: steps/title
 #: C/media-play-videos.page:27
 msgid "To watch a video:"
-msgstr ""
+msgstr "Para ver un video:"
 
 #. (itstool) path: item/p
 #: C/media-play-videos.page:29
-#, fuzzy
 msgid "Click on the Documents icon on your desktop."
 msgstr "Haz clic en <app>Mis Documentos</app> desde tu <gui>Escritorio</gui>. "
 
 #. (itstool) path: item/p
 #: C/media-play-videos.page:32
 msgid "Click on the Videos folder."
-msgstr ""
+msgstr "Haz clic en la carpeta Videos."
 
 #. (itstool) path: item/p
 #: C/media-play-videos.page:35
 msgid "Click on the Samples folder."
-msgstr ""
+msgstr "Haz clic en la carpeta de Ejemplos."
 
 #. (itstool) path: item/p
 #: C/media-play-videos.page:38
@@ -5482,6 +5644,8 @@ msgid ""
 "Browse the videos available. When you are ready to watch one, simply double "
 "click on the file."
 msgstr ""
+"Explora los videos disponibles. Cuando estés listo para ver uno, simplemente "
+"haz doble clic en el archivo."
 
 #. (itstool) path: item/p
 #: C/media-play-videos.page:40
@@ -5490,6 +5654,9 @@ msgid ""
 "app and choose to pause it, or rewind it with the controls on the bottom "
 "left corner."
 msgstr ""
+"Tu video empezará a tocarse automáticamente. Puedes controlarlo dentro del "
+"programa y elegir pausar o regresar con los controles en la esquina inferior "
+"izquierda."
 
 #. (itstool) path: item/p
 #: C/media-play-videos.page:45
@@ -5497,6 +5664,8 @@ msgid ""
 "Make the video full screen by pressing the diagonal arrows next to the "
 "control buttons."
 msgstr ""
+"Convierte el video a pantalla completa haciendo clic en las flechas "
+"diagonales al lado de los botones de control."
 
 #. (itstool) path: note/p
 #: C/media-play-videos.page:51
@@ -5504,6 +5673,8 @@ msgid ""
 "To exit the full screen mode, press the Esc button on the top left-hand "
 "corner of your keyboard."
 msgstr ""
+"Para salir del modo de pantalla completa, pulsa el botón Esc en la esquina "
+"superior izquierda de tu teclado."
 
 #. (itstool) path: note/p
 #: C/media-play-videos.page:56
@@ -5512,6 +5683,9 @@ msgid ""
 "listen to the videos. If your computer if connected to a TV, the sound "
 "should work."
 msgstr ""
+"Recuerda que necesitas conectar unos audífonos o altavoces para poder "
+"escuchar los videos. Si tu computadora está conectada a una televisión, el "
+"sonido debería funcionar."
 
 #. (itstool) path: info/desc
 #: C/mouse-doubleclick.page:12
@@ -5598,7 +5772,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/mouse-mousekeys.page:36
 msgid "Controlling mouse with keypad"
-msgstr ""
+msgstr "Controlar el ratón con el teclado"
 
 #. (itstool) path: page/p
 #: C/mouse-mousekeys.page:38
@@ -5763,12 +5937,12 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/mouse-when-right-click.page:18
 msgid "When to use the right click option on your mouse."
-msgstr ""
+msgstr "Cuándo utilizar la opción del botón derecho del ratón."
 
 #. (itstool) path: page/title
 #: C/mouse-when-right-click.page:21
 msgid "How and when to use the right click"
-msgstr ""
+msgstr "Cómo y cuándo utilizar el botón derecho del ratón"
 
 #. (itstool) path: page/p
 #: C/mouse-when-right-click.page:23
@@ -5778,6 +5952,10 @@ msgid ""
 "you select something, while right clicking bring up a menu with options for "
 "actions."
 msgstr ""
+"Al utilizar el ratón, tienes la capacidad de hacer clic izquierdo y clic "
+"derecho. Estos botones se encuentran en la parte superior de tu ratón. Hacer "
+"un clic izquierdo te permite seleccionar algo, mientras que el clic derecho "
+"te permite abrir un menú con opciones para acciones."
 
 #. (itstool) path: page/p
 #: C/mouse-when-right-click.page:28
@@ -5787,11 +5965,16 @@ msgid ""
 "then left click on a menu option to select it. You can right click on almost "
 "anything to see similar shortcuts and options."
 msgstr ""
+"Por ejemplo, si haces clic derecho en el escritorio, verás las opciones para "
+"cambiar el fondo, agregar una aplicación, añadir una página web o añadir una "
+"carpeta. Luego puedes hacer clic izquierdo en una opción del menú para "
+"seleccionarlo. Puedes hacer clic derecho en casi cualquier cosa para ver "
+"accesos directos y opciones similares."
 
 #. (itstool) path: section/title
 #: C/mouse-when-right-click.page:34
 msgid "If your mouse only has one button"
-msgstr ""
+msgstr "Si tu ratón solo tiene un botón"
 
 #. (itstool) path: section/p
 #: C/mouse-when-right-click.page:36
@@ -5799,16 +5982,16 @@ msgid ""
 "If your mouse only has one button, you will need to change your settings to "
 "allow for you to use just one button. Here's how to change your settings:"
 msgstr ""
+"Si tu ratón tiene un solo botón, tendrás que cambiar la configuración para "
+"permitir que uses un solo botón. Aquí está cómo cambiar la configuración:"
 
 #. (itstool) path: item/p
 #: C/mouse-when-right-click.page:46
-#, fuzzy
 msgid "Click on the <gui>Universal Access</gui> panel."
 msgstr "Pulse en <gui>Usuarios</gui> para abrir el panel."
 
 #. (itstool) path: item/p
 #: C/mouse-when-right-click.page:49
-#, fuzzy
 msgid "Scroll to the bottom and select <gui>Click Assist</gui>."
 msgstr ""
 "Pulse en su nombre en la barra superior y seleccione <gui>Configuración</"
@@ -5821,6 +6004,9 @@ msgid ""
 "adjust the amount of time you'll need to hold down the key to activate the "
 "right click."
 msgstr ""
+"Prende la opción de <gui>Clic secundario simulado</gui>. Allí también se "
+"puede ajustar la cantidad de tiempo que tendrás que mantener pulsada la "
+"tecla para activar el botón derecho del ratón."
 
 #. (itstool) path: info/desc
 #: C/mouse.page:6
@@ -5834,7 +6020,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/mouse.page:19
 msgid "Use your Mouse"
-msgstr ""
+msgstr "Usa tu ratón"
 
 #. (itstool) path: info/desc
 #: C/nautilus-file-properties-basic.page:8
@@ -5869,6 +6055,10 @@ msgid ""
 "information often, you can have it displayed in list view columns or icon "
 "captions."
 msgstr ""
+"La ventana de propiedades de archivo te muestra información como el tipo de "
+"archivo, el tamaño del archivo y la última vez que lo hayas modificado. Si "
+"necesitas esta información seguido, puedes tenerla en columnas de vista de "
+"lista o en textos de iconos."
 
 #. (itstool) path: page/p
 #: C/nautilus-file-properties-basic.page:37
@@ -6019,6 +6209,11 @@ msgid ""
 "several disk partitions; the partition will be displayed under <gui>Volume</"
 "gui> too."
 msgstr ""
+"El sistema de archivos o el aparato en que el archivo se guardó. Esto te "
+"muestra donde el archivo está físicamente guardado, por ejemplo, muestra si "
+"se encuentra en el disco duro o en un CD, o una red compartida o un servidor "
+"de archivos. Los discos duros pueden dividirse en varias particiones de "
+"disco; la partición se mostrará bajo <gui>Volumen</gui> también."
 
 #. (itstool) path: item/title
 #: C/nautilus-file-properties-basic.page:90
@@ -6142,6 +6337,10 @@ msgid ""
 "the file manager may still open the file in an application or ask you what "
 "to do."
 msgstr ""
+"Si el archivo es un programa, como un guión, debes seleccionar <gui>Permitir "
+"ejecutar archivo como programa</gui> para ejecutarlo. Incluso con esta "
+"opción seleccionada, el administrador de archivos puede abrir el archivo en "
+"un programa o preguntarte qué hacer."
 
 #. (itstool) path: section/title
 #: C/nautilus-file-properties-permissions.page:64
@@ -6242,12 +6441,12 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/net-3g-dongles.page:18
 msgid "Learn which 3G dongles are currently supported."
-msgstr ""
+msgstr "Aprende cuáles llaves electrónicas 3G están soportadas actualmente."
 
 #. (itstool) path: page/title
 #: C/net-3g-dongles.page:21
 msgid "Learn about supported 3G dongles"
-msgstr ""
+msgstr "Aprende sobre llaves electrónicas 3G soportadas"
 
 #. (itstool) path: page/p
 #: C/net-3g-dongles.page:23
@@ -6255,6 +6454,9 @@ msgid ""
 "The following 3G dongles should work properly on Endless, but please keep in "
 "mind that this list does not include every supported model."
 msgstr ""
+"Las siguientes llaves electrónicas 3G deben funcionar correctamente en "
+"Endless, pero por favor ten en cuenta que esta lista no incluye todos los "
+"modelos compatibles."
 
 #. (itstool) path: page/p
 #. (itstool) path: section/p
@@ -6263,16 +6465,18 @@ msgid ""
 "If you have questions about a specific model, please contact our customer "
 "support team."
 msgstr ""
+"Si tienes alguna pregunta sobre un modelo específico, por favor ponte en "
+"contacto con nuestro equipo de atención al cliente."
 
 #. (itstool) path: info/desc
 #: C/net-antivirus.page:10
 msgid "Learn about anti-virus software and your Endless computer."
-msgstr ""
+msgstr "Aprende sobre el software antivirus y tu computadora Endless."
 
 #. (itstool) path: page/title
 #: C/net-antivirus.page:20
 msgid "Virus protection"
-msgstr ""
+msgstr "Protección antivirus"
 
 #. (itstool) path: page/p
 #: C/net-antivirus.page:22
@@ -6290,7 +6494,6 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/net-antivirus.page:24
-#, fuzzy
 msgid ""
 "Endless is based on Linux. Anti-virus software does exist for Linux, but you "
 "probably don't need to use it. Viruses that affect Linux are still very "
@@ -6321,11 +6524,13 @@ msgstr ""
 #: C/net-create-email.page:18
 msgid "Learn why you need an email address and how to make one."
 msgstr ""
+"Aprende por qué necesitas una dirección de correo electrónico y cómo crear "
+"una."
 
 #. (itstool) path: page/title
 #: C/net-create-email.page:21
 msgid "Create an email address"
-msgstr ""
+msgstr "Crear una dirección de correo electrónico"
 
 #. (itstool) path: page/p
 #: C/net-create-email.page:23
@@ -6334,6 +6539,9 @@ msgid ""
 "popular as an everyday communication tool, and you cannot access a lot of "
 "online services without one."
 msgstr ""
+"Tener una dirección de correo electrónico es muy importante, ya que se está "
+"volviendo más y más popular como herramienta de comunicación en el día a "
+"día, y no puedes acceder a una gran cantidad de servicios en línea sin una."
 
 #. (itstool) path: page/p
 #: C/net-create-email.page:26
@@ -6344,36 +6552,41 @@ msgid ""
 "Try searching for them and you will find instructions on how to <gui>Sign "
 "Up</gui>!"
 msgstr ""
+"Hay algunos proveedores de correo electrónico importantes, y si deseas "
+"configurar una cuenta con uno de ellos, tendrás que leer sus instrucciones. "
+"A continuación, encontrarás una lista de algunos de los proveedores más "
+"populares de cuentas de correo electrónico gratuitas. ¡Intenta buscarlos y "
+"encontrarás instrucciones sobre cómo <gui>Inscribirte</gui>!"
 
 #. (itstool) path: list/title
 #: C/net-create-email.page:33
 msgid "Popular email providers"
-msgstr ""
+msgstr "Proveedores populares de correo electrónico"
 
 #. (itstool) path: item/p
 #: C/net-create-email.page:35
 msgid "<link href=\"https://mail.google.com\">Gmail</link>"
-msgstr ""
+msgstr "<link href=\"https://mail.google.com\">Gmail</link>"
 
 #. (itstool) path: item/p
 #: C/net-create-email.page:38
 msgid "<link href=\"https://www.hotmail.com\">Hotmail</link>"
-msgstr ""
+msgstr "<link href=\"https://www.hotmail.com\">Hotmail</link>"
 
 #. (itstool) path: item/p
 #: C/net-create-email.page:41
 msgid "<link href=\"https://mail.yahoo.com\">Yahoo Mail</link>"
-msgstr ""
+msgstr "<link href=\"https://mail.yahoo.com\">Yahoo</link>"
 
 #. (itstool) path: item/p
 #: C/net-create-email.page:44
 msgid "<link href=\"https://mail.live.com\">Live</link>"
-msgstr ""
+msgstr "<link href=\"https://mail.live.com\">Live</link>"
 
 #. (itstool) path: list/title
 #: C/net-create-email.page:49
 msgid "Tips and internet security"
-msgstr ""
+msgstr "Consejos y seguridad de internet"
 
 #. (itstool) path: item/p
 #: C/net-create-email.page:51
@@ -6382,6 +6595,9 @@ msgid ""
 "guess. It may be a good idea to write it down and keep it somewhere secure "
 "in case you ever forget."
 msgstr ""
+"Asegúrate de recordar tu contraseña, pero también haz que sea difícil de "
+"adivinar para otros.  Puede ser una buena idea anotarla y mantenerla en "
+"algún lugar seguro en caso de que se te olvide."
 
 #. (itstool) path: item/p
 #: C/net-create-email.page:56
@@ -6390,6 +6606,9 @@ msgid ""
 "that you have won something, be skeptical. There are many scams out there "
 "that have cost good people a lot of money."
 msgstr ""
+"Si alguien a quien no conoces te escribe y te pide dinero, o te dice que has "
+"ganado algo, debes ser escéptico. Hay muchas estafas por ahí que le han "
+"costado a la buena gente un montón de dinero."
 
 #. (itstool) path: item/p
 #: C/net-create-email.page:61
@@ -6397,6 +6616,8 @@ msgid ""
 "Try not to open emails sent from people you don't know since they may "
 "contain viruses. Just delete them without opening them."
 msgstr ""
+"Trata de no abrir mensajes de correo electrónico enviados por personas que "
+"no conoces, ya que pueden contener virus. Sólo elimínalas sin abrirlas."
 
 #. (itstool) path: item/p
 #: C/net-create-email.page:65
@@ -6405,16 +6626,19 @@ msgid ""
 "others; otherwise, they will be able to read all of your email and use your "
 "account."
 msgstr ""
+"Recuerda cerrar la sesión de tu cuenta de correo electrónico si compartes tu "
+"computadora con otras personas; de otro modo, van a ser capaces de leer todo "
+"tu correo electrónico y usar tu cuenta."
 
 #. (itstool) path: info/desc
 #: C/net-discover-websites.page:18
 msgid "Find new websites you love."
-msgstr ""
+msgstr "Encuentra nuevos sitios web que te encantarán."
 
 #. (itstool) path: page/title
 #: C/net-discover-websites.page:21
 msgid "Discover new websites"
-msgstr ""
+msgstr "Descubre nuevos sitios web"
 
 #. (itstool) path: page/p
 #: C/net-discover-websites.page:23
@@ -6425,6 +6649,12 @@ msgid ""
 "of websites to explore. You can browse by topics: News, Sports, Education, "
 "Health, Entertainment and more."
 msgstr ""
+"Hemos reunido una colección de sitios web que te pueden resultar "
+"interesante. Para empezar a descubrirlos, simplemente haz clic en el icono "
+"de internet en el escritorio o en el globo anaranjado en la barra de tareas. "
+"Ambos abren el navegador. Verás una cuadricula de sitios web para explorar. "
+"Puedes navegar por temas: Noticias, Deportes, Educación, Salud, "
+"Entretenimiento y más."
 
 #. (itstool) path: note/p
 #: C/net-discover-websites.page:30
@@ -6433,6 +6663,9 @@ msgid ""
 "If you can't access the internet right now, don't worry, your computer comes "
 "packed with apps you can use offline."
 msgstr ""
+"Necesitarás una conexión al internet para acceder a sitios web. Si no puedes "
+"acceder al internet en este momento, no te preocupes, tu computadora viene "
+"con programas que pueden ser usados sin conexión."
 
 #. (itstool) path: info/desc
 #: C/net-email-virus.page:14
@@ -6500,11 +6733,10 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/net-installing-other-browsers.page:18
 msgid "Learn about our current and future browser support."
-msgstr ""
+msgstr "Aprende acerca de nuestro soporte de navegadores actuales y futuros."
 
 #. (itstool) path: page/title
 #: C/net-installing-other-browsers.page:21
-#, fuzzy
 msgid "Installing other browsers"
 msgstr "Instalar Páginas Web"
 
@@ -6514,6 +6746,8 @@ msgid ""
 "Unfortunately, Endless does not currently support the installation of other "
 "browsers."
 msgstr ""
+"Desafortunadamente, Endless no soporta actualmente la instalación de otros "
+"navegadores."
 
 #. (itstool) path: page/p
 #: C/net-installing-other-browsers.page:26
@@ -6522,6 +6756,9 @@ msgid ""
 "and will notify you when we add this feature. Feel free to give us your "
 "feedback and let us know what you need."
 msgstr ""
+"Tenemos la intención de soportar la instalación de otros navegadores en el "
+"futuro, y te notificaremos cuando añadimos esta función. No dudes en "
+"mandarnos comentarios y hacernos saber lo qué necesitas."
 
 #. (itstool) path: page/p
 #: C/net-installing-other-browsers.page:30
@@ -6529,6 +6766,9 @@ msgid ""
 "In the meantime, we hope you enjoy using the current Endless browser to "
 "explore new websites and stay updated on the world's news!"
 msgstr ""
+"Mientras tanto, ¡esperamos que disfrutes de usar el navegador Endless para "
+"explorar nuevos sitios web y mantenerte actualizado sobre las noticias del "
+"mundo!"
 
 #. (itstool) path: info/desc
 #: C/net-manual.page:20
@@ -6565,7 +6805,6 @@ msgstr "ParaeEstablecer la configuración de la red manualmente:"
 
 #. (itstool) path: item/p
 #: C/net-manual.page:36
-#, fuzzy
 msgid ""
 "Click on the User Menu on the very bottom left-hand corner of your screen "
 "and then click on <gui>Settings</gui>."
@@ -6675,12 +6914,12 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/net-read-news.page:18
 msgid "Keep up to date with the latest news."
-msgstr ""
+msgstr "Mantente al día con las últimas noticias."
 
 #. (itstool) path: page/title
 #: C/net-read-news.page:21
 msgid "Read the News"
-msgstr ""
+msgstr "Lee las noticias"
 
 #. (itstool) path: page/p
 #: C/net-read-news.page:23
@@ -6689,15 +6928,17 @@ msgid ""
 "you can read all the latest news! Explore current events, sports, local news "
 "and more just with a click of a button!"
 msgstr ""
+"¡Hemos agregado varios sitios web de periódicos diferentes a tu navegador "
+"para que puedas leer las últimas noticias! ¡Explora eventos actuales, "
+"deportes, noticias locales y más con un solo clic!"
 
 #. (itstool) path: steps/title
 #: C/net-read-news.page:28
 msgid "To read news online:"
-msgstr ""
+msgstr "Para leer las noticias en línea:"
 
 #. (itstool) path: item/p
 #: C/net-read-news.page:31
-#, fuzzy
 msgid ""
 "Click the Internet icon on your desktop or on the taskbar to open the "
 "browser."
@@ -6708,11 +6949,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-read-news.page:36
 msgid "Click on Newspaper section on the left side menu."
-msgstr ""
+msgstr "Haz clic en la sección de periódicos en el menú en el lado izquierdo."
 
 #. (itstool) path: item/p
 #: C/net-read-news.page:39
-#, fuzzy
 msgid "Discover the internet!"
 msgstr "Mantenerse seguro en Internet"
 
@@ -6723,6 +6963,9 @@ msgid ""
 "you can't access the internet right now, don't worry, your computer comes "
 "packed with great offline content."
 msgstr ""
+"Necesitarás una conexión al internet para poder acceder a los sitios web de "
+"noticias. Si no puedes acceder al internet en este momento, no te preocupes, "
+"el equipo viene con gran contenido que puedes disfrutar sin conexión."
 
 #. (itstool) path: info/desc
 #: C/net-slow.page:14
@@ -6879,12 +7122,12 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/net-social-bar.page:18
 msgid "Easily chat with your Facebook friends."
-msgstr ""
+msgstr "Chatea fácilmente con tus amigos de Facebook."
 
 #. (itstool) path: page/title
 #: C/net-social-bar.page:21
 msgid "Chat on Facebook from your desktop"
-msgstr ""
+msgstr "Chatea en Facebook desde tu escritorio"
 
 #. (itstool) path: page/p
 #: C/net-social-bar.page:23
@@ -6892,20 +7135,23 @@ msgid ""
 "Now you can stay connected with your Facebook friends more easily than ever! "
 "You will need an internet connection to use this feature."
 msgstr ""
+"¡Ahora puedes mantenerte en contacto con tus amigos de Facebook con más "
+"facilidad que nunca! Necesitarás una conexión al internet para usar esta "
+"función."
 
 #. (itstool) path: page/p
 #: C/net-social-bar.page:26
 msgid "First, you'll need to set up your Facebook account on Endless."
 msgstr ""
+"En primer lugar, tendrás que configurar tu cuenta de Facebook en Endless."
 
 #. (itstool) path: steps/title
 #: C/net-social-bar.page:29
 msgid "If you already have a Facebook account:"
-msgstr ""
+msgstr "Si ya tienes una cuenta de Facebook:"
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:31 C/net-social-bar.page:48 C/net-social-bar.page:70
-#, fuzzy
 msgid ""
 "Click on the Facebook icon that is on the very bottom right-hand side of "
 "your screen."
@@ -6917,6 +7163,8 @@ msgstr ""
 #: C/net-social-bar.page:35
 msgid "Enter in your email address and password, then click <gui>Login</gui>."
 msgstr ""
+"Introduce tu dirección de correo electrónico y contraseña, luego haz clic en "
+"<gui>Iniciar Sesión</gui>."
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:39
@@ -6926,15 +7174,18 @@ msgid ""
 "Facebook screen or on the Facebook icon to get back to your other open "
 "windows."
 msgstr ""
+"Ahora puedes empezar a usar Facebook directamente desde tu escritorio. ¡No "
+"es necesario cerrarlo si estas trabajando en otra cosa! Simplemente haz clic "
+"fuera de la pantalla de Facebook o en el icono de Facebook para volver a tus "
+"otras ventanas abiertas."
 
 #. (itstool) path: steps/title
 #: C/net-social-bar.page:46
 msgid "If you do not have a Facebook account:"
-msgstr ""
+msgstr "Si no tienes una cuenta de Facebook:"
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:52
-#, fuzzy
 msgid "Click on <gui>Create New Account</gui>."
 msgstr "Haz clic en <gui>Red</gui>."
 
@@ -6945,6 +7196,9 @@ msgid ""
 "process. You will need an email address in order to create a Facebook "
 "account."
 msgstr ""
+"Sigue los pasos por los que Facebook te lleva para completar su proceso de "
+"configuración. Necesitarás una dirección de correo electrónico para crear "
+"una cuenta de Facebook."
 
 #. (itstool) path: note/p
 #: C/net-social-bar.page:62
@@ -6952,16 +7206,19 @@ msgid ""
 "Remember to log out of Facebook if you share your computer with other users, "
 "otherwise they will be able to see and use your Facebook account!"
 msgstr ""
+"Recuerda cerrar la sesión de Facebook si compartes tu computadora con otros "
+"usuarios, ¡si no, ellos serán capaces de ver y utilizar tu cuenta de "
+"Facebook!"
 
 #. (itstool) path: steps/title
 #: C/net-social-bar.page:67
 msgid "Logging out of Facebook"
-msgstr ""
+msgstr "Cerrando la sesión de Facebook"
 
 #. (itstool) path: steps/p
 #: C/net-social-bar.page:68
 msgid "To log out of your Facebook account:"
-msgstr ""
+msgstr "Para cerrar la sesión de tu cuenta de Facebook:"
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:74
@@ -6970,6 +7227,9 @@ msgid ""
 "Facebook window. This will show you the main menu, with your news feed, "
 "events, groups, and more."
 msgstr ""
+"Haz clic en el botón con tres líneas blancas en la parte izquierda de la "
+"ventana de Facebook. Esto te mostrará el menú principal, con las noticias, "
+"eventos, grupos y más."
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:79
@@ -6977,16 +7237,18 @@ msgid ""
 "Scroll all the way to the bottom of the menu and click on the <gui>Log Out</"
 "gui> button."
 msgstr ""
+"Desplázate hasta la parte inferior del menú y haz clic en el "
+"botón<gui>Finalizar Sesión</gui>."
 
 #. (itstool) path: info/desc
 #: C/net-troubleshoot.page:17
 msgid "Identify and fix problems with your internet connections."
-msgstr ""
+msgstr "Identifica y soluciona problemas con tu conexión al internet."
 
 #. (itstool) path: page/title
 #: C/net-troubleshoot.page:20
 msgid "Troubleshoot your internet problems"
-msgstr ""
+msgstr "Soluciona tus problemas de internet"
 
 #. (itstool) path: info/desc
 #: C/net-wired-connect.page:14
@@ -7004,7 +7266,6 @@ msgstr "Conectar a una red cableada (Ethernet)"
 
 #. (itstool) path: page/p
 #: C/net-wired-connect.page:20
-#, fuzzy
 msgid ""
 "To set up most wired network connections, all you need to do is plug in a "
 "network cable. The network icon on the taskbar at the bottom of your screen "
@@ -7057,7 +7318,6 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/net-wireless-adhoc.page:24
-#, fuzzy
 msgid "Create a wireless hotspot and connect to other devices."
 msgstr "Crear un «hotspot» inalámbrico"
 
@@ -7068,7 +7328,6 @@ msgstr "Crear un «hotspot» inalámbrico"
 
 #. (itstool) path: page/p
 #: C/net-wireless-adhoc.page:31
-#, fuzzy
 msgid ""
 "If you have a <link xref=\"net-wired-connect\">wired connection</link>, you "
 "can use your computer as a wireless hotspot. This allows other devices to "
@@ -7082,7 +7341,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:46
-#, fuzzy
 msgid ""
 "Click on the network status icon on the task bar at the bottom right-hand "
 "corner of your screen."
@@ -7128,6 +7386,8 @@ msgid ""
 "It is not possible to connect to the internet via a wireless connection "
 "while the hotspot is active."
 msgstr ""
+"No es posible conectarse al internet a través de una conexión inalámbrica "
+"mientras que el punto de acceso esté activo."
 
 #. (itstool) path: info/desc
 #: C/net-wireless-airplane.page:17
@@ -7189,7 +7449,6 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/net-wireless-connect.page:21
-#, fuzzy
 msgid "Use a Wi-Fi connection to get on the internet."
 msgstr ""
 "Aprenda cómo configurar una conexión VPN a una red local mediante Internet."
@@ -7201,7 +7460,6 @@ msgstr "Conectar con una red inalámbrica"
 
 #. (itstool) path: page/p
 #: C/net-wireless-connect.page:27
-#, fuzzy
 msgid ""
 "You can connect to a wireless network to gain access to the internet, view "
 "shared files on the network, and so on."
@@ -7216,6 +7474,8 @@ msgid ""
 "On the task bar on the bottom right-hand side of your screen, click the "
 "network icon [network-offline-symbolic.svg]."
 msgstr ""
+"En la barra de tareas en la parte inferior derecha de tu pantalla, haz clic "
+"en el icono de la red [network-offline-symbolic.svg]."
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:34
@@ -7223,10 +7483,11 @@ msgid ""
 "Click <gui>Wi-Fi</gui> to turn it <gui>ON</gui>. It will become blue to "
 "indicate Wi-Fi is ON."
 msgstr ""
+"Haz clic en <gui>Wi-Fi</gui> para <gui>encenderlo</gui>. Se volverá azul "
+"para indicar que el Wi-Fi está activado."
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:37
-#, fuzzy
 msgid "Click the name of the network you want to connect to."
 msgstr ""
 "Pulse en el nombre de la red a la que se quiere conectar y pulse "
@@ -7258,7 +7519,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:47
-#, fuzzy
 msgid ""
 "If you do not know the password, it may be written on the underside of the "
 "wireless router or base station, in its instruction manual, or you may have "
@@ -7283,10 +7543,11 @@ msgid ""
 "While the computer attempts to connect to the network, the network icon will "
 "look like this [network-wireless-acquiring-symbolic.svg]."
 msgstr ""
+"Mientras que la computadora intenta conectarse a la red, el icono de la red "
+"se verá así [network-wireless-acquiring-symbolic.svg]."
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:57
-#, fuzzy
 msgid ""
 "If the connection is successful, the icon will change to a dot with several "
 "bars above it [network-wireless-signal-excellent-symbolic.svg]. More bars "
@@ -7540,7 +7801,6 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/net-wireless-hidden.page:25
-#, fuzzy
 msgid "Connect to a network that you might not be able to see."
 msgstr "Conectarse a una red inalámbrica que no aparece en la lista de redes."
 
@@ -7557,10 +7817,13 @@ msgid ""
 "likely to be secure. To connect to a hidden wireless network follow the "
 "steps:"
 msgstr ""
+"Las redes ocultas no aparecen en la lista de redes inalámbricas. Tener una "
+"red oculta hace que sea más difícil para otras personas encontrarla, y así "
+"tiene más probabilidades de ser segura. Para conectarte a una red "
+"inalámbrica oculta sigue los pasos:"
 
 #. (itstool) path: item/p
 #: C/net-wireless-hidden.page:37
-#, fuzzy
 msgid ""
 "Click the network icon on the task bar and select <gui>NetworkSettings.</gui>"
 msgstr ""
@@ -7569,13 +7832,11 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/net-wireless-hidden.page:41
-#, fuzzy
 msgid "Click the <gui>Connect to Hidden Network</gui> button."
 msgstr "Pulse el botón <gui>Conectar a una red oculta...</gui>."
 
 #. (itstool) path: item/p
 #: C/net-wireless-hidden.page:44
-#, fuzzy
 msgid ""
 "In the window that appears, type the network name and choose the type of "
 "wireless security from the Wi-Fi security drop-down list."
@@ -7591,7 +7852,6 @@ msgstr "Introduzca la contraseña u otros detalles de seguridad."
 
 #. (itstool) path: item/p
 #: C/net-wireless-hidden.page:51
-#, fuzzy
 msgid "Click Connect."
 msgstr "Pulse <gui>Conectar</gui>."
 
@@ -7622,7 +7882,6 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/net-wireless-hidden.page:65
-#, fuzzy
 msgid ""
 "While hiding your network may help improve security by preventing people who "
 "don't know about it from connecting, the network will still remain "
@@ -7800,27 +8059,27 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/net.page:11
 msgid "Connecting to your Wi-Fi and use your browser."
-msgstr ""
+msgstr "Conectarte a tu red Wi-Fi y utilizar el explorador."
 
 #. (itstool) path: page/title
 #: C/net.page:16
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 #. (itstool) path: section/title
 #: C/net.page:19
 msgid "Wi-Fi, Internet &amp; Bluetooth"
-msgstr ""
+msgstr "Wi-Fi, Internet y Bluetooth"
 
 #. (itstool) path: section/title
 #: C/net.page:23
 msgid "Browser &amp; Discovery Center"
-msgstr ""
+msgstr "Navegador y Centro de contenido"
 
 #. (itstool) path: section/title
 #: C/net.page:27
 msgid "Facebook &amp; Online Accounts"
-msgstr ""
+msgstr "Facebook y cuentas en línea"
 
 #. (itstool) path: info/desc
 #: C/printing-2sided.page:8
@@ -8094,12 +8353,12 @@ msgstr "Apaisado invertido"
 #. (itstool) path: info/desc
 #: C/printing-from-applications.page:18
 msgid "How to print documents from Writer and other apps."
-msgstr ""
+msgstr "Cómo imprimir documentos desde Escritor y otros programas."
 
 #. (itstool) path: page/title
 #: C/printing-from-applications.page:21
 msgid "Print my documents"
-msgstr ""
+msgstr "Imprimir mis documentos"
 
 #. (itstool) path: info/desc
 #: C/printing-order.page:8
@@ -8324,7 +8583,6 @@ msgstr "Configurar una impresora local"
 
 #. (itstool) path: page/p
 #: C/printing-setup.page:42
-#, fuzzy
 msgid ""
 "Your system can recognize some types of printers automatically once they are "
 "connected. Most printers can be connected with a USB cable that attaches to "
@@ -8382,7 +8640,6 @@ msgstr ""
 
 #. (itstool) path: steps/title
 #: C/printing-setup.page:76
-#, fuzzy
 msgid "Set up your printer manually:"
 msgstr "Configurar una impresora"
 
@@ -8409,23 +8666,25 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/printing-setup.page:98
 msgid "The following printers should work properly on Endless"
-msgstr ""
+msgstr "Las siguientes impresoras deben funcionar correctamente en Endless"
 
 #. (itstool) path: section/p
 #: C/printing-setup.page:99
 msgid ""
 "Please keep in mind that this list does not include every supported model."
 msgstr ""
+"Por favor, ten en cuenta que esta lista no incluye todos los modelos "
+"compatibles."
 
 #. (itstool) path: info/desc
 #: C/printing-supported.page:18
 msgid "A list of supported printers for Endless."
-msgstr ""
+msgstr "Una lista de impresoras compatibles con Endless."
 
 #. (itstool) path: page/title
 #: C/printing-supported.page:21
 msgid "Supported Printers"
-msgstr ""
+msgstr "Impresoras compatibles"
 
 #. (itstool) path: info/desc
 #: C/printing-to-file.page:18
@@ -8560,7 +8819,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/privacy-screen-lock.page:47 C/shell-notifications.page:101
-#, fuzzy
 msgid ""
 "Click on [standard_user_menu.png] on the bottom left-hand corner of your "
 "screen, then click on <gui>Settings</gui>."
@@ -8748,7 +9006,6 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/screen-shot-record.page:76
-#, fuzzy
 msgid ""
 "When you use a keyboard shortcut, the image is automatically saved in your "
 "<gui>Pictures</gui> folder with a file name that begins with \"Screenshot\" "
@@ -8808,7 +9065,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:104
-#, fuzzy
 msgid ""
 "The video is automatically saved in your <gui>Videos</gui> folder with a "
 "file name that starts with \"Screencast\" and includes the date and time it "
@@ -8822,33 +9078,31 @@ msgstr ""
 #: C/security-and-privacy.page:16
 msgid "Managing passwords, creating users, backing up your files."
 msgstr ""
+"Uso de contraseñas, creación de usuarios y copias de seguridad de tus "
+"archivos."
 
 #. (itstool) path: page/title
 #: C/security-and-privacy.page:19
 msgid "Security and Privacy"
-msgstr ""
+msgstr "Seguridad y privacidad"
 
 #. (itstool) path: section/title
 #: C/security-and-privacy.page:22
-#, fuzzy
 msgid "User Accounts"
 msgstr "Cuentas de usuario"
 
 #. (itstool) path: section/title
 #: C/security-and-privacy.page:26
-#, fuzzy
 msgid "Multiple User Accounts"
 msgstr "Cuentas de usuario"
 
 #. (itstool) path: section/title
 #: C/security-and-privacy.page:30
-#, fuzzy
 msgid "Backup your Computer"
 msgstr "Usted y su equipo"
 
 #. (itstool) path: section/title
 #: C/security-and-privacy.page:34
-#, fuzzy
 msgid "Protect your Computer"
 msgstr "Usted y su equipo"
 
@@ -8858,11 +9112,13 @@ msgid ""
 "Learn more about what metrics Endless collects to improve the user "
 "experience."
 msgstr ""
+"Obtén más información sobre cuáles métricas Endless colecciona para mejorar "
+"la experiencia del usuario."
 
 #. (itstool) path: page/title
 #: C/security-data-collection.page:22
 msgid "Data Collection"
-msgstr ""
+msgstr "Recolección de datos"
 
 #. (itstool) path: page/p
 #: C/security-data-collection.page:24
@@ -8870,6 +9126,9 @@ msgid ""
 "Endless collects metrics on user behavior and actions. We use the data to "
 "improve the apps and the system. All data sent is anonymous."
 msgstr ""
+"Endless recoge indicadores sobre el comportamiento del usuario y sus "
+"acciones. Utilizamos los datos para mejorar los programas y el sistema. "
+"Todos los datos enviados son anónimos."
 
 #. (itstool) path: page/p
 #: C/security-data-collection.page:27
@@ -8877,26 +9136,26 @@ msgid ""
 "You can disable <gui>Metrics Collection</gui> under <guiseq><gui>Settings</"
 "gui><gui>Privacy</gui><gui>Metrics</gui></guiseq>."
 msgstr ""
+"Puedes desactivar <gui>Colección de métricas</gui> bajo "
+"<guiseq><gui>Ajustes</gui><gui>Privacidad</gui><gui>Métricas</gui></guiseq>."
 
 #. (itstool) path: info/desc
 #: C/security-guard-privacy.page:18
 msgid "Make sure you keep your computer and information safe."
-msgstr ""
+msgstr "Asegúrate de mantener tu computadora y tu información segura."
 
 #. (itstool) path: page/title
 #: C/security-guard-privacy.page:21
 msgid "Guard your privacy"
-msgstr ""
+msgstr "Protege tu privacidad"
 
 #. (itstool) path: page/p
 #: C/security-guard-privacy.page:23
-#, fuzzy
 msgid "<gui>The Lock Screen</gui>"
 msgstr "La pantalla de bloqueo"
 
 #. (itstool) path: page/p
 #: C/security-guard-privacy.page:25
-#, fuzzy
 msgid ""
 "Activating the lock screen when you step away from your computer allows you "
 "to keep all of your open apps running so you can resume your work more "
@@ -8941,7 +9200,6 @@ msgstr "Para desbloquear tu computadora, sólo ingresa tu contraseña."
 
 #. (itstool) path: note/p
 #: C/security-guard-privacy.page:49
-#, fuzzy
 msgid ""
 "You can change the lock screen settings under the <gui>Privacy</gui> section "
 "in the <gui>Settings</gui> window that you can access from the User Menu on "
@@ -8955,11 +9213,10 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/security-understand-password.page:18
 msgid "It is important to create secure passwords."
-msgstr ""
+msgstr "Es importante crear contraseñas seguras."
 
 #. (itstool) path: page/title
 #: C/security-understand-password.page:21
-#, fuzzy
 msgid "Understand passwords"
 msgstr "generar contraseña"
 
@@ -8973,6 +9230,13 @@ msgid ""
 "time. For example, if you create a password with all capitals, then you will "
 "need to enter it with all capitals every time."
 msgstr ""
+"Es importante crear contraseñas que recordarás y que también sean difíciles "
+"de adivinar. Las contraseñas más seguras tienen una mezcla de números, "
+"letras y caracteres especiales. La mayoría de las contraseñas distinguen "
+"entre mayúsculas y minúsculas. Esto significa que tendrás que siempre "
+"introducir la contraseña de la misma manera. Por ejemplo, si creas una "
+"contraseña con letras en mayúsculas, entonces siempre tendrás que "
+"introducirla con todas las letras en mayúsculas."
 
 #. (itstool) path: note/p
 #: C/security-understand-password.page:32
@@ -8982,6 +9246,11 @@ msgid ""
 "using the password you thought you had first used, you should check to make "
 "sure that your CAPS lock key is not activated."
 msgstr ""
+"¡Presta atención a la tecla <key>Bloq Mayús</key>! A veces es fácil "
+"presionar la tecla <key>Bloq Mayús</key> sin darse cuenta. Si no puedes "
+"iniciar sesión usando la contraseña que pensabas que habías usado la primera "
+"vez, debes revisarla para asegurarte que tu tecla Bloq Mayús no esté "
+"activada."
 
 #. (itstool) path: note/p
 #: C/security-understand-password.page:36
@@ -8989,6 +9258,8 @@ msgid ""
 "When you first set up your password, you should always notice the <key>Caps "
 "Lock</key> key also to make sure that it is not unintentionally on."
 msgstr ""
+"Cuando creas tu contraseña, siempre debes notar la tecla <key>Bloq Mayús</"
+"key> para asegurarte de que no esté involuntariamente activada."
 
 #. (itstool) path: info/desc
 #: C/session-language.page:10
@@ -8998,23 +9269,21 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/session-language.page:34
-#, fuzzy
 msgid "Change your region and language"
 msgstr "Cambiar el idioma del sistema"
 
 #. (itstool) path: page/p
 #: C/session-language.page:36
 msgid "Endless can be used in many different languages."
-msgstr ""
+msgstr "Endless se puede usar en muchos idiomas diferentes."
 
 #. (itstool) path: steps/title
 #: C/session-language.page:39
 msgid "To switch your current language:"
-msgstr ""
+msgstr "Para cambiar el idioma actual:"
 
 #. (itstool) path: item/p
 #: C/session-language.page:41
-#, fuzzy
 msgid ""
 "Click on the <gui>User Menu</gui> at the very bottom left-hand corner of "
 "your screen and select the <gui>Settings</gui> button."
@@ -9034,16 +9303,17 @@ msgid ""
 "media-1/> at the bottom of the list to select from all available regions and "
 "languages."
 msgstr ""
+"Selecciona el idioma deseado. Si tu idioma no está en la lista, haz clic en "
+"<_:media-1/> en la parte inferior de la lista para seleccionar entre todas "
+"las regiones y los idiomas disponibles."
 
 #. (itstool) path: item/p
 #: C/session-language.page:57
-#, fuzzy
 msgid "Click <gui>Done</gui> to save."
 msgstr "Pulse <gui>Conectar</gui>."
 
 #. (itstool) path: item/p
 #: C/session-language.page:60
-#, fuzzy
 msgid ""
 "<gui>Your session needs to be restarted for these changes to take effect</"
 "gui> by clicking <gui style=\"button\">Restart Now</gui>, or click <gui "
@@ -9060,6 +9330,8 @@ msgid ""
 "support your language at all. Any untranslated text will appear in American "
 "English."
 msgstr ""
+"Algunas traducciones pueden estar incompletas, y algunos programas podrían "
+"no admitir tu idioma. Cualquier texto no traducido aparecerá en inglés."
 
 #. (itstool) path: page/p
 #: C/session-language.page:70
@@ -9120,7 +9392,6 @@ msgstr "Compartir su carpeta <file>Público</file> por Bluetooth"
 
 #. (itstool) path: item/p
 #: C/sharing-bluetooth.page:47 C/sharing-bluetooth.page:88
-#, fuzzy
 msgid "Click <gui>Sharing</gui>."
 msgstr "Pulse <gui>Cambiar</gui>."
 
@@ -9229,12 +9500,12 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/sharing-media.page:19
 msgid "Learn how to use the Photo Editor app."
-msgstr ""
+msgstr "Aprende a usar la aplicación Editor de fotos."
 
 #. (itstool) path: page/title
 #: C/sharing-media.page:23
 msgid "Edit and share my photos"
-msgstr ""
+msgstr "Editar y compartir mis fotos"
 
 #. (itstool) path: page/p
 #: C/sharing-media.page:25
@@ -9243,15 +9514,17 @@ msgid ""
 "to make fun photos and share them with your friends and family through "
 "Facebook!"
 msgstr ""
+"¿Te gusta editar fotos? ¡El programa Editor de Fotos hace que sea más fácil "
+"que nunca hacer fotos divertidas y compartirlas con tus amigos y familiares "
+"a través de Facebook!"
 
 #. (itstool) path: steps/title
 #: C/sharing-media.page:30
 msgid "To edit your photos:"
-msgstr ""
+msgstr "Para editar tus fotos:"
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:32
-#, fuzzy
 msgid "Click on the <gui>Photo Editor</gui> icon from your desktop."
 msgstr "Haz clic en <app>Mis Documentos</app> desde tu <gui>Escritorio</gui>. "
 
@@ -9261,6 +9534,8 @@ msgid ""
 "Click <gui>Open Image</gui>. This will launch the <gui>Pictures</gui> folder "
 "on your computer."
 msgstr ""
+"Haz clic en <gui>Abrir imagen</gui>. Esto abrirá la carpeta de <gui>Fotos</"
+"gui> en tu computadora."
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:39
@@ -9268,6 +9543,8 @@ msgid ""
 "Choose an image to edit. You can choose a sample image or one that you have "
 "added to your computer."
 msgstr ""
+"Elije una imagen para editar. Puedes elegir una imagen de ejemplo o una que "
+"hayas añadido a tu computadora."
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:42
@@ -9277,6 +9554,11 @@ msgid ""
 "of them on the right hand side of the window. When you find an image you "
 "want to edit, click <gui>OK</gui> or press <key>Enter</key>."
 msgstr ""
+"Para ver las imágenes de muestra en tu computadora, haz doble clic en la "
+"carpeta <gui>Ejemplos</gui>. Desplázate a través de las imágenes y ve una "
+"pequeña versión de ellas en el lado derecho de la ventana. Cuando encuentres "
+"una imagen que deseas editar, haz clic en <gui>OK</gui> o presiona "
+"<key>Intro</key>."
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:49
@@ -9285,6 +9567,9 @@ msgid ""
 "filters to make it beautiful, funny or cool, and add frames to finish it up! "
 "When you are finished you can share your creation on Facebook."
 msgstr ""
+"¡Edita tu foto! ¡Puedes recortar la imagen para que sea del tamaño adecuado, "
+"añadir filtros para hacerla diferente, hermosa o chistosa, y agregarle "
+"marcos! Cuando hayas terminado, puedes compartir tu creación en Facebook."
 
 #. (itstool) path: note/p
 #: C/sharing-media.page:54
@@ -9292,6 +9577,8 @@ msgid ""
 "Make sure to save your edited photos! You may want to give your edited photo "
 "a new name so that it doesn't replace the original copy."
 msgstr ""
+"¡Asegúrate de guardar tus fotos editadas! Es posible que quieras nombrar tu "
+"foto editada con un nuevo nombre para que no sustituya a la copia original."
 
 #. (itstool) path: note/p
 #: C/sharing-media.page:58
@@ -9299,11 +9586,13 @@ msgid ""
 "Make your edited photo your computer's background photo with just a click of "
 "a button!"
 msgstr ""
+"¡Pon tu foto editada como fondo de pantalla de tu computadora con un solo "
+"clic!"
 
 #. (itstool) path: steps/title
 #: C/sharing-media.page:64
 msgid "To share your photos on Facebook:"
-msgstr ""
+msgstr "Para compartir tus fotos en Facebook:"
 
 #. (itstool) path: steps/p
 #: C/sharing-media.page:65
@@ -9311,10 +9600,11 @@ msgid ""
 "Share your photo on your Facebook wall with just one click! You will need to "
 "have an internet connection to use this feature."
 msgstr ""
+"¡Comparte tu foto en tu muro de Facebook con un solo clic! Necesitas tener "
+"una conexión al internet para usar esta función."
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:68
-#, fuzzy
 msgid "Click on the Facebook button."
 msgstr "Pulse el botón <gui>+</gui>."
 
@@ -9324,6 +9614,8 @@ msgid ""
 "Write a description of your photo, or a message that you want your friends "
 "to see."
 msgstr ""
+"Escribe una descripción de tu foto, o un mensaje que quieras que tus amigos "
+"vean."
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:75
@@ -9332,6 +9624,9 @@ msgid ""
 "Facebook will guide you to do so and you will need to allow Endless Social "
 "to post on your wall. We will not post anything that you do not authorize."
 msgstr ""
+"Si no has iniciado sesión en Facebook, tendrás que hacerlo. Facebook te "
+"guiará para hacerlo y tendrás que permitir que Endless Social publique en tu "
+"muro. No vamos a publicar nada que no autorices."
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:81
@@ -9339,6 +9634,8 @@ msgid ""
 "If you are already logged into Facebook, your photo will automatically post "
 "with the description you wrote."
 msgstr ""
+"Si ya estás registrado en Facebook, tu foto se publicará de forma automática "
+"con la descripción que escribiste."
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:85
@@ -9346,26 +9643,29 @@ msgid ""
 "A notification will appear when your image has successfully posted to "
 "Facebook."
 msgstr ""
+"Una notificación aparecerá cuando la imagen se haya publicado con éxito en "
+"Facebook."
 
 #. (itstool) path: info/desc
 #: C/shell-add-desktop-folder.page:18
 msgid ""
 "Learn how to create new desktop folders to store and organize your apps."
 msgstr ""
+"Aprende a crear nuevas carpetas en el escritorio para guardar y organizar "
+"tus programas."
 
 #. (itstool) path: page/title
 #: C/shell-add-desktop-folder.page:21
 msgid "Add folders to the desktop"
-msgstr ""
+msgstr "Agrega carpetas al escritorio"
 
 #. (itstool) path: page/p
 #: C/shell-add-desktop-folder.page:22
 msgid "You can add folders to your desktop to organize your apps."
-msgstr ""
+msgstr "Puedes agregar carpetas al escritorio para organizar tus programas."
 
 #. (itstool) path: steps/title
 #: C/shell-add-desktop-folder.page:27
-#, fuzzy
 msgid "To add a new folder:"
 msgstr "Para renombrar un archivo o una carpeta:"
 
@@ -9380,7 +9680,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:35 C/shell-organize-apps.page:33
 msgid "Pick an icon for your new folder."
-msgstr ""
+msgstr "Elige un icono para la nueva carpeta."
 
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:38
@@ -9388,6 +9688,8 @@ msgid ""
 "Type a name for your new folder (for example, \"School\") and hit "
 "<key>Enter</key>."
 msgstr ""
+"Escribe un nombre para la nueva carpeta (por ejemplo, \"escuela\") y pulsa "
+"la tecla <key>Intro</key>."
 
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:42
@@ -9400,27 +9702,28 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:47
 msgid "Drag and drop the apps you want into your folder."
-msgstr ""
+msgstr "Arrastra y suelta los programas que quieras en tu carpeta."
 
 #. (itstool) path: info/desc
 #: C/shell-apps-close.page:18
 msgid "Learn a trick to close your windows in case you get stuck."
 msgstr ""
+"Aprende un truco para cerrar las ventanas en caso de que te quedes atascado."
 
 #. (itstool) path: page/title
 #: C/shell-apps-close.page:21
 msgid "Close your apps"
-msgstr ""
+msgstr "Cierra tus programas"
 
 #. (itstool) path: page/p
 #: C/shell-apps-close.page:23
 msgid "You can close your apps two ways:"
-msgstr ""
+msgstr "Puedes cerrar tus programas de dos formas:"
 
 #. (itstool) path: page/p
 #: C/shell-apps-close.page:25
 msgid "<gui>Click the X:</gui>"
-msgstr ""
+msgstr "<gui>Haz clic en la X:</gui>"
 
 #. (itstool) path: page/p
 #: C/shell-apps-close.page:27
@@ -9428,11 +9731,13 @@ msgid ""
 "See the <gui>X</gui> button on the very top right corner of the window you "
 "are currently viewing? If you press this button, you will close the window."
 msgstr ""
+"¿Ves el botón <gui>X</gui> en la esquina superior derecha de la ventana que "
+"estás viendo ahora? Si haces clic en ese botón, se cerrará la ventana."
 
 #. (itstool) path: page/p
 #: C/shell-apps-close.page:31
 msgid "<gui>Exiting full screen displays:</gui>"
-msgstr ""
+msgstr "<gui>Salir de visualización en pantalla completa:</gui>"
 
 #. (itstool) path: page/p
 #: C/shell-apps-close.page:33
@@ -9448,15 +9753,16 @@ msgstr ""
 #: C/shell-apps-open.page:28
 msgid "Install free apps, folders, and website shortcuts onto your desktop."
 msgstr ""
+"Instala programas gratis, carpetas y accesos directos a sitios web en tu "
+"escritorio."
 
 #. (itstool) path: page/title
 #: C/shell-apps-open.page:31
 msgid "Add apps, folders and website shortcuts"
-msgstr ""
+msgstr "Agrega programas, carpetas y accesos directos a sitios web"
 
 #. (itstool) path: page/p
 #: C/shell-apps-open.page:33
-#, fuzzy
 msgid ""
 "Endless comes packed with great applications and resources for you to "
 "discover and explore. The pre-installed applications on your desktop are "
@@ -9477,7 +9783,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/shell-apps-open.page:41
 msgid "Adding More Apps"
-msgstr ""
+msgstr "Agregar más programas"
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:44 C/shell-apps-open.page:75
@@ -9487,7 +9793,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:47
-#, fuzzy
 msgid ""
 "All of the applications you see are free. Browse by category and read each "
 "application's short description until you find one that you want to add to "
@@ -9515,10 +9820,12 @@ msgid ""
 "Other applicatons need to be installed and require an internet connection. "
 "Click <gui>Install app</gui> to download and install these applications."
 msgstr ""
+"Otros programas necesitan ser instalados y requieren una conexión al "
+"internet. Haz clic en <gui>Instalar aplicación</gui> para descargar e "
+"instalar estos programas."
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:61
-#, fuzzy
 msgid ""
 "When the application has been successfully added to your desktop, the green "
 "button will change to <gui>Open app</gui> and you can start using the "
@@ -9530,7 +9837,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:64
-#, fuzzy
 msgid ""
 "The application's icon will be installed on your desktop, to the left of the "
 "[standard_more_apps_ES.png] button. You can then move it wherever makes "
@@ -9541,13 +9847,11 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/shell-apps-open.page:72
-#, fuzzy
 msgid "Installing Website Shortcuts"
 msgstr "Instalar Páginas Web"
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:78
-#, fuzzy
 msgid ""
 "Browse the website links that we have as suggestions by category. If you see "
 "one that you like, just scroll over it and click on the green [add_website."
@@ -9562,7 +9866,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:84
-#, fuzzy
 msgid ""
 "Add your own website links to pages that we don't already have by typing the "
 "website into the bar at the top and hitting the <input>Enter</input> key to "
@@ -9574,7 +9877,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:89
-#, fuzzy
 msgid ""
 "Click on the [add_website.png] button, and your link will be installed to "
 "the desktop. Add another website, application or folder, or else close the "
@@ -9602,7 +9904,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:109
-#, fuzzy
 msgid ""
 "Name your folder by clicking in the bar that appears under the icon and type "
 "the name of the folder as you would like it to appear on the desktop. "
@@ -9623,21 +9924,20 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/shell-delete-app-desktop.page:18
 msgid "Learn how to remove apps from your desktop."
-msgstr ""
+msgstr "Aprende cómo eliminar programas desde el escritorio."
 
 #. (itstool) path: page/title
 #: C/shell-delete-app-desktop.page:21
 msgid "Delete apps from the desktop"
-msgstr ""
+msgstr "Eliminar programas desde el escritorio"
 
 #. (itstool) path: steps/title
 #: C/shell-delete-app-desktop.page:24
 msgid "To delete an app from your desktop:"
-msgstr ""
+msgstr "Para eliminar un programa de tu escritorio:"
 
 #. (itstool) path: item/p
 #: C/shell-delete-app-desktop.page:26
-#, fuzzy
 msgid "Click and hold the app icon you want to delete."
 msgstr "Selecciona el elemento que quieras eliminar."
 
@@ -9647,6 +9947,8 @@ msgid ""
 "Keeping the mouse button pressed, drag the icon to the <gui>More Apps</gui> "
 "icon."
 msgstr ""
+"Manten el botón del ratón presionado, arrasta el icono al icono de <gui>Más "
+"programas</gui>."
 
 #. (itstool) path: item/p
 #: C/shell-delete-app-desktop.page:33
@@ -9654,17 +9956,21 @@ msgid ""
 "You will notice that the <gui>More Apps</gui> icon will become a trash can "
 "icon."
 msgstr ""
+"Te darás cuenta de que el ícono de <gui>Más programas</gui> se convertirá en "
+"un ícono de papelera."
 
 #. (itstool) path: item/p
 #: C/shell-delete-app-desktop.page:37
 msgid "Just drop the icon there to delete the app."
-msgstr ""
+msgstr "Sólo tienes que arrastrar el ícono ahí para eliminar el programa."
 
 #. (itstool) path: page/p
 #: C/shell-delete-app-desktop.page:41
 msgid ""
 "The <gui>More Apps</gui> icon will always be the last icon on your desktop."
 msgstr ""
+"El ícono <gui>Más programas</gui> siempre será el último \n"
+"en el escritorio."
 
 #. (itstool) path: note/p
 #: C/shell-delete-app-desktop.page:47
@@ -9673,16 +9979,19 @@ msgid ""
 "want to delete the app entirely from the system to make storage space "
 "available, you can do it from the app center."
 msgstr ""
+"Eliminar el programa del escritorio no lo elimina del sistema. Si deseas "
+"eliminar un programa por completo del sistema para aumentar el espacio de "
+"almacenamiento, puedes hacerlo desde el centro de programas."
 
 #. (itstool) path: info/desc
 #: C/shell-download-media.page:15
 msgid "Learn how to download songs and media from the internet."
-msgstr ""
+msgstr "Aprende cómo descargar canciones y multimedia del internet."
 
 #. (itstool) path: page/title
 #: C/shell-download-media.page:18
 msgid "Download Songs and Media"
-msgstr ""
+msgstr "Descargar canciones y multimedia"
 
 #. (itstool) path: page/p
 #: C/shell-download-media.page:20
@@ -9690,11 +9999,14 @@ msgid ""
 "You can use the <app>Frostwire</app> app to download songs and media from "
 "the internet."
 msgstr ""
+"Puedes usar el programa <app>Frostwire</app> para descargar canciones y "
+"multimedia desde el internet."
 
 #. (itstool) path: steps/title
 #: C/shell-download-media.page:27
 msgid "Download songs and media from the internet following these steps:"
 msgstr ""
+"Descarga canciones y multimedia desde el internet siguiendo estos pasos:"
 
 #. (itstool) path: item/p
 #: C/shell-download-media.page:30
@@ -9702,6 +10014,8 @@ msgid ""
 "Make sure that you have added the <app>Frostwire</app> app to your desktop, "
 "then click on it once to open it."
 msgstr ""
+"Asegúrate de que hallas agregado el programa <app>Frostwire</app> a tu "
+"escritorio, luego haz clic en él una vez para abrirlo."
 
 #. (itstool) path: item/p
 #: C/shell-download-media.page:34
@@ -9710,6 +10024,10 @@ msgid ""
 "click on the search icon. Suggested keywords will show up as you type. Click "
 "one if it is the keyword you want to search for."
 msgstr ""
+"Escribe una palabra clave de búsqueda y pulse la tecla <key>Intro</key> en "
+"tu teclado o haz clic en el ícono de búsqueda. Sugerencias de palabras "
+"claves aparecerán mientras que escribas. Haz clic en una si es la palabra "
+"clave que deseas buscar."
 
 #. (itstool) path: item/p
 #: C/shell-download-media.page:39
@@ -9720,6 +10038,11 @@ msgid ""
 "clicking on the <gui>Search Tools</gui> button on the right- hand side of "
 "the window."
 msgstr ""
+"Opciones aparecerán en la ventana principal. Haz clic en el tipo de archivo, "
+"selecciona el icono de una nota musical (canciones), un marco (fotos), una "
+"tira de película (videos) o una hoja de papel (documentos). También puedes "
+"filtrar los resultados haciendo clic en el botón <gui>Herramientas de "
+"búsqueda</gui> en la parte del lado derecho de la ventana"
 
 #. (itstool) path: item/p
 #: C/shell-download-media.page:46
@@ -9727,6 +10050,8 @@ msgid ""
 "Double click on the name of a file or click once then click <gui>Download</"
 "gui> to begin downloading the song."
 msgstr ""
+"Haz doble clic sobre el nombre de un archivo o haz clic una vez y luego haz "
+"clic en <gui>Descargar</gui> para comenzar a descargar la canción."
 
 #. (itstool) path: item/p
 #: C/shell-download-media.page:50
@@ -9735,16 +10060,22 @@ msgid ""
 "your screen or click on the <gui>Library</gui> icon to open or play your "
 "files. Right click on the finished file to see more options."
 msgstr ""
+"Haz doble clic en la descarga completada que aparece en la mitad inferior de "
+"la pantalla o haz clic en el icono de la <gui>Biblioteca</gui> para abrir y "
+"tocar sus archivos. Haz clic derecho sobre el archivo completado para ver "
+"más opciones."
 
 #. (itstool) path: note/title
 #: C/shell-download-media.page:57
 msgid "Tips:"
-msgstr ""
+msgstr "Consejos:"
 
 #. (itstool) path: item/p
 #: C/shell-download-media.page:60
 msgid "A song with more “Seeds” next to its name will download more quickly."
 msgstr ""
+"Una canción con más \"Semillas\" junto a su nombre se descargará más "
+"rápidamente."
 
 #. (itstool) path: item/p
 #: C/shell-download-media.page:64
@@ -9753,12 +10084,17 @@ msgid ""
 "show any “Seeds” because they come directly from the source rather than from "
 "other FrostWire users."
 msgstr ""
+"Archivos de SoundCloud.com, Archive.org u otros servicios similares, no "
+"mostrarán \"Semillas\" porque vienen directamente de la fuente y no de otros "
+"usuarios de FrostWire."
 
 #. (itstool) path: item/p
 #: C/shell-download-media.page:69
 msgid ""
 "Click the triangle button next to a file to preview it before downloading."
 msgstr ""
+"Haz clic en el botón con forma de triángulo situado junto a un archivo para "
+"obtener una vista previa antes de descargarlo."
 
 #. (itstool) path: item/p
 #: C/shell-download-media.page:73
@@ -9766,6 +10102,8 @@ msgid ""
 "Click the plus button next to a file to select the parts of the package that "
 "you want to download."
 msgstr ""
+"Haz clic en el botón \"más\" situado junto a un archivo para seleccionar las "
+"partes del paquete que deseas descargar."
 
 #. (itstool) path: credit/name
 #: C/shell-exit.page:22
@@ -9815,7 +10153,6 @@ msgstr ""
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:54
-#, fuzzy
 msgid ""
 "To log out (i.e. in order to switch to a different user), click the User "
 "Menu on the bottom left corner of your screen, click <gui>Exit</gui> and "
@@ -9847,7 +10184,6 @@ msgstr ""
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:68
-#, fuzzy
 msgid ""
 "To lock your screen, click click on the User Menu at the very bottom left-"
 "hand side of your screen and press the <gui>Lock</gui> button at the bottom "
@@ -9875,7 +10211,6 @@ msgstr "Apagar o reiniciar"
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:86
-#, fuzzy
 msgid ""
 "If you want to power off your computer entirely, or do a full restart, click "
 "the User Menu at the very bottom left-hand side of your screen and press the "
@@ -9904,11 +10239,12 @@ msgstr ""
 #: C/shell-install-ext-apps.page:18
 msgid "Learn about installing apps that don’t already come on Endless."
 msgstr ""
+"Aprende acerca de la instalación de programas que no vienen con Endless."
 
 #. (itstool) path: page/title
 #: C/shell-install-ext-apps.page:21
 msgid "Install apps that don't come on Endless"
-msgstr ""
+msgstr "Instalar programas que no vienen en Endless"
 
 #. (itstool) path: page/p
 #: C/shell-install-ext-apps.page:23
@@ -9917,6 +10253,9 @@ msgid ""
 "gui>. Luckily, Endless comes with a lot of great, and free, apps for you to "
 "install and explore!"
 msgstr ""
+"Actualmente, no es posible instalar programas fuera del <gui>Centro de "
+"contenido</gui>. ¡Por suerte, Endless viene con un montón de programas "
+"geniales y gratis para instalar y explorar!"
 
 #. (itstool) path: page/p
 #: C/shell-install-ext-apps.page:27
@@ -9925,6 +10264,9 @@ msgid ""
 "future, please <link xref=\"gs-give-feedback\">send us a message through the "
 "Feedback option</link> so that we know."
 msgstr ""
+"Si tienes un programa específico que te gustaría ver en Endless en el "
+"futuro, por favor <link xref=\"gs-give-feedback\">envíanos un mensaje a "
+"través de la opción de Comentarios</link> para así poder saberlo."
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -10045,7 +10387,6 @@ msgstr "Menú del usuario"
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:87
-#, fuzzy
 msgid ""
 "Click on the <gui>User Menu</gui> on the bottom left-hand corner of your "
 "screen to manage your system settings and your computer."
@@ -10095,7 +10436,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:137
-#, fuzzy
 msgid ""
 "<link xref=\"privacy-screen-lock\">Learn more about the lock screen.</link>"
 msgstr ""
@@ -10216,6 +10556,8 @@ msgid ""
 "Bring up all of your open windows so that you can pick which window to go to "
 "quickly."
 msgstr ""
+"Muestra todas las ventanas abiertas para que puedas elegir rápidamente la "
+"ventana a que quieres ir."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:44
@@ -10276,6 +10618,8 @@ msgstr "<keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq>"
 #: C/shell-keyboard-shortcuts.page:65
 msgid "Give keyboard focus to the bottom bar, message tray or the windows."
 msgstr ""
+"Usa el teclado para seleccionar el programa, la barra inferior, la bandeja "
+"de mensajes o la ventana que te interese."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:69
@@ -10294,7 +10638,6 @@ msgstr "<keyseq><key>Ctrl</key><key>Alt</key><key>Supr</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:75
-#, fuzzy
 msgid "Quit applications."
 msgstr "Instalando programas"
 
@@ -10509,6 +10852,9 @@ msgid ""
 "Clicking the close button on some notifications dismisses them. Others, like "
 "your chat application, will stay hidden in the message tray."
 msgstr ""
+"Hacer clic en el botón de cierre en algunas notificaciones las despide. "
+"Otras, como las de tu programa de chat, se quedarán ocultas en la bandeja de "
+"mensajes."
 
 #. (itstool) path: section/title
 #: C/shell-notifications.page:60
@@ -10599,7 +10945,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-notifications.page:105
-#, fuzzy
 msgid "Click <gui>Notifications</gui>."
 msgstr "Haz clic en <gui>Configuración de la red</gui>."
 
@@ -10630,17 +10975,17 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/shell-organize-apps.page:18
 msgid "Keep all of your apps organized."
-msgstr ""
+msgstr "Mantén todos tus programas organizados."
 
 #. (itstool) path: page/title
 #: C/shell-organize-apps.page:21
 msgid "Organize your apps"
-msgstr ""
+msgstr "Organiza tus programas"
 
 #. (itstool) path: page/p
 #: C/shell-organize-apps.page:23
 msgid "Add folders to the desktop to help keep yourself organized."
-msgstr ""
+msgstr "Agrega carpetas al escritorio para ayudarte a mantenerte organizado."
 
 #. (itstool) path: item/p
 #: C/shell-organize-apps.page:29
@@ -10648,6 +10993,8 @@ msgid ""
 "To add a new folder, right-click the desktop and select <gui>Add folder</"
 "gui>."
 msgstr ""
+"Para agregar una nueva carpeta, haz clic en el escritorio y selecciona "
+"<gui>Agregar carpeta</gui>."
 
 #. (itstool) path: item/p
 #: C/shell-organize-apps.page:36
@@ -10655,6 +11002,8 @@ msgid ""
 "Type a name for your new folder (\"School\", for example) and hit "
 "<input>Enter.</input>"
 msgstr ""
+"Escribe un nombre para la nueva carpeta (\"Escuela\", por ejemplo) y pulsa "
+"<input>Intro</input>."
 
 #. (itstool) path: item/p
 #: C/shell-organize-apps.page:40
@@ -10662,16 +11011,19 @@ msgid ""
 "You have added a new folder to the desktop. Great! Now click on the close "
 "button on the top-right of the window to go back to the desktop."
 msgstr ""
+"Has añadido una nueva carpeta al escritorio. ¡Genial! Ahora haz clic en el "
+"botón para cerrar la ventana en la parte superior derecha para volver al "
+"escritorio."
 
 #. (itstool) path: item/p
 #: C/shell-organize-apps.page:44
 msgid "Drag and drop the icons you want into your new folder."
-msgstr ""
+msgstr "Arrastra y suelta los iconos que deseas en la nueva carpeta."
 
 #. (itstool) path: info/desc
 #: C/shell-overview.page:6
 msgid "Using the desktop, search and managing windows."
-msgstr ""
+msgstr "Usando el escritorio, la búsqueda y el uso de ventanas."
 
 #. (itstool) path: page/title
 #: C/shell-overview.page:18
@@ -10681,43 +11033,43 @@ msgstr "El escritorio"
 #. (itstool) path: section/title
 #: C/shell-overview.page:21
 msgid "Apps"
-msgstr ""
+msgstr "Programas"
 
 #. (itstool) path: section/title
 #: C/shell-overview.page:25
-#, fuzzy
 msgid "Searching on Endless"
 msgstr "Buscar archivos"
 
 #. (itstool) path: section/title
 #: C/shell-overview.page:29
 msgid "Window Management"
-msgstr ""
+msgstr "Uso de ventanas"
 
 #. (itstool) path: section/title
 #: C/shell-overview.page:33
 msgid "Customize Endless"
-msgstr ""
+msgstr "Personalizar Endless"
 
 #. (itstool) path: section/title
 #: C/shell-overview.page:37
 msgid "Time and Date"
-msgstr ""
+msgstr "Hora y fecha"
 
 #. (itstool) path: section/title
 #: C/shell-overview.page:41
 msgid "Restart, Shut Down &amp; Lock"
-msgstr ""
+msgstr "Reiniciar, apagar y bloquear"
 
 #. (itstool) path: info/desc
 #: C/shell-update-app.page:18
 msgid "Learn how to install available updates for your apps."
 msgstr ""
+"Aprende cómo instalar las actualizaciones disponibles para tus programas."
 
 #. (itstool) path: page/title
 #: C/shell-update-app.page:21
 msgid "Updating Apps"
-msgstr ""
+msgstr "Actualizar programas"
 
 #. (itstool) path: page/p
 #: C/shell-update-app.page:23
@@ -10725,10 +11077,12 @@ msgid ""
 "Endless is constantly improving apps so that they get better, faster and "
 "richer in content. We suggest that you update the apps you use the most:"
 msgstr ""
+"Endless está constantemente mejorando programas para que sean mejores, más "
+"rápidos y más ricos en contenido. Te sugerimos que actualices los programas "
+"que más uses:"
 
 #. (itstool) path: item/p
 #: C/shell-update-app.page:28
-#, fuzzy
 msgid "Click the <gui>More Apps</gui> button on your desktop."
 msgstr ""
 "Abre la <gui>Tienda de programas</gui> haciendo click una vez en el botón "
@@ -10740,10 +11094,11 @@ msgid ""
 "On the left menu, click on the section <gui>Installed</gui>. All apps that "
 "are installed on your Endless will be there."
 msgstr ""
+"En el menú de la izquierda, haz clic en la sección <gui>Instalados</gui>. "
+"Todos los programas que estén instalados en tu Endless estarán allí."
 
 #. (itstool) path: item/p
 #: C/shell-update-app.page:35
-#, fuzzy
 msgid "Click the thumbnail of the app you want to update."
 msgstr "Selecciona el elemento que quieras eliminar."
 
@@ -10754,33 +11109,40 @@ msgid ""
 "<gui>Update app</gui>. Click on it to download the update. It will be "
 "installed automatically once it's ready."
 msgstr ""
+"Si hay una actualización disponible, aparecerá un botón verde con la "
+"etiqueta <gui>Actualización del programa</gui>. Haz clic en él para "
+"descargar la actualización. Se instalará automáticamente una vez que esté "
+"listo."
 
 #. (itstool) path: item/p
 #: C/shell-update-app.page:43
 msgid ""
 "Once the update is installed, you will see the <gui>Open app</gui> button."
 msgstr ""
+"Una vez que la actualización esté instalada, verás el botón de <gui>Abrir "
+"programa</gui>."
 
 #. (itstool) path: note/p
 #: C/shell-update-app.page:49
 msgid "To update an app, you will need an internet connection."
-msgstr ""
+msgstr "Para actualizar un programa, necesitarás una conexión al internet."
 
 #. (itstool) path: note/p
 #: C/shell-update-app.page:52
 msgid "You can close the App store while the app is updating."
 msgstr ""
+"Puedes cerrar el Centro de contenido mientras que el programa esté "
+"actualizándose."
 
 #. (itstool) path: info/desc
 #: C/shell-update-system.page:18
-#, fuzzy
 msgid "Learn how to update your computer."
 msgstr "Eliminar usuarios que ya no usan su equipo"
 
 #. (itstool) path: page/title
 #: C/shell-update-system.page:21
 msgid "Update Endless"
-msgstr ""
+msgstr "Actualizar Endless"
 
 #. (itstool) path: page/p
 #: C/shell-update-system.page:23
@@ -10788,11 +11150,14 @@ msgid ""
 "We are constantly working to improve Endless and will provide you with free "
 "system updates to help make your computer faster and easier to use."
 msgstr ""
+"Estamos constantemente trabajando para mejorar Endless y te proporcionaremos "
+"actualizaciones gratis del sistema para ayudarte a hacer tu computadora más "
+"rápida y más fácil de usar."
 
 #. (itstool) path: section/title
 #: C/shell-update-system.page:27
 msgid "If you have Wi-Fi or a wired internet connection"
-msgstr ""
+msgstr "Si tienes Wi-Fi o una conexión al internet de cable"
 
 #. (itstool) path: section/p
 #: C/shell-update-system.page:28
@@ -10804,26 +11169,33 @@ msgid ""
 "later time. When your computer restarts, it will have the newest version of "
 "Endless!"
 msgstr ""
+"Las nuevas actualizaciones serán descargadas automáticamente a tu "
+"computadora cuando estén disponibles. Cuando la descarga se haya completado, "
+"verás una notificación que te pide que reinicies la computadora para "
+"finalizar el proceso de instalación. Puedes reiniciar la computadora cuando "
+"veas la notificación, o más adelante. ¡Cuando la computadora se reinicie, "
+"tendrás la versión más reciente de Endless!"
 
 #. (itstool) path: section/title
 #: C/shell-update-system.page:37
 msgid "If you use a 3G connection"
-msgstr ""
+msgstr "Si usas una conexión 3G"
 
 #. (itstool) path: section/p
 #: C/shell-update-system.page:39
 msgid "Your computer will not download updates automatically."
-msgstr ""
+msgstr "Tu computadora no descargará actualizaciones automáticamente."
 
 #. (itstool) path: section/p
 #: C/shell-update-system.page:41
 msgid ""
 "If you would like to check for updates, you will need to follow these steps:"
 msgstr ""
+"Si deseas ver si hay actualizaciones disponibles, tendrás que seguir estos "
+"pasos:"
 
 #. (itstool) path: item/p
 #: C/shell-update-system.page:49
-#, fuzzy
 msgid ""
 "Click on <gui>Settings</gui> and then click on the <gui>Details</gui> button."
 msgstr ""
@@ -10836,6 +11208,8 @@ msgid ""
 "Click on the <gui>Search for Updates</gui> button. If there are updates, you "
 "can choose to download and install them."
 msgstr ""
+"Haz clic en el botón <gui>Buscar actualizaciones</gui>. Si hay "
+"actualizaciones, puedes elegir descargar e instalarlas."
 
 #. (itstool) path: note/p
 #: C/shell-update-system.page:59
@@ -10844,20 +11218,23 @@ msgid ""
 "can get a Wi-Fi or wired internet connection. You can also contact our "
 "customer support so they can help you find other options."
 msgstr ""
+"¡Asegúrate de que no superes tu límite de datos! Es posible que quieras "
+"esperar hasta que puedas conseguir una conexión a una red Wi-Fi o a una red "
+"cableada. También puedes ponerte en contacto con nuestro servicio al cliente "
+"para que te puedan ayudar a encontrar otras opciones."
 
 #. (itstool) path: info/desc
 #: C/shell-windows-hide.page:18
 msgid "Temporarily hide, then bring back windows."
-msgstr ""
+msgstr "Temporalmente esconde, y trae de vuelta las ventanas."
 
 #. (itstool) path: page/title
 #: C/shell-windows-hide.page:21
 msgid "Hide your windows without closing them"
-msgstr ""
+msgstr "Esconde tus ventanas sin cerrarlas"
 
 #. (itstool) path: page/p
 #: C/shell-windows-hide.page:23
-#, fuzzy
 msgid ""
 "To hide a window click the <gui>Hide</gui> button on the right of the title "
 "bar."
@@ -10871,6 +11248,8 @@ msgid ""
 "Once the app is hidden, you can bring it back by clicking on its icon on the "
 "task bar."
 msgstr ""
+"Una vez que el programa esté oculto, puedes regresarlo haciendo clic en su "
+"ícono en la barra de tareas."
 
 #. (itstool) path: note/p
 #: C/shell-windows-hide.page:32
@@ -10878,6 +11257,9 @@ msgid ""
 "If you want to hide several windows at the same time, you might want to use "
 "the <gui>hot corner</gui> to quickly navigate between the hidden apps."
 msgstr ""
+"Si deseas ocultar varias ventanas al mismo tiempo, es posible que desees "
+"usar la <gui>esquina activa</gui> para navegar rápidamente entre los "
+"programas ocultos."
 
 #. (itstool) path: info/desc
 #: C/shell-windows-maximize.page:9
@@ -10968,6 +11350,10 @@ msgid ""
 "addition to the dragging behavior you might expect, Endless features "
 "shortcuts and modifiers to help you arrange windows quickly."
 msgstr ""
+"Puedes mover y cambiar el tamaño de las ventanas para que te ayude a "
+"trabajar de manera más eficiente. Además del comportamiento de arrastre que "
+"podrías esperar, Endless cuenta con accesos directos y modificadores para "
+"ayudarte a organizar las ventanas rápidamente."
 
 #. (itstool) path: item/p
 #: C/shell-windows-states.page:29
@@ -11024,6 +11410,10 @@ msgid ""
 "it to the top of the screen. Drag a window to one side of the screen to "
 "maximize it along the side, allowing you to tile windows side by side."
 msgstr ""
+"<link xref=\"shell-windows-maximize\">Maximiza una ventana</link> "
+"arrastrándola a la parte superior de la pantalla. Arrastra una ventana a un "
+"lado de la pantalla para maximizarla a lo largo del lado, lo cuál te permite "
+"ventanas en mosaico lado a lado."
 
 #. (itstool) path: info/desc
 #: C/shell-windows-switching.page:18
@@ -11215,6 +11605,11 @@ msgid ""
 "volume slider left or right. You can completely turn off sound by dragging "
 "the slider all the way to the left."
 msgstr ""
+"Para cambiar el volumen del sonido, haz clic en el ícono de sonido en la "
+"barra de tareas de la parte derecha inferior de la pantalla (se ve como un "
+"altavoz) y mueve el control deslizante de volumen hacia la izquierda o la "
+"derecha. Puedes apagar completamente al sonido arrastrando el control "
+"deslizante hasta el final hacia la izquierda."
 
 #. (itstool) path: page/p
 #: C/sound-volume.page:30
@@ -11301,7 +11696,6 @@ msgstr "Añadir una cuenta de usuario nueva"
 
 #. (itstool) path: page/p
 #: C/user-add.page:59
-#, fuzzy
 msgid ""
 "You can create multiple user accounts on your computer and give a user "
 "account to everyone who uses your computer. That way, you can make sure that "
@@ -11321,6 +11715,11 @@ msgid ""
 "although others may also have been given administrator privileges by that "
 "first user."
 msgstr ""
+"Necesitarás <link xref=\"user-admin-explain\">privilegios de administrador</"
+"link> para agregar cuentas de usuario. El administrador suele ser la persona "
+"que creó su cuenta primero cuando la computadora fue comprada y configurada, "
+"aunque otros también pueden haber sido dado privilegios de administrador por "
+"ese primer usuario."
 
 #. (itstool) path: steps/title
 #: C/user-add.page:71
@@ -11328,10 +11727,11 @@ msgid ""
 "If you are the administrator, follow these steps to create more user "
 "accounts:"
 msgstr ""
+"Si eres el administrador, sigue estos pasos para crear más cuentas de "
+"usuario:"
 
 #. (itstool) path: item/p
 #: C/user-add.page:74
-#, fuzzy
 msgid ""
 "Click on the User Menu at the very bottom left-hand corner of your screen "
 "and select the <gui>Settings</gui> button."
@@ -11443,6 +11843,9 @@ msgid ""
 "visit you can use it and you can rest assured that they will not mess up any "
 "of your preferernces, or delete files."
 msgstr ""
+"Es posible que desees crear una cuenta de \"Invitado\", para que los amigos "
+"u otras personas que te visitan puedan usarla y tu puedas estar seguro de "
+"que no cambien tus preferencias o eliminen archivos."
 
 #. (itstool) path: info/desc
 #: C/user-admin-change.page:23
@@ -13973,12 +14376,16 @@ msgstr "Cambia tus contraseñas con regularidad."
 
 #~ msgid ""
 #~ "\n"
-#~ "<output style=\"prompt\">$ </output><input>gsettings set org.gnome.settings-daemon.plugins.color recalibrate-printer-threshold 180</input>\n"
-#~ "<output style=\"prompt\">$ </output><input>gsettings set org.gnome.settings-daemon.plugins.color recalibrate-display-threshold 90</input>\n"
+#~ "<output style=\"prompt\">$ </output><input>gsettings set org.gnome."
+#~ "settings-daemon.plugins.color recalibrate-printer-threshold 180</input>\n"
+#~ "<output style=\"prompt\">$ </output><input>gsettings set org.gnome."
+#~ "settings-daemon.plugins.color recalibrate-display-threshold 90</input>\n"
 #~ msgstr ""
 #~ "\n"
-#~ "<output style=\"prompt\">$ </output><input>gsettings set org.gnome.settings-daemon.plugins.color recalibrate-printer-threshold 180</input>\n"
-#~ "<output style=\"prompt\">$ </output><input>gsettings set org.gnome.settings-daemon.plugins.color recalibrate-display-threshold 90</input>\n"
+#~ "<output style=\"prompt\">$ </output><input>gsettings set org.gnome."
+#~ "settings-daemon.plugins.color recalibrate-printer-threshold 180</input>\n"
+#~ "<output style=\"prompt\">$ </output><input>gsettings set org.gnome."
+#~ "settings-daemon.plugins.color recalibrate-display-threshold 90</input>\n"
 
 #~ msgctxt "_"
 #~ msgid ""
@@ -21331,8 +21738,12 @@ msgstr "Cambia tus contraseñas con regularidad."
 #~ "<code>802.11</code>. Aquí tiene un ejemplo de que tipo de entrada puede "
 #~ "ver:"
 
-#~ msgid "Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection"
-#~ msgstr "Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Network Connection"
+#~ msgid ""
+#~ "Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] "
+#~ "Network Connection"
+#~ msgstr ""
+#~ "Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] "
+#~ "Network Connection"
 
 #~ msgid ""
 #~ "If you found your wireless adapter in the list, proceed to the <link xref="
@@ -21382,8 +21793,12 @@ msgstr "Cambia tus contraseñas con regularidad."
 #~ "<code>WLAN</code>, <code>wifi</code> o <code>802.11</code>. Aquí tiene un "
 #~ "ejemplo de como puede ser la entrada:"
 
-#~ msgid "Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card"
-#~ msgstr "Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 Wireless Data Modem HSD USB Card"
+#~ msgid ""
+#~ "Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 "
+#~ "Wireless Data Modem HSD USB Card"
+#~ msgstr ""
+#~ "Bus 005 Device 009: ID 12d1:140b Huawei Technologies Co., Ltd. EC1260 "
+#~ "Wireless Data Modem HSD USB Card"
 
 #~ msgid "Checking for a PCMCIA device"
 #~ msgstr "Comprobar un dispositivo PCMCIA"
