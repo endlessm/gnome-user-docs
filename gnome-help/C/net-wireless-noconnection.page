@@ -29,11 +29,6 @@
  </item>
 
  <item>
-  <p>Try the hex or ASCII pass key</p>
-  <p>The password you enter can also be represented in a different way - as a string of characters in hexadecimal (numbers 0-9 and letters a-f) called a pass key. Each password has an equivalent pass key. If you have access to the pass key as well as the password/passphrase, try typing the pass key instead. Make sure you select the correct <gui>wireless security</gui> option when asked for your password (for example, select <gui>WEP 40/128-bit Key</gui> if you're typing the 40-character pass key for a WEP-encrypted connection).</p>
- </item>
-
- <item>
   <p>Try turning your wireless card off and then on again</p>
   <p>Sometimes wireless cards get stuck or experience a minor problem that means they won't connect. Try turning the card off and then on again to reset it.</p>
  </item>
@@ -45,7 +40,16 @@
 
  <item>
   <p>Check that your wireless card is properly supported</p>
-  <p>Some wireless cards aren't supported very well. They show up as a wireless connection, but they can't connect to a network because their drivers lack the ability to do this. See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different <em>firmware</em>).</p>
+  <p>Some wireless cards aren't supported very well. They show up as a wireless connection, but they can't connect to a network because their drivers lack the ability to do this. If your wireless card is not supported, you will need to get a new wireless card that is supported. Contact our customer support for information on which wireless cards are supported.</p>
+ </item>
+
+<comment>
+<p>In the future, when we support installing things like drivers, then we can replace the last sentence of the "Check that your wireless card is properly supported" with: "See if you can get an alternative wireless driver, or if you need to perform some extra set-up (like installing a different <em>firmware</em>)."</p>
+</comment>
+
+ <item>
+  <p>Try the hex or ASCII pass key</p>
+  <p>The password you enter can also be represented in a different way - as a string of characters in hexadecimal (numbers 0-9 and letters a-f) called a pass key. Each password has an equivalent pass key. If you have access to the pass key as well as the password/passphrase, try typing the pass key instead. Make sure you select the correct <em>wireless security</em> option when asked for your password (for example, select <gui>WEP 40/128-bit Key</gui> if you're typing the 40-character pass key for a WEP-encrypted connection).</p>
  </item>
 
 </list>

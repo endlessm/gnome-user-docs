@@ -28,17 +28,26 @@
  view shared files on the network, and so on.</p>
 
 <steps>
-  <item><p>On the task bar on the bottom right-hand side of your screen, click
-  the network icon [network-offline-symbolic.svg].</p></item>
+  <item>
+    <p>On the task bar on the bottom right-hand side of your screen, click
+    the network icon <media type="image" mime="image/svg"
+    src="figures/network-offline-symbolic.svg"/>.</p>
+    <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-no-connection.png"/>
+  </item>
 
-  <item><p>Click <gui>Wi-Fi</gui> to turn it <gui>ON</gui>. It will become blue
-  to indicate Wi-Fi is ON.</p></item>
+  <item>
+    <p>Click <gui>Wi-Fi</gui> to turn it <gui>ON</gui>. It will become blue to
+    indicate Wi-Fi is ON.</p>
+    <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-wifi-switch.png"/>
+  </item>
 
-  <item><p>Click the name of the network you want to connect to.</p>
-   <p>If the name of the network isn't in the list, try clicking <gui>More</gui>
- to see if the network is further down the list. If you still don't see the
- network, you may be out of range or the network
- <link xref="net-wireless-hidden">might be hidden</link>.</p>
+  <item>
+    <p>Click the name of the network you want to connect to.</p>
+    <p>If the name of the network isn't in the list, try clicking
+    <gui>More</gui> to see if the network is further down the list. If you still
+    don't see the network, you may be out of range or the network 
+    <link xref="net-wireless-hidden">might be hidden</link>.</p>
+    <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-wifi-list.png"/>
   </item>
 
   <item><p>If the network is protected by a password
@@ -51,11 +60,13 @@
  connect to the network.</p></item>
 
   <item><p>While the computer attempts to connect to the network, the network
-  icon will look like this [network-wireless-acquiring-symbolic.svg].</p></item>
+  icon will look like this <media type="image" mime="image/svg"
+  src="figures/network-wireless-acquiring-symbolic.svg"/>.</p></item>
 
   <item>
    <p>If the connection is successful, the icon will change to a dot with
-   several bars above it [network-wireless-signal-excellent-symbolic.svg]. More
+   several bars above it <media type="image" mime="image/svg"
+  src="figures/network-wireless-signal-excellent-symbolic.svg"/>. More
    bars indicate a stronger connection to the network. If there aren't many
    bars, the connection is weak and might not be very reliable.</p>
   </item>

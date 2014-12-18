@@ -30,10 +30,12 @@
     <title>To edit your photos:</title>
     <item>
       <p>Click on the <gui>Photo Editor</gui> icon from your desktop.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-photos.png"/>
     </item>
     <item>
       <p>Click <gui>Open Image</gui>. This will launch the <gui>Pictures</gui>
       folder on your computer.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-photos-splash.png"/>
     </item>
     <item>
       <p>Choose an image to edit. You can choose a sample image or one that you
@@ -44,11 +46,13 @@
       version of them on the right hand side of the window. When you find an
       image you want to edit, click <gui>OK</gui> or press
       <key>Enter</key>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-photos-open.png"/>
     </item>
     <item>
       <p>Edit your photo! You can crop your image to make it the right size, add
       filters to make it beautiful, funny or cool, and add frames to finish it up!
       When you are finished you can share your creation on Facebook.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-photos-edit.gif"/>
     </item>
     <note>
       <p>Make sure to save your edited photos! You may want to give your edited
@@ -66,10 +70,12 @@
     to have an internet connection to use this feature.</p>
     <item>
       <p>Click on the Facebook button.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-photos-facebook.png"/>
     </item>
     <item>
       <p>Write a description of your photo, or a message that you want your
       friends to see.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-photos-facebook-message.png"/>
     </item>
     <item>
       <p>If you are not already logged onto Facebook, you will need to login.

@@ -1,5 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="task" version="1.0 if/1.0"
       id="files-microsoft-compatible">
 
@@ -28,8 +29,12 @@
   <steps>
     <title>To save your files in a Microsoft format:</title>
     <item>
-      <p>Open a Microsoft-compatible app: [Writer.png] [Spreadsheet or
-      [Presentation.png]</p>
+      <p>Open a Microsoft-compatible app: <media its:translate="no" type="image"
+      mime="image/png" src="figures/eos-icon-writer.png"><gui>Writer</gui></media>,
+      <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-spreadsheet.png"><gui>Spreadsheet</gui></media>, or
+      <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-presentation.png"><gui>Presentation</gui></media></p>
     </item>
     <item>
       <p>Click on the <gui>File</gui> menu of the app, which is on the top left

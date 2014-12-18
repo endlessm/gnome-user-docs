@@ -38,28 +38,35 @@
   <steps>
    <title>To switch your current language:</title>
     <item>
-      <p>Click on the <gui>User Menu</gui> at the very bottom left-hand corner of your
-      screen and select the <gui>Settings</gui> button.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
-      <p>Click on <gui>Region &amp; Language</gui> to open the panel.</p>
+      <p>Click on <gui>Region &amp; Language</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-region.png"/>
     </item>
     <item>
       <p>Click <gui>Language</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-language-setting.png"/>
     </item>
     <item>
       <p>Select your desired language. If your language is not listed, click
       <media its:translate="no" type="image" mime="image/svg"
       src="figures/view-more-symbolic.svg"/> at the bottom of the list to select
       from all available regions and languages.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-language-select.png"/>
     </item>
     <item>
       <p>Click <gui>Done</gui> to save.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-language-accept.png"/>
     </item>
     <item>
       <p><gui>Your session needs to be restarted for these changes to take
       effect</gui> by clicking <gui style="button">Restart Now</gui>, or click
       <gui style="button">X</gui> to restart later.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-language-restart.png"/>
     </item>
   </steps>
 

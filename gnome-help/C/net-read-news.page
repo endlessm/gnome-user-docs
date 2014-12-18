@@ -1,5 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="task" version="1.0 if/1.0"
       id="net-read-news">
 
@@ -27,13 +28,13 @@
   <steps>
     <title>To read news online:</title>
     <item>
-
       <p>Click the Internet icon on your desktop or on the taskbar to open the
       browser.</p>
-
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-browser.png"/>
     </item>
     <item>
       <p>Click on Newspaper section on the left side menu.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-discovery-center-news.png"/>
     </item>
     <item>
       <p>Discover the internet!</p>

@@ -46,21 +46,28 @@
 
   <steps>
     <item>
-      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-      your screen, then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
-      <p>Click on <gui>Users</gui> to open the panel.</p>
+      <p>Click on <gui>Users</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-users.png"/>
     </item>
     <item>
       <p>Press <gui style="button">Unlock</gui> in the top right corner and
       type in your password when prompted.</p>
     </item>
+    <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-unlock.png"/>
+    <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-auth.png"/>
+    <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-auth-confirm.png"/>
     <item>
       <p>Select the user that you want to delete and press the
       <gui style="button">-</gui> button, below the list of accounts on the
       left, to delete that user account.</p>
     </item>
+    <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-user-delete.png"/>
     <item>
       <p>Each user has their own home folder for their files and settings. You
       can choose to keep or delete the user's home folder. Click <gui>Delete

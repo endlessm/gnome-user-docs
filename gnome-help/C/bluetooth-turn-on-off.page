@@ -30,13 +30,13 @@
 <title>Turn Bluetooth on or off</title>
 
 <media its:translate="no" type="image" src="figures/bluetooth-menu.png" style="floatend">
-  <p its:translate="yes">The Bluetooth icon on the top bar</p>
+  <p its:translate="yes">The Bluetooth icon on the taskbar</p>
 </media>
 
   <comment>
     <cite date="2013-11-09" href="mailto:mdhillca@gmail.com">mdhill</cite>
-    <p>Add link to shell-terminology definition of system status *area* of top
-    bar when it has been written, explain that if your network connection is
+    <p>Add link to shell-terminology definition of system status *area* of taskbar
+    when it has been written, explain that if your network connection is
     through a bluetooth device it will show up in the system status *menu*
     and only then will its icon be visible as shown.</p>
   </comment>
@@ -45,8 +45,10 @@
   files, but turn it off to conserve power. To turn Bluetooth on:</p>
   <steps>
     <item>
-      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-      your screen, then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
       <p>Click <gui>Bluetooth</gui>.</p>
@@ -59,8 +61,10 @@
   <p>To turn Bluetooth off:</p>
   <steps>
     <item>
-      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-      your screen, then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
       <p>Click <gui>Bluetooth</gui>.</p>
@@ -71,6 +75,10 @@
   </steps>
 
 <note><p>You only need to switch <gui>Visibility</gui> on if you are connecting
-to this computer from another device.</p></note>
+to this computer from another device. Being "Visible" means that other devices
+can find you, otherwise, they won't be able to see or access your computer from
+that device.</p><p>Even if your computer is visible, you would still need to
+pair your computer and the other device in order to transfer any files between
+them.</p></note>
 
 </page>

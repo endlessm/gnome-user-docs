@@ -35,17 +35,23 @@
   to see. This is not the same as changing the brightness of the whole screen
   since only parts of the <gui>user interface</gui> will change.</p>
 
+  <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-contrast-example.png"/>
+
   <steps>
     <title>To adjust the contrast of your window:</title>
     <item>
-      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-      your screen, then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
-      <p>Click on <gui>Universal Access</gui> to open the panel.</p>
+      <p>Click on <gui>Universal Access</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-a11y.png"/>
     </item>
     <item>
       <p>Switch <gui>High Contrast</gui> to <gui>ON</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-contrast-setting.png"/>
     </item>
   </steps>
 </page>

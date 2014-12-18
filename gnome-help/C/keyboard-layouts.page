@@ -48,15 +48,19 @@
 
   <steps>
     <item>
-      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-      your screen, then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
-      <p>Click on <gui>Region &amp; Language</gui> to open the panel.</p>
+      <p>Click on <gui>Region &amp; Language</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-region.png"/>
     </item>
     <item>
       <p>Click the <key>+</key> button, select the language which is associated
       with the layout, then select a layout and press<gui>Add</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-add-keyboard-layout.png"/>
     </item>
   </steps>
 
@@ -83,7 +87,7 @@
   <gui style="button">Options</gui> button to select how you want to manage
   multiple layouts.</p>
 
-  <p>The top bar will display a short identifier for the current layout, such as
+  <p>The taskbar will display a short identifier for the current layout, such as
   <gui>en</gui> for the standard English layout. Click the layout indicator and
   select the layout you want to use from the menu. If the selected language has
   any extra settings, they will be shown below the list of available layouts.

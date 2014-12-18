@@ -45,8 +45,8 @@
           deactivate, then switch it <gui>ON/OFF</gui>.</tt:p>
         </tt:div>
         <tt:div begin="9s" end="16s">
-          <tt:p>The monitor with the top bar is the main monitor. To change
-          which monitor is "main", click on the top bar and drag it over to
+          <tt:p>The monitor with the taskbar is the main monitor. To change
+          which monitor is "main", click on the taskbar and drag it over to
           the monitor you want to set as the "main" monitor.</tt:p>
         </tt:div>
         <tt:div begin="16s" end="25s">
@@ -79,11 +79,14 @@
 
   <steps>
     <item>
-      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-      your screen, then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
-      <p>Click on <gui>Displays</gui> to open the panel.</p>
+      <p>Click on <gui>Displays</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-displays.png"/>
     </item>
 <!-- It is not possible to switch monitors off or on in 3.10
     <item>

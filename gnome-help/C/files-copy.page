@@ -1,5 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:ui="http://projectmallard.org/ui/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="task" version="1.0 ui/1.0"
       id="files-copy">
 
@@ -31,51 +32,71 @@
  keyboard shortcuts.</p>
 
  <p>For example, you might want to copy a presentation onto a memory stick so
- you can take it to work with you. Or, you could make a back-up copy of a
- document before you make changes to it (and then use the old copy if you don't
- like your changes).</p>
+ you can take it to school or work with you. Or, you could make a backup copy of
+ a document before you make changes to it (and then use the old copy if you
+ don't like your changes).</p>
 
  <p>These instructions apply to both files and folders. You copy and move files
  and folders in exactly the same way.</p>
 
 <steps ui:expanded="false">
 <title>Copy and paste files</title>
-<item><p>Select the file you want to copy by clicking on it once.</p></item>
-<item><p>Right-click and pick <gui>Copy</gui>, or press
- <keyseq><key>Ctrl</key><key>C</key></keyseq>.</p></item>
-<item><p>Navigate to another folder, where you want to put the copy of the
- file.</p></item>
-<item><p>Click the gear icon and pick <gui>Paste</gui> to finish copying the
- file, or press <keyseq><key>Ctrl</key><key>V</key></keyseq>. There
- will now be a copy of the file in the original folder and the other
- folder.</p></item>
+<item>
+  <p>Select the file you want to copy by clicking on it once.</p>
+</item>
+<item>
+  <p>Right-click and pick <gui>Copy</gui>, or press<keyseq><key>Ctrl</key>
+  <key>C</key></keyseq>.</p>
+  <media its:translate="no" type="image" mime="image/png" src="figures/eos-keyboard-ctrl-c.png"/>
+</item>
+<item>
+  <p>Navigate to another folder, where you want to put the copy of the file.</p>
+</item>
+<item>
+  <p>Click the gear icon and pick <gui>Paste</gui> to finish copying the
+  file, or press <keyseq><key>Ctrl</key><key>V</key></keyseq>. There
+  will now be a copy of the file in the original folder and the other
+  folder.</p>
+  <media its:translate="no" type="image" mime="image/png" src="figures/eos-keyboard-ctrl-v.png"/>
+</item>
 </steps>
 
 <steps ui:expanded="false">
 <title>Cut and paste files to move them</title>
-<item><p>Select the file you want to move by clicking on it once.</p></item>
-<item><p>Right-click and pick <gui>Cut</gui>, or press
- <keyseq><key>Ctrl</key><key>X</key></keyseq>.</p></item>
-<item><p>Navigate to another folder, where you want to move the file.</p></item>
-<item><p>Click the gear button in the toolbar and pick <gui>Paste</gui> to
- finish moving the file, or press <keyseq><key>Ctrl</key><key>V</key></keyseq>.
- The file will be taken out of its original folder and moved to the other
- folder.</p></item>
+<item>
+  <p>Select the file you want to move by clicking on it once.</p>
+</item>
+<item>
+  <p>Right-click and pick <gui>Cut</gui>, or press <keyseq><key>Ctrl</key>
+  <key>X</key></keyseq>.</p>
+  <media its:translate="no" type="image" mime="image/png" src="figures/eos-keyboard-ctrl-x.png"/>
+</item>
+<item>
+  <p>Navigate to another folder, where you want to move the file.</p>
+</item>
+<item>
+  <p>Click the gear button in the toolbar and pick <gui>Paste</gui> to finish
+  moving the file, or press <keyseq><key>Ctrl</key><key>V</key></keyseq>. The
+  file will be taken out of its original folder and moved to the other
+  folder.</p>
+</item>
 </steps>
 
 <steps ui:expanded="false">
 <title>Drag files to copy or move</title>
-<item><p>Click on [standard_my_documents.png] from the desktop and go to the
- folder which contains the file you want to copy.</p></item>
-<item><p>Click [files-share.png] on the top right, and select <gui>New Window</gui> (or
- press <keyseq><key>Ctrl</key><key>N</key></keyseq>) to open a second window. In
- the new window, navigate to the folder where you want to move or copy the file.
- </p></item>
+<item><p>Click on <media its:translate="no" type="image" mime="image/png"
+ src="figures/eos-icon-documents.png"><gui>Documents</gui></media> from the
+ desktop and go to the folder which contains the file you want to copy.</p></item>
+<item><p>Click <media its:translate="no" type="image" mime="image/png"
+ src="figures/eos-icon-file-settings.png"><gui>Documents</gui></media> on the top
+ right, and select <gui>New Window</gui> (or press <keyseq><key>Ctrl</key>
+ <key>N</key></keyseq>) to open a second window. In the new window, navigate to
+ the folder where you want to move or copy the file.</p></item>
 <item>
  <p>Click and drag the file from one window to another. This will
  <em>move it</em> if the destination is on the <em>same</em> device, or
  <em>copy it</em> if the destination is on a <em>different</em> device.</p>
- <p>For example, if you drag a file from a USB memory stick to your Home folder,
+ <p>For example, if you drag a file from a USB memory stick to your <gui>Home</gui> folder,
  it will be copied, because you're dragging from one device to another.</p>
  <p>You can force the file to be copied by holding down the <key>Ctrl</key> key
  while dragging, or force it to be moved by holding down the <key>Shift</key>

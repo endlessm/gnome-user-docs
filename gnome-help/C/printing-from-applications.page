@@ -20,4 +20,29 @@
 
   <title>Print my documents</title>
 
+  <p>Check to make sure that your printer is connected to your computer either by
+  connecting it with a USB cable, or by making sure you are on the same Wi-Fi
+  network that it is on. Next, follow these easy steps to print your
+  documents:</p>
+
+  <steps>
+    <item>
+      <p>Click on the <gui>File</gui> menu on the top left-hand side of the
+      document that you want to print.</p>
+    </item>
+    <item>
+      <p>Click on the <gui>Print</gui> option near the bottom of the list in that
+      menu. You can also press <keyseq><key>Ctrl</key><key>P</key></keyseq> from
+      the document, or click on the [writer_printer.png] icon instead.</p>
+    </item>
+    <item>
+      <p>Select the printer that you want to print to and add any other
+      specifications for the print job, like the number of copies you want,
+      whether you want to print a landscape (horizontal) or portrait (vertical)
+      page, or if you only want to print certain pages. To learn more about how
+      to specify certain print jobs in more detail, check out the <link
+      xref="hardware#printers">other printing pages</link>.</p>
+    </item>
+  </steps>
+
 </page>

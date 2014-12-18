@@ -18,11 +18,39 @@
     <desc>Learn which 3G dongles are currently supported.</desc>
   </info>
 
-  <title>Learn about supported 3G dongles</title>
+  <title>Supported 3G dongles</title>
 
   <p>The following 3G dongles should work properly on Endless, but please keep
   in mind that this list does not include every supported model.</p>
 
+  <list>
+    <item>
+    <p>Huawei E303</p>
+    </item>
+    <item>
+    <p>Huawei E153</p>
+    </item>
+    <item>
+    <p>Huawei E173</p>
+    </item>
+    <item>
+    <p>Huawei E303c</p>
+    </item>
+    <item>
+    <p>Huawei E3276</p>
+    </item>
+    <item>
+    <p>Huawei E3276s</p>
+    </item>
+    <item>
+    <p>Huawei E353s-6</p>
+    </item>
+    <item>
+    <p>ZTE MF626</p>
+    </item>
+  </list>
+
   <p>If you have questions about a specific model, please contact our customer
-  support team.</p>
+  support team. The most updated version of this list of supported 3G dongles
+  can be found at: missioncomputadoras.com</p>
 </page>

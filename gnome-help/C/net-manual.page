@@ -33,11 +33,14 @@
 <steps>
   <title>To manually set your network settings:</title>
  <item>
-      <p>Click on the User Menu on the very bottom left-hand corner of your
-      screen and then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
  </item>
  <item>
-      <p>Click on <gui>Network</gui> to open the panel.</p>
+      <p>Click on <gui>Network</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-network.png"/>
  </item>
  <item>
   <p>In the left pane, select the network connection that you want to set up
@@ -73,7 +76,7 @@
  </item>
  <item>
   <p>Click <gui>Apply</gui>. If you are not connected to the network, click the
- system status area on the top bar and connect. Test the network settings by
+ system status area on the taskbar and connect. Test the network settings by
  trying to visit a website or look at shared files on the network, for example.</p>
  </item>
 

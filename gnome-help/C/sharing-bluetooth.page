@@ -25,11 +25,11 @@
     involved: ObexFTP and ObexPush.</p>
   </comment>
 
-  <p>You can allow access to your <file>Public</file> and
-  <file>Downloads</file> folders for Bluetooth file sharing, and also restrict
-  that access to only <em>trusted devices</em>. Configure
-  <gui>Bluetooth Sharing</gui> to control access to the shared folders on your
-  computer.</p>
+  <p>You can allow Bluetooth devices to send you files to your
+  <file>Downloads</file> folder by turning on that capability. Restrict access
+  to only <em>trusted devices</em> for more security.</p>
+  <p>You can configure <gui>Bluetooth Sharing</gui> to control access to your
+  shared folders on your computer.</p>
 
   <note style="info">
     <p>A Bluetooth device is <em>trusted</em> if you have <em>paired</em>, or
@@ -37,11 +37,16 @@
     <link xref="bluetooth-connect-device"/>.</p>
   </note>
 
+<comment>
+  <cite date="2014-12-17">Nuritzi</cite>
+  <p>Add this section back in if we ever add Public folders.</p>
   <steps>
     <title>Share your <file>Public</file> folder over Bluetooth</title>
     <item>
-      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-      your screen, then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
       <p>Click <gui>Sharing</gui>.</p>
@@ -77,12 +82,15 @@
       now be able to access files in your <file>Public</file> folder.</p>
     </item>
   </steps>
+</comment>
 
   <steps>
     <title>Allow files to be shared into your <file>Downloads</file> folder</title>
     <item>
-      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-      your screen, then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
       <p>Click <gui>Sharing</gui>.</p>
@@ -119,11 +127,5 @@
       now be able to send files to your <file>Downloads</file> folder.</p>
     </item>
   </steps>
-
-  <note style="important">
-    <p><gui>Files</gui> allows you to launch the <gui>Sharing</gui> panel
-    directly by clicking the <gui>Preferences</gui> button when you visit the
-    <gui>Public</gui> folder.</p>
-  </note>
 
 </page>

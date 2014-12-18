@@ -5,6 +5,7 @@
 
   <info>
     <link type="guide" xref="hardware#printers"/>
+    <link type="guide" xref="index"/>
 
     <revision pkgversion="3.10.2" date="2013-11-03" status="candidate"/>
 
@@ -75,11 +76,14 @@
   <steps>
     <title>Set up your printer manually:</title>
     <item>
-      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-      your screen, then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
       <p>Click <gui>Printers</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-printers.png"/>
     </item>
     <item>
       <p>Click the <key>Unlock</key> button in the top-right corner and enter
@@ -93,13 +97,5 @@
       <gui>Add</gui>.</p>
     </item>
   </steps>
-
-<section>
-  <title>The following printers should work properly on Endless</title>
-  <p>Please keep in mind that this list does not include every supported
-  model.</p>
-  <p>If you have questions about a specific model, please contact our customer
-  support team.</p>
-</section>
 
 </page>

@@ -23,7 +23,7 @@
     <desc>You need administrative privileges to change important parts of your system.</desc>
   </info>
 
-  <title>How do administrative privileges work?</title>
+  <title>Understand administrative privileges</title>
 
   <links type="topic" style="2column"/>
 
@@ -43,10 +43,16 @@
   <p>Sometimes you need to use these applications, so you may be able to
   temporarily get administrative privileges to allow you to make the changes.
   If an application needs administrative privileges, it will ask for your
-  password. For example, if you want to install some new software, the software
+  password.</p>
+
+<comment>
+  <cite date="2014-12-17">Nuritzi</cite>
+  <p>Add this back when users can install software</p>
+  <p>For example, if you want to install some new software, the software
   installer (package manager) will ask for your administrator password so it
   can add the new application to the system. Once it has finished, your
   administrative privileges will be taken away again.</p>
+</comment>
 
   <p>Administrative privileges are associated with your user account.
   <gui>Administrator</gui> users are allowed to have these privileges while
@@ -83,10 +89,9 @@
   happening.</p>
 
   <p>Only certain trusted users should be allowed to have administrative
-  privileges. This prevents other users from messing with the computer and
-  doing things like uninstalling applications that you need, installing
-  applications that you don't want, or changing important files. This is useful
-  from a security standpoint.</p>
+  privileges. This prevents other users from messing with the computer and doing
+  things like changing important files. This is useful from a security
+  standpoint.</p>
 
 </section>
 

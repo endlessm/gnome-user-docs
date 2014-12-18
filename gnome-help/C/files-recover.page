@@ -19,8 +19,9 @@
 
   <title>Recover a file from the Trash</title>
 
-  <p>If you delete a file with the file manager, the file is normally placed
-  into the <gui>Trash</gui>, and should be able to be restored.</p>
+  <p>If you delete a file from your <app>Documents</app> folder, the file is
+  normally placed into the <gui>Trash</gui>, and should be able to be
+  restored.</p>
 
   <steps>
     <title>To restore a file from the Trash:</title>
@@ -32,8 +33,8 @@
     </item>
     <item>
       <p>If your deleted file is there, click on it and select
-      <gui>Restore</gui>. It will be restored to the folder from where it was
-      deleted.</p>
+      <gui>Restore</gui> near the top right of the window. The file will be
+      restored to the folder from where it was deleted.</p>
     </item>
   </steps>
 
@@ -42,10 +43,13 @@
   deleted. Files that have been permanently deleted can't be recovered from the
   <gui>Trash</gui>.</p>
 
-  <p>There are a number of recovery tools available that are sometimes able to
-  recover files that were permanently deleted. These tools are generally not
-  very easy to use, however. If you accidentally permanently deleted a file,
-  it's probably best to ask for advice on a support forum to see if you can
-  recover it.</p>
+<comment>
+  <cite date="2014-12-17">Nuritzi</cite>
+  <p>Add this when you can install things "There are a number of recovery tools
+  available that are sometimes able to recover files that were permanently
+  deleted. These tools are generally not very easy to use, however. If you
+  accidentally permanently deleted a file, it's probably best to ask for advice
+  on a support forum to see if you can recover it."</p>
+</comment>
 
 </page>

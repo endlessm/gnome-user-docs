@@ -42,24 +42,18 @@
   <title>Your personal settings</title>
    <p> This includes changes you may have made to colors, backgrounds, screen
    resolution and mouse settings on your desktop. This also includes application
-   preferences, such as settings for <app>LibreOffice</app>, your music player,
+   preferences, such as settings for <app>Writer</app>, your music player,
    and your email program. These are replaceable, but may take a while to
    recreate.</p>
  </item>
 
  <item>
   <title>System settings</title>
-   <p>Most people never change the system settings that are created during
-   installation. If you do customize your system settings for some reason, or if
-   you use your computer as a server, then you may wish to back up these
-   settings.</p>
+   <p>Most people never change the system settings that are created when you
+   first turn your computer on. If you do customize your system settings for
+   some reason, then you may wish to back up these settings.</p>
  </item>
 
- <item>
-  <title>Installed software</title>
-   <p>The software you use can normally be restored quite quickly after a
-   serious computer problem by reinstalling it.</p>
- </item>
 </terms>
 
   <p>In general, you will want to back up files that are irreplaceable and files

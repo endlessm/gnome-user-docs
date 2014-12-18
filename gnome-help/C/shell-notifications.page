@@ -51,6 +51,8 @@
   <p>Clicking the close button on some notifications dismisses them. Others,
   like your chat application, will stay hidden in the message tray.</p>
 
+  <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-notification.png"/>
+
 </section>
 
 <section id="messagingtray">
@@ -96,11 +98,14 @@
 
   <steps>
     <item>
-      <p>Click on [standard_user_menu.png] on the bottom left-hand corner of
-      your screen, then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
-      <p>Click <gui>Notifications</gui>.</p>
+      <p>Click on <gui>Notifications</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-notifications.png"/>
     </item>
     <item>
       <p>Switch <gui>Show Pop Up Banners</gui> to <gui>Off</gui>.</p>

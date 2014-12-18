@@ -1,5 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="task" version="1.0 if/1.0"
       id="media-play-videos">
 
@@ -21,24 +22,59 @@
   <title>Play my videos</title>
 
   <p>Endless comes with some short videos already installed and a media player
-  to play them.</p>
+  to play them. In order to watch a DVD you already have, you will need to
+  connect an external DVD player to your computer (ask your local electronics
+  retailer for more information on purchasing this accessory), and then you can
+  use the same media player already installed to watch it. You can also download
+  videos from the internet if you have a connection using the
+  <app>FrostTorrent</app> app.</p>
 
   <steps>
-    <title>To watch a video:</title>
+    <title>To watch your videos:</title>
+      <p>You may have recorded videos on your phone, or have some videos on a
+      USB stick that you want to watch. You'll first need to download them to
+      your computer. You can do this simply by plugging in your device and
+      dragging the video files into the <gui>Videos</gui> folder, or any other
+      folder you prefer. Then, follow these directions:</p>
     <item>
-      <p>Click on the Documents icon on your desktop.</p>
+      <p>Click on <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-documents.png"><gui>Documents</gui></media> on your
+      desktop.</p>
     </item>
     <item>
-       <p>Click on the Videos folder.</p>
+       <p>Click on the <gui>Videos</gui> folder.</p>
     </item>
     <item>
-      <p>Click on the Samples folder.</p>
+      <p>Browse the video files available. When you are ready to watch one, simply
+      double click on the file.</p>
+      <p>Your video will start to play automatically. You can control it within
+      the app and choose to pause it, fast forward, or rewind it with the
+      controls on the bottom left corner.</p>
+    </item>
+    <item>
+      <p>Make the video full screen by pressing the diagonal arrows next to the
+      control buttons.</p>
+    </item>
+  </steps>
+
+  <steps>
+    <title>To watch a pre-installed video:</title>
+    <item>
+      <p>Click on <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-documents.png"><gui>Documents</gui></media> on your
+      desktop.</p>
+    </item>
+    <item>
+       <p>Click on the <gui>Videos</gui> folder.</p>
+    </item>
+    <item>
+      <p>Click on the <gui>Samples</gui> folder.</p>
     </item>
     <item>
       <p>Browse the videos available. When you are ready to watch one, simply
       double click on the file.</p>
       <p>Your video will start to play automatically. You can control it within
-      the app and choose to pause it, or rewind it with the controls on the
+      the app and choose to pause it, fast forward, or rewind it with the controls on the
       bottom left corner.</p>
     </item>
     <item>
@@ -47,14 +83,14 @@
     </item>
   </steps>
 
-  <note>
-    <p>To exit the full screen mode, press the Esc button on the top left-hand
-    corner of your keyboard.</p>
+  <note style="tip">
+    <p>To exit the full screen mode when you are watching a movie, press the Esc
+    button on the top left-hand corner of your keyboard.</p>
   </note>
 
   <note>
     <p>Remember, you need to connect some headphones or speakers to be able to
-    listen to the videos. If your computer if connected to a TV, the sound
+    listen to the videos. If your computer is connected to a TV, the sound
     should work. </p>
   </note>
 </page>

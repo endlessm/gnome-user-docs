@@ -1,4 +1,5 @@
 <page xmlns="http://projectmallard.org/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="task"
       id="files-share">
 
@@ -42,7 +43,9 @@
 
 <steps>
   <title>To share a file by email:</title>
-  <item><p>Click on [standard_my_documents.png] from the <gui>Desktop</gui>.</p></item>
+  <item><p>Click on <media its:translate="no" type="image" mime="image/png"
+  src="figures/eos-icon-documents.png"><gui>Documents</gui></media> from the
+  <gui>Desktop</gui>.</p></item>
   <item><p>Locate the file you want to transfer.</p></item>
   <item><p>Right-click the file and select <gui>Send To</gui>. The
   <gui>Compose Message</gui> window will appear with the file attached.</p></item>

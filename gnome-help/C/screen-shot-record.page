@@ -1,4 +1,5 @@
 <page xmlns="http://projectmallard.org/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="guide" style="task"
       id="screen-shot-record">
 
@@ -37,8 +38,13 @@
 <section id="screenshot">
  <title>Take a screenshot</title>
 <steps>
-<item><p>Install the <gui>Screenshot</gui> application from the <gui>App
-Store</gui>, under the <gui>Utilities</gui> category, and open it.</p></item>
+<item>
+  <p>Install the <gui>Screenshot</gui> application from the <gui>App
+  Store</gui>, under the <gui>Utilities</gui> category, and open it.</p>
+  <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-app-store.png"/>
+  <media its:translate="no" type="image" mime="image/png" src="figures/eos-app-store-tools.png"/>
+</item>
+
 
 <item>
  <p>In the <app>Take Screenshot</app> window, select whether to grab the
@@ -51,6 +57,7 @@ Store</gui>, under the <gui>Utilities</gui> category, and open it.</p></item>
   <p>Click <gui>Take Screenshot</gui>.</p>
   <p>If you selected <gui>Select area to grab</gui>, the pointer changes into
   a crosshair. Click and drag the area you want for the screenshot.</p>
+  <media its:translate="no" type="image" mime="image/png" src="figures/eos-screen-shot-type.png"/>
 </item>
 
 <item>
@@ -59,6 +66,7 @@ Store</gui>, under the <gui>Utilities</gui> category, and open it.</p></item>
   <p>Alternatively, import the screenshot directly into an image-editing application
   without saving it first. Click <gui>Copy to Clipboard</gui> then paste the image in
   the other application, or drag the screenshot thumbnail to the application.</p>
+  <media its:translate="no" type="image" mime="image/png" src="figures/eos-screen-shot-capture.png"/>
 </item>
 </steps>
 
@@ -79,6 +87,13 @@ Store</gui>, under the <gui>Utilities</gui> category, and open it.</p></item>
   <p>You can also hold down <key>Ctrl</key> with any of the above shortcuts to
   copy the screenshot image to the clipboard instead of saving it.</p>
 </note>
+
+<note style="tip">
+  <p>Some keyboards will have a <key>Print Screen</key> button near the top right
+  hand corner. Press it once to take a screenshot.</p>
+  <media its:translate="no" type="image" mime="image/png" src="figures/eos-keyboard-print-screen.png"/>
+</note>
+
 </section>
 
 

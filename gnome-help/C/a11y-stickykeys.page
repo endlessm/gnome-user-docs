@@ -46,11 +46,14 @@
 
   <steps>
     <item>
-      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-      your screen, then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
-      <p>Click on <gui>Universal Access</gui> to open the panel.</p>
+      <p>Click on <gui>Universal Access</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-a11y.png"/>
     </item>
     <item>
       <p>Press <gui>Typing Assist (AccessX)</gui> in the <gui>Typing</gui>
@@ -69,7 +72,7 @@
     selected, you can press <key>Shift</key> five times in a row to enable or
     disable sticky keys.</p>
     <p>You can also turn sticky keys on and off by clicking the
-    <link xref="a11y-icon">accessibility icon</link> on the top bar and
+    <link xref="a11y-icon">accessibility icon</link> on the taskbar and
     selecting <gui>Sticky Keys</gui>. The accessibility icon is visible when
     one or more settings have been enabled from the <gui>Universal Access</gui>
     panel.</p>

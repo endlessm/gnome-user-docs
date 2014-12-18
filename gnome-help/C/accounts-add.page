@@ -4,7 +4,8 @@
       id="accounts-add">
 
   <info>
-    <link type="guide" xref="shell-overview#customize"/>
+    <link type="guide" xref="net#social"/>
+    <link type="guide" xref="index"/>
 
     <revision pkgversion="3.5.5" version="0.1" date="2012-08-14" status="draft"/>
     <revision pkgversion="3.9.92" date="2012-09-18" status="candidate"/>
@@ -18,10 +19,10 @@
       <email its:translate="no">mdhillca@gmail.com</email>
     </credit>
 
-    <desc>Connect an online account.</desc>
+    <desc>Connect an online account to make your experience on Endless even more seamless.</desc>
 </info>
 
-  <title>Add an account</title>
+  <title>Add an online account</title>
 
   <p>Adding an account will help link your online accounts with your Endless
   desktop. Thus, your email app, chat app and other related
@@ -29,13 +30,24 @@
 
   <steps>
     <item>
-      <p>Click the <key>+</key> button in the lower-left portion of the
-      window.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
+    </item>
+    <item>
+      <p>Click on <gui>Online Accounts</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-online-accounts.png"/>
+    </item>
+    <item>
+      <p>Click the <gui>Add an online account</gui> button.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-online-accounts-add.png"/>
     </item>
     <item>
       <p>Select the type of account which you want to add.</p>
       <p>If you want to add more than one account type, you can do so at a
       later time.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-online-accounts-type.png"/>
     </item>
     <item>
       <p>A small window will open where you can enter your online
@@ -52,6 +64,7 @@
       For example, if you want to use an online account for chat, but do not
       want to use an online account for your calendar, turn the
       <gui>Calendar</gui> option to <gui>Off</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-online-accounts-options.png"/>
     </item>
   </steps>
 

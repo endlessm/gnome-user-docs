@@ -31,8 +31,8 @@
   press <key>&#8593;</key>, or press <keyseq><key>Alt</key><key>F10</key></keyseq>.
   </p>
 
-  <p if:test="platform:gnome-classic">You can also maximize a window by
-  clicking the maximize button in the titlebar.</p>
+  <p>You can also maximize a window by clicking the maximize button in the
+  titlebar.</p>
 
   <p>To restore a window to its unmaximized size, drag it away from the edges
   of the screen. If the window is fully maximized, you can double-click the

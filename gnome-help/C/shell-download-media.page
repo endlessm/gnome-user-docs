@@ -17,18 +17,21 @@
 
   <title>Download Songs and Media</title>
 
-  <p>You can use the <app>Frostwire</app> app to download songs and media from
+  <p>You can use the <app>FrostTorrent</app> app to download songs and media from
   the internet.</p>
 
-  <comment>Need to figure out what we are calling the <app>Frostwire</app> app and replace
-  the word throughout this page.</comment>
 
   <steps>
     <title>Download songs and media from the internet following these
     steps:</title>
     <item>
-      <p>Make sure that you have added the <app>Frostwire</app> app to your
+      <p>Make sure that you have added the <app>FrostTorrent</app> app to your
       desktop, then click on it once to open it.</p>
+    </item>
+    <item>
+      <p>If this is the first time you open <app>FrostTorrent</app>, you will
+      need to complete a short setup using the wizard it provides. Once it
+      finishes setting up, move on to the next step.</p>
     </item>
     <item>
       <p>Type in a search keyword and press <key>Enter</key> on your keyboard or
@@ -36,9 +39,9 @@
       Click one if it is the keyword you want to search for.</p>
     </item>
     <item>
-      <p>Options will appear in the main window. Click on the file type by
-      selecting the icon of a music note (songs), a frame (photos), a film strip
-      (videos), or a sheet of paper (documents). You can also filter your
+      <p>Options will appear in the main window. Click on the file type you want
+      by selecting the icon of a music note (songs), a frame (photos), a film
+      strip (videos), or a sheet of paper (documents). You can also filter your
       results by clicking on the <gui>Search Tools</gui> button on the right-
       hand side of the window.</p>
     </item>
@@ -75,4 +78,16 @@
       </item>
     </list>
   </note>
+
+  <note style="warning">
+    <p>Make sure that what you are downloading is a legal copy! Many files have
+    copyright laws that prohibit them from being shared for free online. This
+    means that you could be sued for illegally downloading them without paying
+    for them. That being said, there are millions of files that are completely
+    legal and shareable on the internet, and that you can enjoy once you
+    download them with this app. To learn more about downloading files and
+    copyright, you may want to google "torrents and legality" so that you can
+    make informed decisions on which files to download.</p>
+  </note>
+
 </page>

@@ -1,10 +1,12 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="task" version="1.0 if/1.0"
       id="shell-apps-open">
 
   <info>
     <link type="guide" xref="shell-overview#apps"/>
+    <link type="guide" xref="index"/>
 
     <revision pkgversion="3.6.0" version="0.2" date="2012-10-14" status="review"/>
     <credit type="author">
@@ -28,42 +30,46 @@
     <desc>Install free apps, folders, and website shortcuts onto your desktop.</desc>
   </info>
 
-  <title>Add apps, folders and website shortcuts</title>
+  <title>Add apps and website shortcuts</title>
 
-  <p>Endless comes packed with great applications and resources for you to
-  discover and explore. The pre-installed applications on your desktop are just
-  a few of the many applications available to you. You now have access to
-  everything from games, to educational applications, to valuable health
-  resources, and much more.</p>
+  <p>The pre-installed apps on your desktop are just a few of the many apps
+  available to you. Easily add more apps and websites shortcuts directly to your
+  desktop.</p>
 
 
   <section>
   <title>Adding More Apps</title>
   <steps>
     <item>
-      <p>Click once on [standard_more_apps_ES.png] from the desktop.</p>
+      <p>Click once on <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-more-apps.png">the plus button</media> from the
+      desktop.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-app-store.png"/>
     </item>
     <item>
-      <p>All of the applications you see are free. Browse by category
-      and read each application's short description until you find one that you
-      want to add to your desktop.</p>
+      <p>Browse by category and read each app's short description until you find
+      one that you want to add to your desktop. All of the apps you see are
+      free.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-app-store-categories.png"/>
     </item>
     <item>
-      <p>Some applications are already downloaded to your computer and you can
+      <p>Some apps are already downloaded to your computer and you can
       add them to your desktop by clicking <gui>Add to desktop</gui>. </p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-app-store-add-desktop.png"/>
     </item>
     <item>
-      <p>Other applicatons need to be installed and require an internet connection.
-      Click <gui>Install app</gui> to download and install these applications.</p>
+      <p>Other apps need to be installed and require an internet connection. 
+      Click <gui>Install app</gui> to download and install these apps.</p>
     </item>
 
     <item>
-      <p>When the application has been successfully added to your desktop, the
-      green button will change to <gui>Open app</gui> and you can start using
-      the application immediately! </p>
-      <p>The application's icon will be installed on your desktop, to the left
-      of the [standard_more_apps_ES.png] button. You can then move it wherever
-      makes sense to you so you can find it easily.</p>
+      <p>When the app has been successfully added to your desktop, the green
+      button will change to <gui>Open app</gui> and you can start using the app
+      immediately! </p>
+      <p>The app's icon will be installed on your desktop, to the left of the
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-icon-more-apps.png">
+      plus</media> button. You can then move it wherever makes sense to you
+      so you can find it easily.</p>
     </item>
   </steps>
   </section>
@@ -72,13 +78,22 @@
   <title>Installing Website Shortcuts </title>
   <steps>
     <item>
-      <p>Click once on [standard_more_apps_ES.png] from the desktop.</p>
+      <p>Click once on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-more-apps.png">plus button</media> from the
+      desktop.</p>
+    </item>
+    <item>
+      <p>Click on the <gui>Websites</gui> category on the left hand side.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-app-store-websites.png"/>
     </item>
     <item>
       <p>Browse the website links that we have as suggestions by category. If
       you see one that you like, just scroll over it and click on the green
-      [add_website.png] button that will appear. This will add it directly to your
-      desktop, to the left of the [standard_more_apps_ES.png] button.</p>
+      <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-app-store-add-website.png">plus</media> button that will
+      appear. This will add it directly to your desktop, to the left of the
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-icon-more-apps.png">
+      plus</media> button.</p>
     </item>
     <item>
       <p>Add your own website links to pages that we don't already have by
@@ -86,34 +101,12 @@
       <input>Enter</input> key to search.</p>
     </item>
     <item>
-      <p>Click on the [add_website.png] button, and your link will be installed
-      to the desktop. Add another website, application or folder, or else close
-      the App Store to find your new folder. It will be directly to the left of
-      the [standard_more_apps_ES.png] button.</p>
-    </item>
-  </steps>
-  </section>
-
- <section>
-  <title>Installing Folders</title>
-  <steps>
-    <item>
-      <p>Click once on [standard_more_apps_ES.png] from the desktop.</p>
-    </item>
-    <item>
-      <p>Choose an icon for your folder that you like, or that you think
-      represents the types of files or folders that you would like to store in
-      it.</p>
-    </item>
-    <item>
-      <p>Name your folder by clicking in the bar that appears under the icon and
-      type the name of the folder as you would like it to appear on the desktop.
-      Remember to keep it short so that the name does not get cut off.</p>
-    </item>
-    <item>
-      <p>Install your folder on the desktop by clicking on the
-      [add_website.png] button. It will appear directly to the left of the
-      [standard_more_apps_ES.png] button.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-app-store-add-website.png">plus</media> button, and your
+      link will be installed to the desktop. Add another website, or else close
+      the App Store to find your new website shortcut. It will be directly to
+      the left of the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-more-apps.png">plus</media> button.</p>
     </item>
   </steps>
   </section>
