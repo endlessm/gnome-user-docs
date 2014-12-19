@@ -5,6 +5,7 @@
 
   <info>
     <link type="guide" xref="security-and-privacy#multiple-users"/>
+    <link type="guide" xref="index"/>
 
     <revision pkgversion="3.8.0" version="0.3" date="2013-03-09" status="candidate"/>
     <revision pkgversion="3.10" date="2013-11-01" status="review"/>
