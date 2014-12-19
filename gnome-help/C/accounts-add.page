@@ -5,7 +5,6 @@
 
   <info>
     <link type="guide" xref="net#social"/>
-    <link type="guide" xref="index"/>
 
     <revision pkgversion="3.5.5" version="0.1" date="2012-08-14" status="draft"/>
     <revision pkgversion="3.9.92" date="2012-09-18" status="candidate"/>

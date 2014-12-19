@@ -15,19 +15,23 @@
 
   <title>Printers, Displays &amp; Accessories</title>
 
-  <section id="displays" style="2column">
-   <title>Displays</title>
+  <section id="displays">
+    <title>Displays</title>
+    <links type="topic" style="2column" role="hardware"/>
   </section>
 
-  <section id="sound" style="2column">
-   <title>Sound</title>
+  <section id="sound">
+    <title>Sound</title>
+    <links type="topic" style="2column" role="hardware"/>
   </section>
 
-  <section id="printers" style="2column">
-   <title>Printers</title>
+  <section id="printers">
+    <title>Printers</title>
+    <links type="topic" style="2column" role="hardware"/>
   </section>
 
-  <section id="keyboard-mouse" style="2column">
-   <title>Keyboard &amp; Mouse</title>
+  <section id="keyboard-mouse">
+    <title>Keyboard &amp; Mouse</title>
+    <links type="topic" style="2column" role="hardware"/>
   </section>
 </page>

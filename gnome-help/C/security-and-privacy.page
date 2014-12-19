@@ -18,19 +18,23 @@
 
   <title>Security and Privacy</title>
 
-  <section id="user" style="2column">
+  <section id="user">
     <title>User Accounts</title>
+    <links type="topic" style="2column" role="security-and-privacy"/>
   </section>
 
-  <section id="multiple-users" style="2column">
+  <section id="multiple-users">
     <title>Multiple User Accounts</title>
+    <links type="topic" style="2column" role="security-and-privacy"/>
   </section>
 
-  <section id="backup" style="2column">
+  <section id="backup">
     <title>Backup your Computer</title>
+    <links type="topic" style="2column" role="security-and-privacy"/>
   </section>
 
-  <section id="protect" style="2column">
+  <section id="protect">
     <title>Protect your Computer</title>
+    <links type="topic" style="2column" role="security-and-privacy"/>
   </section>
 </page>

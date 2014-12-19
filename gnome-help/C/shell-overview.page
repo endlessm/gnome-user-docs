@@ -17,27 +17,33 @@
 
   <title>The Desktop</title>
 
-  <section id="apps" style="2column">
-   <title>Apps</title>
+  <section id="apps">
+    <title>Apps</title>
+    <links type="topic" style="2column" role="shell-overview"/>
   </section>
 
-  <section id="search" style="2column">
-   <title>Searching on Endless</title>
+  <section id="search">
+    <title>Searching on Endless</title>
+    <links type="topic" style="2column" role="shell-overview"/>
   </section>
 
-  <section id="windows" style="2column">
-   <title>Window Management</title>
+  <section id="windows">
+    <title>Window Management</title>
+    <links type="topic" style="2column" role="shell-overview"/>
   </section>
 
-  <section id="customize" style="2column">
-   <title>Customize Endless</title>
+  <section id="customize">
+    <title>Customize Endless</title>
+    <links type="topic" style="2column" role="shell-overview"/>
   </section>
 
-  <section id="time" style="2column">
-   <title>Time and Date</title>
+  <section id="time">
+    <title>Time and Date</title>
+    <links type="topic" style="2column" role="shell-overview"/>
   </section>
 
-  <section id="lock" style="2column">
-   <title>Restart, Shut Down &amp; Lock</title>
+  <section id="lock">
+    <title>Restart, Shut Down &amp; Lock</title>
+    <links type="topic" style="2column" role="shell-overview"/>
   </section>
 </page>
