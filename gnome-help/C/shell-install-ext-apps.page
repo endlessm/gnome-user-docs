@@ -15,14 +15,14 @@
       <years>2014</years>
     </credit>
 
-    <desc>Learn about installing apps that don’t already come on Endless.</desc>
+    <desc>Learn about installing software that doesn’t already come on Endless.</desc>
   </info>
 
   <title>Install apps that don't come on Endless</title>
 
-  <p>Currently, it is not possible to install apps outside of the <gui>App
+  <p>Currently, it is not possible to install software or apps outside of the <gui>App
   Store</gui>. Luckily, Endless comes with a lot of great, and free, apps for
-  you to install and explore!</p>
+  you to explore!</p>
 
   <p>If you have a specific app that you would like to see on Endless in the
   future, please <link xref="gs-give-feedback">send us a message through the

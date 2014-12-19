@@ -13,7 +13,7 @@
     <email its:translate="no">shaunm@gnome.org</email>
   </credit>
 
-  <desc>Learn what Bluetooth is and how to use it.</desc>
+  <desc>Learn what Bluetooth is.</desc>
 
   <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 </info>
@@ -21,9 +21,10 @@
 <title>Bluetooth</title>
 
 <p>Bluetooth allows you to connect many different types of devices to your
-computer. It's commonly used for connecting wireless mouses and keyboards. You
-can also use it to send files between devices, such as from your computer to
-your cell phone, or vice versa.</p>
+computer. It's commonly used for connecting wireless mouses, keyboards or
+speakers. You can also use it to send files between devices, such as from your
+computer to your cell phone, or vice versa. It is different than a Wi-Fi
+connection because it does not let you access the internet.</p>
 
 <p>You can turn Bluetooth on to connect to other Bluetooth devices, or you can
 turn it off to conserve power.</p>

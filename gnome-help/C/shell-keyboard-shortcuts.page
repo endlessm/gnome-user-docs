@@ -62,7 +62,7 @@ information on navigating user interfaces with only the keyboard.</p>
   <tr xml:id="ctrl-alt-tab">
     <!-- To be updated to <key>Tab</key> in the future. -->
     <td><p><keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq></p></td>
-    <td><p>Give keyboard focus to the bottom bar, message tray or the
+    <td><p>Give keyboard focus to the taskbar, message tray or the
     windows.</p></td>
   </tr>
   <tr xml:id="super-a">

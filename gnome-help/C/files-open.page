@@ -23,22 +23,15 @@
 
 <title>Open files with other applications</title>
 
-<p>When you double-click a file in the file manager, it will be opened with
-the default application for that file type. You can open it in a different
-application, search online for applications, or set the default application
-for all files of the same type.</p>
+<p>When you double-click a file in your documents folder, it will be opened with
+the default application for that file type unless you choose another application to open it.</p>
 
-<p>To open a file with an application other than the default, right-click
-the file and select the application you want from the top of the menu. If
-you don't see the application you want, click <gui>Open With Other
-Application</gui>. By default, the file manager only shows applications
-it knows can handle the file. To look through all the applications on
-your computer, click <gui>Show other applications</gui>.</p>
+<p>To open a file with an application other than the default one, right-click
+the file, move your mouse to the "Open With" option, and choose the application
+you want to open the file with. If you don't see the application you want in
+that list, click <gui>Other Application...</gui>. The file manager only shows
+applications it knows can handle the file.</p>
 
-<p>If you still can't find the application you want, you can search for
-more applications by clicking <gui>Find applications online</gui>. The
-file manager will search online for packages containing applications
-that are known to handle files of that type.</p>
 
 <section id="default">
   <title>Change the default application</title>
@@ -51,10 +44,10 @@ that are known to handle files of that type.</p>
     <item><p>Select a file of the type whose default application you want to change.
     For example, to change which application is used to open MP3 files,
     select a <file>.mp3</file> file.</p></item>
-    <item><p>Right-click the file and select <gui>Properties</gui>.</p></item>
+    <item><p>Right-click the file and select <gui>Information</gui>.</p></item>
     <item><p>Select the <gui>Open With</gui> tab.</p></item>
     <item><p>Select the application you want and click <gui>Set as default</gui>.
-    By default, the file manager only shows applications it knows can handle the
+    By default, the list only shows applications that can handle the
     file. To look through all the applications on your computer, click <gui>Show
     other applications</gui>.</p>
     <p>If <gui>Other Applications</gui> contains an application you sometimes

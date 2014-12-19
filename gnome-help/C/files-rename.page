@@ -29,8 +29,7 @@
 
   <title>Rename a file or folder</title>
 
-  <p>As with other file managers, you can use the Endless file manager to change
-  the name of a file or folder.</p>
+  <p>You can change the name of a file or folder in just a few easy steps.</p>
   <steps>
     <title>To rename a file or folder:</title>
     <item><p>Right-click on the item and select <gui>Rename</gui>, or select
@@ -61,7 +60,8 @@
 
     <note style="warning">
     <p> If you name a file with a <key>.</key> as the first character, the file
-    will be hidden when you attempt to view it in the file manager.</p>
+    will be hidden when you attempt to view it in your <gui>Documents</gui>
+    folder.</p>
     </note>
   </section>
 

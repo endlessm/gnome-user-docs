@@ -30,43 +30,42 @@
 
   <title>Introduction to Endless</title>
 
-  <p>Endless has been created just for you. We have re-imagined the user
-  interface and designed Endless to be simple, beautiful and powerful. When
-  you first turn your computer on, you'll find some important applications
-  already installed on your desktop. You'll also notice the task bar at the very
-  bottom of your screen.</p>
+  <p>Endless has been created just for you. When you first turn your computer on,
+  you'll find some important applications already installed on your desktop, and
+  a taskbar at the very bottom of your screen.</p>
 
-  <p>The task bar provides access to important things like your windows and
+  <p>The taskbar provides access to important things like your windows and
   applications, your calendar and clock, and system properties like sound and
-  networking. There, you can change the volume, edit your <gui>Wi-Fi</gui>
+  networking. There, you can change the volume, edit your Wi-Fi
   connection details, check your battery status, log out or switch users, and
   turn off your computer. We have also included the possibility to connect to
-  Facebook on this task bar, so that you can keep in touch with your friends
+  Facebook on this taskbar, so that you can keep in touch with your friends
   more easily than ever!</p>
 
 <links type="section"/>
 
 <section id="activities">
-  <title><gui>App Store</gui> overview</title>
+  <title><app>App Store</app> overview</title>
 
   <p>Your computer should be incredibly useful to you both online and offline.
   For that reason, we have packed Endless with all sorts of applications and
-  content for you to explore and discover. While you will find pre-installed
-  applications on your desktop, you can always add more applications by clicking
-  on the <gui>More Apps</gui> button on the desktop. This will launch our App
-  Store, which is full of free applications for you to install on your
-  desktop.</p>
+  content for you to explore and discover. You can add more apps to your desktop
+  by clicking on <media its:translate="no" type="image" mime="image/png"
+  src="figures/eos-icon-more-apps.png"> the plus</media> button from the desktop.
+  This will launch our <app>App Store</app>, which is full of free applications
+  for you to install on your desktop.</p>
 
-  <p>The App Store is divided into three sections: Apps, Websites, and Folders.
-  You can browse applications you may want to install by category, add shortcuts
-  to your favorite websites onto your desktop, or simply create new folders to
-  organize all of your things in a way that makes sense to you.</p>
+  <p>The <app>App Store</app> is divided into three sections: <gui>Apps</gui>,
+  <gui>Websites</gui>, and <gui>Folders</gui>. You can browse applications you
+  may want to install by category, add shortcuts to your favorite websites onto
+  your desktop, or simply create new folders to organize all of your things in a
+  way that makes sense to you.</p>
 
 
   <list style="compact">
     <item>
       <p><link xref="shell-apps-open">Learn more about installing
-      applications.</link></p>
+      apps.</link></p>
     </item>
   </list>
 
@@ -158,7 +157,9 @@ messages will be presented, such as when your battery is critically low.</p>
       </item>
     </list>
 
-    <p>The window list at the bottom of the screen provides access to all your
+<comment>
+    <p>This doesn't seem relevant since we do not have workspaces: 
+    "The window list at the bottom of the screen provides access to all your
     open windows and applications and lets you quickly minimize and restore
     them.</p>
     <p>At the right-hand side of the window list, Endless displays a short
@@ -168,7 +169,8 @@ messages will be presented, such as when your battery is critically low.</p>
     the identifier and select the workspace you want to use from the menu.</p>
     <p>If an application or a system component wants to get your attention, it
     will display a blue icon at the right-hand side of the window list.
-    Clicking the blue icon shows the message tray.</p>
+    Clicking the blue icon shows the message tray."</p>
+</comment>
 
 </section>
 

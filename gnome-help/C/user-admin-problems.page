@@ -20,7 +20,7 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>You can only do some things, like installing applications, if you have administrative privileges.</desc>
+    <desc>Without administrative privileges, your account is limited.</desc>
   </info>
 
   <title>Problems caused by administrative restrictions</title>
@@ -38,7 +38,7 @@
       the contents of a different disk partition (e.g. a Windows partition)</p>
     </item>
     <item>
-      <p>Installing new applications</p>
+      <p>Creating new users for your computer.</p>
     </item>
   </list>
 

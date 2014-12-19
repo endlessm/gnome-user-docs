@@ -1,12 +1,12 @@
 <page xmlns="http://projectmallard.org/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="task"
       id="files-share">
 
   <info>
     <link type="guide" xref="files#share"/>
 
-    <desc>Easily transfer files to your email contacts from the file
-    manager.</desc>
+    <desc>Easily transfer files to your email contacts when you have internet.</desc>
 
     <revision pkgversion="3.8.2" version="0.3" date="2013-05-11" status="review"/>
 
@@ -33,8 +33,7 @@
   <p>All functionality except email removed for 3.8 per Bug 680983.</p>
 </comment>
 
-<p>You can easily share files with your contacts by email directly from the
-file manager.</p>
+<p>You can easily share files with your contacts by email.</p>
 
   <note style="important">
     <p>Before you begin, make sure the <app>Email</app> application is installed
@@ -44,7 +43,9 @@ file manager.</p>
 
 <steps>
   <title>To share a file by email:</title>
-  <item><p>Click on the <app>Documents</app> icon from the <gui>Desktop</gui>.</p></item>
+  <item><p>Click on <media its:translate="no" type="image" mime="image/png"
+  src="figures/eos-icon-documents.png"><gui>Documents</gui></media> from the
+  <gui>Desktop</gui>.</p></item>
   <item><p>Locate the file you want to transfer.</p></item>
   <item><p>Right-click the file and select <gui>Send To</gui>. The
   <gui>Compose Message</gui> window will appear with the file attached.</p></item>

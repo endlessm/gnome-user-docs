@@ -1,4 +1,5 @@
 <page xmlns="http://projectmallard.org/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="guide" style="task"
       id="printing-select">
 
@@ -22,11 +23,18 @@
  To only print certain pages from the document:
 </p>
 <steps>
- <item><p>Click <guiseq><gui>File</gui><gui>Print</gui></guiseq></p></item>
- <item><p>In the <gui>General</gui> tab in the <gui>Print</gui> window choose
- <gui>Pages</gui> from the <gui>Range</gui> section.</p></item>
-<item><p>Type the numbers of the pages you want to print in the text box,
- separated by commas. Use a dash to denote a range of pages.</p></item>
+  <item>
+    <p>Click <guiseq><gui>File</gui><gui>Print</gui></guiseq></p>
+  </item>
+  <item>
+    <p>In the <gui>General</gui> tab in the <gui>Print</gui> window choose
+    <gui>Pages</gui> from the <gui>Range</gui> section.</p>
+    <media its:translate="no" type="image" mime="image/png" src="figures/eos-printing-select-pages.png"/>
+  </item>
+  <item>
+    <p>Type the numbers of the pages you want to print in the text box,
+    separated by commas. Use a dash to denote a range of pages.</p>
+  </item>
 </steps>
 
 <note>

@@ -30,19 +30,11 @@
 
   <title>Send files to a Bluetooth device</title>
 
-<if:choose>
-  <if:when test="platform:unity">
-    <p>You can send files to connected Bluetooth devices, such as some mobile
-    phones or other computers. Some types of devices don't allow the transfer
-    of files, or specific types of files. You can send files in one of three
-    ways: using the Bluetooth icon in the menu bar, from the Bluetooth settings
-    window, or directly from the file manager.</p>
-  </if:when>
-  <p>You can send files to connected Bluetooth devices, such as some mobile
-  phones or other computers. Some types of devices don't allow the transfer
-  of files, or specific types of files. You can send files using the Bluetooth
-  icon on the top bar, or from the Bluetooth settings window.</p>
-</if:choose>
+  <p>You can send files from your computer to other Bluetooth compatible devices, like some mobile
+  phones, some speakers, or other computers. You can send files in one of three
+  ways: using the Bluetooth icon on the taskbar, from the Bluetooth settings
+  window, or directly from your Documents folder. Some types of devices don't allow the transfer
+  of files, or specific types of files, so you may want to check with your device first.</p>
 
 <comment>
 <cite date="2013-05-11" href="mailto:mdhillca@gmail.com">mdhill</cite>
@@ -57,8 +49,10 @@
 
   <steps>
     <item>
-      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-      your screen, then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
       <p>Click <gui>Bluetooth</gui>.</p>

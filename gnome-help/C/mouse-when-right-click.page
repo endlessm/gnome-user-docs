@@ -1,5 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="task" version="1.0 if/1.0"
       id="mouse-when-right-click">
 
@@ -22,7 +23,7 @@
 
   <p>When using your mouse, you have the ability to left click and to right
   click. These buttons are on the top part of your mouse. Left clicking allows
-  you select something, while right clicking bring up a menu with options for
+  you select something, while right clicking brings up a menu with options for
   actions.</p>
 
   <p>For example, if you right click on your desktop, you will see options to
@@ -39,8 +40,10 @@
 
     <steps>
       <item>
-        <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-        your screen, then click on <gui>Settings</gui>.</p>
+        <p>Click on the <media its:translate="no" type="image" mime="image/png"
+        src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+        left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+        <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
       </item>
       <item>
         <p>Click on the <gui>Universal Access</gui> panel.</p>

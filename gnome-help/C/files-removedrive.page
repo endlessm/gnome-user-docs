@@ -30,8 +30,8 @@
   should safely remove them before unplugging them. If you just unplug
   a device, you run the risk of unplugging while an application is still
   using it. This could result in some of your files being lost or damaged.
-  When you use an optical disc like a CD or DVD, you can use the same steps
-  to eject the disc from your computer.</p>
+  If you use an external disc drive to play a CD or DVD, you can use the same
+  steps to eject the disc from your computer.</p>
 
   <steps>
     <title>To eject a removable device:</title>

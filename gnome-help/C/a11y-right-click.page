@@ -40,18 +40,23 @@
 
   <steps>
     <item>
-      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-      your screen, then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
-      <p>Click on <gui>Universal Access</gui> to open the panel.</p>
+      <p>Click on <gui>Universal Access</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-a11y.png"/>
     </item>
     <item>
       <p>Press <gui>Click Assist</gui> in the <gui>Pointing and Clicking</gui>
       section.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-click-assist-setting.png"/>
     </item>
     <item>
       <p>Switch <gui>Simulated Secondary Click</gui> to <gui>On</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-click-simulate.png"/>
     </item>
   </steps>
 
@@ -72,11 +77,5 @@
   allows you to right-click by holding down the <key>5</key> key on your
   keypad.</p>
 
-  <note>
-    <p>In the <gui>Activities</gui> overview, you are always able to long-press
-    to right-click, even with this feature disabled. Long-press works slightly
-    differently in the overview: you do not have to release the button to
-    right-click.</p>
-  </note>
 
 </page>

@@ -62,12 +62,16 @@
     you want to delete the file or folder.</p></item>
   </steps>
 
+  <comment>
+  <cite date="2014-12-17">Matt Watson</cite>
+  <p>Needs new copy cutting for now</p>
   <note style="tip"><p>If you frequently need to delete files without using the
   trash (for example, if you often work with sensitive data), you can add a
   <gui>Delete</gui> entry to the right-click menu for files and folders.
-  Click <gui>Files</gui> in the top bar, pick <gui>Preferences</gui> and select
+  Click <gui>Files</gui> in the taskbar, pick <gui>Preferences</gui> and select
   the <gui>Behavior</gui> tab. Select <gui>Include a Delete command that
   bypasses Trash</gui>.</p></note>
+  </comment>
 
   <note><p>Deleted files on a <link xref="files-removedrive">removable device
   </link> may not be visible on other operating systems, such Windows or Mac

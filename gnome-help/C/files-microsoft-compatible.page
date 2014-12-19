@@ -1,5 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="task" version="1.0 if/1.0"
       id="files-microsoft-compatible">
 
@@ -20,20 +21,24 @@
 
   <title>Save in a Microsoft compatible format</title>
 
-  <p>Endless has included apps where you can write documents, create
-  spreadsheets, make presentations, and use much of the same functionality as
-  Microsoft products (like Word, Excel and Powerpoint) - and for free!</p>
-
-  <p>Not only are the apps on Endless similar, but they are also compatible with
-  Microsoft apps. This means that you can open Microsoft files that you receive,
-  and you can also save your files so that people who have Microsoft apps can
-  open up and use your files too.</p>
+  <p>The Writer, Spreadsheet and Presentation apps on Endless are similar to and
+  compatible with Microsoft apps. This means that you can open Microsoft files
+  that you receive, and can save your own files so that people who have
+  Microsoft apps can open and use them.</p>
 
   <steps>
     <title>To save your files in a Microsoft format:</title>
     <item>
-      <p>Click on the <gui>File</gui> menu of the Write, Spreadsheet or
-      Presentation apps, which is on the top left corner of the screen.</p>
+      <p>Open a Microsoft-compatible app: <media its:translate="no" type="image"
+      mime="image/png" src="figures/eos-icon-writer.png"><gui>Writer</gui></media>,
+      <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-spreadsheet.png"><gui>Spreadsheet</gui></media>, or
+      <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-presentation.png"><gui>Presentation</gui></media></p>
+    </item>
+    <item>
+      <p>Click on the <gui>File</gui> menu of the app, which is on the top left
+      corner of the screen.</p>
     </item>
     <item>
       <p>Click on the <gui>Save</gui> option.</p>

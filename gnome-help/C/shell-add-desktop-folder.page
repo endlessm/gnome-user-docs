@@ -1,5 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="task" version="1.0 if/1.0"
       id="shell-add-desktop-folder">
 
@@ -19,7 +20,7 @@
   </info>
 
   <title>Add folders to the desktop</title>
-  <p>You can add apps to your desktop to organize your apps.</p>
+  <p>You can add folders to your desktop to organize your apps.</p>
 
   <comment>{video 2}</comment>
 
@@ -27,7 +28,8 @@
     <title>To add a new folder:</title>
     <item>
       <p>Right-click on the desktop and select <gui>Add folder</gui>.
-      Alternatively, you can click on the <gui>More Apps</gui> button from the
+      Alternatively, you can click on <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-more-apps.png">the plus button</media> from the
       desktop and click on the <gui>Folders</gui> button on the left-hand
       menu.</p>
     </item>
@@ -40,8 +42,8 @@
     </item>
     <item>
       <p>You have added a new folder to the desktop. Great! Now click on the
-      <gui>X</gui> on the top-right of the window to go back to the
-      desktop.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-icon-app-store-close.png">X</media>
+      on the top-right of the window to go back to the desktop.</p>
     </item>
     <item>
       <p>Drag and drop the apps you want into your folder.</p>

@@ -1,5 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="task" version="1.0 if/1.0"
       id="shell-update-app">
 
@@ -21,15 +22,17 @@
   <title>Updating Apps</title>
 
   <p>Endless is constantly improving apps so that they get better, faster and
-  richer in content. We suggest that you update the apps you use the most:</p>
+  richer in content. We suggest that you update the apps you use most often:</p>
 
   <steps>
     <item>
-      <p>Click the <gui>More Apps</gui> button on your desktop.</p>
+      <p>Click once on <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-more-apps.png">the plus button</media> from the
+      desktop.</p>
     </item>
     <item>
       <p>On the left menu, click on the section <gui>Installed</gui>. All apps
-      that are installed on your Endless will be there.</p>
+      that are installed on your computer will be there.</p>
     </item>
     <item>
       <p>Click the thumbnail of the app you want to update.</p>
@@ -49,6 +52,6 @@
     <p>To update an app, you will need an internet connection.</p>
   </note>
   <note style = "tip">
-    <p>You can close the App store while the app is updating.</p>
+    <p>You can close the <app>App Store</app> while the app is updating.</p>
   </note>
 </page>

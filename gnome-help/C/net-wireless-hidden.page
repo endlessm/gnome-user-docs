@@ -30,12 +30,12 @@
 
 <p>Hidden networks don't show up in the list of wireless networks. Having a
 hidden network makes it harder for other people to find it, and so more likely
-to be secure. To connect to a hidden wireless network follow the steps:</p>
+to be secure. To connect to a hidden wireless network follow these steps:</p>
 
 <steps>
   <item>
     <p>Click the network icon on the task bar and select
-    <gui>NetworkSettings.</gui></p>
+    <gui>Network Settings.</gui></p>
   </item>
   <item>
     <p>Click the <gui>Connect to Hidden Network</gui> button.</p>

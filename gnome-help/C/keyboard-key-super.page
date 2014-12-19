@@ -20,7 +20,7 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>The <key>Super</key> key opens the <gui>Activities</gui> overview. You can usually find it next to the <key>Alt</key> key on your keyboard.</desc>
+    <desc>The <key>Super</key> key lets you see all of your open windows at the same time. You can usually find it next to the <key>Alt</key> key on your keyboard.</desc>
   </info>
 
   <title>Use the <key>Super</key> key</title>
@@ -29,6 +29,7 @@
   your open windows. This key can usually be found on the bottom-left of your
   keyboard, next to the <key>Alt</key> key, and usually has a Windows logo on
   it. It is sometimes called the <em>Windows key</em> or system key.</p>
+  <media its:translate="no" type="image" mime="image/png" src="figures/eos-keyboard-super.png"/>
 
   <note>
     <p>If you have an Apple keyboard, you will have a <key>⌘</key> (Command)
@@ -45,8 +46,10 @@
     <title>To change which key is used to display your open windows
     overview:</title>
     <item>
-      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-      your screen, then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
       <p>Click <gui>Keyboard</gui>.</p>

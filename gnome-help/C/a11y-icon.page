@@ -15,7 +15,7 @@
       <email its:translate="no">philbull@gmail.com</email>
     </credit>
 
-    <desc>The universal access menu is the icon on the top bar that looks like
+    <desc>The universal access menu is the icon on the taskbar that looks like
     a person.</desc>
   </info>
 
@@ -26,8 +26,8 @@
   looks like a person surrounded by a circle on the top bar.</p>
 
   <figure>
-    <desc>The universal access menu can be found on the top bar.</desc>
-    <media its:translate="no" type="image" mime="image/png" src="figures/universal-access-menu.png"/>
+    <desc>The universal access menu can be found on the taskbar.</desc>
+    <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-a11y-icon.png"/>
   </figure>
 
   <p>If you do not see the universal access menu, you can enable it from the
@@ -35,8 +35,10 @@
 
   <steps>
     <item>
-      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-      your screen, then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
       <p>Click <gui>Universal Access</gui>.</p>
@@ -44,16 +46,8 @@
     <item>
       <p>Switch <gui>Always Show Universal Access Menu</gui> to
       <gui>On</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-a11y-icon.png"/>
     </item>
   </steps>
-
-  <p>To access this menu using the keyboard rather than the mouse, press
-  <keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq> to move the
-  keyboard focus to the top bar. A white line will appear underneath the
-  <gui>Activities</gui> button - this tells you which item on the top bar is
-  selected. Use the arrow keys on the keyboard to move the white line under the
-  universal access menu icon and then press <key>Enter</key> to open it. You
-  can use the up and down arrow keys to select items in the menu. Press
-  <key>Enter</key> to toggle the selected item.</p>
 
 </page>

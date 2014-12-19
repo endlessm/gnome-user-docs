@@ -1,5 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="task" version="1.0 if/1.0"
       id="shell-update-system">
 
@@ -42,16 +43,19 @@
     steps:</p>
     <steps>
       <item>
-        <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-        your screen, then click on <gui>Settings</gui>.</p>
+        <p>Click on the <media its:translate="no" type="image" mime="image/png"
+        src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+        left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+        <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
       </item>
       <item>
-          <p>Click on <gui>Settings</gui> and then click on the
-          <gui>Details</gui> button.</p>
+          <p>Click on <gui>Details</gui>.</p>
+          <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-details.png"/>
       </item>
       <item>
-          <p>Click on the <gui>Search for Updates</gui> button. If there are
+          <p>Click on the <gui>Search for updates now</gui> button. If there are
           updates, you can choose to download and install them.</p>
+          <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-update-notification.png"/>
       </item>
     </steps>
 

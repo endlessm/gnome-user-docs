@@ -43,17 +43,15 @@
   <p>To minimize distraction, some notifications first appear as a single line.
   You can move your mouse over them to see their full content.</p>
 
-  <media type="image" width="700" src="figures/shell-notification.png"/>
-
   <p>Other notifications have selectable option buttons. To close one of these
   notifications without selecting one of its options, click the close
   button.</p>
 
-  <media type="image" width="500" src="figures/notification-buttons.png"/>
 
   <p>Clicking the close button on some notifications dismisses them. Others,
-  like Rhythmbox or your chat application, will stay hidden in the message 
-  tray.</p>
+  like your chat application, will stay hidden in the message tray.</p>
+
+  <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-notification.png"/>
 
 </section>
 
@@ -100,11 +98,14 @@
 
   <steps>
     <item>
-      <p>Click on the <gui>User Menu</gui> on the bottom left-hand corner of
-      your screen, then click on <gui>Settings</gui>.</p>
+      <p>Click on the <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
+      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
     </item>
     <item>
-      <p>Click <gui>Notifications</gui>.</p>
+      <p>Click on <gui>Notifications</gui>.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-notifications.png"/>
     </item>
     <item>
       <p>Switch <gui>Show Pop Up Banners</gui> to <gui>Off</gui>.</p>
