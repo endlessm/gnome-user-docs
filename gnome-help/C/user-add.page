@@ -29,6 +29,7 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
+    <title type="link" role="index">How do I add more user accounts?</title>
     <desc>Add new users so that other people can log in to the computer.</desc>
   </info>
 

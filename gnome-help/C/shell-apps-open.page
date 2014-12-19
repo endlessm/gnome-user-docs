@@ -27,6 +27,7 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
+    <title type="link" role="index">How do I add new apps?</title>
     <desc>Install free apps, folders, and website shortcuts onto your desktop.</desc>
   </info>
 
