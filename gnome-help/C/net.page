@@ -15,15 +15,18 @@
 
   <title>Internet</title>
 
-  <section id="connecting" style="2column">
-   <title>Wi-Fi, Internet &amp; Bluetooth</title>
+  <section id="connecting">
+    <title>Wi-Fi, Internet &amp; Bluetooth</title>
+    <links type="topic" style="2column" role="net"/>
   </section>
 
-  <section id="browser" style="2column">
-   <title>Browser &amp; Discovery Center</title>
+  <section id="browser">
+    <title>Browser &amp; Discovery Center</title>
+    <links type="topic" style="2column" role="net"/>
   </section>
 
-  <section id="social" style="2column">
-   <title>Facebook &amp; Online Accounts</title>
+  <section id="social">
+    <title>Facebook &amp; Online Accounts</title>
+    <links type="topic" style="2column" role="net"/>
   </section>
 </page>

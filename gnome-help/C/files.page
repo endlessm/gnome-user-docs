@@ -19,11 +19,13 @@
 
   <title>Documents &amp; Files</title>
 
-  <section id="share" style="2column">
+  <section id="share">
    <title>Share your Files</title>
+    <links type="topic" style="2column" role="files"/>
   </section>
 
-  <section id="media" style="2column">
+  <section id="media">
    <title>Media</title>
+    <links type="topic" style="2column" role="files"/>
   </section>
 </page>
