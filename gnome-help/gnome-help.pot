@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-12-18 17:27-0800\n"
+"POT-Creation-Date: 2014-12-22 14:03-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -74,7 +74,7 @@ msgstr ""
 #: C/shell-windows-states.page:14
 #: C/sound-alert.page:13
 #: C/sound-volume.page:14
-#: C/user-add.page:17
+#: C/user-add.page:18
 #: C/user-changepicture.page:17
 #: C/user-delete.page:21
 msgid "Shaun McCance"
@@ -120,7 +120,7 @@ msgstr ""
 #: C/a11y-stickykeys.page:23
 #: C/a11y-visualalert.page:19
 #: C/a11y.page:14
-#: C/accounts-add.page:18
+#: C/accounts-add.page:17
 #: C/backup-how.page:20
 #: C/backup-what.page:20
 #: C/bluetooth-connect-device.page:28
@@ -164,7 +164,7 @@ msgstr ""
 #: C/shell-keyboard-shortcuts.page:18
 #: C/shell-notifications.page:18
 #: C/sound-alert.page:17
-#: C/user-add.page:21
+#: C/user-add.page:22
 #: C/user-changepassword.page:17
 #: C/user-delete.page:25
 #: C/user-goodpassword.page:24
@@ -198,7 +198,7 @@ msgstr ""
 #: C/shell-keyboard-shortcuts.page:22
 #: C/shell-notifications.page:22
 #: C/sound-alert.page:21
-#: C/user-add.page:25
+#: C/user-add.page:26
 #: C/user-admin-change.page:17
 #: C/user-admin-explain.page:17
 #: C/user-admin-problems.page:17
@@ -235,7 +235,7 @@ msgstr ""
 #: C/a11y-slowkeys.page:45
 #: C/a11y-stickykeys.page:49
 #: C/a11y-visualalert.page:44
-#: C/accounts-add.page:33
+#: C/accounts-add.page:32
 #: C/bluetooth-connect-device.page:47
 #: C/bluetooth-remove-connection.page:45
 #: C/bluetooth-send-file.page:52
@@ -256,14 +256,14 @@ msgstr ""
 #: C/printing-cancel-job.page:43
 #: C/printing-cancel-job.page:86
 #: C/printing-setup-default-printer.page:42
-#: C/printing-setup.page:79
+#: C/printing-setup.page:80
 #: C/privacy-screen-lock.page:47
 #: C/session-language.page:41
 #: C/sharing-bluetooth.page:90
 #: C/shell-notifications.page:101
 #: C/shell-update-system.page:46
 #: C/sound-alert.page:39
-#: C/user-add.page:74
+#: C/user-add.page:76
 #: C/user-admin-change.page:38
 #: C/user-autologin.page:29
 #: C/user-changepassword.page:65
@@ -761,27 +761,27 @@ msgid "Visual Impairments"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/a11y.page:37
+#: C/a11y.page:38
 msgid "Low Vision"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/a11y.page:41
+#: C/a11y.page:43
 msgid "Hearing Impairments"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/a11y.page:45
+#: C/a11y.page:48
 msgid "Mobility Impairments"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/a11y.page:49
+#: C/a11y.page:53
 msgid "See Also"
 msgstr ""
 
 #. (itstool) path: credit/name
-#: C/accounts-add.page:14
+#: C/accounts-add.page:13
 #: C/bluetooth-connect-device.page:16
 #: C/bluetooth-remove-connection.page:16
 #: C/bluetooth-send-file.page:16
@@ -801,62 +801,62 @@ msgid "Jim Campbell"
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/accounts-add.page:22
+#: C/accounts-add.page:21
 msgid "Connect an online account to make your experience on Endless even more seamless."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/accounts-add.page:25
+#: C/accounts-add.page:24
 msgid "Add an online account"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/accounts-add.page:27
+#: C/accounts-add.page:26
 msgid "Adding an account will help link your online accounts with your Endless desktop. Thus, your email app, chat app and other related applications will be set up for you."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:39
+#: C/accounts-add.page:38
 msgid "Click on <gui>Online Accounts</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:43
+#: C/accounts-add.page:42
 msgid "Click the <gui>Add an online account</gui> button."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:47
+#: C/accounts-add.page:46
 msgid "Select the type of account which you want to add."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:48
+#: C/accounts-add.page:47
 msgid "If you want to add more than one account type, you can do so at a later time."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:53
+#: C/accounts-add.page:52
 msgid "A small window will open where you can enter your online account credentials. For example, if you are setting up a Google account, enter your Google username and password."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:58
+#: C/accounts-add.page:57
 msgid "If you have entered your credentials correctly, you will be prompted to allow Endless access to your online account. Authorize access to continue."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:63
+#: C/accounts-add.page:62
 msgid "Select the applications that you want linked to your online account. For example, if you want to use an online account for chat, but do not want to use an online account for your calendar, turn the <gui>Calendar</gui> option to <gui>Off</gui>."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/accounts-add.page:71
+#: C/accounts-add.page:70
 msgid "After you have added the accounts, each application that you have selected will automatically use those credentials when you start them."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/accounts-add.page:75
+#: C/accounts-add.page:74
 msgid "For security reasons, Endless will not store your password on your computer. Instead, it stores a token that is provided by the online service."
 msgstr ""
 
@@ -890,7 +890,7 @@ msgstr ""
 #: C/shell-apps-open.page:13
 #: C/shell-overview.page:11
 #: C/shell-windows-switching.page:13
-#: C/user-add.page:13
+#: C/user-add.page:14
 #: C/user-admin-change.page:13
 #: C/user-admin-explain.page:13
 #: C/user-admin-problems.page:13
@@ -1884,7 +1884,12 @@ msgid "Because you cannot undo this, you will be asked to confirm that you want 
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/files-delete.page:76
+#: C/files-delete.page:65
+msgid "If you frequently need to delete files without using the trash (for example, if you often work with sensitive data), you can add a <gui>Delete</gui> entry to the right-click menu for files and folders. First, click on the <app>Documents</app> icon from the desktop. Click on the icon that looks like a circle on the top right-hand corner of the window, click on <gui>Preferences</gui> and select the <gui>Behavior</gui> tab. Select <gui>Include a Delete command that bypasses Trash</gui>."
+msgstr ""
+
+#. (itstool) path: note/p
+#: C/files-delete.page:73
 msgid "Deleted files on a <link xref=\"files-removedrive\">removable device </link> may not be visible on other operating systems, such Windows or Mac OS. The files are still there, and will be available when you plug the device back into your computer."
 msgstr ""
 
@@ -2716,7 +2721,7 @@ msgid "Share your Files"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/files.page:27
+#: C/files.page:28
 msgid "Media"
 msgstr ""
 
@@ -2742,17 +2747,17 @@ msgid "Displays"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/hardware.page:23
+#: C/hardware.page:24
 msgid "Sound"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/hardware.page:27
+#: C/hardware.page:29
 msgid "Printers"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/hardware.page:31
+#: C/hardware.page:34
 msgid "Keyboard &amp; Mouse"
 msgstr ""
 
@@ -2761,7 +2766,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.page:21
+#: C/index.page:23
 msgctxt "_"
 msgid "external ref='figures/index-video-thumbnail-01.jpg' md5='85d08a6ad3a67696958656330deb92ac'"
 msgstr ""
@@ -2771,7 +2776,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.page:22
+#: C/index.page:24
 msgctxt "_"
 msgid "external ref='figures/index-video-thumbnail-02.jpg' md5='7523618f51c0199521a2e1a264a50276'"
 msgstr ""
@@ -2781,7 +2786,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.page:23
+#: C/index.page:25
 msgctxt "_"
 msgid "external ref='figures/index-video-thumbnail-03.jpg' md5='cbc6b376116c631b6300122d24d208be'"
 msgstr ""
@@ -2803,32 +2808,32 @@ msgid "Getting Started"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/index.page:18
+#: C/index.page:20
 msgid "Videos"
 msgstr ""
 
 #. (itstool) path: td/p
-#: C/index.page:24
+#: C/index.page:26
 msgid "<link xref=\"endless-videos\">More…</link>"
 msgstr ""
 
 #. (itstool) path: td/p
-#: C/index.page:27
+#: C/index.page:29
 msgid "<link xref=\"endless-01-desktop\">Introduction to the desktop</link>"
 msgstr ""
 
 #. (itstool) path: td/p
-#: C/index.page:28
+#: C/index.page:30
 msgid "<link xref=\"endless-02-folders\">Adding folders to the desktop</link>"
 msgstr ""
 
 #. (itstool) path: td/p
-#: C/index.page:29
+#: C/index.page:31
 msgid "<link xref=\"endless-03-programs\">Installing programs</link>"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/index.page:35
+#: C/index.page:37
 msgid "<link href=\"endlessm-app://com.endlessm.Tutorial\">Tutorial</link>"
 msgstr ""
 
@@ -5118,12 +5123,12 @@ msgid "Wi-Fi, Internet &amp; Bluetooth"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/net.page:23
+#: C/net.page:24
 msgid "Browser &amp; Discovery Center"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/net.page:27
+#: C/net.page:29
 msgid "Facebook &amp; Online Accounts"
 msgstr ""
 
@@ -5209,7 +5214,7 @@ msgstr ""
 #: C/printing-cancel-job.page:49
 #: C/printing-cancel-job.page:92
 #: C/printing-setup-default-printer.page:48
-#: C/printing-setup.page:85
+#: C/printing-setup.page:86
 msgid "Click <gui>Printers</gui>."
 msgstr ""
 
@@ -5484,63 +5489,69 @@ msgstr ""
 msgid "When you print in an application, the default printer is automatically used, unless you choose a different printer for that specific output."
 msgstr ""
 
-#. (itstool) path: info/desc
+#. (itstool) path: info/title
 #: C/printing-setup.page:38
+msgctxt "link:index"
+msgid "How do I set up my printer?"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/printing-setup.page:39
 msgid "Set up a printer that is connected to your computer."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/printing-setup.page:41
+#: C/printing-setup.page:42
 msgid "Set up a local printer"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/printing-setup.page:43
+#: C/printing-setup.page:44
 msgid "Your system can recognize some types of printers automatically once they are connected. Most printers can be connected with a USB cable that attaches to your computer."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/printing-setup.page:48
+#: C/printing-setup.page:49
 msgid "You do not need to select whether you want to install a network or local printer now. They are listed in one window."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:59
+#: C/printing-setup.page:60
 msgid "Make sure the printer is turned on."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:62
+#: C/printing-setup.page:63
 msgid "Connect the printer to your system via the appropriate cable. You may see activity on the screen as the system searches for drivers, and you may be asked to authenticate to install them."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:67
+#: C/printing-setup.page:68
 msgid "A message will appear when the system is finished installing the printer. Select <gui>Print Test Page</gui> to print a test page, or <gui>Options</gui> to make additional changes in the printer setup."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/printing-setup.page:73
+#: C/printing-setup.page:74
 msgid "If your printer was not set up automatically, you can add it in the printer settings."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/printing-setup.page:77
+#: C/printing-setup.page:78
 msgid "Set up your printer manually:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:89
+#: C/printing-setup.page:90
 msgid "Click the <key>Unlock</key> button in the top-right corner and enter your password."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:93
+#: C/printing-setup.page:94
 msgid "Click the <key>+</key> button."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:96
+#: C/printing-setup.page:97
 msgid "In the pop-up window, select your new printer. Click <gui>Add</gui>."
 msgstr ""
 
@@ -6032,17 +6043,17 @@ msgid "User Accounts"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/security-and-privacy.page:26
+#: C/security-and-privacy.page:27
 msgid "Multiple User Accounts"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/security-and-privacy.page:30
+#: C/security-and-privacy.page:32
 msgid "Backup your Computer"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/security-and-privacy.page:34
+#: C/security-and-privacy.page:37
 msgid "Protect your Computer"
 msgstr ""
 
@@ -6432,84 +6443,90 @@ msgstr ""
 msgid "If you cannot see an <gui>X</gui> button, you can exit thes app by pressing the <key>Esc</key> key on your keyboard, which is usually on the left-hand corner of your keyboard. The window should close completely or become smaller so that you can see the top bar of the window and the Endless taskbar at the bottom. If the window becomes smaller, you can then click the <gui>X</gui> to quit."
 msgstr ""
 
-#. (itstool) path: info/desc
+#. (itstool) path: info/title
 #: C/shell-apps-open.page:30
+msgctxt "link:index"
+msgid "How do I add new apps?"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/shell-apps-open.page:31
 msgid "Install free apps, folders, and website shortcuts onto your desktop."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/shell-apps-open.page:33
+#: C/shell-apps-open.page:34
 msgid "Add apps and website shortcuts"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-apps-open.page:35
+#: C/shell-apps-open.page:36
 msgid "The pre-installed apps on your desktop are just a few of the many apps available to you. Easily add more apps and websites shortcuts directly to your desktop."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-apps-open.page:41
+#: C/shell-apps-open.page:42
 msgid "Adding More Apps"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:44
+#: C/shell-apps-open.page:45
 #: C/shell-update-app.page:29
 msgid "Click once on <_:media-1/> from the desktop."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:50
+#: C/shell-apps-open.page:51
 msgid "Browse by category and read each app's short description until you find one that you want to add to your desktop. All of the apps you see are free."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:56
+#: C/shell-apps-open.page:57
 msgid "Some apps are already downloaded to your computer and you can add them to your desktop by clicking <gui>Add to desktop</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:61
+#: C/shell-apps-open.page:62
 msgid "Other apps need to be installed and require an internet connection. Click <gui>Install app</gui> to download and install these apps."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:66
+#: C/shell-apps-open.page:67
 msgid "When the app has been successfully added to your desktop, the green button will change to <gui>Open app</gui> and you can start using the app immediately!"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:69
+#: C/shell-apps-open.page:70
 msgid "The app's icon will be installed on your desktop, to the left of the <_:media-1/> button. You can then move it wherever makes sense to you so you can find it easily."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-apps-open.page:78
+#: C/shell-apps-open.page:79
 msgid "Installing Website Shortcuts"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:81
+#: C/shell-apps-open.page:82
 msgid "Click once on the <_:media-1/> from the desktop."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:86
+#: C/shell-apps-open.page:87
 msgid "Click on the <gui>Websites</gui> category on the left hand side."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:90
+#: C/shell-apps-open.page:91
 msgid "Browse the website links that we have as suggestions by category. If you see one that you like, just scroll over it and click on the green <_:media-1/> button that will appear. This will add it directly to your desktop, to the left of the <_:media-2/> button."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:99
+#: C/shell-apps-open.page:100
 msgid "Add your own website links to pages that we don't already have by typing the website into the bar at the top and hitting the <input>Enter</input> key to search."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:104
+#: C/shell-apps-open.page:105
 msgid "Click on the <_:media-1/> button, and your link will be installed to the desktop. Add another website, or else close the App Store to find your new website shortcut. It will be directly to the left of the <_:media-2/> button."
 msgstr ""
 
@@ -6770,7 +6787,7 @@ msgstr ""
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:58
-msgid "The <app>App Store</app> is divided into three sections: <gui>Apps</gui>, <gui>Websites</gui>, and <gui>Folders</gui>. You can browse applications you may want to install by category, add shortcuts to your favorite websites onto your desktop, or simply create new folders to organize all of your things in a way that makes sense to you."
+msgid "From the <app>App Store</app> you can add: <gui>Apps</gui>, <gui>Websites</gui>, and <gui>Folders</gui>. You can browse applications you may want to install by category, add shortcuts to your favorite websites onto your desktop, or simply create new folders to organize all of your things in a way that makes sense to you."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -7194,27 +7211,27 @@ msgid "Apps"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-overview.page:25
+#: C/shell-overview.page:26
 msgid "Searching on Endless"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-overview.page:29
+#: C/shell-overview.page:31
 msgid "Window Management"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-overview.page:33
+#: C/shell-overview.page:36
 msgid "Customize Endless"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-overview.page:37
+#: C/shell-overview.page:41
 msgid "Time and Date"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-overview.page:41
+#: C/shell-overview.page:46
 msgid "Restart, Shut Down &amp; Lock"
 msgstr ""
 
@@ -7548,33 +7565,39 @@ msgstr ""
 msgid "Only applications that are playing sounds will be listed. If an application is playing sounds but isn't listed, it might not support the feature that lets you control its volume in this way. In that case, you can't change its volume."
 msgstr ""
 
+#. (itstool) path: info/title
+#: C/user-add.page:32
+msgctxt "link:index"
+msgid "How do I add more user accounts?"
+msgstr ""
+
 #. (itstool) path: info/desc
-#: C/user-add.page:31
+#: C/user-add.page:33
 msgid "Add new users so that other people can log in to the computer."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/user-add.page:34
+#: C/user-add.page:36
 msgid "Add a new user account"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/user-add.page:59
+#: C/user-add.page:61
 msgid "You can create multiple user accounts on your computer and give a user account to everyone who uses your computer. That way, you can make sure that your files remain private and every user will have their own home folder, documents, and custom settings."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/user-add.page:64
+#: C/user-add.page:66
 msgid "You will need <link xref=\"user-admin-explain\">administrator privileges</link> to add user accounts. The administrator is usually the person who first set up their account when the computer was first purchased and set up, although others may also have been given administrator privileges by that first user."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/user-add.page:71
+#: C/user-add.page:73
 msgid "If you are the administrator, follow these steps to create more user accounts:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-add.page:80
+#: C/user-add.page:82
 #: C/user-admin-change.page:44
 #: C/user-autologin.page:35
 #: C/user-changepassword.page:71
@@ -7584,55 +7607,55 @@ msgid "Click on <gui>Users</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-add.page:84
+#: C/user-add.page:86
 #: C/user-admin-change.page:48
 #: C/user-delete.page:59
 msgid "Press <gui style=\"button\">Unlock</gui> in the top right corner and type in your password when prompted."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-add.page:88
+#: C/user-add.page:90
 msgid "Press the <gui style=\"button\">+</gui> button, below the list of accounts on the left, to add a new user account."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-add.page:93
+#: C/user-add.page:95
 msgid "If you want the new user to have <link xref=\"user-admin-explain\">administrative access</link> to the computer, select <gui>Administrator</gui> for the account type. Administrators can do things like add and delete users, install software and drivers, and change the date and time."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-add.page:100
+#: C/user-add.page:102
 msgid "Enter the new user's full name. The username will be filled in automatically based on the full name. If you do not like the proposed username, you can change it."
 msgstr ""
 
 #. (itstool) path: media/span
-#: C/user-add.page:107
+#: C/user-add.page:109
 #: C/user-changepassword.page:83
 msgid "generate password"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-add.page:105
+#: C/user-add.page:107
 msgid "You can chose to set a password for the new user, or let them set it themselves on their first login. You can press on the <gui style=\"button\"><_:media-1/></gui> icon to automatically generate a random password."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-add.page:112
+#: C/user-add.page:114
 msgid "Click <gui>Add</gui>."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/user-add.page:116
+#: C/user-add.page:118
 msgid "If you want to change the password after creating the account, select the account, <gui style=\"button\">Unlock</gui> the panel and press on the current password status."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/user-add.page:121
+#: C/user-add.page:123
 msgid "In the <gui>Users</gui> panel, you can click the image next to the user's name to the right to set an image for the account. This image will be shown in the login window. Endless provides some stock photos you can use, or you can select your own or take a picture with your webcam."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/user-add.page:128
+#: C/user-add.page:130
 msgid "You may want to create a \"Guest\" account so that friends or others who visit you can use it and you can rest assured that they will not mess up any of your preferernces, or delete files."
 msgstr ""
 
