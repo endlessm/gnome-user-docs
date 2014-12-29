@@ -20,9 +20,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2014-12-22 14:03-0800\n"
-"PO-Revision-Date: 2014-12-22 22:33+0000\n"
-"Last-Translator: c.sanchez <cassandra@endlessm.com>\n"
+"POT-Creation-Date: 2014-12-28 19:26-0800\n"
+"PO-Revision-Date: 2014-12-29 03:44+0000\n"
+"Last-Translator: mattdangerw <watson@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/gnome-user-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -5924,8 +5924,8 @@ msgstr "Usar el <em>Modo avión</em> desactivará completamente tanto la conexi�
 msgctxt "_"
 msgid ""
 "external ref='figures/network-offline-symbolic.svg' "
-"md5='2cf6b695f4b6ef304cc1718565764106'"
-msgstr "external ref='figures/network-offline-symbolic.svg' md5='2cf6b695f4b6ef304cc1718565764106'"
+"md5='2fc0a88bd36d65404c3ad064ad2117db'"
+msgstr "external ref='figures/network-offline-symbolic.svg' md5='2fc0a88bd36d65404c3ad064ad2117db'"
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -5936,8 +5936,8 @@ msgstr "external ref='figures/network-offline-symbolic.svg' md5='2cf6b695f4b6ef3
 msgctxt "_"
 msgid ""
 "external ref='figures/network-wireless-acquiring-symbolic.svg' "
-"md5='07b39a7f56e98505d90268553e963637'"
-msgstr "external ref='figures/network-wireless-acquiring-symbolic.svg' md5='07b39a7f56e98505d90268553e963637'"
+"md5='281a8da467ccc370e3605b32803d7186'"
+msgstr "external ref='figures/network-wireless-acquiring-symbolic.svg' md5='281a8da467ccc370e3605b32803d7186'"
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -5948,8 +5948,8 @@ msgstr "external ref='figures/network-wireless-acquiring-symbolic.svg' md5='07b3
 msgctxt "_"
 msgid ""
 "external ref='figures/network-wireless-signal-excellent-symbolic.svg' "
-"md5='f1f5e453088fe2863b92129915eb4e73'"
-msgstr "external ref='figures/network-wireless-signal-excellent-symbolic.svg' md5='f1f5e453088fe2863b92129915eb4e73'"
+"md5='281e0475074b621ebad6f64e5efc56d2'"
+msgstr "external ref='figures/network-wireless-signal-excellent-symbolic.svg' md5='281e0475074b621ebad6f64e5efc56d2'"
 
 #. (itstool) path: info/desc
 #: C/net-wireless-connect.page:21

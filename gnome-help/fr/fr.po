@@ -9,8 +9,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2014-12-22 14:03-0800\n"
-"PO-Revision-Date: 2014-12-22 22:12+0000\n"
+"POT-Creation-Date: 2014-12-28 19:26-0800\n"
+"PO-Revision-Date: 2014-12-29 03:43+0000\n"
 "Last-Translator: mattdangerw <watson@endlessm.com>\n"
 "Language-Team: French (http://www.transifex.com/projects/p/gnome-user-docs/language/fr/)\n"
 "MIME-Version: 1.0\n"
@@ -5913,7 +5913,7 @@ msgstr "L'utilisation du <gui>Mode avion</gui> désactive totalement les connexi
 msgctxt "_"
 msgid ""
 "external ref='figures/network-offline-symbolic.svg' "
-"md5='2cf6b695f4b6ef304cc1718565764106'"
+"md5='2fc0a88bd36d65404c3ad064ad2117db'"
 msgstr ""
 
 #. (itstool) path: media
@@ -5925,7 +5925,7 @@ msgstr ""
 msgctxt "_"
 msgid ""
 "external ref='figures/network-wireless-acquiring-symbolic.svg' "
-"md5='07b39a7f56e98505d90268553e963637'"
+"md5='281a8da467ccc370e3605b32803d7186'"
 msgstr ""
 
 #. (itstool) path: media
@@ -5937,7 +5937,7 @@ msgstr ""
 msgctxt "_"
 msgid ""
 "external ref='figures/network-wireless-signal-excellent-symbolic.svg' "
-"md5='f1f5e453088fe2863b92129915eb4e73'"
+"md5='281e0475074b621ebad6f64e5efc56d2'"
 msgstr ""
 
 #. (itstool) path: info/desc
