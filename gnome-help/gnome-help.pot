@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-12-22 14:03-0800\n"
+"POT-Creation-Date: 2014-12-28 19:26-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4769,7 +4769,7 @@ msgstr ""
 #. whatever you like once you have updated your copy of the file.
 #: C/net-wireless-connect.page:34
 msgctxt "_"
-msgid "external ref='figures/network-offline-symbolic.svg' md5='2cf6b695f4b6ef304cc1718565764106'"
+msgid "external ref='figures/network-offline-symbolic.svg' md5='2fc0a88bd36d65404c3ad064ad2117db'"
 msgstr ""
 
 #. (itstool) path: media
@@ -4779,7 +4779,7 @@ msgstr ""
 #. whatever you like once you have updated your copy of the file.
 #: C/net-wireless-connect.page:64
 msgctxt "_"
-msgid "external ref='figures/network-wireless-acquiring-symbolic.svg' md5='07b39a7f56e98505d90268553e963637'"
+msgid "external ref='figures/network-wireless-acquiring-symbolic.svg' md5='281a8da467ccc370e3605b32803d7186'"
 msgstr ""
 
 #. (itstool) path: media
@@ -4789,7 +4789,7 @@ msgstr ""
 #. whatever you like once you have updated your copy of the file.
 #: C/net-wireless-connect.page:69
 msgctxt "_"
-msgid "external ref='figures/network-wireless-signal-excellent-symbolic.svg' md5='f1f5e453088fe2863b92129915eb4e73'"
+msgid "external ref='figures/network-wireless-signal-excellent-symbolic.svg' md5='281e0475074b621ebad6f64e5efc56d2'"
 msgstr ""
 
 #. (itstool) path: info/desc
