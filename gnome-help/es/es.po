@@ -12,15 +12,17 @@
 # Joaquín Ignacio Aramendía <samsagax@gmail.com>, 2011
 # Joel Gil Leon <joel@endlessm.com>, 2014
 # Jorge González <jorgegonz@svn.gnome.org>, 2011
+# mattdangerw <watson@endlessm.com>, 2014
 # Milagros Alessandra Infante Montero <maim92@gmail.com>, 2012
 # Nuritzi Sanchez <ns@endlessm.com>, 2014
 # Roddy Shuler <roddy@endlessm.com>, 2014
+# mattdangerw <watson@endlessm.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2014-12-18 12:01-0800\n"
-"PO-Revision-Date: 2014-12-22 22:02+0000\n"
-"Last-Translator: Joel Gil Leon <joel@endlessm.com>\n"
+"POT-Creation-Date: 2014-12-22 14:03-0800\n"
+"PO-Revision-Date: 2014-12-22 22:33+0000\n"
+"Last-Translator: c.sanchez <cassandra@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/gnome-user-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -59,12 +61,12 @@ msgstr "Daniel Mustieles <daniel.mustieles@gmail.com>, 2011 - 2014\nNicolás Sat
 #: C/mouse-doubleclick.page:21 C/mouse-mousekeys.page:18
 #: C/mouse-sensitivity.page:22 C/nautilus-file-properties-basic.page:18
 #: C/nautilus-file-properties-permissions.page:17 C/net-wireless-adhoc.page:16
-#: C/net.page:7 C/printing-setup.page:24 C/privacy-screen-lock.page:15
+#: C/net.page:7 C/printing-setup.page:25 C/privacy-screen-lock.page:15
 #: C/screen-shot-record.page:18 C/session-language.page:19
 #: C/shell-exit.page:14 C/shell-introduction.page:14
 #: C/shell-keyboard-shortcuts.page:13 C/shell-windows-maximize.page:14
 #: C/shell-windows-states.page:14 C/sound-alert.page:13 C/sound-volume.page:14
-#: C/user-add.page:17 C/user-changepicture.page:17 C/user-delete.page:21
+#: C/user-add.page:18 C/user-changepicture.page:17 C/user-delete.page:21
 msgid "Shaun McCance"
 msgstr "Shaun McCance"
 
@@ -78,7 +80,7 @@ msgstr "Shaun McCance"
 #: C/net-wireless-adhoc.page:12 C/net-wireless-disconnecting.page:18
 #: C/net-wireless-noconnection.page:13 C/printing-2sided.page:13
 #: C/printing-cancel-job.page:12 C/printing-differentsize.page:13
-#: C/printing-order.page:13 C/printing-select.page:14 C/printing-setup.page:12
+#: C/printing-order.page:13 C/printing-select.page:14 C/printing-setup.page:13
 #: C/sound-volume.page:9 C/user-goodpassword.page:16
 msgid "Phil Bull"
 msgstr "Phil Bull"
@@ -102,12 +104,12 @@ msgstr "Phil Bull"
 #: C/mouse-sensitivity.page:26 C/nautilus-file-properties-permissions.page:21
 #: C/net-manual.page:16 C/net-wireless-adhoc.page:20
 #: C/net-wireless-connect.page:17 C/net-wireless-hidden.page:17
-#: C/printing-setup.page:28 C/privacy-screen-lock.page:19
+#: C/printing-setup.page:29 C/privacy-screen-lock.page:19
 #: C/screen-shot-record.page:23 C/session-language.page:27
 #: C/sharing-bluetooth.page:12 C/sharing-media.page:11
-#: C/shell-apps-open.page:16 C/shell-introduction.page:18
+#: C/shell-apps-open.page:17 C/shell-introduction.page:18
 #: C/shell-keyboard-shortcuts.page:18 C/shell-notifications.page:18
-#: C/sound-alert.page:17 C/user-add.page:21 C/user-changepassword.page:17
+#: C/sound-alert.page:17 C/user-add.page:22 C/user-changepassword.page:17
 #: C/user-delete.page:25 C/user-goodpassword.page:24
 msgid "Michael Hill"
 msgstr "Michael Hill"
@@ -123,7 +125,7 @@ msgstr "Michael Hill"
 #: C/mouse-mousekeys.page:26 C/net-wireless-hidden.page:21
 #: C/printing-to-file.page:11 C/shell-exit.page:26
 #: C/shell-introduction.page:22 C/shell-keyboard-shortcuts.page:22
-#: C/shell-notifications.page:22 C/sound-alert.page:21 C/user-add.page:25
+#: C/shell-notifications.page:22 C/sound-alert.page:21 C/user-add.page:26
 #: C/user-admin-change.page:17 C/user-admin-explain.page:17
 #: C/user-admin-problems.page:17 C/user-autologin.page:12
 #: C/user-changepassword.page:21 C/user-changepicture.page:21
@@ -165,10 +167,10 @@ msgstr "Activa el <em>rechazo de teclas repetidas</em> para ignorar las pulsacio
 #: C/mouse-sensitivity.page:42 C/mouse-when-right-click.page:43
 #: C/net-manual.page:36 C/printing-cancel-job.page:43
 #: C/printing-cancel-job.page:86 C/printing-setup-default-printer.page:42
-#: C/printing-setup.page:78 C/privacy-screen-lock.page:47
+#: C/printing-setup.page:80 C/privacy-screen-lock.page:47
 #: C/session-language.page:41 C/sharing-bluetooth.page:90
 #: C/shell-notifications.page:101 C/shell-update-system.page:46
-#: C/sound-alert.page:39 C/user-add.page:74 C/user-admin-change.page:38
+#: C/sound-alert.page:39 C/user-add.page:76 C/user-admin-change.page:38
 #: C/user-autologin.page:29 C/user-changepassword.page:65
 #: C/user-changepicture.page:42 C/user-delete.page:49
 msgid ""
@@ -831,22 +833,22 @@ msgid "Visual Impairments"
 msgstr "Impedimentos visuales"
 
 #. (itstool) path: section/title
-#: C/a11y.page:37
+#: C/a11y.page:38
 msgid "Low Vision"
 msgstr "Poca visión"
 
 #. (itstool) path: section/title
-#: C/a11y.page:41
+#: C/a11y.page:43
 msgid "Hearing Impairments"
 msgstr "Deficiencias auditivas"
 
 #. (itstool) path: section/title
-#: C/a11y.page:45
+#: C/a11y.page:48
 msgid "Mobility Impairments"
 msgstr "Problemas de movilidad"
 
 #. (itstool) path: section/title
-#: C/a11y.page:49
+#: C/a11y.page:53
 msgid "See Also"
 msgstr "Ve también"
 
@@ -858,7 +860,7 @@ msgstr "Ve también"
 #: C/net-wireless-disconnecting.page:13 C/printing-2sided.page:17
 #: C/printing-cancel-job.page:16 C/printing-differentsize.page:17
 #: C/printing-order.page:17 C/printing-setup-default-printer.page:12
-#: C/printing-setup.page:16 C/privacy-screen-lock.page:23
+#: C/printing-setup.page:17 C/privacy-screen-lock.page:23
 msgid "Jim Campbell"
 msgstr "Jim Campbell"
 
@@ -888,24 +890,24 @@ msgid "Click on <gui>Online Accounts</gui>."
 msgstr "Haz clic en <gui>Cuentas en línea</gui>."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:41
-msgid "Click the <key>+</key> button in the lower-left portion of the window."
-msgstr "Pulse el botón <gui>+</gui> en la parte inferior izquierda de la ventana."
+#: C/accounts-add.page:42
+msgid "Click the <gui>Add an online account</gui> button."
+msgstr "Haz clic en el botón <gui>Añadir cuenta en línea</gui>."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:45
+#: C/accounts-add.page:46
 msgid "Select the type of account which you want to add."
 msgstr "Seleccione la cuenta que quiere añadir."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:46
+#: C/accounts-add.page:47
 msgid ""
 "If you want to add more than one account type, you can do so at a later "
 "time."
 msgstr "Si quiere añadir más de un tipo de cuenta, puede añadir las cuentas más tarde."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:50
+#: C/accounts-add.page:52
 msgid ""
 "A small window will open where you can enter your online account "
 "credentials. For example, if you are setting up a Google account, enter your"
@@ -913,14 +915,14 @@ msgid ""
 msgstr "Una pequeña ventana se abrirá donde puedes introducir las credenciales de tu cuenta en línea. Por ejemplo, si vas a configurar una cuenta de Google, introduce tu nombre de usuario y contraseña de Google."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:55
+#: C/accounts-add.page:57
 msgid ""
 "If you have entered your credentials correctly, you will be prompted to "
 "allow Endless access to your online account. Authorize access to continue."
 msgstr "Si has introducido tus credenciales correctamente, se te pedirá permiso para permitir el acceso de Endless a tu cuenta en línea. Autoriza el acceso para continuar."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:60
+#: C/accounts-add.page:62
 msgid ""
 "Select the applications that you want linked to your online account. For "
 "example, if you want to use an online account for chat, but do not want to "
@@ -929,14 +931,14 @@ msgid ""
 msgstr "Seleccione las aplicaciones que quiere enlazar con su cuenta en línea. Por ejemplo, si quiere usar una cuenta en línea para chatear, pero no quiere usar una cuenta en línea para su calendario, <gui>Desactive</gui> la opción <gui>Calendario</gui>"
 
 #. (itstool) path: page/p
-#: C/accounts-add.page:67
+#: C/accounts-add.page:70
 msgid ""
 "After you have added the accounts, each application that you have selected "
 "will automatically use those credentials when you start them."
 msgstr "Después de añadir las cuentas, cada aplicación que haya seleccionado usará automáticamente las credenciales cuando la inicie."
 
 #. (itstool) path: note/p
-#: C/accounts-add.page:71
+#: C/accounts-add.page:74
 msgid ""
 "For security reasons, Endless will not store your password on your computer."
 " Instead, it stores a token that is provided by the online service."
@@ -956,9 +958,9 @@ msgstr "Verifique que su copia de respaldo sea correcta."
 #: C/net-wired-connect.page:11 C/net-wireless-airplane.page:13
 #: C/net-wireless-connect.page:13 C/net-wireless-find.page:13
 #: C/net-wireless-hidden.page:13 C/net-wireless-wepwpa.page:13
-#: C/session-language.page:15 C/shell-apps-open.page:12
+#: C/session-language.page:15 C/shell-apps-open.page:13
 #: C/shell-overview.page:11 C/shell-windows-switching.page:13
-#: C/user-add.page:13 C/user-admin-change.page:13 C/user-admin-explain.page:13
+#: C/user-add.page:14 C/user-admin-change.page:13 C/user-admin-explain.page:13
 #: C/user-admin-problems.page:13 C/user-changepassword.page:13
 #: C/user-changepicture.page:13 C/user-delete.page:17
 #: C/user-goodpassword.page:12
@@ -1306,12 +1308,12 @@ msgstr "Algunos de ellos pueden permitirle hacer una copia de respaldo de cada a
 #: C/net-create-email.page:10 C/net-discover-websites.page:11
 #: C/net-installing-other-browsers.page:10 C/net-read-news.page:11
 #: C/net-social-bar.page:11 C/net-troubleshoot.page:9
-#: C/printing-from-applications.page:10 C/printing-setup.page:32
+#: C/printing-from-applications.page:10 C/printing-setup.page:33
 #: C/printing-supported.page:11 C/security-and-privacy.page:8
 #: C/security-data-collection.page:10 C/security-guard-privacy.page:10
 #: C/security-understand-password.page:11 C/sharing-media.page:16
 #: C/shell-add-desktop-folder.page:11 C/shell-apps-close.page:11
-#: C/shell-apps-open.page:24 C/shell-delete-app-desktop.page:11
+#: C/shell-apps-open.page:25 C/shell-delete-app-desktop.page:11
 #: C/shell-download-media.page:10 C/shell-install-ext-apps.page:10
 #: C/shell-organize-apps.page:10 C/shell-update-app.page:11
 #: C/shell-update-system.page:11 C/shell-windows-hide.page:11
@@ -1364,7 +1366,7 @@ msgstr "emparejar dispositivos Bluetooth."
 #. (itstool) path: credit/name
 #: C/bluetooth-connect-device.page:20 C/bluetooth-remove-connection.page:20
 #: C/bluetooth-send-file.page:20 C/printing-setup-default-printer.page:16
-#: C/printing-setup.page:20
+#: C/printing-setup.page:21
 msgid "Paul W. Frields"
 msgstr "Paul W. Frields"
 
@@ -1880,7 +1882,7 @@ msgid "Click on <gui>Displays</gui>."
 msgstr "Haz clic en <gui>Pantallas</gui>."
 
 #. (itstool) path: item/p
-#: C/display-dual-monitors.page:96
+#: C/display-dual-monitors.page:97
 msgid ""
 "The monitor with the bottom bar is the main monitor. To change which monitor"
 " is treated as \"main\", click on the bottom bar and drag it over to the "
@@ -1888,14 +1890,14 @@ msgid ""
 msgstr "La pantalla con la barra de tareas es la pantalla principal. Para cambiar cual pantalla es la \"principal\", haz clic en la barra inferior y arrástrala hasta la pantalla que quieres que sea la pantalla \"principal\"."
 
 #. (itstool) path: item/p
-#: C/display-dual-monitors.page:112
+#: C/display-dual-monitors.page:113
 msgid ""
 "To rotate the orientation of the monitor, click on it and use the buttons "
 "with the arrows to rotate it."
 msgstr "Para rotar la orientación de la pantalla, haz clic en ella y usa los botones de flechas para rotarla."
 
 #. (itstool) path: item/p
-#: C/display-dual-monitors.page:116
+#: C/display-dual-monitors.page:117
 msgid ""
 "When you are happy with your settings, click <gui>Apply</gui> and then click"
 " <gui>Keep Changes</gui>."
@@ -2229,14 +2231,15 @@ msgstr "Como no puedes deshacer esta operación, se te preguntará que confirmes
 msgid ""
 "If you frequently need to delete files without using the trash (for example,"
 " if you often work with sensitive data), you can add a <gui>Delete</gui> "
-"entry to the right-click menu for files and folders. Click <gui>Files</gui> "
-"in the taskbar, pick <gui>Preferences</gui> and select the "
-"<gui>Behavior</gui> tab. Select <gui>Include a Delete command that bypasses "
-"Trash</gui>."
-msgstr "Si frecuentemente necesitas eliminar archivos (por ejemplo, si trabajas a menudo con datos sensibles), puedes agregar la opción de <gui>Eliminar</gui> al menú de clic derecho. Para agregar esta opción, abre <app>Documentos</app> desde el escritorio, haz clic en el ícono de circulo gris en la barra superior a la derecha, elige <gui>Preferencias</gui> y selecciona la pestaña <gui>Comportamiento</gui>. Selecciona <gui>Incluir un comando «Eliminar» que no use la papelera</gui>."
+"entry to the right-click menu for files and folders. First, click on the "
+"<app>Documents</app> icon from the desktop. Click on the icon that looks "
+"like a circle on the top right-hand corner of the window, click on "
+"<gui>Preferences</gui> and select the <gui>Behavior</gui> tab. Select "
+"<gui>Include a Delete command that bypasses Trash</gui>."
+msgstr "Si frecuentemente necesitas eliminar archivos usando la papelera (por ejemplo, si trabajas a menudo con datos sensibles), puedes agregar la opción de <gui>Eliminar</gui> al menú de clic derecho. Para agregar esta opción, abre <app>Documentos</app> desde el escritorio, haz clic en el ícono del circulo gris en la barra superior a la derecha, elige <gui>Preferencias</gui> y selecciona la pestaña <gui>Comportamiento</gui>. Selecciona <gui>Incluir un comando «Eliminar» que no use la papelera</gui>."
 
 #. (itstool) path: note/p
-#: C/files-delete.page:72
+#: C/files-delete.page:73
 msgid ""
 "Deleted files on a <link xref=\"files-removedrive\">removable device </link>"
 " may not be visible on other operating systems, such Windows or Mac OS. The "
@@ -3284,7 +3287,7 @@ msgid "Share your Files"
 msgstr "Compartir tus archivos"
 
 #. (itstool) path: section/title
-#: C/files.page:27
+#: C/files.page:28
 msgid "Media"
 msgstr "Medios digitales"
 
@@ -3310,17 +3313,17 @@ msgid "Displays"
 msgstr "Pantallas"
 
 #. (itstool) path: section/title
-#: C/hardware.page:23
+#: C/hardware.page:24
 msgid "Sound"
 msgstr "Sonido"
 
 #. (itstool) path: section/title
-#: C/hardware.page:27
+#: C/hardware.page:29
 msgid "Printers"
 msgstr "Impresoras"
 
 #. (itstool) path: section/title
-#: C/hardware.page:31
+#: C/hardware.page:34
 msgid "Keyboard &amp; Mouse"
 msgstr "Teclado y ratón"
 
@@ -3329,7 +3332,7 @@ msgstr "Teclado y ratón"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.page:21
+#: C/index.page:23
 msgctxt "_"
 msgid ""
 "external ref='figures/index-video-thumbnail-01.jpg' "
@@ -3341,7 +3344,7 @@ msgstr "external ref='figures/index-video-thumbnail-01.jpg' md5='85d08a6ad3a6769
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.page:22
+#: C/index.page:24
 msgctxt "_"
 msgid ""
 "external ref='figures/index-video-thumbnail-02.jpg' "
@@ -3353,7 +3356,7 @@ msgstr "external ref='figures/index-video-thumbnail-02.jpg' md5='7523618f51c0199
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/index.page:23
+#: C/index.page:25
 msgctxt "_"
 msgid ""
 "external ref='figures/index-video-thumbnail-03.jpg' "
@@ -3377,32 +3380,32 @@ msgid "Getting Started"
 msgstr "Empezar"
 
 #. (itstool) path: section/title
-#: C/index.page:18
+#: C/index.page:20
 msgid "Videos"
 msgstr "Vídeos"
 
 #. (itstool) path: td/p
-#: C/index.page:24
+#: C/index.page:26
 msgid "<link xref=\"endless-videos\">More…</link>"
 msgstr "<link xref=\"endless-videos\">Más</link>"
 
 #. (itstool) path: td/p
-#: C/index.page:27
+#: C/index.page:29
 msgid "<link xref=\"endless-01-desktop\">Introduction to the desktop</link>"
 msgstr "<link xref=\"endless-01-desktop\">Introducción al escritorio</link>"
 
 #. (itstool) path: td/p
-#: C/index.page:28
+#: C/index.page:30
 msgid "<link xref=\"endless-02-folders\">Adding folders to the desktop</link>"
 msgstr "<link xref=\"endless-02-folders\">Agregando carpetas al escritorio</link>"
 
 #. (itstool) path: td/p
-#: C/index.page:29
+#: C/index.page:31
 msgid "<link xref=\"endless-03-programs\">Installing programs</link>"
 msgstr "<link xref=\"endless-03-programs\">Instalando programas</link>"
 
 #. (itstool) path: section/title
-#: C/index.page:35
+#: C/index.page:37
 msgid "<link href=\"endlessm-app://com.endlessm.Tutorial\">Tutorial</link>"
 msgstr "<link href=\"endlessm-app://com.endlessm.Tutorial\">Tutorial</link>"
 
@@ -3427,7 +3430,7 @@ msgstr "Julita Inca"
 #. (itstool) path: credit/name
 #: C/keyboard-cursor-blink.page:30 C/keyboard-repeat-keys.page:28
 #: C/look-background.page:37 C/mouse-doubleclick.page:29
-#: C/shell-apps-open.page:20
+#: C/shell-apps-open.page:21
 msgid "Shobha Tyagi"
 msgstr "Shobha Tyagi"
 
@@ -4533,14 +4536,14 @@ msgid "Click on <gui>Mouse &amp; Touchpad</gui>."
 msgstr "Haz clic en <gui>Ratón y touchpad</gui>."
 
 #. (itstool) path: item/p
-#: C/mouse-doubleclick.page:52
+#: C/mouse-doubleclick.page:53
 msgid ""
 "Under <gui>General</gui>, adjust the <gui>Double-click</gui> slider to a "
 "value you find comfortable."
 msgstr "Debajo de <gui>General</gui>, ajuste el deslizador de <gui>Doble pulsación</gui> a un valor que considere cómodo."
 
 #. (itstool) path: item/p
-#: C/mouse-doubleclick.page:54
+#: C/mouse-doubleclick.page:55
 msgid ""
 "Click the <gui>Test Your Settings</gui> button to test. A single click in "
 "the window will highlight the outer circle. A double-click will highlight "
@@ -4548,7 +4551,7 @@ msgid ""
 msgstr "Pulse el botón <gui>Probar sus configuración</gui> para probarla. Una sola pulsación en la ventana resaltará el círculo externo. Pulsar dos veces resaltará el círculo interior."
 
 #. (itstool) path: page/p
-#: C/mouse-doubleclick.page:59
+#: C/mouse-doubleclick.page:60
 msgid ""
 "If your mouse double-clicks when you want it to single-click even though you"
 " have increased the double-click timeout, your mouse may be faulty. Try "
@@ -4558,7 +4561,7 @@ msgid ""
 msgstr "Si su ratón hace una doble pulsación cuando usted quiere hacer una sola pulsación, aunque haya incrementado el tiempo de espera de la pulsación doble, es posible que esté defectuoso. Pruebe a conectar otro ratón en su equipo y compruebe si funciona correctamente. O también, conecte su ratón en otro equipo distinto y compruebe si el problema persiste."
 
 #. (itstool) path: note/p
-#: C/mouse-doubleclick.page:66
+#: C/mouse-doubleclick.page:67
 msgid ""
 "This setting will affect both your mouse and touchpad, as well as any other "
 "pointing device."
@@ -4660,7 +4663,7 @@ msgid ""
 msgstr "Si el puntero se mueve demasiado deprisa o despacio cuando mueve el ratón o usa el «touchpad», puede ajustar la velocidad del puntero para estos dispositivos."
 
 #. (itstool) path: item/p
-#: C/mouse-sensitivity.page:51
+#: C/mouse-sensitivity.page:52
 msgid ""
 "Adjust the <gui>Pointer Speed</gui> slider until the pointer motion is "
 "comfortable for you. You will see one slider per each pointing device, such "
@@ -4668,7 +4671,7 @@ msgid ""
 msgstr "Ajuste el deslizador de la <gui>Velocidad del puntero</gui> hasta que el movimiento del puntero le sea cómodo. Verá un deslizador para cada dispositivo apuntador, como puede ser un ratón o un «touchpad»."
 
 #. (itstool) path: note/p
-#: C/mouse-sensitivity.page:76
+#: C/mouse-sensitivity.page:77
 msgid ""
 "The <gui>Touchpad</gui> section only appears if your system has a touchpad, "
 "while the <gui>Mouse</gui> section is only visible when a mouse is plugged "
@@ -5400,12 +5403,12 @@ msgid "Click on <gui>Network</gui>."
 msgstr "Haz clic en <gui>Configuración de la red</gui>."
 
 #. (itstool) path: media/span
-#: C/net-manual.page:47 C/net-manual.page:50
+#: C/net-manual.page:48 C/net-manual.page:51
 msgid "settings"
 msgstr "configuraciones"
 
 #. (itstool) path: item/p
-#: C/net-manual.page:45
+#: C/net-manual.page:46
 msgid ""
 "In the left pane, select the network connection that you want to set up "
 "manually and click the <_:media-1/> button. For example, if you plug in to "
@@ -5415,34 +5418,34 @@ msgid ""
 msgstr "En el panel de la izquierda, seleccione la conexión de red que quiere configurar manualmente y pulse el botón <_:media-1/>. Por ejemplo, si se conecta a la red con un cable, pulse <gui>Cableada</gui>. Para una conexión <gui>Inalámbrica</gui>, el botón de <_:media-2/> se situará junto a la red activa."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:52
+#: C/net-manual.page:53
 msgid ""
 "Make sure that your wireless card is turned on or a network cable is plugged"
 " in."
 msgstr "Asegúrese de que su tarjeta inalámbrica está encendida o que el cable de red está conectado."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:56
+#: C/net-manual.page:57
 msgid ""
 "Click <gui>IPv4</gui> and change <gui>Addresses</gui> to <gui>Manual</gui>."
 msgstr "Pulse en <gui>IPv4</gui> y cambie las <gui>Direcciones</gui> a <gui>Manual</gui>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:60
+#: C/net-manual.page:61
 msgid ""
 "Type in the <gui>Address</gui> and <gui>Gateway</gui>, as well as the "
 "appropriate <gui>Netmask</gui>."
 msgstr "Escriba la <gui>Dirección</gui> y la <gui>Puerta de enlace</gui>, así como la <gui>Máscara de red</gui> apropiada."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:62
+#: C/net-manual.page:63
 msgid ""
 "These must be <em>IP addresses</em>; that is, they must be four numbers "
 "separated by periods (e.g. 123.45.6.78)."
 msgstr "Estas tres direcciones deben ser <em>direcciones IP</em>; esto es, deben ser cuatro números separados por puntos (ej. 123.45.6.78)."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:66
+#: C/net-manual.page:67
 msgid ""
 "In the <gui>DNS</gui> section, switch <gui>Automatic</gui> to "
 "<gui>OFF</gui>. Enter the IP address of a DNS server you want to use. Enter "
@@ -5450,7 +5453,7 @@ msgid ""
 msgstr "En la sección <gui>DNS</gui> cambie <gui>Automático</gui> a <gui>Apagado</gui>. Introduzca la dirección IP de los servidores DNS que quiere usar. Introduzca direcciones de servidores DNS adicionales usando el botón <key>+</key>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:71
+#: C/net-manual.page:72
 msgid ""
 "In the <gui>Routes</gui> section, switch <gui>Automatic</gui> to "
 "<gui>OFF</gui>. Enter the <gui>Address</gui>, <gui>Netmask</gui>, "
@@ -5459,7 +5462,7 @@ msgid ""
 msgstr "En la sección <gui>Rutas</gui>, cambie la opción la opción <gui>Automático</gui> a <gui>Apagado</gui> . Introduzca la <gui>Dirección</gui>, la <gui>Máscara de red</gui>, la <gui>Puerta de enlace</gui> y la <gui>Métrica</gui> para la ruta que quiera usar. Puede añadir más rutas usando el botón <key>+</key>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:77
+#: C/net-manual.page:78
 msgid ""
 "Click <gui>Apply</gui>. If you are not connected to the network, click the "
 "system status area on the taskbar and connect. Test the network settings by "
@@ -6424,12 +6427,12 @@ msgid "Wi-Fi, Internet &amp; Bluetooth"
 msgstr "Wi-Fi, Internet y Bluetooth"
 
 #. (itstool) path: section/title
-#: C/net.page:23
+#: C/net.page:24
 msgid "Browser &amp; Discovery Center"
 msgstr "Navegador y Centro de contenido"
 
 #. (itstool) path: section/title
-#: C/net.page:27
+#: C/net.page:29
 msgid "Facebook &amp; Online Accounts"
 msgstr "Facebook y cuentas en línea"
 
@@ -6524,7 +6527,7 @@ msgstr "Cómo cancelar un trabajo de impresión:"
 
 #. (itstool) path: item/p
 #: C/printing-cancel-job.page:49 C/printing-cancel-job.page:92
-#: C/printing-setup-default-printer.page:48 C/printing-setup.page:84
+#: C/printing-setup-default-printer.page:48 C/printing-setup.page:86
 msgid "Click <gui>Printers</gui>."
 msgstr "Pulse <gui>Impresoras</gui>."
 
@@ -6872,18 +6875,24 @@ msgid ""
 " unless you choose a different printer for that specific output."
 msgstr "Al imprimir en una aplicación, la impresora predeterminada se utiliza automáticamente, a menos que elija una impresora diferente para esta salida específica."
 
+#. (itstool) path: info/title
+#: C/printing-setup.page:38
+msgctxt "link:index"
+msgid "How do I set up my printer?"
+msgstr "¿Cómo puedo configurar mi impresora?"
+
 #. (itstool) path: info/desc
-#: C/printing-setup.page:37
+#: C/printing-setup.page:39
 msgid "Set up a printer that is connected to your computer."
 msgstr "Configurar una impresora que está conectada a su equipo."
 
 #. (itstool) path: page/title
-#: C/printing-setup.page:40
+#: C/printing-setup.page:42
 msgid "Set up a local printer"
 msgstr "Configurar una impresora local"
 
 #. (itstool) path: page/p
-#: C/printing-setup.page:42
+#: C/printing-setup.page:44
 msgid ""
 "Your system can recognize some types of printers automatically once they are"
 " connected. Most printers can be connected with a USB cable that attaches to"
@@ -6891,19 +6900,19 @@ msgid ""
 msgstr "Tu sistema puede reconocer automáticamente varios tipos de impresoras cuando se conectan. La mayoría de las impresoras se conectan a tu computadora con un cable USB."
 
 #. (itstool) path: note/p
-#: C/printing-setup.page:47
+#: C/printing-setup.page:49
 msgid ""
 "You do not need to select whether you want to install a network or local "
 "printer now. They are listed in one window."
 msgstr "No es necesario que elija si quiere instalar una impresora de red o local ahora. Se listan en una ventana."
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:58
+#: C/printing-setup.page:60
 msgid "Make sure the printer is turned on."
 msgstr "Asegúrese que la impresora está encendida."
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:61
+#: C/printing-setup.page:63
 msgid ""
 "Connect the printer to your system via the appropriate cable. You may see "
 "activity on the screen as the system searches for drivers, and you may be "
@@ -6911,7 +6920,7 @@ msgid ""
 msgstr "Conecte la impresora a su sistema mediante el cable apropiado. Puede ver la actividad en la pantalla, cuando el sistema busca los controladores, y puede que se le pida que se autentique para instalarlos."
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:66
+#: C/printing-setup.page:68
 msgid ""
 "A message will appear when the system is finished installing the printer. "
 "Select <gui>Print Test Page</gui> to print a test page, or "
@@ -6919,31 +6928,31 @@ msgid ""
 msgstr "Aparecerá un mensaje cuando el sistema haya terminado de instalar la impresora. Seleccione <gui>Imprimir una página de prueba</gui> para imprimir una página de prueba, u <gui>Opciones</gui> para hacer cambios adicionales en la configuración de la impresora."
 
 #. (itstool) path: page/p
-#: C/printing-setup.page:72
+#: C/printing-setup.page:74
 msgid ""
 "If your printer was not set up automatically, you can add it in the printer "
 "settings."
 msgstr "Si su impresora no se estableció de manera automática, puede añadirla en la configuración de impresora."
 
 #. (itstool) path: steps/title
-#: C/printing-setup.page:76
+#: C/printing-setup.page:78
 msgid "Set up your printer manually:"
 msgstr "Configurar tu impresora manualmente:"
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:87
+#: C/printing-setup.page:90
 msgid ""
 "Click the <key>Unlock</key> button in the top-right corner and enter your "
 "password."
 msgstr "Pulse el botón <gui>Desbloquear</gui> en la esquina superior derecha e introduzca su contraseña."
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:91
+#: C/printing-setup.page:94
 msgid "Click the <key>+</key> button."
 msgstr "Pulse el botón <gui>+</gui>."
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:94
+#: C/printing-setup.page:97
 msgid "In the pop-up window, select your new printer. Click <gui>Add</gui>."
 msgstr "En la ventana emergente, seleccione su impresora y pulse <gui>Añadir</gui>."
 
@@ -7518,17 +7527,17 @@ msgid "User Accounts"
 msgstr "Cuentas de usuario"
 
 #. (itstool) path: section/title
-#: C/security-and-privacy.page:26
+#: C/security-and-privacy.page:27
 msgid "Multiple User Accounts"
 msgstr "Múltiples cuentas de usuario"
 
 #. (itstool) path: section/title
-#: C/security-and-privacy.page:30
+#: C/security-and-privacy.page:32
 msgid "Backup your Computer"
 msgstr "Haz copias de seguridad de tu computadora"
 
 #. (itstool) path: section/title
-#: C/security-and-privacy.page:34
+#: C/security-and-privacy.page:37
 msgid "Protect your Computer"
 msgstr "Protege tu computadora"
 
@@ -7928,18 +7937,6 @@ msgid ""
 "Facebook."
 msgstr "Una notificación aparecerá cuando la imagen se haya publicado con éxito en Facebook."
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-add-desktop-folder.page:45
-msgctxt "_"
-msgid ""
-"external ref='figures/eos-icon-app-store-close.png' "
-"md5='4164719ee32473f51328140cccca4197'"
-msgstr "external ref='figures/eos-icon-app-store-close.png' md5='4164719ee32473f51328140cccca4197'"
-
 #. (itstool) path: info/desc
 #: C/shell-add-desktop-folder.page:19
 msgid ""
@@ -7984,11 +7981,9 @@ msgstr "Escribe un nombre para la nueva carpeta (por ejemplo, \"escuela\") y pul
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:44
 msgid ""
-"You have added a new folder to the desktop. Great! Now click on the <media "
-"type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-app-store-"
-"close.png\">X</media> on the top-right of the window to go back to the "
-"desktop."
-msgstr "Has agregado una carpeta nueva al escritorio. ¡Genial! Ahora haz clic en la <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-app-store-close.png\">X</media> en la parte superior derecha de la ventana para regresar al escritorio."
+"You have added a new folder to the desktop. Great! Now click on the "
+"<_:media-1/> on the top-right of the window to go back to the desktop."
+msgstr "Has agregado una nueva carpeta al escritorio. ¡Genial! Ahora haz clic en el botón <_:media-1/> en la parte superior derecha de la ventana para volver al escritorio."
 
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:49
@@ -8038,44 +8033,24 @@ msgid ""
 " <gui>X</gui> to quit."
 msgstr "Si no puedes ver un botón <gui>X</gui>, puedes salir del programa pulsando la tecla <key>Esc</key> en tu teclado, que usualmente está en la esquina izquierda de tu teclado. La ventana se debe cerrar completamente o minimizarse para que puedas ver la barra superior de la ventana y la barra de tarea de Endless en la parte inferior. Si minimizas la ventana, puedes hacer clic en la <gui>X</gui> para salir."
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-apps-open.page:44 C/shell-apps-open.page:69
-#: C/shell-apps-open.page:81 C/shell-apps-open.page:94
-#: C/shell-apps-open.page:108
-msgctxt "_"
-msgid ""
-"external ref='figures/eos-icon-more-apps.png' "
-"md5='3ea8f59160d6dce5259449549acf79bc'"
-msgstr "external ref='figures/eos-icon-more-apps.png' md5='3ea8f59160d6dce5259449549acf79bc'"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-apps-open.page:92
-msgctxt "_"
-msgid ""
-"external ref='figures/eos-icon-app-store-add-website.png' "
-"md5='5e03ae66b1baa5a102b05dd234e19e42'"
-msgstr "external ref='figures/eos-icon-app-store-add-website.png' md5='5e03ae66b1baa5a102b05dd234e19e42'"
+#. (itstool) path: info/title
+#: C/shell-apps-open.page:30
+msgctxt "link:index"
+msgid "How do I add new apps?"
+msgstr "¿Cómo puedo agregar nuevos programas?"
 
 #. (itstool) path: info/desc
-#: C/shell-apps-open.page:29
+#: C/shell-apps-open.page:31
 msgid "Install free apps, folders, and website shortcuts onto your desktop."
 msgstr "Instala programas gratis, carpetas y accesos directos a sitios web en tu escritorio."
 
 #. (itstool) path: page/title
-#: C/shell-apps-open.page:32
+#: C/shell-apps-open.page:34
 msgid "Add apps and website shortcuts"
 msgstr "Agrega programas y accesos directos a sitios web"
 
 #. (itstool) path: page/p
-#: C/shell-apps-open.page:34
+#: C/shell-apps-open.page:36
 msgid ""
 "The pre-installed apps on your desktop are just a few of the many apps "
 "available to you. Easily add more apps and websites shortcuts directly to "
@@ -8083,40 +8058,38 @@ msgid ""
 msgstr "Los programas preinstalados en tu escritorio son solo algunos de los muchos programas disponibles para ti. Agrega fácilmente más programas y accesos directos a los sitios web directamente en tu escritorio."
 
 #. (itstool) path: section/title
-#: C/shell-apps-open.page:40
+#: C/shell-apps-open.page:42
 msgid "Adding More Apps"
 msgstr "Agregar más programas"
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:43
-msgid ""
-"Click once on <media type=\"image\" mime=\"image/png\" src=\"figures/eos-"
-"icon-more-apps.png\">the plus button</media> from the desktop."
-msgstr "Haz clic una vez en <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-more-apps.png\">el botón \"más\"</media> desde el escritorio."
+#: C/shell-apps-open.page:45 C/shell-update-app.page:29
+msgid "Click once on <_:media-1/> from the desktop."
+msgstr "Haz clic una vez en <_:media-1/> desde el escritorio."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:49
+#: C/shell-apps-open.page:51
 msgid ""
 "Browse by category and read each app's short description until you find one "
 "that you want to add to your desktop. All of the apps you see are free."
 msgstr "Busca por categoría y lee una pequeña descripción de cada programa hasta encontrar el que quieras instalar en tu escritorio. Todos los programas que ves son gratis."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:55
+#: C/shell-apps-open.page:57
 msgid ""
 "Some apps are already downloaded to your computer and you can add them to "
 "your desktop by clicking <gui>Add to desktop</gui>."
 msgstr "Algunos programas ya han sido descargados a tu computadora y puedes agregarlos a tu escritorio haciendo click en el botón <gui>Agregar al escritorio</gui>."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:60
+#: C/shell-apps-open.page:62
 msgid ""
 "Other apps need to be installed and require an internet connection. Click "
 "<gui>Install app</gui> to download and install these apps."
 msgstr "Otros programas necesitan ser instalados y requieren una conexión al internet. Haz clic en <gui>Instalar programa</gui> para descargar e instalar estos programas."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:65
+#: C/shell-apps-open.page:67
 msgid ""
 "When the app has been successfully added to your desktop, the green button "
 "will change to <gui>Open app</gui> and you can start using the app "
@@ -8124,45 +8097,39 @@ msgid ""
 msgstr "Cuando el programa ha sido agregado a tu escritorio, el botón verde cambiará a <gui>Abrir programa</gui> y ¡podrás empezar a usar el programa inmediatamente!"
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:68
+#: C/shell-apps-open.page:70
 msgid ""
-"The app's icon will be installed on your desktop, to the left of the <media "
-"type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-more-apps.png\"> "
-"plus</media> button. You can then move it wherever makes sense to you so you"
+"The app's icon will be installed on your desktop, to the left of the "
+"<_:media-1/> button. You can then move it wherever makes sense to you so you"
 " can find it easily."
-msgstr "El ícono del programa también será instalado en tu escritorio, a la izquierda del botón <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-more-apps.png\">más</media>. Luego puedes moverlo a donde tu quieras para que sea fácil de encontrar."
+msgstr "El ícono del programa también será instalado en tu escritorio, a la izquierda del botón <_:media-1/>. Luego puedes moverlo a donde tu quieras para que sea fácil de encontrar."
 
 #. (itstool) path: section/title
-#: C/shell-apps-open.page:77
+#: C/shell-apps-open.page:79
 msgid "Installing Website Shortcuts"
 msgstr "Instalando accessos directos a sitios web"
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:80
-msgid ""
-"Click once on the <media type=\"image\" mime=\"image/png\" src=\"figures"
-"/eos-icon-more-apps.png\">plus button</media> from the desktop."
-msgstr "Haz clic una vez en el <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-more-apps.png\">botón de \"más\"</media> desde el escritorio."
+#: C/shell-apps-open.page:82
+msgid "Click once on the <_:media-1/> from the desktop."
+msgstr "Haz clic una vez en <_:media-1/> desde el escritorio."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:85
+#: C/shell-apps-open.page:87
 msgid "Click on the <gui>Websites</gui> category on the left hand side."
 msgstr "Haz clic en la categoría <gui>Sitios web</gui> en el lado izquierdo."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:89
+#: C/shell-apps-open.page:91
 msgid ""
 "Browse the website links that we have as suggestions by category. If you see"
-" one that you like, just scroll over it and click on the green <media "
-"type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-app-store-add-"
-"website.png\">plus</media> button that will appear. This will add it "
-"directly to your desktop, to the left of the <media type=\"image\" "
-"mime=\"image/png\" src=\"figures/eos-icon-more-apps.png\"> plus</media> "
-"button."
-msgstr "Busca por las categorías de los enlaces de sitios web que te hemos sugerido. Si ves uno que te gusta, simplemente mueve tu cursor encima de él y haz click en el botón verde <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-app-store-add-website.png\">más</media> que aparecerá. Esto lo agregará directamente a tu escritorio, a la izquierda del botón <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-more-apps.png\">más</media>."
+" one that you like, just scroll over it and click on the green <_:media-1/> "
+"button that will appear. This will add it directly to your desktop, to the "
+"left of the <_:media-2/> button."
+msgstr "Busca por las categorías de los enlaces de sitios web que te hemos sugerido. Si ves uno que te gusta, simplemente mueve tu cursor encima de él y haz click en el botón verde <_:media-1/> que aparecerá. Esto lo agregará directamente a tu escritorio, a la izquierda del botón <_:media-2/>."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:98
+#: C/shell-apps-open.page:100
 msgid ""
 "Add your own website links to pages that we don't already have by typing the"
 " website into the bar at the top and hitting the <input>Enter</input> key to"
@@ -8170,14 +8137,13 @@ msgid ""
 msgstr "Agrega tus propios enlaces a sitios web que no estén disponibles escribiendo la dirección web en la barra de arriba y presionando la tecla <gui>Intro</gui> para buscarla."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:103
+#: C/shell-apps-open.page:105
 msgid ""
 "Click on the <_:media-1/> button, and your link will be installed to the "
 "desktop. Add another website, or else close the App Store to find your new "
-"website shortcut. It will be directly to the left of the <media "
-"type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-more-"
-"apps.png\">plus</media> button."
-msgstr "Haz click en el botón <_:media-1/>, y tu enlace será instalado en el escritorio. Agrega otra página web, o cierra el Centro de programas para buscar tu nuevo acceso directo. Estará directamente a la izquierda del botón <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-more-apps.png\">más</media>."
+"website shortcut. It will be directly to the left of the <_:media-2/> "
+"button."
+msgstr "Haz clic en el botón <_:media-1/>, y tu enlace será instalado en el escritorio. Agrega otro sitio web o cierra el Centro de programas para buscar tu nuevo acceso directo. Estará directamente a la izquierda del botón <_:media-2/>."
 
 #. (itstool) path: info/desc
 #: C/shell-delete-app-desktop.page:19
@@ -8532,12 +8498,12 @@ msgstr "Tu computadora debe ser increíblemente poderosa con o sin internet. Por
 #. (itstool) path: section/p
 #: C/shell-introduction.page:58
 msgid ""
-"The <app>App Store</app> is divided into three sections: <gui>Apps</gui>, "
+"From the <app>App Store</app> you can add: <gui>Apps</gui>, "
 "<gui>Websites</gui>, and <gui>Folders</gui>. You can browse applications you"
 " may want to install by category, add shortcuts to your favorite websites "
 "onto your desktop, or simply create new folders to organize all of your "
 "things in a way that makes sense to you."
-msgstr "Desde el <app>Centro de programas</app> puedes agregar: <gui>Programas</gui>, <gui>Sitios web</gui> y <gui>Carpetas</gui>. Puedes buscar programas que quieras instalar por categoría, y accesos directos a tus páginas de internet favoritas en tu escritorio, o simplemente crear nuevas carpetas para organizar todas tus cosas de una manera que tenga sentido para tí."
+msgstr "Desde el <app>Centro de programas</app> puedes agregar: <gui>Programas</gui>, <gui>Sitios web</gui> y <gui>Carpetas</gui>. Puedes buscar programas que quieras instalar por categoría, agregar accesos directos a tus páginas de internet favoritas en tu escritorio, o simplemente crear nuevas carpetas para organizar todas tus cosas de una manera que tenga sentido para tí."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:67
@@ -9056,27 +9022,27 @@ msgid "Apps"
 msgstr "Programas"
 
 #. (itstool) path: section/title
-#: C/shell-overview.page:25
+#: C/shell-overview.page:26
 msgid "Searching on Endless"
 msgstr "Búsqueda en Endless"
 
 #. (itstool) path: section/title
-#: C/shell-overview.page:29
+#: C/shell-overview.page:31
 msgid "Window Management"
 msgstr "Uso de ventanas"
 
 #. (itstool) path: section/title
-#: C/shell-overview.page:33
+#: C/shell-overview.page:36
 msgid "Customize Endless"
 msgstr "Personalizar Endless"
 
 #. (itstool) path: section/title
-#: C/shell-overview.page:37
+#: C/shell-overview.page:41
 msgid "Time and Date"
 msgstr "Hora y fecha"
 
 #. (itstool) path: section/title
-#: C/shell-overview.page:41
+#: C/shell-overview.page:46
 msgid "Restart, Shut Down &amp; Lock"
 msgstr "Reiniciar, apagar y bloquear"
 
@@ -9096,11 +9062,6 @@ msgid ""
 "Endless is constantly improving apps so that they get better, faster and "
 "richer in content. We suggest that you update the apps you use most often:"
 msgstr "Endless está constantemente mejorando programas para que sean mejores, más rápidos y más ricos en contenido. Te sugerimos que actualices los programas que uses más:"
-
-#. (itstool) path: item/p
-#: C/shell-update-app.page:29
-msgid "Click once on <_:media-1/> from the desktop."
-msgstr "Haz clic una vez en <_:media-1/> desde el escritorio."
 
 #. (itstool) path: item/p
 #: C/shell-update-app.page:34
@@ -9536,18 +9497,24 @@ msgid ""
 "volume."
 msgstr "Solo se listan las aplicaciones que están reproduciendo sonidos. Si una aplicación está reproduciendo sonidos, pero no aparece, es posible que no admita la característica que le permite controlar el volumen de esta manera. En ese caso, no puede cambiar su volumen."
 
+#. (itstool) path: info/title
+#: C/user-add.page:32
+msgctxt "link:index"
+msgid "How do I add more user accounts?"
+msgstr "¿Cómo puedo agregar más cuentas de usuario?"
+
 #. (itstool) path: info/desc
-#: C/user-add.page:31
+#: C/user-add.page:33
 msgid "Add new users so that other people can log in to the computer."
 msgstr "Añadir usuarios nuevos de manera que otras personas puedan iniciar sesión en el equipo."
 
 #. (itstool) path: page/title
-#: C/user-add.page:34
+#: C/user-add.page:36
 msgid "Add a new user account"
 msgstr "Añadir una cuenta de usuario nueva"
 
 #. (itstool) path: page/p
-#: C/user-add.page:59
+#: C/user-add.page:61
 msgid ""
 "You can create multiple user accounts on your computer and give a user "
 "account to everyone who uses your computer. That way, you can make sure that"
@@ -9556,7 +9523,7 @@ msgid ""
 msgstr "Puedes crear varias cuentas de usuario en tu computadora y darle una cuenta a cada persona que usa tu computadora. Así, puedes asegurarte de tener privacidad con tus archivos y que cada usuario tenga su propia carpeta de inicio, documentos y configuraciones personalizadas."
 
 #. (itstool) path: page/p
-#: C/user-add.page:64
+#: C/user-add.page:66
 msgid ""
 "You will need <link xref=\"user-admin-explain\">administrator "
 "privileges</link> to add user accounts. The administrator is usually the "
@@ -9566,35 +9533,35 @@ msgid ""
 msgstr "Necesitarás <link xref=\"user-admin-explain\">privilegios de administrador</link> para agregar cuentas de usuario. El administrador suele ser la persona que creó su cuenta primero cuando la computadora fue comprada y configurada, aunque otros también pueden haber sido dado privilegios de administrador por ese primer usuario."
 
 #. (itstool) path: steps/title
-#: C/user-add.page:71
+#: C/user-add.page:73
 msgid ""
 "If you are the administrator, follow these steps to create more user "
 "accounts:"
 msgstr "Si eres el administrador, sigue estos pasos para crear más cuentas de usuario:"
 
 #. (itstool) path: item/p
-#: C/user-add.page:80 C/user-admin-change.page:44 C/user-autologin.page:35
+#: C/user-add.page:82 C/user-admin-change.page:44 C/user-autologin.page:35
 #: C/user-changepassword.page:71 C/user-changepicture.page:48
 #: C/user-delete.page:55
 msgid "Click on <gui>Users</gui>."
 msgstr "Haz clic en <gui>Usuarios</gui>."
 
 #. (itstool) path: item/p
-#: C/user-add.page:84 C/user-admin-change.page:48 C/user-delete.page:59
+#: C/user-add.page:86 C/user-admin-change.page:48 C/user-delete.page:59
 msgid ""
 "Press <gui style=\"button\">Unlock</gui> in the top right corner and type in"
 " your password when prompted."
 msgstr "Pulse <gui style=\"button\">Desbloquear</gui> en la esquina superior derecha e introduzca su contraseña cuando se le pida."
 
 #. (itstool) path: item/p
-#: C/user-add.page:88
+#: C/user-add.page:90
 msgid ""
 "Press the <gui style=\"button\">+</gui> button, below the list of accounts "
 "on the left, to add a new user account."
 msgstr "Debajo de la lista de cuentas en la izquierda, pulse el botón <gui style=\"button\">+</gui> para añadir una cuenta de usuario nueva."
 
 #. (itstool) path: item/p
-#: C/user-add.page:92
+#: C/user-add.page:95
 msgid ""
 "If you want the new user to have <link xref=\"user-admin-"
 "explain\">administrative access</link> to the computer, select "
@@ -9604,7 +9571,7 @@ msgid ""
 msgstr "Si quiere que el nuevo usuario tenga <link xref=\"user-admin-explain\">acceso de administrador</link> al equipo, seleccione <gui>Administrador</gui> para el tipo de cuenta en el menú desplegable. Los administradores pueden hacer cosas como añadir y eliminar usuarios, instalar software y controladores, y cambiar la fecha y la hora."
 
 #. (itstool) path: item/p
-#: C/user-add.page:99
+#: C/user-add.page:102
 msgid ""
 "Enter the new user's full name. The username will be filled in automatically"
 " based on the full name. If you do not like the proposed username, you can "
@@ -9612,12 +9579,12 @@ msgid ""
 msgstr "Escriba el nombre completo del nuevo usuario. El nombre de usuario se rellenará automáticamente en función del nombre completo. Si no le gusta el nombre de usuario propuesto, puede cambiarlo."
 
 #. (itstool) path: media/span
-#: C/user-add.page:106 C/user-changepassword.page:83
+#: C/user-add.page:109 C/user-changepassword.page:83
 msgid "generate password"
 msgstr "generar contraseña"
 
 #. (itstool) path: item/p
-#: C/user-add.page:104
+#: C/user-add.page:107
 msgid ""
 "You can chose to set a password for the new user, or let them set it "
 "themselves on their first login. You can press on the <gui "
@@ -9626,12 +9593,12 @@ msgid ""
 msgstr "Puede elegir entre establecer una contraseña para el nuevo usuario de dejar que la establezca la primera vez que inicie sesión. Puede pulsar el icono <gui style=\"button\"><_:media-1/></gui> para generar automáticamente una contraseña aleatoria."
 
 #. (itstool) path: item/p
-#: C/user-add.page:111
+#: C/user-add.page:114
 msgid "Click <gui>Add</gui>."
 msgstr "Pulse <gui>Añadir</gui>."
 
 #. (itstool) path: page/p
-#: C/user-add.page:115
+#: C/user-add.page:118
 msgid ""
 "If you want to change the password after creating the account, select the "
 "account, <gui style=\"button\">Unlock</gui> the panel and press on the "
@@ -9639,7 +9606,7 @@ msgid ""
 msgstr "Si quiere cambiar la contraseña después de crear la cuenta, seleccione la cuenta, <gui style=\"button\">desbloquee</gui> the el panel y pulse sobre el estado actual de la contraseña."
 
 #. (itstool) path: note/p
-#: C/user-add.page:120
+#: C/user-add.page:123
 msgid ""
 "In the <gui>Users</gui> panel, you can click the image next to the user's "
 "name to the right to set an image for the account. This image will be shown "
@@ -9648,7 +9615,7 @@ msgid ""
 msgstr "En en panel <gui>Usuarios</gui> puede pulsar la imagen junto al nombre del usuario, a la derecha, para establecer una imagen para la cuenta. Esta imagen se mostrará en la ventana de inicio de sesión. Endless proporciona algunos conjuntos de imágenes que puede usar, o puede seleccionar su propia imagen o hacer una foto con su cámara web."
 
 #. (itstool) path: note/p
-#: C/user-add.page:127
+#: C/user-add.page:130
 msgid ""
 "You may want to create a \"Guest\" account so that friends or others who "
 "visit you can use it and you can rest assured that they will not mess up any"
