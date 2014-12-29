@@ -21,7 +21,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2014-12-28 19:26-0800\n"
-"PO-Revision-Date: 2014-12-29 03:44+0000\n"
+"PO-Revision-Date: 2014-12-29 19:27+0000\n"
 "Last-Translator: mattdangerw <watson@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/gnome-user-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -2245,7 +2245,7 @@ msgid ""
 " may not be visible on other operating systems, such Windows or Mac OS. The "
 "files are still there, and will be available when you plug the device back "
 "into your computer."
-msgstr "Los archivos eliminados en un <link xref=\"files#removable\">dispositivo extraíble</link> pueden no ser visibles en otros sistemas operativos, tales como Windows o Mac OS. Los archivos siguen ahí, y estarán disponibles cuando conectes el dispositivo de nuevo en tu computadora."
+msgstr "Los archivos eliminados en un <link xref=\"files-removedrive\">dispositivo extraíble</link> pueden no ser visibles en otros sistemas operativos, tales como Windows o Mac OS. Los archivos siguen ahí, y estarán disponibles cuando conectes el dispositivo de nuevo en tu computadora."
 
 #. (itstool) path: credit/name
 #: C/files-microsoft-compatible.page:15 C/files-save.page:14
