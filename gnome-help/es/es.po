@@ -21,7 +21,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2014-12-28 19:26-0800\n"
-"PO-Revision-Date: 2014-12-29 19:27+0000\n"
+"PO-Revision-Date: 2014-12-30 22:36+0000\n"
 "Last-Translator: mattdangerw <watson@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/gnome-user-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -9097,7 +9097,7 @@ msgstr "Para actualizar un programa, necesitarás una conexión al internet."
 #. (itstool) path: note/p
 #: C/shell-update-app.page:55
 msgid "You can close the <app>App Store</app> while the app is updating."
-msgstr "Puedes cerrar el <app>Centro de contenido<app> mientras que el programa esté actualizándose."
+msgstr "Puedes cerrar el <app>Centro de contenido</app> mientras que el programa esté actualizándose."
 
 #. (itstool) path: info/desc
 #: C/shell-update-system.page:19
