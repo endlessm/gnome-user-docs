@@ -54,7 +54,8 @@
       </item>
       <item>
           <p>Click on the <gui>Search for updates now</gui> button. If there are
-          updates, you can choose to download and install them.</p>
+          updates, they will automatically start to download and install to
+          your system.</p>
           <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-update-notification.png"/>
       </item>
     </steps>
