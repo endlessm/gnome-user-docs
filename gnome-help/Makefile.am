@@ -287,7 +287,6 @@ HELP_FILES = \
 	net-troubleshoot.page \
 	net-wired-connect.page \
 	net-wireless-adhoc.page \
-	net-wireless-airplane.page \
 	net-wireless-connect.page \
 	net-wireless-disconnecting.page \
 	net-wireless-find.page \
