@@ -20,9 +20,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2014-12-28 19:26-0800\n"
-"PO-Revision-Date: 2014-12-30 22:36+0000\n"
-"Last-Translator: mattdangerw <watson@endlessm.com>\n"
+"POT-Creation-Date: 2014-12-30 16:31-0800\n"
+"PO-Revision-Date: 2014-12-31 00:43+0000\n"
+"Last-Translator: goizueta <goizueta@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/gnome-user-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -955,12 +955,12 @@ msgstr "Verifique que su copia de respaldo sea correcta."
 #: C/clock-set.page:13 C/clock-timezone.page:13 C/files-recover.page:13
 #: C/files-rename.page:12 C/files-search.page:11 C/keyboard-key-super.page:13
 #: C/look-background.page:13 C/net-antivirus.page:13
-#: C/net-wired-connect.page:11 C/net-wireless-airplane.page:13
-#: C/net-wireless-connect.page:13 C/net-wireless-find.page:13
-#: C/net-wireless-hidden.page:13 C/net-wireless-wepwpa.page:13
-#: C/session-language.page:15 C/shell-apps-open.page:13
-#: C/shell-overview.page:11 C/shell-windows-switching.page:13
-#: C/user-add.page:14 C/user-admin-change.page:13 C/user-admin-explain.page:13
+#: C/net-wired-connect.page:11 C/net-wireless-connect.page:13
+#: C/net-wireless-find.page:13 C/net-wireless-hidden.page:13
+#: C/net-wireless-wepwpa.page:13 C/session-language.page:15
+#: C/shell-apps-open.page:13 C/shell-overview.page:11
+#: C/shell-windows-switching.page:13 C/user-add.page:14
+#: C/user-admin-change.page:13 C/user-admin-explain.page:13
 #: C/user-admin-problems.page:13 C/user-changepassword.page:13
 #: C/user-changepicture.page:13 C/user-delete.page:17
 #: C/user-goodpassword.page:12
@@ -2311,7 +2311,7 @@ msgstr "Para guardar tus archivos en un formato de Microsoft:"
 #: C/files-microsoft-compatible.page:32
 msgid ""
 "Open a Microsoft-compatible app: <_:media-1/>, <_:media-2/>, or <_:media-3/>"
-msgstr "Abre un programa compatible con Microsoft:  <_:media-1/>, <_:media-2/>, or <_:media-3/>"
+msgstr "Abre un programa compatible con Microsoft:  <_:media-1/>, <_:media-2/>, o <_:media-3/>"
 
 #. (itstool) path: item/p
 #: C/files-microsoft-compatible.page:40
@@ -5869,52 +5869,6 @@ msgid ""
 "while the hotspot is active."
 msgstr "No es posible conectarse al internet a través de una conexión inalámbrica mientras que el punto de acceso esté activo."
 
-#. (itstool) path: info/desc
-#: C/net-wireless-airplane.page:17
-msgid "Open Network Settings and switch Airplane Mode to ON."
-msgstr "Abra la configuración de red y cambie el modo avión a ENCENDIDO."
-
-#. (itstool) path: page/title
-#: C/net-wireless-airplane.page:21
-msgid "Turn off wireless (airplane mode)"
-msgstr "Apagar el modo inalámbrico (modo avión)"
-
-#. (itstool) path: page/p
-#: C/net-wireless-airplane.page:23
-msgid ""
-"If you have your computer on an airplane (or some other area where wireless "
-"connections are not allowed), you should switch off your wireless. You may "
-"also want to switch off your wireless for other reasons (to save battery "
-"power, for example). To do this:"
-msgstr "Si tiene su equipo en un avión (o en alguna otra área donde no estén permitidas las conexiones inalámbricas), debe apagar su sistema inalámbrico. También debería apagarlo por otras razones: (para ahorrar batería, por ejemplo). Para hacer esto:"
-
-#. (itstool) path: item/p
-#: C/net-wireless-airplane.page:29
-msgid ""
-"Click on the network status icon on the task bar at the very bottom right-"
-"hand corner of your screen."
-msgstr "Haz clic en el icono directamente a la izquierda del icono de Facebook en la barra de tareas en la esquina inferior derecha de tu pantalla."
-
-#. (itstool) path: item/p
-#: C/net-wireless-airplane.page:32
-msgid "Select <gui>Network Settings</gui>."
-msgstr "Haz clic en <gui>Configuración de la Red</gui>."
-
-#. (itstool) path: item/p
-#: C/net-wireless-airplane.page:35
-msgid ""
-"Switch <gui>Airplane Mode</gui> to <gui>ON</gui>. You can find this button "
-"on the very top right-hand corner of the network settings window. This will "
-"turn off your wireless connection until you switch airplane mode off again."
-msgstr "Activa el <gui>Modo avión</gui> presionando <gui>1</gui> para que el botón se ponga azul. Puedes encontrar este botón en la esquina superior derecha de la pantalla de configuración. Esto desactivará la conexión inalámbrica hasta que lo cambies."
-
-#. (itstool) path: note/p
-#: C/net-wireless-airplane.page:42
-msgid ""
-"Using <em>Airplane Mode</em> will completely turn off both wireless and "
-"Bluetooth connections."
-msgstr "Usar el <em>Modo avión</em> desactivará completamente tanto la conexión inalámbrica como la conexión Bluetooth,"
-
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -6688,8 +6642,8 @@ msgstr "Haz clic en el menú <gui>Archivo</gui> en la parte superior izquierda d
 msgid ""
 "Click on the <gui>Print</gui> option near the bottom of the list in that "
 "menu. You can also press <keyseq><key>Ctrl</key><key>P</key></keyseq> from "
-"the document, or click on the [writer_printer.png] icon instead."
-msgstr "Haz clic en la opción <gui>Imprimir</gui> cerca de la parte inferior de la lista en ese menú. También puedes pulsar <keyseq><key>Ctrl</key><key>P</key></keyseq>desde el documento o hacer clic en el ícono [writer_printer.png] en vez."
+"the document."
+msgstr "Haz clic en la opción <gui>Imprimir</gui> cerca de la parte inferior de la lista en ese menú. También puedes pulsar <keyseq><key>Ctrl</key><key>P</key></keyseq> desde el documento."
 
 #. (itstool) path: item/p
 #: C/printing-from-applications.page:39
@@ -8951,7 +8905,7 @@ msgstr "Haz clic en <gui>Notificaciones</gui>."
 #. (itstool) path: item/p
 #: C/shell-notifications.page:111
 msgid "Switch <gui>Show Pop Up Banners</gui> to <gui>Off</gui>."
-msgstr "<gui>Active</gui> la opción <gui>Mostrar ventanas emergentes</gui>."
+msgstr "<gui>Desactive</gui> la opción <gui>Mostrar ventanas emergentes</gui>."
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:115
@@ -8991,8 +8945,8 @@ msgstr "Para agregar una nueva carpeta, haz clic en el escritorio y selecciona <
 #: C/shell-organize-apps.page:36
 msgid ""
 "Type a name for your new folder (\"School\", for example) and hit "
-"<input>Enter.</input>"
-msgstr "Escribe un nombre para la nueva carpeta (\"Escuela\", por ejemplo) y pulsa <input>Intro</input>."
+"<key>Enter</key>."
+msgstr "Escribe un nombre para la nueva carpeta (por ejemplo, \"escuela\") y pulsa la tecla <key>Intro</key>."
 
 #. (itstool) path: item/p
 #: C/shell-organize-apps.page:40
@@ -9157,11 +9111,11 @@ msgstr "Haz clic en <gui>Detalles</gui>."
 #: C/shell-update-system.page:56
 msgid ""
 "Click on the <gui>Search for updates now</gui> button. If there are updates,"
-" you can choose to download and install them."
-msgstr "Haz clic en el botón <gui>Buscar actualizaciones ahora</gui>. Si hay actualizaciones, puedes elegir descargar e instalarlas."
+" they will automatically start to download and install to your system."
+msgstr "Haz clic en el botón <gui>Buscar actualizaciones ahora</gui>. Si existen actualizaciones, se descargarán y se instalarán al sistema automáticamente."
 
 #. (itstool) path: note/p
-#: C/shell-update-system.page:63
+#: C/shell-update-system.page:64
 msgid ""
 "Make sure you don't go over your data limit! You may want to wait until you "
 "can get a Wi-Fi or wired internet connection. You can also contact our "
