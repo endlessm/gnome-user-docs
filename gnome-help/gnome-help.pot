@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-12-28 19:26-0800\n"
+"POT-Creation-Date: 2014-12-30 16:31-0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -881,7 +881,6 @@ msgstr ""
 #: C/look-background.page:13
 #: C/net-antivirus.page:13
 #: C/net-wired-connect.page:11
-#: C/net-wireless-airplane.page:13
 #: C/net-wireless-connect.page:13
 #: C/net-wireless-find.page:13
 #: C/net-wireless-hidden.page:13
@@ -4727,41 +4726,6 @@ msgstr ""
 msgid "It is not possible to connect to the internet via a wireless connection while the hotspot is active."
 msgstr ""
 
-#. (itstool) path: info/desc
-#: C/net-wireless-airplane.page:17
-msgid "Open Network Settings and switch Airplane Mode to ON."
-msgstr ""
-
-#. (itstool) path: page/title
-#: C/net-wireless-airplane.page:21
-msgid "Turn off wireless (airplane mode)"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/net-wireless-airplane.page:23
-msgid "If you have your computer on an airplane (or some other area where wireless connections are not allowed), you should switch off your wireless. You may also want to switch off your wireless for other reasons (to save battery power, for example). To do this:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-wireless-airplane.page:29
-msgid "Click on the network status icon on the task bar at the very bottom right-hand corner of your screen."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-wireless-airplane.page:32
-msgid "Select <gui>Network Settings</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-wireless-airplane.page:35
-msgid "Switch <gui>Airplane Mode</gui> to <gui>ON</gui>. You can find this button on the very top right-hand corner of the network settings window. This will turn off your wireless connection until you switch airplane mode off again."
-msgstr ""
-
-#. (itstool) path: note/p
-#: C/net-wireless-airplane.page:42
-msgid "Using <em>Airplane Mode</em> will completely turn off both wireless and Bluetooth connections."
-msgstr ""
-
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
 #. the file changes, the md5 hash will change to let you know you need to
@@ -5341,7 +5305,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/printing-from-applications.page:34
-msgid "Click on the <gui>Print</gui> option near the bottom of the list in that menu. You can also press <keyseq><key>Ctrl</key><key>P</key></keyseq> from the document, or click on the [writer_printer.png] icon instead."
+msgid "Click on the <gui>Print</gui> option near the bottom of the list in that menu. You can also press <keyseq><key>Ctrl</key><key>P</key></keyseq> from the document."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -7182,7 +7146,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-organize-apps.page:36
-msgid "Type a name for your new folder (\"School\", for example) and hit <input>Enter.</input>"
+msgid "Type a name for your new folder (\"School\", for example) and hit <key>Enter</key>."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -7327,11 +7291,11 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-update-system.page:56
-msgid "Click on the <gui>Search for updates now</gui> button. If there are updates, you can choose to download and install them."
+msgid "Click on the <gui>Search for updates now</gui> button. If there are updates, they will automatically start to download and install to your system."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-update-system.page:63
+#: C/shell-update-system.page:64
 msgid "Make sure you don't go over your data limit! You may want to wait until you can get a Wi-Fi or wired internet connection. You can also contact our customer support so they can help you find other options."
 msgstr ""
 
