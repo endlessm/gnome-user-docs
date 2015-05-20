@@ -5,6 +5,6 @@ host = https://www.transifex.com
 source_file = gnome-help/gnome-help.pot
 source_lang = en
 file_filter = gnome-help/<lang>/<lang>.po
-trans.pt = pt_dummy.po
+trans.pt_BR = pt_BR_dummy.po
 type = PO
 
