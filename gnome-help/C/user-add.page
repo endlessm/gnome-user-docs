@@ -85,6 +85,9 @@
     <item>
       <p>Press <gui style="button">Unlock</gui> in the top right corner and
       type in your password when prompted.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-unlock.png"/>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-auth.png"/>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-auth-confirm.png"/>
     </item>
     <item>
       <p>Press the <gui style="button">+</gui> button, below the list of
