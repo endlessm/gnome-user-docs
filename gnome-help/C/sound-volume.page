@@ -45,7 +45,7 @@
  sounds from websites don't interrupt the music.</p>
  <p>Some applications have volume controls in their main windows. If your
  application has one of these, use that to change the volume. Otherwise, click
- the sound icon on the taskbar and select <gui>Sound Settings</gui>. Go to the
+ the sound icon on the task bar and select <gui>Sound Settings</gui>. Go to the
  <gui>Applications</gui> tab and change the volume of the application there.</p>
  <p>Only applications that are playing sounds will be listed. If an application
  is playing sounds but isn't listed, it might not support the feature that lets

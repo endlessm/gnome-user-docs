@@ -18,11 +18,11 @@
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
   </info>
 
-<title>I can't see my wireless network in the list</title>
+<title>I can't see my wireless network on the list</title>
 
 <p>There are a number of reasons why you might not be able to see your wireless
- network on the list of networks which appears when you click the network icon
- on the taskbar.</p>
+ network on the list that appears when you click the network icon
+ on the task bar.</p>
 
 <list>
  <item>
@@ -33,8 +33,8 @@
  <item>
   <p>If there are lots of wireless networks nearby, the network you are looking
   for might not be on the first page of the list. If this is the case, look at
-  the bottom of the list for an arrow pointing towards the right and hover your
-  mouse over it to display the rest of the wireless networks.</p>
+  the bottom of the list for "More" and an arrow pointing towards the right.
+  Click "More" to see the rest of the wireless networks.</p>
  </item>
 
  <item>

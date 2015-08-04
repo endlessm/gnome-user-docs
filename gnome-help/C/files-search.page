@@ -25,7 +25,7 @@
     <desc>Locate your photos, music and documents. Save your frequently used searches.</desc>
   </info>
 
-  <title>Search for your saved photos, music, documents and folders</title>
+  <title>Search for your saved photos, music, documents, and folders</title>
 
   <p>If you don't know what you did with something you saved or downloaded to
   your computer, don't worry, you can search for it! You can search for files
@@ -88,10 +88,10 @@
 
   <steps>
     <title>Save a search</title>
-    <item><p>Start a search as above.</p></item>
+    <item><p>Start a search by following the instructions right above.</p></item>
     <item><p>When you're happy with the search parameters, click the ⚙ gear
     button and select <gui>Save Search As</gui>.</p></item>
-    <item><p>Give the search a name and click <gui>Save</gui>. If you like,
+    <item><p>Give the search a name and click <gui>Save</gui>. If you'd like,
     select a different folder to save the search in. When you view that folder,
     you will see your saved search as an orange folder icon with a magnifying
     glass on it.</p></item>
