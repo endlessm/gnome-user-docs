@@ -39,7 +39,7 @@
  <p>These instructions apply to both files and folders. You copy and move files
  and folders in exactly the same way.</p>
 
-<steps ui:expanded="false">
+<steps>
 <title>Copy and paste files</title>
 <item>
   <p>Select the file you want to copy by clicking on it once.</p>
@@ -61,7 +61,7 @@
 </item>
 </steps>
 
-<steps ui:expanded="false">
+<steps>
 <title>Cut and paste files to move them</title>
 <item>
   <p>Select the file you want to move by clicking on it once.</p>
@@ -82,7 +82,7 @@
 </item>
 </steps>
 
-<steps ui:expanded="false">
+<steps>
 <title>Drag files to copy or move</title>
 <item><p>Click on <media its:translate="no" type="image" mime="image/png"
  src="figures/eos-icon-documents.png"><gui>Documents</gui></media> from the
