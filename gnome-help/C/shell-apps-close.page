@@ -31,10 +31,10 @@
 
   <p><gui>Exiting full screen displays:</gui></p>
 
-  <p>If you cannot see an <gui>X</gui> button, you can exit thes app by pressing
+  <p>If you cannot see an <gui>X</gui> button, you can exit the app by pressing
   the <key>Esc</key> key on your keyboard, which is usually on the left-hand
   corner of your keyboard. The window should close completely or become smaller
-  so that you can see the top bar of the window and the Endless taskbar at the
+  so that you can see the top bar of the window and the Endless task bar at the
   bottom. If the window becomes smaller, you can then click the <gui>X</gui> to
   quit.</p>
   <media its:translate="no" type="image" mime="image/png" src="figures/eos-keyboard-escape.png"/>

@@ -44,11 +44,11 @@
     Set a file to read-only if you don't want to accidentally change it.</p>
 
     <p>Every user on your computer belongs to a group. On home computers,
-    it is common for each user to have their own group, and group permissions
+    each user typically has their own group, and group permissions
     are not often used. In corporate environments, groups are sometimes used
-    for departments or projects. As well as having an owner, each file belongs
+    for departments or projects. Each file has an owner and belongs
     to a group. You can set the file's group and control the permissions for
-    all users in that group. You can only set the file's group to a group you
+    all users in that group, but you can only set the file's group to a group you
     belong to.</p>
 
     <p>You can also set the permissions for users other than the owner and
@@ -94,8 +94,8 @@
     <p>You can also quickly set the file permissions for all the files
     in the folder by clicking <gui>Change Permissions for Enclosed Files</gui>.
     Use the drop-down lists to adjust the permissions of contained files or
-    folders, and click <gui>Change</gui>. Permissions are applied to files and
-    folders in subfolders as well, to any depth.</p>
+    folders, and click <gui>Change</gui>. Permissions are applied to files and to all
+    folders in subfolders as well.</p>
   </section>
 
 </page>

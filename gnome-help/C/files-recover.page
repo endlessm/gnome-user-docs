@@ -1,4 +1,5 @@
 <page xmlns="http://projectmallard.org/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="task"
       id="files-recover">
 
@@ -26,7 +27,9 @@
   <steps>
     <title>To restore a file from the Trash:</title>
     <item>
-      <p>Click on the <app>Documents</app> icon from the <gui>Desktop</gui>.</p>
+      <p>Click on <media its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-documents.png"><gui>Documents</gui></media> from the
+      <gui>Desktop</gui>.</p>
     </item>
     <item>
       <p>Click <gui>Trash</gui> in the sidebar.</p>

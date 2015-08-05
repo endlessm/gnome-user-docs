@@ -44,7 +44,7 @@ external hard disks), on file servers, and on network shares.</p>
 
 <p>To start the file manager, click on the <app>Documents</app> icon on the
 <gui>Desktop</gui>. You can also search for files and folders using the
-<gui>global search bar</gui> at the bottom of your desktop.</p>
+<gui>global search bar</gui> at the top of your desktop.</p>
 
 <section id="files-view-folder-contents">
   <title>Exploring the contents of folders</title>

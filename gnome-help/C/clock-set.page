@@ -20,7 +20,7 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>Click the clock on the taskbar and go into the <gui>Date &amp; Time Settings</gui> to alter the date/time.</desc>
+    <desc>Click the clock on the task bar and go into the <gui>Date &amp; Time Settings</gui> to alter the date/time.</desc>
   </info>
 
 <title>Change the date and time</title>
@@ -30,7 +30,7 @@
 
   <steps>
     <item>
-      <p>Click on the clock on the taskbar at the bottom right of your screen
+      <p>Click on the clock on the task bar at the bottom right of your screen
       and select <gui>Date &amp; Time Settings</gui>.</p>
     </item>
     <item>

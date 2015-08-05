@@ -20,8 +20,8 @@
 
   <title>Create zip files</title>
 
-  <p>Zip files allow you store your files in less space. This is especially
-  good when you are trying to share files with friends.</p>
+  <p>Zip files allow you to store your files in less space. This is especially
+  helpful when you are trying to share files with friends.</p>
 
   <steps>
     <title>To create a zip file, follow these steps:</title>
@@ -40,6 +40,6 @@
 
   <p>Your computer will create a compressed copy of the file or folder, which
   will appear right next to the original. You can move that zip file somewhere
-  else, or share it with whomever you wish more quickly and easily than if you
+  else, or share it more quickly and easily than if you
   tried to send the original!</p>
 </page>

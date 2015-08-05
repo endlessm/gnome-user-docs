@@ -29,13 +29,9 @@
 
 <title>Turn Bluetooth on or off</title>
 
-<media its:translate="no" type="image" src="figures/bluetooth-menu.png" style="floatend">
-  <p its:translate="yes">The Bluetooth icon on the taskbar</p>
-</media>
-
   <comment>
     <cite date="2013-11-09" href="mailto:mdhillca@gmail.com">mdhill</cite>
-    <p>Add link to shell-terminology definition of system status *area* of taskbar
+    <p>Add link to shell-terminology definition of system status *area* of task bar
     when it has been written, explain that if your network connection is
     through a bluetooth device it will show up in the system status *menu*
     and only then will its icon be visible as shown.</p>

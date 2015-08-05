@@ -1,5 +1,6 @@
 <page xmlns="http://projectmallard.org/1.0/"
       xmlns:if="http://projectmallard.org/if/1.0/"
+      xmlns:its="http://www.w3.org/2005/11/its"
       type="topic" style="task" version="1.0 if/1.0"
       id="media-import-from-device">
 
@@ -31,7 +32,9 @@
         Endless computer.</p>
       </item>
       <item>
-        <p>Click on the <app>Documents</app> icon from your desktop.</p>
+        <p>Click on <media its:translate="no" type="image" mime="image/png"
+        src="figures/eos-icon-documents.png"><gui>Documents</gui></media> from the
+        <gui>Desktop</gui>.</p>
       </item>
       <item>
         <p>You will see the name of your device appear on the left hand side
@@ -59,7 +62,9 @@
       <title>Safely disconnect your camera or phone:</title>
 
       <item>
-        <p>Click on the <app>Documents</app> icon from your desktop.</p>
+        <p>Click on <media its:translate="no" type="image" mime="image/png"
+        src="figures/eos-icon-documents.png"><gui>Documents</gui></media> from the
+        <gui>Desktop</gui>.</p>
       </item>
       <item>
         <p>Locate the device in the sidebar. It should have a small eject icon

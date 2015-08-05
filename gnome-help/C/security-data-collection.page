@@ -22,7 +22,7 @@
   <title>Data Collection</title>
 
   <p>Endless collects metrics on user behavior and actions. We use the data to
-  improve the apps and the system. All data sent is anonymous.</p>
+  improve the apps and the system. All data sent is anonymously.</p>
 
   <p>You can disable <gui>Metrics Collection</gui> under
   <guiseq><gui>Settings</gui><gui>Privacy</gui><gui>Metrics</gui></guiseq>.</p>

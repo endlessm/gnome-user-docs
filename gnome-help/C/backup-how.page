@@ -40,12 +40,7 @@
 <list>
  <item><p>Files that are already backed up somewhere else, such as to a CD, DVD,
  or other removable media.</p></item>
- <item><p>Files that you can recreate easily. For example, if you are a
- programmer, you don't have to back up the files that get produced when you
- compile your programs. Instead, just make sure that you back up the original
- source files.</p></item>
- <item><p>Any files in the Trash folder. Your Trash folder can be found in
- <file>~/.local/share/Trash</file>.</p></item>
+ <item><p>Any files in the Trash folder.</p></item>
 </list>
 
 </page>

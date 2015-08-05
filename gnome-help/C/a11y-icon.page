@@ -15,7 +15,7 @@
       <email its:translate="no">philbull@gmail.com</email>
     </credit>
 
-    <desc>The universal access menu is the icon on the taskbar that looks like
+    <desc>The universal access menu is the icon on the task bar that looks like
     a person.</desc>
   </info>
 
@@ -23,10 +23,10 @@
 
   <p>The <em>universal access menu</em> is where you can turn on some of the
   accessibility settings. You can find this menu by clicking the icon which
-  looks like a person surrounded by a circle on the top bar.</p>
+  looks like a person surrounded by a circle on the task bar.</p>
 
   <figure>
-    <desc>The universal access menu can be found on the taskbar.</desc>
+    <desc>The universal access menu can be found on the task bar.</desc>
     <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-a11y-icon.png"/>
   </figure>
 

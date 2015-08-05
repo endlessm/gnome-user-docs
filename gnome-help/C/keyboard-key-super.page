@@ -20,15 +20,19 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>The <key>Super</key> key lets you see all of your open windows at the same time. You can usually find it next to the <key>Alt</key> key on your keyboard.</desc>
+    <desc>The <key>Super</key> key hides your open windows so that you can see
+    your desktop. You can usually find it next to the <key>Alt</key> key on your
+    keyboard.</desc>
   </info>
 
   <title>Use the <key>Super</key> key</title>
 
-  <p>When you press the <key>Super</key> key, you will be able to see all of
-  your open windows. This key can usually be found on the bottom-left of your
-  keyboard, next to the <key>Alt</key> key, and usually has a Windows logo on
-  it. It is sometimes called the <em>Windows key</em> or system key.</p>
+  <p>When you press the <key>Super</key> key, you will be able to see your
+  desktop. You can also press <key>Super</key> + <key>S</key> to see all of your
+  open windows at the same time. This key can usually be found on the bottom-
+  left of your keyboard, next to the <key>Alt</key> key, and usually has a
+  Windows logo on it. It is sometimes called the <em>Windows key</em> or system
+  key.</p>
   <media its:translate="no" type="image" mime="image/png" src="figures/eos-keyboard-super.png"/>
 
   <note>
@@ -43,7 +47,7 @@
 </comment>
 
   <steps>
-    <title>To change which key is used to display your open windows
+    <title>To change which keys are used to display your open windows
     overview:</title>
     <item>
       <p>Click on the <media its:translate="no" type="image" mime="image/png"

@@ -30,16 +30,16 @@
 
   <list>
     <item>
-      <p>the name of the logged-in user</p>
+      <p>The name of the logged-in user</p>
     </item>
     <item>
-      <p>date and time, and certain notifications</p>
+      <p>Date and time, and certain notifications</p>
     </item>
     <item>
-      <p>battery and network status</p>
+      <p>Battery and network status</p>
     </item>
     <item>
-      <p>the ability to control media playback - change the volume, skip a track
+      <p>The ability to control media playback - change the volume, skip a track
       or pause your music without having to enter a password</p>
     </item>
   </list>
