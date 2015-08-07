@@ -39,8 +39,8 @@
  <title>Take a screenshot</title>
 <steps>
 <item>
-  <p>Install the <gui>Screenshot</gui> application from the <gui>App
-  Store</gui>, under the <gui>Utilities</gui> category, and open it.</p>
+  <p>Install the <gui>Screenshot</gui> application from the <app>App
+  Center</app>, under the <gui>Utilities</gui> category, and open it.</p>
   <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-app-store.png"/>
   <media its:translate="no" type="image" mime="image/png" src="figures/eos-app-store-tools.png"/>
 </item>
