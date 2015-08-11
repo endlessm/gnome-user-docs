@@ -217,7 +217,6 @@ msgstr "Activar y desactivar rápidamente el rechazo de teclas repetidas"
 
 #. (itstool) path: note/p
 #: C/a11y-bouncekeys.page:63
-#, fuzzy
 msgid ""
 "You can turn bounce keys on and off by clicking the <link xref=\"a11y-icon"
 "\">accessibility icon</link> on the task bar at the bottom of your screen "
@@ -447,7 +446,6 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/a11y-font-size.page:52
-#, fuzzy
 msgid ""
 "Alternatively, you can quickly change the text size by clicking the <link "
 "xref=\"a11y-icon\">accessibility icon</link> on the task bar and selecting "
@@ -470,7 +468,6 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/a11y-icon.page:18
-#, fuzzy
 msgid ""
 "The universal access menu is the icon on the task bar that looks like a "
 "person."
@@ -485,7 +482,6 @@ msgstr "Encontrar el menú de acceso universal"
 
 #. (itstool) path: page/p
 #: C/a11y-icon.page:24
-#, fuzzy
 msgid ""
 "The <em>universal access menu</em> is where you can turn on some of the "
 "accessibility settings. You can find this menu by clicking the icon which "
@@ -497,7 +493,6 @@ msgstr ""
 
 #. (itstool) path: figure/desc
 #: C/a11y-icon.page:29
-#, fuzzy
 msgid "The universal access menu can be found on the task bar."
 msgstr "El menú de acceso universal se puede encontrar en la barra de tareas."
 
@@ -566,7 +561,6 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/a11y-mag.page:67
-#, fuzzy
 msgid ""
 "You can quickly turn zoom on and off by clicking the <link xref=\"a11y-icon"
 "\">accessibility icon</link> on the task bar and selecting <gui>Zoom</gui>."
@@ -792,7 +786,6 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/a11y-slowkeys.page:70
-#, fuzzy
 msgid ""
 "You can also turn slow keys on and off by clicking the <link xref=\"a11y-icon"
 "\">accessibility icon</link> on the task bar and selecting <gui>Slow Keys</"
@@ -893,7 +886,6 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/a11y-stickykeys.page:74
-#, fuzzy
 msgid ""
 "You can also turn sticky keys on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting <gui>Sticky "
@@ -1018,7 +1010,6 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/a11y-visualalert.page:66
-#, fuzzy
 msgid ""
 "You can quickly turn visual alerts on and off by clicking the <link xref="
 "\"a11y-icon\">accessibility icon</link> on the task bar and selecting "
@@ -1042,7 +1033,6 @@ msgstr "Acceso universal"
 
 #. (itstool) path: page/p
 #: C/a11y.page:27
-#, fuzzy
 msgid ""
 "Endless includes assistive technologies to support users with various "
 "impairments and special needs, and to interact with common assistive "
@@ -2055,7 +2045,6 @@ msgstr "Enviar archivos a un dispositivo Bluetooth"
 
 #. (itstool) path: page/p
 #: C/bluetooth-send-file.page:33
-#, fuzzy
 msgid ""
 "You can send files from your computer to other Bluetooth compatible devices, "
 "like some mobile phones, some speakers, or other computers. You can send "
@@ -2209,7 +2198,6 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/clock-set.page:23
-#, fuzzy
 msgid ""
 "Click the clock on the task bar and go into the <gui>Date &amp; Time "
 "Settings</gui> to alter the date/time."
@@ -2232,7 +2220,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/clock-set.page:33
-#, fuzzy
 msgid ""
 "Click on the clock on the task bar at the bottom right of your screen and "
 "select <gui>Date &amp; Time Settings</gui>."
@@ -2297,7 +2284,6 @@ msgstr "Cambiar su zona horaria"
 
 #. (itstool) path: item/p
 #: C/clock-timezone.page:34
-#, fuzzy
 msgid ""
 "Click on the clock on the task bar on the bottom right side of your screen "
 "and select <gui>Date &amp; Time Settings</gui>."
@@ -4636,7 +4622,6 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/keyboard-layouts.page:90
-#, fuzzy
 msgid ""
 "The task bar will display a short identifier for the current layout, such as "
 "<gui>en</gui> for the standard English layout. Click the layout indicator "
@@ -6595,7 +6580,6 @@ msgstr "Descubre nuevos sitios web"
 
 #. (itstool) path: page/p
 #: C/net-discover-websites.page:24
-#, fuzzy
 msgid ""
 "We've put together a collection of websites that you might find interesting. "
 "To start discovering, just click the Internet icon on your desktop or on the "
@@ -6851,7 +6835,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/net-manual.page:78
-#, fuzzy
 msgid ""
 "Click <gui>Apply</gui>. If you are not connected to the network, click the "
 "system status area on the task bar and connect. Test the network settings by "
@@ -6891,7 +6874,6 @@ msgstr "Para leer las noticias en línea:"
 
 #. (itstool) path: item/p
 #: C/net-read-news.page:31
-#, fuzzy
 msgid ""
 "Click the Internet icon on your desktop or on the task bar to open the "
 "browser."
@@ -7022,7 +7004,6 @@ msgstr "<em style=\"strong\">Señal de conexión inalámbrica baja</em>"
 
 #. (itstool) path: item/p
 #: C/net-slow.page:42
-#, fuzzy
 msgid ""
 "If you're connected to the internet by wireless (wifi), check the network "
 "icon on the task bar to see if you have good wireless signal. If not, the "
@@ -7245,7 +7226,6 @@ msgstr "Conectar a una red cableada (Ethernet)"
 
 #. (itstool) path: page/p
 #: C/net-wired-connect.page:21
-#, fuzzy
 msgid ""
 "To set up most wired network connections, all you need to do is plug in a "
 "network cable. The network icon on the task bar at the bottom of your screen "
@@ -7610,7 +7590,6 @@ msgstr ""
 
 #. (itstool) path: section/p
 #: C/net-wireless-disconnecting.page:44
-#, fuzzy
 msgid ""
 "The network icon on the task bar displays how strong your wireless signal "
 "is. If the signal looks low, try moving closer to the wireless base station."
@@ -9963,7 +9942,6 @@ msgstr "<gui>Salir de visualización en pantalla completa:</gui>"
 
 #. (itstool) path: page/p
 #: C/shell-apps-close.page:34
-#, fuzzy
 msgid ""
 "If you cannot see an <gui>X</gui> button, you can exit the app by pressing "
 "the <key>Esc</key> key on your keyboard, which is usually on the left-hand "
@@ -10111,7 +10089,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:105
-#, fuzzy
 msgid ""
 "Click on the <_:media-1/> button, and your link will be installed to the "
 "desktop. Add another website, or else close the App Center to find your new "
@@ -10174,7 +10151,6 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/shell-delete-app-desktop.page:51
-#, fuzzy
 msgid ""
 "Deleting the app from your desktop doesn't remove it from the system. If you "
 "want to delete the app entirely from the system to make storage space "
@@ -10182,7 +10158,7 @@ msgid ""
 msgstr ""
 "Eliminando el programa del escritorio no lo elimina del sistema. Si deseas "
 "eliminar un programa por completo del sistema para aumentar el espacio de "
-"almacenamiento, puedes hacerlo desde el <gui>Centro de programas</gui>."
+"almacenamiento, puedes hacerlo desde el <app>Centro de programas</app>."
 
 #. (itstool) path: info/desc
 #: C/shell-download-media.page:15
@@ -10486,14 +10462,13 @@ msgstr "Instalar programas que no vienen en Endless"
 
 #. (itstool) path: page/p
 #: C/shell-install-ext-apps.page:23
-#, fuzzy
 msgid ""
 "Currently, it is not possible to install software or apps outside of the "
 "<app>App Center</app>. Luckily, Endless comes with a lot of great, and free, "
 "apps for you to explore!"
 msgstr ""
-"Actualmente, no es posible instalar programas fuera del <gui>Centro de "
-"contenido</gui>. ¡Por suerte, Endless viene con un montón de programas "
+"Actualmente, no es posible instalar programas fuera del <app>Centro de "
+"contenido</app>. ¡Por suerte, Endless viene con un montón de programas "
 "poderosos y gratis para instalar y explorar!"
 
 #. (itstool) path: page/p
@@ -10535,7 +10510,6 @@ msgstr "Introducción a Endless"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:33
-#, fuzzy
 msgid ""
 "Endless has been created just for you. When you first turn your computer on, "
 "you'll find some important applications already installed on your desktop, "
@@ -10548,7 +10522,6 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:37
-#, fuzzy
 msgid ""
 "The task bar provides access to important things like your windows and "
 "applications, your calendar and clock, and system properties like sound and "
@@ -10568,7 +10541,6 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/shell-introduction.page:48
-#, fuzzy
 msgid "<app>App Center</app> overview"
 msgstr "Información sobre el <gui>Centro de programas</gui>"
 
@@ -11831,7 +11803,6 @@ msgstr ""
 
 #. (itstool) path: section/p
 #: C/sound-volume.page:46
-#, fuzzy
 msgid ""
 "Some applications have volume controls in their main windows. If your "
 "application has one of these, use that to change the volume. Otherwise, "
