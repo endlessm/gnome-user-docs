@@ -430,7 +430,7 @@ msgid ""
 "Switch <gui>Large Text</gui> to <gui>On</gui> in the <gui>Seeing</gui> "
 "section."
 msgstr ""
-"Altere <gui>Texto grande</gui> para <gui>On</gui> na seção <gui>Visão/gui>."
+"Altere <gui>Texto grande</gui> para <gui>On</gui> na seção <gui>Visão</gui>."
 
 #. (itstool) path: page/p
 #: C/a11y-font-size.page:52
@@ -907,7 +907,7 @@ msgstr ""
 "Por exemplo, se você estiver com as teclas de aderência ativadas, mas "
 "pressionar <key>Super</key> e <key>Tab</key> simultaneamente, as teclas de "
 "aderência não vão esperar você pressionar outra tecla como se você estivesse "
-"com a opção ativa. Ele <em>esperaria<em> se só tivesse pressionado uma "
+"com a opção ativa. Ele <em>esperaria</em> se só tivesse pressionado uma "
 "tecla. Isso é útil se você for capaz de pressionar alguns atalhos de teclado "
 "simultaneamente (por exemplo, teclas que sejam próximas), mas não outros."
 
@@ -1718,8 +1718,7 @@ msgid ""
 "xref=\"bluetooth-turn-on-off\"/>."
 msgstr ""
 "Antes de começar, assegure-se que o Bluetooth está habilitado no seu "
-"computador. Veja <link xref=\"bluetooth-turn-on-off\"/>Ligando ou desligando "
-"o Bluetooth. </link>"
+"computador. Veja <link xref=\"bluetooth-turn-on-off\"/>."
 
 #. (itstool) path: item/p
 #: C/bluetooth-connect-device.page:53 C/bluetooth-remove-connection.page:51
@@ -2231,7 +2230,7 @@ msgid ""
 "gui> and <gui>Automatic Time Zone</gui> to <gui>On</gui>."
 msgstr ""
 "Você tem uma conexão à internet, você pode configurar para que a sua data, "
-"hora e fuso horário sejam atualizados automaticamente alternando <gui>Data & "
+"hora e fuso horário sejam atualizados automaticamente alternando <gui>Data &amp; "
 "hora automática</gui> e <gui>Fuso horário automático</gui> para <gui>On</"
 "gui>."
 
@@ -2284,7 +2283,7 @@ msgid ""
 "zone should update automatically if you have an internet connection. To "
 "update your time zone manually, set this to <gui>Off</gui>."
 msgstr ""
-"Se você tiver o <gui>Fuso horário automático<gui> definido para <gui>On</"
+"Se você tiver o <gui>Fuso horário automático</gui> definido para <gui>On</"
 "gui>, seu fuso horário deveria atualizar automaticamente, se você tiver uma "
 "conexão internet. Para atualizar seu fuso horário manualmente, defina isso "
 "para <gui>Off</gui>."
@@ -4011,7 +4010,7 @@ msgid ""
 "your desktop, and that your email account is configured. Look for it on the "
 "<gui>Social</gui> folder on the desktop."
 msgstr ""
-"Antes de começar, garanta que o aplicativo <app>E-mail</gui> está instalado "
+"Antes de começar, garanta que o aplicativo <app>E-mail</app> está instalado "
 "na sua área de trabalho, e que sua conta de e-mail está configurada. Busque "
 "pelo aplicativo na pasta <gui>Social</gui> na sua área de trabalho. "
 
@@ -4396,7 +4395,7 @@ msgstr ""
 "A tecla <key>Menu</key> é, em alguns casos, omitida em nome de espaço, "
 "particularmente em teclados portáteis e laptops. Neste caso, alguns teclados "
 "incluem uma tecla de função <key>Menu</key> que pode ser ativada em "
-"combinação com a tecla Function (key>Fn</key>)."
+"combinação com a tecla Function (<key>Fn</key>)."
 
 #. (itstool) path: page/p
 #: C/keyboard-key-menu.page:53
@@ -4538,7 +4537,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/keyboard-layouts.page:57 C/session-language.page:47
 msgid "Click on <gui>Region &amp; Language</gui>."
-msgstr "Clique em <gui>Região & idioma</gui>."
+msgstr "Clique em <gui>Região &amp; idioma</gui>."
 
 #. (itstool) path: item/p
 #: C/keyboard-layouts.page:61
@@ -4668,7 +4667,7 @@ msgid ""
 "keyboard-shortcuts\"/> instead."
 msgstr ""
 "Para atalhos de teclado que são úteis para todos os usuários, veja <link "
-"xref=\"shell-keyboard-shortcuts\"/>Atalhos de teclado úteis </link> no lugar."
+"xref=\"shell-keyboard-shortcuts\"/> no lugar."
 
 #. (itstool) path: note/p
 #: C/keyboard-nav.page:47
@@ -6471,7 +6470,7 @@ msgstr ""
 "conta com um deles, você precisará ler as suas instruções. Abaixo, você "
 "encontrará uma lista de alguns dos mais populares provedores de contas de e-"
 "mail gratuitos. Tente pesquisar por eles e você encontrará instruções sobre "
-"como <gui> se inscrever </ gui>"
+"como <gui>se inscrever</gui>"
 
 #. (itstool) path: list/title
 #: C/net-create-email.page:33
@@ -6814,7 +6813,7 @@ msgid ""
 "trying to visit a website or look at shared files on the network, for "
 "example."
 msgstr ""
-"Clique em <gui>Aplicar. Se você não estiver conectado na rede, clique status "
+"Clique em <gui>Aplicar</gui>. Se você não estiver conectado na rede, clique status "
 "de sistema na barra de tarefas  e conecte. Teste as configurações de rede "
 "tentando visitar algum site na internet ou olha em alguns lugares "
 "compartilhados na sua rede, por exemplo."
@@ -9710,7 +9709,7 @@ msgid ""
 "want to edit, click <gui>OK</gui> or press <key>Enter</key>."
 msgstr ""
 "Para visualizar as amostras de imagens que vêm no seu computador, clique "
-"duas vezes na pasta </Amostras</gui>. Percorra as imagens e veja uma pequena "
+"duas vezes na pasta <gui>Amostras</gui>. Percorra as imagens e veja uma pequena "
 "versão delas do lado direito da janela. Quando encontrar a imagem que deseja "
 "editar, clique em <gui>OK</gui> ou pressione <key>Enter</key>."
 
@@ -9973,7 +9972,7 @@ msgid ""
 "your desktop by clicking <gui>Add to desktop</gui>."
 msgstr ""
 "Alguns programas já estão baixados nos seu computador e você pode adiciona-"
-"los à área de trabalho clicando em </gui>Adicionar à área de trabalho</gui>."
+"los à área de trabalho clicando em <gui>Adicionar à área de trabalho</gui>."
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:62
@@ -11079,8 +11078,8 @@ msgstr "Clique em <gui>Notificações</gui>."
 #: C/shell-notifications.page:111
 msgid "Switch <gui>Show Pop Up Banners</gui> to <gui>Off</gui>."
 msgstr ""
-"Alterne <gui> Mostrar janelas instantâneas de banners</gui> "
-"para <gui>Off<gui>."
+"Alterne <gui>Mostrar janelas instantâneas de banners</gui> "
+"para <gui>Off</gui>."
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:115
@@ -11527,7 +11526,7 @@ msgid ""
 "it to the top of the screen. Drag a window to one side of the screen to "
 "maximize it along the side, allowing you to tile windows side by side."
 msgstr ""
-"<link xref=\"shell-windows-maximize\">Maximize uma janela<link> arrastando "
+"<link xref=\"shell-windows-maximize\">Maximize uma janela</link> arrastando "
 "para o canto superior da tela. Arraste a janela para um dos lados da tela "
 "para maximiza-la na lateral, permitindo que ajuste as janelas lado a lado."
 
@@ -11619,7 +11618,7 @@ msgid ""
 "<key>↓</key> key."
 msgstr ""
 "Visualização de aplicações com uma única janela podem ser exibidas com a "
-"tecla <key> ↓ </ key>."
+"tecla <key>↓</key>."
 
 #. (itstool) path: info/desc
 #: C/sound-alert.page:27
@@ -11679,7 +11678,7 @@ msgid ""
 "<gui>Off</gui>."
 msgstr ""
 "Para desabilitar completamente os sons de alerta, alterne o <gui>Volume de "
-"alerta</gui> para <gui> para <gui>Off</gui>."
+"alerta</gui> para <gui>Off</gui>."
 
 #. (itstool) path: info/desc
 #: C/sound-volume.page:20
@@ -12339,7 +12338,7 @@ msgid ""
 "You can press on the <gui style=\"button\"><_:media-1/></gui> icon to "
 "automatically generate a random password."
 msgstr ""
-"Você pode pressionar no ícone <gui style=\"button\"><_:media-1></gui> para "
+"Você pode pressionar no ícone <gui style=\"button\"><_:media-1/></gui> para "
 "automaticamente gerar uma senha aleatória."
 
 #. (itstool) path: item/p
