@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-12-30 16:31-0800\n"
+"POT-Creation-Date: 2015-08-11 15:55-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,7 +44,7 @@ msgstr ""
 #: C/files-delete.page:16
 #: C/files-open.page:18
 #: C/files-preview.page:13
-#: C/files-removedrive.page:8
+#: C/files-removedrive.page:9
 #: C/files-rename.page:16
 #: C/files-search.page:15
 #: C/files-share.page:14
@@ -134,7 +134,7 @@ msgstr ""
 #: C/files-browse.page:25
 #: C/files-copy.page:22
 #: C/files-delete.page:25
-#: C/files-removedrive.page:16
+#: C/files-removedrive.page:17
 #: C/files-rename.page:24
 #: C/files-search.page:19
 #: C/files-share.page:18
@@ -239,11 +239,11 @@ msgstr ""
 #: C/bluetooth-connect-device.page:47
 #: C/bluetooth-remove-connection.page:45
 #: C/bluetooth-send-file.page:52
-#: C/bluetooth-turn-on-off.page:48
-#: C/bluetooth-turn-on-off.page:64
+#: C/bluetooth-turn-on-off.page:44
+#: C/bluetooth-turn-on-off.page:60
 #: C/display-dual-monitors.page:82
 #: C/keyboard-cursor-blink.page:43
-#: C/keyboard-key-super.page:49
+#: C/keyboard-key-super.page:53
 #: C/keyboard-layouts.page:51
 #: C/keyboard-osk.page:41
 #: C/keyboard-repeat-keys.page:46
@@ -306,7 +306,7 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/a11y-bouncekeys.page:63
-msgid "You can turn bounce keys on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on the taskbar at the bottom of your screen and selecting <gui>Bounce Keys</gui>. The accessibility icon is visible when one or more settings have been enabled from the <gui>Universal Access</gui> panel."
+msgid "You can turn bounce keys on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on the task bar at the bottom of your screen and selecting <gui>Bounce Keys</gui>. The accessibility icon is visible when one or more settings have been enabled from the <gui>Universal Access</gui> panel."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -431,7 +431,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/a11y-font-size.page:52
-msgid "Alternatively, you can quickly change the text size by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on the taskbar and selecting <gui>Large Text</gui>."
+msgid "Alternatively, you can quickly change the text size by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on the task bar and selecting <gui>Large Text</gui>."
 msgstr ""
 
 #. (itstool) path: note/p
@@ -441,7 +441,7 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/a11y-icon.page:18
-msgid "The universal access menu is the icon on the taskbar that looks like a person."
+msgid "The universal access menu is the icon on the task bar that looks like a person."
 msgstr ""
 
 #. (itstool) path: page/title
@@ -451,12 +451,12 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/a11y-icon.page:24
-msgid "The <em>universal access menu</em> is where you can turn on some of the accessibility settings. You can find this menu by clicking the icon which looks like a person surrounded by a circle on the top bar."
+msgid "The <em>universal access menu</em> is where you can turn on some of the accessibility settings. You can find this menu by clicking the icon which looks like a person surrounded by a circle on the task bar."
 msgstr ""
 
 #. (itstool) path: figure/desc
 #: C/a11y-icon.page:29
-msgid "The universal access menu can be found on the taskbar."
+msgid "The universal access menu can be found on the task bar."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -506,7 +506,7 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/a11y-mag.page:67
-msgid "You can quickly turn zoom on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on the taskbar and selecting <gui>Zoom</gui>."
+msgid "You can quickly turn zoom on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on the task bar and selecting <gui>Zoom</gui>."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -526,7 +526,7 @@ msgstr ""
 
 #. (itstool) path: credit/years
 #: C/a11y-right-click.page:17
-#: C/files-removedrive.page:18
+#: C/files-removedrive.page:19
 #: C/keyboard-layouts.page:15
 #: C/keyboard-nav.page:21
 #: C/screen-shot-record.page:20
@@ -627,7 +627,7 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/a11y-slowkeys.page:70
-msgid "You can also turn slow keys on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on the taskbar and selecting <gui>Slow Keys</gui>. The accessibility icon is visible when one or more settings have been enabled from the <gui>Universal Access</gui> panel."
+msgid "You can also turn slow keys on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on the task bar and selecting <gui>Slow Keys</gui>. The accessibility icon is visible when one or more settings have been enabled from the <gui>Universal Access</gui> panel."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -677,7 +677,7 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/a11y-stickykeys.page:74
-msgid "You can also turn sticky keys on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on the taskbar and selecting <gui>Sticky Keys</gui>. The accessibility icon is visible when one or more settings have been enabled from the <gui>Universal Access</gui> panel."
+msgid "You can also turn sticky keys on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on the task bar and selecting <gui>Sticky Keys</gui>. The accessibility icon is visible when one or more settings have been enabled from the <gui>Universal Access</gui> panel."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -737,7 +737,7 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/a11y-visualalert.page:66
-msgid "You can quickly turn visual alerts on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on the taskbar and selecting <gui>Visual Alerts</gui>."
+msgid "You can quickly turn visual alerts on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on the task bar and selecting <gui>Visual Alerts</gui>."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -752,7 +752,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/a11y.page:27
-msgid "Endless includes assistive technologies to support users with various impairments and special needs, and to interact with common assistive devices. An accessibility menu can be added to the taskbar, giving easier access to many of the accessibility features."
+msgid "Endless includes assistive technologies to support users with various impairments and special needs, and to interact with common assistive devices. An accessibility menu can be added to the task bar, giving easier access to many of the accessibility features."
 msgstr ""
 
 #. (itstool) path: section/title
@@ -787,7 +787,7 @@ msgstr ""
 #: C/bluetooth-send-file.page:16
 #: C/bluetooth-turn-on-off.page:16
 #: C/files-delete.page:21
-#: C/files-removedrive.page:12
+#: C/files-removedrive.page:13
 #: C/files-rename.page:20
 #: C/net-wireless-disconnecting.page:13
 #: C/printing-2sided.page:17
@@ -812,7 +812,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/accounts-add.page:26
-msgid "Adding an account will help link your online accounts with your Endless desktop. Thus, your email app, chat app and other related applications will be set up for you."
+msgid "Adding an account will help link your online accounts with your Endless desktop. Thus, your email, chat, and other related applications will be set up for you."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -874,7 +874,7 @@ msgstr ""
 #: C/backup-where.page:14
 #: C/clock-set.page:13
 #: C/clock-timezone.page:13
-#: C/files-recover.page:13
+#: C/files-recover.page:14
 #: C/files-rename.page:12
 #: C/files-search.page:11
 #: C/keyboard-key-super.page:13
@@ -917,7 +917,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/backup-check.page:30
-msgid "You can do an extra check by looking through the copied files and folders on the destination media. By checking to make sure that the files and folders you transferred are actually there in the backup, you can have extra confidence that the process was successful."
+msgid "You can do an extra check by looking through the copied files and folders on the destination media. By checking to make sure that the files and folders you transferred are actually there in the backup, you can be extra sure that the process was successful."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -1006,12 +1006,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/backup-how.page:43
-msgid "Files that you can recreate easily. For example, if you are a programmer, you don't have to back up the files that get produced when you compile your programs. Instead, just make sure that you back up the original source files."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/backup-how.page:47
-msgid "Any files in the Trash folder. Your Trash folder can be found in <file>~/.local/share/Trash</file>."
+msgid "Any files in the Trash folder."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -1162,7 +1157,7 @@ msgstr ""
 #: C/files-zip.page:10
 #: C/keyboard-es-accent.page:10
 #: C/look-background.page:45
-#: C/media-import-from-device.page:10
+#: C/media-import-from-device.page:11
 #: C/media-listen-music.page:11
 #: C/media-play-videos.page:11
 #: C/mouse-when-right-click.page:11
@@ -1216,7 +1211,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/backup-why.page:33
-msgid "The best way to back up your files is to do so regularly, keeping the copies somewhere other than where you keep your computer to avoid theft or them being lost in a fire together or something, and encrypting them."
+msgid "The best way to back up your files is to do so regularly, keeping the copies somewhere other than where you keep your computer to avoid theft or them being lost all together, and encrypting them."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -1253,8 +1248,8 @@ msgstr ""
 #: C/bluetooth-connect-device.page:53
 #: C/bluetooth-remove-connection.page:51
 #: C/bluetooth-send-file.page:58
-#: C/bluetooth-turn-on-off.page:54
-#: C/bluetooth-turn-on-off.page:70
+#: C/bluetooth-turn-on-off.page:50
+#: C/bluetooth-turn-on-off.page:66
 msgid "Click <gui>Bluetooth</gui>."
 msgstr ""
 
@@ -1436,7 +1431,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/bluetooth-send-file.page:33
-msgid "You can send files from your computer to other Bluetooth compatible devices, like some mobile phones, some speakers, or other computers. You can send files in one of three ways: using the Bluetooth icon on the taskbar, from the Bluetooth settings window, or directly from your Documents folder. Some types of devices don't allow the transfer of files, or specific types of files, so you may want to check with your device first."
+msgid "You can send files from your computer to other Bluetooth compatible devices, like some mobile phones, some speakers, or other computers. You can send files in one of three ways: using the Bluetooth icon on the task bar, from the Bluetooth settings window, or directly from your Documents folder. Some types of devices don't allow the transfer of files, or specific types of files, so you may want to check with your device first."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -1474,38 +1469,33 @@ msgstr ""
 msgid "Turn Bluetooth on or off"
 msgstr ""
 
-#. (itstool) path: media/p
-#: C/bluetooth-turn-on-off.page:33
-msgid "The Bluetooth icon on the taskbar"
-msgstr ""
-
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:44
+#: C/bluetooth-turn-on-off.page:40
 msgid "You can turn Bluetooth on to use Bluetooth devices and send and receive files, but turn it off to conserve power. To turn Bluetooth on:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/bluetooth-turn-on-off.page:57
+#: C/bluetooth-turn-on-off.page:53
 msgid "Set the switch in the titlebar to <gui>ON</gui>."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:61
+#: C/bluetooth-turn-on-off.page:57
 msgid "To turn Bluetooth off:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/bluetooth-turn-on-off.page:73
+#: C/bluetooth-turn-on-off.page:69
 msgid "Set the switch in the titlebar to <gui>OFF</gui>."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/bluetooth-turn-on-off.page:77
+#: C/bluetooth-turn-on-off.page:73
 msgid "You only need to switch <gui>Visibility</gui> on if you are connecting to this computer from another device. Being \"Visible\" means that other devices can find you, otherwise, they won't be able to see or access your computer from that device."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/bluetooth-turn-on-off.page:80
+#: C/bluetooth-turn-on-off.page:76
 msgid "Even if your computer is visible, you would still need to pair your computer and the other device in order to transfer any files between them."
 msgstr ""
 
@@ -1531,7 +1521,7 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/clock-set.page:23
-msgid "Click the clock on the taskbar and go into the <gui>Date &amp; Time Settings</gui> to alter the date/time."
+msgid "Click the clock on the task bar and go into the <gui>Date &amp; Time Settings</gui> to alter the date/time."
 msgstr ""
 
 #. (itstool) path: page/title
@@ -1546,7 +1536,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/clock-set.page:33
-msgid "Click on the clock on the taskbar at the bottom right of your screen and select <gui>Date &amp; Time Settings</gui>."
+msgid "Click on the clock on the task bar at the bottom right of your screen and select <gui>Date &amp; Time Settings</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -1582,7 +1572,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/clock-timezone.page:34
-msgid "Click on the clock on the taskbar on the bottom right side of your screen and select <gui>Date &amp; Time Settings</gui>."
+msgid "Click on the clock on the task bar on the bottom right side of your screen and select <gui>Date &amp; Time Settings</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -1667,7 +1657,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/files-browse.page:45
-msgid "To start the file manager, click on the <app>Documents</app> icon on the <gui>Desktop</gui>. You can also search for files and folders using the <gui>global search bar</gui> at the bottom of your desktop."
+msgid "To start the file manager, click on the <app>Documents</app> icon on the <gui>Desktop</gui>. You can also search for files and folders using the <gui>global search bar</gui> at the top of your desktop."
 msgstr ""
 
 #. (itstool) path: section/title
@@ -1897,7 +1887,7 @@ msgstr ""
 #: C/files-save.page:14
 #: C/files-zip.page:14
 #: C/keyboard-es-accent.page:14
-#: C/media-import-from-device.page:14
+#: C/media-import-from-device.page:15
 #: C/media-listen-music.page:15
 #: C/media-play-videos.page:15
 #: C/mouse-when-right-click.page:15
@@ -1930,7 +1920,7 @@ msgstr ""
 #: C/files-save.page:15
 #: C/files-zip.page:15
 #: C/keyboard-es-accent.page:15
-#: C/media-import-from-device.page:15
+#: C/media-import-from-device.page:16
 #: C/media-listen-music.page:16
 #: C/media-play-videos.page:16
 #: C/mouse-when-right-click.page:16
@@ -2095,112 +2085,115 @@ msgid "To view a preview full-screen, click the <_:media-1/> button near the bot
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/files-recover.page:7
+#: C/files-recover.page:8
 msgid "Deleted files are normally sent to the Trash, but can be recovered."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/files-recover.page:20
+#: C/files-recover.page:21
 msgid "Recover a file from the Trash"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/files-recover.page:22
+#: C/files-recover.page:23
 msgid "If you delete a file from your <app>Documents</app> folder, the file is normally placed into the <gui>Trash</gui>, and should be able to be restored."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/files-recover.page:27
+#: C/files-recover.page:28
 msgid "To restore a file from the Trash:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-recover.page:29
-#: C/files-removedrive.page:38
-msgid "Click on the <app>Documents</app> icon from the <gui>Desktop</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/files-recover.page:32
-msgid "Click <gui>Trash</gui> in the sidebar."
+#: C/files-recover.page:30
+#: C/files-removedrive.page:40
+#: C/files-share.page:46
+#: C/media-import-from-device.page:35
+#: C/media-import-from-device.page:65
+msgid "Click on <_:media-1/> from the <gui>Desktop</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/files-recover.page:35
+msgid "Click <gui>Trash</gui> in the sidebar."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/files-recover.page:38
 msgid "If your deleted file is there, click on it and select <gui>Restore</gui> near the top right of the window. The file will be restored to the folder from where it was deleted."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/files-recover.page:41
+#: C/files-recover.page:44
 msgid "If you deleted the file by pressing <keyseq><key>Shift</key><key>Delete </key></keyseq>, or by using the command line, the file has been permanently deleted. Files that have been permanently deleted can't be recovered from the <gui>Trash</gui>."
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/files-removedrive.page:23
+#: C/files-removedrive.page:24
 msgid "Eject or unmount a USB flash drive, CD, DVD, or other device."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/files-removedrive.page:27
+#: C/files-removedrive.page:28
 msgid "Safely remove an external drive"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/files-removedrive.page:29
+#: C/files-removedrive.page:30
 msgid "When you use external storage devices like USB flash drives, you should safely remove them before unplugging them. If you just unplug a device, you run the risk of unplugging while an application is still using it. This could result in some of your files being lost or damaged. If you use an external disc drive to play a CD or DVD, you can use the same steps to eject the disc from your computer."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/files-removedrive.page:37
+#: C/files-removedrive.page:38
 msgid "To eject a removable device:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-removedrive.page:40
-#: C/media-import-from-device.page:65
+#: C/files-removedrive.page:44
+#: C/media-import-from-device.page:70
 msgid "Locate the device in the sidebar. It should have a small eject icon next to the name. Click the eject icon to safely remove or eject the device."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-removedrive.page:43
-#: C/files-removedrive.page:58
-#: C/media-import-from-device.page:69
-#: C/media-import-from-device.page:92
+#: C/files-removedrive.page:47
+#: C/files-removedrive.page:62
+#: C/media-import-from-device.page:74
+#: C/media-import-from-device.page:97
 msgid "Alternately, you can right-click the name of the device in the sidebar and select <gui>Eject</gui>."
 msgstr ""
 
 #. (itstool) path: section/title
 #. (itstool) path: steps/title
-#: C/files-removedrive.page:48
-#: C/media-import-from-device.page:79
+#: C/files-removedrive.page:52
+#: C/media-import-from-device.page:84
 msgid "Safely remove a device that is in use"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/files-removedrive.page:50
+#: C/files-removedrive.page:54
 msgid "If any of the files on the device are open and in use by an application, you will not be able to safely remove the device. You will be prompted with a window telling you <gui>Volume is busy</gui>. To safely remove the device:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-removedrive.page:55
-#: C/media-import-from-device.page:83
+#: C/files-removedrive.page:59
+#: C/media-import-from-device.page:88
 msgid "Click <gui>Cancel</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-removedrive.page:56
-#: C/media-import-from-device.page:86
+#: C/files-removedrive.page:60
+#: C/media-import-from-device.page:91
 msgid "Close all the files on the device."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/files-removedrive.page:57
-#: C/media-import-from-device.page:89
+#: C/files-removedrive.page:61
+#: C/media-import-from-device.page:94
 msgid "Click the eject icon to safely remove or eject the device."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/files-removedrive.page:70
+#: C/files-removedrive.page:74
 msgid "You can also choose <gui>Eject Anyway</gui> to remove the device without closing the files. This may cause errors in applications that have those files open."
 msgstr ""
 
@@ -2526,7 +2519,7 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/files-search.page:28
-msgid "Search for your saved photos, music, documents and folders"
+msgid "Search for your saved photos, music, documents, and folders"
 msgstr ""
 
 #. (itstool) path: page/p
@@ -2596,7 +2589,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/files-search.page:91
-msgid "Start a search as above."
+msgid "Start a search by following the instructions right above."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -2606,7 +2599,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/files-search.page:94
-msgid "Give the search a name and click <gui>Save</gui>. If you like, select a different folder to save the search in. When you view that folder, you will see your saved search as an orange folder icon with a magnifying glass on it."
+msgid "Give the search a name and click <gui>Save</gui>. If you'd like, select a different folder to save the search in. When you view that folder, you will see your saved search as an orange folder icon with a magnifying glass on it."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -2637,11 +2630,6 @@ msgstr ""
 #. (itstool) path: steps/title
 #: C/files-share.page:45
 msgid "To share a file by email:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/files-share.page:46
-msgid "Click on <_:media-1/> from the <gui>Desktop</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -2676,7 +2664,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/files-zip.page:23
-msgid "Zip files allow you store your files in less space. This is especially good when you are trying to share files with friends."
+msgid "Zip files allow you to store your files in less space. This is especially helpful when you are trying to share files with friends."
 msgstr ""
 
 #. (itstool) path: steps/title
@@ -2701,7 +2689,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/files-zip.page:41
-msgid "Your computer will create a compressed copy of the file or folder, which will appear right next to the original. You can move that zip file somewhere else, or share it with whomever you wish more quickly and easily than if you tried to send the original!"
+msgid "Your computer will create a compressed copy of the file or folder, which will appear right next to the original. You can move that zip file somewhere else, or share it more quickly and easily than if you tried to send the original!"
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -2758,36 +2746,6 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/hardware.page:34
 msgid "Keyboard &amp; Mouse"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/index.page:23
-msgctxt "_"
-msgid "external ref='figures/index-video-thumbnail-01.jpg' md5='85d08a6ad3a67696958656330deb92ac'"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/index.page:24
-msgctxt "_"
-msgid "external ref='figures/index-video-thumbnail-02.jpg' md5='7523618f51c0199521a2e1a264a50276'"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/index.page:25
-msgctxt "_"
-msgid "external ref='figures/index-video-thumbnail-03.jpg' md5='cbc6b376116c631b6300122d24d208be'"
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -2960,7 +2918,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/keyboard-key-menu.page:28
-msgid "The <key>Menu</key> key, also known as the <em>Application</em> key, is a key found on some Windows-oriented keyboards. This key is usually on the bottom-right of the keyboard, next to the <key>Ctrl</key> key, but it can be placed in a different location by keyboard manufacturers. Its is usually depicted as a cursor hovering above a menu: <_:media-1/>."
+msgid "The <key>Menu</key> key, also known as the <em>Application</em> key, is a key found on some Windows-oriented keyboards. This key is usually on the bottom-right of the keyboard, next to the <key>Ctrl</key> key, but it can be placed in a different location by keyboard manufacturers. It is usually depicted as a cursor hovering above a menu: <_:media-1/>."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -2980,46 +2938,46 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/keyboard-key-super.page:23
-msgid "The <key>Super</key> key lets you see all of your open windows at the same time. You can usually find it next to the <key>Alt</key> key on your keyboard."
+msgid "The <key>Super</key> key hides your open windows so that you can see your desktop. You can usually find it next to the <key>Alt</key> key on your keyboard."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/keyboard-key-super.page:26
+#: C/keyboard-key-super.page:28
 msgid "Use the <key>Super</key> key"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/keyboard-key-super.page:28
-msgid "When you press the <key>Super</key> key, you will be able to see all of your open windows. This key can usually be found on the bottom-left of your keyboard, next to the <key>Alt</key> key, and usually has a Windows logo on it. It is sometimes called the <em>Windows key</em> or system key."
+#: C/keyboard-key-super.page:30
+msgid "When you press the <key>Super</key> key, you will be able to see your desktop. You can also press <key>Super</key> + <key>S</key> to see all of your open windows at the same time. This key can usually be found on the bottom-left of your keyboard, next to the <key>Alt</key> key, and usually has a Windows logo on it. It is sometimes called the <em>Windows key</em> or system key."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/keyboard-key-super.page:35
+#: C/keyboard-key-super.page:39
 msgid "If you have an Apple keyboard, you will have a <key>⌘</key> (Command) key instead of the Windows key, while Google's keyboards have a magnifying glass instead."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/keyboard-key-super.page:46
-msgid "To change which key is used to display your open windows overview:"
+#: C/keyboard-key-super.page:50
+msgid "To change which keys are used to display your open windows overview:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:55
+#: C/keyboard-key-super.page:59
 msgid "Click <gui>Keyboard</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:58
+#: C/keyboard-key-super.page:62
 msgid "Click the <gui style=\"tab\">Shortcuts</gui> tab."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:61
+#: C/keyboard-key-super.page:65
 msgid "Select <gui>System</gui> on the left side of the window, and <gui>Show the activities overview</gui> on the right."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:65
+#: C/keyboard-key-super.page:69
 msgid "Hold down the desired key combination."
 msgstr ""
 
@@ -3092,7 +3050,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/keyboard-layouts.page:90
-msgid "The taskbar will display a short identifier for the current layout, such as <gui>en</gui> for the standard English layout. Click the layout indicator and select the layout you want to use from the menu. If the selected language has any extra settings, they will be shown below the list of available layouts. This gives you a quick overview of your settings. You can also open an image with the current keyboard layout for reference."
+msgid "The task bar will display a short identifier for the current layout, such as <gui>en</gui> for the standard English layout. Click the layout indicator and select the layout you want to use from the menu. If the selected language has any extra settings, they will be shown below the list of available layouts. This gives you a quick overview of your settings. You can also open an image with the current keyboard layout for reference."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -3227,7 +3185,7 @@ msgstr ""
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:105
-msgid "Open the application menu on the taskbar."
+msgid "Open the application menu on the task bar."
 msgstr ""
 
 #. (itstool) path: td/p
@@ -3505,7 +3463,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/look-background.page:77
-msgid "Select <gui>Wallpapers</gui> to use one of the beautiful background images that ship with Endless."
+msgid "Select <gui>Wallpapers</gui> to use one of the beautiful background images that come with Endless."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -3524,68 +3482,62 @@ msgid "The settings are applied immediately."
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/media-import-from-device.page:18
+#: C/media-import-from-device.page:19
 msgid "Import photos and videos from your device to your computer."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/media-import-from-device.page:21
+#: C/media-import-from-device.page:22
 msgid "Import photos from a phone or camera"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/media-import-from-device.page:23
+#: C/media-import-from-device.page:24
 msgid "There are a few ways that you can import your photos and videos from an external device to your computer. Here are some ways to do so:"
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/media-import-from-device.page:28
+#: C/media-import-from-device.page:29
 msgid "Using a USB Cable"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/media-import-from-device.page:30
+#: C/media-import-from-device.page:31
 msgid "If your camera or phone has a USB cable, connect it directly to your Endless computer."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/media-import-from-device.page:34
-#: C/media-import-from-device.page:62
-msgid "Click on the <app>Documents</app> icon from your desktop."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/media-import-from-device.page:37
+#: C/media-import-from-device.page:40
 msgid "You will see the name of your device appear on the left hand side menu. Double click on it to open it."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/media-import-from-device.page:41
+#: C/media-import-from-device.page:44
 msgid "Look through the photos or videos on your device by scrolling through the files. A preview of the image will appear on the right hand side of the window."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/media-import-from-device.page:46
+#: C/media-import-from-device.page:49
 msgid "When you find the photo that you want to import, simply drag the photos from that folder into another folder."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/media-import-from-device.page:51
+#: C/media-import-from-device.page:54
 msgid "When you use external storage devices like cameras, USB flash drives, and phones, you should safely remove them before unplugging them. If you just unplug a device, you run the risk of unplugging while an application is still using it. This could result in some of your files being lost or damaged. When you use an optical disc like a CD or DVD, you can use the same steps to eject the disc from your computer."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/media-import-from-device.page:59
+#: C/media-import-from-device.page:62
 msgid "Safely disconnect your camera or phone:"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/media-import-from-device.page:74
+#: C/media-import-from-device.page:79
 msgid "If any of the files on the device are open and in use by an application, you will not be able to safely remove the device. You will be prompted with a window telling you <gui>Volume is busy</gui>."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/media-import-from-device.page:98
+#: C/media-import-from-device.page:103
 msgid "If you have a smartphone, try emailing your photos to yourself so that you can open them on your computer's browser and download and save them to your computer."
 msgstr ""
 
@@ -4051,7 +4003,7 @@ msgstr ""
 
 #. (itstool) path: section/p
 #: C/nautilus-file-properties-permissions.page:46
-msgid "Every user on your computer belongs to a group. On home computers, it is common for each user to have their own group, and group permissions are not often used. In corporate environments, groups are sometimes used for departments or projects. As well as having an owner, each file belongs to a group. You can set the file's group and control the permissions for all users in that group. You can only set the file's group to a group you belong to."
+msgid "Every user on your computer belongs to a group. On home computers, each user typically has their own group, and group permissions are not often used. In corporate environments, groups are sometimes used for departments or projects. Each file has an owner and belongs to a group. You can set the file's group and control the permissions for all users in that group, but you can only set the file's group to a group you belong to."
 msgstr ""
 
 #. (itstool) path: section/p
@@ -4121,7 +4073,7 @@ msgstr ""
 
 #. (itstool) path: section/p
 #: C/nautilus-file-properties-permissions.page:94
-msgid "You can also quickly set the file permissions for all the files in the folder by clicking <gui>Change Permissions for Enclosed Files</gui>. Use the drop-down lists to adjust the permissions of contained files or folders, and click <gui>Change</gui>. Permissions are applied to files and folders in subfolders as well, to any depth."
+msgid "You can also quickly set the file permissions for all the files in the folder by clicking <gui>Change Permissions for Enclosed Files</gui>. Use the drop-down lists to adjust the permissions of contained files or folders, and click <gui>Change</gui>. Permissions are applied to files and to all folders in subfolders as well."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -4291,7 +4243,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/net-discover-websites.page:24
-msgid "We've put together a collection of websites that you might find interesting. To start discovering, just click the Internet icon on your desktop or on the orange globe on the taskbar. Both will open the browser."
+msgid "We've put together a collection of websites that you might find interesting. To start discovering, just click the Internet icon on your desktop or on the orange globe on the task bar. Both will open the browser."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -4321,7 +4273,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/net-email-virus.page:22
-msgid "Viruses that can affect computers running Linux are quite rare, so you are <link xref=\"net-antivirus\">unlikely to get a virus through email or otherwise</link>. If you receive an email with a virus hidden in it, it will probably have no effect on your computer. As such, you probably don't need to scan your email for viruses."
+msgid "Viruses that can affect computers running Linux are quite rare, so you are <link xref=\"net-antivirus\">unlikely to get a virus through email or otherwise</link>. If you receive an email with a virus hidden in it, it will probably have no effect on your computer. As such, you probably don't need to scan your emails for viruses."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -4422,7 +4374,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/net-manual.page:78
-msgid "Click <gui>Apply</gui>. If you are not connected to the network, click the system status area on the taskbar and connect. Test the network settings by trying to visit a website or look at shared files on the network, for example."
+msgid "Click <gui>Apply</gui>. If you are not connected to the network, click the system status area on the task bar and connect. Test the network settings by trying to visit a website or look at shared files on the network, for example."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -4447,7 +4399,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/net-read-news.page:31
-msgid "Click the Internet icon on your desktop or on the taskbar to open the browser."
+msgid "Click the Internet icon on your desktop or on the task bar to open the browser."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -4522,7 +4474,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/net-slow.page:42
-msgid "If you're connected to the internet by wireless (wifi), check the network icon on the taskbar to see if you have good wireless signal. If not, the internet may be slow because you don't have a very strong signal."
+msgid "If you're connected to the internet by wireless (wifi), check the network icon on the task bar to see if you have good wireless signal. If not, the internet may be slow because you don't have a very strong signal."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -4663,7 +4615,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/net-wired-connect.page:21
-msgid "To set up most wired network connections, all you need to do is plug in a network cable. The network icon on the taskbar at the bottom of your screen should pulse for a few seconds and then will change to <_:media-1/> when you are connected."
+msgid "To set up most wired network connections, all you need to do is plug in a network cable. The network icon on the task bar at the bottom of your screen should pulse for a few seconds and then will change to <_:media-1/> when you are connected."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -4853,7 +4805,7 @@ msgstr ""
 
 #. (itstool) path: section/p
 #: C/net-wireless-disconnecting.page:44
-msgid "The network icon on the taskbar displays how strong your wireless signal is. If the signal looks low, try moving closer to the wireless base station."
+msgid "The network icon on the task bar displays how strong your wireless signal is. If the signal looks low, try moving closer to the wireless base station."
 msgstr ""
 
 #. (itstool) path: section/title
@@ -4898,12 +4850,12 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/net-wireless-find.page:21
-msgid "I can't see my wireless network in the list"
+msgid "I can't see my wireless network on the list"
 msgstr ""
 
 #. (itstool) path: page/p
 #: C/net-wireless-find.page:23
-msgid "There are a number of reasons why you might not be able to see your wireless network on the list of networks which appears when you click the network icon on the taskbar."
+msgid "There are a number of reasons why you might not be able to see your wireless network on the list that appears when you click the network icon on the task bar."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -4913,7 +4865,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/net-wireless-find.page:34
-msgid "If there are lots of wireless networks nearby, the network you are looking for might not be on the first page of the list. If this is the case, look at the bottom of the list for an arrow pointing towards the right and hover your mouse over it to display the rest of the wireless networks."
+msgid "If there are lots of wireless networks nearby, the network you are looking for might not be on the first page of the list. If this is the case, look at the bottom of the list for \"More\" and an arrow pointing towards the right. Click \"More\" to see the rest of the wireless networks."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -5893,7 +5845,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:42
-msgid "Install the <gui>Screenshot</gui> application from the <gui>App Store</gui>, under the <gui>Utilities</gui> category, and open it."
+msgid "Install the <gui>Screenshot</gui> application from the <app>App Center</app>, under the <gui>Utilities</gui> category, and open it."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -6033,7 +5985,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/security-data-collection.page:24
-msgid "Endless collects metrics on user behavior and actions. We use the data to improve the apps and the system. All data sent is anonymous."
+msgid "Endless collects metrics on user behavior and actions. We use the data to improve the apps and the system. All data is sent anonymously."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -6063,22 +6015,22 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/security-guard-privacy.page:33
-msgid "the name of the logged-in user"
+msgid "The name of the logged-in user"
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/security-guard-privacy.page:36
-msgid "date and time, and certain notifications"
+msgid "Date and time, and certain notifications"
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/security-guard-privacy.page:39
-msgid "battery and network status"
+msgid "Battery and network status"
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/security-guard-privacy.page:42
-msgid "the ability to control media playback - change the volume, skip a track or pause your music without having to enter a password"
+msgid "The ability to control media playback - change the volume, skip a track or pause your music without having to enter a password"
 msgstr ""
 
 #. (itstool) path: page/p
@@ -6108,7 +6060,7 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/security-understand-password.page:33
-msgid "Pay attention to the <key>Caps Lock</key> key! Sometimes it is easy to press the <key>Caps Lock</key> key and not notice. If you are unable to login using the password you thought you had first used, you should check to make sure that your CAPS lock key is not activated."
+msgid "Pay attention to the <key>Caps Lock</key> key! Sometimes it is easy to press the <key>Caps Lock</key> key and not notice. If you are unable to login using the password you thought you had first used, you should check to make sure that your <key>Caps Lock</key> key is not activated."
 msgstr ""
 
 #. (itstool) path: note/p
@@ -6404,7 +6356,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/shell-apps-close.page:34
-msgid "If you cannot see an <gui>X</gui> button, you can exit thes app by pressing the <key>Esc</key> key on your keyboard, which is usually on the left-hand corner of your keyboard. The window should close completely or become smaller so that you can see the top bar of the window and the Endless taskbar at the bottom. If the window becomes smaller, you can then click the <gui>X</gui> to quit."
+msgid "If you cannot see an <gui>X</gui> button, you can exit the app by pressing the <key>Esc</key> key on your keyboard, which is usually on the left-hand corner of your keyboard. The window should close completely or become smaller so that you can see the top bar of the window and the Endless task bar at the bottom. If the window becomes smaller, you can then click the <gui>X</gui> to quit."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -6491,7 +6443,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:105
-msgid "Click on the <_:media-1/> button, and your link will be installed to the desktop. Add another website, or else close the App Store to find your new website shortcut. It will be directly to the left of the <_:media-2/> button."
+msgid "Click on the <_:media-1/> button, and your link will be installed to the desktop. Add another website, or else close the App Center to find your new website shortcut. It will be directly to the left of the <_:media-2/> button."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -6536,7 +6488,7 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/shell-delete-app-desktop.page:51
-msgid "Deleting the app from your desktop doesn't remove it from the system. If you want to delete the app entirely from the system to make storage space available, you can do it from the <gui>App Store</gui>."
+msgid "Deleting the app from your desktop doesn't remove it from the system. If you want to delete the app entirely from the system to make storage space available, you can do it from the <app>App Center</app>."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -6651,7 +6603,7 @@ msgstr ""
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:54
-msgid "To log out (i.e. in order to switch to a different user), click the User Menu on the bottom left corner of your screen, click <gui>Exit</gui> and then choose <gui>Log Out</gui>."
+msgid "To log out (i.e. in order to switch to a different user), click the User Menu on the bottom left corner of your screen and then click the <gui>lock icon</gui>."
 msgstr ""
 
 #. (itstool) path: section/title
@@ -6661,12 +6613,12 @@ msgstr ""
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:63
-msgid "If you're leaving your computer for a short time, you should lock your screen to prevent other people from accessing your files or running applications. When you return, you'll need to enter your password to log back in and you will find your computer running all the same things it was when you left."
+msgid "If you're leaving your computer for a short time, you should lock your screen to prevent other people from accessing your files or running applications. When you return, you'll need to enter your password to log back in. You will find your computer running all the same things it was when you left."
 msgstr ""
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:68
-msgid "To lock your screen, click click on the User Menu at the very bottom left-hand side of your screen and press the <gui>Lock</gui> button at the bottom right of the menu."
+msgid "To lock your screen, click on the User Menu at the very bottom left-hand side of your screen and press the <gui>Lock</gui> button at the bottom right of the menu."
 msgstr ""
 
 #. (itstool) path: note/p
@@ -6681,7 +6633,7 @@ msgstr ""
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:86
-msgid "If you want to power off your computer entirely, or do a full restart, click the User Menu at the very bottom left-hand side of your screen and press the <gui>Exit</gui> button at the bottom left of the menu. A dialog will open offering you the options to, among other options, <gui>Restart</gui> or <gui>Power Off</gui>."
+msgid "If you want to power off your computer entirely, or do a full restart, click the User Menu at the very bottom left-hand side of your screen and press the <gui>Exit</gui> button at the bottom right of the menu. A dialog will open offering you the options to, among other options, <gui>Restart</gui> or <gui>Power Off</gui>."
 msgstr ""
 
 #. (itstool) path: section/p
@@ -6701,7 +6653,7 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/shell-install-ext-apps.page:23
-msgid "Currently, it is not possible to install software or apps outside of the <gui>App Store</gui>. Luckily, Endless comes with a lot of great, and free, apps for you to explore!"
+msgid "Currently, it is not possible to install software or apps outside of the <app>App Center</app>. Luckily, Endless comes with a lot of great, and free, apps for you to explore!"
 msgstr ""
 
 #. (itstool) path: page/p
@@ -6731,27 +6683,27 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:33
-msgid "Endless has been created just for you. When you first turn your computer on, you'll find some important applications already installed on your desktop, and a taskbar at the very bottom of your screen."
+msgid "Endless has been created just for you. When you first turn your computer on, you'll find some important applications already installed on your desktop, and a task bar at the very bottom of your screen."
 msgstr ""
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:37
-msgid "The taskbar provides access to important things like your windows and applications, your calendar and clock, and system properties like sound and networking. There, you can change the volume, edit your Wi-Fi connection details, check your battery status, log out or switch users, and turn off your computer. We have also included the possibility to connect to Facebook on this taskbar, so that you can keep in touch with your friends more easily than ever!"
+msgid "The task bar provides access to important things like your windows and applications, your calendar and clock, and system properties like sound and networking. There, you can change the volume, edit your Wi-Fi connection details, check your battery status, log out or switch users, and turn off your computer. We have also included the possibility to connect to Facebook on this task bar, so that you can keep in touch with your friends more easily than ever!"
 msgstr ""
 
 #. (itstool) path: section/title
 #: C/shell-introduction.page:48
-msgid "<app>App Store</app> overview"
+msgid "<app>App Center</app> overview"
 msgstr ""
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:50
-msgid "Your computer should be incredibly useful to you both online and offline. For that reason, we have packed Endless with all sorts of applications and content for you to explore and discover. You can add more apps to your desktop by clicking on <_:media-1/> button from the desktop. This will launch our <app>App Store</app>, which is full of free applications for you to install on your desktop."
+msgid "Your computer should be incredibly useful to you both online and offline. For that reason, we have packed Endless with all sorts of applications and content for you to explore and discover. You can add more apps to your desktop by clicking on <_:media-1/> button from the desktop. This will launch our <app>App Center</app>, which is full of free applications for you to install on your desktop."
 msgstr ""
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:58
-msgid "From the <app>App Store</app> you can add: <gui>Apps</gui>, <gui>Websites</gui>, and <gui>Folders</gui>. You can browse applications you may want to install by category, add shortcuts to your favorite websites onto your desktop, or simply create new folders to organize all of your things in a way that makes sense to you."
+msgid "From the <app>App Center</app> you can add: <gui>Apps</gui>, <gui>Websites</gui>, and <gui>Folders</gui>. You can browse applications you may want to install by category, add shortcuts to your favorite websites onto your desktop, or simply create new folders to organize all of your things in a way that makes sense to you."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -6886,7 +6838,7 @@ msgstr ""
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:65
-msgid "Give keyboard focus to the taskbar, message tray or the windows."
+msgid "Give keyboard focus to the task bar, message tray or the windows."
 msgstr ""
 
 #. (itstool) path: td/p
@@ -7241,7 +7193,7 @@ msgstr ""
 
 #. (itstool) path: note/p
 #: C/shell-update-app.page:55
-msgid "You can close the <app>App Store</app> while the app is updating."
+msgid "You can close the <app>App Center</app> while the app is updating."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -7415,37 +7367,37 @@ msgid "Including all applications in the <gui>window switcher</gui> makes switch
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-windows-switching.page:33
+#: C/shell-windows-switching.page:34
 msgid "Press <keyseq><key>Alt</key><key>Tab </key></keyseq> to bring up the <gui>window switcher</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-windows-switching.page:36
+#: C/shell-windows-switching.page:39
 msgid "Release <key>Alt</key> to select the next (highlighted) window in the switcher."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-windows-switching.page:38
+#: C/shell-windows-switching.page:43
 msgid "Otherwise, still holding down the <key> Alt</key> key, press <key>Tab</key> to cycle through the list of open windows, or <keyseq><key>Shift</key><key>Tab</key></keyseq> to cycle backwards."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-windows-switching.page:45
+#: C/shell-windows-switching.page:50
 msgid "You can also use the window list on the bottom bar to access all your open windows and switch between them."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-windows-switching.page:49
+#: C/shell-windows-switching.page:54
 msgid "Windows in the window switcher are grouped by application. Previews of applications with multiple windows pop down as you click through. Hold down <key>Alt</key> and press <key>`</key> (or the key above <key>Tab</key>) to step through the list."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-windows-switching.page:56
+#: C/shell-windows-switching.page:61
 msgid "You can also move between the application icons in the window switcher with the <key>→</key> or <key>←</key> keys, or select one by clicking it with the mouse."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-windows-switching.page:59
+#: C/shell-windows-switching.page:64
 msgid "Previews of applications with a single window can be displayed with the <key>↓</key> key."
 msgstr ""
 
@@ -7521,7 +7473,7 @@ msgstr ""
 
 #. (itstool) path: section/p
 #: C/sound-volume.page:46
-msgid "Some applications have volume controls in their main windows. If your application has one of these, use that to change the volume. Otherwise, click the sound icon on the taskbar and select <gui>Sound Settings</gui>. Go to the <gui>Applications</gui> tab and change the volume of the application there."
+msgid "Some applications have volume controls in their main windows. If your application has one of these, use that to change the volume. Otherwise, click the sound icon on the task bar and select <gui>Sound Settings</gui>. Go to the <gui>Applications</gui> tab and change the volume of the application there."
 msgstr ""
 
 #. (itstool) path: section/p
@@ -7578,48 +7530,48 @@ msgid "Press <gui style=\"button\">Unlock</gui> in the top right corner and type
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-add.page:90
+#: C/user-add.page:93
 msgid "Press the <gui style=\"button\">+</gui> button, below the list of accounts on the left, to add a new user account."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-add.page:95
+#: C/user-add.page:98
 msgid "If you want the new user to have <link xref=\"user-admin-explain\">administrative access</link> to the computer, select <gui>Administrator</gui> for the account type. Administrators can do things like add and delete users, install software and drivers, and change the date and time."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-add.page:102
+#: C/user-add.page:105
 msgid "Enter the new user's full name. The username will be filled in automatically based on the full name. If you do not like the proposed username, you can change it."
 msgstr ""
 
 #. (itstool) path: media/span
-#: C/user-add.page:109
+#: C/user-add.page:112
 #: C/user-changepassword.page:83
 msgid "generate password"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-add.page:107
+#: C/user-add.page:110
 msgid "You can chose to set a password for the new user, or let them set it themselves on their first login. You can press on the <gui style=\"button\"><_:media-1/></gui> icon to automatically generate a random password."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-add.page:114
+#: C/user-add.page:117
 msgid "Click <gui>Add</gui>."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/user-add.page:118
+#: C/user-add.page:121
 msgid "If you want to change the password after creating the account, select the account, <gui style=\"button\">Unlock</gui> the panel and press on the current password status."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/user-add.page:123
+#: C/user-add.page:126
 msgid "In the <gui>Users</gui> panel, you can click the image next to the user's name to the right to set an image for the account. This image will be shown in the login window. Endless provides some stock photos you can use, or you can select your own or take a picture with your webcam."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/user-add.page:130
+#: C/user-add.page:133
 msgid "You may want to create a \"Guest\" account so that friends or others who visit you can use it and you can rest assured that they will not mess up any of your preferernces, or delete files."
 msgstr ""
 
@@ -7995,27 +7947,22 @@ msgid "It may be a good idea to write down your password somewhere so that you d
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-goodpassword.page:86
-msgid "Use different passwords for different things."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/user-goodpassword.page:90
+#: C/user-goodpassword.page:87
 msgid "Use different passwords for different accounts."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-goodpassword.page:91
+#: C/user-goodpassword.page:88
 msgid "If you use the same password for all of your accounts, anyone who guesses it will be able to access all of your accounts immediately."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-goodpassword.page:93
+#: C/user-goodpassword.page:90
 msgid "It can be difficult to remember lots of passwords, however. Though not as secure as using a different passwords for everything, it may be easier to use the same one for things that don't matter (like websites), and different ones for important things (like your online banking account and your email)."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-goodpassword.page:100
+#: C/user-goodpassword.page:97
 msgid "Change your passwords regularly."
 msgstr ""
 
