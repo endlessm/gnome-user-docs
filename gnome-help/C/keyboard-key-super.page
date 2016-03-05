@@ -20,14 +20,12 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>The <key>Super</key> key hides your open windows so that you can see
-    your desktop. You can usually find it next to the <key>Alt</key> key on your
-    keyboard.</desc>
+    <desc>The Super key hides your open windows so you can see your desktop.</desc>
   </info>
 
-  <title>Use the <key>Super</key> key</title>
+  <title>Use the Super key</title>
 
-  <p>When you press the <key>Super</key> key, you will be able to see your
+  <p>When you press the Super key, you will be able to see your
   desktop. You can also press <key>Super</key> + <key>S</key> to see all of your
   open windows at the same time. This key can usually be found on the bottom-left
   of your keyboard, next to the <key>Alt</key> key, and usually has a

@@ -21,13 +21,10 @@
 
   <title>Play my videos</title>
 
-  <p>Endless comes with some short videos already installed and a media player
-  to play them. In order to watch a DVD you already have, you will need to
-  connect an external DVD player to your computer (ask your local electronics
-  retailer for more information on purchasing this accessory), and then you can
-  use the same media player already installed to watch it. You can also download
-  videos from the internet if you have a connection using the
-  <app>FrostTorrent</app> app.</p>
+  <p>Your computer comes with short videos that are preinstalled and ready to watch on 
+  your media player. You can watch most digital video files on Endless. You can 
+  transfer them to your computer from a USB, or download them from the internet 
+  using the <app>FrostTorrent</app> app if you have an online connection.</p>
 
   <steps>
     <title>To watch your videos:</title>
@@ -88,9 +85,13 @@
     button on the top left-hand corner of your keyboard.</p>
   </note>
 
-  <note>
+  <note style="warning">
     <p>Remember, you need to connect some headphones or speakers to be able to
     listen to the videos. If your computer is connected to a TV, the sound
-    should work. </p>
+    should work.</p>
+
+    <p>If you would like to watch a DVD, you will need to connect an external DVD 
+    player to your computer. Please ask your local electronics retailer for more 
+    information on purchasing this accessory.</p>
   </note>
 </page>

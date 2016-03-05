@@ -21,10 +21,9 @@
   <title>Print to file</title>
 
   <p>You can choose to print a document to a file instead of sending it to
-  print from a printer. Printing to file will create a <sys>PDF</sys>, a
-  <sys>Postscript</sys> or a <sys>SVG</sys> file that contains the document.
-  This can be useful if you want to transfer the document to another machine
-  or to share it with someone.</p>
+  print from a printer. Printing to file will create a PDF, Postscript, or SVG file 
+  that contains the document. This can be useful if you want to transfer the document 
+  to another machine or share it with someone.</p>
 
   <steps>
     <title>Print to file</title>
