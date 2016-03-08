@@ -34,11 +34,11 @@
   <title>What is a notification?</title>
 
   <p>If an application or a system component wants to get your attention, a
-  notification will be shown at the bottom of the screen.</p>
+  notification will be shown at the bottom of your screen.</p>
 
-  <p>For example, if you get a new chat message, plug in an external device
-  (like a USB stick), new updates are available for your computer, or your
-  computer’s battery is low, you will get a notification informing you.</p>
+  <p>For example, if you plug in an external device (like a USB stick), or if
+  new updates are available for your computer, you will get a notification
+  informing you.</p>
 
   <p>To minimize distraction, some notifications first appear as a single line.
   You can move your mouse over them to see their full content.</p>
@@ -48,8 +48,8 @@
   button.</p>
 
 
-  <p>Clicking the close button on some notifications dismisses them. Others,
-  like your chat application, will stay hidden in the message tray.</p>
+  <p>Clicking the close button on some notifications dismisses them. Others may
+  stay hidden in the message tray.</p>
 
   <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-notification.png"/>
 

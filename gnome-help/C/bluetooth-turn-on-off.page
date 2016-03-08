@@ -37,8 +37,9 @@
     and only then will its icon be visible as shown.</p>
   </comment>
 
-  <p>You can turn Bluetooth on to use Bluetooth devices and send and receive
-  files, but turn it off to conserve power. To turn Bluetooth on:</p>
+  <p>You can turn <gui>Bluetooth</gui> on to use Bluetooth devices and send and receive
+  files, but turn it off to conserve power.</p>
+  <p>To turn Bluetooth on:</p>
   <steps>
     <item>
       <p>Click on the <media its:translate="no" type="image" mime="image/png"

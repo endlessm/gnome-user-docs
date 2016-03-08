@@ -15,7 +15,7 @@
     <desc>Learn how to download songs and media from the internet.</desc>
   </info>
 
-  <title>Download Songs and Media</title>
+  <title>Download songs and media</title>
 
   <p>You can use the <app>FrostTorrent</app> app to download songs and media from
   the internet.</p>
@@ -25,8 +25,9 @@
     <title>Download songs and media from the internet following these
     steps:</title>
     <item>
-      <p>Make sure that you have added the <app>FrostTorrent</app> app to your
-      desktop, then click on it once to open it.</p>
+      <p>Make sure that you have the <app>FrostTorrent</app> app installed on your
+      computer. If you don't already have it, go to your <app>App Center</app>'s
+      Utilities section and download it, then click on it once to open.</p>
     </item>
     <item>
       <p>If this is the first time you open <app>FrostTorrent</app>, you will
@@ -34,25 +35,27 @@
       finishes setting up, move on to the next step.</p>
     </item>
     <item>
-      <p>Type in a search keyword and press <key>Enter</key> on your keyboard or
-      click on the search icon. Suggested keywords will show up as you type.
-      Click one if it is the keyword you want to search for.</p>
+      <p>Type in a keyword and press <key>Enter</key> on your keyboard, or
+      click on the search icon. Suggested keywords will show up as you type and
+      you can click on them to conduct a search on that keyword.</p>
     </item>
     <item>
-      <p>Options will appear in the main window. Click on the file type you want
-      by selecting the icon of a music note (songs), a frame (photos), a film
+      <p>Search results will appear in the main window. Select the file type you want
+      by clicking on the icon of a music note (songs), a frame (photos), a film
       strip (videos), or a sheet of paper (documents). You can also filter your
       results by clicking on the <gui>Search Tools</gui> button on the right-
       hand side of the window.</p>
     </item>
     <item>
-      <p>Double click on the name of a file or click once then click
-      <gui>Download</gui> to begin downloading the song.</p>
+      <p>To begin downloading the file, double click on the name of a file, or
+      click once and then click <gui>Download</gui>.</p>
     </item>
     <item>
-      <p>Double click on the finished download that appears on the bottom half
-      of your screen or click on the <gui>Library</gui> icon to open or play
-      your files. Right click on the finished file to see more options.</p>
+      <p>After your file finishes downloading, it will appear on the bottom half
+      of your screen and you can double click on it to open and beging using it.
+      Right click on any finished file to see more options for using it. You can
+      also click on the <gui>Library</gui> icon to browse through all the files
+      that are ready for you to use.</p>
     </item>
   </steps>
 
@@ -66,7 +69,7 @@
       <item>
         <p>Files from SoundCloud.com, Archive.org, or other similar services,
         will not show any “Seeds” because they come directly from the source
-        rather than from other FrostWire users.</p>
+        rather than from other users.</p>
       </item>
       <item>
         <p>Click the triangle button next to a file to preview it before

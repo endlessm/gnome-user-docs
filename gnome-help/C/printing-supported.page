@@ -21,12 +21,12 @@
 
   <title>Supported Printers</title>
 
-  <p>The following printers should work properly on Endless, but please keep in
-  mind that this list does not include every supported model.</p>
+  <p>The following printers should work properly on Endless. You can click on
+  the brand to see all supported models. Please keep in mind that this list
+  does not include every supported model.</p>
 
   <p>If you have questions about a specific model, please contact our customer
-  support team. The most updated version of this list of supported printers can
-  be found at: missioncomputadoras.com</p>
+  support team.</p>
 
   <list ui:expanded="false">
     <title>Brother Printers</title>

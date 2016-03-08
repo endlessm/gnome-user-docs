@@ -329,6 +329,7 @@ HELP_FILES = \
 	shell-windows-states.page \
 	shell-windows-switching.page \
 	sound-alert.page \
+	sound-troubleshoot.page \
 	sound-volume.page \
 	user-add.page \
 	user-admin-change.page \

@@ -1,0 +1,37 @@
+<page xmlns="http://projectmallard.org/1.0/"
+      xmlns:if="http://projectmallard.org/if/1.0/"
+      type="topic" style="task" version="1.0 if/1.0"
+      id="troubleshoot-sound">
+
+  <info>
+    <link type="guide" xref="hardware#sound"/>
+
+    <credit type="author">
+      <name>Nuritzi Sanchez</name>
+    </credit>
+
+    <credit type="copyright">
+      <name>Endless Mobile, Inc.</name>
+      <years>2016</years>
+    </credit>
+
+    <desc>If you can't hear sound on your computer, there may be a way to fix
+    that.</desc>
+  </info>
+
+  <title>Troubleshoot sound on your computer</title>
+
+  <p>Here are some known issues and how to fix them if you're having trouble
+  hearing sound from your computer.</p>
+
+  <section>
+    <title>Hearing sound on an old TV</title>
+
+    <p>Some Endless computers are compatible with old TVs. To play audio through
+    your TV, you will need to use an adapter that connects your TV to the 3.5
+    mm audio jack on the side of your computer. Endless does not come with this
+    adapter, so you should check with your local electronics retailer to
+    purchase one.</p>
+
+  </section>
+</page>
