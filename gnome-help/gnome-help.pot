@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2015-08-11 15:55-0700\n"
+"POT-Creation-Date: 2016-03-14 21:51-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -235,15 +235,15 @@ msgstr ""
 #: C/a11y-slowkeys.page:45
 #: C/a11y-stickykeys.page:49
 #: C/a11y-visualalert.page:44
-#: C/accounts-add.page:32
+#: C/accounts-add.page:36
 #: C/bluetooth-connect-device.page:47
 #: C/bluetooth-remove-connection.page:45
 #: C/bluetooth-send-file.page:52
-#: C/bluetooth-turn-on-off.page:44
-#: C/bluetooth-turn-on-off.page:60
+#: C/bluetooth-turn-on-off.page:45
+#: C/bluetooth-turn-on-off.page:61
 #: C/display-dual-monitors.page:82
 #: C/keyboard-cursor-blink.page:43
-#: C/keyboard-key-super.page:53
+#: C/keyboard-key-super.page:51
 #: C/keyboard-layouts.page:51
 #: C/keyboard-osk.page:41
 #: C/keyboard-repeat-keys.page:46
@@ -441,7 +441,7 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/a11y-icon.page:18
-msgid "The universal access menu is the icon on the task bar that looks like a person."
+msgid "The universal access menu is the icon on the bottom bar that looks like a person."
 msgstr ""
 
 #. (itstool) path: page/title
@@ -451,12 +451,12 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/a11y-icon.page:24
-msgid "The <em>universal access menu</em> is where you can turn on some of the accessibility settings. You can find this menu by clicking the icon which looks like a person surrounded by a circle on the task bar."
+msgid "The <em>universal access menu</em> is where you can turn on some of the accessibility settings. You can find this menu by clicking the icon which looks like a person surrounded by a circle on the bottom bar."
 msgstr ""
 
 #. (itstool) path: figure/desc
 #: C/a11y-icon.page:29
-msgid "The universal access menu can be found on the task bar."
+msgid "The universal access menu can be found on the bottom bar."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -800,63 +800,104 @@ msgstr ""
 msgid "Jim Campbell"
 msgstr ""
 
-#. (itstool) path: info/desc
+#. (itstool) path: credit/name
 #: C/accounts-add.page:21
+#: C/backup-why.page:11
+#: C/files-microsoft-compatible.page:11
+#: C/files-save.page:10
+#: C/files-zip.page:10
+#: C/keyboard-es-accent.page:10
+#: C/look-background.page:45
+#: C/media-import-from-device.page:11
+#: C/media-listen-music.page:11
+#: C/media-play-videos.page:11
+#: C/mouse-when-right-click.page:11
+#: C/net-3g-dongles.page:10
+#: C/net-create-email.page:10
+#: C/net-discover-websites.page:11
+#: C/net-installing-other-browsers.page:10
+#: C/net-read-news.page:11
+#: C/net-social-bar.page:11
+#: C/net-troubleshoot.page:9
+#: C/printing-from-applications.page:10
+#: C/printing-setup.page:33
+#: C/printing-supported.page:11
+#: C/security-and-privacy.page:8
+#: C/security-data-collection.page:10
+#: C/security-guard-privacy.page:10
+#: C/security-understand-password.page:11
+#: C/sharing-media.page:16
+#: C/shell-add-desktop-folder.page:11
+#: C/shell-apps-close.page:11
+#: C/shell-apps-open.page:25
+#: C/shell-delete-app-desktop.page:11
+#: C/shell-download-media.page:10
+#: C/shell-install-ext-apps.page:10
+#: C/shell-organize-apps.page:10
+#: C/shell-update-app.page:11
+#: C/shell-update-system.page:11
+#: C/shell-windows-hide.page:11
+#: C/sound-troubleshoot.page:10
+msgid "Nuritzi Sanchez"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/accounts-add.page:26
 msgid "Connect an online account to make your experience on Endless even more seamless."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/accounts-add.page:24
+#: C/accounts-add.page:29
 msgid "Add an online account"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/accounts-add.page:26
-msgid "Adding an account will help link your online accounts with your Endless desktop. Thus, your email, chat, and other related applications will be set up for you."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/accounts-add.page:38
-msgid "Click on <gui>Online Accounts</gui>."
+#: C/accounts-add.page:31
+msgid "You can link some of your favorite online accounts, like your email, so that related applications will already be set up you when you open them."
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:42
-msgid "Click the <gui>Add an online account</gui> button."
+msgid "Click on <gui>Online Accounts</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:46
-msgid "Select the type of account which you want to add."
+msgid "Click the <gui>Add an online account</gui> button."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:47
+#: C/accounts-add.page:50
+msgid "Select the type of account you want to add first."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/accounts-add.page:51
 msgid "If you want to add more than one account type, you can do so at a later time."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:52
+#: C/accounts-add.page:56
 msgid "A small window will open where you can enter your online account credentials. For example, if you are setting up a Google account, enter your Google username and password."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:57
+#: C/accounts-add.page:61
 msgid "If you have entered your credentials correctly, you will be prompted to allow Endless access to your online account. Authorize access to continue."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:62
-msgid "Select the applications that you want linked to your online account. For example, if you want to use an online account for chat, but do not want to use an online account for your calendar, turn the <gui>Calendar</gui> option to <gui>Off</gui>."
+#: C/accounts-add.page:66
+msgid "Select the applications that you want linked to your online account. For example, if you want to use an online account for email, but do not want to use an online account for your calendar, turn the <gui>Calendar</gui> option to <gui>Off</gui>."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/accounts-add.page:70
+#: C/accounts-add.page:74
 msgid "After you have added the accounts, each application that you have selected will automatically use those credentials when you start them."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/accounts-add.page:74
+#: C/accounts-add.page:78
 msgid "For security reasons, Endless will not store your password on your computer. Instead, it stores a token that is provided by the online service."
 msgstr ""
 
@@ -1150,45 +1191,6 @@ msgstr ""
 msgid "Some of these options have sufficient capacity to allow for a backup of every file on your system, also known as a <em>complete system backup</em>."
 msgstr ""
 
-#. (itstool) path: credit/name
-#: C/backup-why.page:11
-#: C/files-microsoft-compatible.page:11
-#: C/files-save.page:10
-#: C/files-zip.page:10
-#: C/keyboard-es-accent.page:10
-#: C/look-background.page:45
-#: C/media-import-from-device.page:11
-#: C/media-listen-music.page:11
-#: C/media-play-videos.page:11
-#: C/mouse-when-right-click.page:11
-#: C/net-3g-dongles.page:10
-#: C/net-create-email.page:10
-#: C/net-discover-websites.page:11
-#: C/net-installing-other-browsers.page:10
-#: C/net-read-news.page:11
-#: C/net-social-bar.page:11
-#: C/net-troubleshoot.page:9
-#: C/printing-from-applications.page:10
-#: C/printing-setup.page:33
-#: C/printing-supported.page:11
-#: C/security-and-privacy.page:8
-#: C/security-data-collection.page:10
-#: C/security-guard-privacy.page:10
-#: C/security-understand-password.page:11
-#: C/sharing-media.page:16
-#: C/shell-add-desktop-folder.page:11
-#: C/shell-apps-close.page:11
-#: C/shell-apps-open.page:25
-#: C/shell-delete-app-desktop.page:11
-#: C/shell-download-media.page:10
-#: C/shell-install-ext-apps.page:10
-#: C/shell-organize-apps.page:10
-#: C/shell-update-app.page:11
-#: C/shell-update-system.page:11
-#: C/shell-windows-hide.page:11
-msgid "Nuritzi Sanchez"
-msgstr ""
-
 #. (itstool) path: info/desc
 #: C/backup-why.page:16
 msgid "Back up your computer to prevent your files from being lost."
@@ -1248,8 +1250,8 @@ msgstr ""
 #: C/bluetooth-connect-device.page:53
 #: C/bluetooth-remove-connection.page:51
 #: C/bluetooth-send-file.page:58
-#: C/bluetooth-turn-on-off.page:50
-#: C/bluetooth-turn-on-off.page:66
+#: C/bluetooth-turn-on-off.page:51
+#: C/bluetooth-turn-on-off.page:67
 msgid "Click <gui>Bluetooth</gui>."
 msgstr ""
 
@@ -1471,31 +1473,36 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/bluetooth-turn-on-off.page:40
-msgid "You can turn Bluetooth on to use Bluetooth devices and send and receive files, but turn it off to conserve power. To turn Bluetooth on:"
+msgid "You can turn <gui>Bluetooth</gui> on to use Bluetooth devices and send and receive files, but turn it off to conserve power."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/bluetooth-turn-on-off.page:42
+msgid "To turn Bluetooth on:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/bluetooth-turn-on-off.page:53
+#: C/bluetooth-turn-on-off.page:54
 msgid "Set the switch in the titlebar to <gui>ON</gui>."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:57
+#: C/bluetooth-turn-on-off.page:58
 msgid "To turn Bluetooth off:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/bluetooth-turn-on-off.page:69
+#: C/bluetooth-turn-on-off.page:70
 msgid "Set the switch in the titlebar to <gui>OFF</gui>."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/bluetooth-turn-on-off.page:73
+#: C/bluetooth-turn-on-off.page:74
 msgid "You only need to switch <gui>Visibility</gui> on if you are connecting to this computer from another device. Being \"Visible\" means that other devices can find you, otherwise, they won't be able to see or access your computer from that device."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/bluetooth-turn-on-off.page:76
+#: C/bluetooth-turn-on-off.page:77
 msgid "Even if your computer is visible, you would still need to pair your computer and the other device in order to transfer any files between them."
 msgstr ""
 
@@ -1912,6 +1919,7 @@ msgstr ""
 #: C/shell-update-app.page:15
 #: C/shell-update-system.page:15
 #: C/shell-windows-hide.page:15
+#: C/sound-troubleshoot.page:14
 msgid "Endless Mobile, Inc."
 msgstr ""
 
@@ -2903,7 +2911,7 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/keyboard-key-menu.page:20
-msgid "The <key>Menu</key> key launches a context menu with the keyboard rather than with a right-click."
+msgid "The Menu key launches a context menu with the keyboard rather than with a right-click."
 msgstr ""
 
 #. (itstool) path: license/p
@@ -2938,46 +2946,46 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/keyboard-key-super.page:23
-msgid "The <key>Super</key> key hides your open windows so that you can see your desktop. You can usually find it next to the <key>Alt</key> key on your keyboard."
+msgid "The Super key hides your open windows so you can see your desktop."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/keyboard-key-super.page:28
-msgid "Use the <key>Super</key> key"
+#: C/keyboard-key-super.page:26
+msgid "Use the Super key"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/keyboard-key-super.page:30
+#: C/keyboard-key-super.page:28
 msgid "When you press the <key>Super</key> key, you will be able to see your desktop. You can also press <key>Super</key> + <key>S</key> to see all of your open windows at the same time. This key can usually be found on the bottom-left of your keyboard, next to the <key>Alt</key> key, and usually has a Windows logo on it. It is sometimes called the <em>Windows key</em> or system key."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/keyboard-key-super.page:39
+#: C/keyboard-key-super.page:37
 msgid "If you have an Apple keyboard, you will have a <key>⌘</key> (Command) key instead of the Windows key, while Google's keyboards have a magnifying glass instead."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/keyboard-key-super.page:50
+#: C/keyboard-key-super.page:48
 msgid "To change which keys are used to display your open windows overview:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:59
+#: C/keyboard-key-super.page:57
 msgid "Click <gui>Keyboard</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:62
+#: C/keyboard-key-super.page:60
 msgid "Click the <gui style=\"tab\">Shortcuts</gui> tab."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:65
+#: C/keyboard-key-super.page:63
 msgid "Select <gui>System</gui> on the left side of the window, and <gui>Show the activities overview</gui> on the right."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:69
+#: C/keyboard-key-super.page:67
 msgid "Hold down the desired key combination."
 msgstr ""
 
@@ -3065,7 +3073,7 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/keyboard-nav.page:31
-msgid "Use the keyboard"
+msgid "Use the keyboard instead of a mouse"
 msgstr ""
 
 #. (itstool) path: page/p
@@ -3416,7 +3424,7 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/keyboard.page:29
-msgid "Use your Keyboard"
+msgid "Use your keyboard"
 msgstr ""
 
 #. (itstool) path: credit/name
@@ -3603,71 +3611,76 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/media-play-videos.page:24
-msgid "Endless comes with some short videos already installed and a media player to play them. In order to watch a DVD you already have, you will need to connect an external DVD player to your computer (ask your local electronics retailer for more information on purchasing this accessory), and then you can use the same media player already installed to watch it. You can also download videos from the internet if you have a connection using the <app>FrostTorrent</app> app."
+msgid "Your computer comes with short videos that are preinstalled and ready to watch on your media player. You can watch most digital video files on Endless. You can transfer them to your computer from a USB, or download them from the internet using the <app>FrostTorrent</app> app if you have an online connection."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/media-play-videos.page:33
+#: C/media-play-videos.page:30
 msgid "To watch your videos:"
 msgstr ""
 
 #. (itstool) path: steps/p
-#: C/media-play-videos.page:34
+#: C/media-play-videos.page:31
 msgid "You may have recorded videos on your phone, or have some videos on a USB stick that you want to watch. You'll first need to download them to your computer. You can do this simply by plugging in your device and dragging the video files into the <gui>Videos</gui> folder, or any other folder you prefer. Then, follow these directions:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/media-play-videos.page:40
-#: C/media-play-videos.page:63
+#: C/media-play-videos.page:37
+#: C/media-play-videos.page:60
 msgid "Click on <_:media-1/> on your desktop."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/media-play-videos.page:45
-#: C/media-play-videos.page:68
+#: C/media-play-videos.page:42
+#: C/media-play-videos.page:65
 msgid "Click on the <gui>Videos</gui> folder."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/media-play-videos.page:48
+#: C/media-play-videos.page:45
 msgid "Browse the video files available. When you are ready to watch one, simply double click on the file."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/media-play-videos.page:50
-#: C/media-play-videos.page:76
+#: C/media-play-videos.page:47
+#: C/media-play-videos.page:73
 msgid "Your video will start to play automatically. You can control it within the app and choose to pause it, fast forward, or rewind it with the controls on the bottom left corner."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/media-play-videos.page:55
-#: C/media-play-videos.page:81
+#: C/media-play-videos.page:52
+#: C/media-play-videos.page:78
 msgid "Make the video full screen by pressing the diagonal arrows next to the control buttons."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/media-play-videos.page:61
+#: C/media-play-videos.page:58
 msgid "To watch a pre-installed video:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/media-play-videos.page:71
+#: C/media-play-videos.page:68
 msgid "Click on the <gui>Samples</gui> folder."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/media-play-videos.page:74
+#: C/media-play-videos.page:71
 msgid "Browse the videos available. When you are ready to watch one, simply double click on the file."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/media-play-videos.page:87
+#: C/media-play-videos.page:84
 msgid "To exit the full screen mode when you are watching a movie, press the Esc button on the top left-hand corner of your keyboard."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/media-play-videos.page:92
+#: C/media-play-videos.page:89
 msgid "Remember, you need to connect some headphones or speakers to be able to listen to the videos. If your computer is connected to a TV, the sound should work."
+msgstr ""
+
+#. (itstool) path: note/p
+#: C/media-play-videos.page:93
+msgid "If you would like to watch a DVD, you will need to connect an external DVD player to your computer. Please ask your local electronics retailer for more information on purchasing this accessory."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -3838,7 +3851,7 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/mouse.page:19
-msgid "Use your Mouse"
+msgid "Use your mouse"
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -5473,7 +5486,7 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/printing-supported.page:19
-msgid "A list of supported printers for Endless."
+msgid "Learn about supported printers on Endless."
 msgstr ""
 
 #. (itstool) path: page/title
@@ -5483,237 +5496,12 @@ msgstr ""
 
 #. (itstool) path: page/p
 #: C/printing-supported.page:24
-msgid "The following printers should work properly on Endless, but please keep in mind that this list does not include every supported model."
+msgid "Endless supports many common models of printers. Some models may require Internet access to download drivers."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/printing-supported.page:27
-msgid "If you have questions about a specific model, please contact our customer support team. The most updated version of this list of supported printers can be found at: missioncomputadoras.com"
-msgstr ""
-
-#. (itstool) path: list/title
-#: C/printing-supported.page:32
-msgid "Brother Printers"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:33
-msgid "DCP-8045D"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:34
-msgid "HL-1040"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:35
-msgid "HL-1070"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:36
-msgid "HL-10h"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:37
-msgid "HL-10V"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:38
-msgid "HL-1250"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:39
-msgid "HL-1260"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:40
-msgid "HL-1270N"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:41
-msgid "HL-1430"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:42
-msgid "HL-1440"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:43
-msgid "HL-1450"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:44
-msgid "HL-1470N"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:45
-msgid "HL-1650"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:46
-msgid "HL-1660e"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:47
-msgid "HL-1670N"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:48
-msgid "HL-1850"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:49
-msgid "HL-1870N"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:50
-msgid "HL-2460"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:51
-msgid "HL-2460N"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:52
-msgid "HL-4Ve"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:53
-msgid "HL-5030"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:54
-msgid "HL-5040"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:55
-msgid "HL-5050"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:56
-msgid "HL-5070N"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:57
-msgid "HL-5140"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:58
-msgid "HL-5150D"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:59
-msgid "HL-5170DN"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:60
-msgid "HL-630"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:61
-msgid "HL-660"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:62
-msgid "HL-7050"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:63
-msgid "HL-7050N"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:64
-msgid "HL-760"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/printing-supported.page:65
-msgid "HL-960"
-msgstr ""
-
-#. (itstool) path: list/title
-#: C/printing-supported.page:69
-msgid "Canon Printers"
-msgstr ""
-
-#. (itstool) path: list/title
-#: C/printing-supported.page:93
-msgid "Epson Printers"
-msgstr ""
-
-#. (itstool) path: list/title
-#: C/printing-supported.page:585
-msgid "Gestetner Printers"
-msgstr ""
-
-#. (itstool) path: list/title
-#: C/printing-supported.page:640
-msgid "HP Printers"
-msgstr ""
-
-#. (itstool) path: list/title
-#: C/printing-supported.page:1048
-msgid "Infotec Printers"
-msgstr ""
-
-#. (itstool) path: list/title
-#: C/printing-supported.page:1105
-msgid "Kyocera Printers"
-msgstr ""
-
-#. (itstool) path: list/title
-#: C/printing-supported.page:1177
-msgid "Lanier Printers"
-msgstr ""
-
-#. (itstool) path: list/title
-#: C/printing-supported.page:1233
-msgid "Ricoh Printers"
-msgstr ""
-
-#. (itstool) path: list/title
-#: C/printing-supported.page:1343
-msgid "Samsung Printers"
-msgstr ""
-
-#. (itstool) path: list/title
-#: C/printing-supported.page:1373
-msgid "Savin Printers"
-msgstr ""
-
-#. (itstool) path: list/title
-#: C/printing-supported.page:1428
-msgid "Miscellaneous Printers"
+#: C/printing-supported.page:26
+msgid "If you have questions about a specific model, please contact our customer support team at <link href=\"mailto:support@endlessm.com\">support@endlessm.com</link>."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -5724,42 +5512,42 @@ msgstr ""
 #. (itstool) path: page/title
 #. (itstool) path: steps/title
 #: C/printing-to-file.page:21
-#: C/printing-to-file.page:30
+#: C/printing-to-file.page:29
 msgid "Print to file"
 msgstr ""
 
 #. (itstool) path: page/p
 #: C/printing-to-file.page:23
-msgid "You can choose to print a document to a file instead of sending it to print from a printer. Printing to file will create a <sys>PDF</sys>, a <sys>Postscript</sys> or a <sys>SVG</sys> file that contains the document. This can be useful if you want to transfer the document to another machine or to share it with someone."
+msgid "You can choose to print a document to a file instead of sending it to print from a printer. Printing to file will create a PDF, Postscript, or SVG file that contains the document. This can be useful if you want to transfer the document to another machine or share it with someone."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/printing-to-file.page:32
+#: C/printing-to-file.page:31
 msgid "Open the print dialog. This can normally be done through <gui style=\"menuitem\">Print</gui> in the menu or using the <keyseq><key>Ctrl</key><key>P</key></keyseq> keyboard shortcut."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/printing-to-file.page:37
+#: C/printing-to-file.page:36
 msgid "Select <gui>Print to File</gui> under <gui>Printer</gui> in the <gui style=\"tab\">General</gui> tab."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/printing-to-file.page:41
+#: C/printing-to-file.page:40
 msgid "To change the default filename and where the file is saved to, click the filename below the printer selection. Click <gui style=\"button\">Select</gui> once you have finished choosing."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/printing-to-file.page:46
+#: C/printing-to-file.page:45
 msgid "<sys>PDF</sys> is the default file type for the document. If you want to use a different <gui>Output format</gui>, select either <sys>Postscript</sys> or <sys>SVG</sys>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/printing-to-file.page:51
+#: C/printing-to-file.page:50
 msgid "Choose your other page preferences."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/printing-to-file.page:54
+#: C/printing-to-file.page:53
 msgid "Press <gui style=\"button\">Print</gui> to save the file."
 msgstr ""
 
@@ -6498,7 +6286,7 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/shell-download-media.page:18
-msgid "Download Songs and Media"
+msgid "Download songs and media"
 msgstr ""
 
 #. (itstool) path: page/p
@@ -6513,61 +6301,61 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-download-media.page:28
-msgid "Make sure that you have added the <app>FrostTorrent</app> app to your desktop, then click on it once to open it."
+msgid "Make sure that you have the <app>FrostTorrent</app> app installed on your computer. If you don't already have it, go to your <app>App Center</app>'s Utilities section and download it, then click on it once to open."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-download-media.page:32
+#: C/shell-download-media.page:33
 msgid "If this is the first time you open <app>FrostTorrent</app>, you will need to complete a short setup using the wizard it provides. Once it finishes setting up, move on to the next step."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-download-media.page:37
-msgid "Type in a search keyword and press <key>Enter</key> on your keyboard or click on the search icon. Suggested keywords will show up as you type. Click one if it is the keyword you want to search for."
+#: C/shell-download-media.page:38
+msgid "Type in a keyword and press <key>Enter</key> on your keyboard, or click on the search icon. Suggested keywords will show up as you type and you can click on them to conduct a search on that keyword."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-download-media.page:42
-msgid "Options will appear in the main window. Click on the file type you want by selecting the icon of a music note (songs), a frame (photos), a film strip (videos), or a sheet of paper (documents). You can also filter your results by clicking on the <gui>Search Tools</gui> button on the right- hand side of the window."
+#: C/shell-download-media.page:43
+msgid "Search results will appear in the main window. Select the file type you want by clicking on the icon of a music note (songs), a frame (photos), a film strip (videos), or a sheet of paper (documents). You can also filter your results by clicking on the <gui>Search Tools</gui> button on the right- hand side of the window."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-download-media.page:49
-msgid "Double click on the name of a file or click once then click <gui>Download</gui> to begin downloading the song."
+#: C/shell-download-media.page:50
+msgid "To begin downloading the file, double click on the name of a file, or click once and then click <gui>Download</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-download-media.page:53
-msgid "Double click on the finished download that appears on the bottom half of your screen or click on the <gui>Library</gui> icon to open or play your files. Right click on the finished file to see more options."
+#: C/shell-download-media.page:54
+msgid "After your file finishes downloading, it will appear on the bottom half of your screen and you can double click on it to open and beging using it. Right click on any finished file to see more options for using it. You can also click on the <gui>Library</gui> icon to browse through all the files that are ready for you to use."
 msgstr ""
 
 #. (itstool) path: note/title
-#: C/shell-download-media.page:60
+#: C/shell-download-media.page:63
 msgid "Tips:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-download-media.page:63
+#: C/shell-download-media.page:66
 msgid "A song with more “Seeds” next to its name will download more quickly."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-download-media.page:67
-msgid "Files from SoundCloud.com, Archive.org, or other similar services, will not show any “Seeds” because they come directly from the source rather than from other FrostWire users."
+#: C/shell-download-media.page:70
+msgid "Files from SoundCloud.com, Archive.org, or other similar services, will not show any “Seeds” because they come directly from the source rather than from other users."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-download-media.page:72
+#: C/shell-download-media.page:75
 msgid "Click the triangle button next to a file to preview it before downloading."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-download-media.page:76
+#: C/shell-download-media.page:79
 msgid "Click the plus button next to a file to select the parts of the package that you want to download."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-download-media.page:83
+#: C/shell-download-media.page:86
 msgid "Make sure that what you are downloading is a legal copy! Many files have copyright laws that prohibit them from being shared for free online. This means that you could be sued for illegally downloading them without paying for them. That being said, there are millions of files that are completely legal and shareable on the internet, and that you can enjoy once you download them with this app. To learn more about downloading files and copyright, you may want to google \"torrents and legality\" so that you can make informed decisions on which files to download."
 msgstr ""
 
@@ -6998,12 +6786,12 @@ msgstr ""
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:36
-msgid "If an application or a system component wants to get your attention, a notification will be shown at the bottom of the screen."
+msgid "If an application or a system component wants to get your attention, a notification will be shown at the bottom of your screen."
 msgstr ""
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:39
-msgid "For example, if you get a new chat message, plug in an external device (like a USB stick), new updates are available for your computer, or your computer’s battery is low, you will get a notification informing you."
+msgid "For example, if you plug in an external device (like a USB stick), or if new updates are available for your computer, you will get a notification informing you."
 msgstr ""
 
 #. (itstool) path: section/p
@@ -7018,7 +6806,7 @@ msgstr ""
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:51
-msgid "Clicking the close button on some notifications dismisses them. Others, like your chat application, will stay hidden in the message tray."
+msgid "Clicking the close button on some notifications dismisses them. Others may stay hidden in the message tray."
 msgstr ""
 
 #. (itstool) path: section/title
@@ -7158,7 +6946,7 @@ msgstr ""
 
 #. (itstool) path: page/title
 #: C/shell-update-app.page:22
-msgid "Updating Apps"
+msgid "Updating apps"
 msgstr ""
 
 #. (itstool) path: page/p
@@ -7434,6 +7222,36 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/sound-alert.page:57
 msgid "To disable alert sounds entirely, switch the <gui>Alert volume</gui> to <gui>Off</gui>."
+msgstr ""
+
+#. (itstool) path: credit/years
+#: C/sound-troubleshoot.page:15
+msgid "2016"
+msgstr ""
+
+#. (itstool) path: info/desc
+#: C/sound-troubleshoot.page:18
+msgid "If you can't hear sound on your computer, there may be a way to fix that."
+msgstr ""
+
+#. (itstool) path: page/title
+#: C/sound-troubleshoot.page:22
+msgid "Troubleshoot sound on your computer"
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/sound-troubleshoot.page:24
+msgid "Here are some known issues and how to fix them if you're having trouble hearing sound from your computer."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/sound-troubleshoot.page:28
+msgid "Hearing sound on an old TV"
+msgstr ""
+
+#. (itstool) path: section/p
+#: C/sound-troubleshoot.page:30
+msgid "Some Endless computers are compatible with old TVs. To play audio through your TV, you will need to use an adapter that connects your TV to the 3.5 mm audio jack on the side of your computer. Endless does not come with this adapter, so you should check with your local electronics retailer to purchase one."
 msgstr ""
 
 #. (itstool) path: info/desc
