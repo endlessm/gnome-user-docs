@@ -14,15 +14,15 @@
 # Jorge González <jorgegonz@svn.gnome.org>, 2011
 # mattdangerw <watson@endlessm.com>, 2014
 # Milagros Alessandra Infante Montero <maim92@gmail.com>, 2012
-# Nuritzi Sanchez <ns@endlessm.com>, 2014
+# Nuritzi Sanchez <ns@endlessm.com>, 2014,2016
 # Roddy Shuler <roddy@endlessm.com>, 2014
 # mattdangerw <watson@endlessm.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-14 21:51-0700\n"
-"PO-Revision-Date: 2016-03-15 04:52+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"PO-Revision-Date: 2016-03-23 00:56+0000\n"
+"Last-Translator: Nuritzi Sanchez <ns@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -398,7 +398,7 @@ msgstr "En muchos programas, puedes aumentar el tamaño del texto en cualquier m
 msgid ""
 "The universal access menu is the icon on the bottom bar that looks like a "
 "person."
-msgstr ""
+msgstr "El menú de acceso universal es el ícono en que parece una persona en la barra al fondo del escritorio."
 
 #. (itstool) path: page/title
 #: C/a11y-icon.page:22
@@ -411,12 +411,12 @@ msgid ""
 "The <em>universal access menu</em> is where you can turn on some of the "
 "accessibility settings. You can find this menu by clicking the icon which "
 "looks like a person surrounded by a circle on the bottom bar."
-msgstr ""
+msgstr "El <em>menú de acceso universal</em> es donde puedes activar varios ajustes de accesibilidad. Puedes encontrar este menú haciendo clic sobre el ícono en que parece una persona rodeada de un círculo, en la barra al fondo del escritorio."
 
 #. (itstool) path: figure/desc
 #: C/a11y-icon.page:29
 msgid "The universal access menu can be found on the bottom bar."
-msgstr ""
+msgstr "El menú de acceso universal se puede encontrar en la barra al fondo del escritorio."
 
 #. (itstool) path: page/p
 #: C/a11y-icon.page:33
@@ -903,7 +903,7 @@ msgstr "Añadir una cuenta en línea"
 msgid ""
 "You can link some of your favorite online accounts, like your email, so that"
 " related applications will already be set up you when you open them."
-msgstr ""
+msgstr "Puedes conectar algunas de tus preferidas cuentas en línea, como tu correo electrónico, para que programas que las usen ya esten listos para usar cuando los abras."
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:42
@@ -918,7 +918,7 @@ msgstr "Haz clic en el botón <gui>Añadir cuenta en línea</gui>."
 #. (itstool) path: item/p
 #: C/accounts-add.page:50
 msgid "Select the type of account you want to add first."
-msgstr ""
+msgstr "Selecciona la cuenta que quieres agregar primero. "
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:51
@@ -949,7 +949,7 @@ msgid ""
 "example, if you want to use an online account for email, but do not want to "
 "use an online account for your calendar, turn the <gui>Calendar</gui> option"
 " to <gui>Off</gui>."
-msgstr ""
+msgstr "Selecciona los programas que quieres conectar con tu cuenta. Por ejemplo, si quieres usar una cuenta en línea para tu email, pero no la quieres usar para tu calendario, <gui>Desactiva</gui> la opción <gui>Calendario</gui>."
 
 #. (itstool) path: page/p
 #: C/accounts-add.page:74
@@ -1681,12 +1681,12 @@ msgstr "Encender o apagar el Bluetooth"
 msgid ""
 "You can turn <gui>Bluetooth</gui> on to use Bluetooth devices and send and "
 "receive files, but turn it off to conserve power."
-msgstr ""
+msgstr "Puedes activar <gui>Bluetooth</gui> para conectarte a otros aparatos con Bluetooth, o puedes apagarlo para ahorrar energía."
 
 #. (itstool) path: page/p
 #: C/bluetooth-turn-on-off.page:42
 msgid "To turn Bluetooth on:"
-msgstr ""
+msgstr "Para encender el Bluetooth:"
 
 #. (itstool) path: item/p
 #: C/bluetooth-turn-on-off.page:54
@@ -3470,7 +3470,7 @@ msgstr "Juanjo Marin"
 msgid ""
 "The Menu key launches a context menu with the keyboard rather than with a "
 "right-click."
-msgstr ""
+msgstr "La tecla de Menú muestra un menú contextual con el teclado en lugar de con el botón derecho."
 
 #. (itstool) path: license/p
 #: C/keyboard-key-menu.page:23
@@ -3523,12 +3523,12 @@ msgstr "El <em>menú contextual</em> es un menú emergente que se muestra cuando
 #. (itstool) path: info/desc
 #: C/keyboard-key-super.page:23
 msgid "The Super key hides your open windows so you can see your desktop."
-msgstr ""
+msgstr "La tecla Super oculta las ventanas abiertas para que puedas ver el escritorio."
 
 #. (itstool) path: page/title
 #: C/keyboard-key-super.page:26
 msgid "Use the Super key"
-msgstr ""
+msgstr "Usa la tecla Super"
 
 #. (itstool) path: page/p
 #: C/keyboard-key-super.page:28
@@ -3698,7 +3698,7 @@ msgstr "Usar aplicaciones y el escritorio sin ratón."
 #. (itstool) path: page/title
 #: C/keyboard-nav.page:31
 msgid "Use the keyboard instead of a mouse"
-msgstr ""
+msgstr "Usa el teclado en lugar de el ratón"
 
 #. (itstool) path: page/p
 #: C/keyboard-nav.page:41
@@ -4140,7 +4140,7 @@ msgstr "<link xref=\"keyboard-layouts\">Formatos de teclado</link>, <link xref=\
 #. (itstool) path: page/title
 #: C/keyboard.page:29
 msgid "Use your keyboard"
-msgstr ""
+msgstr "Usa tu teclado"
 
 #. (itstool) path: credit/name
 #: C/look-background.page:17
@@ -4370,7 +4370,7 @@ msgid ""
 "Endless. You can transfer them to your computer from a USB, or download them"
 " from the internet using the <app>FrostTorrent</app> app if you have an "
 "online connection."
-msgstr ""
+msgstr "Tu computadora viene precargada con vídeos cortos que están listos para disfrutar. La mayoría de los formatos de vídeos digitales son compatible con Endless y puedes descargarlos desde un dispositivo USB, o del internet usando el programa <app>FrostTorrent</ app> cuando tienes conexión."
 
 #. (itstool) path: steps/title
 #: C/media-play-videos.page:30
@@ -4457,7 +4457,7 @@ msgid ""
 "If you would like to watch a DVD, you will need to connect an external DVD "
 "player to your computer. Please ask your local electronics retailer for more"
 " information on purchasing this accessory."
-msgstr ""
+msgstr "Si deseas ver un DVD, tendrás que conectar un reproductor de DVD externo a tu computadora. Por favor, consulta con tu tienda de electrónica preferida para obtener más información acerca de ese accesorio."
 
 #. (itstool) path: info/desc
 #: C/mouse-doubleclick.page:13
@@ -4696,7 +4696,7 @@ msgstr "<link xref=\"mouse-sensitivity\">Velocidad y sensibilidad</link>, <link 
 #. (itstool) path: page/title
 #: C/mouse.page:19
 msgid "Use your mouse"
-msgstr ""
+msgstr "Usa tu ratón"
 
 #. (itstool) path: info/desc
 #: C/nautilus-file-properties-basic.page:8
@@ -6862,7 +6862,7 @@ msgstr "En la ventana emergente, seleccione su impresora y pulse <gui>Añadir</g
 #. (itstool) path: info/desc
 #: C/printing-supported.page:19
 msgid "Learn about supported printers on Endless."
-msgstr ""
+msgstr "Aprende cuales impresoras son compatibles con Endless."
 
 #. (itstool) path: page/title
 #: C/printing-supported.page:22
@@ -6874,7 +6874,7 @@ msgstr "Impresoras compatibles"
 msgid ""
 "Endless supports many common models of printers. Some models may require "
 "Internet access to download drivers."
-msgstr ""
+msgstr "Muchos modelos de impresoras comunes son compatibles con Endless. Algunas impresoras pueden necesitar acceso a internet para descargar archivos necesarios para funcionar."
 
 #. (itstool) path: page/p
 #: C/printing-supported.page:26
@@ -6882,7 +6882,7 @@ msgid ""
 "If you have questions about a specific model, please contact our customer "
 "support team at <link "
 "href=\"mailto:support@endlessm.com\">support@endlessm.com</link>."
-msgstr ""
+msgstr "Si tienes preguntas sobre un modelo específico, por favor, manda un email a nuestro equipo de soporte al cliente: <link href = \"mailto: ayuda@endlessm.com\">ayuda@endlessm.com</ link>."
 
 #. (itstool) path: info/desc
 #: C/printing-to-file.page:18
@@ -6904,7 +6904,7 @@ msgid ""
 "from a printer. Printing to file will create a PDF, Postscript, or SVG file "
 "that contains the document. This can be useful if you want to transfer the "
 "document to another machine or share it with someone."
-msgstr ""
+msgstr "Puedes crear un archivo <sys>PDF</sys>, <sys>Postscript</sys> o <sys>SVG</sys> si eliges imprimir tu documento a un archivo en lugar de imprimirlo en una impresora. Esto puede ser útil si quieres transferir el documento a otra computadora o compartirlo con alguien."
 
 #. (itstool) path: item/p
 #: C/printing-to-file.page:31
@@ -7882,7 +7882,7 @@ msgstr "Aprende cómo descargar canciones y multimedia del internet."
 #. (itstool) path: page/title
 #: C/shell-download-media.page:18
 msgid "Download songs and media"
-msgstr ""
+msgstr "Descargar canciones y multimedia"
 
 #. (itstool) path: page/p
 #: C/shell-download-media.page:20
@@ -7902,7 +7902,7 @@ msgid ""
 "Make sure that you have the <app>FrostTorrent</app> app installed on your "
 "computer. If you don't already have it, go to your <app>App Center</app>'s "
 "Utilities section and download it, then click on it once to open."
-msgstr ""
+msgstr "Asegúrate de haber descargado el programa <app>FrostTorrent</app>. Si todavía no lo tienes, visita la sección de Utilidades en el <app>Centro de programas</app> para descargarlo y luego haz clic en él cuando se termine de descargar para usarlo."
 
 #. (itstool) path: item/p
 #: C/shell-download-media.page:33
@@ -7918,7 +7918,7 @@ msgid ""
 "Type in a keyword and press <key>Enter</key> on your keyboard, or click on "
 "the search icon. Suggested keywords will show up as you type and you can "
 "click on them to conduct a search on that keyword."
-msgstr ""
+msgstr "Escribe una palabra clave y pulsa la tecla <key>Intro</key> o haz clic en el ícono de búsqueda. Palabras claves sugeridas aparecerán cuando empieces a escribir la tuya y podrás de seleccionar una de esas o terminar la tuya."
 
 #. (itstool) path: item/p
 #: C/shell-download-media.page:43
@@ -7928,14 +7928,14 @@ msgid ""
 "strip (videos), or a sheet of paper (documents). You can also filter your "
 "results by clicking on the <gui>Search Tools</gui> button on the right- hand"
 " side of the window."
-msgstr ""
+msgstr "Opciones aparecerán en la ventana principal. Puedes escoger el tipo de archivo que quieres haciendole clic el ícono que correspoda: una nota musical (canciones), un marco (fotos), una tira de película (videos) o una hoja de papel (documentos). También puedes filtrar los resultados haciendo clic en el botón <gui>Herramientas de búsqueda</gui> en la parte derecha de la ventana"
 
 #. (itstool) path: item/p
 #: C/shell-download-media.page:50
 msgid ""
 "To begin downloading the file, double click on the name of a file, or click "
 "once and then click <gui>Download</gui>."
-msgstr ""
+msgstr "Para comenzar a descargar el archivo, haz doble clic sobre el nombre del archivo o haz clic en el nombre solo una vez y luego en <gui>Descargar</gui>."
 
 #. (itstool) path: item/p
 #: C/shell-download-media.page:54
@@ -7945,7 +7945,7 @@ msgid ""
 "Right click on any finished file to see more options for using it. You can "
 "also click on the <gui>Library</gui> icon to browse through all the files "
 "that are ready for you to use."
-msgstr ""
+msgstr "Cuando tu archivo se termine de descargar, aparecerá en la mitad inferior de la pantalla. Hazle doble clic para abrirlo y usarlo. Haz clic derecho sobre cualquier archivo completo para ver más opciones para usarlo. También puedes hacer clic en el ícono de <gui>  biblioteca </gui> para ver todos los archivos que están listos para usar."
 
 #. (itstool) path: note/title
 #: C/shell-download-media.page:63
@@ -7963,7 +7963,7 @@ msgid ""
 "Files from SoundCloud.com, Archive.org, or other similar services, will not "
 "show any “Seeds” because they come directly from the source rather than from"
 " other users."
-msgstr ""
+msgstr "Archivos de SoundCloud.com, Archive.org u otros servicios similares, no mostrarán \"Semillas\" porque vienen directamente de la fuente y no de otros usuarios."
 
 #. (itstool) path: item/p
 #: C/shell-download-media.page:75
@@ -8530,7 +8530,7 @@ msgstr "¿Qué es una notificación?"
 msgid ""
 "If an application or a system component wants to get your attention, a "
 "notification will be shown at the bottom of your screen."
-msgstr ""
+msgstr "Si un programa o un componente del sistema quiere llamarte la atención, mostrará una notificación en la parte inferior de la pantalla."
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:39
@@ -8538,7 +8538,7 @@ msgid ""
 "For example, if you plug in an external device (like a USB stick), or if new"
 " updates are available for your computer, you will get a notification "
 "informing you."
-msgstr ""
+msgstr "Por ejemplo, si conectas un aparato externo (como un USB), o si hay nuevas actualizaciones disponibles para tu computadora, recibirás una notificación informándote de ello."
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:43
@@ -8559,7 +8559,7 @@ msgstr "Otras notificaciones tienen botones de opciones seleccionables. Para cer
 msgid ""
 "Clicking the close button on some notifications dismisses them. Others may "
 "stay hidden in the message tray."
-msgstr ""
+msgstr "Hacer clic en el botón de cierre en algunas notificaciones las despide. Otras se quedarán ocultas en la bandeja de mensajes."
 
 #. (itstool) path: section/title
 #: C/shell-notifications.page:60
@@ -8734,7 +8734,7 @@ msgstr "Aprende cómo instalar las actualizaciones disponibles para tus programa
 #. (itstool) path: page/title
 #: C/shell-update-app.page:22
 msgid "Updating apps"
-msgstr ""
+msgstr "Actualizando programas"
 
 #. (itstool) path: page/p
 #: C/shell-update-app.page:24
@@ -9110,30 +9110,30 @@ msgstr "Para desactivar completamente los sonidos de alerta, <gui>Apague</gui> e
 #. (itstool) path: credit/years
 #: C/sound-troubleshoot.page:15
 msgid "2016"
-msgstr ""
+msgstr "2016"
 
 #. (itstool) path: info/desc
 #: C/sound-troubleshoot.page:18
 msgid ""
 "If you can't hear sound on your computer, there may be a way to fix that."
-msgstr ""
+msgstr "Si no puedes oír sonido de tu computadora, tal vez hay una manera de solucionar el problema."
 
 #. (itstool) path: page/title
 #: C/sound-troubleshoot.page:22
 msgid "Troubleshoot sound on your computer"
-msgstr ""
+msgstr "Soluciona problemas de sonido en tu computadora"
 
 #. (itstool) path: page/p
 #: C/sound-troubleshoot.page:24
 msgid ""
 "Here are some known issues and how to fix them if you're having trouble "
 "hearing sound from your computer."
-msgstr ""
+msgstr "Si estás teniendo problemas de sonido en tu computadora, aquí hay algunas soluciones."
 
 #. (itstool) path: section/title
 #: C/sound-troubleshoot.page:28
 msgid "Hearing sound on an old TV"
-msgstr ""
+msgstr "Tocando sonido en una TV vieja"
 
 #. (itstool) path: section/p
 #: C/sound-troubleshoot.page:30
@@ -9143,7 +9143,7 @@ msgid ""
 " audio jack on the side of your computer. Endless does not come with this "
 "adapter, so you should check with your local electronics retailer to "
 "purchase one."
-msgstr ""
+msgstr "Algunas computadoras de Endless son compatibles con televisones viejas. Para tocar sonido en una televisión vieja, tendrás que utilizar un adaptador de audio de 3,5 mm. Endless no viene con este adaptador pero puedes consultar con tu tienda de electrónica preferida para comprar uno."
 
 #. (itstool) path: info/desc
 #: C/sound-volume.page:20
