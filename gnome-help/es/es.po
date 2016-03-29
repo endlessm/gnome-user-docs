@@ -10,7 +10,7 @@
 # goizueta <goizueta@endlessm.com>, 2014
 # goizueta <goizueta@endlessm.com>, 2014
 # Joaquín Ignacio Aramendía <samsagax@gmail.com>, 2011
-# Joel Gil <joel@endlessm.com>, 2014-2015
+# Joel Gil León <joel@endlessm.com>, 2014-2015
 # Jorge González <jorgegonz@svn.gnome.org>, 2011
 # mattdangerw <watson@endlessm.com>, 2014
 # Milagros Alessandra Infante Montero <maim92@gmail.com>, 2012
@@ -21,7 +21,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-14 21:51-0700\n"
-"PO-Revision-Date: 2016-03-23 00:56+0000\n"
+"PO-Revision-Date: 2016-03-23 19:39+0000\n"
 "Last-Translator: Nuritzi Sanchez <ns@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
@@ -6904,7 +6904,7 @@ msgid ""
 "from a printer. Printing to file will create a PDF, Postscript, or SVG file "
 "that contains the document. This can be useful if you want to transfer the "
 "document to another machine or share it with someone."
-msgstr "Puedes crear un archivo <sys>PDF</sys>, <sys>Postscript</sys> o <sys>SVG</sys> si eliges imprimir tu documento a un archivo en lugar de imprimirlo en una impresora. Esto puede ser útil si quieres transferir el documento a otra computadora o compartirlo con alguien."
+msgstr "Puedes crear un archivo <sys>PDF</sys>, <sys>Postscript</sys> o <sys>SVG</sys> si eliges imprimir tu documento a un archivo en vez de imprimirlo en una impresora. Esto puede ser útil si quieres transferir el documento a otra computadora o compartirlo con alguien."
 
 #. (itstool) path: item/p
 #: C/printing-to-file.page:31
