@@ -3,13 +3,14 @@
 # chenzibing <chenzibing_endless@126.com>, 2016
 # tanyuanxing <tanyuanxingendless@126.com>, 2016
 # Wylmer Wang <wantinghard@gmail.com>, 2013
+# zhifeng peng <jnufeng@126.com>, 2016
 # zhoushumin <zhoushumin_endless@126.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2016-06-12 13:14+0000\n"
-"Last-Translator: zhoushumin <zhoushumin_endless@126.com>\n"
+"PO-Revision-Date: 2016-06-21 01:09+0000\n"
+"Last-Translator: zhifeng peng <jnufeng@126.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -207,7 +208,7 @@ msgid ""
 "the first time. Select <gui>Beep when a key is rejected</gui> if you want "
 "the computer to make a sound each time it ignores a key press because it "
 "happened too soon after the previous key press."
-msgstr "您可以通过 <gui>可允许的延迟时间 </gui>滑块来更改回弹键可等待的两次按键的时间间隔。如果您希望计算机能在忽略第二下快速按键动作时发出提示音，可选择<gui>当按键无效时发出蜂鸣声</gui>。"
+msgstr "您可以通过 <gui>可允许的延迟时间 </gui>滑块来更改回弹键可等待的两次按键的时间间隔。如果您希望计算机能在忽略第二下快速按键动作时发出提示音，可选择<gui>当按键无效时发出蜂鸣声</gui>。"
 
 #. (itstool) path: info/desc
 #: C/a11y-braille.page:18
@@ -227,7 +228,7 @@ msgid ""
 "interface on a refreshable Braille display. You can learn how to use Orca by"
 " referring to the <link href=\"help:orca\">Orca Help</link> for more "
 "information."
-msgstr "Endless的屏幕阅读器 <app>Orca</app> 带有可刷新盲文显示屏界面。您可以在 <link href=\"help:orca\">Ocra帮助</link>中查找更多信息，学习使用Orca。"
+msgstr "Endless的屏幕阅读器 <app>Orca</app> 带有可刷新盲文显示屏界面。您可以在 <link href=\"help:orca\">Ocra帮助</link>中查找更多信息，学习使用Orca。"
 
 #. (itstool) path: info/desc
 #: C/a11y-contrast.page:28
@@ -1049,12 +1050,12 @@ msgstr "另外，如果您是在家用电脑上备份数据，那么不需要随
 #. (itstool) path: item/p
 #: C/backup-frequency.page:35
 msgid "The amount of time you spend on the computer."
-msgstr "您花在计算机上的时间。"
+msgstr "您花在电脑上的时间。"
 
 #. (itstool) path: item/p
 #: C/backup-frequency.page:36
 msgid "How often and by how much the data on the computer changes."
-msgstr "计算机数据变化的频率以及幅度。"
+msgstr "电脑数据变化的频率以及幅度。"
 
 #. (itstool) path: page/p
 #: C/backup-frequency.page:39
@@ -1063,7 +1064,7 @@ msgid ""
 "changes, like music, e-mails and family photos, then weekly or even monthly "
 "backups may suffice. However, if you happen to be in the middle of preparing"
 " your taxes, more frequent backups may be necessary."
-msgstr "如果你想备份的数据是次重要项目或优先项目，或在经常变化的情况下，如音乐，电子邮件和家庭照片，那么每周甚至每月备份一次可能就足够了。但是，如果你正在准备你的税收明细，那么恒常备份可能是必要的。"
+msgstr "如果您要备份的数据是不太重要的，或者很少改变的，如音乐、邮件和家庭照片，那么每周甚至每月备份一次就足够了。当然，如果您碰巧在处理税单，那就需要更多的备份次数。"
 
 #. (itstool) path: page/p
 #: C/backup-frequency.page:44
@@ -1077,7 +1078,7 @@ msgstr "作为通用法则，备份的间隔时间，不应当超过您重新做
 #. (itstool) path: info/desc
 #: C/backup-how.page:8
 msgid "Backup your valuable files and settings to protect against loss."
-msgstr "备份重要文件和设定，以防止损失。"
+msgstr "备份重要文件和设置，以避免损失。"
 
 #. (itstool) path: page/title
 #: C/backup-how.page:26
@@ -1094,7 +1095,7 @@ msgid ""
 "are usually in your <gui>Home</gui> folder, so you can copy them from there."
 " To get to your <gui>Home</gui> folder, first click on the "
 "<gui>Documents</gui> icon on the desktop."
-msgstr "执行定期备份，以确保文件安全。备份文件，<link xref=\"files-copy\">复制文件</link>到安全的位置，如外部硬盘驱动器，网络上的另一台计算机，或USB驱动器。个人文件和设定，通常是在你的<gui>Home</gui>文件夹，所以你可以从文件夹复制你的文件。要找到你的<gui>Home</gui>文件夹，首先选中桌面上的<gui>文件</gui>图标"
+msgstr "执行定期备份，以确保文件安全。备份文件，<link xref=\"files-copy\">复制文件</link>到安全的位置，如外部硬盘驱动器，网络上的另一台电脑，或USB驱动器。个人文件和设置通常是在你的<gui>Home</gui>文件夹中，所以你可以从文件夹复制你的文件。要找到你的<gui>Home</gui>文件夹，首先点击桌面上的<gui>文件</gui>图标。"
 
 #. (itstool) path: page/p
 #: C/backup-how.page:36
@@ -1102,7 +1103,7 @@ msgid ""
 "The amount of data you can back up is limited by the size of the storage "
 "device. If you have the room on your backup device, it is best to back up "
 "your entire <gui>Home</gui> folder with the following exceptions:"
-msgstr "您可以备份的数据量会被存储设备的大小限制。如果你的备份设备有足够的空间，最好是备份整个<gui>主</gui>文件夹，但不包括以下数项："
+msgstr "您可以备份的数据量会被存储设备的大小限制。如果你的备份设备有足够的空间，最好是备份整个<gui>Home</gui>文件夹，但不包括以下数项："
 
 #. (itstool) path: item/p
 #: C/backup-how.page:41
@@ -1114,7 +1115,7 @@ msgstr "已经通过其他方式备份的文件。例如已经保存在 CD，DVD
 #. (itstool) path: item/p
 #: C/backup-how.page:43
 msgid "Any files in the Trash folder."
-msgstr "垃圾回收桶里的任何文件"
+msgstr "回收站文件夹里的任何文件"
 
 #. (itstool) path: info/desc
 #: C/backup-restore.page:8
@@ -1139,12 +1140,12 @@ msgid ""
 "If you want to restore your backup from a device such as an external hard "
 "drive, USB drive or another computer on the network, you can <link xref"
 "=\"files-copy\">copy them</link> back to your computer."
-msgstr "如果您想从设备，如外部硬盘驱动器，USB驱动器或网络上的另一台计算机来恢复您的备份，您可以<link xref=\"files-copy\">复制它们</link>到您的电脑上。"
+msgstr "如果您想通过外部硬盘驱动器，USB驱动器或网络上的另一台电脑来恢复您的备份，您可以<link xref=\"files-copy\">复制它们</link>到您的电脑上。"
 
 #. (itstool) path: info/desc
 #: C/backup-what.page:8
 msgid "Back up anything that you can't bear to lose if something goes wrong."
-msgstr "备份所有重要文件"
+msgstr "备份如有出错会造成重大损失的所有重要文件。"
 
 #. (itstool) path: page/title
 #: C/backup-what.page:27
@@ -1185,7 +1186,7 @@ msgid ""
 "application preferences, such as settings for <app>Writer</app>, your music "
 "player, and your email program. These are replaceable, but may take a while "
 "to recreate."
-msgstr "这包括更改您的桌面上的颜色、背景、屏幕分辨率和鼠标设定。这也包括应用程序的偏好设定，如 <程序>作者< /应用程序>设置，您的音乐播放器和您的电子邮件程序。这些都是可替换的设定，但可能需要一段时间来重新创建。"
+msgstr "这包括更改您的桌面上的颜色、背景、屏幕分辨率和鼠标设置。这也包括应用程序的偏好设置，如<app>Writer</app>设置，您的音乐播放器和您的电子邮件程序。这些都是可替换的设置，但可能需要一段时间来重新创建。"
 
 #. (itstool) path: item/title
 #: C/backup-what.page:51
@@ -1198,7 +1199,7 @@ msgid ""
 "Most people never change the system settings that are created when you first"
 " turn your computer on. If you do customize your system settings for some "
 "reason, then you may wish to back up these settings."
-msgstr "大多数人不会改变第一次打开计算机时创建的系统设置。如果您的系统设置是根据个人偏好更改而成，那么您可能希望备份这些设定。"
+msgstr "大多数人不会更改第一次打开电脑时的默认系统设置。如果您的系统设置是根据个人偏好更改而成，那么您可能会希望对这些设置进行备份。"
 
 #. (itstool) path: page/p
 #: C/backup-what.page:59
@@ -1207,7 +1208,7 @@ msgid ""
 "that require a great time investment to replace without a backup. If things "
 "are easy to replace, on the other hand, you may not want to use up disk "
 "space by having backups of them."
-msgstr "通常，您想要备份不可替代的文件以及如果没有备份需要投入大量时间才能恢复的文件。另一方面，如果内容非常简单替代，您可能不希望备份挤占磁盘空间。"
+msgstr "通常，您想要备份不可替代的文件以及如果没有备份需要投入大量时间才能恢复的文件。另一方面，如果内容非常容易替代，您可能不希望因为备份而占用磁盘空间。"
 
 #. (itstool) path: info/desc
 #: C/backup-where.page:8
@@ -1299,7 +1300,7 @@ msgstr "其中的一些选项具有足够的容量，可以备份您系统上的
 #. (itstool) path: info/desc
 #: C/backup-why.page:16
 msgid "Back up your computer to prevent your files from being lost."
-msgstr "备份您的计算机，以防止文件丢失。"
+msgstr "对您的电脑进行备份，以防止文件丢失。"
 
 #. (itstool) path: page/title
 #: C/backup-why.page:19
@@ -1313,7 +1314,7 @@ msgid ""
 "you can so that you do not lose them. Your files can get lost for many "
 "unexpected reasons, like theft, if you spill water on your computer, or if "
 "your computer otherwise stops working."
-msgstr "创建一个系统和文件的备份是一个好主意，当您这样做的时候，您就不会失去它们。您的文件可能会因许多意想不到的原因而丢失，如盗窃，把水溅到电脑了，或您的计算机以别的方式停止运作。"
+msgstr "创建一个系统和文件的备份是一个好主意，当您这样做的时候，您就不会丢失它们。您的文件可能会因许多意想不到的原因而丢失，如被盗，把水溅到电脑上，或您的电脑因为别的原因而停止运作。"
 
 #. (itstool) path: page/p
 #: C/backup-why.page:26
@@ -1324,7 +1325,7 @@ msgid ""
 "event of loss. Copies should be stored on a different device from the "
 "original files. For example, you may use a USB drive, an external hard "
 "drive, a CD/DVD, or an off-site service."
-msgstr "备份你的文件简而言之就是复制和保存他们。这是在做是以防原始文件由于丢失或损坏变得无法使用。这些副本可以用于还原原始数据的丢失。备份的副本应存放在和原文件分开的设备上。例如，你可以存放在USB驱动器、外部硬盘驱动器，CD / DVD，或其他装置外的服务。"
+msgstr "备份你的文件简而言之就是对她们进行复制和保存。这样做是防止原始文件由于丢失或损坏变得无法使用。这些副本可以用于还原原始丢失的数据。备份的副本应存放在和原文件不同的设备上。例如，你可以存放在USB驱动器、外部硬盘驱动器，CD / DVD，或其他装置外的服务器上。"
 
 #. (itstool) path: page/p
 #: C/backup-why.page:33
@@ -1386,7 +1387,7 @@ msgid ""
 "Click <key>+</key> below the <gui>Devices</gui> list. The <gui>Bluetooth New"
 " Device Setup</gui> panel will open and your computer will begin searching "
 "for devices."
-msgstr "点击 <key>+</key> 下面的<gui>设备</gui>列表。新的 <gui>蓝牙设备安装</gui> 面板将打开，您的计算机将开始搜索设备。"
+msgstr "点击 <key>+</key> 下面的<gui>设备</gui>列表。新的 <gui>蓝牙设备安装</gui> 面板将打开，您的电脑将开始搜索设备。"
 
 #. (itstool) path: item/p
 #: C/bluetooth-connect-device.page:65
@@ -1394,14 +1395,14 @@ msgid ""
 "Select a device in the <gui>Device</gui> list. If there are too many devices"
 " listed, use the <gui>Device type</gui> drop-down to display only a single "
 "type of device in the list."
-msgstr "选择在 <gui>装置</gui> 表装置。如果列表上有太多的设备，使用 <gui>设备类型</gui>下拉列表，让列表只显示一个单一类型的装置。"
+msgstr "在 <gui>设备</gui> 列表选择一个设备。如果列表上有太多的设备，使用 <gui>设备类型</gui>下拉列表，让列表只显示某一单一类型的装置。"
 
 #. (itstool) path: item/p
 #: C/bluetooth-connect-device.page:70
 msgid ""
 "Click <gui>PIN options</gui> to set how a PIN will be delivered to the other"
 " device."
-msgstr "选择 <gui>PIN 选项...</gui>，设置向另一设备发送 PIN 的方式。"
+msgstr "点击<gui>PIN 选项</gui>，设置向另一设备发送 PIN 的方式。"
 
 #. (itstool) path: note/p
 #: C/bluetooth-connect-device.page:73
@@ -1410,21 +1411,21 @@ msgid ""
 " no input keys or screen, such as a mouse or headset, may require a specific"
 " PIN such as 0000, or no PIN at all. Check your device's manual for the "
 "proper setting."
-msgstr "自动 PIN 设置使用六位数字代码，没有输入功能的设备，比如鼠标或者耳机，需要特殊的 PIN 比如0000，或者根本就不要 PIN。检查您的设备是否设置正确。"
+msgstr "自动 PIN 设置使用六位数字代码，没有输入按键或屏幕的设备，比如鼠标或者耳机，需要比如0000等特殊的 PIN ，或者根本就不要 PIN。检查您的设备是否设置正确。"
 
 #. (itstool) path: item/p
 #: C/bluetooth-connect-device.page:78
 msgid ""
 "Choose an appropriate PIN setting for your device, then click "
 "<gui>Close</gui>."
-msgstr "为设备选择适当的 PIN 设置，然后选择<gui>关闭</gui>。"
+msgstr "为设备选择适当的 PIN 设置，然后点击<gui>关闭</gui>。"
 
 #. (itstool) path: item/p
 #: C/bluetooth-connect-device.page:82
 msgid ""
 "Click <gui>Continue</gui> to proceed. If you did not choose a preset PIN, "
 "the PIN will be displayed on the screen."
-msgstr "选择<gui>继续</gui>。如果您没有选择预设 PIN，PIN 将显示在屏幕上。"
+msgstr "点击<gui>继续</gui>。如果您没有选择预设 PIN，PIN 将显示在屏幕上。"
 
 #. (itstool) path: item/p
 #: C/bluetooth-connect-device.page:86
@@ -2111,7 +2112,7 @@ msgid ""
 "You can force the file to be copied by holding down the <key>Ctrl</key> key "
 "while dragging, or force it to be moved by holding down the <key>Shift</key>"
 " key while dragging."
-msgstr "您可以在拖动时按住 <key>Ctrl</key> 键来强制要求复制，或者按住 <key>Shift</key> 键来强制要求移动。"
+msgstr "您可以在拖动时按住 <key>Ctrl</key> 键来强制复制文件，或者拖动时按住 <key>Shift</key> 键来强制移动文件。"
 
 #. (itstool) path: note/p
 #: C/files-copy.page:108
@@ -2212,7 +2213,7 @@ msgid ""
 "like a circle on the top right-hand corner of the window, click on "
 "<gui>Preferences</gui> and select the <gui>Behavior</gui> tab. Select "
 "<gui>Include a Delete command that bypasses Trash</gui>."
-msgstr "如果你经常需要删除文件而不使用垃圾回收(例如，如果你经常接触敏感数据的工作)，你可以在文件和文件夹里面添加一个 <gui>删除</gui>  的右键菜单选项。首先，在 <app>文件</app>从桌面图标。选中一个在桌面的右上角看起来想一个圆形的图标，点击<gui>参数选择</gui>，然后选择<gui>行为</gui>标签。选择<gui>加入不使用垃圾回收筒的刪除指令<gui>。"
+msgstr "如果你经常需要删除文件而不使用回收站(例如，如果你经常接触敏感数据的工作)，你可以在文件和文件夹里面添加一个 <gui>删除</gui>  的右键菜单选项。首先，在 <app>文件</app>从桌面图标。选中一个在桌面的右上角看起来想一个圆形的图标，点击<gui>参数选择</gui>，然后选择<gui>行为</gui>标签。选择<gui>加入不使用回收站的刪除指令<gui>。"
 
 #. (itstool) path: note/p
 #: C/files-delete.page:73
@@ -2221,7 +2222,7 @@ msgid ""
 " may not be visible on other operating systems, such Windows or Mac OS. The "
 "files are still there, and will be available when you plug the device back "
 "into your computer."
-msgstr "在 <link xref=\"文件删除驱动移动设备\">删除的文件 </link>可能在其他操作系统中看不见，如Windows或Mac OS系统。该文件仍在那里，当你将设备插入到您的计算机时，将会再次看到这些文件。 "
+msgstr "在 <link xref=\"文件删除驱动移动设备\">删除的文件 </link>可能在其他操作系统中看不见，如Windows或Mac OS系统。该文件仍在那里，当你将设备插入到您的电脑时，将会再次看到这些文件。 "
 
 #. (itstool) path: credit/name
 #: C/files-microsoft-compatible.page:15 C/files-save.page:14
@@ -2240,7 +2241,7 @@ msgstr "在 <link xref=\"文件删除驱动移动设备\">删除的文件 </link
 #: C/shell-update-system.page:15 C/shell-windows-hide.page:15
 #: C/sound-troubleshoot.page:14
 msgid "Endless Mobile, Inc."
-msgstr "Endless移动设备公司"
+msgstr "Endless Mobile, Inc."
 
 #. (itstool) path: credit/years
 #: C/files-microsoft-compatible.page:16 C/files-save.page:15
@@ -2288,14 +2289,14 @@ msgstr "使用微软格式来储存你的文件："
 #: C/files-microsoft-compatible.page:32
 msgid ""
 "Open a Microsoft-compatible app: <_:media-1/>, <_:media-2/>, or <_:media-3/>"
-msgstr "打开一个微软兼容的程式：<_:media-1/>, <_:media-2/>, or <_:media-3/"
+msgstr "打开一个微软兼容的程式：<_:media-1/>, <_:media-2/>, 或者 <_:media-3/"
 
 #. (itstool) path: item/p
 #: C/files-microsoft-compatible.page:40
 msgid ""
 "Click on the <gui>File</gui> menu of the app, which is on the top left "
 "corner of the screen."
-msgstr "在屏幕最上方点击程式的<gui>文件</gui>菜单。"
+msgstr "在屏幕最上方点击app的<gui>文件</gui>菜单。"
 
 #. (itstool) path: item/p
 #: C/files-microsoft-compatible.page:44
@@ -2327,7 +2328,7 @@ msgstr "不用默认的应用程序打开文件，您也可以更改默认打开
 #. (itstool) path: page/title
 #: C/files-open.page:24
 msgid "Open files with other applications"
-msgstr "用其他程序打开文件"
+msgstr "用其他应用来打开文件"
 
 #. (itstool) path: page/p
 #: C/files-open.page:26
@@ -2335,7 +2336,7 @@ msgid ""
 "When you double-click a file in your documents folder, it will be opened "
 "with the default application for that file type unless you choose another "
 "application to open it."
-msgstr "当你双击你的文档文件夹中的文件时，除非你选择另一个应用程序打开它，否则它将与该文件类型的默认应用程序打开。"
+msgstr "当你双击你的文档文件夹中的文件时，除非你选择另一个应用打开它，否则它将以该文件类型的默认应用打开。"
 
 #. (itstool) path: page/p
 #: C/files-open.page:29
@@ -2345,7 +2346,7 @@ msgid ""
 "application you want to open the file with. If you don't see the application"
 " you want in that list, click <gui>Other Application...</gui>. The file "
 "manager only shows applications it knows can handle the file."
-msgstr "想打开一个不是以默认路径开启的应用程序，右键单击该文件，将您的鼠标移动到“以..程式打开”选项，并选择要打开该文件的应用程序。如果你没有看到你想要的应用程式在列表中，点击 <gui>其他应用…</gui>。该文件管理器只显示应用程序知道可以处理该文件的应用程序。"
+msgstr "想打开一个不是以默认路径开启的应用，右键单击该文件，将您的鼠标移动到“以..打开”选项，并选择要打开该文件的应用。如果你没有看到你想要的应用在列表中，点击 <gui>其他应用…</gui>。该文件管理器只显示可以处理该文件的应用。"
 
 #. (itstool) path: section/title
 #: C/files-open.page:37
@@ -2359,7 +2360,7 @@ msgid ""
 " type. This will allow you to open your preferred application when you "
 "double-click to open a file. For example, you might want your favorite music"
 " player to open when you double-click an MP3 file."
-msgstr "您可以修改用于打开某一类型文件的默认应用程序，在您双击一个文件时，会用指定的程序打开它。例如，您可以指定用自己喜欢的音乐播放器打开 MP3 文件。"
+msgstr "您可以修改用于打开某一类型文件的默认应用，在您双击一个文件时，会用指定的应用打开它。例如，您可以指定用自己喜欢的音乐播放器打开 MP3 文件。"
 
 #. (itstool) path: item/p
 #: C/files-open.page:44
@@ -2367,12 +2368,12 @@ msgid ""
 "Select a file of the type whose default application you want to change. For "
 "example, to change which application is used to open MP3 files, select a "
 "<file>.mp3</file> file."
-msgstr "选择一个想修改打开方式的文件，例如，想要修改 MP3 文件，选中一个 <file>.mp3</file> 文件。"
+msgstr "选择一个您想修改打开方式的文件，例如，想要修改 打开MP3 文件的程序，请选中一个 <file>.mp3</file> 文件。"
 
 #. (itstool) path: item/p
 #: C/files-open.page:47
 msgid "Right-click the file and select <gui>Information</gui>."
-msgstr "选择更改默认的应用程式开启路径。举例，选择更改默认的mp3开启路径，选择<file>.mp3</file>文件。"
+msgstr "右击文件，选择 <gui>信息</gui>。"
 
 #. (itstool) path: item/p
 #: C/files-open.page:48
@@ -2386,7 +2387,7 @@ msgid ""
 "default, the list only shows applications that can handle the file. To look "
 "through all the applications on your computer, click <gui>Show other "
 "applications</gui>."
-msgstr "选择您想要的应用程序并单击 <gui>设置为默认界面</gui>。默认情况下，该列表只显示可处理该文件的应用程序。浏览您的计算机上的所有应用程序，单击<gui>显示其他应用程序界面</gui>。"
+msgstr "选择您想要的应用并单击 <gui>设置为默认界面</gui>。默认情况下，该列表只显示可处理该文件的应用。浏览您电脑上的所有应用，单击<gui>显示其他应用</gui>。"
 
 #. (itstool) path: item/p
 #: C/files-open.page:53
@@ -2396,14 +2397,14 @@ msgid ""
 "click <gui>Add</gui>. This will add it to <gui>Recommended "
 "Applications</gui>. You will then be able to use this application by right-"
 "clicking the file and selecting it from the list."
-msgstr "如果<gui>其他应用程序</gui>中包含您有时会用到，但又不想设为默认的程序，选中这个程序，然后点<gui>添加</gui>。这将添加到<gui>推荐的应用程序</gui>列表中，您可以在右键菜单中找到它。"
+msgstr "如果<gui>其他应用</gui>中包含您有时会用到，但又不想设为默认的应用，选中这个应用，然后点<gui>添加</gui>。这将添加到<gui>推荐的应用</gui>列表中，您可以在右键菜单中找到它。"
 
 #. (itstool) path: section/p
 #: C/files-open.page:60
 msgid ""
 "This changes the default application not just for the selected file, but for"
 " all files with the same type."
-msgstr "更改默认打开的应用程序后，不仅是选中的文件，而且所有该类型的文件都会用它来打开。"
+msgstr "更改默认打开的应用后，不仅是选中的文件，所有该类型的文件都会用新的应用来打开。"
 
 #. (itstool) path: info/desc
 #: C/files-preview.page:9
@@ -2462,7 +2463,7 @@ msgid ""
 "If you delete a file from your <app>Documents</app> folder, the file is "
 "normally placed into the <gui>Trash</gui>, and should be able to be "
 "restored."
-msgstr "如果你在<app>文件</app>文件夹删除了文件，这个文件通常会放置在<gui>垃圾回收桶</gui>，这种文件是可以还原的。"
+msgstr "如果你在<app>文档</app>文件夹删除了文件，被删除的文件通常会放置在<gui>回收站</gui>，并且是是可以还原的。"
 
 #. (itstool) path: steps/title
 #: C/files-recover.page:28
@@ -2516,7 +2517,7 @@ msgid ""
 "could result in some of your files being lost or damaged. If you use an "
 "external disc drive to play a CD or DVD, you can use the same steps to eject"
 " the disc from your computer."
-msgstr "当你使用外部存储设备，如USB闪存驱动器，你应该在拔出之前安全地移除他们。如果你拔掉设备，你正在使用的应用程序就需承担风险。这可能会对你的部分文件造成丢失或损坏。如果你使用一个外部的光盘驱动器播放CD或DVD，你可以使用相同的步骤，从您的计算机弹出光盘。"
+msgstr "当你使用外部存储设备，如USB闪存驱动器，你应该在拔出之前安全地移除它们。如果你拔掉设备，你正在使用的应用程序就需承担风险。这可能会对你的部分文件造成丢失或损坏。如果你使用一个外部的光盘驱动器播放CD或DVD，你可以使用相同的步骤，从您的电脑弹出光盘。"
 
 #. (itstool) path: steps/title
 #: C/files-removedrive.page:38
@@ -2565,7 +2566,7 @@ msgstr "关闭此设备上的所有文件。"
 #. (itstool) path: item/p
 #: C/files-removedrive.page:61 C/media-import-from-device.page:94
 msgid "Click the eject icon to safely remove or eject the device."
-msgstr "点击弹出图标安全移除或弹出设备。"
+msgstr "点击弹出图标以安全移除或弹出设备。"
 
 #. (itstool) path: note/p
 #: C/files-removedrive.page:74
@@ -2664,7 +2665,7 @@ msgid ""
 "You can't have two files or folders with the same name in the same folder. "
 "If you try to rename a file to a name that already exists in the folder you "
 "are working in, the file manager will not allow it."
-msgstr "在同一文件夹中不能有两个文件或文件夹使用同一名称。如果您尝试将文件重命名为您所在文件夹中已存在的名称，文件管理器将不允许该操作。使用不同的名称。"
+msgstr "在同一文件夹中不能有两个文件或文件夹使用同一名称。如果您尝试将文件重命名为您所在文件夹中已存在的名称，文件管理器将不允许该操作。请使用不同的名称。"
 
 #. (itstool) path: item/p
 #: C/files-rename.page:76
@@ -4613,7 +4614,7 @@ msgid ""
 "The <gui>Touchpad</gui> section only appears if your system has a touchpad, "
 "while the <gui>Mouse</gui> section is only visible when a mouse is plugged "
 "in."
-msgstr "<gui>触摸板</gui>区段仅在您系统包含触摸板时可视，<gui>鼠标/gui>区段仅在您系统连接鼠标时可视。"
+msgstr "<gui>触摸板</gui>区段仅在您系统包含触摸板时可视，<gui>鼠标</gui>区段仅在您系统连接鼠标时可视。"
 
 #. (itstool) path: info/desc
 #: C/mouse-when-right-click.page:19
@@ -4663,7 +4664,7 @@ msgstr "单击<gui>辅助功能</gui>面板。"
 #. (itstool) path: item/p
 #: C/mouse-when-right-click.page:52
 msgid "Scroll to the bottom and select <gui>Click Assist</gui>."
-msgstr "滚动鼠标至低端，选择<gui>点击辅助</gui>。"
+msgstr "滚动鼠标至底端，选择<gui>点击辅助</gui>。"
 
 #. (itstool) path: item/p
 #: C/mouse-when-right-click.page:55
@@ -5010,7 +5011,7 @@ msgstr "您可以通过点击<gui>更改附属文件的权限</gui>，快速对�
 #. (itstool) path: info/desc
 #: C/net-3g-dongles.page:18
 msgid "Learn which 3G dongles are currently supported."
-msgstr "学习当前系统支持何种3G无线网卡"
+msgstr "了解当前系统支持何种3G无线网卡。"
 
 #. (itstool) path: page/title
 #: C/net-3g-dongles.page:21
@@ -5117,7 +5118,7 @@ msgstr "了解您为何需要有邮箱地址以及如何创建。"
 #. (itstool) path: page/title
 #: C/net-create-email.page:21
 msgid "Create an email address"
-msgstr "创建电子"
+msgstr "创建电子邮箱"
 
 #. (itstool) path: page/p
 #: C/net-create-email.page:23
@@ -5427,7 +5428,7 @@ msgstr "系统在浏览器中添加了不同的新闻网站，以便您了解最
 #. (itstool) path: steps/title
 #: C/net-read-news.page:29
 msgid "To read news online:"
-msgstr "浏览在线新闻"
+msgstr "浏览在线新闻："
 
 #. (itstool) path: item/p
 #: C/net-read-news.page:31
@@ -5459,7 +5460,7 @@ msgstr "您需要有互联网连接设备才能浏览新闻网站。如果您目
 msgid ""
 "Other things might be downloading, you could have a poor connection, or it "
 "could be a busy time of day."
-msgstr "可能有其他下载的任务，您只有一个很慢的连接，或者现在是网络繁忙时段。"
+msgstr "可能有其他下载的任务，或者您的连接不佳，或者现在是网络繁忙时段。"
 
 #. (itstool) path: page/title
 #: C/net-slow.page:18
@@ -5497,7 +5498,7 @@ msgid ""
 "time as you, you might notice a slow-down. You're most likely to experience "
 "this at times when your neighbors are probably on the internet (in the "
 "evenings, for example)."
-msgstr "Internet 服务提供商通常将 Internet 连接设置成在多个家庭之间共享。即使您是通过自己的电话线或宽带连接单独连接，但电话交换机上与 Internet 剩余部分的连接实际上可能处于多人共享状态。如果是这种情况，并且您的很多邻居都在同时使用 Internet，则您会发现网速变慢。当您的邻居可能也在访问 Internet(例如在晚上)时，您最有可能遇到这种情况。"
+msgstr "互联网服务提供商通常将互联网连接设置成在多个家庭之间共享。即使您是通过自己的电话线或宽带连接单独连接，但电话交换机上与互联网剩余部分的连接实际上可能处于多人共享状态。如果是这种情况，并且您的很多邻居都在同时使用互联网，则您会发现网速变慢。当您的邻居可能也在访问互联网(例如在晚上)时，您最有可能遇到这种情况。"
 
 #. (itstool) path: item/p
 #: C/net-slow.page:31
@@ -5511,7 +5512,7 @@ msgid ""
 "several files at once, or watching videos, the internet connection might not"
 " be fast enough to keep up with the demand. In this case, it will feel "
 "slower."
-msgstr "如果您或别的什么人，使用网络同时下载很多文件，或者在看视频，网速可能会力不从心达不到要求，在这种情况下，就会感觉网速慢。"
+msgstr "如果您或其他人使用互联网连接同时下载很多文件或者观看视频，网速可能会不够快，达不到要求。在这种情况下，就会感觉网速慢。"
 
 #. (itstool) path: item/p
 #: C/net-slow.page:36
@@ -5524,7 +5525,7 @@ msgid ""
 "Some internet connections are just unreliable, especially temporary ones or "
 "those in high demand areas. If you are in a busy coffee shop or a conference"
 " center, the internet connection might be too busy or simply unreliable."
-msgstr "一些地方的网络连接确实不稳定，尤其是临时场所或连接要求多的地方。如果您在一个繁忙的咖啡店或者会议中心，网络连接可能会非常忙碌或者变得不稳定。"
+msgstr "一些地方的互联网连接确实不稳定，尤其是临时场所或连接要求多的地方。如果您在一个繁忙的咖啡店或者会议中心，互联网连接可能会非常忙碌或者变得不稳定。"
 
 #. (itstool) path: item/p
 #: C/net-slow.page:41
@@ -5537,12 +5538,12 @@ msgid ""
 "If you're connected to the internet by wireless (wifi), check the network "
 "icon on the task bar to see if you have good wireless signal. If not, the "
 "internet may be slow because you don't have a very strong signal."
-msgstr "如果你连接到互联网,无线(wifi),请检查网络任务栏上的图标,看看是否有良好的无线信号。如果没有,网络可能比较缓慢的,因为你信号较弱。"
+msgstr "如果您通过无线连接(wifi)到互联网，请检查网络任务栏上的图标，看看是否有良好的无线信号。如果没有，网络可能比较缓慢的，因为你信号较弱。"
 
 #. (itstool) path: item/p
 #: C/net-slow.page:46
 msgid "<em style=\"strong\">Using a slower mobile internet connection</em>"
-msgstr "<em style=\"strong\">使用的移动网络连接速度较慢</em>"
+msgstr "<em style=\"strong\">使用的移动互联网连接速度较慢</em>"
 
 #. (itstool) path: item/p
 #: C/net-slow.page:47
@@ -5552,12 +5553,12 @@ msgid ""
 "the internet connection will automatically switch from a fast \"mobile "
 "broadband\" connection like 3G to a more reliable, but slower, connection "
 "like GPRS."
-msgstr "如果您使用移动网络连接，并发现速度较慢，则您可能进入了接收信号较弱的区域。出现此情况时，Internet 连接将自动从快速“移动宽带”连接(如 3G)切换到更可靠但较慢的连接(如 GPRS)。"
+msgstr "如果您使用移动互联网连接，并发现速度较慢，则您可能进入了接收信号较弱的区域。出现此情况时，互联网连接将自动从快速“移动宽带”连接(如 3G)切换到更可靠但较慢的连接(如 GPRS)。"
 
 #. (itstool) path: item/p
 #: C/net-slow.page:51
 msgid "<em style=\"strong\">Web browser has a problem</em>"
-msgstr "<em style=\"strong\">Web 浏览器有问题</em>"
+msgstr "<em style=\"strong\"网页浏览器有问题</em>"
 
 #. (itstool) path: item/p
 #: C/net-slow.page:52
@@ -5567,7 +5568,7 @@ msgid ""
 "the browser struggled to load, or you might have had the browser open for a "
 "long time, for example. Try closing all of the browser's windows and then "
 "opening the browser again to see if this makes a difference."
-msgstr "有时 Web 浏览器会遇到导致速度变慢的问题。导致这种情况的原因有很多，例如，您访问了浏览器不能顺利加载的网站，或者您打开浏览器的时间太长。尝试关闭浏览器的所有窗口，然后重新打开浏览器，查看前后有无差异。"
+msgstr "有时 网页浏览器会遇到导致速度变慢的问题。导致这种情况的原因有很多，例如，您访问了浏览器不能顺利加载的网站，或者您打开浏览器的时间太长。尝试关闭浏览器的所有窗口，然后重新打开浏览器，查看前后有无差异。"
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -5579,7 +5580,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/eos-icon-socialbar.png' "
 "md5='311852df3d93299e9346bbe809bb81c6'"
-msgstr "外部/ eos-icon-socialbar ref = '数据。png的md5 = ' 311852 df3d93299e9346bbe809bb81c6 ' "
+msgstr "external ref='figures/eos-icon-socialbar.png' md5='311852df3d93299e9346bbe809bb81c6'"
 
 #. (itstool) path: info/desc
 #: C/net-social-bar.page:19
@@ -5614,12 +5615,12 @@ msgid ""
 "Click on <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-"
 "socialbar.png\"> the Facebook icon</media> on the very bottom right-hand "
 "side of your screen."
-msgstr "点击<媒体类型=“图像”mime =“图像/ png”/ eos-icon-socialbar src = \"人物。png \" > < /媒体>的Facebook图标在屏幕右边最底部。 "
+msgstr "点击屏幕右下端的<media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-socialbar.png\"> Facebook图标</media> 。 "
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:38
 msgid "Enter in your email address and password, then click <gui>Login</gui>."
-msgstr "输入您的电子邮件地址和密码,然后单击< gui > < / gui >登录。 "
+msgstr "输入您的电子邮件地址和密码，然后单击 <gui>登陆</gui>。 "
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:42
@@ -5640,12 +5641,12 @@ msgstr "如果你已有Facebook账号："
 msgid ""
 "Click on the Facebook icon that is on the very bottom right-hand side of "
 "your screen."
-msgstr "点击屏幕右下方Facebook的图标"
+msgstr "点击屏幕右下方的Facebook图标。"
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:56
 msgid "Click on <gui>Create New Account</gui>."
-msgstr "点击“创建新账号”"
+msgstr "点击<gui>创建新账户</gui>。"
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:59
@@ -5716,7 +5717,7 @@ msgid ""
 "network cable. The network icon on the task bar at the bottom of your screen"
 " should pulse for a few seconds and then will change to <_:media-1/> when "
 "you are connected."
-msgstr "设置大多数有线网络连接,您需要做的是插入网络电缆。网络图标在屏幕底部，任务栏应该脉冲几秒钟,然后将变为< _:media-1 / >"
+msgstr "设置大多数有线网络连接，您需要做的是插入网线。网络图标在屏幕底部，任务栏应该脉冲几秒钟，,然后将变为< _:media-1 / >"
 
 #. (itstool) path: page/p
 #: C/net-wired-connect.page:23
@@ -5727,7 +5728,7 @@ msgid ""
 "should be plugged into a switch, router, network wall socket or similar "
 "(depending on the network setup you have). Sometimes, a light beside the "
 "Ethernet port will indicate that it is plugged in and active."
-msgstr "如果未出现此现象，您应首先确保网线已插入。网线的一端应插入计算机上的矩形以太网(网络)端口，另一端应插入交换机、路由器、壁装插座或类似设备(具体取决于您的网络设置)。"
+msgstr "如果未出现此现象，您应首先确保网线已插入。网线的一端应插入电脑上的矩形以太网(网络)端口，另一端应插入交换机、路由器、壁装插座或类似设备(具体取决于您的网络设置)。"
 
 #. (itstool) path: note/p
 #: C/net-wired-connect.page:27
@@ -5735,7 +5736,7 @@ msgid ""
 "You can't plug one computer directly into another one with a network cable "
 "(at least, not without some extra setting-up). To connect two computers, you"
 " should plug them both into a network hub, router or switch."
-msgstr "您不能用网线直接将一台计算机连接到另一台计算机(至少没有经过设置前是这样)，要连接两台计算机，您需要把它们都接入到一个网络集线器、路由器或交换机。"
+msgstr "您不能用网线直接将一台电脑连接到另一台电脑(至少没有经过设置前是这样)，要连接两台电脑，您需要把它们都接入到一个网络集线器、路由器或交换机。"
 
 #. (itstool) path: page/p
 #: C/net-wired-connect.page:30
@@ -5762,7 +5763,7 @@ msgid ""
 "can use your computer as a wireless hotspot. This allows other devices to "
 "connect to you and allows you to share an internet connection or cellular "
 "network."
-msgstr "如果你有一个<链接xref = \" net-wired-connect \" >有线连接> < /链接,您可以使用你电脑上的无线热点。允许其他设备连接,并允许你共享网络或手机网络。"
+msgstr "如果你有一个<link xref=\"net-wired-connect\">有线连接</link>，您可以使用你电脑上的无线热点。这将允许其他设备连接您的网络，允许您共享互联网连接或手机网络。"
 
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:46
@@ -5774,12 +5775,12 @@ msgstr "点击任务栏上的网络状态，图标在屏幕的右下角。"
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:48
 msgid "Click <gui>Network Settings</gui>."
-msgstr "点击< gui > < / gui >网络设置。 "
+msgstr "点击< gui >网络设置< / gui >。 "
 
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:49
 msgid "Click the <gui>Use as Hotspot...</gui> button."
-msgstr "单击< gui >热点运用< / gui >按钮。"
+msgstr "点击< gui >使用热点...< / gui >按钮。"
 
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:50
@@ -5788,7 +5789,7 @@ msgid ""
 " want to disconnect from that network. A single wireless adapter can connect"
 " to or create only one network at a time. Click <gui>Turn On</gui> to "
 "confirm."
-msgstr "如果你已经连接无线网络,电脑将会询问你是否断开网络。无线适配器可以连接或创建唯一网络。点击< gui > < / gui >确认。"
+msgstr "如果你已经连接无线网络，电脑将会询问你是否断开网络。无线适配器一次可以连接或创建唯一网络。点击< gui >开启< / gui >进行确认。"
 
 #. (itstool) path: page/p
 #: C/net-wireless-adhoc.page:56
@@ -5796,7 +5797,7 @@ msgid ""
 "A network name (SSID) and security key are automatically generated. The "
 "network name will be based on the name of your computer. Other devices will "
 "need this information to connect to the hotspot you've just created."
-msgstr "系统将自动生成一个名称 (SSID) 和一个密钥。SSID 将是您的计算机名。其他设备需要 SSID 和密钥来连接到您所创建的无线热点。 "
+msgstr "系统将自动生成一个名称 (SSID) 和一个密钥。SSID 将是您的电脑名。其他设备需要 SSID 和密钥来连接到您所创建的无线热点。 "
 
 #. (itstool) path: note/p
 #: C/net-wireless-adhoc.page:60
@@ -5815,7 +5816,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/network-offline-symbolic.svg' "
 "md5='2fc0a88bd36d65404c3ad064ad2117db'"
-msgstr "外部/ network-offline-symbolic ref = '数据。svg的md5 = ' 2 fc0a88bd36d65404c3ad064ad2117db ' "
+msgstr "external ref='figures/network-offline-symbolic.svg' md5='2fc0a88bd36d65404c3ad064ad2117db'"
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -5827,7 +5828,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/network-wireless-acquiring-symbolic.svg' "
 "md5='281a8da467ccc370e3605b32803d7186'"
-msgstr "外部/ 网络-无线-获取-symbolic ref = '数据。svg的md5 = ' 281 a8da467ccc370e3605b32803d7186 '"
+msgstr "external ref='figures/network-wireless-acquiring-symbolic.svg' md5='281a8da467ccc370e3605b32803d7186'"
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -5839,7 +5840,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/network-wireless-signal-excellent-symbolic.svg' "
 "md5='281e0475074b621ebad6f64e5efc56d2'"
-msgstr "外部/ network-wireless-signal-excellent-symbolic ref = '数据。svg的md5 = ' 281 e0475074b621ebad6f64e5efc56d2 ' "
+msgstr "external ref='figures/network-wireless-signal-excellent-symbolic.svg' md5='281e0475074b621ebad6f64e5efc56d2'"
 
 #. (itstool) path: info/desc
 #: C/net-wireless-connect.page:21
@@ -5864,19 +5865,19 @@ msgid ""
 "On the task bar on the bottom right-hand side of your screen, click the "
 "network icon <media type=\"image\" mime=\"image/svg\" src=\"figures/network-"
 "offline-symbolic.svg\"/>."
-msgstr "点击屏幕右侧底部任务栏中的互联网图标<媒体类型=“图像”mime =“图像/ svg”src = \"数据/ network-offline-symbolic.svg \" / >。"
+msgstr "点击屏幕右侧底部任务栏中的互联网图标 <media type=\"image\" mime=\"image/svg\" src=\"figures/network-offline-symbolic.svg\"/>。"
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:39
 msgid ""
 "Click <gui>Wi-Fi</gui> to turn it <gui>ON</gui>. It will become blue to "
 "indicate Wi-Fi is ON."
-msgstr "点击< gui > WIFI< / gui >并打开< gui > < / gui >。WIFI开启将变成蓝色。"
+msgstr "点击< gui > WIFI< / gui >并将其< gui >开启< / gui >。WIFI开启将变成蓝色。"
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:45
 msgid "Click the name of the network you want to connect to."
-msgstr "单击你想连接的网络名称。"
+msgstr "点击你想连接的网络名称。"
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:46
@@ -5908,7 +5909,7 @@ msgstr "如果你不知道密码,那么它有可能被写在无线路由器或�
 msgid ""
 "The network icon will change appearance as the computer attempts to connect "
 "to the network."
-msgstr "当计算机连接到网络过程中，网络图标会发生变化。"
+msgstr "当电脑连接到网络过程中，网络图标会发生变化。"
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:62
@@ -5916,7 +5917,7 @@ msgid ""
 "While the computer attempts to connect to the network, the network icon will"
 " look like this <media type=\"image\" mime=\"image/svg\" src=\"figures"
 "/network-wireless-acquiring-symbolic.svg\"/>."
-msgstr "计算机试图连接到网络时，网络图标会显示如下：<媒体类型=“图像”mime =“图像/ svg”src = \"数据/ network-wireless-acquiring-symbolic.svg \" / >。"
+msgstr "计算机试图连接到网络时，网络图标会显示如下：<media type=\"image\" mime=\"image/svg\" src=\"figures/network-wireless-acquiring-symbolic.svg\"/>。"
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:67
@@ -5926,7 +5927,7 @@ msgid ""
 "/network-wireless-signal-excellent-symbolic.svg\"/>. More bars indicate a "
 "stronger connection to the network. If there aren't many bars, the "
 "connection is weak and might not be very reliable."
-msgstr "如果连接成功,图标会变成一个点附带长条状<媒体类型=“图像”mime =“图像/ svg”src = \"数据/ network-wireless-signal-excellent-symbolic.svg \" / >。条状越多，网络信号越强。条状较少，连接可能薄弱,不是很可靠。 "
+msgstr "如果连接成功,图标会变成一个点附带长条状 <media type=\"image\" mime=\"image/svg\" src=\"figures/network-wireless-signal-excellent-symbolic.svg\"/>。条状越多，网络信号越强。条状较少，连接可能薄弱,不是很可靠。 "
 
 #. (itstool) path: page/p
 #: C/net-wireless-connect.page:75
@@ -5947,7 +5948,7 @@ msgid ""
 "which provides the internet connection</em> (like a router or modem), but "
 "the two connections are actually different, and so will run at different "
 "speeds."
-msgstr "较强的无线网络连接并不一定意味着Internet 连接速度更快，或者您的下载速度更快。无线连接将您的计算机连接到<em>提供 Internet 连接</em>的设备(如路由器或调制解调器)，但设备本身所提供无线信号的强度与网速无关。"
+msgstr "较强的无线网络连接并不一定意味着互联网连接速度更快，或者您的下载速度更快。无线连接将您的电脑连接到<em>提供互联网连接</em>的设备(如路由器或调制解调器)，但设备本身所提供无线信号的强度与网速无关。"
 
 #. (itstool) path: info/desc
 #: C/net-wireless-disconnecting.page:22
@@ -6007,7 +6008,7 @@ msgid ""
 "successful in connecting to the network - it managed to establish a "
 "connection, but was unable to finalize the connection for some reason and so"
 " was disconnected."
-msgstr "有时，当您连上一个无线网络，可能首先显示成功连接上，但稍后又断开了，这通常是因为您的计算机还没有完全连接到网络上－已经建立了连接，但由于某种原因不能完全连接，因而又断开了。"
+msgstr "有时，当您连上一个无线网络，可能首先显示成功连接上，但稍后又断开了，这通常是因为您的电脑还没有完全连接到网络上－已经建立了连接，但由于某种原因不能完全连接，因而又断开了。"
 
 #. (itstool) path: section/p
 #: C/net-wireless-disconnecting.page:59
@@ -6015,7 +6016,7 @@ msgid ""
 "A possible reason for this is that you entered the wrong wireless "
 "passphrase, or that your computer was not allowed on the network (because "
 "the network requires a username to log in, for example)."
-msgstr "一个可能的原因是您输入的无线连接参数不正确，或者您的计算机不被允许连接(比如连接需要用户名来登录)。"
+msgstr "一个可能的原因是您输入的无线连接参数不正确，或者您的电脑不被允许连接(比如连接需要用户名来登录)。"
 
 #. (itstool) path: section/title
 #: C/net-wireless-disconnecting.page:66
@@ -6045,7 +6046,7 @@ msgid ""
 "example) often have many computers trying to connect to them at once. "
 "Sometimes these networks get too busy and may not be able to handle all of "
 "the computers that are trying to connect, so some of them get disconnected."
-msgstr "无线网络处于忙碌状态(比如在校园或者咖啡店)时，常常会有许多计算机尝试同时连接，这样网络会变得非常忙碌，一些计算机不能连接上，其他一些会掉线。"
+msgstr "无线网络处于忙碌状态(比如在校园或者咖啡店)时，常常会有许多电脑尝试同时连接，这样网络会变得非常忙碌，一些电脑不能连接上，其他一些会掉线。"
 
 #. (itstool) path: info/desc
 #: C/net-wireless-find.page:17
@@ -6133,7 +6134,7 @@ msgstr "点击任务栏上的网络图标,选择< gui >网络设置。< / gui > 
 #. (itstool) path: item/p
 #: C/net-wireless-hidden.page:41
 msgid "Click the <gui>Connect to Hidden Network</gui> button."
-msgstr "单击< gui > < / gui >按钮连接到隐藏网络。"
+msgstr "点击< gui >连接到隐藏网络< / gui >按钮。"
 
 #. (itstool) path: item/p
 #: C/net-wireless-hidden.page:44
@@ -6161,7 +6162,7 @@ msgid ""
 "point's MAC address), which looks something like "
 "<gui>02:00:01:02:03:04</gui> and can usually be found on the underside of "
 "the access point."
-msgstr "你可能需要检查无线接入点的设置或路由器，以便查询网络名称。如果你没有网络名称(SSID),您可以使用< em > BSSID < / em >(基本服务集标识符,接入点的MAC地址),它看起来像< gui > 02:00:01:02:03:04 > < / gui通常可以发现背面的访问点。"
+msgstr "你可能需要检查无线接入点的设置或路由器，以便查询网络名称。如果你没有网络名称(SSID),您可以使用< em > BSSID < / em >(基本服务集标识符,接入点的MAC地址),它看起来像< gui > 02:00:01:02:03:04 > < / gui >，通常可以发现背面的访问点。"
 
 #. (itstool) path: page/p
 #: C/net-wireless-hidden.page:61
@@ -6240,7 +6241,7 @@ msgstr "当提示您输入无线安全密码时，您要选择无线安全所使
 #. (itstool) path: item/p
 #: C/net-wireless-noconnection.page:42
 msgid "Check that your wireless card is properly supported"
-msgstr "检查您的无线网卡被正确地支持"
+msgstr "检查您的无线网卡受支持"
 
 #. (itstool) path: item/p
 #: C/net-wireless-noconnection.page:43
@@ -6314,17 +6315,17 @@ msgstr "互联网"
 #. (itstool) path: section/title
 #: C/net.page:19
 msgid "Wi-Fi, Internet &amp; Bluetooth"
-msgstr "WIFI，互联网，蓝牙"
+msgstr "WIFI, 互联网 &amp; 蓝牙"
 
 #. (itstool) path: section/title
 #: C/net.page:24
 msgid "Browser &amp; Discovery Center"
-msgstr "浏览器，搜索中心"
+msgstr "浏览器&amp; 搜索中心"
 
 #. (itstool) path: section/title
 #: C/net.page:29
 msgid "Facebook &amp; Online Accounts"
-msgstr "Facebook，网络账户"
+msgstr "Facebook &amp; 在线账户"
 
 #. (itstool) path: info/desc
 #: C/printing-2sided.page:8
@@ -6344,7 +6345,7 @@ msgstr "可在纸张两面进行打印："
 #. (itstool) path: item/p
 #: C/printing-2sided.page:29 C/printing-order.page:32 C/printing-order.page:50
 msgid "Click <guiseq><gui>File</gui><gui>Print</gui></guiseq>."
-msgstr "点菜单<guiseq><gui>文件</gui><gui>打印</gui></guiseq>。"
+msgstr "点击<guiseq><gui>文件</gui><gui>打印</gui></guiseq>。"
 
 #. (itstool) path: item/p
 #: C/printing-2sided.page:32
@@ -6463,7 +6464,7 @@ msgstr "要注意，在移除卡纸时，不要损坏了打印机－如果您感
 #. (itstool) path: section/title
 #: C/printing-cancel-job.page:79
 msgid "Pause and release a print job"
-msgstr "取消，暂停或开始打印工作。"
+msgstr "暂停或开始打印工作。"
 
 #. (itstool) path: section/p
 #: C/printing-cancel-job.page:81
@@ -6590,7 +6591,7 @@ msgid ""
 "page, or if you only want to print certain pages. To learn more about how to"
 " specify certain print jobs in more detail, check out the <link "
 "xref=\"hardware#printers\">other printing pages</link>."
-msgstr "选择你想打印的任务,并添加其他你想打印的任务，例如复印数量、是否需要打印一个预览图(水平)或(垂直)页面，只是想打印某些页面。想要了解更多关于如何指定特定的打印作业,请查看<链接xref =“硬件#打印机”>其他印刷页面> < /链接。"
+msgstr "选择你想打印的任务,并添加其他你想打印的任务，例如复印数量、是否需要打印一个预览图(水平)或(垂直)页面，只是想打印某些页面。想要了解更多关于如何指定特定的打印作业,请查看<link xref=\"hardware#printers\">其他印刷页面</link>。"
 
 #. (itstool) path: info/desc
 #: C/printing-order.page:8
@@ -6749,7 +6750,7 @@ msgid ""
 "When choosing from the list of available printers, you can filter the "
 "printer search results by specifying a name or location of the printer (for "
 "example, <input>1st floor</input> or <input>entrance</input>)."
-msgstr "从可用打印机列表中选择时，打印机可以通过指定一个名称或打印机的位置过滤搜索结果(例如,<输入> 1楼入口< /输入>或<输入>入口 < /输入>)。"
+msgstr "从可用打印机列表中选择时，打印机可以通过指定一个名称或打印机的位置过滤搜索结果(例如,<input>1楼</input>或<input>入口 </input>)。"
 
 #. (itstool) path: note/p
 #: C/printing-setup-default-printer.page:67
@@ -6839,7 +6840,7 @@ msgstr "点击右上角的<gui>解锁</gui>按钮，然后输入您的密码。"
 #. (itstool) path: item/p
 #: C/printing-setup.page:94
 msgid "Click the <key>+</key> button."
-msgstr "点 <key>+</key> 按钮。"
+msgstr "点击 <key>+</key> 按钮。"
 
 #. (itstool) path: item/p
 #: C/printing-setup.page:97
@@ -6913,7 +6914,7 @@ msgid ""
 "To change the default filename and where the file is saved to, click the "
 "filename below the printer selection. Click <gui "
 "style=\"button\">Select</gui> once you have finished choosing."
-msgstr "改变默认文件名和文件保存，单击打印机，选择文件名。点击< gui style= \"button\" >选择< / gui >一旦你完成选择。"
+msgstr "改变默认文件名和文件保存，单击打印机，选择文件名。一旦你完成选择，请点击< gui style= \"button\" >选择< / gui >。"
 
 #. (itstool) path: item/p
 #: C/printing-to-file.page:45
@@ -6938,7 +6939,7 @@ msgstr "点击 <gui style=\"button\">打印</gui> 以保存文件。"
 msgid ""
 "Prevent other people from using your desktop when you go away from your "
 "computer."
-msgstr "当您离开计算机时，防止其他人使用电脑。 "
+msgstr "当您离开电脑时，防止其他人使用您的桌面。 "
 
 #. (itstool) path: page/title
 #: C/privacy-screen-lock.page:30
@@ -6991,7 +6992,7 @@ msgstr "确保 <gui>自动锁定屏幕</gui> 已开启, 从下拉列表中选择
 msgid ""
 "To allow notifications to be displayed on the lock screen, switch <gui>Show "
 "Notifications</gui> to <gui>ON</gui>."
-msgstr "允许电脑锁屏显示通知,切换< gui >显示通知< / gui >到 < gui >开启 < / gui >"
+msgstr "允许电脑锁屏显示通知，需开启< gui >显示通知< / gui >。"
 
 #. (itstool) path: item/p
 #: C/privacy-screen-lock.page:67
@@ -7004,7 +7005,7 @@ msgid ""
 "When your screen is locked, and you want to unlock it, press <key>Esc</key>,"
 " or swipe up from the bottom of the screen with your mouse. Then enter your "
 "password, and press <key>Enter</key> or click <gui>Unlock</gui>."
-msgstr "当屏幕锁定后,如果想解锁,按<key> Esc < /key>,或从屏幕底部滑动鼠标。然后输入密码,并按<key>输入< /key>或点击< gui >解锁 < / gui >。"
+msgstr "当屏幕锁定后,如果想解锁,按<key> Esc < /key>,或从屏幕底部滑动鼠标。然后输入密码,并按<key>回车键< /key>或点击< gui >解锁< / gui >。"
 
 #. (itstool) path: info/desc
 #: C/screen-shot-record.page:9
@@ -7034,14 +7035,14 @@ msgstr "您可以捕捉一张屏幕快照图片(<em>截图</em>)，或者录制�
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:39
 msgid "Take a screenshot"
-msgstr "截图。"
+msgstr "截图"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:42
 msgid ""
 "Install the <gui>Screenshot</gui> application from the <app>App "
 "Center</app>, under the <gui>Utilities</gui> category, and open it."
-msgstr " 从< /app>应用程序中心</app>安装< gui >截图</gui> 。找到< gui >公用事务< / gui >类别,并打开它。"
+msgstr " 从< app>应用中心</app>中安装< gui >截图</gui> ，要找到< gui >实用工具< / gui >类别,并打开它。"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:50
@@ -7083,33 +7084,33 @@ msgstr "另外，保存前也可以把截图直接导入到图片编辑器中，
 #. (itstool) path: note/title
 #: C/screen-shot-record.page:74
 msgid "Keyboard shortcuts"
-msgstr "键盘快捷键 "
+msgstr "键盘快捷方式"
 
 #. (itstool) path: note/p
 #: C/screen-shot-record.page:75
 msgid ""
 "Quickly take a screenshot of the desktop, a window, or an area at any time "
 "using these global keyboard shortcuts:"
-msgstr "要快速截取桌面、窗口或者某个屏幕区域，可以使用下面的键盘快捷键："
+msgstr "要快速截取桌面、窗口或者某个屏幕区域，可以使用下面的键盘快捷方式："
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:78
 msgid "<key>Prt Scrn</key> to take a screenshot of the desktop."
-msgstr "点击<key>Prt Scrn</key> 截取整个桌面。"
+msgstr "按下<key>Prt Scrn</key> 截取整个桌面。"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:79
 msgid ""
 "<keyseq><key>Alt</key><key>Prt Scrn</key></keyseq> to take a screenshot of a"
 " window."
-msgstr "点击<keyseq><key>Alt</key><key>Prt Scrn</key></keyseq> 截取当前窗口。"
+msgstr "<keyseq><key>Alt</key><key>Prt Scrn</key></keyseq> 截取当前窗口。"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:81
 msgid ""
 "<keyseq><key>Shift</key><key>Prt Scrn</key></keyseq> to take a screenshot of"
 " an area you select."
-msgstr "连续点击<keyseq><key>Shift</key><key>Prt Scrn</key></keyseq> 截取选定的区域。"
+msgstr "<keyseq><key>Shift</key><key>Prt Scrn</key></keyseq> 截取选定的区域。"
 
 #. (itstool) path: note/p
 #: C/screen-shot-record.page:84
@@ -7131,12 +7132,12 @@ msgstr "您还可以在使用快捷键截图时，按住 <key>Ctrl</key> 键，�
 msgid ""
 "Some keyboards will have a <key>Print Screen</key> button near the top right"
 " hand corner. Press it once to take a screenshot."
-msgstr "一些键盘有<key>屏幕打印< /key>按钮，在右上角附近。按下按钮截图。"
+msgstr "一些键盘有<key>屏幕打印< /key>按钮，在右上角附近。按下此键即可截图。"
 
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:101
 msgid "Make a screencast"
-msgstr "录制视频"
+msgstr "屏幕录像"
 
 #. (itstool) path: section/p
 #: C/screen-shot-record.page:102
@@ -7177,7 +7178,7 @@ msgstr "视频将会自动保存在您的<gui>视频</gui>文件夹中，文件�
 #. (itstool) path: info/desc
 #: C/security-and-privacy.page:16
 msgid "Managing passwords, creating users, backing up your files."
-msgstr "管理密码、创建用户，备份文件。"
+msgstr "管理密码，创建用户，备份文件。"
 
 #. (itstool) path: page/title
 #: C/security-and-privacy.page:19
@@ -7187,7 +7188,7 @@ msgstr "安全与隐私"
 #. (itstool) path: section/title
 #: C/security-and-privacy.page:22
 msgid "User Accounts"
-msgstr "用户账号"
+msgstr "用户账户"
 
 #. (itstool) path: section/title
 #: C/security-and-privacy.page:27
@@ -7197,12 +7198,12 @@ msgstr "多个用户帐户 "
 #. (itstool) path: section/title
 #: C/security-and-privacy.page:32
 msgid "Backup your Computer"
-msgstr "备份计算机"
+msgstr "对电脑进行备份"
 
 #. (itstool) path: section/title
 #: C/security-and-privacy.page:37
 msgid "Protect your Computer"
-msgstr "保护计算机"
+msgstr "保护您的电脑"
 
 #. (itstool) path: info/desc
 #: C/security-data-collection.page:18
@@ -7228,12 +7229,12 @@ msgstr "Endless收集用户行为指标。我们使用数据以改进应用程�
 msgid ""
 "You can disable <gui>Metrics Collection</gui> under "
 "<guiseq><gui>Settings</gui><gui>Privacy</gui><gui>Metrics</gui></guiseq>."
-msgstr "你可以在<gui>设置</gui >下禁用<gui>指标集合< guiseq >，<gui>隐私设置</gui><gui>指标</gui></guiseq>"
+msgstr "你可以在<gui>设置</gui ><gui>隐私设置</gui><gui>指标</gui></guiseq>下禁用 <gui>指标集合</gui>。"
 
 #. (itstool) path: info/desc
 #: C/security-guard-privacy.page:18
 msgid "Make sure you keep your computer and information safe."
-msgstr "确保计算机和信息安全。"
+msgstr "确保电脑和信息安全。"
 
 #. (itstool) path: page/title
 #: C/security-guard-privacy.page:21
@@ -7371,7 +7372,7 @@ msgid ""
 "<gui>Your session needs to be restarted for these changes to take "
 "effect</gui> by clicking <gui style=\"button\">Restart Now</gui>, or click "
 "<gui style=\"button\">X</gui> to restart later."
-msgstr "< gui >会话需要重新启动后生效</gui>点击<guistyle= \"button\" >现在重启</ gui>,或者点击<guistyle= \"button\" >X</gui>稍后重启。"
+msgstr "< gui >会话需要重新启动后生效</gui>，则点击<guistyle= \"button\" >现在重启</ gui>，或者点击<guistyle= \"button\" >X</gui>稍后重启。"
 
 #. (itstool) path: page/p
 #: C/session-language.page:73
@@ -7423,7 +7424,7 @@ msgid ""
 "A Bluetooth device is <em>trusted</em> if you have <em>paired</em>, or "
 "connected your computer to it. See <link xref=\"bluetooth-connect-"
 "device\"/>."
-msgstr "如果您有配对的蓝牙和计算机，蓝牙设备就是<em>可信任的</em>。参阅<link xref=\"bluetooth-connect-device\"/>。"
+msgstr "如果您有配对的蓝牙和电脑，蓝牙设备就是<em>可信任的</em>。参阅<link xref=\"bluetooth-connect-device\"/>。"
 
 #. (itstool) path: steps/title
 #: C/sharing-bluetooth.page:88
@@ -7502,7 +7503,7 @@ msgstr "你喜欢编辑照片吗?图片编辑器应用程序让分享图片更�
 #. (itstool) path: steps/title
 #: C/sharing-media.page:30
 msgid "To edit your photos:"
-msgstr "编辑照片"
+msgstr "编辑您的照片："
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:32
@@ -7521,7 +7522,7 @@ msgstr "点击< gui > 打开图像</gui>。这将启动<gui>图片</gui>文件�
 msgid ""
 "Choose an image to edit. You can choose a sample image or one that you have "
 "added to your computer."
-msgstr "选择一个要编辑的图像。你可以选择一个样本图像或已添加到计算机的图像。"
+msgstr "选择一个要编辑的图像。你可以选择一个样本图像或已添加到电脑的图像。"
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:44
@@ -7530,7 +7531,7 @@ msgid ""
 "<gui>Samples</gui> folder. Scroll through the images and see a small version"
 " of them on the right hand side of the window. When you find an image you "
 "want to edit, click <gui>OK</gui> or press <key>Enter</key>."
-msgstr "查看电脑上的样品图片，双击<gui>样本 </gui >文件夹。滚动图片,看到右边的压缩窗口。想要编辑图片，单击<gui > 好 < / gui>或按<key>输入</key>。"
+msgstr "查看电脑上的样本图片，双击<gui>样本 </gui >文件夹。滚动图片,看到右边的压缩窗口。想要编辑图片，单击<gui >OK< / gui>或按<key>回车键</key>。"
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:52
@@ -7545,14 +7546,14 @@ msgstr "编辑你的照片!你可以裁剪图像调整大小，添加过滤器�
 msgid ""
 "Make sure to save your edited photos! You may want to give your edited photo"
 " a new name so that it doesn't replace the original copy."
-msgstr "确保保存编辑的照片。你可以给你编辑的照片新命名，这样它不会代替原件。"
+msgstr "确保已经保存编辑好的照片。你可以给你编辑的照片新命名，这样它不会代替原文件。"
 
 #. (itstool) path: note/p
 #: C/sharing-media.page:62
 msgid ""
 "Make your edited photo your computer's background photo with just a click of"
 " a button!"
-msgstr "让你编辑的照片变成电脑背景，只需点击一个按钮，"
+msgstr "让你编辑的照片变成电脑背景，只需点击一个按钮！"
 
 #. (itstool) path: steps/title
 #: C/sharing-media.page:68
@@ -7564,7 +7565,7 @@ msgstr "将照片分享到Facebook。"
 msgid ""
 "Share your photo on your Facebook wall with just one click! You will need to"
 " have an internet connection to use this feature."
-msgstr "只需点击按钮，即可在Facebook上分享你的照片。您需要网络连接来完成这个步骤。"
+msgstr "只需点击按钮，即可在Facebook上分享你的照片。您需要互联网连接来完成这个步骤。"
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:72
@@ -7614,7 +7615,7 @@ msgstr "添加文件夹到桌面。"
 #. (itstool) path: page/p
 #: C/shell-add-desktop-folder.page:23
 msgid "You can add folders to your desktop to organize your apps."
-msgstr "你可以在桌面添加文件夹来调整应用程序。"
+msgstr "你可以在桌面添加文件夹来管理您的app。"
 
 #. (itstool) path: steps/title
 #: C/shell-add-desktop-folder.page:28
@@ -7627,7 +7628,7 @@ msgid ""
 "Right-click on the desktop and select <gui>Add folder</gui>. Alternatively, "
 "you can click on <_:media-1/> from the desktop and click on the "
 "<gui>Folders</gui> button on the left-hand menu."
-msgstr "右键单击桌面,选择< gui >添加文件夹 < / gui >。另外,您可以点击左边菜单按钮上的< gui >文件夹 < / gui >或者点击桌面的< _:media-1 / >。"
+msgstr "右键单击桌面,选择< gui >添加文件夹< / gui >。另外,您可以点击左边菜单按钮上的< gui >文件夹 < / gui >或者点击桌面的< _:media-1 / >。"
 
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:37 C/shell-organize-apps.page:33
@@ -7639,7 +7640,7 @@ msgstr "为新文件夹选择图标。"
 msgid ""
 "Type a name for your new folder (for example, \"School\") and hit "
 "<key>Enter</key>."
-msgstr "为新文件夹输入一个名字(例如,“学校”)，点击<key>输入</key>。"
+msgstr "为新文件夹输入一个名字(例如,“学校”)，按下<key>回车键</key>。"
 
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:44
@@ -7671,7 +7672,7 @@ msgstr "有以下两种方式关闭应用程序："
 #. (itstool) path: page/p
 #: C/shell-apps-close.page:26
 msgid "<gui>Click the X:</gui>"
-msgstr "点击<gui>X:</gui>"
+msgstr "<gui>点击 X:</gui>"
 
 #. (itstool) path: page/p
 #: C/shell-apps-close.page:28
@@ -7705,12 +7706,12 @@ msgstr "如何添加应用程序？"
 #. (itstool) path: info/desc
 #: C/shell-apps-open.page:31
 msgid "Install free apps, folders, and website shortcuts onto your desktop."
-msgstr "在桌面安装免费应用程序，文件夹以及网络截图。"
+msgstr "在桌面安装免费应用程序，文件夹以及网站快捷方式。"
 
 #. (itstool) path: page/title
 #: C/shell-apps-open.page:34
 msgid "Add apps and website shortcuts"
-msgstr "添加应用程序和网页截图。"
+msgstr "添加应用程序和网站快捷方式。"
 
 #. (itstool) path: page/p
 #: C/shell-apps-open.page:36
@@ -7723,7 +7724,7 @@ msgstr "桌面预装应用程序只是几个可用的应用程序。轻松地添
 #. (itstool) path: section/title
 #: C/shell-apps-open.page:42
 msgid "Adding More Apps"
-msgstr "添加更多应用程序。"
+msgstr "添加更多应用。"
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:45 C/shell-update-app.page:29
@@ -7770,7 +7771,7 @@ msgstr "应用程序的图标将安装到你的桌面至左边的< _:media-1 / >
 #. (itstool) path: section/title
 #: C/shell-apps-open.page:79
 msgid "Installing Website Shortcuts"
-msgstr "安装网页截图。"
+msgstr "建立网站快捷方式"
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:82
@@ -7806,7 +7807,7 @@ msgid ""
 "desktop. Add another website, or else close the App Center to find your new "
 "website shortcut. It will be directly to the left of the <_:media-2/> "
 "button."
-msgstr "点击< _:media-1 / >按钮,和你的链接将被安装到桌面。添加另一个网页,否则关闭应用中心,找到新网站的快捷方式。它将在左边的< _:media-2 / >按钮上。"
+msgstr "点击< _:media-1 / >按钮，您选中的链接将创建到桌面。您还可以添加其他网站，或者关闭应用中心，找到您新建的网站快捷方式，它将出现在< _:media-2 / >按钮的左侧。"
 
 #. (itstool) path: info/desc
 #: C/shell-delete-app-desktop.page:19
@@ -8036,7 +8037,7 @@ msgid ""
 "applications. When you return, you'll need to enter your password to log "
 "back in. You will find your computer running all the same things it was when"
 " you left."
-msgstr "如果您要离开电脑一小段时间，则应该锁定屏幕以防止其他人访问您的文件和运行应用。您回来后，输入密码即可返回登录，此时计算机仍保持您离开时的状态。"
+msgstr "如果您要离开电脑一小段时间，则应该锁定屏幕以防止其他人访问您的文件和运行应用。您回来后，输入密码即可返回登录，此时电脑仍保持您离开时的状态。"
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:68
@@ -8179,7 +8180,7 @@ msgstr "<link xref=\"shell-notifications\">了解更多安装的相关内容。<
 #. (itstool) path: section/title
 #: C/shell-introduction.page:75
 msgid "You and your computer"
-msgstr "您和您的计算机"
+msgstr "您和您的电脑"
 
 #. (itstool) path: media/p
 #: C/shell-introduction.page:80
@@ -8232,7 +8233,7 @@ msgstr "<link xref=\"privacy-screen-lock\">了解更多锁定屏幕的相关内�
 #. (itstool) path: section/title
 #: C/shell-introduction.page:144
 msgid "Hot Corner"
-msgstr "触发角"
+msgstr "热区"
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:146

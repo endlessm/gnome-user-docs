@@ -3,7 +3,7 @@
 # Alejandro Farfán <alejandro@endlessm.com>, 2014
 # c.sanchez <cassandra@endlessm.com>, 2014-2015
 # c.sanchez <cassandra@endlessm.com>, 2014
-# Daniel Mustieles <daniel.mustieles@gmail.com>, 2011-2014
+# Daniel Mustieles <inactive+leo@transifex.com>, 2011-2014
 # Eddy Alegria <eddy@endlessm.com>, 2014
 # Fernando Farfan <fernando@endlessm.com>, 2014
 # Francisco Molinero <paco@byasl.com>, 2011
