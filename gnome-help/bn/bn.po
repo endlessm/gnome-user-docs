@@ -1,11 +1,12 @@
 # 
 # Translators:
+# Shimon Sharmin <oparthib@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2016-07-30 03:48+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"PO-Revision-Date: 2016-08-07 16:02+0000\n"
+"Last-Translator: Shimon Sharmin <oparthib@gmail.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/bn/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,12 +22,12 @@ msgstr ""
 #. (itstool) path: license/p
 #: C/legal.xml:3
 msgid "This work is licensed under a <_:link-1/>."
-msgstr ""
+msgstr "এই কাজটি একটি <_:link-1/> লাইসেন্সের অন্তর্ভুক্ত।"
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr ""
+msgstr "অনুবাদক-কৃতিত্ব"
 
 #. (itstool) path: credit/name
 #: C/a11y-bouncekeys.page:15 C/a11y-braille.page:14 C/a11y-contrast.page:16
@@ -51,7 +52,7 @@ msgstr ""
 #: C/shell-windows-states.page:14 C/sound-alert.page:13 C/sound-volume.page:14
 #: C/user-add.page:18 C/user-changepicture.page:17 C/user-delete.page:21
 msgid "Shaun McCance"
-msgstr ""
+msgstr "শন ম্যাককেইন"
 
 #. (itstool) path: credit/name
 #: C/a11y-bouncekeys.page:19 C/a11y-dwellclick.page:19 C/a11y-icon.page:14
@@ -66,7 +67,7 @@ msgstr ""
 #: C/printing-order.page:13 C/printing-select.page:14 C/printing-setup.page:13
 #: C/sound-volume.page:9 C/user-goodpassword.page:16
 msgid "Phil Bull"
-msgstr ""
+msgstr "ফিল বুল"
 
 #. (itstool) path: credit/name
 #: C/a11y-bouncekeys.page:23 C/a11y-contrast.page:20 C/a11y-dwellclick.page:23
@@ -95,7 +96,7 @@ msgstr ""
 #: C/sound-alert.page:17 C/user-add.page:22 C/user-changepassword.page:17
 #: C/user-delete.page:25 C/user-goodpassword.page:24
 msgid "Michael Hill"
-msgstr ""
+msgstr "মাইকেল হিল"
 
 #. (itstool) path: credit/name
 #: C/a11y-bouncekeys.page:27 C/a11y-contrast.page:24 C/a11y-dwellclick.page:27
@@ -114,7 +115,7 @@ msgstr ""
 #: C/user-changepassword.page:21 C/user-changepicture.page:21
 #: C/user-delete.page:29
 msgid "Ekaterina Gerasimova"
-msgstr ""
+msgstr "একাটেরিনা জেরাসিমোভা"
 
 #. (itstool) path: info/desc
 #: C/a11y-bouncekeys.page:31
@@ -9754,19 +9755,19 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/user-goodpassword.page:8
 msgid "Use longer, more complicated passwords."
-msgstr ""
+msgstr "আরো দীর্ঘ এবং জটিল পাসওয়ার্ড ব্যবহার করুন।"
 
 #. (itstool) path: page/title
 #: C/user-goodpassword.page:31
 msgid "Choose a secure password"
-msgstr ""
+msgstr "একটি নিরাপদ পাসওয়ার্ড বেছে নিন"
 
 #. (itstool) path: note/p
 #: C/user-goodpassword.page:34
 msgid ""
 "Make your passwords easy enough for you to remember, but very difficult for "
 "others (including computer programs) to guess."
-msgstr ""
+msgstr "পাসওয়ার্ড এমনভাবে তৈরি করুন যেন আপনি সহজেই মনে করতে পারেন, কিন্তু বাকিদের জন্য (কম্পিউটার প্রোগ্রামসহ) আন্দাজ করা যেন অনেক কঠিন হয়।"
 
 #. (itstool) path: page/p
 #: C/user-goodpassword.page:39
@@ -9774,7 +9775,7 @@ msgid ""
 "Choosing a good password will help to keep your computer safe. If your "
 "password is easy to guess, someone may figure it out and gain access to your"
 " personal information."
-msgstr ""
+msgstr "একটি নিরাপদ পাসওয়ার্ড বেছে নিলে তা আপনার কম্পিউটারকে সুরক্ষিত রাখতে সাহায্য করবে। যদি আপনার পাসওয়ার্ড সহজেই আন্দাজ করা যায়, তাহলে যে কেউ সেটি বুঝে ফেলতে পারবে এবং আপনার ব্যক্তিগত তথ্যাদিতে প্রবেশাধিকার পেয়ে যাবে।"
 
 #. (itstool) path: page/p
 #: C/user-goodpassword.page:42
@@ -9848,14 +9849,14 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:87
 msgid "Use different passwords for different accounts."
-msgstr ""
+msgstr "বিভিন্ন একাউন্টের জন্য আলাদা পাসওয়ার্ড ব্যবহার করুন।"
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:88
 msgid ""
 "If you use the same password for all of your accounts, anyone who guesses it"
 " will be able to access all of your accounts immediately."
-msgstr ""
+msgstr "আপনার সকল একাউন্টের জন্য যদি একই পাসওয়ার্ড ব্যবহার করেন, তবে কেউ সেটি আন্দাজ করতে পারলে আপনার সকল একাউন্টেই তৎক্ষণাত প্রবেশাধিকার পেয়ে যাবে।"
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:90
@@ -9870,4 +9871,4 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:97
 msgid "Change your passwords regularly."
-msgstr ""
+msgstr "আপনার পাসওয়ার্ড নিয়মিত পরিবর্তন করুন।"
