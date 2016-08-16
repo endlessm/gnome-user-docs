@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2016-08-07 16:02+0000\n"
+"PO-Revision-Date: 2016-08-14 23:22+0000\n"
 "Last-Translator: Shimon Sharmin <oparthib@gmail.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -120,12 +120,12 @@ msgstr "একাটেরিনা জেরাসিমোভা"
 #. (itstool) path: info/desc
 #: C/a11y-bouncekeys.page:31
 msgid "Ignore quickly-repeated key presses of the same key."
-msgstr ""
+msgstr "একই বোতাম দ্রুতগতিতে বার বার চাপা হলে তা অগ্রাহ্য করুন।"
 
 #. (itstool) path: page/title
 #: C/a11y-bouncekeys.page:34
 msgid "Turn on bounce keys"
-msgstr ""
+msgstr "বাউন্স বোতাম চালু করুন"
 
 #. (itstool) path: page/p
 #: C/a11y-bouncekeys.page:36
@@ -168,23 +168,23 @@ msgstr ""
 #: C/a11y-slowkeys.page:51 C/a11y-stickykeys.page:55
 #: C/a11y-visualalert.page:50 C/keyboard-osk.page:47 C/mouse-mousekeys.page:50
 msgid "Click on <gui>Universal Access</gui>."
-msgstr ""
+msgstr "<gui>সার্বজনীন প্রবেশাধিকার</gui> চাপুন।"
 
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:53 C/a11y-slowkeys.page:55 C/a11y-stickykeys.page:59
 msgid ""
 "Press <gui>Typing Assist (AccessX)</gui> in the <gui>Typing</gui> section."
-msgstr ""
+msgstr "<gui>টাইপিং</gui> শাখায় <gui>টাইপিং সহায়তা (AccessX)</gui> চাপুন।"
 
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:57
 msgid "Switch <gui>Bounce Keys</gui> to <gui>On</gui>."
-msgstr ""
+msgstr "<gui>বাউন্স বোতাম</gui> পরিবর্তন করে <gui>চালু</gui> করুন।"
 
 #. (itstool) path: note/title
 #: C/a11y-bouncekeys.page:62
 msgid "Quickly turn bounce keys on and off"
-msgstr ""
+msgstr "বাউন্স বোতাম দ্রুতগতিতে চালু করুন ও বন্ধ করুন"
 
 #. (itstool) path: note/p
 #: C/a11y-bouncekeys.page:63
@@ -9494,12 +9494,12 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/user-admin-problems.page:23
 msgid "Without administrative privileges, your account is limited."
-msgstr ""
+msgstr "প্রশাসনিক ক্ষমতা ছাড়া, আপনার একাউন্ট কর্মক্ষমতা সীমিত।"
 
 #. (itstool) path: page/title
 #: C/user-admin-problems.page:26
 msgid "Problems caused by administrative restrictions"
-msgstr ""
+msgstr "প্রশাসনিক নিষেধাজ্ঞার কারণে সমস্যা সৃষ্টি হয়েছে"
 
 #. (itstool) path: page/p
 #: C/user-admin-problems.page:28
@@ -9524,7 +9524,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/user-admin-problems.page:41
 msgid "Creating new users for your computer."
-msgstr ""
+msgstr "আপনার কম্পিউটারের জন্য নতুন ব্যবহারকারী তৈরি করুন।"
 
 #. (itstool) path: page/p
 #: C/user-admin-problems.page:45
@@ -9593,7 +9593,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/user-changepassword.page:30
 msgid "Change your password"
-msgstr ""
+msgstr "আপনার পাসওয়ার্ড পরিবর্তন করুন"
 
 #. (itstool) path: page/p
 #: C/user-changepassword.page:57
@@ -9634,7 +9634,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/user-changepassword.page:88
 msgid "Click <gui>Change</gui>."
-msgstr ""
+msgstr "চাপুন <gui>পরিবর্তন</gui>।"
 
 #. (itstool) path: page/p
 #: C/user-changepassword.page:92
@@ -9655,17 +9655,17 @@ msgstr ""
 msgid ""
 "If you forget your password, any user with administrator privileges can "
 "change it for you."
-msgstr ""
+msgstr "আপনি যদি আপনার পাসওয়ার্ড ভুলে যান, তাহলে প্রশাসক ক্ষমতাধারী যে কোন ব্যবহারকারী আপনার হয়ে সেটি বদলে দিতে পারবে।"
 
 #. (itstool) path: info/desc
 #: C/user-changepicture.page:27
 msgid "Add your photo to the login and user screens."
-msgstr ""
+msgstr "প্রবেশ ও ব্যবহারকারী স্ক্রিনে আপনার ছবি সংযোজন করুন।"
 
 #. (itstool) path: page/title
 #: C/user-changepicture.page:30
 msgid "Change your login screen photo"
-msgstr ""
+msgstr "প্রবেশ স্ক্রিনে আপনার ছবি পরিবর্তন করুন"
 
 #. (itstool) path: page/p
 #: C/user-changepicture.page:32
@@ -9711,12 +9711,12 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/user-delete.page:35
 msgid "Remove users that no longer use your computer."
-msgstr ""
+msgstr "আপনার কম্পিউটার যারা আর ব্যবহার করে না এমন ব্যবহারকারীদের নাম সরিয়ে ফেলুন।"
 
 #. (itstool) path: page/title
 #: C/user-delete.page:38
 msgid "Delete a user account"
-msgstr ""
+msgstr "একটি ব্যবহারকারী একাউন্ট মুছে দিন।"
 
 #. (itstool) path: page/p
 #: C/user-delete.page:40
@@ -9824,12 +9824,12 @@ msgstr ""
 msgid ""
 "Do not use any personal information such as a date, license plate number, or"
 " any family member's name."
-msgstr ""
+msgstr "ব্যক্তিগত কোন তথ্য যেমন কোন তারিখ, লাইসেন্স নম্বর, বা পরিবারের কোন সদস্যের নাম ব্যবহার করবেন না।"
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:74
 msgid "Do not use any nouns."
-msgstr ""
+msgstr "কোন বিশেষ্য ব্যবহার করবেন না।"
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:77
@@ -9837,14 +9837,14 @@ msgid ""
 "Choose a password that can be typed quickly, to decrease the chances of "
 "someone being able to make out what you have typed if they happen to be "
 "watching you."
-msgstr ""
+msgstr "এমন একটি পাসওয়ার্ড বেছে নিন যা দ্রুত টাইপ করা যায়। এর ফলে আপনাকে যদি টাইপ করার সময় কেউ লক্ষ্য করতে থাকে তাহলে আপনি কী টাইপ করলেন তা সেই ব্যক্তি বুঝতে পারবে না।"
 
 #. (itstool) path: note/p
 #: C/user-goodpassword.page:81
 msgid ""
 "It may be a good idea to write down your password somewhere so that you "
 "don't forget it. Make sure it's somewhere safe where it won't be found!"
-msgstr ""
+msgstr "আপনার পাসওয়ার্ড কোথাও লিখে রাখা একটি ভাল বুদ্ধি হতে পারে যেন আপনি সেটি ভুলে না যান। তবে নিরাপদ কোথাও লিখুন যা অন্য কেউ খুঁজে পাবে না‍!"
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:87
@@ -9866,7 +9866,7 @@ msgid ""
 "use the same one for things that don't matter (like websites), and different"
 " ones for important things (like your online banking account and your "
 "email)."
-msgstr ""
+msgstr "তবে, অনেক পাসওয়ার্ড মনে রাখা কঠিন হতে পারে। সবকিছুর জন্য আলাদা পাসওয়ার্ড ব্যবহার করা অনেক নিরাপদ হলেও, সহজতর একটা উপায় হচ্ছে অপ্রয়োজনীয় জিনিসগুলোর জন্য (যেমন, ওয়েবসাইট) একই পাসওয়ার্ড ব্যবহার করা। এবং গুরুত্বপূর্ণ জিনিসগুলোর জন্য (যেমন, আপনার অনলাইন ব্যাংক একাউন্ট বা আপনার ইমেইল) আলাদা পাসওয়ার্ড ব্যবহার করবেন।"
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:97
