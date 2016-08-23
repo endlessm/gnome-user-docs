@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2016-08-21 23:20+0000\n"
+"PO-Revision-Date: 2016-08-23 22:09+0000\n"
 "Last-Translator: Shimon Sharmin <oparthib@gmail.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -9177,7 +9177,7 @@ msgid ""
 "others unchanged. This is useful if you're listening to music and browsing "
 "the web, for example. You might want to turn off the volume in the web "
 "browser so sounds from websites don't interrupt the music."
-msgstr ""
+msgstr "আপনি একটি এ্যাপ্লিকেশনের আওয়াজের মাত্রা পরিবর্তন করতে পারেন, কিন্তু অন্যগুলোর আওয়াজের মাত্রা অপরিবর্তিত রেখে দিতে পারেন। উদাহরণস্বরূপ, আপনি যদি গান শুনতে শুনতে ওয়েবে ঘুরতে থাকেন তাহলে এটি বেশ উপকারী। আপনি ব্রাউজারের আওয়াজ বন্ধ করে দিতে পারেন যাতে ওয়েবসাইটের আওয়াজ আপনার গানে ব্যাঘাত না ঘটায়।"
 
 #. (itstool) path: section/p
 #: C/sound-volume.page:46
@@ -9187,7 +9187,7 @@ msgid ""
 "click the sound icon on the task bar and select <gui>Sound Settings</gui>. "
 "Go to the <gui>Applications</gui> tab and change the volume of the "
 "application there."
-msgstr ""
+msgstr "কিছু্ এ্যাপ্লিকেশনের মূল উইন্ডোতেই আওয়াজের মাত্রা নিয়ন্ত্রণের ব্যবস্থা থাকে। যদি আপনার এ্যাপ্লিকেশনে এমন ব্যবস্থা থাকে, তবে আওয়াজের মাত্রা পরিবর্তন করতে সেটি ব্যবহার করুন। নয়তো, টাস্কবারে আওয়াজের চিহ্নটিতে চাপুন এবং <gui>আওয়াজ সেটিংস</gui> নির্বাচন করুন। <gui>এ্যাপ্লিকেশন</gui> ট্যাবে যান এবং এ্যপ্লিকেশনের আওয়াজের মাত্রা সেখানে পরিবর্তন করুন।"
 
 #. (itstool) path: section/p
 #: C/sound-volume.page:50
@@ -9196,7 +9196,7 @@ msgid ""
 "is playing sounds but isn't listed, it might not support the feature that "
 "lets you control its volume in this way. In that case, you can't change its "
 "volume."
-msgstr ""
+msgstr "শুধুমাত্র যেসব এ্যাপ্লিকেশন থেকে আওয়াজ হচ্ছে সেগুলোর তালিকা করা থাকবে। যদি এমন একটি এ্যাপ্লিকেশন থাকে যা থেকে আওয়াজ হচ্ছে কিন্তু সেটি তালিকাতে নেই, তবে এই পদ্ধতিতে আওয়াজের মাত্রা নিয়ন্ত্রণ করার ব্যবস্থাটি হয়তো সেই এ্যাপ্লিকেশনে কাজ করে না। সেক্ষেত্রে, আপনি এটির আওয়াজ পরিবর্তন করতে পারবেন না।"
 
 #. (itstool) path: info/title
 #: C/user-add.page:32
@@ -9221,7 +9221,7 @@ msgid ""
 "account to everyone who uses your computer. That way, you can make sure that"
 " your files remain private and every user will have their own home folder, "
 "documents, and custom settings."
-msgstr ""
+msgstr "আপনার কম্পিউটারে আপনি একাধিক ব্যবহারকারী একাউন্ট তৈরি করে রাখতে পারেন এবং যারা আপনার কম্পিউটার ব্যবহার করবে সবাইকে একটি করে ব্যবহারকারী একাউন্ট দিতে পারেন। এভাবে, আপনার ব্যক্তিগত ফাইলগুলোর নিরাপত্তা নিশ্চিত করতে পারবেন এবং প্রতিটি ব্যবহারকারীর নিজস্ব নীড় ফোল্ডার, কাগজপত্র এবং পছন্দসই সেটিংস থাকবে।"
 
 #. (itstool) path: page/p
 #: C/user-add.page:66
@@ -9231,7 +9231,7 @@ msgid ""
 "person who first set up their account when the computer was first purchased "
 "and set up, although others may also have been given administrator "
 "privileges by that first user."
-msgstr ""
+msgstr "ব্যবহারকারী একাউন্ট যোগ করার জন্য আপনার <link xref=\"user-admin-explain\">প্রশাসক ক্ষমতা</link> দরকার পড়বে। সাধারণত কম্পিউটার কেনা এবং প্রতিষ্ঠাপন করার পর সর্বপ্রথম যিনি তার একাউন্টটি প্রতিষ্ঠাপিত করেন তিনিই প্রশাসক হয়ে থাকেন, যদিও সেই প্রথম ব্যবহারকারী দ্বারা অন্যান্য ব্যবহারকারীকেও প্রশাসনিক ক্ষমতা দেয়া হয়ে থাকতে পারে।"
 
 #. (itstool) path: steps/title
 #: C/user-add.page:73
@@ -9269,7 +9269,7 @@ msgid ""
 "<gui>Administrator</gui> for the account type. Administrators can do things "
 "like add and delete users, install software and drivers, and change the date"
 " and time."
-msgstr ""
+msgstr "আপনি যদি নতুন ব্যবহারকারীকে কম্পিউটারে <link xref=\"user-admin-explain\">প্রশাসনিক প্রবেশাধিকার</link> দিতে চান, তাহলে একাউন্ট ধরণে <gui>প্রশাসক</gui> নির্বাচন করুন। ব্যবহারকারী যোগ করা ও মুছে দেয়া, সফটওয়্যার ও ড্রাইভার সংস্থাপন করা, এবং তারিখ ও সময় পরিবর্তন করার মতো কাজগুলো প্রশাসকরা করতে পারেন।"
 
 #. (itstool) path: item/p
 #: C/user-add.page:105
@@ -9282,7 +9282,7 @@ msgstr "নতুন ব্যবহারকারীর পুরো নাম
 #. (itstool) path: media/span
 #: C/user-add.page:112 C/user-changepassword.page:83
 msgid "generate password"
-msgstr ""
+msgstr "পাসওয়ার্ড উৎপন্ন করুন"
 
 #. (itstool) path: item/p
 #: C/user-add.page:110
@@ -9291,7 +9291,7 @@ msgid ""
 "themselves on their first login. You can press on the <gui "
 "style=\"button\"><_:media-1/></gui> icon to automatically generate a random "
 "password."
-msgstr ""
+msgstr "নতুন ব্যবহারকারীর জন্য আপনি একটি পাসওয়ার্ড ঠিক করে রাখতে পারেন, অথবা প্রথম প্রবেশের সময় তারা নিজেরাই সেটি ঠিক করে নিতে পারে। স্বয়ংক্রিয়ভাবে একটি এলোমেলো পাসওয়ার্ড উৎপন্ন হবার জন্য <gui style=\"button\"><_:media-1/></gui> চিহ্নটিতে চাপ দিতে পারেন।"
 
 #. (itstool) path: item/p
 #: C/user-add.page:117
@@ -9304,7 +9304,7 @@ msgid ""
 "If you want to change the password after creating the account, select the "
 "account, <gui style=\"button\">Unlock</gui> the panel and press on the "
 "current password status."
-msgstr ""
+msgstr "একাউন্ট তৈরির পর আপনি যদি পাসওয়ার্ড বদলাতে চান, তাহলে একাউন্টটি নির্বাচন করুন, প্যানেলের <gui style=\"button\">তালা খুলুন</gui> এবং বর্তমান পাসওয়ার্ড অবস্থাতে চাপুন।"
 
 #. (itstool) path: note/p
 #: C/user-add.page:126
@@ -9313,7 +9313,7 @@ msgid ""
 "name to the right to set an image for the account. This image will be shown "
 "in the login window. Endless provides some stock photos you can use, or you "
 "can select your own or take a picture with your webcam."
-msgstr ""
+msgstr "একাউন্টে ছবি সংযুক্ত করতে <gui>ব্যবহারকারী</gui> প্যানেলে আপনি ব্যবহারকারীর নামের ডান পাশে ছবিতে চাপ দিতে পারেন। এই ছবিটি প্রবেশকারী উইন্ডোতে দেখানো হবে। আপনার ব্যবহার করার জন্য এন্ডলেস কিছু নিজস্ব সংগৃহীত ছবি দিয়ে রাখবে, বা আপনি নিজের কোন ছবি বেছে নিতে পারেন অথবা ওয়েবক্যামের মাধ্যমে একটি ছবি তুলে নিতে পারেন।"
 
 #. (itstool) path: note/p
 #: C/user-add.page:133
@@ -9321,14 +9321,14 @@ msgid ""
 "You may want to create a \"Guest\" account so that friends or others who "
 "visit you can use it and you can rest assured that they will not mess up any"
 " of your preferernces, or delete files."
-msgstr ""
+msgstr "বন্ধু অথবা কোন অতিথির ব্যবহারের জন্য আপনি একটি \"অতিথি\" একাউন্ট তৈরি করে রাখতে পারেন এবং এতে আপনি নিশ্চিত থাকতে পারবেন যে তারা আপনার কোন পছন্দ উল্টেপাল্টে ফেলবে না, অথবা কোন ফাইল মুছে দিতে পারবে না।"
 
 #. (itstool) path: info/desc
 #: C/user-admin-change.page:23
 msgid ""
 "You can change which users are allowed to make changes to the system by "
 "giving them administrative privileges."
-msgstr ""
+msgstr "কোন ব্যবহারকারী সিস্টেমে পরিবর্তন সাধন করতে পারবে তা আপনি তাদের প্রশাসনিক ক্ষমতা দেবার মাধ্যমে নির্ধারণ করতে পারেন।"
 
 #. (itstool) path: page/title
 #: C/user-admin-change.page:26
@@ -9343,7 +9343,7 @@ msgid ""
 "administrative privileges and which ones don't. They are a good way of "
 "keeping your system secure and preventing potentially damaging unauthorized "
 "changes."
-msgstr ""
+msgstr "সিস্টেমের গুরুত্বপূর্ণ অংশগুলো কারা পরিবর্তন করতে পারবে তা নির্ধারণ করার একটি উপায় হচ্ছে প্রশাসনিক ক্ষমতা। কোন ব্যবহারকারীর প্রশাসনিক ক্ষমতা থাকবে আর কার থাকবে না তা আপনি পরিবর্তন করতে পারেন। আপনার সিস্টেম নিরাপদ রাখতে এবং সম্ভাব্য ক্ষতিকর অননুমোদিত পরিবর্তন সাধিত হওয়া থেকে রক্ষা পাবার জন্য এটি একটি ভাল পদ্ধতি।"
 
 #. (itstool) path: page/p
 #: C/user-admin-change.page:33
@@ -9362,7 +9362,7 @@ msgstr "যে ব্যবহারকারীর ক্ষমতা পরি
 msgid ""
 "Click the label <gui>Standard</gui> next to <gui>Account Type</gui> and "
 "select <gui>Administrator</gui>."
-msgstr ""
+msgstr "<gui>একাউন্ট ধরণ</gui> -এর পাশে <gui>সাধারণ</gui> লেখা লেবেল চাপুন এবং <gui>প্রশাসক</gui> নির্বাচন করুন।"
 
 #. (itstool) path: item/p
 #: C/user-admin-change.page:59
@@ -9414,7 +9414,7 @@ msgid ""
 "applications. In day-to-day use, you won't need to change any system files "
 "or use these applications, so by default you do not have administrative "
 "privileges."
-msgstr ""
+msgstr "সংরক্ষিত রাখার পদ্ধতি হচ্ছে, যেসব ব্যবহারকারীর <em>প্রশাসনিক ক্ষমতা</em> আছে শুধুমাত্র তাদের দ্বারা ফাইল পরিবর্তন বা এ্যাপ্লিকেশনগুলো ব্যবহার সম্ভব এমন ব্যবস্থা রাখা। প্রতিদিনের ব্যবহারের সময়ে, কোন সিস্টেম ফাইল পরিবর্তন বা এসব এ্যাপ্লিকেশন ব্যবহারের প্রয়োজন আপনার পড়বে না, অতএব সাধারণ সময়ে আপনার কোন প্রশাসনিক ক্ষমতা থাকবে না।"
 
 #. (itstool) path: page/p
 #: C/user-admin-explain.page:43
@@ -9423,7 +9423,7 @@ msgid ""
 "temporarily get administrative privileges to allow you to make the changes. "
 "If an application needs administrative privileges, it will ask for your "
 "password."
-msgstr ""
+msgstr "মাঝে মাঝে আপনার এসব এ্যাপ্লিকেশন ব্যবহারের প্রয়োজন পড়তে পারে। তখন এসব পরিবর্তন সাধন করার জন্য আপনি অস্থায়ীভাবে প্রশাসনিক ক্ষমতা পেতে পারেন। যদি কোন এ্যাপ্লিকেশনের জন্য প্রশাসনিক ক্ষমতা দরকার পড়ে, তবে আপনার কাছে পাসওয়ার্ড চাওয়া হবে।"
 
 #. (itstool) path: page/p
 #: C/user-admin-explain.page:57
@@ -9436,14 +9436,14 @@ msgid ""
 "use administrative privileges all of the time, because you might "
 "accidentally change something you did not intend to (like delete a needed "
 "system file, for example)."
-msgstr ""
+msgstr "আপনার একাউন্টের সাথে প্রশাসনিক ক্ষমতা সম্পৃক্ত। <gui>প্রশাসক</gui> ব্যবহারকারীরা এসব ক্ষমতা থাকবে কিন্তু <gui>সাধারণ</gui> ব্যবহারকারীদের থাকবে না। প্রশাসনিক ক্ষমতা ছাড়া আপনি কোন সফটওয়্যার সংস্থাপিত করতে পারবেন না। কিছু ব্যবহারকারী একাউন্টের (উদাহরণস্বরূপ, \"মূল\" একাউন্ট) স্থায়ী প্রশাসনিক ক্ষমতা থাকবে। সবসময় প্রশাসনিক ক্ষমতা ব্যবহার করা উচিত নয়, কারণ আপনি ভুলক্রমে এমন কিছু পরিবর্তন করে ফেলতে পারেন যা আপনি চান না (যেমন উদাহরণস্বরূপ, প্রয়োজনীয় সিস্টেম ফাইল মুছে দেয়া)।"
 
 #. (itstool) path: page/p
 #: C/user-admin-explain.page:66
 msgid ""
 "In summary, administrative privileges allow you to change important parts of"
 " your system when needed, but prevent you from doing it accidentally."
-msgstr ""
+msgstr "সংক্ষেপে, প্রশাসনিক ক্ষমতা আপনাকে আপনার সিস্টেমের গুরুত্বপূর্ণ অংশে পরিবর্তন প্রয়োজনমাফিক পরিবর্তন করতে সমর্থ করবে, কিন্তু ভুলক্রমে কিছু করা থেকেও আপনাকে বিরত রাখবে।"
 
 #. (itstool) path: note/title
 #: C/user-admin-explain.page:70
