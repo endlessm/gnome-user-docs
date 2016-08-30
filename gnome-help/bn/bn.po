@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2016-08-23 22:09+0000\n"
+"PO-Revision-Date: 2016-08-27 07:20+0000\n"
 "Last-Translator: Shimon Sharmin <oparthib@gmail.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -8987,21 +8987,21 @@ msgid ""
 "Including all applications in the <gui>window switcher</gui> makes switching"
 " between tasks a single-step process and provides a full picture of which "
 "applications are running."
-msgstr ""
+msgstr "<gui>উইন্ডো পরিবর্তনকারী</gui>তে সকল এ্যাপ্লিকেশন সংযুক্ত করলে বিভিন্ন কাজের মধ্যে উইন্ডো পরিবর্তন করা শুধুমাত্র একটি পদক্ষেপেই করা সম্ভবপর হয় এবং কোন কোন এ্যাপ্লিকেশন চালু আছে তার একটি পূর্ণ চিত্র পাওয়া যায়।"
 
 #. (itstool) path: item/p
 #: C/shell-windows-switching.page:34
 msgid ""
 "Press <keyseq><key>Alt</key><key>Tab </key></keyseq> to bring up the "
 "<gui>window switcher</gui>."
-msgstr ""
+msgstr "<gui>উইন্ডো পরিবর্তনকারী</gui> চালু করতে  <keyseq><key>অল্টার</key><key>ট্যাব</key></keyseq> চাপুন।"
 
 #. (itstool) path: item/p
 #: C/shell-windows-switching.page:39
 msgid ""
 "Release <key>Alt</key> to select the next (highlighted) window in the "
 "switcher."
-msgstr ""
+msgstr "পরিবর্তনকারীতে পরবর্তী (উজ্জ্বলতম) উইন্ডো নির্বাচন করতে <key>অল্টার</key> বোতামটি ছেড়ে দিন।"
 
 #. (itstool) path: item/p
 #: C/shell-windows-switching.page:43
@@ -9009,14 +9009,14 @@ msgid ""
 "Otherwise, still holding down the <key> Alt</key> key, press <key>Tab</key> "
 "to cycle through the list of open windows, or "
 "<keyseq><key>Shift</key><key>Tab</key></keyseq> to cycle backwards."
-msgstr ""
+msgstr "নতুবা, খোলা উইন্ডোগুলোর তালিকার মধ্য দিয়ে এগিয়ে যেতে <key> অল্টার</key> বোতাম চেপে রেখেই, <key>ট্যাব</key> চাপুন, অথবা পেছন দিকে যেতে <keyseq><key>শিফট</key><key>ট্যাব</key></keyseq> চাপুন।"
 
 #. (itstool) path: page/p
 #: C/shell-windows-switching.page:50
 msgid ""
 "You can also use the window list on the bottom bar to access all your open "
 "windows and switch between them."
-msgstr ""
+msgstr "আপনার খুলে রাখা সকল উইন্ডোতে প্রবেশ করতে এবং তাদের মধ্যে পরিবর্তন করতে আপনি নিচের বারে উইন্ডো তালিকাটিও ব্যবহার করতে পারেন।"
 
 #. (itstool) path: note/p
 #: C/shell-windows-switching.page:54
@@ -9025,7 +9025,7 @@ msgid ""
 "applications with multiple windows pop down as you click through. Hold down "
 "<key>Alt</key> and press <key>`</key> (or the key above <key>Tab</key>) to "
 "step through the list."
-msgstr ""
+msgstr "উইন্ডো পরিবর্তনকারীতে উইন্ডোগুলোকে এ্যাপ্লিকেশন দ্বারা শ্রেণীবিভাগ করা হয়। আপনি যখন চাপবেন তখন একাধিক উইন্ডো সম্বলিত এ্যাপ্লিকেশনের প্রাক-দর্শনীগুলো নিচে দেখা যাবে। তালিকা দেখে এগিয়ে যেতে <key>অল্টার</key> চেপে ধরে রেখে <key>`</key> চাপুন (অথবা <key>ট্যাব</key>এর ওপরের বোতাম)।"
 
 #. (itstool) path: item/p
 #: C/shell-windows-switching.page:61
@@ -9033,26 +9033,26 @@ msgid ""
 "You can also move between the application icons in the window switcher with "
 "the <key>→</key> or <key>←</key> keys, or select one by clicking it with the"
 " mouse."
-msgstr ""
+msgstr "<key>→</key> অথবা <key>←</key> বোতামগুলোর মাধ্যমেও আপনি উইন্ডো পরিবর্তনকারীর এ্যাপ্লিকেশনের চিহ্নগুলোর মধ্যে ঘুরে বেড়াতে পারেন, অথবা মাউস দ্বারা চাপ দিয়ে যে কোন একটি নির্বাচন করতে পারেন।"
 
 #. (itstool) path: item/p
 #: C/shell-windows-switching.page:64
 msgid ""
 "Previews of applications with a single window can be displayed with the "
 "<key>↓</key> key."
-msgstr ""
+msgstr "<key>↓</key> বোতাম দ্বারা একটি উইন্ডো সম্বলিত এ্যাপ্লিকেশনের প্রাক-দর্শনী দেখা যাবে।"
 
 #. (itstool) path: info/desc
 #: C/sound-alert.page:27
 msgid ""
 "Choose the sound to play for messages, set the alert volume, or disable "
 "alert sounds."
-msgstr ""
+msgstr "বার্তার শব্দ বাজাতে, সতর্কীকরণ আওয়াজের মাত্রা ঠিক করতে, বা সতর্কীকরণ আওয়াজ বন্ধ করে দিতে আওয়াজ নির্বাচন করুন।"
 
 #. (itstool) path: page/title
 #: C/sound-alert.page:30
 msgid "Choose or disable the alert sound"
-msgstr ""
+msgstr "সতর্কীকরণ আওয়াজ নির্বাচন অথবা বন্ধ করুন"
 
 #. (itstool) path: page/p
 #: C/sound-alert.page:32
@@ -9061,7 +9061,7 @@ msgid ""
 "and events. You can choose different sound clips for alerts, set the alert "
 "volume independently of your system volume, or disable alert sounds "
 "entirely."
-msgstr ""
+msgstr "কিছু নির্দিষ্ট ধরণের বার্তা ও ঘটনার জন্য আপনার কম্পিউটার একটি সাধারণ সতর্কীকরণ আওয়াজ বাজাবে। আপনি সতর্কীকরণের জন্য ভিন্ন ভিন্ন আওয়াজ নির্বাচন করতে পারেন, সিস্টেমের আওয়াজের মাত্রার বাইরে সতর্কীকরণ আওয়াজের নিজস্ব মাত্রা ঠিক করে দিতে পারেন, বা সম্পূর্ণভাবে সতর্কীকরণ আওয়াজ বন্ধ করে দিতে পারেন।"
 
 #. (itstool) path: item/p
 #: C/sound-alert.page:45
@@ -9073,7 +9073,7 @@ msgstr "<gui>আওয়াজ</gui> চাপুন।"
 msgid ""
 "In the <gui>Sound Effects</gui> tab, select an alert sound. Each sound will "
 "play when you click on it so you can hear how it sounds."
-msgstr ""
+msgstr "<gui>সাউন্ড এফেক্ট</gui> ট্যাবে একটি সতর্কীকরণ শব্দ নির্বাচন করুন। প্রতিটির উপরে চাপ দিলেই আপনি শুনতে পাবেন তাদের আওয়াজ কী রকম।"
 
 #. (itstool) path: page/p
 #: C/sound-alert.page:53
@@ -9081,14 +9081,14 @@ msgid ""
 "Use the volume slider in the <gui>Sound Effects</gui> tab to set the volume "
 "of the alert sound. This won't affect the volume of your music, movies, or "
 "other sound files."
-msgstr ""
+msgstr "<gui>সাউন্ড এফেক্ট</gui> ট্যাবে আওয়াজের স্লাইডার ব্যবহার করে সতর্কীকরণ শব্দের আওয়াজের মাত্রা ঠিক করে নিন। এতে আপনার গান, চলচ্চিত্র বা অন্যান্য আওয়াজের ফাইলের মাত্রায় কোন প্রভাব পড়বে না।"
 
 #. (itstool) path: page/p
 #: C/sound-alert.page:57
 msgid ""
 "To disable alert sounds entirely, switch the <gui>Alert volume</gui> to "
 "<gui>Off</gui>."
-msgstr ""
+msgstr "সতর্কীকরণ শব্দ সম্পূর্ণরূপে বন্ধ করে দিতে <gui>সতর্কীকরণ মাত্রা</gui> পরিবর্তন করে <gui>বন্ধ</gui> করে দিন।"
 
 #. (itstool) path: credit/years
 #: C/sound-troubleshoot.page:15
@@ -9099,24 +9099,24 @@ msgstr "2016"
 #: C/sound-troubleshoot.page:18
 msgid ""
 "If you can't hear sound on your computer, there may be a way to fix that."
-msgstr ""
+msgstr "আপনি যদি আপনার কম্পিউটারে আওয়াজ শুনতে না পান, তাহলে সেটা ঠিক করার কোন উপায় থাকতে পারে।"
 
 #. (itstool) path: page/title
 #: C/sound-troubleshoot.page:22
 msgid "Troubleshoot sound on your computer"
-msgstr ""
+msgstr "আপনার কম্পিউটারের আওয়াজের সমস্যা ঠিক করুন"
 
 #. (itstool) path: page/p
 #: C/sound-troubleshoot.page:24
 msgid ""
 "Here are some known issues and how to fix them if you're having trouble "
 "hearing sound from your computer."
-msgstr ""
+msgstr "আপনার কম্পিউটার থেকে কোন আওয়াজ শুনতে যদি বিঘ্ন হতে থাকে তাহলে এখানে কিছু পরিচিত সমস্যার তালিকা ও তাদের সমাধানের উপায় দেয়া হলো।"
 
 #. (itstool) path: section/title
 #: C/sound-troubleshoot.page:28
 msgid "Hearing sound on an old TV"
-msgstr ""
+msgstr "একটি পুরানো টিভিতে আওয়াজ শুনতে পাওয়া"
 
 #. (itstool) path: section/p
 #: C/sound-troubleshoot.page:30
@@ -9126,14 +9126,14 @@ msgid ""
 " audio jack on the side of your computer. Endless does not come with this "
 "adapter, so you should check with your local electronics retailer to "
 "purchase one."
-msgstr ""
+msgstr "কিছু এন্ডলেস কম্পিউটার পুরানো টিভির সাথে সঙ্গতিপূর্ণ। আপনার টিভির মাধ্যমে আওয়াজ শুনতে হলে, আপনাকে একটি এ্যাডাপ্টার ব্যবহার করতে হবে যেটা আপনার কম্পিউটারের পাশে 3.5 মিমি অডিও-জ্যাকের সাথে আপনার টিভিকে সংযুক্ত করবে। এন্ডলেস এই এ্যাডাপ্টারটি সরবরাহ করে না। অতএব, এটা কেনার জন্য আপনার স্থানীয় ইলেকট্রনিক্স দোকানে যোগাযোগ করুন।"
 
 #. (itstool) path: info/desc
 #: C/sound-volume.page:20
 msgid ""
 "Set the sound volume for the computer and control the loudness of each "
 "application."
-msgstr ""
+msgstr "আপনার কম্পিউটারের আওয়াজের মাত্রা ঠিক করে নিন এবং প্রতিটি এ্যাপ্লিকেশনের জন্য মাত্রা নিয়ন্ত্রণ করুন।"
 
 #. (itstool) path: page/title
 #: C/sound-volume.page:25
@@ -9147,7 +9147,7 @@ msgid ""
 "bottom right-hand of your screen (it looks like a speaker) and move the "
 "volume slider left or right. You can completely turn off sound by dragging "
 "the slider all the way to the left."
-msgstr ""
+msgstr "আওয়াজের মাত্রা পরিবর্তন করতে, আপনার স্ক্রিনের নিচে ডান দিকে টাস্কবারে আওয়াজের চিহ্নটিতে (দেখতে স্পিকারের মতো) চাপ দিন এবং স্লাইডারটিকে ডানে বা বাঁয়ে নড়ান। স্লাইডারটিকে একদম বাঁয়ে সরিয়ে নিয়ে আপনি আওয়াজ সম্পূর্ণভাবে বন্ধ করে দিতে পারেন।"
 
 #. (itstool) path: page/p
 #: C/sound-volume.page:32
@@ -9155,7 +9155,7 @@ msgid ""
 "Some keyboards have keys that let you control the volume. They normally look"
 " like stylized speakers with waves coming out of them. They are often near "
 "the \"F\" keys at the top."
-msgstr ""
+msgstr "কিছু কিবোর্ডে আওয়াজের মাত্রা নিয়ন্ত্রণ করার জন্য বোতাম দেয়া থাকে। সাধারণত তাদের উপরে স্পিকারের মতো দেখতে ছবি থাকে যা থেকে তরঙ্গ বের হয়ে আসছে। বেশিরভাগ সময় তারা উপরে \"F\" বোতামগুলোর কাছাকাছি থাকে।"
 
 #. (itstool) path: page/p
 #: C/sound-volume.page:36
@@ -9163,7 +9163,7 @@ msgid ""
 "Of course, if you have external speakers, you can also change the volume "
 "using the volume control on the speakers themselves. Some headphones have a "
 "volume control too."
-msgstr ""
+msgstr "অবশ্য, আপনার যদি বহিস্থ স্পিকার থাকে, তবে আপনি স্পিকারেই অবস্থিত আওয়াজ নিয়ন্ত্রণকারী বোতাম দিয়ে আওয়াজের মাত্রা পরিবর্তন করতে পারবেন। কিছু হেডফোনেও আওয়াজ নিয়ন্ত্রণ করা যায়।"
 
 #. (itstool) path: section/title
 #: C/sound-volume.page:41
