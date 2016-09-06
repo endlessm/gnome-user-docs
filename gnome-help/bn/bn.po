@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2016-08-27 07:20+0000\n"
+"PO-Revision-Date: 2016-09-05 21:55+0000\n"
 "Last-Translator: Shimon Sharmin <oparthib@gmail.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -800,7 +800,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/a11y.page:25
 msgid "Universal Access"
-msgstr ""
+msgstr "সার্বজনীন প্রবেশাধিকার"
 
 #. (itstool) path: page/p
 #: C/a11y.page:27
@@ -814,27 +814,27 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/a11y.page:33
 msgid "Visual Impairments"
-msgstr ""
+msgstr "দৃষ্টিসংক্রান্ত বৈকল্য"
 
 #. (itstool) path: section/title
 #: C/a11y.page:38
 msgid "Low Vision"
-msgstr ""
+msgstr "অনুচ্চ দৃষ্টি"
 
 #. (itstool) path: section/title
 #: C/a11y.page:43
 msgid "Hearing Impairments"
-msgstr ""
+msgstr "শ্রবণসংক্রান্ত বৈকল্য"
 
 #. (itstool) path: section/title
 #: C/a11y.page:48
 msgid "Mobility Impairments"
-msgstr ""
+msgstr "গতিসংক্রান্ত বৈকল্য"
 
 #. (itstool) path: section/title
 #: C/a11y.page:53
 msgid "See Also"
-msgstr ""
+msgstr "আরো দেখুন"
 
 #. (itstool) path: credit/name
 #: C/accounts-add.page:13 C/bluetooth-connect-device.page:16
@@ -846,7 +846,7 @@ msgstr ""
 #: C/printing-order.page:17 C/printing-setup-default-printer.page:12
 #: C/printing-setup.page:17 C/privacy-screen-lock.page:23
 msgid "Jim Campbell"
-msgstr ""
+msgstr "জিম ক্যাম্পবেল"
 
 #. (itstool) path: credit/name
 #: C/accounts-add.page:21 C/backup-why.page:11
@@ -868,48 +868,48 @@ msgstr ""
 #: C/shell-update-system.page:11 C/shell-windows-hide.page:11
 #: C/sound-troubleshoot.page:10
 msgid "Nuritzi Sanchez"
-msgstr ""
+msgstr "নুরিজ্জি সানচেজ"
 
 #. (itstool) path: info/desc
 #: C/accounts-add.page:26
 msgid ""
 "Connect an online account to make your experience on Endless even more "
 "seamless."
-msgstr ""
+msgstr "একটি অনলাইন একাউন্ট সংযুক্ত করে এন্ডলেসের সাথে আপনার অভিজ্ঞতা আরো নির্ঝঞ্ঝাট করুন।"
 
 #. (itstool) path: page/title
 #: C/accounts-add.page:29
 msgid "Add an online account"
-msgstr ""
+msgstr "একটি অনলাইন একাউন্ট সংযুক্ত করুন"
 
 #. (itstool) path: page/p
 #: C/accounts-add.page:31
 msgid ""
 "You can link some of your favorite online accounts, like your email, so that"
 " related applications will already be set up you when you open them."
-msgstr ""
+msgstr "আপনার কিছু প্রিয় অনলাইন একাউন্ট আপনি সংযুক্ত করতে পারেন, যেমন আপনার ইমেইল, যাতে আপনি চালু করার আগেই সংশ্লিষ্ট এ্যাপ্লিকেশনগুলো প্রতিষ্ঠাপিত হয়ে থাকবে।"
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:42
 msgid "Click on <gui>Online Accounts</gui>."
-msgstr ""
+msgstr "<gui>অনলাইন একাউন্ট</gui> চাপুন।"
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:46
 msgid "Click the <gui>Add an online account</gui> button."
-msgstr ""
+msgstr "<gui>অনলাইন একাউন্ট সংযোজন</gui> বোতামটি চাপুন।"
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:50
 msgid "Select the type of account you want to add first."
-msgstr ""
+msgstr "প্রথমে কী ধরণের একাউন্ট সংযুক্ত করতে চান নির্বাচন করুন।"
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:51
 msgid ""
 "If you want to add more than one account type, you can do so at a later "
 "time."
-msgstr ""
+msgstr "আপনি যদি একের অধিক ধরণের একাউন্ট সংযুক্ত করতে চান, তাহলে আপনি পরে এক সময় তা করতে পারেন।"
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:56
@@ -917,14 +917,14 @@ msgid ""
 "A small window will open where you can enter your online account "
 "credentials. For example, if you are setting up a Google account, enter your"
 " Google username and password."
-msgstr ""
+msgstr "আপনার অনলাইন একাউন্টের বিস্তারিত তথ্য লেখার জন্য একটি ছোট জানালা খুলে যাবে। উদাহরণস্বরূপ, আপনি যদি একটি গুগল একাউন্ট সংযুক্ত করতে চান, তাহলে আপনার গুগল ব্যবহারকারী নাম ও পাসওয়ার্ড প্রবেশ করাবেন।"
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:61
 msgid ""
 "If you have entered your credentials correctly, you will be prompted to "
 "allow Endless access to your online account. Authorize access to continue."
-msgstr ""
+msgstr "আপনি যদি আপনার বিস্তারিত তথ্য সঠিকভাবে প্রবেশ করিয়ে থাকেন, তবে আপনার অনলাইন একাউন্টে এন্ডলেসকে প্রবেশাধিকার দেবার অনুমতি দিতে বিজ্ঞপ্তি দেয়া হবে। এগিয়ে যাবার জন্য প্রবেশাধিকার অনুমোদন করুন।"
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:66
@@ -933,26 +933,26 @@ msgid ""
 "example, if you want to use an online account for email, but do not want to "
 "use an online account for your calendar, turn the <gui>Calendar</gui> option"
 " to <gui>Off</gui>."
-msgstr ""
+msgstr "আপনার অনলাইন একাউন্টের সাথে কোন কোন এ্যাপ্লিকেশন যুক্ত করতে চান তা নির্বাচন করুন। উদাহরণস্বরূপ, আপনি ইমেইলের জন্য একটি অনলাইন একাউন্ট ব্যবহার করতে চান, কিন্তু আপনার পঞ্জিকার জন্য কোন অনলাইন একাউন্ট ব্যবহার করতে চান না, সেক্ষেত্রে <gui>পঞ্জিকা</gui> বোতামটি <gui>বন্ধ</gui> করে দিন।"
 
 #. (itstool) path: page/p
 #: C/accounts-add.page:74
 msgid ""
 "After you have added the accounts, each application that you have selected "
 "will automatically use those credentials when you start them."
-msgstr ""
+msgstr "একাউন্টগুলো সংযুক্ত করার পর, আপনার নির্বাচিত প্রতিটি এ্যাপ্লিকেশন চালু হবার পর স্বয়ংক্রিয়ভাবে আপনার সরবরাহকৃত তথ্যগুলোই ব্যবহার করবে।"
 
 #. (itstool) path: note/p
 #: C/accounts-add.page:78
 msgid ""
 "For security reasons, Endless will not store your password on your computer."
 " Instead, it stores a token that is provided by the online service."
-msgstr ""
+msgstr "নিরাপত্তার কারণে, এন্ডলেস আপনার কম্পিউটারে আপনার পাসওয়ার্ড সংরক্ষণ করে রাখবে না। পরিবর্তে, অনলাইন পরিসেবার দ্বারা সরবরাহকৃত একটি চিহ্ন সংরক্ষণ করবে।"
 
 #. (itstool) path: info/desc
 #: C/backup-check.page:8
 msgid "Verify your backup was successful."
-msgstr ""
+msgstr "আপনার ব্যাকআপ সফল হয়েছে কিনা নিশ্চিত করুন।"
 
 #. (itstool) path: credit/name
 #: C/backup-check.page:12 C/backup-frequency.page:17 C/backup-how.page:16
@@ -970,12 +970,12 @@ msgstr ""
 #: C/user-changepicture.page:13 C/user-delete.page:17
 #: C/user-goodpassword.page:12
 msgid "GNOME Documentation Project"
-msgstr ""
+msgstr "GNOME নথিপত্র রচনা প্রজেক্ট"
 
 #. (itstool) path: page/title
 #: C/backup-check.page:18
 msgid "Check your backup"
-msgstr ""
+msgstr "আপনার ব্যাকআপ পরীক্ষা করুন"
 
 #. (itstool) path: page/p
 #: C/backup-check.page:20
@@ -1019,12 +1019,12 @@ msgstr ""
 #: C/nautilus-file-properties-permissions.page:13 C/screen-shot-record.page:13
 #: C/user-delete.page:13 C/user-goodpassword.page:20
 msgid "Tiffany Antopolski"
-msgstr ""
+msgstr "টিফানি আন্টোপোলস্কি"
 
 #. (itstool) path: page/title
 #: C/backup-frequency.page:23
 msgid "Frequency of backups"
-msgstr ""
+msgstr "ব্যাকআপের পুনরাবৃত্তির হার"
 
 #. (itstool) path: page/p
 #: C/backup-frequency.page:25
@@ -3244,104 +3244,104 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/files.page:16
 msgid "Using My Documents and the files on your computer."
-msgstr ""
+msgstr "আপনার কম্পিউটারে আমার নথিপত্র ও অন্যান্য ফাইল ব্যবহার করা।"
 
 #. (itstool) path: page/title
 #: C/files.page:20
 msgid "Documents &amp; Files"
-msgstr ""
+msgstr "নথিপত্র &amp; ফাইল"
 
 #. (itstool) path: section/title
 #: C/files.page:23
 msgid "Share your Files"
-msgstr ""
+msgstr "আপনার ফাইলগুলো ভাগ করে নিন"
 
 #. (itstool) path: section/title
 #: C/files.page:28
 msgid "Media"
-msgstr ""
+msgstr "গণমাধ্যম"
 
 #. (itstool) path: info/title
 #: C/hardware.page:10
 msgctxt "link:trail"
 msgid "Hardware"
-msgstr ""
+msgstr "হার্ডওয়্যার"
 
 #. (itstool) path: info/desc
 #: C/hardware.page:12
 msgid "Setup up your printers, display, mice and keyboards with Endless"
-msgstr ""
+msgstr "এন্ডলেসের সাথে আপনার প্রিন্টার, ডিসপ্লে, মাউস এবং কিবোর্ড সেটআপ করে নিন"
 
 #. (itstool) path: page/title
 #: C/hardware.page:16
 msgid "Printers, Displays &amp; Accessories"
-msgstr ""
+msgstr "প্রিন্টার, ডিসপ্লে &amp; সরঞ্জামাদি"
 
 #. (itstool) path: section/title
 #: C/hardware.page:19
 msgid "Displays"
-msgstr ""
+msgstr "ডিসপ্লে"
 
 #. (itstool) path: section/title
 #: C/hardware.page:24
 msgid "Sound"
-msgstr ""
+msgstr "আওয়াজ"
 
 #. (itstool) path: section/title
 #: C/hardware.page:29
 msgid "Printers"
-msgstr ""
+msgstr "প্রিন্টার"
 
 #. (itstool) path: section/title
 #: C/hardware.page:34
 msgid "Keyboard &amp; Mouse"
-msgstr ""
+msgstr "কিবোর্ড &amp; মাউস"
 
 #. (itstool) path: info/desc
 #: C/index.page:8
 msgid "A guide for Endless desktop users"
-msgstr ""
+msgstr "এন্ডলেসের ডেস্কটপ ব্যবহারকারীদের জন্য একটি সহায়িকা"
 
 #. (itstool) path: info/title
 #: C/index.page:10
 msgctxt "text"
 msgid "Endless Help"
-msgstr ""
+msgstr "এন্ডলেস সহায়তা"
 
 #. (itstool) path: page/title
 #: C/index.page:15
 msgid "Getting Started"
-msgstr ""
+msgstr "কীভাবে শুরু করবেন"
 
 #. (itstool) path: section/title
 #: C/index.page:20
 msgid "Videos"
-msgstr ""
+msgstr "ভিডিও"
 
 #. (itstool) path: td/p
 #: C/index.page:26
 msgid "<link xref=\"endless-videos\">More…</link>"
-msgstr ""
+msgstr "<link xref=\"endless-videos\">আরো…</link>"
 
 #. (itstool) path: td/p
 #: C/index.page:29
 msgid "<link xref=\"endless-01-desktop\">Introduction to the desktop</link>"
-msgstr ""
+msgstr "<link xref=\"endless-01-desktop\">ডেস্কটপের সাথে পরিচয়</link>"
 
 #. (itstool) path: td/p
 #: C/index.page:30
 msgid "<link xref=\"endless-02-folders\">Adding folders to the desktop</link>"
-msgstr ""
+msgstr "<link xref=\"endless-02-folders\">ডেস্কটপে ফোল্ডার সংযোজন</link>"
 
 #. (itstool) path: td/p
 #: C/index.page:31
 msgid "<link xref=\"endless-03-programs\">Installing programs</link>"
-msgstr ""
+msgstr "<link xref=\"endless-03-programs\">প্রোগ্রাম সংস্থাপন</link>"
 
 #. (itstool) path: section/title
 #: C/index.page:37
 msgid "<link href=\"endlessm-app://com.endlessm.Tutorial\">Tutorial</link>"
-msgstr ""
+msgstr "<link href=\"endlessm-app://com.endlessm.Tutorial\">নির্দেশিকা</link>"
 
 #. (itstool) path: info/desc
 #: C/keyboard-cursor-blink.page:11
@@ -3734,7 +3734,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:65
 msgid "Arrow keys"
-msgstr ""
+msgstr "তীর চিহ্নিত বোতাম"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:67
@@ -3754,7 +3754,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:75
 msgid "<keyseq><key>Ctrl</key>Arrow keys</keyseq>"
-msgstr ""
+msgstr "<keyseq><key>কন্ট্রোল</key>তীর চিহ্নিত বোতাম</keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:76
@@ -3766,7 +3766,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:80
 msgid "<keyseq><key>Shift</key>Arrow keys</keyseq>"
-msgstr ""
+msgstr "<keyseq><key>শিফট</key>তীর চিহ্নিত বোতাম</keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:81
@@ -3778,17 +3778,17 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:85
 msgid "<key>Space</key>"
-msgstr ""
+msgstr "<key>স্পেস</key>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:86
 msgid "Activate a focused item such as a button, check box, or list item."
-msgstr ""
+msgstr "একটি বোতাম, চেক বাক্স, বা বস্তুর তালিকার মতো কোন নির্দিষ্ট বস্তু সক্রিয় করুন।"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:89
 msgid "<keyseq><key>Ctrl</key><key>Space</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>কন্ট্রোল</key><key>স্পেস</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:90
@@ -3800,17 +3800,17 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:94
 msgid "<key>Esc</key>"
-msgstr ""
+msgstr "<key>এস্কেপ</key>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:95
 msgid "Exit a menu, popup, switcher, or dialog window."
-msgstr ""
+msgstr "একটি তালিকা, পপআপ, পরিবর্তনকারী, বা সংলাপ উইন্ডো বন্ধ করুন।"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:98
 msgid "<key>F10</key>"
-msgstr ""
+msgstr "<key>F10</key>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:99
@@ -5576,34 +5576,34 @@ msgctxt "_"
 msgid ""
 "external ref='figures/eos-icon-socialbar.png' "
 "md5='311852df3d93299e9346bbe809bb81c6'"
-msgstr ""
+msgstr "external ref='figures/eos-icon-socialbar.png' md5='311852df3d93299e9346bbe809bb81c6'"
 
 #. (itstool) path: info/desc
 #: C/net-social-bar.page:19
 msgid "Easily chat with your Facebook friends."
-msgstr ""
+msgstr "আপনার ফেসবুক বন্ধুদের সাথে সহজে আড্ডা দিন।"
 
 #. (itstool) path: page/title
 #: C/net-social-bar.page:22
 msgid "Chat on Facebook from your desktop"
-msgstr ""
+msgstr "আপনার ডেস্কটপ থেকেই ফেসবুকে আড্ডা দিন।"
 
 #. (itstool) path: page/p
 #: C/net-social-bar.page:24
 msgid ""
 "Now you can stay connected with your Facebook friends more easily than ever!"
 " You will need an internet connection to use this feature."
-msgstr ""
+msgstr "এখন আপনি আগের চাইতে আরো সহজে আপনার ফেসবুক বন্ধুদের সাথে যোগাযোগ রাখতে পারেন! এই বৈশিষ্ট্যটি ব্যবহার করতে আপনার ইন্টারনেট সংযোগ প্রয়োজন হবে।"
 
 #. (itstool) path: page/p
 #: C/net-social-bar.page:27
 msgid "First, you'll need to set up your Facebook account on Endless."
-msgstr ""
+msgstr "প্রথমে, আপনাকে এন্ডলেসের সাথে আপনার ফেসবুক একাউন্ট যুক্ত করতে হবে।"
 
 #. (itstool) path: steps/title
 #: C/net-social-bar.page:30
 msgid "If you already have a Facebook account:"
-msgstr ""
+msgstr "যদি আপনার ইতিমধ্যেই একটি ফেসবুক একাউন্ট থাকে:"
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:32
@@ -5611,12 +5611,12 @@ msgid ""
 "Click on <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-"
 "socialbar.png\"> the Facebook icon</media> on the very bottom right-hand "
 "side of your screen."
-msgstr ""
+msgstr "আপনার স্ক্রিনের একদম নিচে ডানদিকে <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-socialbar.png\">ফেসবুক চিত্র</media> চাপুন।"
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:38
 msgid "Enter in your email address and password, then click <gui>Login</gui>."
-msgstr ""
+msgstr "আপনার ইমেইল ঠিকানা ও পাসওয়ার্ড প্রবেশ করান, তারপর <gui>প্রবেশ</gui> চাপুন।"
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:42
@@ -5625,24 +5625,24 @@ msgid ""
 " close it if you are working on something else! Just click outside of the "
 "Facebook screen or on the Facebook icon to get back to your other open "
 "windows."
-msgstr ""
+msgstr "আপনার ডেস্কটপ থেকেই আপনি এখন ফেসবুক ব্যবহার শুরু করতে পারেন। অন্য কিছুতে কাজ করতে থাকলেও সেটাকে আপনার বন্ধ করার দরকার পড়বে না! আপনার খুলে রাখা অন্যান্য উইন্ডোতে ফিরে যাবার জন্য ফেসবুক স্ক্রিনের বাইরে বা ফেসবুক চিত্রটিতে চাপুন।"
 
 #. (itstool) path: steps/title
 #: C/net-social-bar.page:50
 msgid "If you do not have a Facebook account:"
-msgstr ""
+msgstr "আপনার যদি কোন ফেসবুক একাউন্ট না থাকে:"
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:52 C/net-social-bar.page:74
 msgid ""
 "Click on the Facebook icon that is on the very bottom right-hand side of "
 "your screen."
-msgstr ""
+msgstr "আপনার স্ক্রিনের একদম নিচে ডানদিকে ফেসবুক চিত্রটিতে চাপুন।"
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:56
 msgid "Click on <gui>Create New Account</gui>."
-msgstr ""
+msgstr "<gui>নতুন একাউন্ট তৈরি</gui> বোতাম চাপুন।"
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:59
@@ -5650,24 +5650,24 @@ msgid ""
 "Follow the steps that Facebook takes you through to complete their set up "
 "process. You will need an email address in order to create a Facebook "
 "account."
-msgstr ""
+msgstr "ফেসবুকের সেটআপ প্রক্রিয়া সম্পন্ন করার জন্য তাদের প্রদর্শিত সকল পদক্ষেপ অনুসরণ করুন। ফেসবুক একাউন্ট তৈরি করার জন্য আপনার একটি ইমেইল ঠিকানা দরকার পড়বে।"
 
 #. (itstool) path: note/p
 #: C/net-social-bar.page:66
 msgid ""
 "Remember to log out of Facebook if you share your computer with other users,"
 " otherwise they will be able to see and use your Facebook account!"
-msgstr ""
+msgstr "আপনি যদি আপনার কম্পিউটার অন্যান্য ব্যবহারকারীদের সাথে ভাগ করে ব্যবহার করেন তাহলে ফেসবুক থেকে লগআউট করতে মনে রাখবেন, নয়তো তারা আপনার ফেসবুক একাউন্ট দেখতে ও ব্যবহার করতে পারবে!"
 
 #. (itstool) path: steps/title
 #: C/net-social-bar.page:71
 msgid "Logging out of Facebook"
-msgstr ""
+msgstr "ফেসবুক থেকে লগআউট হচ্ছে"
 
 #. (itstool) path: steps/p
 #: C/net-social-bar.page:72
 msgid "To log out of your Facebook account:"
-msgstr ""
+msgstr "আপনার ফেসবুক একাউন্ট থেকে লগআউট করতে হলে:"
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:78
@@ -5675,36 +5675,36 @@ msgid ""
 "Click on the button with three white lines on the left-hand side of the "
 "Facebook window. This will show you the main menu, with your news feed, "
 "events, groups, and more."
-msgstr ""
+msgstr "ফেসবুক উইন্ডোর বামপাশে তিনটি সাদা লাইন সংবলিত বোতামটি চাপুন। এতে আপনি আপনার বার্তা ফিড, ঘটনাপ্রবাহ, গ্রুপ, এবং আরো অনেককিছুসহ মূল তালিকাটি দেখতে পাবেন।"
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:83
 msgid ""
 "Scroll all the way to the bottom of the menu and click on the <gui>Log "
 "Out</gui> button."
-msgstr ""
+msgstr "তালিকার একদম নিচে চলে যান এবং <gui>লগআউট</gui> বোতামে চাপুন।"
 
 #. (itstool) path: info/desc
 #: C/net-troubleshoot.page:17
 msgid "Identify and fix problems with your internet connections."
-msgstr ""
+msgstr "আপনার ইন্টারনেট সংযোগের সমস্যাগুলো চিহ্নিত করে সমাধান করুন।"
 
 #. (itstool) path: page/title
 #: C/net-troubleshoot.page:20
 msgid "Troubleshoot your internet problems"
-msgstr ""
+msgstr "আপনার ইন্টারনেটের সমস্যাগুলো সমাধান করুন।"
 
 #. (itstool) path: info/desc
 #: C/net-wired-connect.page:15
 msgid ""
 "To set up most wired network connections, all you need to do is plug in a "
 "network cable."
-msgstr ""
+msgstr "বেশিরভাগ ওয়্যার্ড নেটওয়ার্ক সংযোগসমূহ সেটআপ করতে গেলে, আপনার শুধুমাত্র নেটওয়ার্ক তারটি প্লাগইন করতে হবে।"
 
 #. (itstool) path: page/title
 #: C/net-wired-connect.page:19
 msgid "Connect to a wired (Ethernet) network"
-msgstr ""
+msgstr "একটি ওয়্যার্ড (ইথারনেট) নেটওয়ার্কের সাথে সংযোগ করুন"
 
 #. (itstool) path: page/p
 #: C/net-wired-connect.page:21
@@ -5745,12 +5745,12 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/net-wireless-adhoc.page:24
 msgid "Create a wireless hotspot and connect to other devices."
-msgstr ""
+msgstr "একটি বেতার হটস্পট তৈরি করুন এবং অন্যান্য যন্ত্রপাতির সাথে সংযোগ করুন।"
 
 #. (itstool) path: page/title
 #: C/net-wireless-adhoc.page:29
 msgid "Create a wireless hotspot"
-msgstr ""
+msgstr "একটি বেতার হটস্পট তৈরি করুন"
 
 #. (itstool) path: page/p
 #: C/net-wireless-adhoc.page:31
@@ -5759,24 +5759,24 @@ msgid ""
 "can use your computer as a wireless hotspot. This allows other devices to "
 "connect to you and allows you to share an internet connection or cellular "
 "network."
-msgstr ""
+msgstr "আপনার যদি একটি <link xref=\"net-wired-connect\">ওয়্যার্ড সংযোগ</link> থাকে, তাহলে আপনি আপনার কম্পিউটারকে একটি বেতার হটস্পট হিসেবে ব্যবহার করতে পারেন। এতে অন্যান্য যন্ত্রপাতি থেকে আপনার সাথে সংযুক্ত হওয়া যাবে এবং আপনি একটি ইন্টারনেট সংযোগ বা সেলুলার নেটওয়ার্ক ভাগ করতে পারবেন। "
 
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:46
 msgid ""
 "Click on the network status icon on the task bar at the bottom right-hand "
 "corner of your screen."
-msgstr ""
+msgstr "আপনার স্ক্রিনের নিচে ডানদিকে টাস্কবারে নেটওয়ার্ক অবস্থানের চিহ্নটি চাপুন।"
 
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:48
 msgid "Click <gui>Network Settings</gui>."
-msgstr ""
+msgstr "<gui>নেটওয়ার্ক সেটিংস</gui> চাপুন।"
 
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:49
 msgid "Click the <gui>Use as Hotspot...</gui> button."
-msgstr ""
+msgstr "<gui>হটস্পট হিসেবে ব্যবহার...</gui> বোতামটি চাপুন।"
 
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:50
@@ -5800,7 +5800,7 @@ msgstr ""
 msgid ""
 "It is not possible to connect to the internet via a wireless connection "
 "while the hotspot is active."
-msgstr ""
+msgstr "হটস্পট সক্রিয় থাকা অবস্থায় একটি বেতার সংযোগ দিয়ে ইন্টারনেটের সাথে সংযুক্ত হওয়া সম্ভব নয়।"
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -5812,7 +5812,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/network-offline-symbolic.svg' "
 "md5='2fc0a88bd36d65404c3ad064ad2117db'"
-msgstr ""
+msgstr "external ref='figures/network-offline-symbolic.svg' md5='2fc0a88bd36d65404c3ad064ad2117db'"
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -5824,7 +5824,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/network-wireless-acquiring-symbolic.svg' "
 "md5='281a8da467ccc370e3605b32803d7186'"
-msgstr ""
+msgstr "external ref='figures/network-wireless-acquiring-symbolic.svg' md5='281a8da467ccc370e3605b32803d7186'"
 
 #. (itstool) path: media
 #. This is a reference to an external file such as an image or video. When
@@ -5836,24 +5836,24 @@ msgctxt "_"
 msgid ""
 "external ref='figures/network-wireless-signal-excellent-symbolic.svg' "
 "md5='281e0475074b621ebad6f64e5efc56d2'"
-msgstr ""
+msgstr "external ref='figures/network-wireless-signal-excellent-symbolic.svg' md5='281e0475074b621ebad6f64e5efc56d2'"
 
 #. (itstool) path: info/desc
 #: C/net-wireless-connect.page:21
 msgid "Use a Wi-Fi connection to get on the internet."
-msgstr ""
+msgstr "ইন্টারনেটে সংযুক্ত হতে একটি ওয়াই-ফাই সংযোগ ব্যবহার করুন।"
 
 #. (itstool) path: page/title
 #: C/net-wireless-connect.page:25
 msgid "Connect to a wireless network"
-msgstr ""
+msgstr "একটি বেতার নেটওয়ার্কের সাথে সংযোগ করুন"
 
 #. (itstool) path: page/p
 #: C/net-wireless-connect.page:27
 msgid ""
 "You can connect to a wireless network to gain access to the internet, view "
 "shared files on the network, and so on."
-msgstr ""
+msgstr "ইন্টারনেটে প্রবেশাধিকার পাবার জন্য আপনি একটি বেতার নেটওয়ার্কের সাথে সংযোগ করুন, নেটওয়ার্কের ভাগাভাগি করা ফাইলগুলো দেখুন, এবং আরো অনেক কিছু।"
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:32
@@ -5861,19 +5861,19 @@ msgid ""
 "On the task bar on the bottom right-hand side of your screen, click the "
 "network icon <media type=\"image\" mime=\"image/svg\" src=\"figures/network-"
 "offline-symbolic.svg\"/>."
-msgstr ""
+msgstr "আপনার স্ক্রিনের নিচে ডানদিকে টাস্কবারে, নেটওয়ার্ক চিহ্ন <media type=\"image\" mime=\"image/svg\" src=\"figures/network-offline-symbolic.svg\"/> চাপুন।"
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:39
 msgid ""
 "Click <gui>Wi-Fi</gui> to turn it <gui>ON</gui>. It will become blue to "
 "indicate Wi-Fi is ON."
-msgstr ""
+msgstr "<gui>চালু</gui> করতে <gui>ওয়াই-ফাই</gui> চাপুন। ওয়াই-ফাই চালু হয়েছে সেটি নির্দেশ করতে তা নীল রঙের হয়ে যাবে।"
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:45
 msgid "Click the name of the network you want to connect to."
-msgstr ""
+msgstr "যে নেটওয়ার্কের সাথে সংযোগ করতে চান তার নামটি চাপুন।"
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:46
@@ -5971,7 +5971,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/net-wireless-disconnecting.page:36
 msgid "Weak wireless signal"
-msgstr ""
+msgstr "দুর্বল বেতার সংকেত"
 
 #. (itstool) path: section/p
 #: C/net-wireless-disconnecting.page:38
@@ -6301,47 +6301,47 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/net.page:11
 msgid "Connecting to your Wi-Fi and use your browser."
-msgstr ""
+msgstr "আপনার ওয়াই-ফাই -এর সাথে সংযোগ এবং ব্রাউজার ব্যবহার।"
 
 #. (itstool) path: page/title
 #: C/net.page:16
 msgid "Internet"
-msgstr ""
+msgstr "ইন্টারনেট"
 
 #. (itstool) path: section/title
 #: C/net.page:19
 msgid "Wi-Fi, Internet &amp; Bluetooth"
-msgstr ""
+msgstr "ওয়াই-ফাই, ইন্টারনেট &amp; ব্লুটুথ"
 
 #. (itstool) path: section/title
 #: C/net.page:24
 msgid "Browser &amp; Discovery Center"
-msgstr ""
+msgstr "ব্রাউজার &amp; আবিষ্কার কেন্দ্র"
 
 #. (itstool) path: section/title
 #: C/net.page:29
 msgid "Facebook &amp; Online Accounts"
-msgstr ""
+msgstr "ফেসবুক &amp; অনলাইন একাউন্ট"
 
 #. (itstool) path: info/desc
 #: C/printing-2sided.page:8
 msgid "Print on both sides of the paper, or multiple pages per sheet."
-msgstr ""
+msgstr "কাগজের উভয় পৃষ্ঠে, অথবা প্রতি পাতার জন্য একাধিক কাগজ প্রিন্ট করুন।"
 
 #. (itstool) path: page/title
 #: C/printing-2sided.page:23
 msgid "Print two-sided and multi-page layouts"
-msgstr ""
+msgstr "উভয়-পৃষ্ঠে এবং একাধিক-কাগজ লেআউটে প্রিন্ট করুন"
 
 #. (itstool) path: page/p
 #: C/printing-2sided.page:25
 msgid "To print on both sides of each sheet of paper:"
-msgstr ""
+msgstr "প্রতিটি কাগজের উভয় পৃষ্ঠে প্রিন্ট করুন:"
 
 #. (itstool) path: item/p
 #: C/printing-2sided.page:29 C/printing-order.page:32 C/printing-order.page:50
 msgid "Click <guiseq><gui>File</gui><gui>Print</gui></guiseq>."
-msgstr ""
+msgstr "<guiseq><gui>ফাইল</gui><gui>প্রিন্ট</gui></guiseq> চাপুন।"
 
 #. (itstool) path: item/p
 #: C/printing-2sided.page:32
@@ -6376,54 +6376,54 @@ msgstr ""
 #. (itstool) path: credit/name
 #: C/printing-cancel-job.page:21 C/printing-setup-default-printer.page:20
 msgid "Jana Svarova"
-msgstr ""
+msgstr "জানা স্ভারোভা"
 
 #. (itstool) path: info/desc
 #: C/printing-cancel-job.page:26
 msgid "Cancel a pending print job and remove it from the queue."
-msgstr ""
+msgstr "অপেক্ষারত একটি প্রিন্ট করার কাজ বাতিল করুন এবং সারি থেকে সরিয়ে দিন।"
 
 #. (itstool) path: page/title
 #: C/printing-cancel-job.page:29
 msgid "Cancel, pause or release a print job"
-msgstr ""
+msgstr "বাতিল করুন, বিরতি দিন বা একটি প্রিন্ট করার কাজ ছেড়ে দিন।"
 
 #. (itstool) path: page/p
 #: C/printing-cancel-job.page:31
 msgid ""
 "You can cancel a pending print job and remove it from the queue in the "
 "printer settings."
-msgstr ""
+msgstr "আপনি একটি অপেক্ষারত প্রিন্ট করার কাজ বাতিল করতে পারেন এবং প্রিন্টার সেটিংসে গিয়ে সারি থেকে সরিয়ে দিতে পারেন।"
 
 #. (itstool) path: section/title
 #: C/printing-cancel-job.page:35
 msgid "Cancel a print job"
-msgstr ""
+msgstr "একটি প্রিন্ট করার কাজ বাতিল করুন"
 
 #. (itstool) path: section/p
 #: C/printing-cancel-job.page:37
 msgid ""
 "If you accidentally started printing a document, you can cancel the print so"
 " that you do not need to waste any ink or paper."
-msgstr ""
+msgstr "আপনি যদি দুর্ঘটনাবশতঃ কোন নথিপত্র প্রিন্ট করা শুরু করে থাকেন, তাহলে আপনি প্রিন্ট করার কাজটি বাতিল করে দিতে পারেন যেন কোন কালি বা কাগজ নষ্ট করতে না হয়।"
 
 #. (itstool) path: steps/title
 #: C/printing-cancel-job.page:41
 msgid "How to cancel a print job:"
-msgstr ""
+msgstr "প্রিন্ট করার একটি কাজ কীভাবে বাতিল করবেন:"
 
 #. (itstool) path: item/p
 #: C/printing-cancel-job.page:49 C/printing-cancel-job.page:92
 #: C/printing-setup-default-printer.page:48 C/printing-setup.page:86
 msgid "Click <gui>Printers</gui>."
-msgstr ""
+msgstr "<gui>প্রিন্টার</gui> চাপুন।"
 
 #. (itstool) path: item/p
 #: C/printing-cancel-job.page:52
 msgid ""
 "Click the <gui>Show Jobs</gui> button on the right-hand side of the "
 "<gui>Printers</gui> dialog."
-msgstr ""
+msgstr "<gui>প্রিন্টার</gui> সংলাপের ডানপাশে <gui>কাজ প্রদর্শন</gui> বোতামটি চাপুন।"
 
 #. (itstool) path: item/p
 #: C/printing-cancel-job.page:56
@@ -8667,57 +8667,57 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-organize-apps.page:44
 msgid "Drag and drop the icons you want into your new folder."
-msgstr ""
+msgstr "আপনার ইচ্ছেমতো চিহ্নগুলো টেনে আপনার ফোল্ডারে যুক্ত করুন।"
 
 #. (itstool) path: info/desc
 #: C/shell-overview.page:6
 msgid "Using the desktop, search and managing windows."
-msgstr ""
+msgstr "ডেস্কটপ, অনুসন্ধান ব্যবহার এবং উইন্ডো ব্যবস্থাপনা।"
 
 #. (itstool) path: page/title
 #: C/shell-overview.page:18
 msgid "The Desktop"
-msgstr ""
+msgstr "ডেস্কটপ"
 
 #. (itstool) path: section/title
 #: C/shell-overview.page:21
 msgid "Apps"
-msgstr ""
+msgstr "এ্যাপসমূহ"
 
 #. (itstool) path: section/title
 #: C/shell-overview.page:26
 msgid "Searching on Endless"
-msgstr ""
+msgstr "এন্ডলেস অনুসন্ধান"
 
 #. (itstool) path: section/title
 #: C/shell-overview.page:31
 msgid "Window Management"
-msgstr ""
+msgstr "উইন্ডো ব্যবস্থাপনা"
 
 #. (itstool) path: section/title
 #: C/shell-overview.page:36
 msgid "Customize Endless"
-msgstr ""
+msgstr "এন্ডলেস সম্পাদনা"
 
 #. (itstool) path: section/title
 #: C/shell-overview.page:41
 msgid "Time and Date"
-msgstr ""
+msgstr "সময় ও তারিখ"
 
 #. (itstool) path: section/title
 #: C/shell-overview.page:46
 msgid "Restart, Shut Down &amp; Lock"
-msgstr ""
+msgstr "পুনঃচালু, বন্ধ &amp; তালা "
 
 #. (itstool) path: info/desc
 #: C/shell-update-app.page:19
 msgid "Learn how to install available updates for your apps."
-msgstr ""
+msgstr "শিখুন আপনার এ্যাপসমূহের জন্য সহজলভ্য হালনাগাদসমূহ কী করে সংস্থাপন করবেন।"
 
 #. (itstool) path: page/title
 #: C/shell-update-app.page:22
 msgid "Updating apps"
-msgstr ""
+msgstr "এ্যাপসমূহ হালনাগাদ"
 
 #. (itstool) path: page/p
 #: C/shell-update-app.page:24
@@ -8755,22 +8755,22 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/shell-update-app.page:52
 msgid "To update an app, you will need an internet connection."
-msgstr ""
+msgstr "একটি এ্যাপ হালনাগাদ করার জন্য, আপনার ইন্টারনেট সংযোগ প্রয়োজন হবে।"
 
 #. (itstool) path: note/p
 #: C/shell-update-app.page:55
 msgid "You can close the <app>App Center</app> while the app is updating."
-msgstr ""
+msgstr "এ্যাপ হালনাগাদ করার সময় আপনি <app>এ্যাপ কেন্দ্র</app> বন্ধ করে দিতে পারেন।"
 
 #. (itstool) path: info/desc
 #: C/shell-update-system.page:19
 msgid "Learn how to update your computer."
-msgstr ""
+msgstr "শিখুন আপনার কম্পিউটার কী করে হালনাগাদ করবেন।"
 
 #. (itstool) path: page/title
 #: C/shell-update-system.page:22
 msgid "Update Endless"
-msgstr ""
+msgstr "এন্ডলেস হালনাগাদ করুন"
 
 #. (itstool) path: page/p
 #: C/shell-update-system.page:24
@@ -8803,13 +8803,13 @@ msgstr "যদি আপনি একটি 3G সংযোগ ব্যবহ�
 #. (itstool) path: section/p
 #: C/shell-update-system.page:40
 msgid "Your computer will not download updates automatically."
-msgstr ""
+msgstr "আপনার কম্পিউটার স্বয়ংক্রিয়ভাবে হালনাগাদগুলো ডাউনলোড করবে না।"
 
 #. (itstool) path: section/p
 #: C/shell-update-system.page:42
 msgid ""
 "If you would like to check for updates, you will need to follow these steps:"
-msgstr ""
+msgstr "হালনাগাদ অনুসন্ধান করতে চাইলে, আপনাকে নিম্নোক্ত পদক্ষেপগুলো অনুসরণ করতে হবে:"
 
 #. (itstool) path: item/p
 #: C/shell-update-system.page:52
@@ -8821,7 +8821,7 @@ msgstr "<gui>বিস্তারিত</gui> চাপুন।"
 msgid ""
 "Click on the <gui>Search for updates now</gui> button. If there are updates,"
 " they will automatically start to download and install to your system."
-msgstr ""
+msgstr "<gui>এখন হালনাগাদ অনুসন্ধান করুন</gui> বোতামটি চাপুন। যদি কোন হালনাগাদ থাকে, তাহলে স্বয়ংক্রিয়ভাবে ডাউনলোড হবে এবং আপনার সিস্টেমে সংস্থাপিত হবে।"
 
 #. (itstool) path: note/p
 #: C/shell-update-system.page:64
@@ -8829,7 +8829,7 @@ msgid ""
 "Make sure you don't go over your data limit! You may want to wait until you "
 "can get a Wi-Fi or wired internet connection. You can also contact our "
 "customer support so they can help you find other options."
-msgstr ""
+msgstr "নিশ্চিত করুন আপনি যেন আপনার ইন্টারনেটের সীমার উপরে চলে না যান! কোন ওয়াই-ফাই বা ওয়্যার্ড ইন্টারনেট সংযোগ পাওয়া পর্যন্ত আপনি অপেক্ষা করতে পারেন। আপনি আমাদের গ্রাহক সহায়তাকারীদের সাথেও যোগাযোগ করতে পারেন যাতে তারা আপনাকে অন্য কোন উপায় খুঁজে পেতে সাহায্য করতে পারে।"
 
 #. (itstool) path: info/desc
 #: C/shell-windows-hide.page:19
@@ -8846,21 +8846,21 @@ msgstr "আপনার উইন্ডোসমূহ বন্ধ না ক�
 msgid ""
 "To hide a window click the <gui>Hide</gui> button on the right of the title "
 "bar."
-msgstr ""
+msgstr "একটি উইন্ডো লুকিয়ে রাখতে টাইটেল বারের ডানদিকে <gui>লুকান</gui> বোতামটি চাপুন।"
 
 #. (itstool) path: page/p
 #: C/shell-windows-hide.page:28
 msgid ""
 "Once the app is hidden, you can bring it back by clicking on its icon on the"
 " task bar."
-msgstr ""
+msgstr "এ্যাপটি লুকানোর পর, আপনি টাস্কবারে এটির চিহ্নের উপর চাপ দিয়ে আবার ফিরিয়ে আনতে পারেন।"
 
 #. (itstool) path: note/p
 #: C/shell-windows-hide.page:33
 msgid ""
 "If you want to hide several windows at the same time, you might want to use "
 "the <gui>hot corner</gui> to quickly navigate between the hidden apps."
-msgstr ""
+msgstr "আপনি যদি একই সময়ে একাধিক উইন্ডো লুকাতে চান, তাহলে লুকানো এ্যাপসমূহের মধ্য দিয়ে ঘুরতে গেলে আপনি হয়তো <gui>হট কর্ণার</gui> ব্যবহার করতে চাইতে পারেন।"
 
 #. (itstool) path: info/desc
 #: C/shell-windows-maximize.page:9
@@ -8928,7 +8928,7 @@ msgid ""
 "You can move and resize windows to help you work more efficiently. In "
 "addition to the dragging behavior you might expect, Endless features "
 "shortcuts and modifiers to help you arrange windows quickly."
-msgstr ""
+msgstr "আরো দক্ষতার সাথে কাজ করতে আপনি উইন্ডোসমূহকে সরাতে ও এদের আকৃতি পরিবর্তন করতে পারেন। উইন্ডোগুলোকে দ্রুত সাজিয়ে নিতে, আপনি যেমন আশা করেন সেভাবে কার্সর টেনে কাজ করার সাথে, এন্ডলেস আরো কিছু শর্টকাট ও সংশোধনী দেবে।"
 
 #. (itstool) path: item/p
 #: C/shell-windows-states.page:29
