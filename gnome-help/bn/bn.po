@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2016-09-05 21:55+0000\n"
+"PO-Revision-Date: 2016-09-07 11:07+0000\n"
 "Last-Translator: Shimon Sharmin <oparthib@gmail.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -194,7 +194,7 @@ msgid ""
 "screen and selecting <gui>Bounce Keys</gui>. The accessibility icon is "
 "visible when one or more settings have been enabled from the <gui>Universal "
 "Access</gui> panel."
-msgstr ""
+msgstr "আপনার স্ক্রিনের নিচে টাস্কবারে <link xref=\"a11y-icon\">অভিগম্যতা চিহ্ন</link> চেপে এবং <gui>বাউন্স বোতাম</gui> নির্বাচন করে আপনি বাউন্স বোতামগুলো চালু ও বন্ধ করতে পারেন। <gui>সার্বজনীন প্রবেশাধিকার</gui> থেকে এক বা একাধিক সেটিংস সক্রিয় করা হলে অভিগম্যতা চিহ্নটি দৃশ্যমান হবে।"
 
 #. (itstool) path: page/p
 #: C/a11y-bouncekeys.page:70
@@ -215,7 +215,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/a11y-braille.page:22
 msgid "Read screen in Braille"
-msgstr ""
+msgstr "ব্রেইলে স্ক্রিন পড়ুন"
 
 #. (itstool) path: page/p
 #: C/a11y-braille.page:24

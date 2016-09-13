@@ -3,7 +3,7 @@
 # chenzibing <chenzibing_endless@126.com>, 2016
 # Marco Mai <marco@endlessm.com>, 2016
 # tanyuanxing <tanyuanxingendless@126.com>, 2016
-# Wylmer Wang <wantinghard@gmail.com>, 2013
+# Wylmer Wang, 2013
 # zhifeng peng <jnufeng@126.com>, 2016
 # zhoushumin <zhoushumin_endless@126.com>, 2016
 msgid ""
