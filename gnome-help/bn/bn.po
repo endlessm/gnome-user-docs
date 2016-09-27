@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2016-09-07 11:07+0000\n"
+"PO-Revision-Date: 2016-09-24 13:39+0000\n"
 "Last-Translator: Shimon Sharmin <oparthib@gmail.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -8279,7 +8279,7 @@ msgstr ""
 msgid ""
 "<keyseq><key>Alt</key><key>F1</key></keyseq> or the <key xref=\"keyboard-"
 "key-super\">Super</key> key"
-msgstr ""
+msgstr "<keyseq><key>অল্টার</key><key>F1</key></keyseq> অথবা <key xref=\"keyboard-key-super\">সুপার</key> বোতাম"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:40
