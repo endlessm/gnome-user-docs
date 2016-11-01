@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2016-09-24 13:39+0000\n"
+"PO-Revision-Date: 2016-10-28 11:42+0000\n"
 "Last-Translator: Shimon Sharmin <oparthib@gmail.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -231,12 +231,12 @@ msgstr ""
 msgid ""
 "Make windows and buttons on the screen more (or less) vivid, so they're "
 "easier to see."
-msgstr ""
+msgstr "স্ক্রিনের উইন্ডো ও বোতামগুলোকে আরো বেশি (অথবা কম) উজ্জ্বল করুন, যেন তাদের দেখা সহজতর হয়।"
 
 #. (itstool) path: page/title
 #: C/a11y-contrast.page:32
 msgid "Adjust the contrast"
-msgstr ""
+msgstr "কনট্রাস্ট ঠিক করুন"
 
 #. (itstool) path: page/p
 #: C/a11y-contrast.page:34
@@ -244,17 +244,17 @@ msgid ""
 "You can adjust the contrast of windows and buttons so that they're easier to"
 " see. This is not the same as changing the brightness of the whole screen "
 "since only parts of the <gui>user interface</gui> will change."
-msgstr ""
+msgstr "আপনি উইন্ডোজ ও বোতামগুলোর কনট্রাস্ট ঠিক করে নিতে পারেন যেন তাদের দেখা সহজতর হয়। পুরো স্ক্রিনের উজ্জ্বলতা পরিবর্তনের সাথে এর পার্থক্য আছে কারণ এখানে শুধুমাত্র <gui>ব্যবহারকারী ইন্টারফেস</gui> -এর কিছু অংশ পরিবর্তিত হবে। "
 
 #. (itstool) path: steps/title
 #: C/a11y-contrast.page:41
 msgid "To adjust the contrast of your window:"
-msgstr ""
+msgstr "আপনার উইন্ডোর কনট্রাস্ট ঠিক করে নিতে:"
 
 #. (itstool) path: item/p
 #: C/a11y-contrast.page:53
 msgid "Switch <gui>High Contrast</gui> to <gui>ON</gui>."
-msgstr ""
+msgstr "<gui>উচ্চ কনট্রাস্ট</gui> থেকে পরিবর্তন করে <gui>চালু</gui> করুন।"
 
 #. (itstool) path: info/desc
 #: C/a11y-dwellclick.page:31
@@ -340,26 +340,26 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/a11y-font-size.page:27
 msgid "Use larger fonts to make text easier to read."
-msgstr ""
+msgstr "পড়া সহজতর করতে বড় আকারের ফন্ট ব্যবহার করুন।"
 
 #. (itstool) path: page/title
 #: C/a11y-font-size.page:30
 msgid "Change text size on the screen"
-msgstr ""
+msgstr "স্ক্রিনে লেখার আকার পরিবর্তন করুন"
 
 #. (itstool) path: page/p
 #: C/a11y-font-size.page:32
 msgid ""
 "If you have difficulty reading the text on your screen, you can change the "
 "size of the font."
-msgstr ""
+msgstr "আপনার স্ক্রিনের লেখা পড়তে যদি সমস্যা বোধ করেন, তাহলে আপনি ফন্টের আকার পরিবর্তন করে নিতে পারেন।"
 
 #. (itstool) path: item/p
 #: C/a11y-font-size.page:47
 msgid ""
 "Switch <gui>Large Text</gui> to <gui>On</gui> in the <gui>Seeing</gui> "
 "section."
-msgstr ""
+msgstr "<gui>প্রদর্শন</gui> সেকশনে <gui>বৃহদাকার লেখা</gui> থেকে পরিবর্তন করে <gui>চালু</gui> করুন।"
 
 #. (itstool) path: page/p
 #: C/a11y-font-size.page:52
@@ -367,7 +367,7 @@ msgid ""
 "Alternatively, you can quickly change the text size by clicking the <link "
 "xref=\"a11y-icon\">accessibility icon</link> on the task bar and selecting "
 "<gui>Large Text</gui>."
-msgstr ""
+msgstr "বিকল্প ব্যবস্থায়, আপনি টাস্কবারে <link xref=\"a11y-icon\">প্রবেশযোগ্যতা চিত্র</link> চাপ দিয়ে ও <gui>বৃহদাকার লেখা</gui> নির্বাচন করে দ্রুতগতিতে লেখার আকার পরিবর্তন করে নিতে পারেন।"
 
 #. (itstool) path: note/p
 #: C/a11y-font-size.page:57
@@ -375,19 +375,19 @@ msgid ""
 "In many applications, you can increase the text size at any time by pressing"
 " <keyseq><key>Ctrl</key><key>+</key></keyseq>. To reduce the text size, "
 "press <keyseq><key>Ctrl</key><key>-</key></keyseq>."
-msgstr ""
+msgstr "অনেক এ্যাপ্লিকেশনে, আপনি <keyseq><key>কন্ট্রোল</key><key>+</key></keyseq> চাপ দিয়ে যে কোন সময় লেখার আকার বড় করে নিতে পারেন। লেখার আকার ছোট করতে হলে, <keyseq><key>কন্ট্রোল</key><key>-</key></keyseq> চাপুন।"
 
 #. (itstool) path: info/desc
 #: C/a11y-icon.page:18
 msgid ""
 "The universal access menu is the icon on the bottom bar that looks like a "
 "person."
-msgstr ""
+msgstr "সার্বজনীন প্রবেশ তালিকাটি নিচের বারে অবস্থিত একটি চিত্র যা দেখতে মানুষের মতো।"
 
 #. (itstool) path: page/title
 #: C/a11y-icon.page:22
 msgid "Find the universal access menu"
-msgstr ""
+msgstr "সার্বজনীন প্রবেশ তালিকা খুঁজে বের করুন"
 
 #. (itstool) path: page/p
 #: C/a11y-icon.page:24
