@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2016-10-28 11:42+0000\n"
+"PO-Revision-Date: 2016-11-02 17:30+0000\n"
 "Last-Translator: Shimon Sharmin <oparthib@gmail.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -395,29 +395,29 @@ msgid ""
 "The <em>universal access menu</em> is where you can turn on some of the "
 "accessibility settings. You can find this menu by clicking the icon which "
 "looks like a person surrounded by a circle on the bottom bar."
-msgstr ""
+msgstr "<em>সার্বজনীন প্রবেশ তালিকা</em> থেকে আপনি কিছু অভিগম্যতা সেটিংস চালু করতে পারবেন। নিচের বারে অবস্থিত মানুষের মতো চিত্র যার চারপাশে বৃত্ত আঁকা আছে, তাতে চাপ দেবার মাধ্যমে আপনি এই তালিকা খুঁজে পেতে পারেন।"
 
 #. (itstool) path: figure/desc
 #: C/a11y-icon.page:29
 msgid "The universal access menu can be found on the bottom bar."
-msgstr ""
+msgstr "নিচের বারে সার্বজনীন প্রবেশ তালিকা খুঁজে পাওয়া যাবে।"
 
 #. (itstool) path: page/p
 #: C/a11y-icon.page:33
 msgid ""
 "If you do not see the universal access menu, you can enable it from the "
 "<gui>Universal Access</gui> settings panel:"
-msgstr ""
+msgstr "আপনি যদি সার্বজনীন প্রবেশ তালিকা খুঁজে না পান, তাহলে <gui>সার্বজনীন প্রবেশ</gui> সেটিংস সূচী থেকে আপনি এটি সক্রিয় করে নিতে পারেন:"
 
 #. (itstool) path: item/p
 #: C/a11y-icon.page:44
 msgid "Click <gui>Universal Access</gui>."
-msgstr ""
+msgstr "<gui>সার্বজনীন প্রবেশ</gui> চাপুন।"
 
 #. (itstool) path: item/p
 #: C/a11y-icon.page:47
 msgid "Switch <gui>Always Show Universal Access Menu</gui> to <gui>On</gui>."
-msgstr ""
+msgstr "<gui>সার্বজনীন প্রবেশ তালিকা সর্বদা প্রদর্শন</gui> পরিবর্তন করে <gui>চালু</gui> করুন।"
 
 #. (itstool) path: info/desc
 #: C/a11y-mag.page:27
@@ -427,7 +427,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/a11y-mag.page:30
 msgid "Magnify a screen area"
-msgstr ""
+msgstr "স্ক্রিনের একটি অংশ বিবর্ধিত করুন"
 
 #. (itstool) path: page/p
 #: C/a11y-mag.page:32
