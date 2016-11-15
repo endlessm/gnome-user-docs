@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2016-11-02 17:30+0000\n"
+"PO-Revision-Date: 2016-11-12 19:58+0000\n"
 "Last-Translator: Shimon Sharmin <oparthib@gmail.com>\n"
 "Language-Team: Bengali (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/bn/)\n"
 "MIME-Version: 1.0\n"
@@ -359,7 +359,7 @@ msgstr "আপনার স্ক্রিনের লেখা পড়তে �
 msgid ""
 "Switch <gui>Large Text</gui> to <gui>On</gui> in the <gui>Seeing</gui> "
 "section."
-msgstr "<gui>প্রদর্শন</gui> সেকশনে <gui>বৃহদাকার লেখা</gui> থেকে পরিবর্তন করে <gui>চালু</gui> করুন।"
+msgstr "<gui>প্রদর্শন</gui> অংশে <gui>বৃহদাকার লেখা</gui> থেকে পরিবর্তন করে <gui>চালু</gui> করুন।"
 
 #. (itstool) path: page/p
 #: C/a11y-font-size.page:52
@@ -367,7 +367,7 @@ msgid ""
 "Alternatively, you can quickly change the text size by clicking the <link "
 "xref=\"a11y-icon\">accessibility icon</link> on the task bar and selecting "
 "<gui>Large Text</gui>."
-msgstr "বিকল্প ব্যবস্থায়, আপনি টাস্কবারে <link xref=\"a11y-icon\">প্রবেশযোগ্যতা চিত্র</link> চাপ দিয়ে ও <gui>বৃহদাকার লেখা</gui> নির্বাচন করে দ্রুতগতিতে লেখার আকার পরিবর্তন করে নিতে পারেন।"
+msgstr "বিকল্প ব্যবস্থায়, আপনি টাস্কবারে <link xref=\"a11y-icon\">অভিগম্যতা চিত্র</link> চাপ দিয়ে ও <gui>বৃহদাকার লেখা</gui> নির্বাচন করে দ্রুতগতিতে লেখার আকার পরিবর্তন করে নিতে পারেন।"
 
 #. (itstool) path: note/p
 #: C/a11y-font-size.page:57
@@ -422,7 +422,7 @@ msgstr "<gui>সার্বজনীন প্রবেশ তালিকা �
 #. (itstool) path: info/desc
 #: C/a11y-mag.page:27
 msgid "Zoom in on your screen so that it is easier to see things."
-msgstr ""
+msgstr "আপনার স্ক্রিনে জুম করুন যেন সব বিষয়বস্তু দেখা সহজ হয়।"
 
 #. (itstool) path: page/title
 #: C/a11y-mag.page:30
@@ -436,17 +436,17 @@ msgid ""
 "=\"a11y-font-size\">text size</link>. This feature is like having a "
 "magnifying glass, allowing you to move around by zooming in on parts of the "
 "screen."
-msgstr ""
+msgstr "<link xref=\"a11y-font-size\">লেখার আকৃতি</link> বর্ধিত করা আর স্ক্রিন বিবর্ধিত করা আলাদা বিষয়। এই উপাদান অনেকটা আতশী কাচ থাকবার মতো, স্ক্রিনের বিভিন্ন অংশে ঘুরে ঘুরে কাছ থেকে দেখতে সমর্থ হওয়া যায়।"
 
 #. (itstool) path: item/p
 #: C/a11y-mag.page:49
 msgid "Press on <gui>Zoom</gui> in the <gui>Seeing</gui> section."
-msgstr ""
+msgstr "<gui>প্রদর্শন</gui> অংশে <gui>জুম</gui> চাপুন।"
 
 #. (itstool) path: item/p
 #: C/a11y-mag.page:52
 msgid "Switch <gui>Zoom</gui> to <gui>On</gui>."
-msgstr ""
+msgstr "<gui>জুম</gui> পরিবর্তন করে <gui>চালু</gui> করুন।"
 
 #. (itstool) path: page/p
 #: C/a11y-mag.page:62
@@ -454,7 +454,7 @@ msgid ""
 "You can now move around the screen area. By moving your mouse to the edges "
 "of the screen, you will move the magnified area in different directions, "
 "allowing you to view your area of choice."
-msgstr ""
+msgstr "আপনি এখন স্ক্রিনের বিভিন্ন স্থানে ঘুরে বেড়াতে পারেন। স্ক্রিনের কিনারে আপনার মাউস ঘোরানোর মাধ্যমে আপনি বিবর্ধিত স্থানটিকে বিভিন্ন দিকে নাড়াতে পারবেন, যাতে করে আপনি আপনার পছন্দমতো স্থানটি ভালভাবে দেখতে পাবেন।"
 
 #. (itstool) path: note/p
 #: C/a11y-mag.page:67
@@ -462,7 +462,7 @@ msgid ""
 "You can quickly turn zoom on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting "
 "<gui>Zoom</gui>."
-msgstr ""
+msgstr "টাস্ক বারে <link xref=\"a11y-icon\">অভিগম্যতা চিত্র</link> চাপ দিয়ে <gui>জুম</gui> নির্বাচন করে আপনি দ্রুত জুম চালু এবং বন্ধ করতে পারেন।"
 
 #. (itstool) path: page/p
 #: C/a11y-mag.page:72
@@ -470,7 +470,7 @@ msgid ""
 "You can change the magnification factor, the mouse tracking, and the "
 "position of the magnified view on the screen. Adjust these in the "
 "<gui>Magnifier</gui> tab of the <gui>Zoom</gui> settings window."
-msgstr ""
+msgstr "আপনি স্ক্রিনে বিবর্ধন উপাদান, মাউসের গতিবিধি এবং বিবর্ধিত দর্শনের অবস্থান বদলাতে পারেন। <gui>জুম</gui> সেটিংসের উইন্ডোতে  <gui>বিবর্ধক</gui> ট্যাবে এসব ঠিকঠাক করে নিন।"
 
 #. (itstool) path: page/p
 #: C/a11y-mag.page:76
@@ -479,7 +479,7 @@ msgid ""
 "To switch them on and adjust their length, color, and thickness, go to "
 "<gui>Crosshairs</gui> in the <gui>Crosshairs</gui> tab of the "
 "<gui>Zoom</gui> settings window."
-msgstr ""
+msgstr "মাউস অথবা টাচপ্যাডের সূচক খুঁজে পেতে আপনি ক্রসহেয়ার সক্রিয় করে নিতে পারেন। এদের চালু করতে এবং দৈর্ঘ্য, রঙ এবং ঘনত্ব ঠিক করতে, <gui>জুম</gui> সেটিংস উইন্ডোতে <gui>ক্রসহেয়ার</gui> ট্যাবের <gui>ক্রসহেয়ার</gui> দেখুন।"
 
 #. (itstool) path: page/p
 #: C/a11y-mag.page:81
@@ -498,17 +498,17 @@ msgstr ""
 #: C/screen-shot-record.page:20 C/shell-keyboard-shortcuts.page:15
 #: C/shell-windows-states.page:16
 msgid "2012"
-msgstr ""
+msgstr "2012"
 
 #. (itstool) path: info/desc
 #: C/a11y-right-click.page:32
 msgid "Press and hold the left mouse button to right-click."
-msgstr ""
+msgstr "ডান দিকে চাপ দেবার জন্য মাউসের বাম পাশের বোতামটি চাপ দিয়ে ধরে রাখুন।"
 
 #. (itstool) path: page/title
 #: C/a11y-right-click.page:35
 msgid "Simulate a right mouse click"
-msgstr ""
+msgstr "মাউসের ডান দিকে চাপ দেবার প্রতিরূপ"
 
 #. (itstool) path: page/p
 #: C/a11y-right-click.page:37
@@ -565,12 +565,12 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/a11y-screen-reader.page:15
 msgid "Use the <app>Orca</app> screen reader to speak the user interface."
-msgstr ""
+msgstr "ব্যবহারকারী ইন্টারফেসে কথা বলতে <app>ওরকা</app> স্ক্রিন রিডার ব্যবহার করুন।"
 
 #. (itstool) path: page/title
 #: C/a11y-screen-reader.page:19
 msgid "Read screen aloud"
-msgstr ""
+msgstr "স্ক্রিন উচ্চস্বরে পড়ুন"
 
 #. (itstool) path: page/p
 #: C/a11y-screen-reader.page:21
