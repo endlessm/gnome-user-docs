@@ -8,12 +8,13 @@
 # Philip Chimento <philip.chimento@gmail.com>, 2015
 # Renato Peixoto Pinto <renato@endlessm.com>, 2015
 # Roddy Shuler <roddy@endlessm.com>, 2016
+# rodolforg <rodolforg@gmail.com>, 2011-2012
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2016-08-31 21:39+0000\n"
-"Last-Translator: Philip Chimento <philip.chimento@gmail.com>\n"
+"PO-Revision-Date: 2016-12-14 06:48+0000\n"
+"Last-Translator: Vicki Niu <vicki@endlessm.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,17 +25,17 @@ msgstr ""
 #. (itstool) path: p/link
 #: C/legal.xml:3
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
-msgstr "Licença Creative Commons Atribuição-Compartilhada Igual 3.0 Não Adaptada"
+msgstr "Creative Commons Atribuição-Compartilhada Igual 3.0 Não Adaptada"
 
 #. (itstool) path: license/p
 #: C/legal.xml:3
 msgid "This work is licensed under a <_:link-1/>."
-msgstr "Este trabalho está licenciado sob uma <_:link-1/>."
+msgstr "Este trabalho está licenciado sob uma licença <_:link-1/>."
 
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Rodolfo Ribeiro Gomes <rodolforg@gmail.com>, 2011, 2012.\nRafael Ferreira <rafael.f.f1@gmail.com>, 2012, 2013, 2014.\nEnrico Nicoletto <liverig@gmail.com>, 2013.\nJoão Santana <joaosantana@outlook.com>, 2013."
+msgstr "Rodolfo Ribeiro Gomes <rodolforg@gmail.com>, 2011, 2012.\nEnrico Nicoletto <liverig@gmail.com>, 2013.\nJoão Santana <joaosantana@outlook.com>, 2013.\nRafael Fontenelle <rafaelff@gnome.org>, 2012-2016."
 
 #. (itstool) path: credit/name
 #: C/a11y-bouncekeys.page:15 C/a11y-braille.page:14 C/a11y-contrast.page:16
@@ -127,12 +128,12 @@ msgstr "Ekaterina Gerasimova"
 #. (itstool) path: info/desc
 #: C/a11y-bouncekeys.page:31
 msgid "Ignore quickly-repeated key presses of the same key."
-msgstr "Ignore quando a mesma tecla for pressionada rápida e repetidamente."
+msgstr "Ignore uma mesma tecla pressionada repetidamente rapidamente."
 
 #. (itstool) path: page/title
 #: C/a11y-bouncekeys.page:34
 msgid "Turn on bounce keys"
-msgstr "Ative as teclas de repercussão"
+msgstr "Ativando teclas de repercussão"
 
 #. (itstool) path: page/p
 #: C/a11y-bouncekeys.page:36
@@ -191,7 +192,7 @@ msgstr "Alterne <gui>teclas de repercussão </gui> para <gui>On</gui>."
 #. (itstool) path: note/title
 #: C/a11y-bouncekeys.page:62
 msgid "Quickly turn bounce keys on and off"
-msgstr "Rapidamente ligue e desligue as teclas de repercussão"
+msgstr "Ative e desative rapidamente as teclas de repercussão"
 
 #. (itstool) path: note/p
 #: C/a11y-bouncekeys.page:63
@@ -211,7 +212,7 @@ msgid ""
 "the first time. Select <gui>Beep when a key is rejected</gui> if you want "
 "the computer to make a sound each time it ignores a key press because it "
 "happened too soon after the previous key press."
-msgstr "Use a barra deslizante de <gui>Atraso de aceitação</gui> para alterar quanto tempo as teclas de repercussão esperam até registrar outra tecla pressionada, depois que você pressionou a tecla pela primeira vez. Selecione <gui>Soar um bip quando a tecla for rejeitada</gui> se você deseja que o computador faça um som a cada vez que ele ignorar uma tecla pressionada quando ela tiver sido pressionada muito rapidamente em seguida a outra tecla."
+msgstr "Use a barra deslizante de <gui>Atraso de aceitação</gui> para alterar quanto tempo as teclas de repercussão esperam até registrar outra tecla pressionada, depois que você pressionou a tecla pela primeira vez. Selecione <gui>Soar um bip quando a tecla for rejeitada</gui> se você deseja que o computador faça um som a cada vez que ele ignorar uma tecla pressionada por ter acontecido muito cedo, depois da tecla pressionada anteriormente."
 
 #. (itstool) path: info/desc
 #: C/a11y-braille.page:18
@@ -222,7 +223,7 @@ msgstr "Use o leitor de tela <app>Orca</app> com terminais atualizáveis de Brai
 #. (itstool) path: page/title
 #: C/a11y-braille.page:22
 msgid "Read screen in Braille"
-msgstr "Ler tela em Braile"
+msgstr "Lendo a tela em Braille"
 
 #. (itstool) path: page/p
 #: C/a11y-braille.page:24
@@ -238,7 +239,7 @@ msgstr "Endless possui um leitor de tela <app>Orca</app> para exibir a interface
 msgid ""
 "Make windows and buttons on the screen more (or less) vivid, so they're "
 "easier to see."
-msgstr "Torne as janelas e os botões na tela mais (ou menos) vívidos, para que sejam mais fáceis de ver."
+msgstr "Torne as janelas e os botões na tela mais (ou menos) vívido, para que sejam mais fáceis de ver."
 
 #. (itstool) path: page/title
 #: C/a11y-contrast.page:32
@@ -268,12 +269,12 @@ msgstr "Altere o <gui> Alto Contraste </gui> para <gui>ON</gui>"
 msgid ""
 "The <gui>Hover Click</gui> (Dwell Click) feature allows you to click by "
 "holding the mouse still."
-msgstr " O recurso de <gui>Clique flutuante</gui> (Clique de permanência) permite que você clique ao manter o mouse parado."
+msgstr "O recurso de <gui>Clique flutuante</gui> (Clique de permanência) permite que você clique ao manter o mouse parado."
 
 #. (itstool) path: page/title
 #: C/a11y-dwellclick.page:35
 msgid "Simulate clicking by hovering"
-msgstr "Simulando cliques por flutuação "
+msgstr "Simulando cliques por flutuação"
 
 #. (itstool) path: page/p
 #: C/a11y-dwellclick.page:37
@@ -290,7 +291,7 @@ msgid ""
 "When <gui>Hover Click</gui> is enabled, you can move your mouse pointer over"
 " a control, let go of the mouse, and then wait for a while before the button"
 " will be clicked for you."
-msgstr "Quando o <gui>Clique flutuante</gui> está habilitado, você pode mover o ponteiro do seu mouse sobre um controle, soltar o mouse e, então, esperar um momento até o botão ser clicado para você."
+msgstr "Quando o <gui>Clique flutuante</gui> está habilitado, você pode mover o ponteiro do seu mouse sobre um controle, soltar o mouse e, então, esperar um momento até que o botão ser clicado por você."
 
 #. (itstool) path: item/p
 #: C/a11y-dwellclick.page:58
@@ -312,7 +313,7 @@ msgid ""
 "when you hover. For example, if you select <gui>Secondary Click</gui>, you "
 "will right-click when you hover. After you double-click, right-click, or "
 "drag, you will be automatically returned to clicking."
-msgstr "A janela do <gui>Clique flutuante</gui> abrirá e ficará acima de todas as outras janelas. Você pode usá-la para escolher que tipo de clique você quer que aconteça quando você flutuar. Por exemplo, se você selecionar <gui>Clique secundário</gui>, você obterá o clique do botão direito ao flutuar. Depois de clicar duas vezes, clicar com o botão da direita ou arrastar, você retornará automaticamente para os cliques."
+msgstr "A janela do <gui>Clique flutuante</gui> abrirá e ficará acima de todas outras janelas. Você pode usar ela para escolher qual tipo de clique deveria acontecer quando você flutuar. Por exemplo, se você selecionar <gui>Clique secundário</gui>, você fará o clique com botão direito quando flutuar. Depois você fizer clique duplo, clique com botão da direita ou arrastar, você retornará automaticamente para cliques."
 
 #. (itstool) path: page/p
 #: C/a11y-dwellclick.page:72
@@ -327,7 +328,7 @@ msgstr "Quando você flutuar o ponteiro do seu mouse sobre um botão, e não mov
 msgid ""
 "Adjust the <gui>Delay</gui> setting to change how long you have to hold the "
 "mouse pointer still before clicking."
-msgstr "Ajuste a configuração de <gui>Intervalo</gui> para alterar por quanto tempo você tem que manter parado o ponteiro do mouse até que o clique seja realizado."
+msgstr "Ajuste a configuração do <gui>Intervalo</gui> para alterar por quanto tempo você tem que manter parado o ponteiro do mouse até que o clique seja realizado."
 
 #. (itstool) path: page/p
 #: C/a11y-dwellclick.page:79
@@ -335,7 +336,7 @@ msgid ""
 "You do not need to hold the mouse perfectly still when hovering to click. "
 "The pointer is allowed to move a little bit and will still click after a "
 "while. If it moves too much, however, the click will not happen."
-msgstr "Você não precisa manter o mouse completamente imóvel quando estiver flutuando para clicar. O ponteiro pode mover um pouco e mesmo assim clicar após um tempo. Porém, se mover demais, o clique não será realizado."
+msgstr "Você não precisa segurar o mouse perfeitamente parado, quando estiver flutuando para clicar. O ponteiro pode mover um pouco e mesmo assim clicar após um tempo. Porém, se mover demais, o clique não será realizado."
 
 #. (itstool) path: page/p
 #: C/a11y-dwellclick.page:83
@@ -347,19 +348,19 @@ msgstr "Ajuste o <gui>Limiar de movimento</gui>, definindo-o para alterar o quan
 #. (itstool) path: info/desc
 #: C/a11y-font-size.page:27
 msgid "Use larger fonts to make text easier to read."
-msgstr "Use letras maiores para facilitar a leitura."
+msgstr "Use fontes maiores para tornar o texto mais fácil de ler."
 
 #. (itstool) path: page/title
 #: C/a11y-font-size.page:30
 msgid "Change text size on the screen"
-msgstr "Altere o tamanho do texto na tela"
+msgstr "Alterando o tamanho do texto na tela"
 
 #. (itstool) path: page/p
 #: C/a11y-font-size.page:32
 msgid ""
 "If you have difficulty reading the text on your screen, you can change the "
 "size of the font."
-msgstr "Se estiver com dificuldade para ler o texto na sua tela, você pode alterar o tamanho da letra."
+msgstr "Se você tem dificuldades em ler o texto na sua tela, pode alterar o tamanho da fonte."
 
 #. (itstool) path: item/p
 #: C/a11y-font-size.page:47
@@ -382,7 +383,7 @@ msgid ""
 "In many applications, you can increase the text size at any time by pressing"
 " <keyseq><key>Ctrl</key><key>+</key></keyseq>. To reduce the text size, "
 "press <keyseq><key>Ctrl</key><key>-</key></keyseq>."
-msgstr "Em muitos programas, você pode aumentar o tamanho do texto a qualquer momento pressionando <keyseq><key>Ctrl</key><key>+</key></keyseq>. Para reduzir o tamanho do texto, pressione <keyseq><key>Ctrl</key><key>-</key></keyseq>."
+msgstr "Em muitos aplicativos, você pode aumentar o tamanho do texto a qualquer momento pressionando <keyseq><key>Ctrl</key><key>+</key></keyseq>. Para reduzir o tamanho do texto, pressione <keyseq><key>Ctrl</key><key>-</key></keyseq>."
 
 #. (itstool) path: info/desc
 #: C/a11y-icon.page:18
@@ -394,7 +395,7 @@ msgstr "O menu de acessibilidade é o ícone na barra inferior com o desenho de 
 #. (itstool) path: page/title
 #: C/a11y-icon.page:22
 msgid "Find the universal access menu"
-msgstr "Encontre o menu de acessibilidade"
+msgstr "Localizando o menu de acessibilidade"
 
 #. (itstool) path: page/p
 #: C/a11y-icon.page:24
@@ -429,12 +430,12 @@ msgstr "Altere <gui>Sempre Mostre o Menu de Acessibilidade Menu</gui> para <gui>
 #. (itstool) path: info/desc
 #: C/a11y-mag.page:27
 msgid "Zoom in on your screen so that it is easier to see things."
-msgstr "Amplie a tela para tornar mais fácil a visualização."
+msgstr "Amplie sua tela de forma que seja mais fácil ver as coisas."
 
 #. (itstool) path: page/title
 #: C/a11y-mag.page:30
 msgid "Magnify a screen area"
-msgstr "Amplie a área da tela."
+msgstr "Ampliando uma área da tela"
 
 #. (itstool) path: page/p
 #: C/a11y-mag.page:32
@@ -443,12 +444,12 @@ msgid ""
 "=\"a11y-font-size\">text size</link>. This feature is like having a "
 "magnifying glass, allowing you to move around by zooming in on parts of the "
 "screen."
-msgstr "Ampliar a tela é diferente de simplesmente aumentar o <link xref=\"a11y-font-size\">tamanho do texto</link>. Este recurso é como ter uma lupa de aumento e você pode movê-la para ampliar partes da tela."
+msgstr "Ampliar a tela é diferente de simplesmente aumentar o <link xref=\"a11y-font-size\">tamanho do texto</link>. Este recurso é como ter uma lupa de aumento, que permite que você a mova para ampliar partes da tela."
 
 #. (itstool) path: item/p
 #: C/a11y-mag.page:49
 msgid "Press on <gui>Zoom</gui> in the <gui>Seeing</gui> section."
-msgstr "Pressione <gui>Zoom</gui> na seção <gui>Visão</gui>."
+msgstr "Pressione <gui>Ampliação</gui> na seção <gui>Visão</gui>."
 
 #. (itstool) path: item/p
 #: C/a11y-mag.page:52
@@ -461,7 +462,7 @@ msgid ""
 "You can now move around the screen area. By moving your mouse to the edges "
 "of the screen, you will move the magnified area in different directions, "
 "allowing you to view your area of choice."
-msgstr "Você agora pode mover pela área da tela. Movendo o mouse para os cantos da tela, você moverá a área ampliada em direções diferentes, permitindo visualizar a área escolhida."
+msgstr "Você agora pode mover pela área da tela. Movendo o mouse para os cantos da tela, você moverá a área ampliada em direções diferentes, permitindo que veja sua área de escolha."
 
 #. (itstool) path: note/p
 #: C/a11y-mag.page:67
@@ -497,7 +498,7 @@ msgid ""
 "degree of photophobia, or just for using the computer under adverse lighting"
 " conditions. Select the <gui>Color Effects</gui> tab in the <gui>Zoom</gui> "
 "settings window to enable and change these options."
-msgstr "Você pode ativar o vídeo invertido ou <gui>Preto no branco</gui> e ajustar opções de brilho, contraste e níveis de cinza para a ampliação. A combinação dessas opções é útil para pessoas com baixa visão, com algum grau de fotofobia ou que estejam apenas usando o computador sob condições de luminosidade adversa. Selecione a aba <gui>Efeitos de cor</gui> na janela de configurações do <gui>Zoom</gui> para habilitar e alterar essas configurações."
+msgstr "Você pode ativar o vídeo invertido ou <gui>Preto no branco</gui> e ajustar opções de brilho, contraste e níveis de cinza para a ampliação. A combinação dessas opções é útil para pessoas com baixa visão, com algum grau de fotofobia ou apenas usando o computador sob condições de luminosidade adversa. Selecione a aba <gui>Efeitos de cor</gui> na janela de configurações de <gui>Ampliação</gui> para habilitar e alterar essas configurações."
 
 #. (itstool) path: credit/years
 #: C/a11y-right-click.page:17 C/files-removedrive.page:19
@@ -510,12 +511,12 @@ msgstr "2012"
 #. (itstool) path: info/desc
 #: C/a11y-right-click.page:32
 msgid "Press and hold the left mouse button to right-click."
-msgstr "Pressione e segure o botão esquerdo do mouse para simular um clique com o botão direito."
+msgstr "Pressione e mantenha o botão esquerdo do mouse para simular um clique com o botão direito."
 
 #. (itstool) path: page/title
 #: C/a11y-right-click.page:35
 msgid "Simulate a right mouse click"
-msgstr "Simulando o clique com o botão direito do mouse "
+msgstr "Simulando o clique com o botão direito do mouse"
 
 #. (itstool) path: page/p
 #: C/a11y-right-click.page:37
@@ -523,7 +524,7 @@ msgid ""
 "You can right-click by holding down the left mouse button. This is useful if"
 " you find it difficult to move your fingers individually on one hand, or if "
 "your pointing device only has a single button."
-msgstr "Você pode realizar um clique de botão direito mantendo o botão esquerdo do mouse pressionado. Isso é útil se você tiver dificuldades em mover seus dedos individualmente em uma mão, ou se seu dispositivo só tem um único botão."
+msgstr "Você pode realizar um clique de botão direito mantendo o botão esquerdo do mouse pressionado. Isso é útil se você tiver dificuldades em mover seus dedos individualmente em uma mão, ou se seu dispositivo de apontamento só tem um único botão."
 
 #. (itstool) path: item/p
 #: C/a11y-right-click.page:53
@@ -567,12 +568,12 @@ msgid ""
 "If you use <link xref=\"mouse-mousekeys\">Mouse Keys</link>, this also "
 "allows you to right-click by holding down the <key>5</key> key on your "
 "keypad."
-msgstr "Se você usar <link xref=\"mouse-mousekeys\">Teclas do mouse</link>, você também poderá fazer o clique com o botão direito ao segurar a tecla <key>5</key> no seu teclado numérico."
+msgstr "Se você usar <link xref=\"mouse-mousekeys\">Teclas do mouse</link>, isso também permite a você faça o clique com o botão direito segurando a tecla <key>5</key> no seu teclado numérico."
 
 #. (itstool) path: info/desc
 #: C/a11y-screen-reader.page:15
 msgid "Use the <app>Orca</app> screen reader to speak the user interface."
-msgstr "Utilize o leitor de tela <app>Orca</app> para falar a interface com o usuário."
+msgstr "Use o leitor de tela <app>Orca</app> para falar a interface com o usuário."
 
 #. (itstool) path: page/title
 #: C/a11y-screen-reader.page:19
@@ -592,12 +593,12 @@ msgstr "O Endless fornece o leitor de tela <app>Orca</app> para narrar a interfa
 msgid ""
 "Have a delay between a key being pressed and that letter appearing on the "
 "screen."
-msgstr "Obtenha uma defasagem entre uma tecla ser pressionada e a sua letra aparecer na tela."
+msgstr "Tenha um atraso entre uma tecla ser pressionada e a sua letra aparecer na tela."
 
 #. (itstool) path: page/title
 #: C/a11y-slowkeys.page:34
 msgid "Turn on slow keys"
-msgstr "Habilite as teclas lentas"
+msgstr "Ativando as teclas lentas"
 
 #. (itstool) path: page/p
 #: C/a11y-slowkeys.page:36
@@ -608,7 +609,7 @@ msgid ""
 "before it appears. Use slow keys if you accidentally press several keys at a"
 " time when you type, or if you find it difficult to press the right key on "
 "the keyboard first time."
-msgstr "Ative as teclas lentas se você quer que haja uma defasagem entre o pressionar da tecla e a letra ser exibida na tela. Isso significa que você terá de manter cada tecla pressionada por um tempo antes que ela apareça de fato na tela. Use as teclas lentas se você pressiona acidentalmente muitas teclas de uma vez enquanto digita ou se você tem dificuldades em pressionar a tecla certa de primeira no teclado."
+msgstr "Ative as <em>teclas lentas</em> se você gostaria que existisse um atraso entre o pressionar da tecla e a letra ser exibida na tela. Isso significa que você teria que manter pressionada por um tempo cada tecla que quisesse digitar antes de ela aparecer de fato. Use as teclas lentas se você pressiona acidentalmente muitas teclas de uma vez enquanto digita ou se você tem dificuldades em pressionar a tecla certa de primeira no teclado."
 
 #. (itstool) path: item/p
 #: C/a11y-slowkeys.page:59
@@ -618,7 +619,7 @@ msgstr "Altere <gui>Teclas lentas</gui> para <gui>On</gui>."
 #. (itstool) path: note/title
 #: C/a11y-slowkeys.page:64
 msgid "Quickly turn slow keys on and off"
-msgstr "Rapidamente ative e desative o comendo de teclas lentas"
+msgstr "Ativar ou desativar rapidamente as teclas lentas"
 
 #. (itstool) path: note/p
 #: C/a11y-slowkeys.page:65
@@ -658,7 +659,7 @@ msgstr "Seu computador pode emitir um som quando você pressiona uma tecla, quan
 msgid ""
 "Type keyboard shortcuts one key at a time rather than having to hold down "
 "all of the keys at once."
-msgstr "Digite atalhos de teclado uma tecla de cada vez em vez de ter que pressionar todas ao mesmo tempo. "
+msgstr "Digite os atalhos de teclado uma tecla de cada vez em vez de ter que mantê-las pressionadas todas ao mesmo tempo."
 
 #. (itstool) path: page/title
 #: C/a11y-stickykeys.page:35
@@ -674,14 +675,14 @@ msgid ""
 "shortcut switches between windows. Without sticky keys turned on, you would "
 "have to hold down both keys at the same time; with sticky keys turned on, "
 "you would press <key>Super</key> and then <key>Tab</key> to do the same."
-msgstr "As <em>Teclas de aderência</em> permitem digitar atalhos de teclado uma tecla de cada vez em vez de ter que pressionar todas ao mesmo tempo. Por exemplo, o atalho  <keyseq><key xref=\"keyboard-key-super\">Super</key><key>Tab</key></keyseq> alterna entre janelas. Sem as teclas de aderência ativadas, você teria manter ambas as teclas pressionadas ao mesmo tempo; com as teclas de aderência ativas, você pressionaria <key>Super</key> e então <key>Tab</key> para fazer o mesmo."
+msgstr "As <em>Teclas de aderência</em> permitem digitar atalhos de teclado uma tecla de cada vez em vez de ter que pressioná-las todas ao mesmo tempo. Por exemplo, o atalho <keyseq><key xref=\"keyboard-key-super\">Super</key><key>Tab</key></keyseq> alterna entre janelas. Sem as teclas de aderência ativadas, você teria mantê-las ambas as teclas pressionadas ao mesmo tempo; com as teclas de aderência ativas, você pressionaria <key>Super</key> e então a <key>Tab</key> para fazer o mesmo."
 
 #. (itstool) path: page/p
 #: C/a11y-stickykeys.page:44
 msgid ""
 "You might want to turn on sticky keys if you find it difficult to hold down "
 "several keys at once."
-msgstr "Você pode querer ativar as teclas de aderência se achar difícil manter pressionadas várias teclas ao mesmo tempo."
+msgstr "Você pode querer ativar as teclas de aderência se você achar difícil manter pressionadas várias teclas ao mesmo tempo."
 
 #. (itstool) path: item/p
 #: C/a11y-stickykeys.page:63
@@ -691,7 +692,7 @@ msgstr "Altere as <gui>Teclas de aderência</gui> para <gui>On</gui>."
 #. (itstool) path: note/title
 #: C/a11y-stickykeys.page:68
 msgid "Quickly turn sticky keys on and off"
-msgstr "Rapidamente habilite e desabilite as teclas de aderência"
+msgstr "Ativar ou desativar rapidamente as teclas de aderência"
 
 #. (itstool) path: note/p
 #: C/a11y-stickykeys.page:69
@@ -716,7 +717,7 @@ msgstr "Você pode ativar ou desativar as teclas de aderência clicando no <link
 msgid ""
 "If you press two keys at once, you can have sticky keys turn itself off "
 "temporarily to let you enter a keyboard shortcut in the normal way."
-msgstr "Pressionando duas teclas de uma vez, as teclas de aderência ficam desabilitadas temporariamente, permitindo assim que você use um atalho de teclado na forma normal."
+msgstr "Se você pressionar duas teclas de uma vez, você pode ter as teclas de aderência desabilitadas sozinhas temporariamente para lhe deixar usar um atalho de teclado na forma normal."
 
 #. (itstool) path: page/p
 #: C/a11y-stickykeys.page:84
@@ -743,14 +744,14 @@ msgid ""
 "know that sticky keys is expecting a keyboard shortcut to be typed, so the "
 "next key press will be interpreted as part of a shortcut. Select <gui>Beep "
 "when a modifier key is pressed</gui> to enable this."
-msgstr "Seu computador pode emitir um bipe quando você começar a digitar um atalho de teclado com as teclas de aderência ativadas. Isso é útil se quiser saber se as teclas de aderência estão esperando que um atalho de teclado seja digitado, e que então as próximas teclas pressionadas seriam interpretadas como parte de um atalho. Selecione <gui>Soar um bip quando uma tecla modificadora for pressionada</gui> para habilitar isso."
+msgstr "Seu computador pode emitir um bipe quando você começa a digitar um atalho de teclado com as teclas de aderência estiverem ativadas. Isso é útil se quiser saber se as teclas de aderência estão esperando que um atalho de teclado seja digitado, e que então as próximas teclas pressionadas seriam interpretadas como parte de um atalho. Selecione <gui>Soar um bip quando uma tecla modificadora for pressionada</gui> para habilitar isso."
 
 #. (itstool) path: info/desc
 #: C/a11y-visualalert.page:27
 msgid ""
 "Enable visual alerts to flash the screen or window when an alert sound is "
 "played."
-msgstr "Habilite alertas visuais na tela ou na janela sempre que o alerta sonoro for utilizado."
+msgstr "Habilite alertas visuais para piscar a tela ou janela quando um alerta sonoro é emitido."
 
 #. (itstool) path: page/title
 #: C/a11y-visualalert.page:31
@@ -772,7 +773,7 @@ msgid ""
 "This can also be useful if you're in an environment where you need your "
 "computer to be silent, such as in a library. See <link xref=\"sound-"
 "alert\"/> to learn how to mute the alert sound, then enable visual alerts."
-msgstr "Isso pode ser útil também se você estiver em um ambiente em que precise que seu computador fique silencioso, como em uma biblioteca. Veja <link xref=\"sound-alert\"/> Escolhendo ou desabilitando o alerta sonoro para aprender como emudecer o alerta sonoro e habilite os alertas visuais."
+msgstr "Isso pode ser útil também se você estiver em um ambiente em que precise que seu computador seja silencioso, como em uma biblioteca. Veja <link xref=\"sound-alert\"/> para aprender como emudecer o alerta sonoro e habilite os alertas visuais."
 
 #. (itstool) path: item/p
 #: C/a11y-visualalert.page:54
@@ -789,7 +790,7 @@ msgstr "Altere <gui>Alertas visuais</gui> para <gui>On</gui>."
 msgid ""
 "Select whether you want the entire screen or just your current window title "
 "to flash."
-msgstr "Selecione se você quer que pisque a tela inteira ou apenas o título da janela atual."
+msgstr "Selecione se você deseja que a tela inteira ou apenas o título da janela atual pisque."
 
 #. (itstool) path: note/p
 #: C/a11y-visualalert.page:66
@@ -959,7 +960,7 @@ msgstr "Por razões de segurança, o Endless não salva sua senha no computador.
 #. (itstool) path: info/desc
 #: C/backup-check.page:8
 msgid "Verify your backup was successful."
-msgstr "Verifique se o seu backup foi bem sucedido."
+msgstr "Verifique se sua cópia de segurança foi bem sucedida."
 
 #. (itstool) path: credit/name
 #: C/backup-check.page:12 C/backup-frequency.page:17 C/backup-how.page:16
@@ -977,7 +978,7 @@ msgstr "Verifique se o seu backup foi bem sucedido."
 #: C/user-changepicture.page:13 C/user-delete.page:17
 #: C/user-goodpassword.page:12
 msgid "GNOME Documentation Project"
-msgstr "Projeto GNOME de Documentação"
+msgstr "Projeto de documentação do GNOME"
 
 #. (itstool) path: page/title
 #: C/backup-check.page:18
@@ -990,7 +991,7 @@ msgid ""
 "After you have backed up your files, you should make sure that the backup "
 "was successful. If it didn't work properly, you could lose important data "
 "since some files could be missing from the backup."
-msgstr "Depois de fazer a cópia de segurança de seus arquivos, você deverá se assegurar de que ela foi bem sucedida. Se a cópia não foi feita corretamente, você poderá perder dados importantes, já que alguns arquivos podem estar faltando."
+msgstr "Depois de você fazer a cópia de segurança de seus arquivos, você deveria se assegurar de que ela foi bem sucedida. Se ela não funcionou corretamente, você poderia perder dados importantes, já que alguns arquivos poderiam estar faltando nessa cópia."
 
 #. (itstool) path: page/p
 #: C/backup-check.page:24
@@ -1048,7 +1049,7 @@ msgid ""
 "On the other hand, if you are backing up the data on your home computer then"
 " hourly backups would likely be unnecessary. You may find it helpful to "
 "consider the following points when planning your backup schedule:"
-msgstr "Por outro lado, se estiver protegendo os dados de seu computador de casa, então cópias a cada hora provavelmente seriam desnecessárias. Você pode achar útil considerar os seguintes pontos ao planejar seu cronograma de cópias de segurança:"
+msgstr "Por outro lado, se estiver protegendo os dados de seu computador de casa, então cópias a cada hora provavelmente seriam desnecessárias. Você pode achar útil considerar os seguintes pontos ao planejar seu cronograma de cópia de segurança:"
 
 #. (itstool) path: item/p
 #: C/backup-frequency.page:35
@@ -1058,7 +1059,7 @@ msgstr "A quantidade de tempo que você passa no computador."
 #. (itstool) path: item/p
 #: C/backup-frequency.page:36
 msgid "How often and by how much the data on the computer changes."
-msgstr "Quão frequentemente e quantas vezes os dados no computador são modificados."
+msgstr "O quão frequentemente e quantas vezes os dados no computador se alteram."
 
 #. (itstool) path: page/p
 #: C/backup-frequency.page:39
@@ -1086,7 +1087,7 @@ msgstr "Faça cópias de segurança dos seus arquivos e configurações valiosas
 #. (itstool) path: page/title
 #: C/backup-how.page:26
 msgid "How to back up"
-msgstr "Como fazer uma cópia de segurança"
+msgstr "Como fazer cópia de segurança"
 
 #. (itstool) path: page/p
 #: C/backup-how.page:28
@@ -1218,7 +1219,7 @@ msgstr "Em geral, você vai querer fazer cópias de segurança que sejam insubst
 msgid ""
 "Advice on where to store your backups and what type of storage device to "
 "use."
-msgstr "Ajuda sobre onde arquivar suas cópias de segurança e sobre qual tipo de dispositivo de armazenamento usar"
+msgstr "Conselhos sobre onde armazenar suas cópias de segurança e que tipo de dispositivo de armazenamento usar."
 
 #. (itstool) path: info/title
 #: C/backup-where.page:10
@@ -1229,7 +1230,7 @@ msgstr "c"
 #. (itstool) path: page/title
 #: C/backup-where.page:24
 msgid "Where to store your backup"
-msgstr "Onde armazenar suas cópias de segurança"
+msgstr "Onde armazenar as cópias de segurança"
 
 #. (itstool) path: page/p
 #: C/backup-where.page:26
@@ -1248,12 +1249,12 @@ msgid ""
 "It is important to choose an appropriate <em>backup medium</em> too. You "
 "need to store your backups on a device that has sufficient disk capacity for"
 " all of the backed-up files."
-msgstr "É importante escolher uma <em>mídia de segurança</em> adequada também. Você precisa armazenar suas cópias em um dispositivo que tenha capacidade em disco suficiente para conter todos os arquivos da cópia de segurança."
+msgstr "É importante escolher uma <em>mídia de segurança</em> adequada também. Você precisa armazenar suas cópias em um dispositivo que tenha capacidade em disco suficiente para conter todos os arquivos de cópia de segurança."
 
 #. (itstool) path: list/title
 #: C/backup-where.page:38
 msgid "Local and remote storage options"
-msgstr "Opções de armazenamento local e remoto:"
+msgstr "Opções de armazenamento local e remoto"
 
 #. (itstool) path: item/p
 #: C/backup-where.page:40
@@ -1298,7 +1299,7 @@ msgstr "Serviços de cópia de segurança na Interntet (<link href=\"http://aws.
 msgid ""
 "Some of these options have sufficient capacity to allow for a backup of "
 "every file on your system, also known as a <em>complete system backup</em>."
-msgstr "Algumas dessa opções tem capacidade suficiente para permitir uma cópia de segurança para todos os arquivos do seu sistema, também conhecido como uma <em>cópia de segurança completa do sistema</em>."
+msgstr "Algumas dessas opções têm capacidade suficiente para permitir uma cópia de segurança para todos os arquivos do seu sistema, também conhecido como uma <em>cópia de segurança completa do sistema</em>."
 
 #. (itstool) path: info/desc
 #: C/backup-why.page:16
@@ -1341,7 +1342,7 @@ msgstr "Para evitar a perda de seus arquivos, a melhor coisa a fazer é copiar s
 #. (itstool) path: info/desc
 #: C/bluetooth-connect-device.page:13
 msgid "Pair Bluetooth devices."
-msgstr "Pareando dispositivos Bluetooth."
+msgstr "Pareie dispositivos Bluetooth."
 
 #. (itstool) path: credit/name
 #: C/bluetooth-connect-device.page:20 C/bluetooth-remove-connection.page:20
@@ -1481,7 +1482,7 @@ msgstr "Para controlar o acesso a seus arquivos compartilhados, acesse as config
 msgid ""
 "The adapter could be turned off or may not have drivers, or Bluetooth might "
 "be disabled or blocked."
-msgstr "O adaptador pode ter sido desligado ou o computador pode não ter os drivers do Bluetooth. O Bluetooth pode estar desabilitado ou bloqueado."
+msgstr "O adaptador poderia estar desligado ou você não ter os drivers, ou o Bluetooth pode estar desabilitado ou bloqueado."
 
 #. (itstool) path: page/title
 #: C/bluetooth-problem-connecting.page:27
@@ -1493,7 +1494,7 @@ msgstr "Não consigo me conectar ao meu dispositivo Bluetooth"
 msgid ""
 "There are a number of reasons why you may not be able to connect to a "
 "Bluetooth device, such as a phone or headset."
-msgstr "Existem uma variedade de razões para que não seja capaz de se conectar a um dispositivo Bluetooth, como um fone de ouvido ou telefone."
+msgstr "Existem uma variedade de razões para que não seja capaz de se conectar a um dispositivo Bluetooth, como um fone de ouvido."
 
 #. (itstool) path: item/title
 #: C/bluetooth-problem-connecting.page:34
@@ -1533,7 +1534,7 @@ msgid ""
 "Make sure that your Bluetooth adapter is switched on. Click the Bluetooth "
 "icon in the <gui>menu bar</gui> and check that it's not <link xref"
 "=\"bluetooth-turn-on-off\">disabled</link>."
-msgstr "Certifique-se de que seu adaptador Bluetooth esteja ligado. Abra o painel de Bluetooth e verifique se ele não está desabilitado."
+msgstr "Certifique-se de que seu adaptador Bluetooth esteja ligado. Clique no ícone Bluetooth na <gui>barra de menu</gui> e verifique se ele não está <link xref=\"bluetooth-turn-on-off\">desabilitado</link>."
 
 #. (itstool) path: choose/p
 #: C/bluetooth-problem-connecting.page:54
@@ -1559,7 +1560,7 @@ msgstr "Verifique se o Bluetooth está ligado no dispositivo que você está ten
 #. (itstool) path: info/desc
 #: C/bluetooth-remove-connection.page:13
 msgid "Remove a device from the list of Bluetooth devices."
-msgstr "Removendo uma conexão entre dispositivos Bluetooth"
+msgstr "Remova um dispositivo da lista de dispositivos Bluetooth."
 
 #. (itstool) path: credit/years
 #: C/bluetooth-remove-connection.page:26 C/keyboard-layouts.page:32
@@ -1600,12 +1601,12 @@ msgstr "Clique em <gui>Remover</gui> na janela de confirmação."
 msgid ""
 "You can <link xref=\"bluetooth-connect-device\">reconnect a Bluetooth "
 "device</link> later if desired."
-msgstr "Você pode <link xref=\"bluetooth-connect-device\">reconectar-se a um dispositivo Bluetooth</link> posteriormente, se desejar."
+msgstr "Você pode <link xref=\"bluetooth-connect-device\">reconectar-se a um dispositivo Bluetooth</link> posteriormente, se desejar."
 
 #. (itstool) path: info/desc
 #: C/bluetooth-send-file.page:13
 msgid "Share files to Bluetooth devices such as your phone."
-msgstr "Compartilhe arquivos com dispositivos Bluetooth como, por exemplo, um telefone."
+msgstr "Compartilhe arquivos a dispositivos Bluetooth tais como seu celular."
 
 #. (itstool) path: page/title
 #: C/bluetooth-send-file.page:31
@@ -1660,7 +1661,7 @@ msgstr "O dono do dispositivo receptor normalmente tem que pressionar um botão 
 #. (itstool) path: info/desc
 #: C/bluetooth-turn-on-off.page:13
 msgid "Enable or disable the Bluetooth device on your computer."
-msgstr "Ligando ou desligando o Bluetooth no seus computador."
+msgstr "Habilite ou desabilite o dispositivo Bluetooth no seu computador."
 
 #. (itstool) path: page/title
 #: C/bluetooth-turn-on-off.page:30
@@ -1687,7 +1688,7 @@ msgstr "Defina o botão de status do Bluetooth no canto direito superior para <g
 #. (itstool) path: page/p
 #: C/bluetooth-turn-on-off.page:58
 msgid "To turn Bluetooth off:"
-msgstr "Para desligar o Bluetooth:"
+msgstr "Para ligar ou desligar o Bluetooth:"
 
 #. (itstool) path: item/p
 #: C/bluetooth-turn-on-off.page:70
@@ -1747,7 +1748,7 @@ msgstr "Clique no relógio na barra de tarefas e clique em <gui>Configurações 
 #. (itstool) path: page/title
 #: C/clock-set.page:26
 msgid "Change the date and time"
-msgstr "Alterando a data e hora"
+msgstr "Alterando a data e a hora"
 
 #. (itstool) path: page/p
 #: C/clock-set.page:28
@@ -1796,12 +1797,12 @@ msgstr "Você também pode escolher como sua hora é mostrada, selecionando form
 #: C/clock-timezone.page:27
 msgid ""
 "Update your time zone to your current location so that your time is correct."
-msgstr "Atualize seu fuso horário para sua localização atual para que o seu horário seja mostrado corretamente."
+msgstr "Atualize seu fuso horário da sua localização atual de forma que seu horário esteja correto."
 
 #. (itstool) path: page/title
 #: C/clock-timezone.page:30
 msgid "Change your timezone"
-msgstr "Alterando o seu fuso horário"
+msgstr "Alterando seu fuso horário"
 
 #. (itstool) path: item/p
 #: C/clock-timezone.page:34
@@ -1823,7 +1824,7 @@ msgstr "Se você tiver o <gui>Fuso horário automático</gui> definido para <
 msgid ""
 "Click <gui>Time Zone</gui>, then select your location on the map or search "
 "for your current city."
-msgstr "Clique em <gui>Fuso horário</gui> e, então, selecione sua localização no mapa ou pesquise pela sua cidade atual."
+msgstr "Clique em <gui>Fuso horário</gui> e, então, selecione sua localização no mapa ou pesquise pela sua cidade atual."
 
 #. (itstool) path: page/p
 #: C/clock-timezone.page:54
@@ -1831,7 +1832,7 @@ msgid ""
 "The time will be updated automatically when you select a different location."
 " You may also wish to <link xref=\"clock-set\">set the clock "
 "manually</link>."
-msgstr "A hora será atualizada automaticamente quando você selecionar uma localidade diferente. Também é possível <link xref=\"clock-set\">ajustar o relógio manualmente</link>."
+msgstr "A hora será atualizada automaticamente quando você selecionar uma localidade diferente. Também é possível <link xref=\"clock-set\">ajustar o relógio manualmente</link>."
 
 #. (itstool) path: info/desc
 #: C/display-dual-monitors.page:27
@@ -1923,7 +1924,7 @@ msgstr "Para iniciar o gerenciador de arquivos, clique no ícone <app>Documentos
 #. (itstool) path: section/title
 #: C/files-browse.page:50
 msgid "Exploring the contents of folders"
-msgstr "Explorando o conteúdo das pastas"
+msgstr "Explorando o conteúdo dos diretórios"
 
 #. (itstool) path: section/p
 #: C/files-browse.page:52
@@ -1993,7 +1994,7 @@ msgid ""
 "A file or folder can be copied or moved to a new location by dragging and "
 "dropping with the mouse, using the copy and paste commands, or by using "
 "keyboard shortcuts."
-msgstr "Um arquivo ou uma pasta podem ser copiados ou movidos para um novo local arrastando e soltando com o mouse, usando os comandos copiar e colar, ou usando atalhos de teclado."
+msgstr "Arquivos e pastas podem ser copiados ou movidos para um novo local arrastando e soltando com o mouse, usando os comandos copiar e colar, ou usando atalhos de teclado."
 
 #. (itstool) path: page/p
 #: C/files-copy.page:34
@@ -2168,7 +2169,7 @@ msgid ""
 "To delete files permanently, and free up disk space on your computer, you "
 "need to empty the trash. To empty the trash, right-click <gui>Trash</gui> in"
 " the sidebar and select <gui>Empty Trash</gui>."
-msgstr "Para excluir os arquivos permanentemente, e liberar espaço de disco do seu computador, você precisa esvaziar a lixeira. Para esvaziar, clique com botão direito na <gui>Lixeira</gui> na barra lateral e selecione <gui>Esvaziar lixeira</gui>."
+msgstr "Para excluir os arquivos permanentemente, e liberar espaço em disco do seu computador, você precisa esvaziar a lixeira. Para esvaziar, clique com botão direito na <gui>Lixeira</gui> na barra lateral e selecione <gui>Esvaziar lixeira</gui>."
 
 #. (itstool) path: section/title
 #: C/files-delete.page:52
@@ -2326,12 +2327,12 @@ msgstr "De um nome ao seu arquivo, escolha onde quer salvá-lo e clique em <gui>
 msgid ""
 "Open files using an application that isn't the default one for that type of "
 "file. You can change the default too."
-msgstr "Abra arquivos usando um aplicativo que não é o padrão para aquele arquivo. Você pode alterar o padrão também. "
+msgstr "Abra arquivos usando um aplicativo que não é o padrão para aquele tipo. Você pode alterar o padrão também."
 
 #. (itstool) path: page/title
 #: C/files-open.page:24
 msgid "Open files with other applications"
-msgstr "Abrindo arquivos com outros programas"
+msgstr "Abrindo arquivos com outros aplicativos"
 
 #. (itstool) path: page/p
 #: C/files-open.page:26
@@ -2354,7 +2355,7 @@ msgstr "Para abrir um arquivo com uma aplicativo diferente do que o padrão, cli
 #. (itstool) path: section/title
 #: C/files-open.page:37
 msgid "Change the default application"
-msgstr "Alterando o aplicativo padrão"
+msgstr "Alterar o aplicativo padrão"
 
 #. (itstool) path: section/p
 #: C/files-open.page:38
@@ -2371,7 +2372,7 @@ msgid ""
 "Select a file of the type whose default application you want to change. For "
 "example, to change which application is used to open MP3 files, select a "
 "<file>.mp3</file> file."
-msgstr "Selecione um arquivo de tipo referente ao aplicativo padrão que deseja alterar. Por exemplo, para alterar qual aplicativo é usado para abrir arquivos MP3, selecione um arquivo <file>.mp3</file>."
+msgstr "Selecione um arquivo de tipo referente ao aplicativo padrão que deseja alterar. Por exemplo, para alterar qual aplicativo é usado para abrir arquivos MP3, selecione um arquivo <file>.mp3</file>."
 
 #. (itstool) path: item/p
 #: C/files-open.page:47
@@ -2407,7 +2408,7 @@ msgstr "Se <gui>Outros programas </gui> contém um programas que você quer us
 msgid ""
 "This changes the default application not just for the selected file, but for"
 " all files with the same type."
-msgstr "Isto altera o aplicativo padrão não apenas para o arquivo selecionado, mas para todos os aqueles que sejam do mesmo tipo."
+msgstr "Isso altera o aplicativo padrão não apenas para o arquivo selecionado, mas para todos aqueles que sejam do mesmo tipo."
 
 #. (itstool) path: info/desc
 #: C/files-preview.page:9
@@ -3039,7 +3040,7 @@ msgstr "Se você não sabe o que fez com algo que você salvou ou fez download n
 #. (itstool) path: links/title
 #: C/files-search.page:38
 msgid "Other search applications"
-msgstr "Outros programas de busca"
+msgstr "Outros aplicativos de pesquisa"
 
 #. (itstool) path: steps/title
 #: C/files-search.page:44
@@ -3071,14 +3072,14 @@ msgstr "Digita as palavras que você sabe que existem no nome do arquivo. Por ex
 #. (itstool) path: item/p
 #: C/files-search.page:61
 msgid "You can narrow your results by location and file type."
-msgstr "Você pode restringir seus resultados pela localização e tipos do arquivo."
+msgstr "Você pode restringir seus resultados pela localização e tipo do arquivo."
 
 #. (itstool) path: item/p
 #: C/files-search.page:64
 msgid ""
 "Click <gui>Home</gui> to restrict the search results to your "
 "<file>Home</file> folder, or <gui>All Files</gui> to search everywhere."
-msgstr "Clique em <gui>Pasta pessoal</gui> para restringir os resultados de pesquisas à sua <file>Pasta Pessoal</file>, ou <gui>todos os arquivos</gui> para pesquisar globalmente."
+msgstr "Clique em <gui>Pasta pessoal</gui> para restringir os resultados de pesquisas à sua <file>Pasta pessoal</file> ou <gui>Todos arquivos</gui> para pesquisar em tudo."
 
 #. (itstool) path: item/p
 #: C/files-search.page:69
@@ -3100,7 +3101,7 @@ msgstr "Você pode abrir, copiar, apagar, ou trabalhar com os seus arquivos dos 
 msgid ""
 "Click the magnifying glass in the toolbar again to exit the search and "
 "return to the folder."
-msgstr "Clique na lupa na barra de tarefas novamente para sair da busca e retornar à pasta."
+msgstr "Clique na lente de aumento na barra de ferramentas novamente para sair da busca e retornar à pasta."
 
 #. (itstool) path: page/p
 #: C/files-search.page:86
@@ -3353,7 +3354,7 @@ msgstr "<link href=\"endlessm-app://com.endlessm.Tutorial\">Tutorial interativo<
 #. (itstool) path: info/desc
 #: C/keyboard-cursor-blink.page:11
 msgid "Make the insertion point blink and control how quickly it blinks."
-msgstr "Faça o ponto de interseção piscar e controle a velocidade da piscada."
+msgstr "Faça o ponto de inserção piscar e controle a frequência com que pisca."
 
 #. (itstool) path: credit/name
 #: C/keyboard-cursor-blink.page:18 C/keyboard-repeat-keys.page:16
@@ -3378,14 +3379,14 @@ msgstr "Shobha Tyagi"
 #. (itstool) path: page/title
 #: C/keyboard-cursor-blink.page:36
 msgid "Make the keyboard cursor blink"
-msgstr "Fazendo o cursor do teclado piscar"
+msgstr "Fazendo o cursor de teclado piscar"
 
 #. (itstool) path: page/p
 #: C/keyboard-cursor-blink.page:38
 msgid ""
 "If you find it difficult to see the keyboard cursor in a text field, you can"
 " make it blink to make it easier to locate."
-msgstr "Se você acha difícil ver o cursos de teclado em um campo de texto, você pode fazê-lo piscar para ficar mais fácil de encontrá-lo."
+msgstr "Se você acha difícil ver o cursor de teclado em um campo de texto, você pode fazê-lo piscar para ficar mais fácil de encontrá-lo."
 
 #. (itstool) path: item/p
 #: C/keyboard-cursor-blink.page:49 C/keyboard-repeat-keys.page:52
@@ -3490,7 +3491,7 @@ msgid ""
 "keyboard rather than by clicking the right mouse button: this is useful if "
 "mouse or a similar device is not available, or when the right mouse button "
 "is not present."
-msgstr "A função primária desta tecla é para abrir o menu de contexto com a tecla ao invés de abrir com o clique direito do mouse: ela é útil especialmente caso o mouse ou dispositivo similar não está disponível, ou quando o clique direito do mouse não está disponível."
+msgstr "A função primária desta tecla é chamar um menu de contexto com o teclado em vez de clicar no botão direito do mouse: isso é útil se o mouse ou um dispositivo similar não está disponível ou quanto o botão direito do mouse não está presente."
 
 #. (itstool) path: page/p
 #: C/keyboard-key-menu.page:48
@@ -3499,7 +3500,7 @@ msgid ""
 "particularly on portable and laptop keyboards. In this case, some keyboards "
 "include a <key>Menu</key> function key that can be activated in combination "
 "with the Function (<key>Fn</key>) key."
-msgstr "A tecla <key>Menu</key> é, em alguns casos, omitida em nome de espaço, particularmente em teclados portáteis e laptops. Neste caso, alguns teclados incluem uma tecla de função <key>Menu</key> que pode ser ativada em combinação com a tecla Function (<key>Fn</key>)."
+msgstr "A tecla <key>Menu</key> é, em alguns casos, omitida em nome de espaço, particularmente em teclados portáteis e notebooks. Neste caso, alguns teclados incluem, uma tecla de função <key>Menu</key> que pode ser ativada em combinação com a tecla Function (<key>Fn</key>)."
 
 #. (itstool) path: page/p
 #: C/keyboard-key-menu.page:53
@@ -3509,7 +3510,7 @@ msgid ""
 "area that you right-clicked. When you use the <key>Menu</key> key, the "
 "context menu is shown for the area of the screen that your cursor is over at"
 " the point when the key is pressed."
-msgstr "O <em>Menu de Contexto</em> é um meni que aparece quando você clicar com o botão direito. O menu que você vê, se você vir algum, é dependente do contexto e função de uma área que pode ser clicada com o botão direito. Quando você usar a tecla <key>Menu</key>, o menu de contexto é mostrado para a área de tela que seu cursor está sobre, quando a tecla é pressionada."
+msgstr "O <em>menu de contexto</em> é um menu que aparece quando você clicar com o botão direito. O menu que você vê, se você vir algum, é dependente do contexto e função de uma área que pode ser clicada com o botão direito. Quando você usar a tecla <key>Menu</key>, o menu de contexto é mostrado para a área da tela que seu cursor está sobre, quando a tecla é pressionada."
 
 #. (itstool) path: info/desc
 #: C/keyboard-key-super.page:23
@@ -3582,7 +3583,7 @@ msgstr "external ref='figures/input-methods-switcher.png' md5='02bfa568b8d7775cf
 #. (itstool) path: credit/name
 #: C/keyboard-layouts.page:26
 msgid "Juanjo Marín"
-msgstr "Juanjo Marin"
+msgstr "Juanjo Marín"
 
 #. (itstool) path: info/desc
 #: C/keyboard-layouts.page:37
@@ -3620,19 +3621,19 @@ msgstr "Clique no botão <key>+</key>, selecione um idioma que está associado c
 #. (itstool) path: media/span
 #: C/keyboard-layouts.page:70 C/keyboard-layouts.page:76
 msgid "preview"
-msgstr "Visualização"
+msgstr "visualizar"
 
 #. (itstool) path: note/p
 #: C/keyboard-layouts.page:68
 msgid ""
 "You can preview an image of any layout by selecting it in the list of "
 "<gui>Input Sources</gui> and clicking <gui><_:media-1/></gui>"
-msgstr "Você pode visualizar uma imagem de qualquer layout selecionando-a na lista de <gui>Fontes de entrada</gui> e clicando <gui><_:media-1/></gui>"
+msgstr "Você pode visualizar uma imagem de qualquer disposição selecionando-a na lista de <gui>Fontes de entrada</gui> e clicando em <gui><_:media-1/></gui>"
 
 #. (itstool) path: media/span
 #: C/keyboard-layouts.page:79
 msgid "preferences"
-msgstr "preferencias"
+msgstr "preferências"
 
 #. (itstool) path: page/p
 #: C/keyboard-layouts.page:73
@@ -3643,7 +3644,7 @@ msgid ""
 " the <gui>Input Source</gui> list and a new <gui "
 "style=\"button\"><_:media-2/></gui> button will give you access to the extra"
 " settings."
-msgstr "Certas línguas oferecem alguma opção de configuração extra. Você pode identificar estas línguas por que elas tem um ícone <gui><_:media-1/></gui> perto delas. Se você quer acessar estes parâmetros extras, selecione a lingua <gui> Fontes de entradas</gui> e um botando de novo <gui style=\"button\"><_:media-2/></gui> irá lhe dar acesso à algumas configurações extras."
+msgstr "Alguns idiomas oferecem algumas opções extras de configuração. Você pode identificar esses idiomas porque eles têm uma <gui><_:media-1/></gui> de um ícone retratado. Se você deseja acessar alguns desses parâmetros extras, selecione o idioma na lista de <gui>Fontes de entrada</gui> e um novo botão de <gui style=\"button\"><_:media-2/></gui> vai dar a você acesso às configurações extras."
 
 #. (itstool) path: page/p
 #: C/keyboard-layouts.page:82
@@ -3684,7 +3685,7 @@ msgstr "A forma mais rápida de alterar para outra disposição é usar o <gui>A
 #. (itstool) path: info/desc
 #: C/keyboard-nav.page:28
 msgid "Use applications and the desktop without a mouse."
-msgstr "Utilizando programas e a área de trabalho sem um mouse"
+msgstr "Use aplicativos e a área de trabalho sem um mouse."
 
 #. (itstool) path: page/title
 #: C/keyboard-nav.page:31
@@ -3711,17 +3712,17 @@ msgid ""
 "If you cannot use a pointing device like a mouse, you can control the mouse "
 "pointer using the numeric keypad on your keyboard. See <link xref=\"mouse-"
 "mousekeys\"/> for details."
-msgstr "Se você não pode usar um dispositivo apontador como um mouse, você pode controlar o ponteiro do mouse utilizando o teclado numérico no seu teclado. Veja <link xref=\"mouse-mousekeys\"/> para detalhes."
+msgstr "Se você não puder usar um dispositivo de apontamento como um mouse, você pode controlar o ponteiro do mouse usando um teclado numérico do seu teclado. Veja <link xref=\"mouse-mousekeys\"/> para detalhes."
 
 #. (itstool) path: table/title
 #: C/keyboard-nav.page:53
 msgid "Navigate user interfaces"
-msgstr "Navegando por interfaces de usuário"
+msgstr "Navegar na interface do usuário"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:55
 msgid "<key>Tab</key> and <keyseq><key>Ctrl</key><key>Tab</key></keyseq>"
-msgstr "<key>Tab</key> and <keyseq><key>Ctrl</key><key>Tab</key></keyseq>"
+msgstr "<key>Tab</key> e <keyseq><key>Ctrl</key><key>Tab</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:57
@@ -3761,7 +3762,7 @@ msgstr "Em uma visão de árvore, usa as teclas de seta para recolher e expandir
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:75
 msgid "<keyseq><key>Ctrl</key>Arrow keys</keyseq>"
-msgstr "<keyseq><key>Ctrl</key>Tecla de setas</keyseq>"
+msgstr "<keyseq><key>Ctrl</key>Teclas de setas</keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:76
@@ -3773,7 +3774,7 @@ msgstr "Em uma visão de ícones ou lista, move o foco do teclado para outro ite
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:80
 msgid "<keyseq><key>Shift</key>Arrow keys</keyseq>"
-msgstr "<keyseq><key>Ctrl</key>Tecla de setas</keyseq>"
+msgstr "<keyseq><key>Shift</key>Teclas de seta</keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:81
@@ -3892,7 +3893,7 @@ msgid ""
 "key and press <key>F6</key> until the window you want is highlighted, then "
 "release <key>Alt</key>. This is similar to the "
 "<keyseq><key>Alt</key><key>`</key></keyseq> feature."
-msgstr "Circule através das janelas de um mesmo aplicativo. Segure a tecla <key>Alt</key> e pressione a tecla <key>F6</key> até que a janela que você quer esteja destacada, então solte a tecla <key>Alt</key>. Isto é similar a sequência <keyseq><key>Alt</key><key>`</key></keyseq>."
+msgstr "Alterna entre janelas no mesmo aplicativo. Mantenha pressionada a tecla <key>Alt</key> e pressione <key>F6</key> até que a janela que você deseja esteja destacada. Então, libere o <key>Alt</key>. Isso é similar à funcionalidade do <keyseq><key>Alt</key><key>`</key></keyseq>."
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:149 C/shell-keyboard-shortcuts.page:82
@@ -3909,7 +3910,7 @@ msgstr "Abre a <link xref=\"shell-notifications#messagingtray\">área de notific
 #. (itstool) path: table/title
 #: C/keyboard-nav.page:156
 msgid "Navigate windows"
-msgstr "Navegando nas janelas"
+msgstr "Navegar nas janelas"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:158
@@ -3969,7 +3970,7 @@ msgstr "Redimensiona a janela atual. Pressione <keyseq><key>Alt</key><key>F8</ke
 msgid ""
 "<keyseq><key>Alt</key><key>F10</key></keyseq> or "
 "<keyseq><key>Super</key><key>↑</key></keyseq>"
-msgstr "<keyseq><key>Alt</key><key>F10</key></keyseq> or <keyseq><key>Super</key><key>↑</key></keyseq>"
+msgstr "<keyseq><key>Alt</key><key>F10</key></keyseq> ou <keyseq><key>Super</key><key>↑</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:184
@@ -4019,7 +4020,7 @@ msgstr "Maximiza uma janela verticalmente junto ao lado direito da tela. Pressio
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:208
 msgid "<keyseq><key>Alt</key><key>Space</key></keyseq>"
-msgstr "<keyseq><key>Alt</key><key>Space</key></keyseq>"
+msgstr "<keyseq><key>Alt</key><key>Espaço</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:209
@@ -4052,14 +4053,14 @@ msgstr "Se você não tem um teclado conectado ao seu computador ou prefere não
 #. (itstool) path: item/p
 #: C/keyboard-osk.page:51
 msgid "Switch on <gui>Screen Keyboard</gui> in the <gui>Typing</gui> section."
-msgstr "Ligue a opção <gui>Teclado virtual</gui> na seção <em>Digitação</em> no menu de acessibilidade da configuração do seu Endless."
+msgstr "Pressione <gui>Teclado virtual</gui> na seção <gui>Visão</gui>."
 
 #. (itstool) path: page/p
 #: C/keyboard-osk.page:57
 msgid ""
 "When you next have the opportunity to type, the on-screen keyboard will open"
 " at the bottom of the screen."
-msgstr "Quando você tiver outra oportunidade de digitar, o teclado virtual vai abrir na parte inferior da tela."
+msgstr "Quando você tiver outra oportunidade de digitar, o teclado virtual vai abrir embaixo na tela."
 
 #. (itstool) path: page/p
 #: C/keyboard-osk.page:60
@@ -4072,7 +4073,7 @@ msgstr "Pressione o botão <gui style=\"bottom\">123</gui> para digitar números
 #. (itstool) path: media/span
 #: C/keyboard-osk.page:66
 msgid "keyboard"
-msgstr "Teclado"
+msgstr "teclado"
 
 #. (itstool) path: page/p
 #: C/keyboard-osk.page:65
@@ -4090,7 +4091,7 @@ msgstr "Você pode pressionar o ícone <gui style=\"button\"><_:media-1/></gui> 
 msgid ""
 "Make the keyboard not repeat letters when you hold down a key, or change the"
 " delay and speed of repeat keys."
-msgstr "Faça o teclado não repetir letras quando você manter alguma tecla pressionada, ou mude o tempo de espera ou velocidade para repetir as teclas."
+msgstr "Faça o teclado não repetir as letras quando você mantém uma tecla pressionada, ou altere o atraso e a velocidade de teclas repetidas."
 
 #. (itstool) path: page/title
 #: C/keyboard-repeat-keys.page:36
@@ -4511,7 +4512,7 @@ msgstr "Esta configuração vai afetar o mouse, o touchpad e qualquer outro disp
 #. (itstool) path: info/desc
 #: C/mouse-mousekeys.page:32
 msgid "Enable mouse keys to control the mouse with the numeric keypad."
-msgstr "Ativar teclas do mouse para controlar o ponteiro do mouse com o teclado numérico"
+msgstr "Habilite teclas do mouse para controlar o mouse com o teclado numérico."
 
 #. (itstool) path: page/title
 #: C/mouse-mousekeys.page:36
@@ -4538,7 +4539,7 @@ msgstr "Utilize as setas de sobe e desce do teclado para selecionar <gui>Teclas 
 msgid ""
 "Make sure that <key>Num Lock</key> is turned off. You will now be able to "
 "move the mouse pointer using the keypad."
-msgstr "Certifique-se de que a tecla <key>Num Lock</key> está ativada. Agora, você poderá mover o ponteiro do mouse usando o teclado."
+msgstr "Certifique-se de que o <key>Num Lock</key> está ativado. Agora, você poderá mover o ponteiro do mouse usando o teclado."
 
 #. (itstool) path: page/p
 #: C/mouse-mousekeys.page:63
@@ -4558,7 +4559,7 @@ msgid ""
 "<key>8</key> will move the pointer upwards and pressing <key>2</key> will "
 "move it downwards. Press the <key>5</key> key to click once with the mouse, "
 "or quickly press it twice to double-click."
-msgstr "Cada número no teclado numérico corresponde a uma direção. Por exemplo, ao pressionar <key>8</key>, o ponteiro é movido para cima, enquanto a tecla <key>2</key>, para baixo. Pressione a tecla <key>5</key> para clicar uma vez com o mouse ou pressione-o rapidamente duas vezes para realizar o clique duplo."
+msgstr "Cada número no teclado numérico corresponde a uma direção. Por exemplo, ao pressionar <key>8</key> o ponteiro é movido para cima, enquanto a tecla <key>2</key>, para baixo. Pressione a tecla <key>5</key> para clicar uma vez com o mouse ou pressione-o rapidamente duas vezes para realizar o clique duplo."
 
 #. (itstool) path: page/p
 #: C/mouse-mousekeys.page:75
@@ -4568,7 +4569,7 @@ msgid ""
 "that this key responds to where your keyboard focus is, not where your mouse"
 " pointer is. See <link xref=\"a11y-right-click\"/> for information on how to"
 " right-click by holding down <key>5</key> or the left mouse button."
-msgstr "A maioria dos teclados possuem uma tecla especial que permite que você execute o clique com botão direito, algumas vezes chamado de tecla de <key xref=\"keyboard-key-menu\">Menu</key>. Porém, observe que esta tecla responde à janela onde estiver o foco do seu teclado, e não onde o ponteiro do mouse estiver. Veja <link xref=\"a11y-right-click\"/>Simulando o clique com o botão direito do mouse para informações sobre como executar o clique com o botão direito mantendo pressionado o <key>5</key> ou o botão da esquerda do mouse."
+msgstr "A maioria dos teclados possuem uma tecla especial que permite que você execute o clique com botão direito, algumas vezes chamado de tecla de <key xref=\"keyboard-key-menu\">Menu</key>. Porém, observe que esta tecla responde à janela onde estiver o foco do seu teclado, e não onde o ponteiro do mouse estiver. Veja <link xref=\"a11y-right-click\"/> para informações sobre como executar o clique com o botão direito mantendo pressionado o <key>5</key> ou o botão da esquerda do mouse."
 
 #. (itstool) path: page/p
 #: C/mouse-mousekeys.page:81
@@ -4694,7 +4695,7 @@ msgstr "Use o seu mouse"
 msgid ""
 "View basic file information, set permissions, and choose default "
 "applications."
-msgstr "Veja informações básicas das pastas, selecione permissões e escolha os programas padrão."
+msgstr "Veja informações básicas de arquivo, defina permissões e escolha os aplicativos padrão."
 
 #. (itstool) path: page/title
 #: C/nautilus-file-properties-basic.page:26
@@ -4707,7 +4708,7 @@ msgid ""
 "To view information about a file or folder, right-click it and select "
 "<gui>Properties</gui>. You can also select the file and press "
 "<keyseq><key>Alt</key><key>Enter</key></keyseq>."
-msgstr "Para visualizar informações sobre um arquivo ou pasta, clique com o lado direito e selecione <gui>Propriedades</gui>. Você também poderá selecionar o arquivo e pressionar as teclas <keyseq><key>Alt</key><key>Enter</key></keyseq>."
+msgstr "Para ver informações sobre um arquivo ou pasta, clique com botão direito nele(a) e selecione <gui>Propriedades</gui>. Você também pode selecionar o arquivo e pressionar <keyseq><key>Alt</key><key>Enter</key></keyseq>."
 
 #. (itstool) path: page/p
 #: C/nautilus-file-properties-basic.page:32
@@ -4727,7 +4728,7 @@ msgid ""
 "open#default\">Open With</link></gui> tabs. For certain types of files, such"
 " as images and videos, there will be an extra tab that provides information "
 "like the dimensions, duration, and codec."
-msgstr "A informação dada na aba <gui>Básico</gui> é explicada abaixo. Também há as abas <gui><link xref=\"nautilus-file-properties-permissions\">Permissões</link></gui> e <gui><link xref=\"files-open#default\">Abrir com</link></gui>. Para determinados tipos de arquivos, como imagens e vídeos, haverá uma aba extra que fornece informações como as dimensões, duração e codec."
+msgstr "A informação dada na aba <gui>Básico</gui> é explicada abaixo. Também há as abas <gui><link xref=\"nautilus-file-properties-permissions\">Permissões</link></gui> e <gui><link xref=\"files-open#default\">Abrir com</link></gui>. Para determinados tipos de arquivos, como imagens e vídeos, haverá uma aba extra que fornece informações como as dimensões, duração e codec."
 
 #. (itstool) path: section/title
 #: C/nautilus-file-properties-basic.page:45
@@ -4744,12 +4745,12 @@ msgstr "Nome"
 msgid ""
 "You can rename the file by changing this field. You can also rename a file "
 "outside the properties window. See <link xref=\"files-rename\"/>."
-msgstr "Você pode renomear um arquivo alterando este campo. Você também pode renomear um arquivo fora da janela de propriedades. Veja em <link xref=\"files-rename\"/>."
+msgstr "Você pode renomear o arquivo alterando este campo. Você também pode renomear um arquivo fora da janela de propriedades. Veja <link xref=\"files-rename\"/>."
 
 #. (itstool) path: title/gui
 #: C/nautilus-file-properties-basic.page:54
 msgid "Type"
-msgstr "Formato"
+msgstr "Tipo"
 
 #. (itstool) path: item/p
 #: C/nautilus-file-properties-basic.page:55
@@ -4759,14 +4760,14 @@ msgid ""
 "applications can open the file, among other things. For example, you can't "
 "open a picture with a music player. See <link xref=\"files-open\"/> for more"
 " information on this."
-msgstr "Isso te ajuda a identificar o formato do arquivo, se é um documento em PDF, um OpenDocument Text, ou imagem JPEG. O formato do arquivo determina que tipo de programa deve ser usado para abrir o arquivo, entre outras coisas. Por exemplo, não é possível abrir um arquivo de foto usando o programa de ouvir música. Para mais informações, veja <link xref=\"files-open\"/>."
+msgstr "Isso ajuda você a identificar o tipo de arquivo, como um documento PDF, texto OpenDocument (odt) ou imagem JPEG. O tipo de arquivo determina quais aplicativos podem abrir o arquivo, além de outras coisas. Por exemplo, você pode abrir uma imagem com um reprodutor de música. Veja <link xref=\"files-open\"/> para mais informações sobre isto."
 
 #. (itstool) path: item/p
 #: C/nautilus-file-properties-basic.page:60
 msgid ""
 "The <em>MIME type</em> of the file is shown in parentheses; MIME type is a "
 "standard way that computers use to refer to the file type."
-msgstr "O <em>MIME type</em> do arquivo é mostrado entre parênteses. Os computadores usam o MIME type para se referir ao formato de arquivo."
+msgstr "O <em>tipo MIME</em> do arquivo é mostrado em parênteses; tipo MIME é uma forma padrão que computadores usam para se referir aos tipos de arquivos."
 
 #. (itstool) path: item/title
 #: C/nautilus-file-properties-basic.page:65
@@ -4781,7 +4782,7 @@ msgid ""
 "the folder includes other folders, each inner folder is counted as one item,"
 " even if it contains further items. Each file is also counted as one item. "
 "If the folder is empty, the contents will display <gui>nothing</gui>."
-msgstr "Este campo é exibido se você estiver procurando pelas propriedades de uma pasta em vez de um arquivo. Isso ajuda você a ver o número de itens na pasta. Se a pasta inclui outras pastas, cada pasta interna é contada como um item, mesmo se ela contiver mais outros itens. Cada arquivo é contado como um único item. Se a pasta estiver vazia, os conteúdos vão exibir <gui>nada</gui>."
+msgstr "Este campo é exibido se você estiver procurando pelas propriedades de uma pasta em vez de um arquivo. Isso ajuda você a ver o número de itens na pasta. Se a pasta inclui outras pastas, cada pasta interna é contada como um item, mesmo se ela contiver mais outros itens. Cada arquivo é contado como um único item. Se a pasta estiver vazia, os conteúdos vão exibir <gui>nada</gui>."
 
 #. (itstool) path: item/title
 #: C/nautilus-file-properties-basic.page:70
@@ -4808,7 +4809,7 @@ msgstr "Tamanhos pode ser mostrados em bytes, KB, MB ou GB; no caso dos últimos
 #. (itstool) path: item/title
 #: C/nautilus-file-properties-basic.page:76
 msgid "Location"
-msgstr "Localização"
+msgstr "Local"
 
 #. (itstool) path: item/p
 #: C/nautilus-file-properties-basic.page:77
@@ -4846,7 +4847,7 @@ msgid ""
 "This is only displayed for folders. It gives the amount of disk space which "
 "is available on the disk that the folder is on. This is useful for checking "
 "if the hard disk is full."
-msgstr "Isto só aparece para as pastas. Informa o espaço disponível no disco onde a pasta está localizada. Isto é útil para checar se o disco rígido está cheio."
+msgstr "Isso é exibido apenas para pastas. Isso fornece a quantidade de espaço em disco que está disponível no disco na qual está a pasta. Isso é útil para verificar se o disco rígido está cheio."
 
 #. (itstool) path: item/title
 #: C/nautilus-file-properties-basic.page:98
@@ -4856,7 +4857,7 @@ msgstr "Acessado"
 #. (itstool) path: item/p
 #: C/nautilus-file-properties-basic.page:99
 msgid "The date and time when the file was last opened."
-msgstr "A data e a hora em que o arquivo foi aberto pela última vez."
+msgstr "A data e hora de quando o arquivo foi aberto pela última vez."
 
 #. (itstool) path: item/title
 #: C/nautilus-file-properties-basic.page:103
@@ -4866,17 +4867,17 @@ msgstr "Modificado"
 #. (itstool) path: item/p
 #: C/nautilus-file-properties-basic.page:104
 msgid "The date and time when the file was last changed and saved."
-msgstr "A data e a hora em que o arquivo foi alterado e salvo pela última vez"
+msgstr "A data e hora quando o arquivo foi salvo e alterado pela última vez."
 
 #. (itstool) path: info/desc
 #: C/nautilus-file-properties-permissions.page:8
 msgid "Control who can view and edit your files and folders."
-msgstr "Controle quem pode ver e editar os seus arquivos e pastas."
+msgstr "Controle quem pode ver e editar seus arquivos e suas pastas."
 
 #. (itstool) path: page/title
 #: C/nautilus-file-properties-permissions.page:29
 msgid "Set file permissions"
-msgstr "Determine as permissões para o arquivo"
+msgstr "Definindo permissões de arquivo"
 
 #. (itstool) path: page/p
 #: C/nautilus-file-properties-permissions.page:31
@@ -4884,14 +4885,14 @@ msgid ""
 "You can use file permissions to control who can view and edit files that you"
 " own. To view and set the permissions for a file, right click it and select "
 "<gui>Properties</gui>, then select the <gui>Permissions</gui> tab."
-msgstr "Você pode usar as permissões de arquivos para controlar quem pode ver e editar arquivos que você possui. Para ver e definir permissões de um arquivo, clique com botão direito e selecione <gui>Propriedades</gui> e, então, selecione a aba de <gui>Permissões</gui>."
+msgstr "Você pode usar as permissões de arquivos para controlar quem pode ver e editar arquivos que você possui. Para ver e definir permissões de um arquivo, clique com botão direito e selecione <gui>Propriedades</gui> e, então, selecione a aba de <gui>Permissões</gui>."
 
 #. (itstool) path: page/p
 #: C/nautilus-file-properties-permissions.page:35
 msgid ""
 "See <link xref=\"#files\"/> and <link xref=\"#folders\"/> below for details "
 "on the types of permissions you can set."
-msgstr "Veja abaixo em <link xref=\"#files\"/> e <link xref=\"#folders\"/> para detalhes sobre tipos de permissões para configurar."
+msgstr "Veja <link xref=\"#files\"/> e <link xref=\"#folders\"/> abaixo para detalhes sobre os tipos de permissões que você pode definir."
 
 #. (itstool) path: section/title
 #: C/nautilus-file-properties-permissions.page:39
@@ -4905,7 +4906,7 @@ msgid ""
 "other users of the system. For your files, you are the owner, and you can "
 "give yourself read-only or read-and-write permission. Set a file to read-"
 "only if you don't want to accidentally change it."
-msgstr "Você pode definir as permissões do proprietário do arquivo, do proprietário do grupo e de todos os outros usuários do sistema. Para os seus arquivos, você é o proprietário e você mesmo pode se dar permissão de acesso de somente leitura ou leitura e escrita. Defina um arquivo como somente leitura se você não deseja acidentalmente alterá-lo."
+msgstr "Você pode definir as permissões do proprietário do arquivo, do proprietário do grupo e de todos os outros usuários do sistema. Para os seus arquivos, você é o proprietário e você mesmo pode se dar permissão de acesso de somente leitura ou leitura e escrita. Defina um arquivo como somente leitura, se você não deseja acidentalmente alterá-lo."
 
 #. (itstool) path: section/p
 #: C/nautilus-file-properties-permissions.page:46
@@ -4992,7 +4993,7 @@ msgstr "O usuário será capaz de abrir arquivos na pasta (desde que ele tenha p
 #. (itstool) path: title/gui
 #: C/nautilus-file-properties-permissions.page:88
 msgid "Create and delete files"
-msgstr "Criar e apagar arquivos"
+msgstr "Criar e excluir arquivos"
 
 #. (itstool) path: item/p
 #: C/nautilus-file-properties-permissions.page:89
@@ -5375,7 +5376,7 @@ msgstr "Clique em <gui>IPv4</gui> e altere o <gui>Endereços</gui> para <gui>Man
 msgid ""
 "Type in the <gui>Address</gui> and <gui>Gateway</gui>, as well as the "
 "appropriate <gui>Netmask</gui>."
-msgstr "Digite o <gui>endereço</gui> e o <gui>gateway</gui>, assim como a <gui>máscara de rede </gui> apropriada."
+msgstr "Digite o <gui>Endereço</gui> e <gui>Gateway</gui>, assim como a <gui>Máscara de rede</gui> apropriadade."
 
 #. (itstool) path: item/p
 #: C/net-manual.page:63
@@ -5501,7 +5502,7 @@ msgid ""
 "time as you, you might notice a slow-down. You're most likely to experience "
 "this at times when your neighbors are probably on the internet (in the "
 "evenings, for example)."
-msgstr "Provedores de internet geralmente configuram as conexões de internet para que sejam compartilhadas entre diversas casas. Mesmo que você se conecte separadamente através de seu próprio cabo de linha telefônica ou conexão, a conexão com o resto da internet na caixa central da operadora é compartilhada. Se este é o seu caso, muitos dos seus vizinhos estão usando a internet ao mesmo tempo que você, você pode experienciar uma lentidão na internet, por exemplo, nos finais de tarde."
+msgstr "Provedores de Serviço de Internet (ISP) normalmente configuram conexões internet de forma que elas são compartilhadas entre diversas residências. Apesar de conectarem separadamente, cada um por sua própria linha telefônica ou conexão por cabo, a conexão para o resto da Internet na troca telefônica pode ser, na verdade, compartilhada. Se esse for o caso e se muitos vizinhos estão usando a internet ao mesmo tempo que você está, você pode sentir uma lentidão. Você muito provavelmente perceberá isso nos momentos em que seus vizinhos estiverem na internet (no final da tarde, por exemplo)."
 
 #. (itstool) path: item/p
 #: C/net-slow.page:31
@@ -5706,7 +5707,7 @@ msgstr "Solucionando problemas com a internet"
 msgid ""
 "To set up most wired network connections, all you need to do is plug in a "
 "network cable."
-msgstr "Para configurar uma rede com fio, tudo que precisa fazer é conectar o cabo de rede no seu Endless."
+msgstr "Para configurar a maioria das conexões de rede com fio, tudo que você precisa fazer é conectar um cabo de rede."
 
 #. (itstool) path: page/title
 #: C/net-wired-connect.page:19
@@ -5731,7 +5732,7 @@ msgid ""
 "should be plugged into a switch, router, network wall socket or similar "
 "(depending on the network setup you have). Sometimes, a light beside the "
 "Ethernet port will indicate that it is plugged in and active."
-msgstr "Se isto não acontecer, você dever primeiro verificar se o cabo de rede realmente está conectado. Uma ponta do cabo deve estar conectada na porta retangular (Ethernet) do seu computador, e a outra ponta deve estar ligada no switch, roteador, ou equipamento de rede similar (dependendo do que você tiver). As vezes, uma luz ao lado da conexão Ethernet vai indiciar se o cabo está conectado e ativo."
+msgstr "Se isso não acontecer, você deveria primeiro se certificar que sua rede cabeada está conectada. Uma ponta do cabe deveria estar conectada na porta Ethernet (de rede) em seu computador e a outra ponta deveria estar conectada em um switch, roteador, tomada de rede na parede ou algo similar (dependendo da configuração de rede que você tenha). Algumas vezes, uma luz por volta da porta Ethernet vai indicar que ela esta conectada e ativa."
 
 #. (itstool) path: note/p
 #: C/net-wired-connect.page:27
@@ -5739,7 +5740,7 @@ msgid ""
 "You can't plug one computer directly into another one with a network cable "
 "(at least, not without some extra setting-up). To connect two computers, you"
 " should plug them both into a network hub, router or switch."
-msgstr "Você não pode conectar o computador diretamente a outro com um cabo de rede (pelo menos não sem nenhuma configuração extra). Para conectar dois computadores, você deve conectá-los por um hub, roteador ou switch."
+msgstr "Você não pode se conectar a um computador diretamente em outro com um cabo de rede (pelo menos não sem fazer algumas configurações adicionais). Para conectar dois computadores, você deveria conectar ambos em um hub de rede, roteador ou switch."
 
 #. (itstool) path: page/p
 #: C/net-wired-connect.page:30
@@ -5747,7 +5748,7 @@ msgid ""
 "If you are still not connected, your network may not support automatic setup"
 " (DHCP). In this case you will have to <link xref=\"net-manual\">configure "
 "it manually</link>."
-msgstr "Se ainda assim você não estiver conectado, sua rede pode não suportar configuração automática (DHCP). Neste caso, você terá que <link xref=\"net-manual\">configurá-la manualmente</link>."
+msgstr "Se você ainda não estiver conectado, sua rede pode não oferecer suporte a configuração automática (DHCP). Nesse caso, você terá que <link xref=\"net-manual\">configurá-la manualmente</link>."
 
 #. (itstool) path: info/desc
 #: C/net-wireless-adhoc.page:24
@@ -5897,7 +5898,7 @@ msgid ""
 "If the network is protected by a password (<link xref=\"net-wireless-"
 "wepwpa\">encryption key</link>), enter the password when prompted and click "
 "<gui>Connect</gui>."
-msgstr "Se a rede for protegida por uma senha (<link xref=\"net-wireless-wepwpa\">senha encriptada</link>), entre a senha quando solicitado e clique em <gui>Conectar</gui>. "
+msgstr "Se a rede está protegida por uma senha (<link xref=\"net-wireless-wepwpa\">chave de criptografia</link>), digite a senha quando perguntada e clique <gui>Conectar</gui>."
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:56
@@ -5912,7 +5913,7 @@ msgstr "Se você não sabe a senha, ela pode estar escrita na parte de baixo do 
 msgid ""
 "The network icon will change appearance as the computer attempts to connect "
 "to the network."
-msgstr "O ícone de rede vai mudar de aparência enquanto o computador tenta se conectar a internet."
+msgstr "O ícone de rede vai alterar aparência quando o computador tenta conectar à rede."
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:62
@@ -5951,19 +5952,19 @@ msgid ""
 "which provides the internet connection</em> (like a router or modem), but "
 "the two connections are actually different, and so will run at different "
 "speeds."
-msgstr "Uma conexão de rede sem fio não necessariamente significa que você tem uma internet mais rápida, ou que você vai conseguir baixar a maiores velocidades. A conexão sem fio conecta o seu computador a outro <em>dispositivo que prove acesso à internet</em> (como um roteador ou modem), mas as duas conexões são diferentes e podem ocorrer a diferentes velocidades."
+msgstr "Uma conexão mais forte com a rede sem fio não necessariamente significa que você tem uma conexão internet mais rápida ou que você terá velocidades de download mais rápidas. A conexão sem fio conecta seu computador ao <em>dispositivo de rede que fornece a conexão internet</em> (como um roteador ou modem), mas as conexões na verdade são diferentes e, portanto, funcionarão em velocidades diferente."
 
 #. (itstool) path: info/desc
 #: C/net-wireless-disconnecting.page:22
 msgid ""
 "You might have low signal, or the network might not be letting you connect "
 "properly."
-msgstr "Você pode ter sinal baixo, ou a rede não pode estar permitindo que você se conectar corretamente."
+msgstr "Você pode ter um sinal fraco ou a rede pode não estar permitindo que você se conecte apropriadamente."
 
 #. (itstool) path: page/title
 #: C/net-wireless-disconnecting.page:27
 msgid "Why does my wireless network keep disconnecting?"
-msgstr "Por que minha rede sem fio fica se desconectando?"
+msgstr "Por que minha conexão sem fio fica desconectando?"
 
 #. (itstool) path: page/p
 #: C/net-wireless-disconnecting.page:29
@@ -5973,7 +5974,7 @@ msgid ""
 "reconnect to the network as soon as this happens (the network icon on the "
 "top bar will display three dots if it is trying to reconnect), but it can be"
 " annoying, especially if you were using the internet at the time."
-msgstr "Você pode perceber que você foi desconectado de uma rede sem fio, mesmo que você queria ficar conectado. Seu computador irá normalmente tentar se reconectar à rede assim que isto acontecer (no ícone de rede na barra superior irá exibir três pontos se o computador estiver tentando se reconectar), mas pode ser irritante, especialmente se você estiver usando a internet no momento."
+msgstr "Você pode descobrir que você foi desconectado de uma rede sem fio ainda que você quisesse se manter conectado. Seu computador normalmente vai tentar se reconectar à rede assim que isso acontecer (o ícone de rede na barra superior vai exibir três pontos se ele estiver tentando se reconectar), mas isso pode ser irritante, especialmente se você estava tentando usar a internet no momento."
 
 #. (itstool) path: section/title
 #: C/net-wireless-disconnecting.page:36
@@ -5988,7 +5989,7 @@ msgid ""
 "far away from the wireless base station you may not be able to get a strong "
 "enough signal to maintain a connection. Walls and other objects between you "
 "and the base station can also weaken the signal."
-msgstr "Um motivo comum para ser desconectado de uma rede sem fio é um sinal fraco. Redes sem fio possuem um alcance limitado, então se você estiver muito longe da estação base, você pode não ter um sinal forte o suficiente para manter a conexão ativa. Paredes e outros objetos entre você e a base de rede sem fio podem contribuir para diminuir o sinal."
+msgstr "Um motivo comum para ser desconectado de uma rede sem fio é que você tem um sinal fraco. Redes sem fio têm um alcance limitado, então se você está muito longe da estação base de rede sem fio você pode não conseguir manter um sinal forte o suficiente para manter uma conexão. Paredes e outros objetos entre você e a estação base também pode enfraquecer o sinal."
 
 #. (itstool) path: section/p
 #: C/net-wireless-disconnecting.page:44
@@ -6000,7 +6001,7 @@ msgstr "O ícone de rede na barra de tarefas mostra quão forte o sinal de rede 
 #. (itstool) path: section/title
 #: C/net-wireless-disconnecting.page:50
 msgid "Network connection not being established properly"
-msgstr "Conexão de rede não está sendo devidamente estabelecida"
+msgstr "Conexão de rede não estabeleceu adequadamente"
 
 #. (itstool) path: section/p
 #: C/net-wireless-disconnecting.page:52
@@ -6011,7 +6012,7 @@ msgid ""
 "successful in connecting to the network - it managed to establish a "
 "connection, but was unable to finalize the connection for some reason and so"
 " was disconnected."
-msgstr "As vezes, quando você se conecta a uma rede sem fio, pode parecer que você está conectado com sucesso no inicio, porém logo após você é desconectado. Isto geralmente acontece por que o seu computador apenas conseguiu parcialmente se conectar a rede - ele gerenciou o estabelecimento de conexão mas não conseguiu finalizar a conexão por algum motivo e foi desconectado."
+msgstr "Em certos casos, quando você se conecta a uma rede sem fio, pode parecer que você se conectou com sucesso a primeira vista, mas, então, você será desconectado em seguida. Isso normalmente acontece porque seu computador teve sucesso parcial na conexão com a rede - ele conseguiu estabelecer uma conexão, mas não conseguiu finalizar a conexão por algum motivo e, então, foi desconectado."
 
 #. (itstool) path: section/p
 #: C/net-wireless-disconnecting.page:59
@@ -6019,7 +6020,7 @@ msgid ""
 "A possible reason for this is that you entered the wrong wireless "
 "passphrase, or that your computer was not allowed on the network (because "
 "the network requires a username to log in, for example)."
-msgstr "Uma possível razão para isto é que você entrou a senha de internet errada, ou que o computador não foi permitido na rede (por que a rede solicita um usuário para entrar, por exemplo)."
+msgstr "Um possível motivo para isso é que você inseriu a palavra-chave errada para a conexão sem fio ou que seu computador não tem permissão na rede (porque a rede requer um nome de usuário para se autenticar, por exemplo)."
 
 #. (itstool) path: section/title
 #: C/net-wireless-disconnecting.page:66
@@ -6035,7 +6036,7 @@ msgid ""
 "quite regularly with many devices. If you are disconnected from wireless "
 "connections from time to time, this may be the only reason. If it happens "
 "very regularly, you may want to consider getting some different hardware."
-msgstr "Alguns equipamentos de rede sem fio podem ser pouco confiáveis. Redes sem fio são complicadas, também placas de rede sem fio e estações de rede sem fio ocasionalmente passam por pequenas dificuldades técnicas e derrubam as conexões. Se você estiver sendo desconectado de tempo em tempo, esta pode ser a única razão. Se isto acontecer regularmente, você pode querer analisar a compra de um novo hardware."
+msgstr "Alguns hardware de rede sem fio podem ser um pouco não confiáveis. Redes sem fio são complicadas e, portanto, placas de rede sem fio e estações bases ocasionalmente acabam tendo pequenos problemas e podem descartar a conexão. Isso é irritante, mas acontece com certa frequência com muitos dispositivos. Se você é desconectado de redes sem fio de tempo em tempo, isso pode ser o único motivo. se isso acontece com muita frequência, você poderia considerar obter um hardware diferente."
 
 #. (itstool) path: section/title
 #: C/net-wireless-disconnecting.page:78
@@ -6049,7 +6050,7 @@ msgid ""
 "example) often have many computers trying to connect to them at once. "
 "Sometimes these networks get too busy and may not be able to handle all of "
 "the computers that are trying to connect, so some of them get disconnected."
-msgstr "Redes sem fio em lugares muito movimento (em universidades, cafés, por exemplos) geralmente possuem muitos equipamentos tentando se conectar de uma só vez. As vezes estas redes ficam muito ocupadas e não são capazes de suportar todos os computadores que estão tentando se conectar, então alguns deles são desconectados."
+msgstr "Redes sem fio em locais cheios (em universidades e webcafés, por exemplo) normalmente têm muitos computadores tentando se conectar a elas de uma só vez. Algumas vezes, essas redes ficam muito congestionadas e podem não conseguir lidar com todos os computadores que estão tentando se conectar e aí alguns deles são desconectados."
 
 #. (itstool) path: info/desc
 #: C/net-wireless-find.page:17
@@ -6091,7 +6092,7 @@ msgid ""
 "You could be out of range of the network. Try moving closer to the wireless "
 "base station/router and see if the network appears in the list after a "
 "while."
-msgstr "Você pode estar fora de alcance da sua rede. Tente se mover mais próximo da base da rede sem fio ou roteador e veja se a rede, então, aparece na lista depois de um tempo."
+msgstr "Você pode estar fora do alcance da rede. Tente mover para mais perto da estação base/roteador e veja se a rede aparece na lista após um pequeno tempo."
 
 #. (itstool) path: item/p
 #: C/net-wireless-find.page:47
@@ -6099,14 +6100,14 @@ msgid ""
 "The list of wireless networks takes time to update. If you have just turned "
 "on your computer or moved to a different location, wait for a minute or so "
 "and then check if the network has appeared in the list."
-msgstr "Leva um tempo para atualizar a lista de redes sem fio. Se você tiver acabado de ligar o seu computador ou se deslocado para um local diferente, espere por pelo menos um minuto e então verifique se a rede agora aparece na sua lista."
+msgstr "A lista de redes sem fio leva um tempo para atualizar. Se você acabou de ligar seu computador ou o moveu para uma localização diferente, espere um minuto ou mais e, então, verifique se a rede apareceu na lista."
 
 #. (itstool) path: item/p
 #: C/net-wireless-find.page:53
 msgid ""
 "The network could be hidden. You need to <link xref=\"net-wireless-"
 "hidden\">connect in a different way</link> if it is a hidden network."
-msgstr "A rede pode estar ocultada. Você pode precisar  <link xref=\"net-wireless-hidden\">conectar de maneira diferente</link> se a rede estiver oculta."
+msgstr "A rede pode estar oculta. Você precisa <link xref=\"net-wireless-hidden\">conectar de uma forma diferente</link> se ela for uma rede oculta."
 
 #. (itstool) path: info/desc
 #: C/net-wireless-hidden.page:25
@@ -6116,7 +6117,7 @@ msgstr "Conectar-se a uma rede que você pode não ser capaz de ver."
 #. (itstool) path: page/title
 #: C/net-wireless-hidden.page:29
 msgid "Connect to a hidden wireless network"
-msgstr "Conectando a um rede sem fio oculta "
+msgstr "Conectando a um rede sem fio oculta"
 
 #. (itstool) path: page/p
 #: C/net-wireless-hidden.page:31
@@ -6165,14 +6166,14 @@ msgid ""
 "point's MAC address), which looks something like "
 "<gui>02:00:01:02:03:04</gui> and can usually be found on the underside of "
 "the access point."
-msgstr "Você talvez tenha que verificar as configurações da rede sem fio no roteador para verificar o nome correto da rede. Se você não sabe o nome da rede (SSID), você pode usar o <em>BSSID</em> (o mac address do access point), que aparece mais ou menos com isto <gui> 02:00:01:02:03:04</gui> e pode geralmente ser encontrado na parte de baixo do ponto de acesso."
+msgstr "Você pode ter que verificar as configurações do roteador ou ponto acesso sem fio para ver qual é o nome da rede. Se você tem o nome da rede (SSID), você pode usar o <em>BSSID</em> (Basic Service Set Identifier, o endereço MAC do ponto de acesso), o que se parece com <gui>02:00:01:02:03:04</gui> e normalmente pode ser encontrado na parte inferior do ponto de acesso."
 
 #. (itstool) path: page/p
 #: C/net-wireless-hidden.page:61
 msgid ""
 "You should also check the security settings for the wireless access point. "
 "Look for terms like WEP and WPA."
-msgstr "Você também deve checar as configurações de segurança para os pontos de acesso sem fio. Procure por termos como WEP e WPA."
+msgstr "Você deve verificar pelas configurações de segurança do ponto de acesso sem fio. Procure por termos como WEP e WPA."
 
 #. (itstool) path: note/p
 #: C/net-wireless-hidden.page:65
@@ -6186,12 +6187,12 @@ msgstr "Esconder sua rede pode ajudar a melhorar a segurança impedindo pessoas 
 #. (itstool) path: info/desc
 #: C/net-wireless-noconnection.page:17
 msgid "Double-check the password, and other things to try."
-msgstr "Verifique a senha e outras coisas para experimentar."
+msgstr "Verifique novamente a senha e outras coisas que você pode tentar."
 
 #. (itstool) path: page/title
 #: C/net-wireless-noconnection.page:21
 msgid "I've entered the correct password, but I still can't connect"
-msgstr "Eu digitei a senha correta, mesmo assim não consigo me conectar."
+msgstr "Eu inseri a senha correta, mas ainda não consigo conectar"
 
 #. (itstool) path: page/p
 #: C/net-wireless-noconnection.page:23
@@ -6199,7 +6200,7 @@ msgid ""
 "If you're sure that you entered the correct <link xref=\"net-wireless-"
 "wepwpa\">wireless password</link> but you still can't successfully connect "
 "to a wireless network, try some of the following:"
-msgstr "Se você está confiante que digitou a <link xref=\"net-wireless-wepwpa\">senha da rede sem fio</link> corretamente mas ainda não consegue se conectar com sucesso, tente o seguinte:"
+msgstr "Se você tem certeza que você inseriu a <link xref=\"net-wireless-wepwpa\">senha de rede sem fio</link> correta, mas você ainda não consegue conectar com sucesso à rede sem fio, tente alguns das seguintes tentativas:"
 
 #. (itstool) path: item/p
 #: C/net-wireless-noconnection.page:27
@@ -6212,12 +6213,12 @@ msgid ""
 "Passwords are case-sensitive (it matters whether they have capital or lower-"
 "case letters), so check that you didn't get the case of one of the letters "
 "wrong."
-msgstr "As senhas diferenciam maiúsculas de minúsculas, de modo a verificar que você não conseguiu o caso de uma das letras erradas."
+msgstr "Senhas diferenciam maiúsculo de minúsculo, então certifique-se de que você não tem qualquer das letras maiúsculas/minúsculas erroneamente."
 
 #. (itstool) path: item/p
 #: C/net-wireless-noconnection.page:32
 msgid "Try turning your wireless card off and then on again"
-msgstr "Tente desligar sua placa de rede sem fio e liga-la novamente."
+msgstr "Tentar desligar sua placa de rede sem fio e, então, ligar novamente"
 
 #. (itstool) path: item/p
 #: C/net-wireless-noconnection.page:33
@@ -6239,12 +6240,12 @@ msgid ""
 "the router or wireless base station. This should be selected by default, but"
 " sometimes it will not be for some reason. If you don't know which one it "
 "is, use trial and error to go through the different options."
-msgstr "No momento de fornecer a senha de acesso à rede sem fio, você poderá escolher que tipo de segurança usar. Certifique-se de escolher um padrão que seja usado pelo roteador ou pela estação base sem fio. Isso deverá ser selecionado automaticamente mas, às vezes, por alguma razão, isso não acontece. Se não sabe qual é, verifique as outras opções por meio de tentativa e erro."
+msgstr "Quando solicitada sua senha de segurança sem fio, você pode escolher qual tipo de segurança sem fio pretende usar. Certifique-se de escolher aquela que é usada pelo rotador ou ponto de acesso. Ela deveria estar selecionado por padrão, mas em alguns casos ela não estará por algum motivo. Se você não sabe qual é, use a técnica de tentativa-e-erro com as diferentes opções."
 
 #. (itstool) path: item/p
 #: C/net-wireless-noconnection.page:42
 msgid "Check that your wireless card is properly supported"
-msgstr "Confira se o seu cartão sem fio possui o suporte adequado"
+msgstr "Certificar que há suporte adequado à sua placa de rede sem fio"
 
 #. (itstool) path: item/p
 #: C/net-wireless-noconnection.page:43
@@ -6277,12 +6278,12 @@ msgstr "A sua senha pode ser representada de uma forma diferente –como uma seq
 #. (itstool) path: info/desc
 #: C/net-wireless-wepwpa.page:17
 msgid "WEP and WPA are ways of encrypting data on wireless networks."
-msgstr "WEP e WPA são maneiras de criptografar  dados em redes sem fio."
+msgstr "WEP e WPA são formas de criptografar dados em redes sem fio."
 
 #. (itstool) path: page/title
 #: C/net-wireless-wepwpa.page:21
 msgid "What do WEP and WPA mean?"
-msgstr "O que significa WEP e WPA?"
+msgstr "O que WEP e WPA significam?"
 
 #. (itstool) path: page/p
 #: C/net-wireless-wepwpa.page:23
@@ -6293,7 +6294,7 @@ msgid ""
 "pages you are viewing, for example. WEP stands for <em>Wired Equivalent "
 "Privacy</em>, and WPA stands for <em>Wireless Protected Access</em>. WPA2 is"
 " the second version of the WPA standard."
-msgstr "WEP e WAP (juntamente com WPA2) são nomes de diferentes ferramentas de criptografia usados para garantir a segurança da conexão sem fio. A criptografia embaralha a conexão para que ninguém consiga \"escutar\" o que você está fazendo ou identificar os sites em que você estiver navegando. WEP significa <em>Wired Equivalent Privacy</em> (privacidade equivalente a fio) e WPA significa <em>Wireless Protected Access</em> (Acesso sem fio protegido). WPA2 é a segunda versão do padrão WPA."
+msgstr "WEP e WPA (junto com WPA2) são nomes para diferentes ferramentas de criptografia usadas para prover segurança à sua conexão de rede sem fio. Criptografia embaralha a conexão de rede, de forma que ninguém pode \"ouvi-la\" e saber quais páginas web você está vendo, por exemplo. WEP significa <em>Wired Equivalent Privacy</em> (em português, privacidade equivalente à rede cabeada) e WPA significa <em>Wireless Protected Access</em> (em português, acesso sem fio protegido). WPA2 é a segunda versão do padrão WPA."
 
 #. (itstool) path: page/p
 #: C/net-wireless-wepwpa.page:30
@@ -6303,7 +6304,7 @@ msgid ""
 "avoid it. WPA2 is the most secure of the three. If your wireless card and "
 "router support WPA2, that is what you should use when setting up your "
 "wireless network."
-msgstr "<em>Algum</em> tipo de criptografia é sempre melhor do que nenhuma, mas o padrão WEP é o menos seguro de todos e você deve evitá-lo se possível. WPA2 é o mais seguro dos três. Se o seu cartão de internet sem fio ou o seu roteador forem compatíveis com WPA2, é esse que você deve usar."
+msgstr "Usando <em>alguma</em> criptografia é sempre melhor que nenhuma, mas WEP é a menos segura desses padrões e você não deveria usá-la, se puder evitar. WPA2 é a mais segura das três. Se sua placa de rede sem fio e roteador funcionarem com WPA2, é essa que você deve usar ao configurar sua rede sem fio."
 
 #. (itstool) path: info/desc
 #: C/net.page:11
@@ -6417,7 +6418,7 @@ msgstr "Se você acidentalmente iniciou a impressão de um documento, você pode
 #. (itstool) path: steps/title
 #: C/printing-cancel-job.page:41
 msgid "How to cancel a print job:"
-msgstr "Como cancelar um trabalho de impressão."
+msgstr "Como cancelar um trabalho de impressão:"
 
 #. (itstool) path: item/p
 #: C/printing-cancel-job.page:49 C/printing-cancel-job.page:92
@@ -6599,12 +6600,12 @@ msgstr "Selecione a impressora desejada e adicione as especificações para o tr
 #. (itstool) path: info/desc
 #: C/printing-order.page:8
 msgid "Collate and reverse the print order."
-msgstr "Intercalar e inverter a ordem de impressão"
+msgstr "Intercale e inverta a ordem de impressão."
 
 #. (itstool) path: page/title
 #: C/printing-order.page:23
 msgid "Make pages print in a different order"
-msgstr "Imprima as páginas em ordem diferente"
+msgstr "Fazendo páginas imprimirem em uma ordem diferente"
 
 #. (itstool) path: section/title
 #: C/printing-order.page:26
@@ -6778,7 +6779,7 @@ msgstr "Como configurar minha impressora?"
 #. (itstool) path: info/desc
 #: C/printing-setup.page:39
 msgid "Set up a printer that is connected to your computer."
-msgstr "Configure uma impressora que está conectada ao seu computador."
+msgstr "Configure uma impressora que está conectada a seu computador."
 
 #. (itstool) path: page/title
 #: C/printing-setup.page:42
@@ -6902,14 +6903,14 @@ msgid ""
 "Open the print dialog. This can normally be done through <gui "
 "style=\"menuitem\">Print</gui> in the menu or using the "
 "<keyseq><key>Ctrl</key><key>P</key></keyseq> keyboard shortcut."
-msgstr "Abra a janela de impressão. Isto normalmente pode ser feito através do menu <gui style=\"menuitem\">Imprimir</gui> ou utilizando o atalho de teclado <keyseq><key>Ctrl</key><key>P</key></keyseq>."
+msgstr "Abra o diálogo de impressão. Isso normalmente pode ser feito por meio de <gui style=\"menuitem\">Imprimir</gui> no menu ou usando o atalho de teclado <keyseq><key>Ctrl</key><key>P</key></keyseq>."
 
 #. (itstool) path: item/p
 #: C/printing-to-file.page:36
 msgid ""
 "Select <gui>Print to File</gui> under <gui>Printer</gui> in the <gui "
 "style=\"tab\">General</gui> tab."
-msgstr "Selecione <gui>Imprimir para arquivo</gui> na <gui>Impressora</gui> na aba <gui style=\"tab\">Geral</gui>."
+msgstr "Selecione <gui>Imprimir para arquivo</gui> sob <gui>Impressora</gui> na aba <gui style=\"tab\">Geral</gui>."
 
 #. (itstool) path: item/p
 #: C/printing-to-file.page:40
@@ -6917,7 +6918,7 @@ msgid ""
 "To change the default filename and where the file is saved to, click the "
 "filename below the printer selection. Click <gui "
 "style=\"button\">Select</gui> once you have finished choosing."
-msgstr "Para alterar o nome do arquivo padrão e onde ele será salvo, clique no nome do arquivo abaixo a seleção da impressora. Clique <gui style=\"button\">Selecionar</gui> uma vez que tiver finalizado."
+msgstr "Para alterar o nome padrão de arquivo e onde o arquivo será salvo, clique no nome do arquivo em baixo da seleção de impressora. Clique <gui style=\"button\">Selecionar</gui> assim que você tiver concluído a seleção."
 
 #. (itstool) path: item/p
 #: C/printing-to-file.page:45
@@ -6925,12 +6926,12 @@ msgid ""
 "<sys>PDF</sys> is the default file type for the document. If you want to use"
 " a different <gui>Output format</gui>, select either <sys>Postscript</sys> "
 "or <sys>SVG</sys>."
-msgstr "<sys>PDF</sys> é o tipo padrão do documento. Se você desejar utilizar um tipo diferente de <gui>formato de saída</gui>, selecione <sys>Postscript</sys> ou <sys>SVG</sys>."
+msgstr "<sys>PDF</sys> é o tipo padrão de arquivo apara o documento. Se você deseja usar um <gui>Formato de saída</gui> diferente, selecione <sys>Postscript</sys> ou <sys>SVG</sys>."
 
 #. (itstool) path: item/p
 #: C/printing-to-file.page:50
 msgid "Choose your other page preferences."
-msgstr "Escolha suas outras preferências."
+msgstr "Escolha suas outras preferências de página."
 
 #. (itstool) path: item/p
 #: C/printing-to-file.page:53
@@ -6942,7 +6943,7 @@ msgstr "Pressione <gui style=\"button\">Imprimir</gui> para salvar o arquivo."
 msgid ""
 "Prevent other people from using your desktop when you go away from your "
 "computer."
-msgstr "Previna outras pessoas de usar o seu computador quando você está longe dele."
+msgstr "Evite que outras pessoas usem seu computador quanto você estiver distante dele."
 
 #. (itstool) path: page/title
 #: C/privacy-screen-lock.page:30
@@ -7000,7 +7001,7 @@ msgstr "Para permitir notificações para ser exibido na tela de bloqueio, alter
 #. (itstool) path: item/p
 #: C/privacy-screen-lock.page:67
 msgid "Click <gui>Close</gui>."
-msgstr "Clique <gui>Fechar</gui>."
+msgstr "Clique em <gui>Fechar</gui>."
 
 #. (itstool) path: page/p
 #: C/privacy-screen-lock.page:71
@@ -7442,7 +7443,7 @@ msgstr "Clique em <gui>Compartilhamento</gui>."
 #. (itstool) path: item/p
 #: C/sharing-bluetooth.page:99
 msgid "If <gui>Sharing</gui> is <gui>OFF</gui>, switch it to <gui>ON</gui>."
-msgstr "Se <gui>Compartilhamento</gui> estiver <gui>DESLIGADO</gui>, altere para <gui>LIGADO</gui>."
+msgstr "Se <gui>Compartilhar</gui> estiver em <gui>OFF</gui>, alterne-o para <gui>ON</gui>."
 
 #. (itstool) path: note/p
 #: C/sharing-bluetooth.page:102
@@ -8260,7 +8261,7 @@ msgstr "<link xref=\"shell-windows-switching\">Aprenda mais sobre alternância d
 #. (itstool) path: info/desc
 #: C/shell-keyboard-shortcuts.page:8
 msgid "Get around the desktop using the keyboard."
-msgstr "Utilize o teclado para mover-se pela área de trabalho."
+msgstr "Conheça o ambiente de trabalho usando o teclado."
 
 #. (itstool) path: page/title
 #: C/shell-keyboard-shortcuts.page:28
@@ -8315,7 +8316,7 @@ msgstr "<keyseq><key>Super</key><key>Tab</key></keyseq>"
 msgid ""
 "<link xref=\"shell-windows-switching\">Quickly switch between "
 "windows</link>. Hold down <key>Shift</key> for reverse order."
-msgstr "<link xref=\"shell-windows-switching\">Alterne rapidamente entre janelas</link>. Mantenha o <key>Shift</key> pressionado para uma ordem reversa de alternância."
+msgstr "<link xref=\"shell-windows-switching\">Alterne rapidamente entre janelas.</link>. Mantenha o <key>Shift</key> pressionado para uma ordem reversa de alternância."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:53
@@ -8335,7 +8336,7 @@ msgid ""
 "This shortcut uses <key>`</key> on US keyboards, where the <key>`</key> key "
 "is above <key>Tab</key>. On all other keyboards, the shortcut is "
 "<key>Super</key> plus the key above <key>Tab</key>."
-msgstr "Este atalho usa <key>`</key> em teclados americanos, sendo que a tecla <key>`</key> está sobre o <key>Tab</key>. Em todos os outros tipos de teclado, o atalho é <key>Super</key> mais a tecla que estiver sobre o <key>Tab</key>."
+msgstr "Este atalho usa <key>`</key> em teclados americanos, sendo que a tecla <key>`</key> está sobre o <key>Tab</key>. Em todos os outros teclados, o atalho é <key>Super</key> mais a tecla que estiver sobre o <key>Tab</key>."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:64
@@ -8398,7 +8399,7 @@ msgstr "<keyseq><key>Ctrl</key><key>A</key></keyseq>"
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:93
 msgid "Select all text or items in a list."
-msgstr "Select all text or items in a list."
+msgstr "Seleciona todo o texto ou todos os itens em uma lista."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:96
@@ -8443,7 +8444,7 @@ msgstr "Desfaz a última ação."
 #. (itstool) path: table/title
 #: C/shell-keyboard-shortcuts.page:114
 msgid "Capturing from the screen"
-msgstr "Capturing from the screen"
+msgstr "Capturando a tela"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:116
@@ -8478,7 +8479,7 @@ msgid ""
 "<link xref=\"screen-shot-record#screenshot\">Take a screenshot of an area of"
 " the screen.</link> The pointer changes to a crosshair. Click and drag to "
 "select an area."
-msgstr "<link xref=\"screen-shot-record#screenshot\">Faz uma captura de uma área da tela.</link> O ponteiro torna-se uma mira. Clique e arraste para selecionar uma área."
+msgstr "<link xref=\"screen-shot-record#screenshot\">Faça uma captura de uma área da tela.</link> O ponteiro torna-se uma mira. Clique e arraste para selecionar uma área."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:131
@@ -8491,7 +8492,7 @@ msgstr "<keyseq><key>Ctrl</key><key>Alt</key><key>Shift</key><key>R</key></keyse
 msgid ""
 "<link xref=\"screen-shot-record#screencast\">Start and end screencast "
 "recording.</link>"
-msgstr "<link xref=\"screen-shot-record#screencast\">Inicia e finaliza uma gravação da tela.</link>"
+msgstr "<link xref=\"screen-shot-record#screencast\">Inicia e finaliza uma gravação de tela.</link>"
 
 #. (itstool) path: credit/name
 #: C/shell-notifications.page:14
@@ -8576,7 +8577,7 @@ msgid ""
 " by clicking the blue number icon at the right-hand side of the window list."
 " The message tray contains all the notifications that you have not acted "
 "upon or that permanently reside in it."
-msgstr "A área de notificação lhe fornece uma maneira de recuperar suas notificações quando lhe for conveniente. Ela aparece quando você move o mouse para o canto inferior direito da tela ou pressiona <keyseq><key xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq>. Nela estão todas as notificações sobre as quais você não tomou uma atitude ou que residem permanentemente lá."
+msgstr "A área de notificação lhe fornece uma maneira de recuperar suas notificações quando lhe for conveniente. Ela aparece quando você move o mouse para o canto inferior direito da tela ou pressiona <keyseq> <key xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq>. Você também pode mostrar a área de notificação clicando no ícone de número azul no lado direito da lista de janelas. Nela estão todas as notificações sobre as quais você não tomou uma atitude ou que residem permanentemente lá."
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:77
@@ -8592,7 +8593,7 @@ msgstr "Você pode ver as notificações clicando nos itens da área de notifica
 msgid ""
 "You can close the message tray by pressing "
 "<keyseq><key>Super</key><key>M</key></keyseq> again or <key>Esc</key>."
-msgstr "Você pode fechar a área de notificação pressionando <keyseq><key>Super</key><key>M</key></keyseq> novamente ou <key>Esc</key>."
+msgstr "Você pode fechar a área de notificação pressionando <keyseq><key>Super</key><key>M</key></keyseq> novamente ou <key>Esc</key>."
 
 #. (itstool) path: note/p
 #: C/shell-notifications.page:86
@@ -8911,7 +8912,7 @@ msgid ""
 "the screen. If the window is fully maximized, you can double-click the "
 "titlebar to restore it. You can also use the same keyboard shortcuts you "
 "used to maximize the window."
-msgstr "Para restaurar uma janela para seu tamanho não maximizado, arraste afastando-a das bordas da janela. Se a janela está completamente maximizada, você pode realizar clique duplo na barra de título para restaurá-la. Você também pode usar os mesmos atalhos de teclado que você usou para maximizar a janela"
+msgstr "Para restaurar uma janela para seu tamanho não maximizado, arraste afastando-a das bordas da janela. Se a janela está completamente maximizada, você pode realizar clique duplo na barra de título para restaurá-la. Você também pode usar os mesmos atalhos de teclado que você usou para maximizar a janela."
 
 #. (itstool) path: note/p
 #: C/shell-windows-maximize.page:43
@@ -8922,12 +8923,12 @@ msgstr "Matenha pressionada a tecla <key>Alt</key> e arraste-a em qualquer lugar
 #. (itstool) path: info/desc
 #: C/shell-windows-states.page:9
 msgid "Arrange windows in a workspace to help you work more efficiently."
-msgstr "Organize as janelas na sua área de trabalho para lhe ajudar a trabalhar mais eficientimente."
+msgstr "Organize as janelas em um espaço de trabalho para ajudar você a trabalhar com mais eficiência."
 
 #. (itstool) path: page/title
 #: C/shell-windows-states.page:22
 msgid "Move and resize windows"
-msgstr "Movendo e redimencionando janelas"
+msgstr "Movendo e redimensionando janelas"
 
 #. (itstool) path: page/p
 #: C/shell-windows-states.page:24
@@ -8958,7 +8959,7 @@ msgstr "Redimensione a janela arrastando-a para as bordas ou cantos da area de t
 msgid ""
 "You can also resize a maximized window by clicking the maximize button in "
 "the titlebar."
-msgstr "Você também pode redimensionar uma janela maximizada, clicando no botão de maximizar da barra de título."
+msgstr "Você também pode redimensionar uma janela maximizada clicando no botão de maximizar na barra de título."
 
 #. (itstool) path: item/p
 #: C/shell-windows-states.page:40
@@ -9054,7 +9055,7 @@ msgstr "Visualização de aplicações com uma única janela podem ser exibidas 
 msgid ""
 "Choose the sound to play for messages, set the alert volume, or disable "
 "alert sounds."
-msgstr "Escolha o som para tocar para nas mensagens, defina o volume de alerta, ou desative os sons de alerta."
+msgstr "Escolha o som a tocar para mensagens, configurar o volume de alerta ou desabilitar alertas sonoros."
 
 #. (itstool) path: page/title
 #: C/sound-alert.page:30
@@ -9068,7 +9069,7 @@ msgid ""
 "and events. You can choose different sound clips for alerts, set the alert "
 "volume independently of your system volume, or disable alert sounds "
 "entirely."
-msgstr "Seu computador irá reproduzir um alerta sonoro simples para certos tipos de mensagens e eventos. Se você tem dificuldades em ouvir esses sons, você pode fazer ou a tela toda ou a janela atual piscar visualmente sempre que o alerta sonoro for utilizado."
+msgstr "Seu computador irá reproduzir um som de alerta simples para certos tipos de mensagens e eventos. Você pode escolher diferentes clipes de som para alertas, configurar o volume de alerta independentemente do volume do seu sistema ou desabilitar os sons de alerta completamente."
 
 #. (itstool) path: item/p
 #: C/sound-alert.page:45
@@ -9080,7 +9081,7 @@ msgstr "Clique em <gui>Som</gui>."
 msgid ""
 "In the <gui>Sound Effects</gui> tab, select an alert sound. Each sound will "
 "play when you click on it so you can hear how it sounds."
-msgstr "Na aba <gui>Efeitos de som</gui>, selecione um som de alerta. Cada som será reproduzido quando você clicar nele para que possa ouvir com ele soa. "
+msgstr "Na aba <gui>Efeitos de som</gui>, selecione um som de alerta. Cada som será reproduzido quando você clicar nele para que possa ouvir como ele soa."
 
 #. (itstool) path: page/p
 #: C/sound-alert.page:53
@@ -9145,7 +9146,7 @@ msgstr "Configure o volume sonoro para o computador e controle a sonoridade de c
 #. (itstool) path: page/title
 #: C/sound-volume.page:25
 msgid "Change the sound volume"
-msgstr "Alternando o volume do som"
+msgstr "Alterando o volume do som"
 
 #. (itstool) path: page/p
 #: C/sound-volume.page:27
