@@ -1,10 +1,11 @@
 # 
 # Translators:
+# Roddy Shuler <roddy@endlessm.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2017-02-10 18:28+0000\n"
+"PO-Revision-Date: 2017-02-15 04:57+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Thai (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/th/)\n"
 "MIME-Version: 1.0\n"
@@ -1800,7 +1801,7 @@ msgstr "เปลี่ยนเขตเวลา"
 msgid ""
 "Click on the clock on the task bar on the bottom right side of your screen "
 "and select <gui>Date &amp; Time Settings</gui>."
-msgstr "คลิกที่รูปนาฬิกาที่แถบงานตรงด้านขวาล่างของหน้าจอ และเลือก<gui>การตั้งค่าวันที่&ampเวลา</gui>"
+msgstr "คลิกที่รูปนาฬิกาที่แถบงานตรงด้านขวาล่างของหน้าจอ และเลือก<gui>การตั้งค่าวันที่&amp;เวลา</gui>"
 
 #. (itstool) path: item/p
 #: C/clock-timezone.page:43

@@ -2,6 +2,7 @@
 # Translators:
 # chenzibing <chenzibing_endless@126.com>, 2016
 # Marco Mai <marco@endlessm.com>, 2016
+# Roddy Shuler <roddy@endlessm.com>, 2017
 # tanyuanxing <tanyuanxingendless@126.com>, 2016
 # Wylmer Wang, 2013
 # Wylmer Wang <wantinghard@gmail.com>, 2013
@@ -11,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2016-12-14 06:50+0000\n"
-"Last-Translator: Vicki Niu <vicki@endlessm.com>\n"
+"PO-Revision-Date: 2017-02-15 06:02+0000\n"
+"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -180,7 +181,7 @@ msgstr "单击<gui>辅助功能</gui>。"
 #: C/a11y-bouncekeys.page:53 C/a11y-slowkeys.page:55 C/a11y-stickykeys.page:59
 msgid ""
 "Press <gui>Typing Assist (AccessX)</gui> in the <gui>Typing</gui> section."
-msgstr "在<gui>输入<gui>部分点击<gui>输入辅助(AccessX)</gui>"
+msgstr "在<gui>输入</gui>部分点击<gui>输入辅助(AccessX)</gui>"
 
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:57
@@ -200,7 +201,7 @@ msgid ""
 "screen and selecting <gui>Bounce Keys</gui>. The accessibility icon is "
 "visible when one or more settings have been enabled from the <gui>Universal "
 "Access</gui> panel."
-msgstr "您可以在屏幕底端的任务栏通过点击\t<link xref=\"a11y-icon\">辅助图标，选择 <gui>回弹键 </gui>来开启和关闭回弹键。只有在<gui>辅助功能 </gui>面板里启用了至少一个设置，辅助图标才会显示。"
+msgstr "您可以在屏幕底端的任务栏通过点击\t<link xref=\"a11y-icon\">辅助图标</link>，选择 <gui>回弹键 </gui>来开启和关闭回弹键。只有在<gui>辅助功能 </gui>面板里启用了至少一个设置，辅助图标才会显示。"
 
 #. (itstool) path: page/p
 #: C/a11y-bouncekeys.page:70
@@ -267,7 +268,7 @@ msgstr "开启<gui>高对比度</gui>。"
 msgid ""
 "The <gui>Hover Click</gui> (Dwell Click) feature allows you to click by "
 "holding the mouse still."
-msgstr "悬停点击功能(停留点击) 让您只需静置鼠标便可点击。"
+msgstr "<gui>悬停点击功能</gui>(停留点击) 让您只需静置鼠标便可点击。"
 
 #. (itstool) path: page/title
 #: C/a11y-dwellclick.page:35
@@ -485,7 +486,7 @@ msgid ""
 "To switch them on and adjust their length, color, and thickness, go to "
 "<gui>Crosshairs</gui> in the <gui>Crosshairs</gui> tab of the "
 "<gui>Zoom</gui> settings window."
-msgstr "你可以激活十字准线来帮助您找到鼠标或触摸板指针。您可以在<gui>缩放<gui>设置窗口里的<gui>十字准线</gui>选项卡内开启<gui>十字准线</gui>，调整它们的长度、颜色和厚度。"
+msgstr "你可以激活十字准线来帮助您找到鼠标或触摸板指针。您可以在<gui>缩放</gui>设置窗口里的<gui>十字准线</gui>选项卡内开启<gui>十字准线</gui>，调整它们的长度、颜色和厚度。"
 
 #. (itstool) path: page/p
 #: C/a11y-mag.page:81
@@ -529,7 +530,7 @@ msgstr "您可以通过按住鼠标左键来完成右击。这在您移动一只
 msgid ""
 "Press <gui>Click Assist</gui> in the <gui>Pointing and Clicking</gui> "
 "section."
-msgstr "点击<gui>选中和点击<gui>区段的<gui>点击辅助</gui>。"
+msgstr "点击<gui>选中和点击</gui>区段的<gui>点击辅助</gui>。"
 
 #. (itstool) path: item/p
 #: C/a11y-right-click.page:58
@@ -898,7 +899,7 @@ msgstr "您可以连接喜欢的在线账户，比如您的邮箱，以便在您
 #. (itstool) path: item/p
 #: C/accounts-add.page:42
 msgid "Click on <gui>Online Accounts</gui>."
-msgstr "点击<gui>在线账户<gui>"
+msgstr "点击<gui>在线账户</gui>"
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:46
@@ -1473,7 +1474,7 @@ msgstr "如果需要，稍后您可以<link xref=\"bluetooth-remove-connection\"
 msgid ""
 "To control access to your shared files, refer to the <gui>Bluetooth "
 "Sharing</gui> settings. See <link xref=\"sharing-bluetooth\"/>."
-msgstr "控制访问你的共享文件，指的是 <gui>蓝牙共享</gui> 设置界面。看到 <link xref=\"共享蓝牙\"/>。"
+msgstr "控制访问你的共享文件，指的是 <gui>蓝牙共享</gui> 设置界面。看到 <link xref=\"sharing-bluetooth\"/>。"
 
 #. (itstool) path: info/desc
 #: C/bluetooth-problem-connecting.page:13
@@ -1532,7 +1533,7 @@ msgid ""
 "Make sure that your Bluetooth adapter is switched on. Click the Bluetooth "
 "icon in the <gui>menu bar</gui> and check that it's not <link xref"
 "=\"bluetooth-turn-on-off\">disabled</link>."
-msgstr "确保您的蓝牙适配器已开启。在<gui>菜单栏</gui>中单击蓝牙图标，检查确定它未禁用。"
+msgstr "确保您的蓝牙适配器已开启。在<gui>菜单栏</gui>中单击蓝牙图标，检查确定它未<link xref=\"bluetooth-turn-on-off\">禁用</link>。"
 
 #. (itstool) path: choose/p
 #: C/bluetooth-problem-connecting.page:54
@@ -1599,7 +1600,7 @@ msgstr "在确认窗口中单击<gui>删除</gui>。"
 msgid ""
 "You can <link xref=\"bluetooth-connect-device\">reconnect a Bluetooth "
 "device</link> later if desired."
-msgstr "您可以根据需要<link xref=\"bluetooth-connect-device\">在稍后重新连接一个蓝牙设备。"
+msgstr "您可以根据需要在稍后<link xref=\"bluetooth-connect-device\">重新连接一个蓝牙设备</link>。"
 
 #. (itstool) path: info/desc
 #: C/bluetooth-send-file.page:13
@@ -2121,7 +2122,7 @@ msgstr "您可以在拖动时按住 <key>Ctrl</key> 键来强制复制文件，�
 msgid ""
 "You can't copy or move a file into a folder that is <em>read-only</em>. Some"
 " folders are read-only to prevent you from making changes to their contents."
-msgstr "你不能对< EM >只读<< / EM >的文件进行复制或移动文件到一个另文件夹。一些文件夹只能阅读，以防止您对其内容进行更改。"
+msgstr "你不能对<em>只读</em>的文件进行复制或移动文件到一个另文件夹。一些文件夹只能阅读，以防止您对其内容进行更改。"
 
 #. (itstool) path: info/desc
 #: C/files-delete.page:7
@@ -2215,7 +2216,7 @@ msgid ""
 "like a circle on the top right-hand corner of the window, click on "
 "<gui>Preferences</gui> and select the <gui>Behavior</gui> tab. Select "
 "<gui>Include a Delete command that bypasses Trash</gui>."
-msgstr "如果你经常需要删除文件而不使用回收站(例如，如果你经常接触敏感数据的工作)，你可以在文件和文件夹里面添加一个 <gui>删除</gui>  的右键菜单选项。首先，在 <app>文件</app>从桌面图标。选中一个在桌面的右上角看起来想一个圆形的图标，点击<gui>参数选择</gui>，然后选择<gui>行为</gui>标签。选择<gui>加入不使用回收站的刪除指令<gui>。"
+msgstr "如果你经常需要删除文件而不使用回收站(例如，如果你经常接触敏感数据的工作)，你可以在文件和文件夹里面添加一个 <gui>删除</gui>  的右键菜单选项。首先，在 <app>文件</app>从桌面图标。选中一个在桌面的右上角看起来想一个圆形的图标，点击<gui>参数选择</gui>，然后选择<gui>行为</gui>标签。选择<gui>加入不使用回收站的刪除指令</gui>。"
 
 #. (itstool) path: note/p
 #: C/files-delete.page:73
@@ -2224,7 +2225,7 @@ msgid ""
 " may not be visible on other operating systems, such Windows or Mac OS. The "
 "files are still there, and will be available when you plug the device back "
 "into your computer."
-msgstr "在 <link xref=\"文件删除驱动移动设备\">删除的文件 </link>可能在其他操作系统中看不见，如Windows或Mac OS系统。该文件仍在那里，当你将设备插入到您的电脑时，将会再次看到这些文件。 "
+msgstr "在 <link xref=\"files-removedrive\">删除的文件 </link>可能在其他操作系统中看不见，如Windows或Mac OS系统。该文件仍在那里，当你将设备插入到您的电脑时，将会再次看到这些文件。 "
 
 #. (itstool) path: credit/name
 #: C/files-microsoft-compatible.page:15 C/files-save.page:14
@@ -2291,7 +2292,7 @@ msgstr "使用微软格式来储存你的文件："
 #: C/files-microsoft-compatible.page:32
 msgid ""
 "Open a Microsoft-compatible app: <_:media-1/>, <_:media-2/>, or <_:media-3/>"
-msgstr "打开一个微软兼容的程式：<_:media-1/>, <_:media-2/>, 或者 <_:media-3/"
+msgstr "打开一个微软兼容的程式：<_:media-1/>, <_:media-2/>, 或者 <_:media-3/>"
 
 #. (itstool) path: item/p
 #: C/files-microsoft-compatible.page:40
@@ -4000,7 +4001,7 @@ msgid ""
 "Maximize a window vertically along the left side of the screen. Press again "
 "to restore the window to its previous size. Press "
 "<keyseq><key>Super</key><key>→</key></keyseq> to switch sides."
-msgstr "在屏幕左侧最大化窗口，再此按下恢复到原来的大小。按下keyseq><key xref=\"windows-key\">Super</key><key>→</key></keyseq> 可切换到屏幕另一边。"
+msgstr "在屏幕左侧最大化窗口，再此按下恢复到原来的大小。按下<keyseq><key xref=\"windows-key\">Super</key><key>→</key></keyseq> 可切换到屏幕另一边。"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:201
@@ -5560,7 +5561,7 @@ msgstr "如果您使用移动互联网连接，并发现速度较慢，则您可
 #. (itstool) path: item/p
 #: C/net-slow.page:51
 msgid "<em style=\"strong\">Web browser has a problem</em>"
-msgstr "<em style=\"strong\"网页浏览器有问题</em>"
+msgstr "<em style=\"strong\">网页浏览器有问题</em>"
 
 #. (itstool) path: item/p
 #: C/net-slow.page:52
@@ -5688,7 +5689,7 @@ msgstr "点击有三个白线的按钮，该按钮在Facebook窗口的左边。�
 msgid ""
 "Scroll all the way to the bottom of the menu and click on the <gui>Log "
 "Out</gui> button."
-msgstr "滚动到底部的菜单,点击< gui >退出< / gui >按钮。 "
+msgstr "滚动到底部的菜单,点击<gui>退出</gui>按钮。 "
 
 #. (itstool) path: info/desc
 #: C/net-troubleshoot.page:17
@@ -5719,7 +5720,7 @@ msgid ""
 "network cable. The network icon on the task bar at the bottom of your screen"
 " should pulse for a few seconds and then will change to <_:media-1/> when "
 "you are connected."
-msgstr "设置大多数有线网络连接，您需要做的是插入网线。网络图标在屏幕底部，任务栏应该脉冲几秒钟，,然后将变为< _:media-1 / >"
+msgstr "设置大多数有线网络连接，您需要做的是插入网线。网络图标在屏幕底部，任务栏应该脉冲几秒钟，,然后将变为<_:media-1/>"
 
 #. (itstool) path: page/p
 #: C/net-wired-connect.page:23
@@ -5777,12 +5778,12 @@ msgstr "点击任务栏上的网络状态，图标在屏幕的右下角。"
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:48
 msgid "Click <gui>Network Settings</gui>."
-msgstr "点击< gui >网络设置< / gui >。 "
+msgstr "点击<gui>网络设置</gui>。 "
 
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:49
 msgid "Click the <gui>Use as Hotspot...</gui> button."
-msgstr "点击< gui >使用热点...< / gui >按钮。"
+msgstr "点击<gui>使用热点...</gui>按钮。"
 
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:50
@@ -5791,7 +5792,7 @@ msgid ""
 " want to disconnect from that network. A single wireless adapter can connect"
 " to or create only one network at a time. Click <gui>Turn On</gui> to "
 "confirm."
-msgstr "如果你已经连接无线网络，电脑将会询问你是否断开网络。无线适配器一次可以连接或创建唯一网络。点击< gui >开启< / gui >进行确认。"
+msgstr "如果你已经连接无线网络，电脑将会询问你是否断开网络。无线适配器一次可以连接或创建唯一网络。点击<gui>开启</gui>进行确认。"
 
 #. (itstool) path: page/p
 #: C/net-wireless-adhoc.page:56
@@ -5874,7 +5875,7 @@ msgstr "点击屏幕右侧底部任务栏中的互联网图标 <media type=\"ima
 msgid ""
 "Click <gui>Wi-Fi</gui> to turn it <gui>ON</gui>. It will become blue to "
 "indicate Wi-Fi is ON."
-msgstr "点击< gui > WIFI< / gui >并将其< gui >开启< / gui >。WIFI开启将变成蓝色。"
+msgstr "点击<gui>WIFI</gui>并将其<gui>开启</gui>。WIFI开启将变成蓝色。"
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:45
@@ -6131,12 +6132,12 @@ msgstr "隐藏的网络不出现在无线网络列表中。隐藏网络更难找
 msgid ""
 "Click the network icon on the task bar and select <gui>Network "
 "Settings.</gui>"
-msgstr "点击任务栏上的网络图标,选择< gui >网络设置。< / gui >   "
+msgstr "点击任务栏上的网络图标,选择<gui>网络设置。</gui>   "
 
 #. (itstool) path: item/p
 #: C/net-wireless-hidden.page:41
 msgid "Click the <gui>Connect to Hidden Network</gui> button."
-msgstr "点击< gui >连接到隐藏网络< / gui >按钮。"
+msgstr "点击<gui>连接到隐藏网络</gui>按钮。"
 
 #. (itstool) path: item/p
 #: C/net-wireless-hidden.page:44
@@ -6164,7 +6165,7 @@ msgid ""
 "point's MAC address), which looks something like "
 "<gui>02:00:01:02:03:04</gui> and can usually be found on the underside of "
 "the access point."
-msgstr "你可能需要检查无线接入点的设置或路由器，以便查询网络名称。如果你没有网络名称(SSID),您可以使用< em > BSSID < / em >(基本服务集标识符,接入点的MAC地址),它看起来像< gui > 02:00:01:02:03:04 > < / gui >，通常可以发现背面的访问点。"
+msgstr "你可能需要检查无线接入点的设置或路由器，以便查询网络名称。如果你没有网络名称(SSID),您可以使用<em> BSSID </em>(基本服务集标识符,接入点的MAC地址),它看起来像<gui> 02:00:01:02:03:04 > </gui>，通常可以发现背面的访问点。"
 
 #. (itstool) path: page/p
 #: C/net-wireless-hidden.page:61
@@ -6901,14 +6902,14 @@ msgid ""
 "Open the print dialog. This can normally be done through <gui "
 "style=\"menuitem\">Print</gui> in the menu or using the "
 "<keyseq><key>Ctrl</key><key>P</key></keyseq> keyboard shortcut."
-msgstr "打开打印对话框。你可以通过< guistyle= \"menuitem\" >打印 < / gui >菜单或使用< keyseq > <key> Ctrl < /key> <key> P < /key> < / keyseq >键盘快捷键。"
+msgstr "打开打印对话框。你可以通过<gui style=\"menuitem\">打印 </gui>菜单或使用<keyseq><key>Ctrl</key><key>P</key></keyseq>键盘快捷键。"
 
 #. (itstool) path: item/p
 #: C/printing-to-file.page:36
 msgid ""
 "Select <gui>Print to File</gui> under <gui>Printer</gui> in the <gui "
 "style=\"tab\">General</gui> tab."
-msgstr "选择< gui >打印文件< / gui > 下面的< gui >打印机< / gui > < guistyle= \"tab\" > 通用< / gui >标签。"
+msgstr "选择<gui>打印文件</gui> 下面的<gui>打印机</gui> <gui style=\"tab\"> 通用</gui>标签。"
 
 #. (itstool) path: item/p
 #: C/printing-to-file.page:40
@@ -6916,7 +6917,7 @@ msgid ""
 "To change the default filename and where the file is saved to, click the "
 "filename below the printer selection. Click <gui "
 "style=\"button\">Select</gui> once you have finished choosing."
-msgstr "改变默认文件名和文件保存，单击打印机，选择文件名。一旦你完成选择，请点击< gui style= \"button\" >选择< / gui >。"
+msgstr "改变默认文件名和文件保存，单击打印机，选择文件名。一旦你完成选择，请点击<gui style=\"button\">选择</gui>。"
 
 #. (itstool) path: item/p
 #: C/printing-to-file.page:45
@@ -6924,7 +6925,7 @@ msgid ""
 "<sys>PDF</sys> is the default file type for the document. If you want to use"
 " a different <gui>Output format</gui>, select either <sys>Postscript</sys> "
 "or <sys>SVG</sys>."
-msgstr "< / sys > PDF< sys > 文档属于默认文件类型。如果你想使用不同的< gui >输出格式 < / gui >，选择< sys > Postscript < / sys >或< sys > SVG < / sys >。"
+msgstr "<sys>PDF</sys> 文档属于默认文件类型。如果你想使用不同的<gui>输出格式</gui>，选择<sys>Postscript</sys>或<sys>SVG</sys>。"
 
 #. (itstool) path: item/p
 #: C/printing-to-file.page:50
@@ -6994,7 +6995,7 @@ msgstr "确保 <gui>自动锁定屏幕</gui> 已开启, 从下拉列表中选择
 msgid ""
 "To allow notifications to be displayed on the lock screen, switch <gui>Show "
 "Notifications</gui> to <gui>ON</gui>."
-msgstr "允许电脑锁屏显示通知，需开启< gui >显示通知< / gui >。"
+msgstr "允许电脑锁屏显示通知，需开启<gui>显示通知</gui>。"
 
 #. (itstool) path: item/p
 #: C/privacy-screen-lock.page:67
@@ -7007,7 +7008,7 @@ msgid ""
 "When your screen is locked, and you want to unlock it, press <key>Esc</key>,"
 " or swipe up from the bottom of the screen with your mouse. Then enter your "
 "password, and press <key>Enter</key> or click <gui>Unlock</gui>."
-msgstr "当屏幕锁定后,如果想解锁,按<key> Esc < /key>,或从屏幕底部滑动鼠标。然后输入密码,并按<key>回车键< /key>或点击< gui >解锁< / gui >。"
+msgstr "当屏幕锁定后,如果想解锁,按<key> Esc </key>,或从屏幕底部滑动鼠标。然后输入密码,并按<key>回车键</key>或点击<gui>解锁</gui>。"
 
 #. (itstool) path: info/desc
 #: C/screen-shot-record.page:9
@@ -7044,7 +7045,7 @@ msgstr "截图"
 msgid ""
 "Install the <gui>Screenshot</gui> application from the <app>App "
 "Center</app>, under the <gui>Utilities</gui> category, and open it."
-msgstr " 从< app>应用中心</app>中安装< gui >截图</gui> ，要找到< gui >实用工具< / gui >类别,并打开它。"
+msgstr " 从<app>应用中心</app>中安装<gui>截图</gui> ，要找到<gui>实用工具</gui>类别,并打开它。"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:50
@@ -7134,7 +7135,7 @@ msgstr "您还可以在使用快捷键截图时，按住 <key>Ctrl</key> 键，�
 msgid ""
 "Some keyboards will have a <key>Print Screen</key> button near the top right"
 " hand corner. Press it once to take a screenshot."
-msgstr "一些键盘有<key>屏幕打印< /key>按钮，在右上角附近。按下此键即可截图。"
+msgstr "一些键盘有<key>屏幕打印</key>按钮，在右上角附近。按下此键即可截图。"
 
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:101
@@ -7231,7 +7232,7 @@ msgstr "Endless收集用户行为指标。我们使用数据以改进应用程�
 msgid ""
 "You can disable <gui>Metrics Collection</gui> under "
 "<guiseq><gui>Settings</gui><gui>Privacy</gui><gui>Metrics</gui></guiseq>."
-msgstr "你可以在<gui>设置</gui ><gui>隐私设置</gui><gui>指标</gui></guiseq>下禁用 <gui>指标集合</gui>。"
+msgstr "你可以在<guiseq><gui>设置</gui><gui>隐私设置</gui><gui>指标</gui></guiseq>下禁用 <gui>指标集合</gui>。"
 
 #. (itstool) path: info/desc
 #: C/security-guard-privacy.page:18
@@ -7291,7 +7292,7 @@ msgid ""
 "You can change the lock screen settings under the <gui>Privacy</gui> section"
 " in the <gui>Settings</gui> window that you can access from the User Menu on"
 " the very bottom left-hand side of your screen."
-msgstr "在屏幕左边最底部的用户菜单中找到< gui > 设置< / gui ><gui>隐私部分</gui >,改变锁屏设置。"
+msgstr "在屏幕左边最底部的用户菜单中找到<gui> 设置</gui><gui>隐私部分</gui>,改变锁屏设置。"
 
 #. (itstool) path: info/desc
 #: C/security-understand-password.page:19
@@ -7321,7 +7322,7 @@ msgid ""
 " the <key>Caps Lock</key> key and not notice. If you are unable to login "
 "using the password you thought you had first used, you should check to make "
 "sure that your <key>Caps Lock</key> key is not activated."
-msgstr "注意<key>大写锁定< /key>键。有时很容易不小心按<key>大写锁定< /key>键。如果你第一次使用密码无法登录，您应该检查以确保您的<key>大写锁定</key>键没有激活。"
+msgstr "注意<key>大写锁定</key>键。有时很容易不小心按<key>大写锁定</key>键。如果你第一次使用密码无法登录，您应该检查以确保您的<key>大写锁定</key>键没有激活。"
 
 #. (itstool) path: note/p
 #: C/security-understand-password.page:37
@@ -7361,7 +7362,7 @@ msgid ""
 "Select your desired language. If your language is not listed, click "
 "<_:media-1/> at the bottom of the list to select from all available regions "
 "and languages."
-msgstr "选择你想要的语言。如果你的语言不在列表中，点击列表的底部<_:media-1 / >选择所有可用的区域和语言。"
+msgstr "选择你想要的语言。如果你的语言不在列表中，点击列表的底部<_:media-1/>选择所有可用的区域和语言。"
 
 #. (itstool) path: item/p
 #: C/session-language.page:62
@@ -7374,7 +7375,7 @@ msgid ""
 "<gui>Your session needs to be restarted for these changes to take "
 "effect</gui> by clicking <gui style=\"button\">Restart Now</gui>, or click "
 "<gui style=\"button\">X</gui> to restart later."
-msgstr "< gui >会话需要重新启动后生效</gui>，则点击<guistyle= \"button\" >现在重启</ gui>，或者点击<guistyle= \"button\" >X</gui>稍后重启。"
+msgstr "<gui>会话需要重新启动后生效</gui>，则点击<gui style=\"button\">现在重启</gui>，或者点击<gui style=\"button\">X</gui>稍后重启。"
 
 #. (itstool) path: page/p
 #: C/session-language.page:73
@@ -7411,14 +7412,14 @@ msgid ""
 "You can allow Bluetooth devices to send you files to your "
 "<file>Downloads</file> folder by turning on that capability. Restrict access"
 " to only <em>trusted devices</em> for more security."
-msgstr "你可以允许蓝牙设备发送文件到你的<file>下载 </file>文件夹中，同时开启下载功能。限制< em > 信任设备< / em >以保证安全。"
+msgstr "你可以允许蓝牙设备发送文件到你的<file>下载 </file>文件夹中，同时开启下载功能。限制<em> 信任设备</em>以保证安全。"
 
 #. (itstool) path: page/p
 #: C/sharing-bluetooth.page:31
 msgid ""
 "You can configure <gui>Bluetooth Sharing</gui> to control access to your "
 "shared folders on your computer."
-msgstr "您可以设置< gui > 蓝牙共享< / gui >控制电脑访问共享文件夹。"
+msgstr "您可以设置<gui> 蓝牙共享</gui>控制电脑访问共享文件夹。"
 
 #. (itstool) path: note/p
 #: C/sharing-bluetooth.page:35
@@ -7459,7 +7460,7 @@ msgstr "选择<gui>蓝牙共享</gui>。"
 #: C/sharing-bluetooth.page:110
 msgid ""
 "Switch <gui>Save Received Files to Downloads Folder</gui> to <gui>ON</gui>."
-msgstr "将< gui >保存文件到下载文件夹</gui>切换到 < gui >开启 < / gui >状态。"
+msgstr "将<gui>保存文件到下载文件夹</gui>切换到 <gui>开启 </gui>状态。"
 
 #. (itstool) path: item/p
 #: C/sharing-bluetooth.page:114
@@ -7467,7 +7468,7 @@ msgid ""
 "If you only want to allow trusted devices to access your "
 "<file>Downloads</file> folder, switch <gui>Only Receive From Trusted "
 "Devices</gui> to <gui>ON</gui>."
-msgstr "如果您只希望受信任的设备访问你的<file> 下载< /file>文件夹，将< gui >只收到可信任设备< / gui > 切换到< gui >开启< / gui >。"
+msgstr "如果您只希望受信任的设备访问你的<file> 下载</file>文件夹，将<gui>只收到可信任设备</gui> 切换到<gui>开启</gui>。"
 
 #. (itstool) path: note/p
 #: C/sharing-bluetooth.page:119
@@ -7482,7 +7483,7 @@ msgstr "这个默认选项是禁用的。如果你想防止通过蓝牙手机或
 msgid ""
 "Click <gui style=\"button\">Close</gui>. Bluetooth-enabled devices will now "
 "be able to send files to your <file>Downloads</file> folder."
-msgstr "点击< guistyle= \"button\" > 关闭</gui>。蓝牙设备将发送文件到你的<file> 下载</file>文件夹中。"
+msgstr "点击<gui style=\"button\"> 关闭</gui>。蓝牙设备将发送文件到你的<file> 下载</file>文件夹中。"
 
 #. (itstool) path: info/desc
 #: C/sharing-media.page:19
@@ -7517,7 +7518,7 @@ msgstr "点击桌面<gui>照片编辑器</gui>图标。"
 msgid ""
 "Click <gui>Open Image</gui>. This will launch the <gui>Pictures</gui> folder"
 " on your computer."
-msgstr "点击< gui > 打开图像</gui>。这将启动<gui>图片</gui>文件夹。"
+msgstr "点击<gui> 打开图像</gui>。这将启动<gui>图片</gui>文件夹。"
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:41
@@ -7533,7 +7534,7 @@ msgid ""
 "<gui>Samples</gui> folder. Scroll through the images and see a small version"
 " of them on the right hand side of the window. When you find an image you "
 "want to edit, click <gui>OK</gui> or press <key>Enter</key>."
-msgstr "查看电脑上的样本图片，双击<gui>样本 </gui >文件夹。滚动图片,看到右边的压缩窗口。想要编辑图片，单击<gui >OK< / gui>或按<key>回车键</key>。"
+msgstr "查看电脑上的样本图片，双击<gui>样本 </gui>文件夹。滚动图片,看到右边的压缩窗口。想要编辑图片，单击<gui>OK</gui>或按<key>回车键</key>。"
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:52
@@ -7630,7 +7631,7 @@ msgid ""
 "Right-click on the desktop and select <gui>Add folder</gui>. Alternatively, "
 "you can click on <_:media-1/> from the desktop and click on the "
 "<gui>Folders</gui> button on the left-hand menu."
-msgstr "右键单击桌面,选择< gui >添加文件夹< / gui >。另外,您可以点击左边菜单按钮上的< gui >文件夹 < / gui >或者点击桌面的< _:media-1 / >。"
+msgstr "右键单击桌面,选择<gui>添加文件夹</gui>。另外,您可以点击左边菜单按钮上的<gui>文件夹 </gui>或者点击桌面的<_:media-1/>。"
 
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:37 C/shell-organize-apps.page:33
@@ -7760,7 +7761,7 @@ msgid ""
 "When the app has been successfully added to your desktop, the green button "
 "will change to <gui>Open app</gui> and you can start using the app "
 "immediately!"
-msgstr "当应用程序已成功添加到您的桌面,绿色的按钮将会改变< gui >打开应用程序</gui >你可以立即开始使用应用程序!"
+msgstr "当应用程序已成功添加到您的桌面,绿色的按钮将会改变<gui>打开应用程序</gui>你可以立即开始使用应用程序!"
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:70
@@ -7768,7 +7769,7 @@ msgid ""
 "The app's icon will be installed on your desktop, to the left of the "
 "<_:media-1/> button. You can then move it wherever makes sense to you so you"
 " can find it easily."
-msgstr "应用程序的图标将安装到你的桌面至左边的< _:media-1 / >按钮。您可以移动它到容易找到的地方。"
+msgstr "应用程序的图标将安装到你的桌面至左边的<_:media-1/>按钮。您可以移动它到容易找到的地方。"
 
 #. (itstool) path: section/title
 #: C/shell-apps-open.page:79
@@ -7792,7 +7793,7 @@ msgid ""
 " one that you like, just scroll over it and click on the green <_:media-1/> "
 "button that will appear. This will add it directly to your desktop, to the "
 "left of the <_:media-2/> button."
-msgstr "浏览我们建议的的网站链接类别。如果你看到喜欢的,滚动并点击绿色< _:media-1 / >按钮。这会将它直接添加到您桌面左边的< _:media-2/>按钮。"
+msgstr "浏览我们建议的的网站链接类别。如果你看到喜欢的,滚动并点击绿色<_:media-1/>按钮。这会将它直接添加到您桌面左边的<_:media-2/>按钮。"
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:100
@@ -7800,7 +7801,7 @@ msgid ""
 "Add your own website links to pages that we don't already have by typing the"
 " website into the bar at the top and hitting the <input>Enter</input> key to"
 " search."
-msgstr "通过键入网页顶部的条状栏和点击<input> 进入< /input>搜索，添加自己的网站页面链接。"
+msgstr "通过键入网页顶部的条状栏和点击<input> 进入</input>搜索，添加自己的网站页面链接。"
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:105
@@ -7809,7 +7810,7 @@ msgid ""
 "desktop. Add another website, or else close the App Center to find your new "
 "website shortcut. It will be directly to the left of the <_:media-2/> "
 "button."
-msgstr "点击< _:media-1 / >按钮，您选中的链接将创建到桌面。您还可以添加其他网站，或者关闭应用中心，找到您新建的网站快捷方式，它将出现在< _:media-2 / >按钮的左侧。"
+msgstr "点击<_:media-1/>按钮，您选中的链接将创建到桌面。您还可以添加其他网站，或者关闭应用中心，找到您新建的网站快捷方式，它将出现在<_:media-2/>按钮的左侧。"
 
 #. (itstool) path: info/desc
 #: C/shell-delete-app-desktop.page:19
@@ -9237,7 +9238,7 @@ msgid ""
 "person who first set up their account when the computer was first purchased "
 "and set up, although others may also have been given administrator "
 "privileges by that first user."
-msgstr "添加用户需要 <link xref=\"user-admin-explain\">管理员权限。管理员通常是电脑安装后第一个设立账户的用户，第一个用户也可以赋予其他人管理员权限。"
+msgstr "添加用户需要 <link xref=\"user-admin-explain\">管理员权限</link>。管理员通常是电脑安装后第一个设立账户的用户，第一个用户也可以赋予其他人管理员权限。"
 
 #. (itstool) path: steps/title
 #: C/user-add.page:73
@@ -9368,7 +9369,7 @@ msgstr "选中您想更改权限的用户。"
 msgid ""
 "Click the label <gui>Standard</gui> next to <gui>Account Type</gui> and "
 "select <gui>Administrator</gui>."
-msgstr "点击帐号类型</gui>旁边的<gui>标准</gui>标签，选择<gui>管理员</gui>。"
+msgstr "点击<gui>帐号类型</gui>旁边的<gui>标准</gui>标签，选择<gui>管理员</gui>。"
 
 #. (itstool) path: item/p
 #: C/user-admin-change.page:59

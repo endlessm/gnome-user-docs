@@ -1,11 +1,12 @@
 # 
 # Translators:
+# Roddy Shuler <roddy@endlessm.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2017-02-10 02:37+0000\n"
-"Last-Translator: Vicki Niu <vicki@endlessm.com>\n"
+"PO-Revision-Date: 2017-02-15 05:36+0000\n"
+"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/vi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2083,7 +2084,7 @@ msgid ""
 "press <keyseq><key>Ctrl</key> <key>N</key></keyseq>) to open a second "
 "window. In the new window, navigate to the folder where you want to move or "
 "copy the file."
-msgstr "Bấm <_:đa phương tiện-1/> ở phía trên bên phải, rồi chọn <gui>Cửa sổ Mới</gui> (hoặc nhấn <keyseq><key>Ctrl</key> <key>N</key></keyseq>) để mở một cửa sổ thứ hai. Trong cửa sổ mới, dẫn hướng đến thư mục nơi bạn muốn di chuyển hoặc sao chép tệp."
+msgstr "Bấm <_:media-1/> ở phía trên bên phải, rồi chọn <gui>Cửa sổ Mới</gui> (hoặc nhấn <keyseq><key>Ctrl</key> <key>N</key></keyseq>) để mở một cửa sổ thứ hai. Trong cửa sổ mới, dẫn hướng đến thư mục nơi bạn muốn di chuyển hoặc sao chép tệp."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:96
@@ -2284,7 +2285,7 @@ msgstr "Để lưu tệp của bạn với định dạng Microsoft:"
 #: C/files-microsoft-compatible.page:32
 msgid ""
 "Open a Microsoft-compatible app: <_:media-1/>, <_:media-2/>, or <_:media-3/>"
-msgstr "Mở một ứng dụng tương thích với Microsoft: <_:đa phương tiện-1/>, <_:đa phương tiện-2/>, hoặc <_:đa phương tiện-3/>"
+msgstr "Mở một ứng dụng tương thích với Microsoft: <_:media-1/>, <_:media-2/>, hoặc <_:media-3/>"
 
 #. (itstool) path: item/p
 #: C/files-microsoft-compatible.page:40
@@ -3635,7 +3636,7 @@ msgid ""
 " the <gui>Input Source</gui> list and a new <gui "
 "style=\"button\"><_:media-2/></gui> button will give you access to the extra"
 " settings."
-msgstr "Một số ngôn ngữ cung cấp thêm một số tùy chọn cấu hình. Bạn có thể xác định những ngôn ngữ đó bởi vì chúng có biểu tượng <gui><_:media (phương tiện ghi)-1/></gui> bên cạnh. Nếu bạn muốn truy cập vào những thông số bổ sung này, chọn ngôn ngữ từ danh sách <gui> Input Source (Nguồn Nhập vào)</gui> và nút <gui style=\"button\"><_: media (phương tiện ghi)-2/></gui> mới sẽ cho phép bạn truy cập vào thiết lập bổ sung."
+msgstr "Một số ngôn ngữ cung cấp thêm một số tùy chọn cấu hình. Bạn có thể xác định những ngôn ngữ đó bởi vì chúng có biểu tượng <gui><_:media-1/></gui> bên cạnh. Nếu bạn muốn truy cập vào những thông số bổ sung này, chọn ngôn ngữ từ danh sách <gui> Input Source (Nguồn Nhập vào)</gui> và nút <gui style=\"button\"><_:media-2/></gui> mới sẽ cho phép bạn truy cập vào thiết lập bổ sung."
 
 #. (itstool) path: page/p
 #: C/keyboard-layouts.page:82
@@ -5347,7 +5348,7 @@ msgid ""
 "the network with a cable, click <gui>Wired</gui>. For a <gui>Wi-Fi</gui> "
 "connection, the <_:media-2/> button will be located next to the active "
 "network."
-msgstr "Trong ngăn bên trái, chọn kết nối mạng mà bạn muốn thiết lập theo cách thủ công và bấm nút <_:đa phương tiện-1/>. Ví dụ, nếu bạn nối mạng bằng cáp, hãy bấm <gui>Kết nối Có dây</gui>. Đối với kết nối  <gui>Wi-Fi</gui>, nút<_:đa phương tiện-2/> sẽ nằm kế bên mạng đang hoạt động."
+msgstr "Trong ngăn bên trái, chọn kết nối mạng mà bạn muốn thiết lập theo cách thủ công và bấm nút <_:media-1/>. Ví dụ, nếu bạn nối mạng bằng cáp, hãy bấm <gui>Kết nối Có dây</gui>. Đối với kết nối  <gui>Wi-Fi</gui>, nút<_:media-2/> sẽ nằm kế bên mạng đang hoạt động."
 
 #. (itstool) path: item/p
 #: C/net-manual.page:53
@@ -7354,7 +7355,7 @@ msgid ""
 "Select your desired language. If your language is not listed, click "
 "<_:media-1/> at the bottom of the list to select from all available regions "
 "and languages."
-msgstr "Chọn ngôn ngữ bạn mong muốn. Nếu ngôn ngữ của bạn không được liệt kê, hãy nhấp vào <_:media (phương tiện ghi)-1/> ở dưới cùng của danh sách để chọn trong tất cả các vùng và ngôn ngữ có sẵn."
+msgstr "Chọn ngôn ngữ bạn mong muốn. Nếu ngôn ngữ của bạn không được liệt kê, hãy nhấp vào <_:media-1/> ở dưới cùng của danh sách để chọn trong tất cả các vùng và ngôn ngữ có sẵn."
 
 #. (itstool) path: item/p
 #: C/session-language.page:62
@@ -7785,7 +7786,7 @@ msgid ""
 " one that you like, just scroll over it and click on the green <_:media-1/> "
 "button that will appear. This will add it directly to your desktop, to the "
 "left of the <_:media-2/> button."
-msgstr "Duyệt các liên kết trang web chúng tôi đã gợi ý theo từng thể loại. Nếu bạn thấy một trang bạn thích, chỉ cần di chuyển chuột trên đó và bấm vào nút <_:đa phương tiện-1/> màu xanh lá xuất hiện. Thao tác này sẽ thêm trang đó vào màn hình nền của bạn, ở bên trái nút <_:đa phương tiện-2/>."
+msgstr "Duyệt các liên kết trang web chúng tôi đã gợi ý theo từng thể loại. Nếu bạn thấy một trang bạn thích, chỉ cần di chuyển chuột trên đó và bấm vào nút <_:media-1/> màu xanh lá xuất hiện. Thao tác này sẽ thêm trang đó vào màn hình nền của bạn, ở bên trái nút <_:media-2/>."
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:100
@@ -9628,7 +9629,7 @@ msgstr "Nhập mật khẩu hiện tại, rồi mật khẩu mới. Nhập mật
 msgid ""
 "You can press on the <gui style=\"button\"><_:media-1/></gui> icon to "
 "automatically generate a random password."
-msgstr "Bạn có thể nhấn vào biểu tượng <gui style=\"button\"><_:đa phương tiện-1/></gui> để tự động tạo mật khẩu ngẫu nhiên."
+msgstr "Bạn có thể nhấn vào biểu tượng <gui style=\"button\"><_:media-1/></gui> để tự động tạo mật khẩu ngẫu nhiên."
 
 #. (itstool) path: item/p
 #: C/user-changepassword.page:88

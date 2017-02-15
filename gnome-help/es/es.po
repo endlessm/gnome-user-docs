@@ -15,14 +15,14 @@
 # mattdangerw <watson@endlessm.com>, 2014
 # Milagros Alessandra Infante Montero <maim92@gmail.com>, 2012
 # Nuritzi Sanchez <ns@endlessm.com>, 2014,2016
-# Roddy Shuler <roddy@endlessm.com>, 2014,2016
+# Roddy Shuler <roddy@endlessm.com>, 2014,2016-2017
 # mattdangerw <watson@endlessm.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2016-08-31 21:39+0000\n"
-"Last-Translator: Philip Chimento <philip.chimento@gmail.com>\n"
+"PO-Revision-Date: 2017-02-15 04:53+0000\n"
+"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -4370,7 +4370,7 @@ msgid ""
 "Endless. You can transfer them to your computer from a USB, or download them"
 " from the internet using the <app>FrostTorrent</app> app if you have an "
 "online connection."
-msgstr "Tu computadora viene precargada con vídeos cortos que están listos para disfrutar. La mayoría de los formatos de vídeos digitales son compatible con Endless y puedes descargarlos desde un dispositivo USB, o del internet usando el programa <app>FrostTorrent</ app> cuando tienes conexión."
+msgstr "Tu computadora viene precargada con vídeos cortos que están listos para disfrutar. La mayoría de los formatos de vídeos digitales son compatible con Endless y puedes descargarlos desde un dispositivo USB, o del internet usando el programa <app>FrostTorrent</app> cuando tienes conexión."
 
 #. (itstool) path: steps/title
 #: C/media-play-videos.page:30
