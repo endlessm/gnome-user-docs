@@ -16,23 +16,6 @@
 
 <links type="topic" style="2column nodesc" role="index"/>
 
-<section id="home-video-links">
-  <title>Videos</title>
-  <table>
-    <tr>
-      <td><p><media its:translate="no" xref="endless-01-desktop" type="image" src="figures/endless-01-desktop-thumbnail.jpg"/></p></td>
-      <td><p><media its:translate="no" xref="endless-02-folders" type="image" src="figures/endless-02-folders-thumbnail.jpg"/></p></td>
-      <td><p><media its:translate="no" xref="endless-03-programs" type="image" src="figures/endless-03-programs-thumbnail.jpg"/></p></td>
-      <td><p><link xref="endless-videos">More…</link></p></td>
-    </tr>
-    <tr>
-      <td><p><link xref="endless-01-desktop">Introduction to the desktop</link></p></td>
-      <td><p><link xref="endless-02-folders">Adding folders to the desktop</link></p></td>
-      <td><p><link xref="endless-03-programs">Installing programs</link></p></td>
-    </tr>
-  </table>
-</section>
-
 <section id="endless-tutorial">
   <title><link href = "endlessm-app://com.endlessm.Tutorial">Tutorial</link></title>
 </section>
