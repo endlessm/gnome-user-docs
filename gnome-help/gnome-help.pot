@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2016-03-30 15:16-0700\n"
+"POT-Creation-Date: 2017-06-01 16:45-0700\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -130,7 +130,6 @@ msgstr ""
 #: C/bluetooth-turn-on-off.page:24
 #: C/clock-set.page:17
 #: C/clock-timezone.page:17
-#: C/display-dual-monitors.page:17
 #: C/files-browse.page:25
 #: C/files-copy.page:22
 #: C/files-delete.page:25
@@ -183,7 +182,6 @@ msgstr ""
 #: C/a11y-visualalert.page:23
 #: C/a11y.page:18
 #: C/clock-timezone.page:21
-#: C/display-dual-monitors.page:21
 #: C/keyboard-key-menu.page:16
 #: C/keyboard-key-super.page:17
 #: C/keyboard-layouts.page:30
@@ -241,7 +239,6 @@ msgstr ""
 #: C/bluetooth-send-file.page:52
 #: C/bluetooth-turn-on-off.page:45
 #: C/bluetooth-turn-on-off.page:61
-#: C/display-dual-monitors.page:82
 #: C/keyboard-cursor-blink.page:43
 #: C/keyboard-key-super.page:51
 #: C/keyboard-layouts.page:51
@@ -972,7 +969,6 @@ msgstr ""
 #: C/backup-restore.page:12
 #: C/backup-what.page:16
 #: C/backup-where.page:18
-#: C/display-dual-monitors.page:13
 #: C/files-browse.page:13
 #: C/files-copy.page:18
 #: C/mouse-sensitivity.page:18
@@ -1598,56 +1594,6 @@ msgid "The time will be updated automatically when you select a different locati
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/display-dual-monitors.page:27
-msgid "Set up an additional monitor."
-msgstr ""
-
-#. (itstool) path: page/title
-#: C/display-dual-monitors.page:30
-msgid "Connect another monitor to your computer"
-msgstr ""
-
-#. (itstool) path: section/title
-#: C/display-dual-monitors.page:75
-msgid "Set up an additional monitor"
-msgstr ""
-
-#. (itstool) path: section/p
-#: C/display-dual-monitors.page:76
-msgid "To set up an additional monitor, connect the monitor to your computer. If your system does not recognize it immediately, or you would like to adjust the settings:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/display-dual-monitors.page:88
-msgid "Click on <gui>Displays</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/display-dual-monitors.page:97
-msgid "The monitor with the bottom bar is the main monitor. To change which monitor is treated as \"main\", click on the bottom bar and drag it over to the monitor which you want to set as the \"main\" monitor."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/display-dual-monitors.page:113
-msgid "To rotate the orientation of the monitor, click on it and use the buttons with the arrows to rotate it."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/display-dual-monitors.page:117
-msgid "When you are happy with your settings, click <gui>Apply</gui> and then click <gui>Keep Changes</gui>."
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/files-browse.page:76
-msgctxt "_"
-msgid "external ref='figures/go-down.png' md5='e8c16f5ab9ed933f4a537b740506f4d4'"
-msgstr ""
-
-#. (itstool) path: info/desc
 #: C/files-browse.page:8
 msgid "Manage and organize files with the file manager."
 msgstr ""
@@ -1690,6 +1636,16 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/files-browse.page:68
 msgid "If you want to quickly skip to a file in the folder you're viewing, start typing its name. A search box will appear at the top of the window and the first file which matches your search will be highlighted. Press the down arrow key, or scroll with the mouse, to skip to the next file that matches your search."
+msgstr ""
+
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/files-browse.page:76
+msgctxt "_"
+msgid "external ref='figures/go-down.png' md5='e8c16f5ab9ed933f4a537b740506f4d4'"
 msgstr ""
 
 #. (itstool) path: section/p
@@ -2774,31 +2730,6 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/index.page:20
-msgid "Videos"
-msgstr ""
-
-#. (itstool) path: td/p
-#: C/index.page:26
-msgid "<link xref=\"endless-videos\">More…</link>"
-msgstr ""
-
-#. (itstool) path: td/p
-#: C/index.page:29
-msgid "<link xref=\"endless-01-desktop\">Introduction to the desktop</link>"
-msgstr ""
-
-#. (itstool) path: td/p
-#: C/index.page:30
-msgid "<link xref=\"endless-02-folders\">Adding folders to the desktop</link>"
-msgstr ""
-
-#. (itstool) path: td/p
-#: C/index.page:31
-msgid "<link xref=\"endless-03-programs\">Installing programs</link>"
-msgstr ""
-
-#. (itstool) path: section/title
-#: C/index.page:37
 msgid "<link href=\"endlessm-app://com.endlessm.Tutorial\">Tutorial</link>"
 msgstr ""
 
@@ -2989,16 +2920,6 @@ msgstr ""
 msgid "Hold down the desired key combination."
 msgstr ""
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/keyboard-layouts.page:106
-msgctxt "_"
-msgid "external ref='figures/input-methods-switcher.png' md5='3c55959bbc710a43fa455cb998ba5c85'"
-msgstr ""
-
 #. (itstool) path: credit/name
 #: C/keyboard-layouts.page:26
 msgid "Juanjo Marín"
@@ -3064,6 +2985,16 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/keyboard-layouts.page:97
 msgid "The fastest way to change to another layout is by using the <gui>Input Source</gui> <gui>Keyboard Shortcuts</gui>. These shortcuts open the <gui>Input Source</gui> chooser where you can move forward and backward. By default, you can switch to the next input source with <keyseq><key xref=\"keyboard-key-super\">Super</key><key>Space</key></keyseq> and to the previous one with <keyseq><key>Shift</key><key>Super</key><key>Space</key></keyseq>. You can change these shortcuts in the <gui>Keyboard</gui> settings."
+msgstr ""
+
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/keyboard-layouts.page:106
+msgctxt "_"
+msgid "external ref='figures/input-methods-switcher.png' md5='3c55959bbc710a43fa455cb998ba5c85'"
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -4510,16 +4441,6 @@ msgstr ""
 msgid "Sometimes web browsers encounter a problem that makes them run slow. This could be for any number of reasons - you could have visited a website that the browser struggled to load, or you might have had the browser open for a long time, for example. Try closing all of the browser's windows and then opening the browser again to see if this makes a difference."
 msgstr ""
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-social-bar.page:33
-msgctxt "_"
-msgid "external ref='figures/eos-icon-socialbar.png' md5='311852df3d93299e9346bbe809bb81c6'"
-msgstr ""
-
 #. (itstool) path: info/desc
 #: C/net-social-bar.page:19
 msgid "Easily chat with your Facebook friends."
@@ -4543,6 +4464,16 @@ msgstr ""
 #. (itstool) path: steps/title
 #: C/net-social-bar.page:30
 msgid "If you already have a Facebook account:"
+msgstr ""
+
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/net-social-bar.page:33
+msgctxt "_"
+msgid "external ref='figures/eos-icon-socialbar.png' md5='311852df3d93299e9346bbe809bb81c6'"
 msgstr ""
 
 #. (itstool) path: item/p
@@ -4691,36 +4622,6 @@ msgstr ""
 msgid "It is not possible to connect to the internet via a wireless connection while the hotspot is active."
 msgstr ""
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-wireless-connect.page:34
-msgctxt "_"
-msgid "external ref='figures/network-offline-symbolic.svg' md5='2fc0a88bd36d65404c3ad064ad2117db'"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-wireless-connect.page:64
-msgctxt "_"
-msgid "external ref='figures/network-wireless-acquiring-symbolic.svg' md5='281a8da467ccc370e3605b32803d7186'"
-msgstr ""
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-wireless-connect.page:69
-msgctxt "_"
-msgid "external ref='figures/network-wireless-signal-excellent-symbolic.svg' md5='281e0475074b621ebad6f64e5efc56d2'"
-msgstr ""
-
 #. (itstool) path: info/desc
 #: C/net-wireless-connect.page:21
 msgid "Use a Wi-Fi connection to get on the internet."
@@ -4734,6 +4635,16 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/net-wireless-connect.page:27
 msgid "You can connect to a wireless network to gain access to the internet, view shared files on the network, and so on."
+msgstr ""
+
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/net-wireless-connect.page:34
+msgctxt "_"
+msgid "external ref='figures/network-offline-symbolic.svg' md5='2fc0a88bd36d65404c3ad064ad2117db'"
 msgstr ""
 
 #. (itstool) path: item/p
@@ -4771,9 +4682,29 @@ msgstr ""
 msgid "The network icon will change appearance as the computer attempts to connect to the network."
 msgstr ""
 
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/net-wireless-connect.page:64
+msgctxt "_"
+msgid "external ref='figures/network-wireless-acquiring-symbolic.svg' md5='281a8da467ccc370e3605b32803d7186'"
+msgstr ""
+
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:62
 msgid "While the computer attempts to connect to the network, the network icon will look like this <media type=\"image\" mime=\"image/svg\" src=\"figures/network-wireless-acquiring-symbolic.svg\"/>."
+msgstr ""
+
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/net-wireless-connect.page:69
+msgctxt "_"
+msgid "external ref='figures/network-wireless-signal-excellent-symbolic.svg' md5='281e0475074b621ebad6f64e5efc56d2'"
 msgstr ""
 
 #. (itstool) path: item/p
@@ -5328,16 +5259,6 @@ msgstr ""
 msgid "In the <gui>General</gui> tab of the Print window under <em>Copies</em> check <gui>Collate</gui>."
 msgstr ""
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/printing-select.page:44
-msgctxt "_"
-msgid "external ref='figures/printing-select.png' md5='527835df0ce2072c82ce7b16907efed5'"
-msgstr ""
-
 #. (itstool) path: info/desc
 #: C/printing-select.page:9
 msgid "Print only specific pages, or only a range of pages."
@@ -5366,6 +5287,16 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/printing-select.page:41
 msgid "For example, if you enter \"1,3,5-7,9\" in the <gui>Pages</gui> text box, pages 1,3,5,6,7 and 9 will be printed."
+msgstr ""
+
+#. (itstool) path: note/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/printing-select.page:44
+msgctxt "_"
+msgid "external ref='figures/printing-select.png' md5='527835df0ce2072c82ce7b16907efed5'"
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -6449,16 +6380,6 @@ msgstr ""
 msgid "If you have a specific app that you would like to see on Endless in the future, please <link xref=\"gs-give-feedback\">send us a message through the Feedback option</link> so that we know."
 msgstr ""
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:79
-msgctxt "_"
-msgid "external ref='figures/shell-exit-classic.png' md5='f36e3a0a115ff2181a6fc787e6a83283'"
-msgstr ""
-
 #. (itstool) path: info/desc
 #: C/shell-introduction.page:28
 msgid "A quick introduction to your desktop and some of its cool features."
@@ -6502,6 +6423,16 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/shell-introduction.page:75
 msgid "You and your computer"
+msgstr ""
+
+#. (itstool) path: when/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/shell-introduction.page:79
+msgctxt "_"
+msgid "external ref='figures/shell-exit-classic.png' md5='f36e3a0a115ff2181a6fc787e6a83283'"
 msgstr ""
 
 #. (itstool) path: media/p
