@@ -46,7 +46,6 @@ HELP_MEDIA = \
 	figures/eos-cc-background-button.png \
 	figures/eos-cc-background-select.png \
 	figures/eos-cc-click-assist-setting.png \
-	figures/eos-cc-click-assist-setting.png \
 	figures/eos-cc-click-simulate.png \
 	figures/eos-cc-contrast-example.png \
 	figures/eos-cc-contrast-setting.png \
@@ -75,7 +74,6 @@ HELP_MEDIA = \
 	figures/eos-desktop-a11y-icon.png \
 	figures/eos-desktop-app-store.png \
 	figures/eos-desktop-browser-taskbar.png \
-	figures/eos-desktop-browser.png \
 	figures/eos-desktop-browser.png \
 	figures/eos-desktop-delete-app.gif \
 	figures/eos-desktop-delete-notification.png \
