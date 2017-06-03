@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2017-02-15 04:57+0000\n"
+"POT-Creation-Date: 2017-06-01 16:45-0700\n"
+"PO-Revision-Date: 2017-06-01 23:47+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Thai (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/th/)\n"
 "MIME-Version: 1.0\n"
@@ -78,11 +78,11 @@ msgstr "Phil Bull"
 #: C/bluetooth-connect-device.page:28 C/bluetooth-problem-connecting.page:21
 #: C/bluetooth-remove-connection.page:24 C/bluetooth-send-file.page:24
 #: C/bluetooth-turn-on-off.page:24 C/clock-set.page:17
-#: C/clock-timezone.page:17 C/display-dual-monitors.page:17
-#: C/files-browse.page:25 C/files-copy.page:22 C/files-delete.page:25
-#: C/files-removedrive.page:17 C/files-rename.page:24 C/files-search.page:19
-#: C/files-share.page:18 C/keyboard-cursor-blink.page:26
-#: C/keyboard-layouts.page:22 C/keyboard-nav.page:11 C/keyboard-osk.page:23
+#: C/clock-timezone.page:17 C/files-browse.page:25 C/files-copy.page:22
+#: C/files-delete.page:25 C/files-removedrive.page:17 C/files-rename.page:24
+#: C/files-search.page:19 C/files-share.page:18
+#: C/keyboard-cursor-blink.page:26 C/keyboard-layouts.page:22
+#: C/keyboard-nav.page:11 C/keyboard-osk.page:23
 #: C/keyboard-repeat-keys.page:24 C/keyboard.page:23 C/look-background.page:33
 #: C/mouse-doubleclick.page:25 C/mouse-mousekeys.page:22
 #: C/mouse-sensitivity.page:26 C/nautilus-file-properties-permissions.page:21
@@ -103,17 +103,16 @@ msgstr "Michael Hill"
 #: C/a11y-font-size.page:23 C/a11y-mag.page:23 C/a11y-right-click.page:28
 #: C/a11y-slowkeys.page:25 C/a11y-stickykeys.page:27
 #: C/a11y-visualalert.page:23 C/a11y.page:18 C/clock-timezone.page:21
-#: C/display-dual-monitors.page:21 C/keyboard-key-menu.page:16
-#: C/keyboard-key-super.page:17 C/keyboard-layouts.page:30
-#: C/keyboard-nav.page:24 C/keyboard-osk.page:27 C/look-background.page:41
-#: C/mouse-mousekeys.page:26 C/net-wireless-hidden.page:21
-#: C/printing-to-file.page:11 C/shell-exit.page:26
-#: C/shell-introduction.page:22 C/shell-keyboard-shortcuts.page:22
-#: C/shell-notifications.page:22 C/sound-alert.page:21 C/user-add.page:26
-#: C/user-admin-change.page:17 C/user-admin-explain.page:17
-#: C/user-admin-problems.page:17 C/user-autologin.page:12
-#: C/user-changepassword.page:21 C/user-changepicture.page:21
-#: C/user-delete.page:29
+#: C/keyboard-key-menu.page:16 C/keyboard-key-super.page:17
+#: C/keyboard-layouts.page:30 C/keyboard-nav.page:24 C/keyboard-osk.page:27
+#: C/look-background.page:41 C/mouse-mousekeys.page:26
+#: C/net-wireless-hidden.page:21 C/printing-to-file.page:11
+#: C/shell-exit.page:26 C/shell-introduction.page:22
+#: C/shell-keyboard-shortcuts.page:22 C/shell-notifications.page:22
+#: C/sound-alert.page:21 C/user-add.page:26 C/user-admin-change.page:17
+#: C/user-admin-explain.page:17 C/user-admin-problems.page:17
+#: C/user-autologin.page:12 C/user-changepassword.page:21
+#: C/user-changepicture.page:21 C/user-delete.page:29
 msgid "Ekaterina Gerasimova"
 msgstr "เอคาเทอริน่า เจราซิโมว่า"
 
@@ -143,20 +142,20 @@ msgstr "เปิด <em>คีย์เด้ง</em>เพื่อไม่�
 #: C/a11y-stickykeys.page:49 C/a11y-visualalert.page:44 C/accounts-add.page:36
 #: C/bluetooth-connect-device.page:47 C/bluetooth-remove-connection.page:45
 #: C/bluetooth-send-file.page:52 C/bluetooth-turn-on-off.page:45
-#: C/bluetooth-turn-on-off.page:61 C/display-dual-monitors.page:82
-#: C/keyboard-cursor-blink.page:43 C/keyboard-key-super.page:51
-#: C/keyboard-layouts.page:51 C/keyboard-osk.page:41
-#: C/keyboard-repeat-keys.page:46 C/look-background.page:61
-#: C/mouse-doubleclick.page:44 C/mouse-mousekeys.page:44
-#: C/mouse-sensitivity.page:42 C/mouse-when-right-click.page:43
-#: C/net-manual.page:36 C/printing-cancel-job.page:43
-#: C/printing-cancel-job.page:86 C/printing-setup-default-printer.page:42
-#: C/printing-setup.page:80 C/privacy-screen-lock.page:47
-#: C/session-language.page:41 C/sharing-bluetooth.page:90
-#: C/shell-notifications.page:101 C/shell-update-system.page:46
-#: C/sound-alert.page:39 C/user-add.page:76 C/user-admin-change.page:38
-#: C/user-autologin.page:29 C/user-changepassword.page:65
-#: C/user-changepicture.page:42 C/user-delete.page:49
+#: C/bluetooth-turn-on-off.page:61 C/keyboard-cursor-blink.page:43
+#: C/keyboard-key-super.page:51 C/keyboard-layouts.page:51
+#: C/keyboard-osk.page:41 C/keyboard-repeat-keys.page:46
+#: C/look-background.page:61 C/mouse-doubleclick.page:44
+#: C/mouse-mousekeys.page:44 C/mouse-sensitivity.page:42
+#: C/mouse-when-right-click.page:43 C/net-manual.page:36
+#: C/printing-cancel-job.page:43 C/printing-cancel-job.page:86
+#: C/printing-setup-default-printer.page:42 C/printing-setup.page:80
+#: C/privacy-screen-lock.page:47 C/session-language.page:41
+#: C/sharing-bluetooth.page:90 C/shell-notifications.page:101
+#: C/shell-update-system.page:46 C/sound-alert.page:39 C/user-add.page:76
+#: C/user-admin-change.page:38 C/user-autologin.page:29
+#: C/user-changepassword.page:65 C/user-changepicture.page:42
+#: C/user-delete.page:49
 msgid ""
 "Click on the <_:media-1/> on the bottom left-hand corner of your screen, "
 "then click on <gui>Settings</gui>."
@@ -1012,9 +1011,8 @@ msgstr "ศึกษาว่าคุณควรสำรองไฟล์ส
 
 #. (itstool) path: credit/name
 #: C/backup-frequency.page:13 C/backup-how.page:12 C/backup-restore.page:12
-#: C/backup-what.page:16 C/backup-where.page:18
-#: C/display-dual-monitors.page:13 C/files-browse.page:13 C/files-copy.page:18
-#: C/mouse-sensitivity.page:18 C/mouse.page:13
+#: C/backup-what.page:16 C/backup-where.page:18 C/files-browse.page:13
+#: C/files-copy.page:18 C/mouse-sensitivity.page:18 C/mouse.page:13
 #: C/nautilus-file-properties-basic.page:14
 #: C/nautilus-file-properties-permissions.page:13 C/screen-shot-record.page:13
 #: C/user-delete.page:13 C/user-goodpassword.page:20
@@ -1827,67 +1825,6 @@ msgid ""
 msgstr "เวลาจะได้รับการอัพเดตโดยอัตโนมัติเมื่อคุณเลือกตำแหน่งที่ตั้งอื่น หรือคุณอาจ<link xref=\"clock-set\">ตั้งนาฬิกาด้วยตัวเอง</link>ก็ได้"
 
 #. (itstool) path: info/desc
-#: C/display-dual-monitors.page:27
-msgid "Set up an additional monitor."
-msgstr "ตั้งค่าหน้าจอเพิ่มเติม "
-
-#. (itstool) path: page/title
-#: C/display-dual-monitors.page:30
-msgid "Connect another monitor to your computer"
-msgstr "เชื่อมต่อจอภาพอื่นกับคอมพิวเตอร์ของคุณ"
-
-#. (itstool) path: section/title
-#: C/display-dual-monitors.page:75
-msgid "Set up an additional monitor"
-msgstr "ติดตั้งหน้าจอแสดงผลเสริม"
-
-#. (itstool) path: section/p
-#: C/display-dual-monitors.page:76
-msgid ""
-"To set up an additional monitor, connect the monitor to your computer. If "
-"your system does not recognize it immediately, or you would like to adjust "
-"the settings:"
-msgstr "ในการตั้งค่าหน้าจอเสริม ต่อหน้าจอเข้ากับคอมพิวเตอร์ หากระบบของคุณไม่เจอจอนั้นทันที คุณอาจต้องปรับการตั้งค่า"
-
-#. (itstool) path: item/p
-#: C/display-dual-monitors.page:88
-msgid "Click on <gui>Displays</gui>."
-msgstr "คลิกที่<gui>หน้าจอ</gui>"
-
-#. (itstool) path: item/p
-#: C/display-dual-monitors.page:97
-msgid ""
-"The monitor with the bottom bar is the main monitor. To change which monitor"
-" is treated as \"main\", click on the bottom bar and drag it over to the "
-"monitor which you want to set as the \"main\" monitor."
-msgstr "จอภาพที่มีแถบด้านล่างคือจอภาพหลัก หากต้องการเปลี่ยน \"จอภาพหลัก\" ให้คลิกแถบด้านล่างแล้วลากไปยังจอภาพที่คุณต้องการตั้งเป็น \"จอภาพหลัก\""
-
-#. (itstool) path: item/p
-#: C/display-dual-monitors.page:113
-msgid ""
-"To rotate the orientation of the monitor, click on it and use the buttons "
-"with the arrows to rotate it."
-msgstr "ในการหมุนทิศทางหน้าจอ คลิกบนจอและใช้ปุ่มลูกศรเพื่อหมุน"
-
-#. (itstool) path: item/p
-#: C/display-dual-monitors.page:117
-msgid ""
-"When you are happy with your settings, click <gui>Apply</gui> and then click"
-" <gui>Keep Changes</gui>."
-msgstr "เมื่อคุณพอใจกับการตั้งค่าแล้ว คลิก <gui>ใช้</gui> จากนั้นคลิก <gui>บันทึกการเปลี่ยนแปลง</gui>"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/files-browse.page:76
-msgctxt "_"
-msgid ""
-"external ref='figures/go-down.png' md5='e8c16f5ab9ed933f4a537b740506f4d4'"
-msgstr "external ref='figures/go-down.png' md5='e8c16f5ab9ed933f4a537b740506f4d4'"
-
-#. (itstool) path: info/desc
 #: C/files-browse.page:8
 msgid "Manage and organize files with the file manager."
 msgstr "จัดการและจัดระเบียบไฟล์ด้วยตัวจัดการไฟล์"
@@ -1953,6 +1890,17 @@ msgid ""
 "arrow key, or scroll with the mouse, to skip to the next file that matches "
 "your search."
 msgstr "หากคุณต้องการข้ามไปยังไฟล์ในโฟลเดอร์ที่กำลังดูอยู่อย่างรวดเร็ว ให้เริ่มพิมพ์ชื่อไฟล์ดังกล่าว กล่องค้นหาจะปรากฏขึ้นมาที่ด้านบนของหน้าต่าง และไฟล์แรกที่ตรงกับการค้นหาของคุณจะถูกไฮไลต์ กดปุ่มลูกศรหรือเลื่อนด้วยเมาส์ไปข้ามไปยังไฟล์ถัดไปที่ตรงกับการค้นหาของคุณ"
+
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/files-browse.page:76
+msgctxt "_"
+msgid ""
+"external ref='figures/go-down.png' md5='e8c16f5ab9ed933f4a537b740506f4d4'"
+msgstr "external ref='figures/go-down.png' md5='e8c16f5ab9ed933f4a537b740506f4d4'"
 
 #. (itstool) path: section/p
 #: C/files-browse.page:74
@@ -3315,31 +3263,6 @@ msgstr "เริ่มต้นใช้งาน"
 
 #. (itstool) path: section/title
 #: C/index.page:20
-msgid "Videos"
-msgstr "วิดีโอ"
-
-#. (itstool) path: td/p
-#: C/index.page:26
-msgid "<link xref=\"endless-videos\">More…</link>"
-msgstr "<link xref=\"endless-videos\">อื่นๆ ...</link>"
-
-#. (itstool) path: td/p
-#: C/index.page:29
-msgid "<link xref=\"endless-01-desktop\">Introduction to the desktop</link>"
-msgstr "<link xref=\"endless-01-desktop\">คำแนะนำการใช้เดสก์ท็อป</link>"
-
-#. (itstool) path: td/p
-#: C/index.page:30
-msgid "<link xref=\"endless-02-folders\">Adding folders to the desktop</link>"
-msgstr "<link xref=\"endless-02-folders\">เพิ่มโฟลเดอร์ไปที่เดสก์ท็อป</link>"
-
-#. (itstool) path: td/p
-#: C/index.page:31
-msgid "<link xref=\"endless-03-programs\">Installing programs</link>"
-msgstr "<link xref=\"endless-03-programs\">การติดตั้งโปรแกรม</link>"
-
-#. (itstool) path: section/title
-#: C/index.page:37
 msgid "<link href=\"endlessm-app://com.endlessm.Tutorial\">Tutorial</link>"
 msgstr "<link href=\"endlessm-app://com.endlessm.Tutorial\">สอนการใช้งาน</link>"
 
@@ -3560,18 +3483,6 @@ msgstr "เลือก <gui>System</gui> บนด้านซ้ายขอ�
 msgid "Hold down the desired key combination."
 msgstr "กดแป้นที่ต้องการรวมค้างไว้ "
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/keyboard-layouts.page:106
-msgctxt "_"
-msgid ""
-"external ref='figures/input-methods-switcher.png' "
-"md5='3c55959bbc710a43fa455cb998ba5c85'"
-msgstr "แหล่งอ้างอิงภายนอก='figures/input-methods-switcher.png' md5='3c55959bbc710a43fa455cb998ba5c85'"
-
 #. (itstool) path: credit/name
 #: C/keyboard-layouts.page:26
 msgid "Juanjo Marín"
@@ -3673,6 +3584,18 @@ msgid ""
 "<keyseq><key>Shift</key><key>Super</key><key>Space</key></keyseq>. You can "
 "change these shortcuts in the <gui>Keyboard</gui> settings."
 msgstr "วิธีที่เร็วที่สุดในการเปลี่ยนการจัดวางก็คือการใช้<gui>แป้นพิมพ์ลัดคีย์บอร์ด</gui><gui>แหล่งข้อมูลนำเข้า</gui> แป้นพิมพ์ลัดนี้จะเปิดตัวเลือก<gui>แหล่งข้อมูลนำเข้า</gui> ซึ่งคุณสามารถย้ายกลับไปมาได้ ตามการตั้งค่าเริ่มต้น คุณสามารถเปลี่ยนไปยังแหล่งข้อมูลนำเข้าถัดไปด้วย <keyseq><key xref=\"keyboard-key-super\">Super</key><key>Space</key></keyseq> และแหล่งข้อมูลก่อนหน้าด้วย <keyseq><key>Shift</key><key>Super</key><key>Space</key></keyseq> คุณสามารถเปลี่ยนแป้นพิมพ์ลัดเหล่านี้ได้ในการตั้งค่า<gui>คีย์บอร์ด</gui>"
+
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/keyboard-layouts.page:106
+msgctxt "_"
+msgid ""
+"external ref='figures/input-methods-switcher.png' "
+"md5='3c55959bbc710a43fa455cb998ba5c85'"
+msgstr "แหล่งอ้างอิงภายนอก='figures/input-methods-switcher.png' md5='3c55959bbc710a43fa455cb998ba5c85'"
 
 #. (itstool) path: info/desc
 #: C/keyboard-nav.page:28
@@ -5566,18 +5489,6 @@ msgid ""
 "opening the browser again to see if this makes a difference."
 msgstr "บางครั้งเว็บเบราว์เซอร์ก็อาจพบปัญหาที่ทำให้ใช้งานได้ช้า อาจจะมาจากหลายสาเหตุด้วยกัน เช่น คุณอาจจะเข้าไปที่เว็บไซต์ซึ่งเบราว์เซอร์มีปัญหาในการโหลด หรือคุณอาจจะเปิดเบราว์เซอร์ทิ้งไว้เป็นเวลานาน เป็นต้น ลองปิดหน้าต่างเบราว์เซอร์ทั้งหมด จากนั้นเปิดเบราว์เซอร์อีกครั้งเพื่อดูว่ามีความแตกต่างหรือไม่"
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-social-bar.page:33
-msgctxt "_"
-msgid ""
-"external ref='figures/eos-icon-socialbar.png' "
-"md5='311852df3d93299e9346bbe809bb81c6'"
-msgstr "external ref='figures/eos-icon-socialbar.png' md5='311852df3d93299e9346bbe809bb81c6'"
-
 #. (itstool) path: info/desc
 #: C/net-social-bar.page:19
 msgid "Easily chat with your Facebook friends."
@@ -5604,6 +5515,18 @@ msgstr "ก่อนอื่น คุณจะต้องลงทะเบ�
 #: C/net-social-bar.page:30
 msgid "If you already have a Facebook account:"
 msgstr "หากคุณมีบัญชี Facebook "
+
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/net-social-bar.page:33
+msgctxt "_"
+msgid ""
+"external ref='figures/eos-icon-socialbar.png' "
+"md5='311852df3d93299e9346bbe809bb81c6'"
+msgstr "external ref='figures/eos-icon-socialbar.png' md5='311852df3d93299e9346bbe809bb81c6'"
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:32
@@ -5802,42 +5725,6 @@ msgid ""
 "while the hotspot is active."
 msgstr "ไม่สามารถเชื่อมต่ออินเทอร์เน็ตผ่านการเชื่อมต่อไร้สายได้หากฮอตสปอตทำงานอยู่"
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-wireless-connect.page:34
-msgctxt "_"
-msgid ""
-"external ref='figures/network-offline-symbolic.svg' "
-"md5='2fc0a88bd36d65404c3ad064ad2117db'"
-msgstr "external ref='figures/network-offline-symbolic.svg' md5='2fc0a88bd36d65404c3ad064ad2117db'"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-wireless-connect.page:64
-msgctxt "_"
-msgid ""
-"external ref='figures/network-wireless-acquiring-symbolic.svg' "
-"md5='281a8da467ccc370e3605b32803d7186'"
-msgstr "external ref='figures/network-wireless-acquiring-symbolic.svg' md5='281a8da467ccc370e3605b32803d7186'"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-wireless-connect.page:69
-msgctxt "_"
-msgid ""
-"external ref='figures/network-wireless-signal-excellent-symbolic.svg' "
-"md5='281e0475074b621ebad6f64e5efc56d2'"
-msgstr "external ref='figures/network-wireless-signal-excellent-symbolic.svg' md5='281e0475074b621ebad6f64e5efc56d2'"
-
 #. (itstool) path: info/desc
 #: C/net-wireless-connect.page:21
 msgid "Use a Wi-Fi connection to get on the internet."
@@ -5854,6 +5741,18 @@ msgid ""
 "You can connect to a wireless network to gain access to the internet, view "
 "shared files on the network, and so on."
 msgstr "คุณสามารถเชื่อมต่อกับเครือข่ายไร้สายเพื่อเข้าถึงอินเทอร์เน็ต ดูไฟล์ที่แบ่งปันบนเครือข่าย และอื่นๆ"
+
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/net-wireless-connect.page:34
+msgctxt "_"
+msgid ""
+"external ref='figures/network-offline-symbolic.svg' "
+"md5='2fc0a88bd36d65404c3ad064ad2117db'"
+msgstr "external ref='figures/network-offline-symbolic.svg' md5='2fc0a88bd36d65404c3ad064ad2117db'"
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:32
@@ -5907,6 +5806,18 @@ msgid ""
 "to the network."
 msgstr "ไอคอนโครงข่ายจะเปลี่ยนลักษณะเมื่อคอมพิวเตอร์กำลังเชื่อมต่อกับโครงข่าย "
 
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/net-wireless-connect.page:64
+msgctxt "_"
+msgid ""
+"external ref='figures/network-wireless-acquiring-symbolic.svg' "
+"md5='281a8da467ccc370e3605b32803d7186'"
+msgstr "external ref='figures/network-wireless-acquiring-symbolic.svg' md5='281a8da467ccc370e3605b32803d7186'"
+
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:62
 msgid ""
@@ -5914,6 +5825,18 @@ msgid ""
 " look like this <media type=\"image\" mime=\"image/svg\" src=\"figures"
 "/network-wireless-acquiring-symbolic.svg\"/>."
 msgstr "ในขณะที่คอมพิวเตอร์กำลังพยายามเชื่อมต่ออินเทอร์เน็ต ไอคอนโครงข่ายจะเป็นแบบนี้<media type=\"image\" mime=\"image/svg\" src=\"figures/network-wireless-acquiring-symbolic.svg\"/>"
+
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/net-wireless-connect.page:69
+msgctxt "_"
+msgid ""
+"external ref='figures/network-wireless-signal-excellent-symbolic.svg' "
+"md5='281e0475074b621ebad6f64e5efc56d2'"
+msgstr "external ref='figures/network-wireless-signal-excellent-symbolic.svg' md5='281e0475074b621ebad6f64e5efc56d2'"
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:67
@@ -6651,18 +6574,6 @@ msgid ""
 "check <gui>Collate</gui>."
 msgstr "ในแถบ <gui>ทั่วไป</gui> บนหน้าต่าง พิมพ์ ใต้ <em>ตัดลอก</em> เลือก <gui>ผสาน</gui>"
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/printing-select.page:44
-msgctxt "_"
-msgid ""
-"external ref='figures/printing-select.png' "
-"md5='527835df0ce2072c82ce7b16907efed5'"
-msgstr "external ref='figures/printing-select.png' md5='527835df0ce2072c82ce7b16907efed5'"
-
 #. (itstool) path: info/desc
 #: C/printing-select.page:9
 msgid "Print only specific pages, or only a range of pages."
@@ -6698,6 +6609,18 @@ msgid ""
 "For example, if you enter \"1,3,5-7,9\" in the <gui>Pages</gui> text box, "
 "pages 1,3,5,6,7 and 9 will be printed."
 msgstr "เช่น คุณใส่\"1,3,5-7,9\" ใน กล่อง <gui>หน้าเพจ</gui> จะเป็นการพิมพ์หน้า 1,3,5,6,7  และ  9"
+
+#. (itstool) path: note/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/printing-select.page:44
+msgctxt "_"
+msgid ""
+"external ref='figures/printing-select.png' "
+"md5='527835df0ce2072c82ce7b16907efed5'"
+msgstr "external ref='figures/printing-select.png' md5='527835df0ce2072c82ce7b16907efed5'"
 
 #. (itstool) path: info/desc
 #: C/printing-setup-default-printer.page:27
@@ -8100,18 +8023,6 @@ msgid ""
 " Feedback option</link> so that we know."
 msgstr "ถ้าคุณมีแอพที่อยากให้รวมอยู่ใน Endless ในอนาคต โปรด<link xref=\"gs-give-feedback\">ส่งข้อความถึงเราด้วยตัวเลือกคำติชม</link>เพื่อบอกให้เราทราบ"
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:79
-msgctxt "_"
-msgid ""
-"external ref='figures/shell-exit-classic.png' "
-"md5='f36e3a0a115ff2181a6fc787e6a83283'"
-msgstr "external ref='figures/shell-exit-classic.png' md5='f36e3a0a115ff2181a6fc787e6a83283'"
-
 #. (itstool) path: info/desc
 #: C/shell-introduction.page:28
 msgid "A quick introduction to your desktop and some of its cool features."
@@ -8177,6 +8088,18 @@ msgstr "<link xref=\"shell-apps-open\">ศึกษาเพิ่มเติ�
 #: C/shell-introduction.page:75
 msgid "You and your computer"
 msgstr "คุณและคอมพิวเตอร์ของคุณ"
+
+#. (itstool) path: when/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/shell-introduction.page:79
+msgctxt "_"
+msgid ""
+"external ref='figures/shell-exit-classic.png' "
+"md5='f36e3a0a115ff2181a6fc787e6a83283'"
+msgstr "external ref='figures/shell-exit-classic.png' md5='f36e3a0a115ff2181a6fc787e6a83283'"
 
 #. (itstool) path: media/p
 #: C/shell-introduction.page:80

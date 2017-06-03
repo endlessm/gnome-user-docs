@@ -30,7 +30,6 @@ HELP_MEDIA = \
 	figures/color-printer.png \
 	figures/color-profile-default.png \
 	figures/color-space.png \
-	figures/display-dual-monitors.webm \
 	figures/documents-icon.png \
 	figures/emblem-system-symbolic.svg \
 	figures/eos-app-store-add-desktop.png \
@@ -234,7 +233,6 @@ HELP_FILES = \
 	bluetooth.page \
 	clock-set.page \
 	clock-timezone.page \
-	display-dual-monitors.page \
 	files-browse.page \
 	files-copy.page \
 	files-delete.page \

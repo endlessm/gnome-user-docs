@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2016-03-30 15:16-0700\n"
-"PO-Revision-Date: 2017-02-15 04:54+0000\n"
+"POT-Creation-Date: 2017-06-01 16:45-0700\n"
+"PO-Revision-Date: 2017-06-01 23:47+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/id/)\n"
 "MIME-Version: 1.0\n"
@@ -79,11 +79,11 @@ msgstr "Phil Bull"
 #: C/bluetooth-connect-device.page:28 C/bluetooth-problem-connecting.page:21
 #: C/bluetooth-remove-connection.page:24 C/bluetooth-send-file.page:24
 #: C/bluetooth-turn-on-off.page:24 C/clock-set.page:17
-#: C/clock-timezone.page:17 C/display-dual-monitors.page:17
-#: C/files-browse.page:25 C/files-copy.page:22 C/files-delete.page:25
-#: C/files-removedrive.page:17 C/files-rename.page:24 C/files-search.page:19
-#: C/files-share.page:18 C/keyboard-cursor-blink.page:26
-#: C/keyboard-layouts.page:22 C/keyboard-nav.page:11 C/keyboard-osk.page:23
+#: C/clock-timezone.page:17 C/files-browse.page:25 C/files-copy.page:22
+#: C/files-delete.page:25 C/files-removedrive.page:17 C/files-rename.page:24
+#: C/files-search.page:19 C/files-share.page:18
+#: C/keyboard-cursor-blink.page:26 C/keyboard-layouts.page:22
+#: C/keyboard-nav.page:11 C/keyboard-osk.page:23
 #: C/keyboard-repeat-keys.page:24 C/keyboard.page:23 C/look-background.page:33
 #: C/mouse-doubleclick.page:25 C/mouse-mousekeys.page:22
 #: C/mouse-sensitivity.page:26 C/nautilus-file-properties-permissions.page:21
@@ -104,17 +104,16 @@ msgstr "Michael Hill"
 #: C/a11y-font-size.page:23 C/a11y-mag.page:23 C/a11y-right-click.page:28
 #: C/a11y-slowkeys.page:25 C/a11y-stickykeys.page:27
 #: C/a11y-visualalert.page:23 C/a11y.page:18 C/clock-timezone.page:21
-#: C/display-dual-monitors.page:21 C/keyboard-key-menu.page:16
-#: C/keyboard-key-super.page:17 C/keyboard-layouts.page:30
-#: C/keyboard-nav.page:24 C/keyboard-osk.page:27 C/look-background.page:41
-#: C/mouse-mousekeys.page:26 C/net-wireless-hidden.page:21
-#: C/printing-to-file.page:11 C/shell-exit.page:26
-#: C/shell-introduction.page:22 C/shell-keyboard-shortcuts.page:22
-#: C/shell-notifications.page:22 C/sound-alert.page:21 C/user-add.page:26
-#: C/user-admin-change.page:17 C/user-admin-explain.page:17
-#: C/user-admin-problems.page:17 C/user-autologin.page:12
-#: C/user-changepassword.page:21 C/user-changepicture.page:21
-#: C/user-delete.page:29
+#: C/keyboard-key-menu.page:16 C/keyboard-key-super.page:17
+#: C/keyboard-layouts.page:30 C/keyboard-nav.page:24 C/keyboard-osk.page:27
+#: C/look-background.page:41 C/mouse-mousekeys.page:26
+#: C/net-wireless-hidden.page:21 C/printing-to-file.page:11
+#: C/shell-exit.page:26 C/shell-introduction.page:22
+#: C/shell-keyboard-shortcuts.page:22 C/shell-notifications.page:22
+#: C/sound-alert.page:21 C/user-add.page:26 C/user-admin-change.page:17
+#: C/user-admin-explain.page:17 C/user-admin-problems.page:17
+#: C/user-autologin.page:12 C/user-changepassword.page:21
+#: C/user-changepicture.page:21 C/user-delete.page:29
 msgid "Ekaterina Gerasimova"
 msgstr "Ekaterina Gerasimova"
 
@@ -144,20 +143,20 @@ msgstr "Nyalakan <em>tombol pantul</em> untuk mengabaikan penekanan tombol yang 
 #: C/a11y-stickykeys.page:49 C/a11y-visualalert.page:44 C/accounts-add.page:36
 #: C/bluetooth-connect-device.page:47 C/bluetooth-remove-connection.page:45
 #: C/bluetooth-send-file.page:52 C/bluetooth-turn-on-off.page:45
-#: C/bluetooth-turn-on-off.page:61 C/display-dual-monitors.page:82
-#: C/keyboard-cursor-blink.page:43 C/keyboard-key-super.page:51
-#: C/keyboard-layouts.page:51 C/keyboard-osk.page:41
-#: C/keyboard-repeat-keys.page:46 C/look-background.page:61
-#: C/mouse-doubleclick.page:44 C/mouse-mousekeys.page:44
-#: C/mouse-sensitivity.page:42 C/mouse-when-right-click.page:43
-#: C/net-manual.page:36 C/printing-cancel-job.page:43
-#: C/printing-cancel-job.page:86 C/printing-setup-default-printer.page:42
-#: C/printing-setup.page:80 C/privacy-screen-lock.page:47
-#: C/session-language.page:41 C/sharing-bluetooth.page:90
-#: C/shell-notifications.page:101 C/shell-update-system.page:46
-#: C/sound-alert.page:39 C/user-add.page:76 C/user-admin-change.page:38
-#: C/user-autologin.page:29 C/user-changepassword.page:65
-#: C/user-changepicture.page:42 C/user-delete.page:49
+#: C/bluetooth-turn-on-off.page:61 C/keyboard-cursor-blink.page:43
+#: C/keyboard-key-super.page:51 C/keyboard-layouts.page:51
+#: C/keyboard-osk.page:41 C/keyboard-repeat-keys.page:46
+#: C/look-background.page:61 C/mouse-doubleclick.page:44
+#: C/mouse-mousekeys.page:44 C/mouse-sensitivity.page:42
+#: C/mouse-when-right-click.page:43 C/net-manual.page:36
+#: C/printing-cancel-job.page:43 C/printing-cancel-job.page:86
+#: C/printing-setup-default-printer.page:42 C/printing-setup.page:80
+#: C/privacy-screen-lock.page:47 C/session-language.page:41
+#: C/sharing-bluetooth.page:90 C/shell-notifications.page:101
+#: C/shell-update-system.page:46 C/sound-alert.page:39 C/user-add.page:76
+#: C/user-admin-change.page:38 C/user-autologin.page:29
+#: C/user-changepassword.page:65 C/user-changepicture.page:42
+#: C/user-delete.page:49
 msgid ""
 "Click on the <_:media-1/> on the bottom left-hand corner of your screen, "
 "then click on <gui>Settings</gui>."
@@ -1013,9 +1012,8 @@ msgstr "Pelajari seberapa sering Anda mesti membackup berkas penting Anda untuk 
 
 #. (itstool) path: credit/name
 #: C/backup-frequency.page:13 C/backup-how.page:12 C/backup-restore.page:12
-#: C/backup-what.page:16 C/backup-where.page:18
-#: C/display-dual-monitors.page:13 C/files-browse.page:13 C/files-copy.page:18
-#: C/mouse-sensitivity.page:18 C/mouse.page:13
+#: C/backup-what.page:16 C/backup-where.page:18 C/files-browse.page:13
+#: C/files-copy.page:18 C/mouse-sensitivity.page:18 C/mouse.page:13
 #: C/nautilus-file-properties-basic.page:14
 #: C/nautilus-file-properties-permissions.page:13 C/screen-shot-record.page:13
 #: C/user-delete.page:13 C/user-goodpassword.page:20
@@ -1828,67 +1826,6 @@ msgid ""
 msgstr "Waktu akan diperbarui otomatis saat Anda memilih lokasi berbeda. Anda juga dapat <link xref=\"clock-set\">mengatur jam secara manual</link>."
 
 #. (itstool) path: info/desc
-#: C/display-dual-monitors.page:27
-msgid "Set up an additional monitor."
-msgstr "Mengatur monitor tambahan."
-
-#. (itstool) path: page/title
-#: C/display-dual-monitors.page:30
-msgid "Connect another monitor to your computer"
-msgstr "Hubungkan monitor lain ke komputer Anda"
-
-#. (itstool) path: section/title
-#: C/display-dual-monitors.page:75
-msgid "Set up an additional monitor"
-msgstr "Tata monitor tambahan"
-
-#. (itstool) path: section/p
-#: C/display-dual-monitors.page:76
-msgid ""
-"To set up an additional monitor, connect the monitor to your computer. If "
-"your system does not recognize it immediately, or you would like to adjust "
-"the settings:"
-msgstr "Untuk menata monitor tambahan, hubungkan monitor ke komputer Anda. Jika sistem tidak segera mengenalinya, atau Anda ingin menyesuaikan pengaturan:"
-
-#. (itstool) path: item/p
-#: C/display-dual-monitors.page:88
-msgid "Click on <gui>Displays</gui>."
-msgstr "Klik <gui>Tampilan</gui>."
-
-#. (itstool) path: item/p
-#: C/display-dual-monitors.page:97
-msgid ""
-"The monitor with the bottom bar is the main monitor. To change which monitor"
-" is treated as \"main\", click on the bottom bar and drag it over to the "
-"monitor which you want to set as the \"main\" monitor."
-msgstr "Monitor dengan bilah dasar adalah monitor utama. Untuk mengganti monitor mana yang dianggap \"utama\", klik bilah dasar lalu seret ke monitor yang Anda inginkan sebagai monitor \"utama\"."
-
-#. (itstool) path: item/p
-#: C/display-dual-monitors.page:113
-msgid ""
-"To rotate the orientation of the monitor, click on it and use the buttons "
-"with the arrows to rotate it."
-msgstr "Untuk mengubah orientasi layar, klik pada layar dan gunakan tombol dengan layar untuk memutarnya."
-
-#. (itstool) path: item/p
-#: C/display-dual-monitors.page:117
-msgid ""
-"When you are happy with your settings, click <gui>Apply</gui> and then click"
-" <gui>Keep Changes</gui>."
-msgstr "Saat Anda senang dengan pengaturan, klik <gui>Apply</gui> kemudian klik <gui>Keep Changes</gui>."
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/files-browse.page:76
-msgctxt "_"
-msgid ""
-"external ref='figures/go-down.png' md5='e8c16f5ab9ed933f4a537b740506f4d4'"
-msgstr "-"
-
-#. (itstool) path: info/desc
 #: C/files-browse.page:8
 msgid "Manage and organize files with the file manager."
 msgstr "Kelola dan organisasikan berkas dengan manajer berkas."
@@ -1954,6 +1891,17 @@ msgid ""
 "arrow key, or scroll with the mouse, to skip to the next file that matches "
 "your search."
 msgstr "Jika Anda ingin cepat menuju berkas dalam folder yang Anda lihat, mulailah mengetikkan namanya. Kotak pencarian akan muncul di atas jendela dan berkas pertama yang sesuai dengan pencarian akan disorot. Tekan tombol panah bawah, atau gulir dengan mouse, untuk langsung menuju berkas selanjutnya yang sesuai dengan pencarian."
+
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/files-browse.page:76
+msgctxt "_"
+msgid ""
+"external ref='figures/go-down.png' md5='e8c16f5ab9ed933f4a537b740506f4d4'"
+msgstr "-"
 
 #. (itstool) path: section/p
 #: C/files-browse.page:74
@@ -3316,31 +3264,6 @@ msgstr "Memulai"
 
 #. (itstool) path: section/title
 #: C/index.page:20
-msgid "Videos"
-msgstr "Video"
-
-#. (itstool) path: td/p
-#: C/index.page:26
-msgid "<link xref=\"endless-videos\">More…</link>"
-msgstr "<link xref=\"endless-videos\">Lainnya…</link>"
-
-#. (itstool) path: td/p
-#: C/index.page:29
-msgid "<link xref=\"endless-01-desktop\">Introduction to the desktop</link>"
-msgstr "<link xref=\"endless-01-desktop\">Introduction to the desktop</link>"
-
-#. (itstool) path: td/p
-#: C/index.page:30
-msgid "<link xref=\"endless-02-folders\">Adding folders to the desktop</link>"
-msgstr "<link xref=\"endless-02-folders\">Adding folders to the desktop</link>"
-
-#. (itstool) path: td/p
-#: C/index.page:31
-msgid "<link xref=\"endless-03-programs\">Installing programs</link>"
-msgstr "<link xref=\"endless-03-programs\">Menginstal program</link>"
-
-#. (itstool) path: section/title
-#: C/index.page:37
 msgid "<link href=\"endlessm-app://com.endlessm.Tutorial\">Tutorial</link>"
 msgstr "<link href=\"endlessm-app://com.endlessm.Tutorial\">Tutorial</link>"
 
@@ -3561,18 +3484,6 @@ msgstr "Pilih <gui>Sistem</gui> di sisi kiri jendela, dan <gui>Tampilkan ringkas
 msgid "Hold down the desired key combination."
 msgstr "Tekan dan tahan kombinasi tombol yang diinginkan."
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/keyboard-layouts.page:106
-msgctxt "_"
-msgid ""
-"external ref='figures/input-methods-switcher.png' "
-"md5='3c55959bbc710a43fa455cb998ba5c85'"
-msgstr "-"
-
 #. (itstool) path: credit/name
 #: C/keyboard-layouts.page:26
 msgid "Juanjo Marín"
@@ -3674,6 +3585,18 @@ msgid ""
 "<keyseq><key>Shift</key><key>Super</key><key>Space</key></keyseq>. You can "
 "change these shortcuts in the <gui>Keyboard</gui> settings."
 msgstr "Cara tercepat untuk beralih ke tata letak lain adalah dengan menggunakan <gui>Pintasan Papan Ketik</gui> <gui>Sumber Input</gui>. Pintasan ini membuka pemilih <gui>Sumber Input</gui> di mana Anda dapat berpindah maju atau mundur. Secara default, Anda dapat berganti ke sumber input berikutnya dengan <keyseq><key xref=\"keyboard-key-super\">Super</key><key>Space</key></keyseq> dan ke sumber sebelumnya dengan <keyseq><key>Shift</key><key>Super</key><key>Space</key></keyseq>. Anda dapat mengganti pintasan ini dalam pengaturan <gui>Papan Ketik</gui>."
+
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/keyboard-layouts.page:106
+msgctxt "_"
+msgid ""
+"external ref='figures/input-methods-switcher.png' "
+"md5='3c55959bbc710a43fa455cb998ba5c85'"
+msgstr "-"
 
 #. (itstool) path: info/desc
 #: C/keyboard-nav.page:28
@@ -5567,18 +5490,6 @@ msgid ""
 "opening the browser again to see if this makes a difference."
 msgstr "Terkadang peramban web mengalami masalah yang membuatnya berjalan dengan lambat. Ini mungkin dapat disebabkan oleh berbagai hal - Anda mungkin telah mengunjungi situs web yang sulit dimuat oleh peramban, atau Anda mungkin telah membuka peramban untuk waktu yang lama. Cobalah menutup semua jendela pada peramban dan membuka peramban kembali untuk melihat apakah ini membuat perbedaan."
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-social-bar.page:33
-msgctxt "_"
-msgid ""
-"external ref='figures/eos-icon-socialbar.png' "
-"md5='311852df3d93299e9346bbe809bb81c6'"
-msgstr "external ref='figures/eos-icon-socialbar.png' md5='311852df3d93299e9346bbe809bb81c6'"
-
 #. (itstool) path: info/desc
 #: C/net-social-bar.page:19
 msgid "Easily chat with your Facebook friends."
@@ -5605,6 +5516,18 @@ msgstr "Pertama, Anda harus memasang akun Facebook Anda ke Endless."
 #: C/net-social-bar.page:30
 msgid "If you already have a Facebook account:"
 msgstr "Jika Anda sudah memiliki akun Facebook:"
+
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/net-social-bar.page:33
+msgctxt "_"
+msgid ""
+"external ref='figures/eos-icon-socialbar.png' "
+"md5='311852df3d93299e9346bbe809bb81c6'"
+msgstr "external ref='figures/eos-icon-socialbar.png' md5='311852df3d93299e9346bbe809bb81c6'"
 
 #. (itstool) path: item/p
 #: C/net-social-bar.page:32
@@ -5803,42 +5726,6 @@ msgid ""
 "while the hotspot is active."
 msgstr "Anda tak dapat terhubung ke internet melalui koneksi nirkabel selagi hotspot aktif."
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-wireless-connect.page:34
-msgctxt "_"
-msgid ""
-"external ref='figures/network-offline-symbolic.svg' "
-"md5='2fc0a88bd36d65404c3ad064ad2117db'"
-msgstr "external ref='figures/network-offline-symbolic.svg' md5='2fc0a88bd36d65404c3ad064ad2117db'"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-wireless-connect.page:64
-msgctxt "_"
-msgid ""
-"external ref='figures/network-wireless-acquiring-symbolic.svg' "
-"md5='281a8da467ccc370e3605b32803d7186'"
-msgstr "external ref='figures/network-wireless-acquiring-symbolic.svg' md5='281a8da467ccc370e3605b32803d7186'"
-
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-wireless-connect.page:69
-msgctxt "_"
-msgid ""
-"external ref='figures/network-wireless-signal-excellent-symbolic.svg' "
-"md5='281e0475074b621ebad6f64e5efc56d2'"
-msgstr "external ref='figures/network-wireless-signal-excellent-symbolic.svg' md5='281e0475074b621ebad6f64e5efc56d2'"
-
 #. (itstool) path: info/desc
 #: C/net-wireless-connect.page:21
 msgid "Use a Wi-Fi connection to get on the internet."
@@ -5855,6 +5742,18 @@ msgid ""
 "You can connect to a wireless network to gain access to the internet, view "
 "shared files on the network, and so on."
 msgstr "Anda dapat membuat sambungan ke jaringan nirkabel untuk dapat mengakses internet, melihat file-file yang dibagikan pada jaringan, dan lainnya."
+
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/net-wireless-connect.page:34
+msgctxt "_"
+msgid ""
+"external ref='figures/network-offline-symbolic.svg' "
+"md5='2fc0a88bd36d65404c3ad064ad2117db'"
+msgstr "external ref='figures/network-offline-symbolic.svg' md5='2fc0a88bd36d65404c3ad064ad2117db'"
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:32
@@ -5908,6 +5807,18 @@ msgid ""
 "to the network."
 msgstr "Ikon jaringan akan berubah tampilan seiring dengan upaya komputer terhubung dengan jaringan."
 
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/net-wireless-connect.page:64
+msgctxt "_"
+msgid ""
+"external ref='figures/network-wireless-acquiring-symbolic.svg' "
+"md5='281a8da467ccc370e3605b32803d7186'"
+msgstr "external ref='figures/network-wireless-acquiring-symbolic.svg' md5='281a8da467ccc370e3605b32803d7186'"
+
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:62
 msgid ""
@@ -5915,6 +5826,18 @@ msgid ""
 " look like this <media type=\"image\" mime=\"image/svg\" src=\"figures"
 "/network-wireless-acquiring-symbolic.svg\"/>."
 msgstr "Saat komputer berusaha tersambung dengan jaringan, ikon jaringan akan tampak seperti ini <media type=\"image\" mime=\"image/svg\" src=\"figures/network-wireless-acquiring-symbolic.svg\"/>."
+
+#. (itstool) path: p/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/net-wireless-connect.page:69
+msgctxt "_"
+msgid ""
+"external ref='figures/network-wireless-signal-excellent-symbolic.svg' "
+"md5='281e0475074b621ebad6f64e5efc56d2'"
+msgstr "external ref='figures/network-wireless-signal-excellent-symbolic.svg' md5='281e0475074b621ebad6f64e5efc56d2'"
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:67
@@ -6652,18 +6575,6 @@ msgid ""
 "check <gui>Collate</gui>."
 msgstr "Dalam tab <gui>Umum</gui> dari jendela Cetak di bawah <em>Salinan</em> contreng <gui>Kolasi</gui>."
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/printing-select.page:44
-msgctxt "_"
-msgid ""
-"external ref='figures/printing-select.png' "
-"md5='527835df0ce2072c82ce7b16907efed5'"
-msgstr "external ref='figures/printing-select.png' md5='527835df0ce2072c82ce7b16907efed5'"
-
 #. (itstool) path: info/desc
 #: C/printing-select.page:9
 msgid "Print only specific pages, or only a range of pages."
@@ -6699,6 +6610,18 @@ msgid ""
 "For example, if you enter \"1,3,5-7,9\" in the <gui>Pages</gui> text box, "
 "pages 1,3,5,6,7 and 9 will be printed."
 msgstr "Sebagai contoh, jika Anda memasukkan \"1,3,5-7,9\" di kotak teks <gui>Halaman</gui>, halaman 1,3,5,6,7 dan 9 akan dicetak."
+
+#. (itstool) path: note/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/printing-select.page:44
+msgctxt "_"
+msgid ""
+"external ref='figures/printing-select.png' "
+"md5='527835df0ce2072c82ce7b16907efed5'"
+msgstr "external ref='figures/printing-select.png' md5='527835df0ce2072c82ce7b16907efed5'"
 
 #. (itstool) path: info/desc
 #: C/printing-setup-default-printer.page:27
@@ -8101,18 +8024,6 @@ msgid ""
 " Feedback option</link> so that we know."
 msgstr "Apabila Anda ingin memasukkan aplikasi tertentu ke Endless di masa mendatang, harap <link xref=\"gs-give-feedback\">mengirimkan pesan kepada kami melalui opsi Umpan Balik</link>."
 
-#. (itstool) path: media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:79
-msgctxt "_"
-msgid ""
-"external ref='figures/shell-exit-classic.png' "
-"md5='f36e3a0a115ff2181a6fc787e6a83283'"
-msgstr "external ref='figures/shell-exit-classic.png' md5='f36e3a0a115ff2181a6fc787e6a83283'"
-
 #. (itstool) path: info/desc
 #: C/shell-introduction.page:28
 msgid "A quick introduction to your desktop and some of its cool features."
@@ -8178,6 +8089,18 @@ msgstr "<link xref=\"shell-apps-open\">Pelajari selengkapnya tentang pemasangan 
 #: C/shell-introduction.page:75
 msgid "You and your computer"
 msgstr "Anda dan komputer Anda"
+
+#. (itstool) path: when/media
+#. This is a reference to an external file such as an image or video. When
+#. the file changes, the md5 hash will change to let you know you need to
+#. update your localized copy. The msgstr is not used at all. Set it to
+#. whatever you like once you have updated your copy of the file.
+#: C/shell-introduction.page:79
+msgctxt "_"
+msgid ""
+"external ref='figures/shell-exit-classic.png' "
+"md5='f36e3a0a115ff2181a6fc787e6a83283'"
+msgstr "external ref='figures/shell-exit-classic.png' md5='f36e3a0a115ff2181a6fc787e6a83283'"
 
 #. (itstool) path: media/p
 #: C/shell-introduction.page:80
