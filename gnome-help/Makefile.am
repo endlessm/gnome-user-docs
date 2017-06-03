@@ -86,8 +86,6 @@ HELP_MEDIA = \
 	figures/eos-desktop-right-click.png \
 	figures/eos-desktop-search.png \
 	figures/eos-desktop-settings.gif \
-	figures/eos-desktop-social-bar-button.png \
-	figures/eos-desktop-social-bar.png \
 	figures/eos-desktop-sound.png \
 	figures/eos-desktop-taskbar.png \
 	figures/eos-desktop-update-notification.png \
@@ -95,7 +93,6 @@ HELP_MEDIA = \
 	figures/eos-desktop-wifi-list.png \
 	figures/eos-desktop-wifi-switch.png \
 	figures/eos-desktop.png \
-	figures/eos-discovery-center-news.png \
 	figures/eos-discovery-center.png \
 	figures/eos-file-manager.png \
 	figures/eos-icon-app-store-add-website.png \
@@ -105,7 +102,6 @@ HELP_MEDIA = \
 	figures/eos-icon-internet.png \
 	figures/eos-icon-more-apps.png \
 	figures/eos-icon-presentation.png \
-	figures/eos-icon-socialbar.png \
 	figures/eos-icon-spreadsheet.png \
 	figures/eos-icon-user-menu.png \
 	figures/eos-icon-writer.png \
@@ -248,7 +244,6 @@ HELP_FILES = \
 	hardware.page \
 	index.page \
 	keyboard-cursor-blink.page \
-	keyboard-es-accent.page \
 	keyboard-key-menu.page \
 	keyboard-key-super.page \
 	keyboard-layouts.page \
@@ -274,9 +269,7 @@ HELP_FILES = \
 	net-email-virus.page \
 	net-installing-other-browsers.page \
 	net-manual.page \
-	net-read-news.page \
 	net-slow.page \
-	net-social-bar.page \
 	net-troubleshoot.page \
 	net-wired-connect.page \
 	net-wireless-adhoc.page \
@@ -310,7 +303,6 @@ HELP_FILES = \
 	shell-apps-close.page \
 	shell-apps-open.page \
 	shell-delete-app-desktop.page \
-	shell-download-media.page \
 	shell-exit.page \
 	shell-install-ext-apps.page \
 	shell-introduction.page \
@@ -325,7 +317,6 @@ HELP_FILES = \
 	shell-windows-states.page \
 	shell-windows-switching.page \
 	sound-alert.page \
-	sound-troubleshoot.page \
 	sound-volume.page \
 	user-add.page \
 	user-admin-change.page \
