@@ -24,61 +24,60 @@
 
 <title>Manually set network settings</title>
 
-<p>If your network doesn't automatically assign network settings to your
- computer, you may have to manually enter the settings yourself. This topic
- assumes that you already know the correct settings to use. If not, you may
- need to ask your network administrator or look at the settings of your router
- or network switch.</p>
+      <p>If your network doesn't automatically assign network settings to your
+       computer, you may have to manually enter the settings yourself. This topic
+       assumes that you already know the correct settings to use. If not, you may
+       need to ask your network administrator or look at the settings of your router
+       or network switch.</p>
 
 <steps>
   <title>To manually set your network settings:</title>
- <item>
-      <p>Click on the <media its:translate="no" type="image" mime="image/png"
-      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
-      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
-      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
- </item>
- <item>
+    <item>
+      <p>Type "Settings" into the <gui>global search bar</gui> on your desktop.
+      Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>,
+      to open.</p>
+    </item>
+    <item>
       <p>Click on <gui>Network</gui>.</p>
       <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-network.png"/>
- </item>
- <item>
-  <p>In the left pane, select the network connection that you want to set up
- manually and click the
- <media its:translate="no" type="image" src="figures/emblem-system-symbolic.svg"><span its:translate="yes">settings</span></media>
- button. For example, if you plug in to the network with a cable, click
- <gui>Wired</gui>. For a <gui>Wi-Fi</gui> connection, the 
- <media its:translate="no" type="image" src="figures/emblem-system-symbolic.svg"><span its:translate="yes">settings</span></media>
- button will be located next to the active network.</p>
-  <p>Make sure that your wireless card is turned on or a network cable is
- plugged in.</p>
- </item>
- <item>
-  <p>Click <gui>IPv4</gui> and change <gui>Addresses</gui> to
- <gui>Manual</gui>.</p>
- </item>
- <item>
-  <p>Type in the <gui>Address</gui> and <gui>Gateway</gui>, as well as the
- appropriate <gui>Netmask</gui>.</p>
-  <p>These must be <em>IP addresses</em>; that is, they must be four numbers
- separated by periods (e.g. 123.45.6.78).</p>
- </item>
- <item>
-  <p>In the <gui>DNS</gui> section, switch <gui>Automatic</gui> to
- <gui>OFF</gui>. Enter the IP address of a DNS server you want to use. Enter
- additional DNS server addresses using the <key>+</key> button.</p>
- </item>
- <item>
-  <p>In the <gui>Routes</gui> section, switch <gui>Automatic</gui> to
- <gui>OFF</gui>. Enter the <gui>Address</gui>, <gui>Netmask</gui>,
- <gui>Gateway</gui> and <gui>Metric</gui> for a route you want to use. Enter
- additional routes using the <key>+</key> button.</p>
- </item>
- <item>
-  <p>Click <gui>Apply</gui>. If you are not connected to the network, click the
- system status area on the task bar and connect. Test the network settings by
- trying to visit a website or look at shared files on the network, for example.</p>
- </item>
+    </item>
+    <item>
+      <p>In the left pane, select the network connection that you want to set up
+      manually and click the
+      <media its:translate="no" type="image" src="figures/emblem-system-symbolic.svg">
+      <span its:translate="yes">settings</span></media> button. For example, if you plug
+      in to the network with a cable, click <gui>Wired</gui>. For a <gui>Wi-Fi</gui>
+      connection, the <media its:translate="no" type="image" src="figures/emblem-system-symbolic.svg">
+      <span its:translate="yes">settings</span></media> button will be located next
+      to the active network.</p>
+      <p>Make sure that your wireless card is turned on or a network cable is
+       plugged in.</p>
+    </item>
+    <item>
+      <p>Click <gui>IPv4</gui> and change <gui>Addresses</gui> to <gui>Manual</gui>.</p>
+    </item>
+    <item>
+      <p>Type in the <gui>Address</gui> and <gui>Gateway</gui>, as well as the
+       appropriate <gui>Netmask</gui>.</p>
+      <p>These must be <em>IP addresses</em>; that is, they must be four numbers
+       separated by periods (e.g. 123.45.6.78).</p>
+    </item>
+    <item>
+      <p>In the <gui>DNS</gui> section, switch <gui>Automatic</gui> to
+       <gui>OFF</gui>. Enter the IP address of a DNS server you want to use. Enter
+       additional DNS server addresses using the <key>+</key> button.</p>
+    </item>
+    <item>
+      <p>In the <gui>Routes</gui> section, switch <gui>Automatic</gui> to
+       <gui>OFF</gui>. Enter the <gui>Address</gui>, <gui>Netmask</gui>,
+       <gui>Gateway</gui> and <gui>Metric</gui> for a route you want to use. Enter
+       additional routes using the <key>+</key> button.</p>
+    </item>
+    <item>
+      <p>Click <gui>Apply</gui>. If you are not connected to the network, click the
+       system status area on the task bar and connect. Test the network settings by
+       trying to visit a website or look at shared files on the network, for example.</p>
+    </item>
 
 </steps>
 

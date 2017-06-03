@@ -27,11 +27,7 @@
   <steps>
     <title>To add a new folder:</title>
     <item>
-      <p>Right-click on the desktop and select <gui>Add folder</gui>.
-      Alternatively, you can click on <media its:translate="no" type="image" mime="image/png"
-      src="figures/eos-icon-more-apps.png">the plus button</media> from the
-      desktop and click on the <gui>Folders</gui> button on the left-hand
-      menu.</p>
+      <p>Right-click on the desktop and select <gui>Add folder</gui>.</p>
     </item>
     <item>
       <p>Pick an icon for your new folder.</p>

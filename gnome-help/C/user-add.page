@@ -26,6 +26,10 @@
       <name>Ekaterina Gerasimova</name>
       <email its:translate="no">kittykat3756@gmail.com</email>
     </credit>
+    <credit type="editor">
+      <name>Nuritzi Sanchez</name>
+      <email its:translate="no">n@endlessm.com</email>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -73,10 +77,8 @@
     <title>If you are the administrator, follow these steps to create more user
     accounts:</title>
     <item>
-      <p>Click on the <media its:translate="no" type="image" mime="image/png"
-      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
-      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
-      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
+      <p>Type "Settings" into the <gui>global search bar</gui> on your desktop.
+    Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, to open.</p>
     </item>
     <item>
       <p>Click on <gui>Users</gui>.</p>

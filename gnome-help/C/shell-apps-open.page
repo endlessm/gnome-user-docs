@@ -23,6 +23,7 @@
     </credit>
     <credit type="editor">
       <name>Nuritzi Sanchez</name>
+      <email>n@endlessm.com</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -60,12 +61,12 @@
     </item>
     <item>
       <p>Other apps need to be installed and require an internet connection. 
-      Click <gui>Install app</gui> to download and install these apps.</p>
+      Click <gui>Install</gui> to download and install these apps.</p>
     </item>
 
     <item>
       <p>When the app has been successfully added to your desktop, the green
-      button will change to <gui>Open app</gui> and you can start using the app
+      button will change to <gui>Launch</gui> and you can start using the app
       immediately! </p>
       <p>The app's icon will be installed on your desktop, to the left of the
       <media its:translate="no" type="image" mime="image/png" src="figures/eos-icon-more-apps.png">
@@ -79,12 +80,11 @@
   <title>Installing Website Shortcuts </title>
   <steps>
     <item>
-      <p>Click once on the <media its:translate="no" type="image" mime="image/png"
-      src="figures/eos-icon-more-apps.png">plus button</media> from the
-      desktop.</p>
+      <p>Right click on the desktop and select the <gui>Add Website</gui> option.</p>
     </item>
     <item>
-      <p>Click on the <gui>Websites</gui> category on the left hand side.</p>
+      <p>Click on the <gui>Websites</gui> category on the left hand side if it is not
+      already selected.</p>
       <media its:translate="no" type="image" mime="image/png" src="figures/eos-app-store-websites.png"/>
     </item>
     <item>

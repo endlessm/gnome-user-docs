@@ -31,27 +31,23 @@
       desktop.</p>
     </item>
     <item>
-      <p>On the left menu, click on the section <gui>Installed</gui>. All apps
-      that are installed on your computer will be there.</p>
+      <p>On the top bar, click the <gui>Updates</gui> section.</p>
     </item>
     <item>
-      <p>Click the thumbnail of the app you want to update.</p>
+      <p>If there is an update available, you will see an <gui>Update</gui> you can
+      select. Click on it to download the update. It will be installed automatically
+      once it's ready.</p>
     </item>
     <item>
-      <p>If there is an update available, you will see a green button with the
-      label <gui>Update app</gui>. Click on it to download the update. It will
-      be installed automatically once it's ready.</p>
-    </item>
-    <item>
-      <p>Once the update is installed, you will see the <gui>Open app</gui>
-      button.</p>
+      <p>You can also choose to <gui>Update All</gui> of your apps at once with the blue
+      button at the top right of your screen.</p>
     </item>
   </steps>
 
   <note>
-    <p>To update an app, you will need an internet connection.</p>
+    <p>To update your apps, you will need an internet connection.</p>
   </note>
   <note style = "tip">
-    <p>You can close the <app>App Center</app> while the app is updating.</p>
+    <p>You can close the <app>App Center</app> while apps are updating.</p>
   </note>
 </page>

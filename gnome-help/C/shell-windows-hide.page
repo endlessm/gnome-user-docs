@@ -30,8 +30,10 @@
   <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-taskbar.png"/>
 
   <note style="tip">
-    <p>If you want to hide several windows at the same time, you might want to
-    use the <gui>hot corner</gui> to quickly navigate between the hidden
+    <p>Starting in Endless version 3.2, you can hide all of your windows instantly
+    by clicking on the Endless logo on the bottom left corner. Click it again to
+    restore your windows. When your windows are minimized, you can use the
+    <gui>hot corner</gui> on the bottom right to quickly navigate between the hidden
     apps.</p>
   </note>
 </page>

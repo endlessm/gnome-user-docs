@@ -20,13 +20,14 @@
 
   <title>Installing other browsers</title>
 
-  <p>Unfortunately, Endless does not currently support the installation of other
-  browsers.</p>
+  <p>Endless comes with a browser on the desktop, but if you would like to install
+  other browsers, you can do so from the App Center. You can try searching for the
+  browser of your preference by typing its name in the search bar, or by going to
+  the App Center's <gui>Utilities</gui> section.</p>
 
   <p>We plan on supporting the installation of other browsers at a future date,
-  and will notify you when we add this feature. Feel free to give us your
+  and will notify you as we add more. Feel free to give us your
   feedback and let us know what you need.</p>
 
-  <p>In the meantime, we hope you enjoy using the current Endless browser to
-  explore new websites and stay updated on the world's news!</p>
+  <p>In the meantime, we hope you enjoy using the current browsers that ship on Endless.</p>
 </page>

@@ -46,10 +46,8 @@
 
   <steps>
     <item>
-      <p>Click on the <media its:translate="no" type="image" mime="image/png"
-      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
-      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
-      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
+      <p>Type "Settings" into the <gui>global search bar</gui> on your desktop.
+    Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, to open.</p>
     </item>
     <item>
       <p>Click on <gui>Users</gui>.</p>

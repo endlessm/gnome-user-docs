@@ -17,7 +17,7 @@
 
   <title>Download songs and media</title>
 
-  <p>You can use the <app>FrostTorrent</app> app to download songs and media from
+  <p>You can use the <app>Transmission</app> app to download songs and media from
   the internet.</p>
 
 
@@ -25,12 +25,12 @@
     <title>Download songs and media from the internet following these
     steps:</title>
     <item>
-      <p>Make sure that you have the <app>FrostTorrent</app> app installed on your
+      <p>Make sure that you have the <app>Transmission</app> app installed on your
       computer. If you don't already have it, go to your <app>App Center</app>'s
       Utilities section and download it, then click on it once to open.</p>
     </item>
     <item>
-      <p>If this is the first time you open <app>FrostTorrent</app>, you will
+      <p>If this is the first time you open <app>Transmission</app>, you will
       need to complete a short setup using the wizard it provides. Once it
       finishes setting up, move on to the next step.</p>
     </item>

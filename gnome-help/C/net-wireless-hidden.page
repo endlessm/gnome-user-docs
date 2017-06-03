@@ -21,6 +21,10 @@
       <name>Ekaterina Gerasimova</name>
       <email its:translate="no">kittykat3756@gmail.com</email>
     </credit>
+    <credit type="editor">
+      <name>Nuritzi Sanchez</name>
+      <email its:translate="no">n@endlessm.com</email>
+    </credit>
 
     <desc>Connect to a network that you might not be able to see.</desc>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -34,8 +38,9 @@ to be secure. To connect to a hidden wireless network follow these steps:</p>
 
 <steps>
   <item>
-    <p>Click the network icon on the task bar and select
-    <gui>Network Settings.</gui></p>
+    <p>Type "Network" into the <gui>global search bar</gui> on your desktop.
+    Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>,
+    to open.</p>
   </item>
   <item>
     <p>Click the <gui>Connect to Hidden Network</gui> button.</p>

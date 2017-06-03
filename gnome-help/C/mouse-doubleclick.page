@@ -41,20 +41,23 @@ pressing the mouse button quickly, you should increase the timeout.</p>
 
 <steps>
   <item>
-      <p>Click on the <media its:translate="no" type="image" mime="image/png"
-      src="figures/eos-icon-user-menu.png">User Menu</media> on the bottom
-      left-hand corner of your screen, then click on <gui>Settings</gui>.</p>
-      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-settings.gif"/>
+    <p>Type "Settings" into the <gui>global search bar</gui> on your desktop.
+    Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>,
+    to open.</p>
   </item>
   <item>
     <p>Click on <gui>Mouse &amp; Touchpad</gui>.</p>
     <media its:translate="no" type="image" mime="image/png" src="figures/eos-cc-mouse.png"/>
   </item>
-  <item><p>Under <gui>General</gui>, adjust the <gui>Double-click</gui>
-  slider to a value you find comfortable.</p></item>
-  <item><p>Click the <gui>Test Your Settings</gui> button to test. A single
-  click in the window will highlight the outer circle. A double-click will
-  highlight the inside circle.</p></item>
+  <item>
+    <p>Under <gui>General</gui>, adjust the <gui>Double-click</gui>
+    slider to a value you find comfortable.</p>
+  </item>
+  <item>
+    <p>Click the <gui>Test Your Settings</gui> button to test. A single
+    click in the window will highlight the outer circle. A double-click will
+    highlight the inside circle.</p>
+  </item>
 </steps>
 
 <p>If your mouse double-clicks when you want it to single-click

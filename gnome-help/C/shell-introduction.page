@@ -22,6 +22,11 @@
       <name>Ekaterina Gerasimova</name>
       <email its:translate="no">kittykat3756@gmail.com</email>
     </credit>
+    <credit type="editor">
+      <name>Nuritzi Sanchez</name>
+      <email its:translate="no">n@endlessm.com</email>
+    </credit>
+
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -38,9 +43,7 @@
   applications, your calendar and clock, and system properties like sound and
   networking. There, you can change the volume, edit your Wi-Fi
   connection details, check your battery status, log out or switch users, and
-  turn off your computer. We have also included the possibility to connect to
-  Facebook on this task bar, so that you can keep in touch with your friends
-  more easily than ever!</p>
+  turn off your computer.</p>
 
 <links type="section"/>
 
@@ -54,12 +57,6 @@
   src="figures/eos-icon-more-apps.png"> the plus</media> button from the desktop.
   This will launch our <app>App Center</app>, which is full of free applications
   for you to install on your desktop.</p>
-
-  <p>From the <app>App Center</app> you can add: <gui>Apps</gui>,
-  <gui>Websites</gui>, and <gui>Folders</gui>. You can browse applications you
-  may want to install by category, add shortcuts to your favorite websites onto
-  your desktop, or simply create new folders to organize all of your things in a
-  way that makes sense to you.</p>
 
 
   <list style="compact">
