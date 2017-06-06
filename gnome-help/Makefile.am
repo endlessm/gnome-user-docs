@@ -328,4 +328,4 @@ HELP_FILES = \
 	user-delete.page \
 	user-goodpassword.page
 
-HELP_LINGUAS = as bn ca cs de el fi fr es gl gu hi hu id it ja kn lv mr nl pa pt_BR ru sl sr sr@latin sv te th vi ta zh_CN
+HELP_LINGUAS = ar as bn ca cs da de el es fi fil fr gl gu he hi hu id it ja kn lv mr nl pa pt pt_BR ro ru sl sr sr@latin sv ta te th tr vi zh_CN zh_TW
