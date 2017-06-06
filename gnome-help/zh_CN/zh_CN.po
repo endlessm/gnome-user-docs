@@ -11,8 +11,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2017-06-01 16:45-0700\n"
-"PO-Revision-Date: 2017-06-01 23:47+0000\n"
+"POT-Creation-Date: 2017-06-05 20:09-0700\n"
+"PO-Revision-Date: 2017-06-06 04:48+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -147,53 +147,53 @@ msgstr "开启<em>回弹键</em>可以忽略快速重复的按键动作。例如
 #: C/a11y-font-size.page:37 C/a11y-icon.page:38 C/a11y-mag.page:39
 #: C/a11y-right-click.page:43 C/a11y-slowkeys.page:45
 #: C/a11y-stickykeys.page:49 C/a11y-visualalert.page:44 C/accounts-add.page:36
-#: C/bluetooth-connect-device.page:47 C/bluetooth-remove-connection.page:45
-#: C/bluetooth-send-file.page:52 C/bluetooth-turn-on-off.page:45
-#: C/bluetooth-turn-on-off.page:61 C/keyboard-cursor-blink.page:43
+#: C/bluetooth-connect-device.page:47 C/bluetooth-remove-connection.page:49
+#: C/bluetooth-send-file.page:56 C/bluetooth-turn-on-off.page:49
+#: C/bluetooth-turn-on-off.page:63 C/keyboard-cursor-blink.page:43
 #: C/keyboard-key-super.page:51 C/keyboard-layouts.page:51
 #: C/keyboard-osk.page:41 C/keyboard-repeat-keys.page:46
 #: C/look-background.page:61 C/mouse-doubleclick.page:44
 #: C/mouse-mousekeys.page:44 C/mouse-sensitivity.page:42
 #: C/mouse-when-right-click.page:43 C/net-manual.page:36
-#: C/printing-cancel-job.page:43 C/printing-cancel-job.page:86
-#: C/printing-setup-default-printer.page:42 C/printing-setup.page:80
-#: C/privacy-screen-lock.page:47 C/session-language.page:41
-#: C/sharing-bluetooth.page:90 C/shell-notifications.page:101
-#: C/shell-update-system.page:46 C/sound-alert.page:39 C/user-add.page:76
-#: C/user-admin-change.page:38 C/user-autologin.page:29
-#: C/user-changepassword.page:65 C/user-changepicture.page:42
-#: C/user-delete.page:49
+#: C/printing-cancel-job.page:43 C/printing-cancel-job.page:84
+#: C/printing-setup.page:80 C/privacy-screen-lock.page:47
+#: C/session-language.page:44 C/sharing-bluetooth.page:94
+#: C/shell-notifications.page:104 C/shell-update-system.page:46
+#: C/sound-alert.page:39 C/user-add.page:80 C/user-admin-change.page:38
+#: C/user-autologin.page:29 C/user-changepassword.page:65
+#: C/user-changepicture.page:42 C/user-delete.page:49
 msgid ""
-"Click on the <_:media-1/> on the bottom left-hand corner of your screen, "
-"then click on <gui>Settings</gui>."
-msgstr "单击您左手边屏幕底部的<_:media-1/> ，然后单击<gui>设置</gui>。"
+"Type \"Settings\" into the <gui>global search bar</gui> on your desktop. "
+"Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
+"to open."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/a11y-bouncekeys.page:49 C/a11y-contrast.page:49 C/a11y-dwellclick.page:54
-#: C/a11y-font-size.page:43 C/a11y-mag.page:45 C/a11y-right-click.page:49
-#: C/a11y-slowkeys.page:51 C/a11y-stickykeys.page:55
-#: C/a11y-visualalert.page:50 C/keyboard-osk.page:47 C/mouse-mousekeys.page:50
+#: C/a11y-bouncekeys.page:48 C/a11y-contrast.page:47 C/a11y-dwellclick.page:53
+#: C/a11y-font-size.page:42 C/a11y-mag.page:44 C/a11y-right-click.page:48
+#: C/a11y-slowkeys.page:50 C/a11y-stickykeys.page:54
+#: C/a11y-visualalert.page:49 C/keyboard-osk.page:46 C/mouse-mousekeys.page:49
 msgid "Click on <gui>Universal Access</gui>."
 msgstr "单击<gui>辅助功能</gui>。"
 
 #. (itstool) path: item/p
-#: C/a11y-bouncekeys.page:53 C/a11y-slowkeys.page:55 C/a11y-stickykeys.page:59
+#: C/a11y-bouncekeys.page:52 C/a11y-slowkeys.page:54 C/a11y-stickykeys.page:58
 msgid ""
 "Press <gui>Typing Assist (AccessX)</gui> in the <gui>Typing</gui> section."
 msgstr "在<gui>输入</gui>部分点击<gui>输入辅助(AccessX)</gui>"
 
 #. (itstool) path: item/p
-#: C/a11y-bouncekeys.page:57
+#: C/a11y-bouncekeys.page:56
 msgid "Switch <gui>Bounce Keys</gui> to <gui>On</gui>."
 msgstr "开启<gui>回弹键</gui>。"
 
 #. (itstool) path: note/title
-#: C/a11y-bouncekeys.page:62
+#: C/a11y-bouncekeys.page:61
 msgid "Quickly turn bounce keys on and off"
 msgstr "快速开启和关闭回弹键功能"
 
 #. (itstool) path: note/p
-#: C/a11y-bouncekeys.page:63
+#: C/a11y-bouncekeys.page:62
 msgid ""
 "You can turn bounce keys on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar at the bottom of your "
@@ -203,7 +203,7 @@ msgid ""
 msgstr "您可以在屏幕底端的任务栏通过点击\t<link xref=\"a11y-icon\">辅助图标</link>，选择 <gui>回弹键 </gui>来开启和关闭回弹键。只有在<gui>辅助功能 </gui>面板里启用了至少一个设置，辅助图标才会显示。"
 
 #. (itstool) path: page/p
-#: C/a11y-bouncekeys.page:70
+#: C/a11y-bouncekeys.page:69
 msgid ""
 "Use the <gui>Acceptance delay</gui> slider to change how long bounce keys "
 "waits before it registers another key press after you pressed the key for "
@@ -258,7 +258,7 @@ msgid "To adjust the contrast of your window:"
 msgstr "调节窗口对比度:"
 
 #. (itstool) path: item/p
-#: C/a11y-contrast.page:53
+#: C/a11y-contrast.page:51
 msgid "Switch <gui>High Contrast</gui> to <gui>ON</gui>."
 msgstr "开启<gui>高对比度</gui>。"
 
@@ -292,19 +292,19 @@ msgid ""
 msgstr "当开启了<gui>悬停点击</gui>功能时，您可以将鼠标指针移动到某一控制项上，松开鼠标，稍候一会，便会为您自动点击该按键。"
 
 #. (itstool) path: item/p
-#: C/a11y-dwellclick.page:58
+#: C/a11y-dwellclick.page:57
 msgid ""
 "Press <gui>Click Assistant</gui> in the <gui>Pointing and Clicking</gui> "
 "section."
 msgstr "在<gui>鼠标移动与点击</gui>模块按下<gui>点击助手</gui>。"
 
 #. (itstool) path: item/p
-#: C/a11y-dwellclick.page:62
+#: C/a11y-dwellclick.page:61
 msgid "Switch <gui>Hover Click</gui> to <gui>On</gui>."
 msgstr "开启<gui>悬停点击</gui>。"
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:66
+#: C/a11y-dwellclick.page:65
 msgid ""
 "The <gui>Hover Click</gui> window will open, and will stay above all of your"
 " other windows. You can use this to choose what sort of click should happen "
@@ -314,7 +314,7 @@ msgid ""
 msgstr "<gui>悬停点击</gui>窗口将打开，并且显示在其他窗口之上。您可以用它来选择悬停点击的类型。例如，当您选择了<gui>辅助点击</gui>，当您悬停鼠标时会产生一个右键点击动作。当您双击、右击或拖拽后，将自动返回点击状态。"
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:72
+#: C/a11y-dwellclick.page:71
 msgid ""
 "When you hover your mouse pointer over a button and do not move it, it will "
 "gradually change color. When it has fully changed color, the button will be "
@@ -322,14 +322,14 @@ msgid ""
 msgstr "当您将鼠标指针悬停于某一按钮上并停止不动时，该按钮会逐渐改变颜色。当完全变换颜色之后，就会点击该按钮。"
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:76
+#: C/a11y-dwellclick.page:75
 msgid ""
 "Adjust the <gui>Delay</gui> setting to change how long you have to hold the "
 "mouse pointer still before clicking."
 msgstr "调整<gui>延时</gui>设置，改变产生点击前需静置鼠标的时间。"
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:79
+#: C/a11y-dwellclick.page:78
 msgid ""
 "You do not need to hold the mouse perfectly still when hovering to click. "
 "The pointer is allowed to move a little bit and will still click after a "
@@ -337,7 +337,7 @@ msgid ""
 msgstr "悬停点击时，并不需要您完全将鼠标静止。鼠标指针稍微移动后也能触发点击。但是如果移动幅度过大，将无法触发点击。"
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:83
+#: C/a11y-dwellclick.page:82
 msgid ""
 "Adjust the <gui>Motion threshold</gui> setting to change how much the "
 "pointer can move and still be considered to be hovering."
@@ -361,14 +361,14 @@ msgid ""
 msgstr "如果您阅读屏幕上的文字有困难，您可以更改字体的大小。"
 
 #. (itstool) path: item/p
-#: C/a11y-font-size.page:47
+#: C/a11y-font-size.page:46
 msgid ""
 "Switch <gui>Large Text</gui> to <gui>On</gui> in the <gui>Seeing</gui> "
 "section."
 msgstr "在<gui>视觉</gui>部分里开启<gui>大号文本</gui>"
 
 #. (itstool) path: page/p
-#: C/a11y-font-size.page:52
+#: C/a11y-font-size.page:51
 msgid ""
 "Alternatively, you can quickly change the text size by clicking the <link "
 "xref=\"a11y-icon\">accessibility icon</link> on the task bar and selecting "
@@ -376,7 +376,7 @@ msgid ""
 msgstr "或者，您可以快捷点击任务栏里的<link xref=\"a11y-icon\">辅助图标</link> ，选择<gui>大号文本</gui>，来更改字体大小。"
 
 #. (itstool) path: note/p
-#: C/a11y-font-size.page:57
+#: C/a11y-font-size.page:56
 msgid ""
 "In many applications, you can increase the text size at any time by pressing"
 " <keyseq><key>Ctrl</key><key>+</key></keyseq>. To reduce the text size, "
@@ -416,12 +416,12 @@ msgid ""
 msgstr "如果您没有看到辅助功能菜单，您可以在<gui>辅助功能</gui>面板开启菜单。"
 
 #. (itstool) path: item/p
-#: C/a11y-icon.page:44
+#: C/a11y-icon.page:42
 msgid "Click <gui>Universal Access</gui>."
 msgstr "点击 <gui>辅助功能 </gui>。"
 
 #. (itstool) path: item/p
-#: C/a11y-icon.page:47
+#: C/a11y-icon.page:45
 msgid "Switch <gui>Always Show Universal Access Menu</gui> to <gui>On</gui>."
 msgstr "开启 <gui>一直显示辅助功能菜单 </gui>。"
 
@@ -445,17 +445,17 @@ msgid ""
 msgstr "放大某一屏幕区域和仅仅放大<link xref=\"a11y-font-size\">字号</link>有所不同。这个功能就像用一个玻璃放大镜，可以移动放大不同的屏幕区域。"
 
 #. (itstool) path: item/p
-#: C/a11y-mag.page:49
+#: C/a11y-mag.page:48
 msgid "Press on <gui>Zoom</gui> in the <gui>Seeing</gui> section."
 msgstr "在<gui>视觉</gui>模块点击<gui>缩放</gui>。"
 
 #. (itstool) path: item/p
-#: C/a11y-mag.page:52
+#: C/a11y-mag.page:51
 msgid "Switch <gui>Zoom</gui> to <gui>On</gui>."
 msgstr "开启<gui>缩放</gui>功能。"
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:62
+#: C/a11y-mag.page:61
 msgid ""
 "You can now move around the screen area. By moving your mouse to the edges "
 "of the screen, you will move the magnified area in different directions, "
@@ -463,7 +463,7 @@ msgid ""
 msgstr "您可以移动放大的屏幕区域，把鼠标移到屏幕不同区域，就可以放大那里，您可以查看放大的区域。"
 
 #. (itstool) path: note/p
-#: C/a11y-mag.page:67
+#: C/a11y-mag.page:66
 msgid ""
 "You can quickly turn zoom on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting "
@@ -471,7 +471,7 @@ msgid ""
 msgstr "您可以在任务栏里通过点击<link xref=\"a11y-icon\">辅助图标</link>，然后选择<gui>缩放</gui>来开启或关闭缩放功能。"
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:72
+#: C/a11y-mag.page:71
 msgid ""
 "You can change the magnification factor, the mouse tracking, and the "
 "position of the magnified view on the screen. Adjust these in the "
@@ -479,7 +479,7 @@ msgid ""
 msgstr "您可以改变放大倍数，鼠标跟踪和屏幕的放大位置。您可以在<gui>缩放</gui>设置窗口里的<gui>放大镜</gui>选项卡内调整。"
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:76
+#: C/a11y-mag.page:75
 msgid ""
 "You can activate crosshairs to help you find the mouse or touchpad pointer. "
 "To switch them on and adjust their length, color, and thickness, go to "
@@ -488,7 +488,7 @@ msgid ""
 msgstr "你可以激活十字准线来帮助您找到鼠标或触摸板指针。您可以在<gui>缩放</gui>设置窗口里的<gui>十字准线</gui>选项卡内开启<gui>十字准线</gui>，调整它们的长度、颜色和厚度。"
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:81
+#: C/a11y-mag.page:80
 msgid ""
 "You can switch to inverse video or <gui>White on black</gui>, and adjust "
 "brightness, contrast and greyscale options for the magnifier. The "
@@ -525,26 +525,26 @@ msgid ""
 msgstr "您可以通过按住鼠标左键来完成右击。这在您移动一只手上两根手指有困难时，或者您使用的鼠标只有一个按键时非常有用。"
 
 #. (itstool) path: item/p
-#: C/a11y-right-click.page:53
+#: C/a11y-right-click.page:52
 msgid ""
 "Press <gui>Click Assist</gui> in the <gui>Pointing and Clicking</gui> "
 "section."
 msgstr "点击<gui>选中和点击</gui>区段的<gui>点击辅助</gui>。"
 
 #. (itstool) path: item/p
-#: C/a11y-right-click.page:58
+#: C/a11y-right-click.page:57
 msgid "Switch <gui>Simulated Secondary Click</gui> to <gui>On</gui>."
 msgstr "开启<gui>模拟右键</gui>。"
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:63
+#: C/a11y-right-click.page:62
 msgid ""
 "You can change how long you must hold down the left mouse button before it "
 "is registered as a right click by changing the <gui>Acceptance delay</gui>."
 msgstr "您可以通过设置 <gui>接收延迟 </gui>中的数据，来设定按住鼠标左键多长时间才能达成单击右键的操作。"
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:67
+#: C/a11y-right-click.page:66
 msgid ""
 "To right-click with simulated secondary click, hold down the left mouse "
 "button where you would normally right-click, then release. The pointer fills"
@@ -553,7 +553,7 @@ msgid ""
 msgstr "要产生右击动作，把鼠标指针移到想要右击的位置上，按住鼠标左键，稍等然后松开。按住左键后，指针将开始填充蓝色，当填满后松开左键，就会产生右键单击动作。"
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:72
+#: C/a11y-right-click.page:71
 msgid ""
 "Some special pointers, such as the resize pointers, do not change colors. "
 "You can still use simulated secondary click as normal, even if you don't get"
@@ -561,7 +561,7 @@ msgid ""
 msgstr "在一些特殊的指针样式，如大小变换的指针，将不显示填充颜色过程，但您仍可以照常虚拟右击动作，即便看不到指针的变化。"
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:76
+#: C/a11y-right-click.page:75
 msgid ""
 "If you use <link xref=\"mouse-mousekeys\">Mouse Keys</link>, this also "
 "allows you to right-click by holding down the <key>5</key> key on your "
@@ -610,17 +610,17 @@ msgid ""
 msgstr "如果您希望按键后屏幕延迟显示对应字母，可开启<em>慢速键</em>。此时您必须按住想要输入的每个键不松手，对应字母才会显示。如果您在在输入过程中会不小心一次按下多个键、或发现很难一次就按下正确的键时，可以使用慢速键。"
 
 #. (itstool) path: item/p
-#: C/a11y-slowkeys.page:59
+#: C/a11y-slowkeys.page:58
 msgid "Switch <gui>Slow Keys</gui> to <gui>On</gui>."
 msgstr "开启<gui>慢速键</gui>。"
 
 #. (itstool) path: note/title
-#: C/a11y-slowkeys.page:64
+#: C/a11y-slowkeys.page:63
 msgid "Quickly turn slow keys on and off"
 msgstr "快速开启和关闭慢速键"
 
 #. (itstool) path: note/p
-#: C/a11y-slowkeys.page:65
+#: C/a11y-slowkeys.page:64
 msgid ""
 "Under <gui>Enable by Keyboard</gui>, select <gui>Turn on accessibility "
 "features from the keyboard</gui> to turn slow keys on and off from the "
@@ -629,7 +629,7 @@ msgid ""
 msgstr "在 <gui>键盘可用</gui>面板中选择<gui>使用键盘开启辅助功能</gui>，可以通过键盘来开启和关闭慢速键。选中此项，您可以通过按住<key>Shift</key>键8秒钟，来开启或关闭慢速键。"
 
 #. (itstool) path: note/p
-#: C/a11y-slowkeys.page:70
+#: C/a11y-slowkeys.page:69
 msgid ""
 "You can also turn slow keys on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting <gui>Slow "
@@ -638,14 +638,14 @@ msgid ""
 msgstr "您也可以通过点击任务栏中的<link xref=\"a11y-icon\">辅助图标 </link>，选择<gui>慢速键 </gui>来开启或关闭慢速键。只有在<gui>辅助功能 </gui>面板里启用了至少一个设置，辅助图标才会显示。"
 
 #. (itstool) path: page/p
-#: C/a11y-slowkeys.page:77
+#: C/a11y-slowkeys.page:76
 msgid ""
 "Use the <gui>Acceptance delay</gui> slider to control how long you have to "
 "hold a key down for it to register."
 msgstr "拖动<gui>接收延时</gui>滑块，设定按住多长时间才能输入一个按键。"
 
 #. (itstool) path: page/p
-#: C/a11y-slowkeys.page:80
+#: C/a11y-slowkeys.page:79
 msgid ""
 "You can have your computer make a sound when you press a key, when a key "
 "press is accepted, or when a key press is rejected because you didn't hold "
@@ -683,17 +683,17 @@ msgid ""
 msgstr "如果您感觉同时按住几个键有困难，可以考虑开启粘滞键。"
 
 #. (itstool) path: item/p
-#: C/a11y-stickykeys.page:63
+#: C/a11y-stickykeys.page:62
 msgid "Switch <gui>Sticky Keys</gui> to <gui>On</gui>."
 msgstr "开启<gui>粘滞键</gui>。"
 
 #. (itstool) path: note/title
-#: C/a11y-stickykeys.page:68
+#: C/a11y-stickykeys.page:67
 msgid "Quickly turn sticky keys on and off"
 msgstr "快速开启和关闭粘滞键"
 
 #. (itstool) path: note/p
-#: C/a11y-stickykeys.page:69
+#: C/a11y-stickykeys.page:68
 msgid ""
 "Under <gui>Enable by Keyboard</gui>, select <gui>Turn on accessibility "
 "features from the keyboard</gui> to turn sticky keys on and off from the "
@@ -702,7 +702,7 @@ msgid ""
 msgstr "选择<gui>使用键盘开启辅助功能选择性</gui>(和上面的<gui>慢速键</gui>相同)，可以通过键盘来开启和关闭粘滞键。选中此项，您可以通过按5次<key>Shift</key>键，来启用或关闭粘滞键功能。"
 
 #. (itstool) path: note/p
-#: C/a11y-stickykeys.page:74
+#: C/a11y-stickykeys.page:73
 msgid ""
 "You can also turn sticky keys on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting <gui>Sticky "
@@ -711,14 +711,14 @@ msgid ""
 msgstr "您也可以通过点击任务栏中的<link xref=\"a11y-icon\">辅助图标 </link>，选择<gui>粘滞键 </gui>来开启或关闭粘滞键。只有在<gui>辅助功能 </gui>面板里启用了至少一个设置，辅助图标才会显示。"
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:81
+#: C/a11y-stickykeys.page:80
 msgid ""
 "If you press two keys at once, you can have sticky keys turn itself off "
 "temporarily to let you enter a keyboard shortcut in the normal way."
 msgstr "如果您一次按住了两个键，就可以临时关闭粘滞键，像平常那样输入键盘快捷方式。"
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:84
+#: C/a11y-stickykeys.page:83
 msgid ""
 "For example, if you have sticky keys turned on but press <key>Super</key> "
 "and <key>Tab</key> simultaneously, sticky keys would not wait for you to "
@@ -729,13 +729,13 @@ msgid ""
 msgstr "例如，如果您打开了此选项，并且您开启了粘滞键，但同时按下了 <key>Alt</key> 和 <key>Tab</key> 键，粘滞键不会等待您按下另一键。但是，如果您只按了一个键，它<em>将会</em>等待您按下另一个。如果您能够同时按下某些键盘快捷键(例如，紧邻的几个键)但不能按住其他快捷键，此选项将非常有用。"
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:91
+#: C/a11y-stickykeys.page:90
 msgid ""
 "Select <gui>Disable if two keys are pressed together</gui> to enable this."
 msgstr "选中<gui>若同时按两个键则禁用</gui>来启用它。"
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:94
+#: C/a11y-stickykeys.page:93
 msgid ""
 "You can have the computer make a \"beep\" sound when you start typing a "
 "keyboard shortcut with sticky keys turned on. This is useful if you want to "
@@ -774,24 +774,24 @@ msgid ""
 msgstr "如果您处在图书馆等环境中，需要电脑保持静音，此功能非常有用。请参阅<link xref=\"sound-alert\"/>了解如何关闭警告声，并启用视觉警告。"
 
 #. (itstool) path: item/p
-#: C/a11y-visualalert.page:54
+#: C/a11y-visualalert.page:53
 msgid "Press <gui>Visual Alerts</gui> in the <gui>Hearing</gui> section."
 msgstr "在<gui>声音</gui>模块按下<gui>视觉警告</gui>。"
 
 #. (itstool) path: item/p
-#: C/a11y-visualalert.page:57
+#: C/a11y-visualalert.page:56
 msgid "Switch <gui>Visual Alerts</gui> to <gui>On</gui>."
 msgstr "开启<gui>视觉警告</gui>。"
 
 #. (itstool) path: item/p
-#: C/a11y-visualalert.page:60
+#: C/a11y-visualalert.page:59
 msgid ""
 "Select whether you want the entire screen or just your current window title "
 "to flash."
 msgstr "选择需要闪烁整个屏幕还是仅当前窗口。"
 
 #. (itstool) path: note/p
-#: C/a11y-visualalert.page:66
+#: C/a11y-visualalert.page:65
 msgid ""
 "You can quickly turn visual alerts on and off by clicking the <link xref"
 "=\"a11y-icon\">accessibility icon</link> on the task bar and selecting "
@@ -856,23 +856,27 @@ msgstr "Jim Campbell"
 
 #. (itstool) path: credit/name
 #: C/accounts-add.page:21 C/backup-why.page:11
-#: C/files-microsoft-compatible.page:11 C/files-save.page:10
-#: C/files-zip.page:10 C/keyboard-es-accent.page:10 C/look-background.page:45
+#: C/bluetooth-remove-connection.page:29 C/bluetooth-send-file.page:28
+#: C/bluetooth-turn-on-off.page:28 C/clock-set.page:21
+#: C/clock-timezone.page:25 C/files-microsoft-compatible.page:11
+#: C/files-save.page:10 C/files-zip.page:10 C/look-background.page:45
 #: C/media-import-from-device.page:11 C/media-listen-music.page:11
 #: C/media-play-videos.page:11 C/mouse-when-right-click.page:11
 #: C/net-3g-dongles.page:10 C/net-create-email.page:10
 #: C/net-discover-websites.page:11 C/net-installing-other-browsers.page:10
-#: C/net-read-news.page:11 C/net-social-bar.page:11 C/net-troubleshoot.page:9
+#: C/net-troubleshoot.page:9 C/net-wireless-hidden.page:25
 #: C/printing-from-applications.page:10 C/printing-setup.page:33
 #: C/printing-supported.page:11 C/security-and-privacy.page:8
 #: C/security-data-collection.page:10 C/security-guard-privacy.page:10
-#: C/security-understand-password.page:11 C/sharing-media.page:16
+#: C/security-understand-password.page:11 C/session-language.page:31
+#: C/sharing-bluetooth.page:16 C/sharing-media.page:16
 #: C/shell-add-desktop-folder.page:11 C/shell-apps-close.page:11
 #: C/shell-apps-open.page:25 C/shell-delete-app-desktop.page:11
-#: C/shell-download-media.page:10 C/shell-install-ext-apps.page:10
+#: C/shell-exit.page:30 C/shell-install-ext-apps.page:10
+#: C/shell-introduction.page:26 C/shell-notifications.page:26
 #: C/shell-organize-apps.page:10 C/shell-update-app.page:11
 #: C/shell-update-system.page:11 C/shell-windows-hide.page:11
-#: C/sound-troubleshoot.page:10
+#: C/user-add.page:30
 msgid "Nuritzi Sanchez"
 msgstr "Nuritzi Sanchez"
 
@@ -896,29 +900,29 @@ msgid ""
 msgstr "您可以连接喜欢的在线账户，比如您的邮箱，以便在您打开相关应用时创建用户。"
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:42
+#: C/accounts-add.page:40
 msgid "Click on <gui>Online Accounts</gui>."
 msgstr "点击<gui>在线账户</gui>"
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:46
+#: C/accounts-add.page:44
 msgid "Click the <gui>Add an online account</gui> button."
 msgstr "点击 <gui>添加在线用户</gui>按钮。"
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:50
+#: C/accounts-add.page:48
 msgid "Select the type of account you want to add first."
 msgstr "首先选择您想要添加的账户类型。"
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:51
+#: C/accounts-add.page:49
 msgid ""
 "If you want to add more than one account type, you can do so at a later "
 "time."
 msgstr "如果您想使用多种账户类型，可以稍后再添加。"
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:56
+#: C/accounts-add.page:54
 msgid ""
 "A small window will open where you can enter your online account "
 "credentials. For example, if you are setting up a Google account, enter your"
@@ -926,14 +930,14 @@ msgid ""
 msgstr "您可以在弹出的小窗口中输入在线账户信息。比如，如果您正在建立Google账户，请输入您的Google用户名和密码。"
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:61
+#: C/accounts-add.page:59
 msgid ""
 "If you have entered your credentials correctly, you will be prompted to "
 "allow Endless access to your online account. Authorize access to continue."
 msgstr "如果您输入的验证信息正确，系统将提示您授权Endless连接您的在线账户。授权后可继续访问。"
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:66
+#: C/accounts-add.page:64
 msgid ""
 "Select the applications that you want linked to your online account. For "
 "example, if you want to use an online account for email, but do not want to "
@@ -942,14 +946,14 @@ msgid ""
 msgstr "选择您想要连接在线账户的应用。比如，如果您想使用邮箱账户，不想使用日历账户，请在<gui>日历</gui>一栏中选择<gui>关闭</gui>。"
 
 #. (itstool) path: page/p
-#: C/accounts-add.page:74
+#: C/accounts-add.page:72
 msgid ""
 "After you have added the accounts, each application that you have selected "
 "will automatically use those credentials when you start them."
 msgstr "在您添加帐号后，选中的应用程序在运行时，将会自动使用这些验证信息。"
 
 #. (itstool) path: note/p
-#: C/accounts-add.page:78
+#: C/accounts-add.page:76
 msgid ""
 "For security reasons, Endless will not store your password on your computer."
 " Instead, it stores a token that is provided by the online service."
@@ -1362,28 +1366,28 @@ msgid ""
 msgstr "在您能够使用诸如鼠标和耳机等蓝牙设备之前，您首先需要将计算机连接到它们。这也称为“配对”蓝牙设备。"
 
 #. (itstool) path: note/p
-#: C/bluetooth-connect-device.page:41 C/bluetooth-send-file.page:46
+#: C/bluetooth-connect-device.page:41 C/bluetooth-send-file.page:50
 msgid ""
 "Before you begin, make sure Bluetooth is enabled on your computer. See <link"
 " xref=\"bluetooth-turn-on-off\"/>."
 msgstr "首先，请确保您的电脑开启了蓝牙。请查阅<link xref=\"bluetooth-turn-on-off\"/>。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:53 C/bluetooth-remove-connection.page:51
-#: C/bluetooth-send-file.page:58 C/bluetooth-turn-on-off.page:51
+#: C/bluetooth-connect-device.page:51 C/bluetooth-remove-connection.page:53
+#: C/bluetooth-send-file.page:60 C/bluetooth-turn-on-off.page:53
 #: C/bluetooth-turn-on-off.page:67
 msgid "Click <gui>Bluetooth</gui>."
 msgstr "点击<gui>蓝牙</gui>。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:56
+#: C/bluetooth-connect-device.page:54
 msgid ""
 "Make the other Bluetooth device discoverable or visible and place it within "
 "10 meters (about 33 feet) of your computer."
 msgstr "开启其他的蓝牙设备并让他放在您电脑10米(约33英尺)以内的距离。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:60
+#: C/bluetooth-connect-device.page:58
 msgid ""
 "Click <key>+</key> below the <gui>Devices</gui> list. The <gui>Bluetooth New"
 " Device Setup</gui> panel will open and your computer will begin searching "
@@ -1391,7 +1395,7 @@ msgid ""
 msgstr "点击 <key>+</key> 下面的<gui>设备</gui>列表。新的 <gui>蓝牙设备安装</gui> 面板将打开，您的电脑将开始搜索设备。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:65
+#: C/bluetooth-connect-device.page:63
 msgid ""
 "Select a device in the <gui>Device</gui> list. If there are too many devices"
 " listed, use the <gui>Device type</gui> drop-down to display only a single "
@@ -1399,14 +1403,14 @@ msgid ""
 msgstr "在 <gui>设备</gui> 列表选择一个设备。如果列表上有太多的设备，使用 <gui>设备类型</gui>下拉列表，让列表只显示某一单一类型的装置。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:70
+#: C/bluetooth-connect-device.page:68
 msgid ""
 "Click <gui>PIN options</gui> to set how a PIN will be delivered to the other"
 " device."
 msgstr "点击<gui>PIN 选项</gui>，设置向另一设备发送 PIN 的方式。"
 
 #. (itstool) path: note/p
-#: C/bluetooth-connect-device.page:73
+#: C/bluetooth-connect-device.page:71
 msgid ""
 "The automatic PIN setting will use a six-digit numerical code. A device with"
 " no input keys or screen, such as a mouse or headset, may require a specific"
@@ -1415,21 +1419,21 @@ msgid ""
 msgstr "自动 PIN 设置使用六位数字代码，没有输入按键或屏幕的设备，比如鼠标或者耳机，需要比如0000等特殊的 PIN ，或者根本就不要 PIN。检查您的设备是否设置正确。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:78
+#: C/bluetooth-connect-device.page:76
 msgid ""
 "Choose an appropriate PIN setting for your device, then click "
 "<gui>Close</gui>."
 msgstr "为设备选择适当的 PIN 设置，然后点击<gui>关闭</gui>。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:82
+#: C/bluetooth-connect-device.page:80
 msgid ""
 "Click <gui>Continue</gui> to proceed. If you did not choose a preset PIN, "
 "the PIN will be displayed on the screen."
 msgstr "点击<gui>继续</gui>。如果您没有选择预设 PIN，PIN 将显示在屏幕上。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:86
+#: C/bluetooth-connect-device.page:84
 msgid ""
 "If required, confirm the PIN on your other device. The device should show "
 "you the PIN you see on your computer screen, or may prompt you to enter the "
@@ -1437,7 +1441,7 @@ msgid ""
 msgstr "如果需要的话请查阅您设备上的 PIN 码信息。设备应该会在电脑屏幕上显示 PIN 码，或者弹出窗口要求您输入 PIN 码，确认 PIN 码准确输入之后点击  <gui>配对</gui>。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:90
+#: C/bluetooth-connect-device.page:88
 msgid ""
 "You need to finish your entry within about 20 seconds on most devices, or "
 "the connection will not be completed. If that happens, return to the device "
@@ -1445,14 +1449,14 @@ msgid ""
 msgstr "在大多数设备上，您需要在约 20 秒内完成输入，否则连接将无法完成。如果没有及时输入 PIN，请返回设备列表，重新开始。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:93
+#: C/bluetooth-connect-device.page:91
 msgid ""
 "A message appears when the connection successfully completes. Click "
 "<gui>Close</gui>."
 msgstr "配对成功后您将看到连接成功的信息。然后点<gui>关闭</gui>按钮。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:97
+#: C/bluetooth-connect-device.page:95
 msgid ""
 "The <gui>Setup Summary</gui> appears when the connection successfully "
 "completes. It may display additional options applicable to the type of "
@@ -1461,14 +1465,14 @@ msgid ""
 msgstr "<gui>设置概览</gui> 会在连接成功完成出现。它可以显示适用于连接的设备类型的附加选项。选择所需的选项，单击<gui>退出</gui>。"
 
 #. (itstool) path: page/p
-#: C/bluetooth-connect-device.page:110
+#: C/bluetooth-connect-device.page:108
 msgid ""
 "You can <link xref=\"bluetooth-remove-connection\">remove a Bluetooth "
 "connection</link> later if desired."
 msgstr "如果需要，稍后您可以<link xref=\"bluetooth-remove-connection\">删除蓝牙连接</link>。"
 
 #. (itstool) path: note/p
-#: C/bluetooth-connect-device.page:115
+#: C/bluetooth-connect-device.page:113
 msgid ""
 "To control access to your shared files, refer to the <gui>Bluetooth "
 "Sharing</gui> settings. See <link xref=\"sharing-bluetooth\"/>."
@@ -1568,12 +1572,12 @@ msgid "2013"
 msgstr "2013"
 
 #. (itstool) path: page/title
-#: C/bluetooth-remove-connection.page:31
+#: C/bluetooth-remove-connection.page:35
 msgid "Remove a connection between Bluetooth devices"
 msgstr "删除蓝牙设备之间的连接"
 
 #. (itstool) path: page/p
-#: C/bluetooth-remove-connection.page:33
+#: C/bluetooth-remove-connection.page:37
 msgid ""
 "If you don't want to be connected to a Bluetooth device anymore, you can "
 "remove the connection. This is useful if you no longer want to use a device "
@@ -1582,19 +1586,19 @@ msgid ""
 msgstr "如果您不再希望连接到蓝牙设备，您可以移除连接。当您不想再继续使用蓝牙鼠标或耳机，或者不想再与某个设备之间传送文件时可以进行移除连接的操作。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-remove-connection.page:54
+#: C/bluetooth-remove-connection.page:56
 msgid ""
 "Select the device you want to disconnect in the left pane, then click the "
 "<key>-</key> icon below the list."
 msgstr "在左窗格里选择您希望移除连接的设备，然后点击列表下的<key>-</key>图标。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-remove-connection.page:58
+#: C/bluetooth-remove-connection.page:60
 msgid "Click <gui>Remove</gui> in the confirmation window."
 msgstr "在确认窗口中单击<gui>删除</gui>。"
 
 #. (itstool) path: page/p
-#: C/bluetooth-remove-connection.page:62
+#: C/bluetooth-remove-connection.page:64
 msgid ""
 "You can <link xref=\"bluetooth-connect-device\">reconnect a Bluetooth "
 "device</link> later if desired."
@@ -1606,12 +1610,12 @@ msgid "Share files to Bluetooth devices such as your phone."
 msgstr "和蓝牙设备(如手机)共享文件。"
 
 #. (itstool) path: page/title
-#: C/bluetooth-send-file.page:31
+#: C/bluetooth-send-file.page:35
 msgid "Send files to a Bluetooth device"
 msgstr "发送文件到蓝牙设备上"
 
 #. (itstool) path: page/p
-#: C/bluetooth-send-file.page:33
+#: C/bluetooth-send-file.page:37
 msgid ""
 "You can send files from your computer to other Bluetooth compatible devices,"
 " like some mobile phones, some speakers, or other computers. You can send "
@@ -1622,33 +1626,33 @@ msgid ""
 msgstr "您可以将计算机上的文件发送到其他蓝牙兼容设备上，如某些手机、扬声器或其他计算机。您可以通过以下三种方式发送：使用任务栏的蓝牙图标发送；从蓝牙设置窗口中发送；直接从文件夹中发送。某些设备无法传输文档或特殊类型的文档，所以您需要先检查您的设备。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:61
+#: C/bluetooth-send-file.page:63
 msgid ""
 "In the <gui>Devices</gui> list, select the device to which to send the files"
 " to and click <gui>Send Files...</gui>."
 msgstr "在<gui>设备</gui>列表中，选择您需要发送文件的设备并点击<gui>发送文件</gui>。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:63
+#: C/bluetooth-send-file.page:65
 msgid ""
 "If the desired device is not shown in the list, you need to <link xref"
 "=\"bluetooth-connect-device\">connect</link> to it."
 msgstr "如果您所需的设备不在列表内，您需要<link xref=\"bluetooth-connect-device\">连接</link>到该设备上。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:67
+#: C/bluetooth-send-file.page:69
 msgid "Choose the file you want to send and click <gui>Select</gui>."
 msgstr "选择您想要发送的文件，然后单击<gui>选择</gui>。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:68
+#: C/bluetooth-send-file.page:70
 msgid ""
 "To send more than one file in a folder, hold down <key>Ctrl</key> as you "
 "select each file."
 msgstr "要发送一个文件夹中的多个文件，请在选择每个文件时按住 <key>Ctrl</key> 键。"
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:72
+#: C/bluetooth-send-file.page:74
 msgid ""
 "The owner of the receiving device usually has to press a button to accept "
 "the file. Once the owner accepts or declines, the result of the file "
@@ -1661,29 +1665,29 @@ msgid "Enable or disable the Bluetooth device on your computer."
 msgstr "启用或禁用计算机中的蓝牙设备。"
 
 #. (itstool) path: page/title
-#: C/bluetooth-turn-on-off.page:30
+#: C/bluetooth-turn-on-off.page:34
 msgid "Turn Bluetooth on or off"
 msgstr "开启或关闭蓝牙"
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:40
+#: C/bluetooth-turn-on-off.page:44
 msgid ""
 "You can turn <gui>Bluetooth</gui> on to use Bluetooth devices and send and "
 "receive files, but turn it off to conserve power."
 msgstr "您可以开启<gui>蓝牙</gui>并使用蓝牙设备来发送和接收文件。也可关闭蓝牙以节省电源。"
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:42
+#: C/bluetooth-turn-on-off.page:46
 msgid "To turn Bluetooth on:"
 msgstr "开启蓝牙："
 
 #. (itstool) path: item/p
-#: C/bluetooth-turn-on-off.page:54
+#: C/bluetooth-turn-on-off.page:56
 msgid "Set the switch in the titlebar to <gui>ON</gui>."
 msgstr "将窗口标题栏内的切换键设置为<gui>ON</gui>。"
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:58
+#: C/bluetooth-turn-on-off.page:60
 msgid "To turn Bluetooth off:"
 msgstr "关闭蓝牙："
 
@@ -1736,39 +1740,40 @@ msgid ""
 msgstr "您可以开启蓝牙，连接到其他蓝牙设备上，或者关闭蓝牙以节省电源。"
 
 #. (itstool) path: info/desc
-#: C/clock-set.page:23
+#: C/clock-set.page:27
 msgid ""
 "Click the clock on the task bar and go into the <gui>Date &amp; Time "
 "Settings</gui> to alter the date/time."
 msgstr "点击任务栏内的时钟进入<gui>日期 &amp;时间设置</gui> 来更改日期/时间。"
 
 #. (itstool) path: page/title
-#: C/clock-set.page:26
+#: C/clock-set.page:30
 msgid "Change the date and time"
 msgstr "更改日期和时间"
 
 #. (itstool) path: page/p
-#: C/clock-set.page:28
+#: C/clock-set.page:32
 msgid ""
 "If your date and time is in the wrong format, you can change the settings:"
 msgstr "如果您的日期和时间格式错误，您可以更改其设置。"
 
 #. (itstool) path: item/p
-#: C/clock-set.page:33
+#: C/clock-set.page:37 C/clock-timezone.page:38
 msgid ""
-"Click on the clock on the task bar at the bottom right of your screen and "
-"select <gui>Date &amp; Time Settings</gui>."
-msgstr "点击屏幕右边底端任务栏内的时钟，选择<gui>日期 &amp;时间设置</gui>。"
+"Type \"Date and Time\" into the <gui>global search bar</gui> on your "
+"desktop. Click on the resulting <app>Settings</app> icon, or press "
+"<key>Enter</key>, to open."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/clock-set.page:37 C/clock-timezone.page:38
+#: C/clock-set.page:41 C/clock-timezone.page:42
 msgid ""
 "If you have a standard account, you will need to click <gui>Unlock</gui> and"
 " type the <link xref=\"user-admin-explain\">administrator password</link>."
 msgstr "如果您使用标准帐户，你需要点击<gui>解锁</gui>并输入<link xref=\"user-admin-explain\">密码</link>。"
 
 #. (itstool) path: item/p
-#: C/clock-set.page:42
+#: C/clock-set.page:46
 msgid ""
 "If you have an internet connection, you can set your date, time and time "
 "zone to update automatically by switching <gui>Automatic Date &amp; "
@@ -1776,7 +1781,7 @@ msgid ""
 msgstr "如果您有网络连接，您可以通过开启<gui>自动日期&amp;时间</gui>和<gui>自动时区</gui>来设置自动更新日期、时间和时区。"
 
 #. (itstool) path: item/p
-#: C/clock-set.page:45
+#: C/clock-set.page:49
 msgid ""
 "If you do not have an internet connection, you can update these manually by "
 "switching them to <gui>Off</gui>, then clicking <gui>Date &amp; Time</gui> "
@@ -1784,32 +1789,25 @@ msgid ""
 msgstr "如果您无网络连接，您可以将这些设置关闭，然后点击<gui>日期&amp;时间</gui>和<gui>时区</gui>来手动更新。"
 
 #. (itstool) path: item/p
-#: C/clock-set.page:50
+#: C/clock-set.page:54
 msgid ""
 "You can also change how the hour is displayed by selecting "
 "<gui>24-hour</gui> or <gui>AM/PM</gui> format."
 msgstr "您还可以选择<gui>24-小时</gui>或<gui>AM/PM</gui>格式来改变小时显示格式。"
 
 #. (itstool) path: info/desc
-#: C/clock-timezone.page:27
+#: C/clock-timezone.page:31
 msgid ""
 "Update your time zone to your current location so that your time is correct."
 msgstr "更新为您当前所在地的时区，确保时间准确。"
 
 #. (itstool) path: page/title
-#: C/clock-timezone.page:30
+#: C/clock-timezone.page:34
 msgid "Change your timezone"
 msgstr "更改您的时区"
 
 #. (itstool) path: item/p
-#: C/clock-timezone.page:34
-msgid ""
-"Click on the clock on the task bar on the bottom right side of your screen "
-"and select <gui>Date &amp; Time Settings</gui>."
-msgstr "点击屏幕右边底端任务栏内的时钟，选择<gui>日期&amp;时间设置</gui>"
-
-#. (itstool) path: item/p
-#: C/clock-timezone.page:43
+#: C/clock-timezone.page:47
 msgid ""
 "If you have <gui>Automatic Time Zone</gui> set to <gui>On</gui>, your time "
 "zone should update automatically if you have an internet connection. To "
@@ -1817,14 +1815,14 @@ msgid ""
 msgstr "如果您开启了<gui>自动时区</gui>，您的时区将会在有网络连接的时候自动更新。如果您想要人工更新您的时区，请关闭该设置。"
 
 #. (itstool) path: item/p
-#: C/clock-timezone.page:49
+#: C/clock-timezone.page:53
 msgid ""
 "Click <gui>Time Zone</gui>, then select your location on the map or search "
 "for your current city."
 msgstr "点击<gui>时区</gui>，然后在地图上选择您的位置或者搜索您当前的城市。"
 
 #. (itstool) path: page/p
-#: C/clock-timezone.page:54
+#: C/clock-timezone.page:58
 msgid ""
 "The time will be updated automatically when you select a different location."
 " You may also wish to <link xref=\"clock-set\">set the clock "
@@ -2177,12 +2175,11 @@ msgstr "在 <link xref=\"files-removedrive\">删除的文件 </link>可能在其
 
 #. (itstool) path: credit/name
 #: C/files-microsoft-compatible.page:15 C/files-save.page:14
-#: C/files-zip.page:14 C/keyboard-es-accent.page:14
-#: C/media-import-from-device.page:15 C/media-listen-music.page:15
-#: C/media-play-videos.page:15 C/mouse-when-right-click.page:15
-#: C/net-3g-dongles.page:14 C/net-create-email.page:14
-#: C/net-discover-websites.page:15 C/net-installing-other-browsers.page:14
-#: C/net-read-news.page:15 C/net-social-bar.page:15 C/net-troubleshoot.page:13
+#: C/files-zip.page:14 C/media-import-from-device.page:15
+#: C/media-listen-music.page:15 C/media-play-videos.page:15
+#: C/mouse-when-right-click.page:15 C/net-3g-dongles.page:14
+#: C/net-create-email.page:14 C/net-discover-websites.page:15
+#: C/net-installing-other-browsers.page:14 C/net-troubleshoot.page:13
 #: C/printing-from-applications.page:14 C/printing-supported.page:15
 #: C/security-and-privacy.page:12 C/security-data-collection.page:14
 #: C/security-guard-privacy.page:14 C/security-understand-password.page:15
@@ -2190,18 +2187,16 @@ msgstr "在 <link xref=\"files-removedrive\">删除的文件 </link>可能在其
 #: C/shell-delete-app-desktop.page:15 C/shell-install-ext-apps.page:14
 #: C/shell-organize-apps.page:14 C/shell-update-app.page:15
 #: C/shell-update-system.page:15 C/shell-windows-hide.page:15
-#: C/sound-troubleshoot.page:14
 msgid "Endless Mobile, Inc."
 msgstr "Endless Mobile, Inc."
 
 #. (itstool) path: credit/years
 #: C/files-microsoft-compatible.page:16 C/files-save.page:15
-#: C/files-zip.page:15 C/keyboard-es-accent.page:15
-#: C/media-import-from-device.page:16 C/media-listen-music.page:16
-#: C/media-play-videos.page:16 C/mouse-when-right-click.page:16
-#: C/net-3g-dongles.page:15 C/net-create-email.page:15
-#: C/net-discover-websites.page:16 C/net-installing-other-browsers.page:15
-#: C/net-read-news.page:16 C/net-social-bar.page:16 C/net-troubleshoot.page:14
+#: C/files-zip.page:15 C/media-import-from-device.page:16
+#: C/media-listen-music.page:16 C/media-play-videos.page:16
+#: C/mouse-when-right-click.page:16 C/net-3g-dongles.page:15
+#: C/net-create-email.page:15 C/net-discover-websites.page:16
+#: C/net-installing-other-browsers.page:15 C/net-troubleshoot.page:14
 #: C/printing-from-applications.page:15 C/printing-supported.page:16
 #: C/security-and-privacy.page:13 C/security-data-collection.page:15
 #: C/security-guard-privacy.page:15 C/security-understand-password.page:16
@@ -3270,8 +3265,10 @@ msgstr "准备开始"
 
 #. (itstool) path: section/title
 #: C/index.page:20
-msgid "<link href=\"endlessm-app://com.endlessm.Tutorial\">Tutorial</link>"
-msgstr "<link href=\"endlessm-app://com.endlessm.Tutorial\">教程</link>"
+msgid ""
+"<link href=\"endlessm-app://eos-link-feedback.desktop\">Give Us "
+"Feedback</link>"
+msgstr ""
 
 #. (itstool) path: info/desc
 #: C/keyboard-cursor-blink.page:11
@@ -3311,68 +3308,20 @@ msgid ""
 msgstr "如果您无法在文本框中看清楚光标，您可以让它闪烁以方便识别。"
 
 #. (itstool) path: item/p
-#: C/keyboard-cursor-blink.page:49 C/keyboard-repeat-keys.page:52
+#: C/keyboard-cursor-blink.page:48 C/keyboard-repeat-keys.page:51
 msgid "Click on <gui>Keyboard</gui>."
 msgstr "点击<gui>键盘</gui>。"
 
 #. (itstool) path: item/p
-#: C/keyboard-cursor-blink.page:52
+#: C/keyboard-cursor-blink.page:51
 msgid "Select <gui>Cursor blinks in text fields</gui>."
 msgstr "选中<gui>文本域中的光标闪烁</gui>。"
 
 #. (itstool) path: item/p
-#: C/keyboard-cursor-blink.page:54
+#: C/keyboard-cursor-blink.page:53
 msgid ""
 "Use the <gui>Speed</gui> slider to adjust how quickly the cursor blinks."
 msgstr "拖动<gui>速度</gui>滑块，调整光标闪烁的速度。"
-
-#. (itstool) path: info/desc
-#: C/keyboard-es-accent.page:18
-msgid "Learn how to type accents with your keyboard."
-msgstr "了解如何使用您的键盘输入不同声调。"
-
-#. (itstool) path: page/title
-#: C/keyboard-es-accent.page:21
-msgid "Type Spanish language accents in Endless"
-msgstr "在Endless中输入西班牙语声调"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:23
-msgid ""
-"It's easy to type accents on Endless - it is the same as most other "
-"platforms. On a Spanish Latin American keyboard, start by pressing the "
-"accute accent key and then the letter you'd like to accent:"
-msgstr "在Endless中输入声调很简单- 就像大多数其他平台一样。您可以在西班牙和拉丁美洲键盘上，点击准确的声调以及您想要添加声调的字母："
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:27
-msgid "<keyseq><key>`</key><key>a</key></keyseq> = á"
-msgstr "<keyseq><key>`</key><key>a</key></keyseq> = á"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:29
-msgid "<keyseq><key>`</key><key>e</key></keyseq> = é"
-msgstr "<keyseq><key>`</key><key>e</key></keyseq> = é"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:31
-msgid "<keyseq><key>`</key><key>i</key></keyseq> = í"
-msgstr "<keyseq><key>`</key><key>i</key></keyseq> = í"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:33
-msgid "<keyseq><key>`</key><key>o</key></keyseq> = ó"
-msgstr "<keyseq><key>`</key><key>o</key></keyseq> = ó"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:35
-msgid "<keyseq><key>`</key><key>u</key></keyseq> = ú"
-msgstr "<keyseq><key>`</key><key>u</key></keyseq> = ú"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:37
-msgid "<keyseq><key>\"</key><key>u</key></keyseq> = ü"
-msgstr "<keyseq><key>\"</key><key>u</key></keyseq> = ü"
 
 #. (itstool) path: credit/name
 #: C/keyboard-key-menu.page:12
@@ -3469,24 +3418,24 @@ msgid "To change which keys are used to display your open windows overview:"
 msgstr "更改使用于显示您所打开窗口概览的键:"
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:57
+#: C/keyboard-key-super.page:55
 msgid "Click <gui>Keyboard</gui>."
 msgstr "点击<gui>键盘</gui>。"
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:60
+#: C/keyboard-key-super.page:58
 msgid "Click the <gui style=\"tab\">Shortcuts</gui> tab."
 msgstr "点击<gui style=\"tab\">快捷键</gui> 选项卡。"
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:63
+#: C/keyboard-key-super.page:61
 msgid ""
 "Select <gui>System</gui> on the left side of the window, and <gui>Show the "
 "activities overview</gui> on the right."
 msgstr "在窗口左侧选择<gui>系统</gui>然后在右边找到<gui>显示活动概览</gui>。"
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:67
+#: C/keyboard-key-super.page:65
 msgid "Hold down the desired key combination."
 msgstr "按下要想要设置的组合键。"
 
@@ -3517,36 +3466,36 @@ msgid ""
 msgstr "各种语言对应数百种键盘布局，甚至一种语言还有多种键盘布局，比如英文的 Dvorak 布局。您可以让键盘输入多种语言，而不必考虑键上印刷的字母和符号。当您经常在多种语言之间切换时很有用。"
 
 #. (itstool) path: item/p
-#: C/keyboard-layouts.page:57 C/session-language.page:47
+#: C/keyboard-layouts.page:55 C/session-language.page:48
 msgid "Click on <gui>Region &amp; Language</gui>."
 msgstr "点击<gui>区域 &amp; 语言</gui>."
 
 #. (itstool) path: item/p
-#: C/keyboard-layouts.page:61
+#: C/keyboard-layouts.page:59
 msgid ""
 "Click the <key>+</key> button, select the language which is associated with "
 "the layout, then select a layout and press<gui>Add</gui>."
 msgstr "点击 <key>+</key> 按钮, 选择与该布局有关的语言并选择一个布局，按下<gui>添加</gui>。"
 
 #. (itstool) path: media/span
-#: C/keyboard-layouts.page:70 C/keyboard-layouts.page:76
+#: C/keyboard-layouts.page:68 C/keyboard-layouts.page:74
 msgid "preview"
 msgstr "预览"
 
 #. (itstool) path: note/p
-#: C/keyboard-layouts.page:68
+#: C/keyboard-layouts.page:66
 msgid ""
 "You can preview an image of any layout by selecting it in the list of "
 "<gui>Input Sources</gui> and clicking <gui><_:media-1/></gui>"
 msgstr "您可以在 <gui>输入来源</gui>列表中选择任意布局，点击 <gui><_:media-1/></gui>，得到其预览图。"
 
 #. (itstool) path: media/span
-#: C/keyboard-layouts.page:79
+#: C/keyboard-layouts.page:77
 msgid "preferences"
 msgstr "偏好设置"
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:73
+#: C/keyboard-layouts.page:71
 msgid ""
 "Certain languages offer some extra configuration options. You can identify "
 "those languages because they have a <gui><_:media-1/></gui> icon next to "
@@ -3557,7 +3506,7 @@ msgid ""
 msgstr "某些语言自带额外的配置选项。您可以通过它们旁边的<gui><_:media-1/></gui>图标来识别。如果您想要访问这些额外的参数，您可以选择<gui>输入来源</gui>列表中的语言，一个新的<gui style=\"button\"><_:media-2/></gui> 按钮会为您指引到这些额外设置中。"
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:82
+#: C/keyboard-layouts.page:80
 msgid ""
 "When you use multiple layouts, you can choose to have all windows use the "
 "same layout or to set a different layout for each window. Using a different "
@@ -3569,7 +3518,7 @@ msgid ""
 msgstr "当您使用多种布局时，您可以选择让所有窗口使用相同布局或者每个窗口使用不同布局。让每个窗口使用不同布局是有用的。例如，当您正在文字处理窗口上用另一种语言写作，您的电脑会在窗口转换时记住每个窗口的键盘选项。按下 <gui style=\"button\">选项</gui>按钮来选择如何管理您的多种布局吧。 "
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:90
+#: C/keyboard-layouts.page:88
 msgid ""
 "The task bar will display a short identifier for the current layout, such as"
 " <gui>en</gui> for the standard English layout. Click the layout indicator "
@@ -3580,7 +3529,7 @@ msgid ""
 msgstr "任务栏会显示一个短标识符来标识您正在使用的布局，例如 <gui>en</gui> 来标识标准英语布局。点击布局指示器，从菜单上选择您想要使用的布局。如果您选择的语言有额外设置，将会在可选布局列表下展示出来，您可以快速看到这些设置的概况。您还可以打开当前键盘的图像以作参考。"
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:97
+#: C/keyboard-layouts.page:95
 msgid ""
 "The fastest way to change to another layout is by using the <gui>Input "
 "Source</gui> <gui>Keyboard Shortcuts</gui>. These shortcuts open the "
@@ -3597,7 +3546,7 @@ msgstr "改变布局最快的方法就是使用 <gui>输入来源</gui>的 <gui>
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/keyboard-layouts.page:106
+#: C/keyboard-layouts.page:104
 msgctxt "_"
 msgid ""
 "external ref='figures/input-methods-switcher.png' "
@@ -3973,19 +3922,19 @@ msgid ""
 msgstr "如果您的电脑上没有接入键盘，或者不喜欢使用键盘，您可以打开<em>屏幕键盘</em>来输入文字。"
 
 #. (itstool) path: item/p
-#: C/keyboard-osk.page:51
+#: C/keyboard-osk.page:50
 msgid "Switch on <gui>Screen Keyboard</gui> in the <gui>Typing</gui> section."
 msgstr "在 <gui>输入</gui> 部分开启<gui>屏幕键盘</gui>。"
 
 #. (itstool) path: page/p
-#: C/keyboard-osk.page:57
+#: C/keyboard-osk.page:56
 msgid ""
 "When you next have the opportunity to type, the on-screen keyboard will open"
 " at the bottom of the screen."
 msgstr "当您之后需要打字的时候，屏幕键盘将会在屏幕底端打开。"
 
 #. (itstool) path: page/p
-#: C/keyboard-osk.page:60
+#: C/keyboard-osk.page:59
 msgid ""
 "Press the <gui style=\"bottom\">123</gui> button to enter numbers and "
 "symbols. More symbols are available if you then press the <gui>{#*</gui> "
@@ -3993,12 +3942,12 @@ msgid ""
 msgstr "点击<gui style=\"bottom\">123</gui> 按钮可以输入数字和符号。按下<gui>{#*</gui>按钮可以获得更多符号。按下<gui>Abc</gui>可以返回字母键盘。"
 
 #. (itstool) path: media/span
-#: C/keyboard-osk.page:66
+#: C/keyboard-osk.page:65
 msgid "keyboard"
 msgstr "键盘"
 
 #. (itstool) path: page/p
-#: C/keyboard-osk.page:65
+#: C/keyboard-osk.page:64
 msgid ""
 "You can press the <gui style=\"button\"><_:media-1/></gui> icon to hide the "
 "keyboard temporarily. The keyboard will show again automatically when you "
@@ -4030,14 +3979,14 @@ msgid ""
 msgstr "默认情况下，当您按住一个键时，字母符号会重复输入直到您松开。如果您手指按键移动不够快，可以禁用此功能，或者增加开始重复的延迟时间。"
 
 #. (itstool) path: item/p
-#: C/keyboard-repeat-keys.page:56
+#: C/keyboard-repeat-keys.page:55
 msgid ""
 "Turn off <gui>Key presses repeat when key is held down</gui> to disable "
 "repeated keys entirely."
 msgstr "关闭 <gui>按住某一键时重复该键</gui>以彻底禁用重复键。"
 
 #. (itstool) path: item/p
-#: C/keyboard-repeat-keys.page:58
+#: C/keyboard-repeat-keys.page:57
 msgid ""
 "Alternatively, adjust the <gui>Delay</gui> slider to control how long you "
 "have to hold a key down to begin repeating it, and adjust the "
@@ -4085,41 +4034,41 @@ msgid ""
 msgstr "您可以跟据自己的喜好更改桌面背景。请选择系统的图片样式，添加自定义图片，或者选择您喜欢的背景颜色。"
 
 #. (itstool) path: item/p
-#: C/look-background.page:67
+#: C/look-background.page:65
 msgid "Click on the <gui>Background</gui>."
 msgstr "点击<gui>背景</gui>。"
 
 #. (itstool) path: item/p
-#: C/look-background.page:70
+#: C/look-background.page:68
 msgid "Click on the <gui>Background</gui> button with the picture in it."
 msgstr "点击显示该图片的<gui>背景</gui>按钮。"
 
 #. (itstool) path: item/p
-#: C/look-background.page:74
+#: C/look-background.page:72
 msgid "There are three choices displayed on top:"
 msgstr "顶端有三种显示方式可供选择："
 
 #. (itstool) path: item/p
-#: C/look-background.page:77
+#: C/look-background.page:75
 msgid ""
 "Select <gui>Wallpapers</gui> to use one of the beautiful background images "
 "that come with Endless."
 msgstr "选择 <gui>壁纸</gui> 选项，应用由Endless提供的精美背景图片。"
 
 #. (itstool) path: item/p
-#: C/look-background.page:81
+#: C/look-background.page:79
 msgid ""
 "Select <gui>Pictures</gui> to use one of your own photos from your "
 "<file>Pictures</file> folder."
 msgstr "选择 <gui>图片</gui> 选项，应用 <file>图片</file> 文件夹中的自定义图片。"
 
 #. (itstool) path: item/p
-#: C/look-background.page:85
+#: C/look-background.page:83
 msgid "Select <gui>Colors</gui> to just use a color."
 msgstr "选择<gui>颜色</gui>选项， 应用某种颜色。"
 
 #. (itstool) path: item/p
-#: C/look-background.page:91
+#: C/look-background.page:89
 msgid "The settings are applied immediately."
 msgstr "设置立即生效。"
 
@@ -4395,7 +4344,7 @@ msgid ""
 msgstr "仅当连续两次点击鼠标的动作足够快时，才能执行双击操作。如果第二次点击与按第一次点击的间隔过长，则会分别执行两次单击操作，而不是一次双击操作。如果您觉得难以将鼠标键按得很快，则应该延长超时时间。"
 
 #. (itstool) path: item/p
-#: C/mouse-doubleclick.page:50 C/mouse-sensitivity.page:48
+#: C/mouse-doubleclick.page:49 C/mouse-sensitivity.page:46
 msgid "Click on <gui>Mouse &amp; Touchpad</gui>."
 msgstr "点击<gui>鼠标 &amp; 触摸板</gui>。"
 
@@ -4407,7 +4356,7 @@ msgid ""
 msgstr "在<gui>常规</gui>面板中，调整<gui>双击</gui>滑块的位置，找出最适合您的速度。"
 
 #. (itstool) path: item/p
-#: C/mouse-doubleclick.page:55
+#: C/mouse-doubleclick.page:57
 msgid ""
 "Click the <gui>Test Your Settings</gui> button to test. A single click in "
 "the window will highlight the outer circle. A double-click will highlight "
@@ -4415,7 +4364,7 @@ msgid ""
 msgstr "点击<gui>测试设置</gui>按钮测试一下效果，单击会高亮显示外边的圆，双击会高亮显示里边的圆。"
 
 #. (itstool) path: page/p
-#: C/mouse-doubleclick.page:60
+#: C/mouse-doubleclick.page:63
 msgid ""
 "If your mouse double-clicks when you want it to single-click even though you"
 " have increased the double-click timeout, your mouse may be faulty. Try "
@@ -4425,7 +4374,7 @@ msgid ""
 msgstr "如果您想单击结果却成了双击，延长超时后仍这样，可能是您的鼠标出现问题。请尝试将别的鼠标连接到电脑，查看是否操作正常。另外，也可以把您的鼠标连接到其他电脑中，查看是否还存在这个问题。"
 
 #. (itstool) path: note/p
-#: C/mouse-doubleclick.page:67
+#: C/mouse-doubleclick.page:70
 msgid ""
 "This setting will affect both your mouse and touchpad, as well as any other "
 "pointing device."
@@ -4450,21 +4399,21 @@ msgid ""
 msgstr "如果您使用鼠标或其他指针设备有困难，可以用数字小键盘来控制鼠标指针。这个特性称作 <em>鼠标键</em>。"
 
 #. (itstool) path: item/p
-#: C/mouse-mousekeys.page:54
+#: C/mouse-mousekeys.page:53
 msgid ""
 "Use the up and down arrow keys to select <gui>Mouse Keys</gui> in the "
 "<gui>Pointing and Clicking</gui> section then press <key>Enter</key>."
 msgstr "使用上下方向键选择 <gui>选中和点击</gui>区段的<gui>鼠标键</gui>，然后按<key>回车键</key>。"
 
 #. (itstool) path: item/p
-#: C/mouse-mousekeys.page:58
+#: C/mouse-mousekeys.page:57
 msgid ""
 "Make sure that <key>Num Lock</key> is turned off. You will now be able to "
 "move the mouse pointer using the keypad."
 msgstr "确保关闭了 <key>Num Lock</key> 数字灯，然后就可以用键盘来移动鼠标指针了。"
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:63
+#: C/mouse-mousekeys.page:62
 msgid ""
 "The keypad is a set of numerical buttons on your keyboard, usually arranged "
 "into a square grid. If you have a keyboard without a keypad (such as a "
@@ -4475,7 +4424,7 @@ msgid ""
 msgstr "键盘上有一组数字按键，通常排列成四方形，如果您的键盘上没有这组按键(比如笔记本电脑的键盘)，您需要按住功能键(<key>Fn</key>)和另外一个指定键来键入数字。如果您要经常在笔记本电脑上使用此功能，可以购买一个 USB 或蓝牙外置数字键盘。"
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:70
+#: C/mouse-mousekeys.page:69
 msgid ""
 "Each number on the keypad corresponds to a direction. For example, pressing "
 "<key>8</key> will move the pointer upwards and pressing <key>2</key> will "
@@ -4484,7 +4433,7 @@ msgid ""
 msgstr "小键盘上的每个数字代表一个方向。例如，按<key>8</key>是向上，按<key>2</key>是向下。按<key>5</key>是单击鼠标，快速按两下是双击鼠标。"
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:75
+#: C/mouse-mousekeys.page:74
 msgid ""
 "Most keyboards have a special key which allows you to right-click, sometimes"
 " called the <key xref=\"keyboard-key-menu\">Menu</key> key. Note, however, "
@@ -4494,7 +4443,7 @@ msgid ""
 msgstr "大部分键盘上都有一个可以模拟右键单击的键，有时候称为 <key xref=\"keyboard-key-menu\">菜单</key> 键。请注意这个键将在焦点处而不是鼠标指针所在处触发鼠标右键。您可以查阅<link xref=\"a11y-right-click\"/>获取更多通过按下 <key>5</key> 或者鼠标左键，以模拟右键点击操作的指导。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        "
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:81
+#: C/mouse-mousekeys.page:80
 msgid ""
 "If you want to use the keypad to type numbers while mouse keys is enabled, "
 "turn <key>Num Lock</key> on. The mouse cannot be controlled with the keypad "
@@ -4502,7 +4451,7 @@ msgid ""
 msgstr "在鼠标不可用时，如果您想输入数字，请开启 <key>Num Lock</key> 数字灯。<key>Num Lock</key> 灯亮的时候鼠标不能被键盘控制。"
 
 #. (itstool) path: note/p
-#: C/mouse-mousekeys.page:86
+#: C/mouse-mousekeys.page:85
 msgid ""
 "The normal number keys, in a line at the top of the keyboard, will not "
 "control the mouse pointer. Only the keypad number keys can be used."
@@ -4527,7 +4476,7 @@ msgid ""
 msgstr "如果您在使用鼠标或触摸板时，指针移动太快或太慢，您可以调整设备的指针移动速度。"
 
 #. (itstool) path: item/p
-#: C/mouse-sensitivity.page:52
+#: C/mouse-sensitivity.page:50
 msgid ""
 "Adjust the <gui>Pointer Speed</gui> slider until the pointer motion is "
 "comfortable for you. You will see one slider per each pointing device, such "
@@ -4535,7 +4484,7 @@ msgid ""
 msgstr "调整<gui>指针速度</gui>滑块，找到最合适您的速度。每一个指针设备（比如鼠标或触摸板）中都有此滑块。"
 
 #. (itstool) path: note/p
-#: C/mouse-sensitivity.page:77
+#: C/mouse-sensitivity.page:75
 msgid ""
 "The <gui>Touchpad</gui> section only appears if your system has a touchpad, "
 "while the <gui>Mouse</gui> section is only visible when a mouse is plugged "
@@ -4583,17 +4532,17 @@ msgid ""
 msgstr "如果您的鼠标只有一个键，则需要通过更改设置以完成单键操作。以下是更改设置的步骤："
 
 #. (itstool) path: item/p
-#: C/mouse-when-right-click.page:49
+#: C/mouse-when-right-click.page:48
 msgid "Click on the <gui>Universal Access</gui> panel."
 msgstr "单击<gui>辅助功能</gui>面板。"
 
 #. (itstool) path: item/p
-#: C/mouse-when-right-click.page:52
+#: C/mouse-when-right-click.page:51
 msgid "Scroll to the bottom and select <gui>Click Assist</gui>."
 msgstr "滚动鼠标至底端，选择<gui>点击辅助</gui>。"
 
 #. (itstool) path: item/p
-#: C/mouse-when-right-click.page:55
+#: C/mouse-when-right-click.page:54
 msgid ""
 "Turn the <gui>Simulated secondary click</gui> option on. There you can also "
 "adjust the amount of time you'll need to hold down the key to activate the "
@@ -5214,24 +5163,11 @@ msgstr "安装其他浏览器"
 #. (itstool) path: page/p
 #: C/net-installing-other-browsers.page:23
 msgid ""
-"Unfortunately, Endless does not currently support the installation of other "
-"browsers."
-msgstr "抱歉，目前Endless不支持其他浏览器的安装。"
-
-#. (itstool) path: page/p
-#: C/net-installing-other-browsers.page:26
-msgid ""
-"We plan on supporting the installation of other browsers at a future date, "
-"and will notify you when we add this feature. Feel free to give us your "
-"feedback and let us know what you need."
-msgstr "我们计划在未来支持安装其他浏览器，增添此功能时会通知用户您。请尽管提交反馈意见，让我们了解您的需要吧。"
-
-#. (itstool) path: page/p
-#: C/net-installing-other-browsers.page:30
-msgid ""
-"In the meantime, we hope you enjoy using the current Endless browser to "
-"explore new websites and stay updated on the world's news!"
-msgstr "同时，我们希望目前的Endless浏览器能让您愉快地探索新网站，向您输送最新鲜的世界新闻。"
+"Endless comes with a browser on the desktop, but if you would like to "
+"install other browsers, you can do so from the App Center. You can try "
+"searching for the browser of your preference by typing its name in the "
+"search bar, or by going to the App Center's <gui>Utilities</gui> section."
+msgstr ""
 
 #. (itstool) path: info/desc
 #: C/net-manual.page:20
@@ -5261,7 +5197,7 @@ msgid "To manually set your network settings:"
 msgstr "要手动设置网络："
 
 #. (itstool) path: item/p
-#: C/net-manual.page:42
+#: C/net-manual.page:41
 msgid "Click on <gui>Network</gui>."
 msgstr "点击<gui>网络</gui>。"
 
@@ -5271,7 +5207,7 @@ msgid "settings"
 msgstr "设置"
 
 #. (itstool) path: item/p
-#: C/net-manual.page:46
+#: C/net-manual.page:45
 msgid ""
 "In the left pane, select the network connection that you want to set up "
 "manually and click the <_:media-1/> button. For example, if you plug in to "
@@ -5294,21 +5230,21 @@ msgid ""
 msgstr "点击 <gui>IPv4</gui>标签，将<gui>方式</gui>更改为 <gui>手动</gui>。"
 
 #. (itstool) path: item/p
-#: C/net-manual.page:61
+#: C/net-manual.page:60
 msgid ""
 "Type in the <gui>Address</gui> and <gui>Gateway</gui>, as well as the "
 "appropriate <gui>Netmask</gui>."
 msgstr "输入<gui>地址</gui> 、d <gui>网关</gui>以及适当的<gui>网络掩码</gui>。"
 
 #. (itstool) path: item/p
-#: C/net-manual.page:63
+#: C/net-manual.page:62
 msgid ""
 "These must be <em>IP addresses</em>; that is, they must be four numbers "
 "separated by periods (e.g. 123.45.6.78)."
 msgstr "这里的三个地址必须是<em>IP 地址</em>，也就是说，它们必须是由点分开的四组数字(例如，123.45.6.78)。"
 
 #. (itstool) path: item/p
-#: C/net-manual.page:67
+#: C/net-manual.page:66
 msgid ""
 "In the <gui>DNS</gui> section, switch <gui>Automatic</gui> to "
 "<gui>OFF</gui>. Enter the IP address of a DNS server you want to use. Enter "
@@ -5316,7 +5252,7 @@ msgid ""
 msgstr "在<gui>DNS</gui>标签中，将关闭<gui>自动</gui>选项，然后输入您想使用的 DNS 服务器IP地址。再次添加DNS 服务器地址则需点击<key>+</key>按钮。"
 
 #. (itstool) path: item/p
-#: C/net-manual.page:72
+#: C/net-manual.page:71
 msgid ""
 "In the <gui>Routes</gui> section, switch <gui>Automatic</gui> to "
 "<gui>OFF</gui>. Enter the <gui>Address</gui>, <gui>Netmask</gui>, "
@@ -5325,61 +5261,13 @@ msgid ""
 msgstr "在<gui>路径</gui>标签中，关闭 <gui>自动</gui>选项，然后为您想使用的路径输入<gui>地址</gui>、 <gui>网络掩码</gui>、<gui>网关</gui> 和 <gui>跳数</gui>  。再次添加路径则需点击<key>+</key>按钮。"
 
 #. (itstool) path: item/p
-#: C/net-manual.page:78
+#: C/net-manual.page:77
 msgid ""
 "Click <gui>Apply</gui>. If you are not connected to the network, click the "
 "system status area on the task bar and connect. Test the network settings by"
 " trying to visit a website or look at shared files on the network, for "
 "example."
 msgstr "点击<gui>应用</gui>。如果您无法连接网络，请点击任务栏的系统状态区域进行连接。您可以通过浏览网站、或查看网络共享文件等方式测试网络设置。"
-
-#. (itstool) path: info/desc
-#: C/net-read-news.page:19
-msgid "Keep up to date with the latest news."
-msgstr "了解最新的新闻。"
-
-#. (itstool) path: page/title
-#: C/net-read-news.page:22
-msgid "Read the News"
-msgstr "看新闻"
-
-#. (itstool) path: page/p
-#: C/net-read-news.page:24
-msgid ""
-"We have added several different newspaper websites to your Browser so that "
-"you can read all the latest news! Explore current events, sports, local news"
-" and more just with a click of a button!"
-msgstr "系统在浏览器中添加了不同的新闻网站，以便您了解最新的新闻。只需点击按钮，就可了解时事热点、运动赛事、地方新闻，等等。"
-
-#. (itstool) path: steps/title
-#: C/net-read-news.page:29
-msgid "To read news online:"
-msgstr "浏览在线新闻："
-
-#. (itstool) path: item/p
-#: C/net-read-news.page:31
-msgid ""
-"Click the Internet icon on your desktop or on the task bar to open the "
-"browser."
-msgstr "点击桌面或任务栏上的互联网图标，打开浏览器。"
-
-#. (itstool) path: item/p
-#: C/net-read-news.page:36
-msgid "Click on Newspaper section on the left side menu."
-msgstr "点击侧边菜单上的新闻标签。"
-
-#. (itstool) path: item/p
-#: C/net-read-news.page:40
-msgid "Discover the internet!"
-msgstr "享受上网的乐趣吧！"
-
-#. (itstool) path: note/p
-#: C/net-read-news.page:45
-msgid ""
-"You'll need an internet connection in order to access the news websites. If "
-"you can't access the internet right now, don't worry, your computer comes "
-"packed with great offline content."
-msgstr "您需要有互联网连接设备才能浏览新闻网站。如果您目前不能连接互联网，请不要担心，您的电脑已预先存储了精彩的离线内容。"
 
 #. (itstool) path: info/desc
 #: C/net-slow.page:14
@@ -5495,124 +5383,6 @@ msgid ""
 "long time, for example. Try closing all of the browser's windows and then "
 "opening the browser again to see if this makes a difference."
 msgstr "有时 网页浏览器会遇到导致速度变慢的问题。导致这种情况的原因有很多，例如，您访问了浏览器不能顺利加载的网站，或者您打开浏览器的时间太长。尝试关闭浏览器的所有窗口，然后重新打开浏览器，查看前后有无差异。"
-
-#. (itstool) path: info/desc
-#: C/net-social-bar.page:19
-msgid "Easily chat with your Facebook friends."
-msgstr "方便与Facebook的朋友聊天"
-
-#. (itstool) path: page/title
-#: C/net-social-bar.page:22
-msgid "Chat on Facebook from your desktop"
-msgstr "从桌面上的Facebook聊天"
-
-#. (itstool) path: page/p
-#: C/net-social-bar.page:24
-msgid ""
-"Now you can stay connected with your Facebook friends more easily than ever!"
-" You will need an internet connection to use this feature."
-msgstr "现在你与Facebook上的朋友联系比以往要方便的多！因此，你需要互联网连接。"
-
-#. (itstool) path: page/p
-#: C/net-social-bar.page:27
-msgid "First, you'll need to set up your Facebook account on Endless."
-msgstr "首先，你需要在Endless上设置Facebook账号"
-
-#. (itstool) path: steps/title
-#: C/net-social-bar.page:30
-msgid "If you already have a Facebook account:"
-msgstr "如果你已有Facebook账号："
-
-#. (itstool) path: p/media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-social-bar.page:33
-msgctxt "_"
-msgid ""
-"external ref='figures/eos-icon-socialbar.png' "
-"md5='311852df3d93299e9346bbe809bb81c6'"
-msgstr "external ref='figures/eos-icon-socialbar.png' md5='311852df3d93299e9346bbe809bb81c6'"
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:32
-msgid ""
-"Click on <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-"
-"socialbar.png\"> the Facebook icon</media> on the very bottom right-hand "
-"side of your screen."
-msgstr "点击屏幕右下端的<media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-socialbar.png\"> Facebook图标</media> 。 "
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:38
-msgid "Enter in your email address and password, then click <gui>Login</gui>."
-msgstr "输入您的电子邮件地址和密码，然后单击 <gui>登陆</gui>。 "
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:42
-msgid ""
-"You can now start using Facebook right from your desktop. You do not need to"
-" close it if you are working on something else! Just click outside of the "
-"Facebook screen or on the Facebook icon to get back to your other open "
-"windows."
-msgstr "现在,您可以在桌面开始使用Facebook。如果你正在做别的事情，也不需要关闭它!点击Facebook之外的屏幕或在Facebook图标上回到其他打开的窗口。"
-
-#. (itstool) path: steps/title
-#: C/net-social-bar.page:50
-msgid "If you do not have a Facebook account:"
-msgstr "如果你已有Facebook账号："
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:52 C/net-social-bar.page:74
-msgid ""
-"Click on the Facebook icon that is on the very bottom right-hand side of "
-"your screen."
-msgstr "点击屏幕右下方的Facebook图标。"
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:56
-msgid "Click on <gui>Create New Account</gui>."
-msgstr "点击<gui>创建新账户</gui>。"
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:59
-msgid ""
-"Follow the steps that Facebook takes you through to complete their set up "
-"process. You will need an email address in order to create a Facebook "
-"account."
-msgstr "按以下步骤：Facebook需要你来完成建立过程。你需要电子邮件地址,以便创建Facebook账户。"
-
-#. (itstool) path: note/p
-#: C/net-social-bar.page:66
-msgid ""
-"Remember to log out of Facebook if you share your computer with other users,"
-" otherwise they will be able to see and use your Facebook account!"
-msgstr "如果你与其他用户分享您的电脑，请记得登出Facebook,否则他们将能看到和使用你的Facebook账户!"
-
-#. (itstool) path: steps/title
-#: C/net-social-bar.page:71
-msgid "Logging out of Facebook"
-msgstr "正在登出Facebook账号"
-
-#. (itstool) path: steps/p
-#: C/net-social-bar.page:72
-msgid "To log out of your Facebook account:"
-msgstr "登出Facebook账号"
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:78
-msgid ""
-"Click on the button with three white lines on the left-hand side of the "
-"Facebook window. This will show you the main menu, with your news feed, "
-"events, groups, and more."
-msgstr "点击有三个白线的按钮，该按钮在Facebook窗口的左边。这将向您显示主菜单,新闻,事件,组织,和其他"
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:83
-msgid ""
-"Scroll all the way to the bottom of the menu and click on the <gui>Log "
-"Out</gui> button."
-msgstr "滚动到底部的菜单,点击<gui>退出</gui>按钮。 "
 
 #. (itstool) path: info/desc
 #: C/net-troubleshoot.page:17
@@ -6032,17 +5802,17 @@ msgid ""
 msgstr "网络可能被隐藏，如果这样您需要<link xref=\"net-wireless-hidden\">用其他方法连接</link>。"
 
 #. (itstool) path: info/desc
-#: C/net-wireless-hidden.page:25
+#: C/net-wireless-hidden.page:29
 msgid "Connect to a network that you might not be able to see."
 msgstr "连接到可查看的网络。"
 
 #. (itstool) path: page/title
-#: C/net-wireless-hidden.page:29
+#: C/net-wireless-hidden.page:33
 msgid "Connect to a hidden wireless network"
 msgstr "连接到一个隐藏的无线网络"
 
 #. (itstool) path: page/p
-#: C/net-wireless-hidden.page:31
+#: C/net-wireless-hidden.page:35
 msgid ""
 "Hidden networks don't show up in the list of wireless networks. Having a "
 "hidden network makes it harder for other people to find it, and so more "
@@ -6051,36 +5821,37 @@ msgid ""
 msgstr "隐藏的网络不出现在无线网络列表中。隐藏网络更难找到,所以有更加安全。连接到隐藏的无线网络要遵循这些步骤:"
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:37
+#: C/net-wireless-hidden.page:41
 msgid ""
-"Click the network icon on the task bar and select <gui>Network "
-"Settings.</gui>"
-msgstr "点击任务栏上的网络图标,选择<gui>网络设置。</gui>   "
+"Type \"Network\" into the <gui>global search bar</gui> on your desktop. "
+"Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
+"to open."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:41
+#: C/net-wireless-hidden.page:46
 msgid "Click the <gui>Connect to Hidden Network</gui> button."
 msgstr "点击<gui>连接到隐藏网络</gui>按钮。"
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:44
+#: C/net-wireless-hidden.page:49
 msgid ""
 "In the window that appears, type the network name and choose the type of "
 "wireless security from the Wi-Fi security drop-down list."
 msgstr "在出现的窗口中,从无线网络安全下拉列表里输入名称并选择安全的无线网络类型。"
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:48
+#: C/net-wireless-hidden.page:53
 msgid "Enter the password or other security details."
 msgstr "输入密码或其他安全详情。"
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:51
+#: C/net-wireless-hidden.page:56
 msgid "Click Connect."
 msgstr "单击连接。"
 
 #. (itstool) path: page/p
-#: C/net-wireless-hidden.page:55
+#: C/net-wireless-hidden.page:60
 msgid ""
 "You may have to check the settings of the wireless access point or router to"
 " see what the network name is. If you don't have the network name (SSID), "
@@ -6091,14 +5862,14 @@ msgid ""
 msgstr "你可能需要检查无线接入点的设置或路由器，以便查询网络名称。如果你没有网络名称(SSID),您可以使用<em> BSSID </em>(基本服务集标识符,接入点的MAC地址),它看起来像<gui> 02:00:01:02:03:04 > </gui>，通常可以发现背面的访问点。"
 
 #. (itstool) path: page/p
-#: C/net-wireless-hidden.page:61
+#: C/net-wireless-hidden.page:66
 msgid ""
 "You should also check the security settings for the wireless access point. "
 "Look for terms like WEP and WPA."
 msgstr "您还应该检查无线接入点的安全设置。寻找WEP和WPA。 "
 
 #. (itstool) path: note/p
-#: C/net-wireless-hidden.page:65
+#: C/net-wireless-hidden.page:70
 msgid ""
 "While hiding your network may help improve security by preventing people who"
 " don't know about it from connecting, the network will still remain "
@@ -6343,34 +6114,34 @@ msgid "How to cancel a print job:"
 msgstr "如何取消打印任务？"
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:49 C/printing-cancel-job.page:92
-#: C/printing-setup-default-printer.page:48 C/printing-setup.page:86
+#: C/printing-cancel-job.page:47 C/printing-cancel-job.page:88
+#: C/printing-setup-default-printer.page:48 C/printing-setup.page:84
 msgid "Click <gui>Printers</gui>."
 msgstr "单击<gui>打印机</gui>。"
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:52
+#: C/printing-cancel-job.page:50
 msgid ""
 "Click the <gui>Show Jobs</gui> button on the right-hand side of the "
 "<gui>Printers</gui> dialog."
 msgstr "点击工具栏最右边打印机对话框中的<gui>显示工作</gui>按钮"
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:56
+#: C/printing-cancel-job.page:54
 msgid ""
 "Cancel the print job by clicking the stop button on the play-pause-stop "
 "symbols."
 msgstr "通过单击带有“play-pause-stop”字样的停止按钮，取消打印作业。"
 
 #. (itstool) path: section/p
-#: C/printing-cancel-job.page:61
+#: C/printing-cancel-job.page:59
 msgid ""
 "If this does not cancel the print job like you expected, try holding down "
 "the <gui>Cancel</gui> button on your printer."
 msgstr "如果此操作无法按您预期的那样取消打印任务，则尝试按住打印机上的<gui>取消</gui>按钮。 "
 
 #. (itstool) path: section/p
-#: C/printing-cancel-job.page:64
+#: C/printing-cancel-job.page:62
 msgid ""
 "As a last resort, especially if you have a big print job with a lot of pages"
 " that won't cancel, remove the paper from the printer's paper input tray. "
@@ -6380,7 +6151,7 @@ msgid ""
 msgstr "如果仍不起作用，尤其是在无法取消多页、大量打印任务时，将纸张从打印机纸张供纸盒中取出。这样打印机将提示缺纸并停止打印。然后，您可以再次尝试取消打印任务，或者关闭打印机再重新打开。"
 
 #. (itstool) path: note/p
-#: C/printing-cancel-job.page:71
+#: C/printing-cancel-job.page:69
 msgid ""
 "Be careful that you don't damage the printer when removing the paper, though"
 " - if you would have to pull hard on the paper to remove it, you should "
@@ -6388,19 +6159,19 @@ msgid ""
 msgstr "要注意，在移除卡纸时，不要损坏了打印机－如果您感觉要用很大力气才能取出时，最好就别动它了。"
 
 #. (itstool) path: section/title
-#: C/printing-cancel-job.page:79
+#: C/printing-cancel-job.page:77
 msgid "Pause and release a print job"
 msgstr "暂停或开始打印工作。"
 
 #. (itstool) path: section/p
-#: C/printing-cancel-job.page:81
+#: C/printing-cancel-job.page:79
 msgid ""
 "If you want to pause or release a print job, you can do so by going to the "
 "jobs dialog in the printer settings and click the appropriate button."
 msgstr "如果你想暂停或开始一个打印作业,你可以找到打印机设置对话框,然后单击相应的按钮。"
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:95
+#: C/printing-cancel-job.page:91
 msgid ""
 "Click the <gui>Show Jobs</gui> button on the right-hand side of the "
 "<gui>Printers</gui> dialog and either pause or release the print job based "
@@ -6653,6 +6424,13 @@ msgid ""
 msgstr "要设置默认打印机，您需要管理员权限。"
 
 #. (itstool) path: item/p
+#: C/printing-setup-default-printer.page:42
+msgid ""
+"Click on the <_:media-1/> on the bottom left-hand corner of your screen, "
+"then click on <gui>Settings</gui>."
+msgstr "单击您左手边屏幕底部的<_:media-1/> ，然后单击<gui>设置</gui>。"
+
+#. (itstool) path: item/p
 #: C/printing-setup-default-printer.page:51
 msgid ""
 "Select your desired default printer from the list of available printers."
@@ -6757,19 +6535,19 @@ msgid "Set up your printer manually:"
 msgstr "手动安装打印机。"
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:90
+#: C/printing-setup.page:88
 msgid ""
 "Click the <key>Unlock</key> button in the top-right corner and enter your "
 "password."
 msgstr "点击右上角的<gui>解锁</gui>按钮，然后输入您的密码。"
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:94
+#: C/printing-setup.page:92
 msgid "Click the <key>+</key> button."
 msgstr "点击 <key>+</key> 按钮。"
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:97
+#: C/printing-setup.page:95
 msgid "In the pop-up window, select your new printer. Click <gui>Add</gui>."
 msgstr "在弹出的窗口中，选择新打印机，单击<gui>添加</gui>。"
 
@@ -6897,36 +6675,36 @@ msgid "To set the length of time before your screen locks automatically:"
 msgstr "设定几分钟后自动锁定屏幕。"
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:53
+#: C/privacy-screen-lock.page:51
 msgid "Click <gui>Privacy</gui>."
 msgstr "点击<gui>隐私</gui>."
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:56
+#: C/privacy-screen-lock.page:54
 msgid "Select <gui>Screen Lock</gui>."
 msgstr "选择<gui>屏幕锁定</gui>."
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:59
+#: C/privacy-screen-lock.page:57
 msgid ""
 "Make sure <gui>Automatic Screen Lock</gui> is switched on, then select a "
 "length of time from the drop-down list."
 msgstr "确保 <gui>自动锁定屏幕</gui> 已开启, 从下拉列表中选择时长。"
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:63
+#: C/privacy-screen-lock.page:61
 msgid ""
 "To allow notifications to be displayed on the lock screen, switch <gui>Show "
 "Notifications</gui> to <gui>ON</gui>."
 msgstr "允许电脑锁屏显示通知，需开启<gui>显示通知</gui>。"
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:67
+#: C/privacy-screen-lock.page:65
 msgid "Click <gui>Close</gui>."
 msgstr "点击<gui>关闭</gui>。"
 
 #. (itstool) path: page/p
-#: C/privacy-screen-lock.page:71
+#: C/privacy-screen-lock.page:69
 msgid ""
 "When your screen is locked, and you want to unlock it, press <key>Esc</key>,"
 " or swipe up from the bottom of the screen with your mouse. Then enter your "
@@ -7213,9 +6991,8 @@ msgstr "输入密码解锁计算机"
 #: C/security-guard-privacy.page:49
 msgid ""
 "You can change the lock screen settings under the <gui>Privacy</gui> section"
-" in the <gui>Settings</gui> window that you can access from the User Menu on"
-" the very bottom left-hand side of your screen."
-msgstr "在屏幕左边最底部的用户菜单中找到<gui> 设置</gui><gui>隐私部分</gui>,改变锁屏设置。"
+" under <gui>Settings</gui>."
+msgstr ""
 
 #. (itstool) path: info/desc
 #: C/security-understand-password.page:19
@@ -7260,27 +7037,27 @@ msgid "Switch to a different language for user interface and help text."
 msgstr "将用户界面和帮助文档切换到其他语言。 "
 
 #. (itstool) path: page/title
-#: C/session-language.page:34
+#: C/session-language.page:37
 msgid "Change your region and language"
 msgstr "改变地区和语言。"
 
 #. (itstool) path: page/p
-#: C/session-language.page:36
+#: C/session-language.page:39
 msgid "Endless can be used in many different languages."
 msgstr "Endless可使用多种语言。"
 
 #. (itstool) path: steps/title
-#: C/session-language.page:39
+#: C/session-language.page:42
 msgid "To switch your current language:"
 msgstr "切换当前语言。"
 
 #. (itstool) path: item/p
-#: C/session-language.page:51
+#: C/session-language.page:52
 msgid "Click <gui>Language</gui>."
 msgstr "点击<gui>语言</gui>按钮。"
 
 #. (itstool) path: item/p
-#: C/session-language.page:55
+#: C/session-language.page:56
 msgid ""
 "Select your desired language. If your language is not listed, click "
 "<_:media-1/> at the bottom of the list to select from all available regions "
@@ -7288,12 +7065,12 @@ msgid ""
 msgstr "选择你想要的语言。如果你的语言不在列表中，点击列表的底部<_:media-1/>选择所有可用的区域和语言。"
 
 #. (itstool) path: item/p
-#: C/session-language.page:62
+#: C/session-language.page:63
 msgid "Click <gui>Done</gui> to save."
 msgstr "点击<gui>完成</gui>保存。"
 
 #. (itstool) path: item/p
-#: C/session-language.page:66
+#: C/session-language.page:67
 msgid ""
 "<gui>Your session needs to be restarted for these changes to take "
 "effect</gui> by clicking <gui style=\"button\">Restart Now</gui>, or click "
@@ -7301,7 +7078,7 @@ msgid ""
 msgstr "<gui>会话需要重新启动后生效</gui>，则点击<gui style=\"button\">现在重启</gui>，或者点击<gui style=\"button\">X</gui>稍后重启。"
 
 #. (itstool) path: page/p
-#: C/session-language.page:73
+#: C/session-language.page:74
 msgid ""
 "Some translations may be incomplete, and certain applications may not "
 "support your language at all. Any untranslated text will appear in American "
@@ -7309,7 +7086,7 @@ msgid ""
 msgstr "有些翻译可能是不完整的，有些特定的应用程序可能不支持您的语言。任何翻译文本将出现在美国英语中。 "
 
 #. (itstool) path: page/p
-#: C/session-language.page:77
+#: C/session-language.page:78
 msgid ""
 "There are some special folders in your home folder where applications can "
 "store things like music, pictures, and documents. These folders use standard"
@@ -7320,17 +7097,17 @@ msgid ""
 msgstr "在您的主文件夹中有一些特定文件夹，它们存放应用程序的文件，如音乐、图片和文档，这些文件夹一般使用您的语言来命名。当您重新登录后，会出现底部对话框，提示是否将文件名改成您的语言名称，如果您今后将一直使用新的语言，可以把文件夹名称更新一下。"
 
 #. (itstool) path: info/desc
-#: C/sharing-bluetooth.page:16
+#: C/sharing-bluetooth.page:20
 msgid "Set which folders and devices are able to share over Bluetooth."
 msgstr "设置能共享的的文件夹和蓝牙设备。"
 
 #. (itstool) path: page/title
-#: C/sharing-bluetooth.page:20
+#: C/sharing-bluetooth.page:24
 msgid "Control sharing over Bluetooth"
 msgstr "控制蓝牙共享。"
 
 #. (itstool) path: page/p
-#: C/sharing-bluetooth.page:28
+#: C/sharing-bluetooth.page:32
 msgid ""
 "You can allow Bluetooth devices to send you files to your "
 "<file>Downloads</file> folder by turning on that capability. Restrict access"
@@ -7338,14 +7115,14 @@ msgid ""
 msgstr "你可以允许蓝牙设备发送文件到你的<file>下载 </file>文件夹中，同时开启下载功能。限制<em> 信任设备</em>以保证安全。"
 
 #. (itstool) path: page/p
-#: C/sharing-bluetooth.page:31
+#: C/sharing-bluetooth.page:35
 msgid ""
 "You can configure <gui>Bluetooth Sharing</gui> to control access to your "
 "shared folders on your computer."
 msgstr "您可以设置<gui> 蓝牙共享</gui>控制电脑访问共享文件夹。"
 
 #. (itstool) path: note/p
-#: C/sharing-bluetooth.page:35
+#: C/sharing-bluetooth.page:39
 msgid ""
 "A Bluetooth device is <em>trusted</em> if you have <em>paired</em>, or "
 "connected your computer to it. See <link xref=\"bluetooth-connect-"
@@ -7353,40 +7130,40 @@ msgid ""
 msgstr "如果您有配对的蓝牙和电脑，蓝牙设备就是<em>可信任的</em>。参阅<link xref=\"bluetooth-connect-device\"/>。"
 
 #. (itstool) path: steps/title
-#: C/sharing-bluetooth.page:88
+#: C/sharing-bluetooth.page:92
 msgid "Allow files to be shared into your <file>Downloads</file> folder"
 msgstr "允许文件分享到<file>下载</file>文件夹下。"
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:96
+#: C/sharing-bluetooth.page:98
 msgid "Click <gui>Sharing</gui>."
 msgstr "点击<gui>共享</gui>按钮"
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:99
+#: C/sharing-bluetooth.page:101
 msgid "If <gui>Sharing</gui> is <gui>OFF</gui>, switch it to <gui>ON</gui>."
 msgstr "如果<gui>共享</gui>处于<gui>关闭</gui>,请切换到<gui>开启</gui>。"
 
 #. (itstool) path: note/p
-#: C/sharing-bluetooth.page:102
+#: C/sharing-bluetooth.page:104
 msgid ""
 "If the text below <gui>Computer Name</gui> allows you to edit it, you can "
 "change the name your computer displays on the network."
 msgstr "如果以下文本<gui>计算机名称</gui>允许您编辑，您可以改变电脑名称。"
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:107
+#: C/sharing-bluetooth.page:109
 msgid "Select <gui>Bluetooth Sharing</gui>."
 msgstr "选择<gui>蓝牙共享</gui>。"
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:110
+#: C/sharing-bluetooth.page:112
 msgid ""
 "Switch <gui>Save Received Files to Downloads Folder</gui> to <gui>ON</gui>."
 msgstr "将<gui>保存文件到下载文件夹</gui>切换到 <gui>开启 </gui>状态。"
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:114
+#: C/sharing-bluetooth.page:116
 msgid ""
 "If you only want to allow trusted devices to access your "
 "<file>Downloads</file> folder, switch <gui>Only Receive From Trusted "
@@ -7394,7 +7171,7 @@ msgid ""
 msgstr "如果您只希望受信任的设备访问你的<file> 下载</file>文件夹，将<gui>只收到可信任设备</gui> 切换到<gui>开启</gui>。"
 
 #. (itstool) path: note/p
-#: C/sharing-bluetooth.page:119
+#: C/sharing-bluetooth.page:121
 msgid ""
 "This option is disabled by default. You should enable it if you want to "
 "prevent access to your shared files by anyone with a Bluetooth-enabled cell "
@@ -7402,7 +7179,7 @@ msgid ""
 msgstr "这个默认选项是禁用的。如果你想防止通过蓝牙手机或附近所有设备访问你的共享文件，你可以开启它。"
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:126
+#: C/sharing-bluetooth.page:128
 msgid ""
 "Click <gui style=\"button\">Close</gui>. Bluetooth-enabled devices will now "
 "be able to send files to your <file>Downloads</file> folder."
@@ -7550,33 +7327,30 @@ msgstr "添加新的文件夹。"
 
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:30
-msgid ""
-"Right-click on the desktop and select <gui>Add folder</gui>. Alternatively, "
-"you can click on <_:media-1/> from the desktop and click on the "
-"<gui>Folders</gui> button on the left-hand menu."
-msgstr "右键单击桌面,选择<gui>添加文件夹</gui>。另外,您可以点击左边菜单按钮上的<gui>文件夹 </gui>或者点击桌面的<_:media-1/>。"
+msgid "Right-click on the desktop and select <gui>Add folder</gui>."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:37 C/shell-organize-apps.page:33
+#: C/shell-add-desktop-folder.page:33 C/shell-organize-apps.page:33
 msgid "Pick an icon for your new folder."
 msgstr "为新文件夹选择图标。"
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:40
+#: C/shell-add-desktop-folder.page:36
 msgid ""
 "Type a name for your new folder (for example, \"School\") and hit "
 "<key>Enter</key>."
 msgstr "为新文件夹输入一个名字(例如,“学校”)，按下<key>回车键</key>。"
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:44
+#: C/shell-add-desktop-folder.page:40
 msgid ""
 "You have added a new folder to the desktop. Great! Now click on the "
 "<_:media-1/> on the top-right of the window to go back to the desktop."
 msgstr "您已在桌面添加新的文件夹！现在只需点击窗口右上方的<_:media-1/>关闭按钮即可返回到桌面。"
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:49
+#: C/shell-add-desktop-folder.page:45
 msgid "Drag and drop the apps you want into your folder."
 msgstr "将应用程序拖拽并放入您指定文件夹中。"
 
@@ -7624,23 +7398,23 @@ msgid ""
 msgstr "如果你不能看到<gui>X</gui>按钮,您可以按<key>Esc</key>键退出应用程序。该键通常在键盘左上角。窗口应该完全关闭或变得更小,这样您就可以看到窗口的顶部栏和底部的Endless任务栏。如果窗口变小了，你可以点击<gui>X</gui> 退出。"
 
 #. (itstool) path: info/title
-#: C/shell-apps-open.page:30
+#: C/shell-apps-open.page:31
 msgctxt "link:index"
 msgid "How do I add new apps?"
 msgstr "如何添加应用程序？"
 
 #. (itstool) path: info/desc
-#: C/shell-apps-open.page:31
+#: C/shell-apps-open.page:32
 msgid "Install free apps, folders, and website shortcuts onto your desktop."
 msgstr "在桌面安装免费应用程序，文件夹以及网站快捷方式。"
 
 #. (itstool) path: page/title
-#: C/shell-apps-open.page:34
+#: C/shell-apps-open.page:35
 msgid "Add apps and website shortcuts"
 msgstr "添加应用程序和网站快捷方式。"
 
 #. (itstool) path: page/p
-#: C/shell-apps-open.page:36
+#: C/shell-apps-open.page:37
 msgid ""
 "The pre-installed apps on your desktop are just a few of the many apps "
 "available to you. Easily add more apps and websites shortcuts directly to "
@@ -7648,46 +7422,46 @@ msgid ""
 msgstr "桌面预装应用程序只是几个可用的应用程序。轻松地添加更多的应用程序和网页截图直接到桌面快捷方式。"
 
 #. (itstool) path: section/title
-#: C/shell-apps-open.page:42
+#: C/shell-apps-open.page:43
 msgid "Adding More Apps"
 msgstr "添加更多应用。"
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:45 C/shell-update-app.page:29
+#: C/shell-apps-open.page:46 C/shell-update-app.page:29
 msgid "Click once on <_:media-1/> from the desktop."
 msgstr "点击桌面上的<_:media-1/> 。 "
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:51
+#: C/shell-apps-open.page:52
 msgid ""
 "Browse by category and read each app's short description until you find one "
 "that you want to add to your desktop. All of the apps you see are free."
 msgstr "分类浏览和阅读每个应用程序的描述,直到你想要添加的应用程序到您的桌面。你看到的所有应用都是免费的。"
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:57
+#: C/shell-apps-open.page:58
 msgid ""
 "Some apps are already downloaded to your computer and you can add them to "
 "your desktop by clicking <gui>Add to desktop</gui>."
 msgstr "一些应用程序已经下载到你的电脑,你可以将它们添加到桌面,点击<gui>添加到桌面</gui>。"
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:62
+#: C/shell-apps-open.page:63
 msgid ""
 "Other apps need to be installed and require an internet connection. Click "
-"<gui>Install app</gui> to download and install these apps."
-msgstr "其他应用程序需要互联网连接安装。点击<gui>安装应用程序</gui> 下载和安装这些应用程序。"
+"<gui>Install</gui> to download and install these apps."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:67
+#: C/shell-apps-open.page:68
 msgid ""
 "When the app has been successfully added to your desktop, the green button "
-"will change to <gui>Open app</gui> and you can start using the app "
+"will change to <gui>Launch</gui> and you can start using the app "
 "immediately!"
-msgstr "当应用程序已成功添加到您的桌面,绿色的按钮将会改变<gui>打开应用程序</gui>你可以立即开始使用应用程序!"
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:70
+#: C/shell-apps-open.page:71
 msgid ""
 "The app's icon will be installed on your desktop, to the left of the "
 "<_:media-1/> button. You can then move it wherever makes sense to you so you"
@@ -7695,19 +7469,22 @@ msgid ""
 msgstr "应用程序的图标将安装到你的桌面至左边的<_:media-1/>按钮。您可以移动它到容易找到的地方。"
 
 #. (itstool) path: section/title
-#: C/shell-apps-open.page:79
+#: C/shell-apps-open.page:80
 msgid "Installing Website Shortcuts"
 msgstr "建立网站快捷方式"
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:82
-msgid "Click once on the <_:media-1/> from the desktop."
-msgstr "点击桌面上的<_:media-1/> 。 "
+#: C/shell-apps-open.page:83
+msgid ""
+"Right click on the desktop and select the <gui>Add Website</gui> option."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:87
-msgid "Click on the <gui>Websites</gui> category on the left hand side."
-msgstr "单击屏幕左边的<gui>网页</gui>分类。"
+#: C/shell-apps-open.page:86
+msgid ""
+"Click on the <gui>Websites</gui> category on the left hand side if it is not"
+" already selected."
+msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:91
@@ -7787,154 +7564,37 @@ msgid ""
 "available, you can do it from the <app>App Center</app>."
 msgstr "从桌面删除app不会使其从系统中移除。如果您想彻底卸载该app，以节省储存空间，可以在<app>应用中心</app>进行此操作。"
 
-#. (itstool) path: info/desc
-#: C/shell-download-media.page:15
-msgid "Learn how to download songs and media from the internet."
-msgstr "了解如何从互联网下载歌曲和视频。"
-
-#. (itstool) path: page/title
-#: C/shell-download-media.page:18
-msgid "Download songs and media"
-msgstr "下载歌曲和视频"
-
-#. (itstool) path: page/p
-#: C/shell-download-media.page:20
-msgid ""
-"You can use the <app>FrostTorrent</app> app to download songs and media from"
-" the internet."
-msgstr "您可以使用 <app>FrostTorrent</app> app从互联网下载歌曲和视频。"
-
-#. (itstool) path: steps/title
-#: C/shell-download-media.page:25
-msgid "Download songs and media from the internet following these steps:"
-msgstr "通过以下步骤从互联网下载歌曲和视频："
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:28
-msgid ""
-"Make sure that you have the <app>FrostTorrent</app> app installed on your "
-"computer. If you don't already have it, go to your <app>App Center</app>'s "
-"Utilities section and download it, then click on it once to open."
-msgstr "确保您的电脑已安装 <app>FrostTorrent</app> app。如未安装，请到 <app>应用中心</app> 的实用程序一栏进行下载，然后单击打开。"
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:33
-msgid ""
-"If this is the first time you open <app>FrostTorrent</app>, you will need to"
-" complete a short setup using the wizard it provides. Once it finishes "
-"setting up, move on to the next step."
-msgstr "首次打开 <app>FrostTorrent</app>，您需使用其安装向导进行安装，安装完成后进入下一步。"
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:38
-msgid ""
-"Type in a keyword and press <key>Enter</key> on your keyboard, or click on "
-"the search icon. Suggested keywords will show up as you type and you can "
-"click on them to conduct a search on that keyword."
-msgstr "输入关键词后，按下键盘的 <key>回车键</key> 或用鼠标点击搜素图标。在你输入时会呈现相关的关键词，您可以点击并进行关键词的搜索。"
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:43
-msgid ""
-"Search results will appear in the main window. Select the file type you want"
-" by clicking on the icon of a music note (songs), a frame (photos), a film "
-"strip (videos), or a sheet of paper (documents). You can also filter your "
-"results by clicking on the <gui>Search Tools</gui> button on the right- hand"
-" side of the window."
-msgstr "搜索结果将出现在主窗口。通过点击音符图标（歌曲)、相框图标（图片）、胶卷图标（视频）或纸张图标（文档）来选择您想要的文件类型。您还可以点击窗口右侧边栏的 <gui>搜索工具</gui> 按钮来过滤搜索结果。"
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:50
-msgid ""
-"To begin downloading the file, double click on the name of a file, or click "
-"once and then click <gui>Download</gui>."
-msgstr "要开始下载文件，需双击文件名，或单击文件名后点击<gui>下载</gui>。"
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:54
-msgid ""
-"After your file finishes downloading, it will appear on the bottom half of "
-"your screen and you can double click on it to open and beging using it. "
-"Right click on any finished file to see more options for using it. You can "
-"also click on the <gui>Library</gui> icon to browse through all the files "
-"that are ready for you to use."
-msgstr "文件下载完成后，将会呈现在屏幕的下部区域。您可以双击打开并开始使用，或右击文件以查看更多操作选项。您还可以点击 <gui>库</gui> 图标来浏览所有下载好的文件。"
-
-#. (itstool) path: note/title
-#: C/shell-download-media.page:63
-msgid "Tips:"
-msgstr "提示："
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:66
-msgid "A song with more “Seeds” next to its name will download more quickly."
-msgstr "歌名旁有越多的“种子”，歌曲将下载得越快。"
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:70
-msgid ""
-"Files from SoundCloud.com, Archive.org, or other similar services, will not "
-"show any “Seeds” because they come directly from the source rather than from"
-" other users."
-msgstr " 来源是SoundCloud.com, Archive.org和其他类似服务的文件将不显示任何“种子”，因为它们有直接的来源，不是来自其他用户。"
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:75
-msgid ""
-"Click the triangle button next to a file to preview it before downloading."
-msgstr "下载前点击文件旁的三角形按钮进行预览。"
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:79
-msgid ""
-"Click the plus button next to a file to select the parts of the package that"
-" you want to download."
-msgstr "点击文件旁的加号按钮选择您想下载的安装包部分。"
-
-#. (itstool) path: note/p
-#: C/shell-download-media.page:86
-msgid ""
-"Make sure that what you are downloading is a legal copy! Many files have "
-"copyright laws that prohibit them from being shared for free online. This "
-"means that you could be sued for illegally downloading them without paying "
-"for them. That being said, there are millions of files that are completely "
-"legal and shareable on the internet, and that you can enjoy once you "
-"download them with this app. To learn more about downloading files and "
-"copyright, you may want to google \"torrents and legality\" so that you can "
-"make informed decisions on which files to download."
-msgstr "请确认您下载的内容是合法授权的！很多文件受版权法保护，是不允许进行免费在线分享的。这意味着如果您未付费进行下载，可能会受起诉。但也有很多文件在互联网进行分享是完全合法的，您只需下载一次就可以在app中使用。了解更多有关文件下载及版权的内容，请到google搜索 \"torrents及合法性\" ，以获取更多信息，决定下载哪些文件。"
-
 #. (itstool) path: credit/name
 #: C/shell-exit.page:22
 msgid "Alexandre Franke"
 msgstr "Alexandre Franke"
 
 #. (itstool) path: info/desc
-#: C/shell-exit.page:32
+#: C/shell-exit.page:36
 msgid ""
 "Learn how to leave your user account, by logging out, switching users, and "
 "so on."
 msgstr "了解如何退出您的帐号，如注销、切换用户等。"
 
 #. (itstool) path: page/title
-#: C/shell-exit.page:36
+#: C/shell-exit.page:40
 msgid "Log out, power off or switch users"
 msgstr "注销、关机、切换用户"
 
 #. (itstool) path: page/p
-#: C/shell-exit.page:44
+#: C/shell-exit.page:48
 msgid ""
 "When you have finished using your computer, you can turn it off or leave it "
 "powered on and log out."
 msgstr "结束使用电脑后，您可以关机或保持开机仅注销账户。"
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:48
+#: C/shell-exit.page:52
 msgid "Log out or switch users"
 msgstr "注销或切换用户"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:50
+#: C/shell-exit.page:54
 msgid ""
 "To let other users use your computer, you can either log out, or leave "
 "yourself logged in and just switch users. If you switch users, all of your "
@@ -7943,20 +7603,20 @@ msgid ""
 msgstr "要使其他用户使用您的电脑，您可以注销账户，或保持登录状态、仅切换用户。如果您仅切换用户，则所有应用将继续运行，您再次登录时，一切将保留原来的状态。"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:54
+#: C/shell-exit.page:58
 msgid ""
-"To log out (i.e. in order to switch to a different user), click the User "
-"Menu on the bottom left corner of your screen and then click the <gui>lock "
-"icon</gui>."
-msgstr "要注销账户(例如，将电脑交给别的用户使用)，需单击屏幕左下方的用户菜单, 然后单击<gui>锁定图标</gui>。"
+"To log out (i.e. in order to switch to a different user), click on the User "
+"icon at the very bottom right-hand side of your screen (it looks like a "
+"person), and click the <gui>Lock icon</gui>."
+msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:61
+#: C/shell-exit.page:65
 msgid "Lock the screen"
 msgstr "锁定屏幕"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:63
+#: C/shell-exit.page:67
 msgid ""
 "If you're leaving your computer for a short time, you should lock your "
 "screen to prevent other people from accessing your files or running "
@@ -7966,15 +7626,15 @@ msgid ""
 msgstr "如果您要离开电脑一小段时间，则应该锁定屏幕以防止其他人访问您的文件和运行应用。您回来后，输入密码即可返回登录，此时电脑仍保持您离开时的状态。"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:68
+#: C/shell-exit.page:72
 msgid ""
-"To lock your screen, click on the User Menu at the very bottom left-hand "
-"side of your screen and press the <gui>Lock</gui> button at the bottom right"
-" of the menu."
-msgstr "要锁定屏幕，请点击屏幕左侧的用户菜单，然后按下菜单右下方的<gui>锁定</gui>按钮。"
+"To lock your screen, click on the User icon at the very bottom right-hand "
+"side of your screen (it looks like a person), and click the <gui>Lock "
+"icon</gui>."
+msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-exit.page:72
+#: C/shell-exit.page:76
 msgid ""
 "If you don't lock your screen, it will lock automatically after a certain "
 "amount of time, unless you disable that feature from the <gui>Privacy</gui> "
@@ -7982,22 +7642,22 @@ msgid ""
 msgstr "如果您未锁定屏幕，它将在一段特定时间后自动锁定，除非您从 <gui>隐私</gui> 区段的 <gui>设置</gui>中关闭此功能。"
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:84
+#: C/shell-exit.page:88
 msgid "Power off or restart"
 msgstr "关机或重启"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:86
+#: C/shell-exit.page:90
 msgid ""
 "If you want to power off your computer entirely, or do a full restart, click"
-" the User Menu at the very bottom left-hand side of your screen and press "
-"the <gui>Exit</gui> button at the bottom right of the menu. A dialog will "
-"open offering you the options to, among other options, <gui>Restart</gui> or"
-" <gui>Power Off</gui>."
-msgstr "如果您想对电脑进行关机或重启，请点击屏幕左侧的用户菜单，然后按下菜单右下方的<gui>退出</gui>按钮，此时会弹出供您选择的对话框，请您选择<gui>重启</gui> 或 <gui>关机</gui>。"
+" on the User icon at the very bottom right-hand side of your screen (it "
+"looks like a person), and press the <gui>Exit</gui> button at the bottom "
+"right of the menu. A dialog will open offering you the options to, among "
+"other options, <gui>Restart</gui> or <gui>Power Off</gui>."
+msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:92
+#: C/shell-exit.page:96
 msgid ""
 "If there are other users logged in, you may not be allowed to power off or "
 "restart the computer because this will end their sessions. If you are an "
@@ -8031,17 +7691,17 @@ msgid ""
 msgstr "如果您想在未来看到Endless中有某个app，请 <link xref=\"gs-give-feedback\">通过反馈选项给我们发送消息</link>以便我们了解。"
 
 #. (itstool) path: info/desc
-#: C/shell-introduction.page:28
+#: C/shell-introduction.page:33
 msgid "A quick introduction to your desktop and some of its cool features."
 msgstr "桌面及部分桌面功能的简要指导。"
 
 #. (itstool) path: page/title
-#: C/shell-introduction.page:31
+#: C/shell-introduction.page:36
 msgid "Introduction to Endless"
 msgstr "Endless 指导"
 
 #. (itstool) path: page/p
-#: C/shell-introduction.page:33
+#: C/shell-introduction.page:38
 msgid ""
 "Endless has been created just for you. When you first turn your computer on,"
 " you'll find some important applications already installed on your desktop, "
@@ -8049,24 +7709,22 @@ msgid ""
 msgstr "Ebdless为您量身设计。在您首次开机时，您会发现桌面上已经装有一些重要的应用，屏幕最下方则显示工具栏。"
 
 #. (itstool) path: page/p
-#: C/shell-introduction.page:37
+#: C/shell-introduction.page:42
 msgid ""
 "The task bar provides access to important things like your windows and "
 "applications, your calendar and clock, and system properties like sound and "
 "networking. There, you can change the volume, edit your Wi-Fi connection "
 "details, check your battery status, log out or switch users, and turn off "
-"your computer. We have also included the possibility to connect to Facebook "
-"on this task bar, so that you can keep in touch with your friends more "
-"easily than ever!"
-msgstr "通过工具栏您可以进行一些重要的设置，如设置窗口和应用，日历和时钟，以及声音和网络等系统属性。在此您可以调节音量，具体设置Wi-Fi连接，查看电量，注销或切换用户，关闭电脑等。我们还在工具栏中提供连接Facebook的功能，以便您更便捷地与朋友们联系！"
+"your computer."
+msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:48
+#: C/shell-introduction.page:51
 msgid "<app>App Center</app> overview"
 msgstr "<app>应用中心</app>视图 "
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:50
+#: C/shell-introduction.page:53
 msgid ""
 "Your computer should be incredibly useful to you both online and offline. "
 "For that reason, we have packed Endless with all sorts of applications and "
@@ -8076,23 +7734,13 @@ msgid ""
 " to install on your desktop."
 msgstr "为使您的电脑在线和离线状态都能高效运行，我们已在Endless中准备了各种应用和内容供您探索和发现。您可以点击桌面的<_:media-1/>按钮，在桌面添加更多的应用。这一操作将启动 <app>应用中心</app>，那里有各种免费的应用，您可以安装到桌面上。"
 
-#. (itstool) path: section/p
-#: C/shell-introduction.page:58
-msgid ""
-"From the <app>App Center</app> you can add: <gui>Apps</gui>, "
-"<gui>Websites</gui>, and <gui>Folders</gui>. You can browse applications you"
-" may want to install by category, add shortcuts to your favorite websites "
-"onto your desktop, or simply create new folders to organize all of your "
-"things in a way that makes sense to you."
-msgstr "您可以在<app>应用中心</app>中添加： <gui>应用</gui>， <gui>网页</gui>和<gui>文件夹</gui>。您可以通过应用分类中浏览想要安装的应用，将喜欢的网站添加快捷键到桌面，或者仅仅是创建新的文件夹来整理您的东西，只要对您来说是有意义的。"
-
 #. (itstool) path: item/p
-#: C/shell-introduction.page:67
+#: C/shell-introduction.page:64
 msgid "<link xref=\"shell-apps-open\">Learn more about installing apps.</link>"
 msgstr "<link xref=\"shell-notifications\">了解更多安装的相关内容。</link>"
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:75
+#: C/shell-introduction.page:72
 msgid "You and your computer"
 msgstr "您和您的电脑"
 
@@ -8101,7 +7749,7 @@ msgstr "您和您的电脑"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:79
+#: C/shell-introduction.page:76
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-classic.png' "
@@ -8109,19 +7757,19 @@ msgid ""
 msgstr "external ref='figures/shell-exit-classic.png' md5='f36e3a0a115ff2181a6fc787e6a83283'"
 
 #. (itstool) path: media/p
-#: C/shell-introduction.page:80
+#: C/shell-introduction.page:77
 msgid "User menu"
 msgstr "用户菜单"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:86
+#: C/shell-introduction.page:83
 msgid ""
 "Click on the <gui>User Menu</gui> on the bottom left-hand corner of your "
 "screen to manage your system settings and your computer."
 msgstr "点击屏幕左下角的<gui> 用户菜单</gui> ，进行电脑和系统的设置。"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:113
+#: C/shell-introduction.page:110
 msgid ""
 "When you leave your computer, you can lock your screen to prevent other "
 "people from using it. You can also choose to turn off or restart your "
@@ -8129,19 +7777,19 @@ msgid ""
 msgstr "离开电脑时，您可以锁定屏幕以避免被其他人使用。您也可以选择关闭电脑或重启电脑。"
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:119
+#: C/shell-introduction.page:116
 msgid ""
 "<link xref=\"shell-exit\">Learn more about switching users, logging out, and"
 " turning off your computer.</link>"
 msgstr "<link xref=\"shell-exit\">了解更多关于切换用户、注销、关闭电脑的相关内容。</link>"
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:126
+#: C/shell-introduction.page:123
 msgid "Lock Screen"
 msgstr "锁定屏幕"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:128
+#: C/shell-introduction.page:125
 msgid ""
 "When you lock your screen, or it locks automatically, the lock screen is "
 "displayed. In addition to protecting your desktop while you're away from "
@@ -8151,18 +7799,18 @@ msgid ""
 msgstr "当您锁定屏幕或者屏幕自动锁定，屏幕将会显示锁定画面。除了在您离开后保护您的桌面，锁定的屏幕还会显示日期和时间，显示电池和网络状态信息，同时允许您控制媒体播放。"
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:136
+#: C/shell-introduction.page:133
 msgid ""
 "<link xref=\"privacy-screen-lock\">Learn more about the lock screen.</link>"
 msgstr "<link xref=\"privacy-screen-lock\">了解更多锁定屏幕的相关内容。</link>"
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:144
+#: C/shell-introduction.page:141
 msgid "Hot Corner"
 msgstr "热区"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:146
+#: C/shell-introduction.page:143
 msgid ""
 "Endless allows you to see all of your open windows and tasks so that you can"
 " multitask like a pro. To access this cool feature, move your mouse pointer "
@@ -8174,7 +7822,7 @@ msgid ""
 msgstr "Endless 允许您查看所有打开的窗口和任务，以便您执行多项任务。要使用此功能，请将鼠标指针移到屏幕右方，接着点击您想打开的窗口或任务，就可以快速地进行访问。比如，如果您想从打开的应用或媒体面板中返回到桌面，只需点击当前窗口后的空白处即可。"
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:155
+#: C/shell-introduction.page:152
 msgid ""
 "<link xref=\"shell-windows-switching\">Learn more about switching "
 "windows.</link>"
@@ -8422,31 +8070,31 @@ msgid "Marina Zhurakhinskaya"
 msgstr "Marina Zhurakhinskaya"
 
 #. (itstool) path: info/desc
-#: C/shell-notifications.page:28
+#: C/shell-notifications.page:31
 msgid ""
 "Messages pop-up at the bottom of the screen telling you when certain events "
 "happen."
 msgstr "屏幕底部的弹出消息，提示您当前的系统运作。"
 
 #. (itstool) path: page/title
-#: C/shell-notifications.page:31
+#: C/shell-notifications.page:34
 msgid "Notifications and the message tray"
 msgstr "通知和信息托盘"
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:34
+#: C/shell-notifications.page:37
 msgid "What is a notification?"
 msgstr "通知是什么？"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:36
+#: C/shell-notifications.page:39
 msgid ""
 "If an application or a system component wants to get your attention, a "
 "notification will be shown at the bottom of your screen."
 msgstr "如果某个程序或系统组件想引起您的注意，就会在屏幕底部显示一个提醒。"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:39
+#: C/shell-notifications.page:42
 msgid ""
 "For example, if you plug in an external device (like a USB stick), or if new"
 " updates are available for your computer, you will get a notification "
@@ -8454,33 +8102,33 @@ msgid ""
 msgstr "例如，当您接入一个外置设备(像U盘)，或者电脑中有可用的系统更新，您就会收到相关的提示信息。"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:43
+#: C/shell-notifications.page:46
 msgid ""
 "To minimize distraction, some notifications first appear as a single line. "
 "You can move your mouse over them to see their full content."
 msgstr "为了减少干扰，一些提醒只显示了一行，您可以把鼠标移上去，查看完整的内容。"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:46
+#: C/shell-notifications.page:49
 msgid ""
 "Other notifications have selectable option buttons. To close one of these "
 "notifications without selecting one of its options, click the close button."
 msgstr "其他通知有可选按钮，要关闭这些没有选中的通知，点击关闭按钮。"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:51
+#: C/shell-notifications.page:54
 msgid ""
 "Clicking the close button on some notifications dismisses them. Others may "
 "stay hidden in the message tray."
 msgstr "点击通知上的关闭按钮取消它们。其他通知将隐藏在信息托盘中。"
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:60
+#: C/shell-notifications.page:63
 msgid "The message tray"
 msgstr "信息托盘"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:62
+#: C/shell-notifications.page:65
 msgid ""
 "The message tray gives you a way to get back to your notifications when it "
 "is convenient for you. It appears when you move your mouse to the bottom-"
@@ -8490,7 +8138,7 @@ msgid ""
 msgstr "信息托盘让您可以在方便时返回查看通知信息。当您将鼠标指针移到屏幕右下角或者按下<keyseq><key xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq>键时，信息托盘就会显示所有您未处理的信息或常驻图标。"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:69
+#: C/shell-notifications.page:72
 msgid ""
 "The message tray gives you a way to get back to your notifications when it "
 "is convenient for you. It appears when you move your mouse to the bottom-"
@@ -8502,7 +8150,7 @@ msgid ""
 msgstr "信息托盘让您可以在方便时返回查看通知消息。当您将鼠标指针移到屏幕右下角或者按下<keyseq><key xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq>键时，信息托盘就会显示所有您未处理的消息或常驻图标。"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:77
+#: C/shell-notifications.page:80
 msgid ""
 "You can view the notifications by clicking on the message tray items. These "
 "are usually messages sent by applications. However, chat notifications are "
@@ -8511,43 +8159,43 @@ msgid ""
 msgstr "您可以点击信息托盘查看通知内容，这些通知一般是各个应用发送的。但聊天信息会以特殊的方式来处理，会单独显示是谁发给您的消息。"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:82
+#: C/shell-notifications.page:85
 msgid ""
 "You can close the message tray by pressing "
 "<keyseq><key>Super</key><key>M</key></keyseq> again or <key>Esc</key>."
 msgstr "您可以再次按下 <keyseq><key>Super</key><key>M</key></keyseq>键或按<key>Esc</key>键关闭信息托盘。"
 
 #. (itstool) path: note/p
-#: C/shell-notifications.page:86
+#: C/shell-notifications.page:89
 msgid ""
 "If the <link xref=\"keyboard-osk\">screen keyboard</link> is open, you will "
 "need to click the <gui>tray button</gui> to show the message tray."
 msgstr "如果您打开了<link xref=\"keyboard-osk\">屏幕键盘</link> ，那就需要点击<gui>托盘按钮</gui>来显示信息托盘。"
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:94
+#: C/shell-notifications.page:97
 msgid "Hiding notifications"
 msgstr "隐藏通知"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:96
+#: C/shell-notifications.page:99
 msgid ""
 "If you're working on something and do not want to be bothered, you can "
 "switch off notifications."
 msgstr "如果您正在做事不想被打扰，可以关闭通知。"
 
 #. (itstool) path: item/p
-#: C/shell-notifications.page:107
+#: C/shell-notifications.page:108
 msgid "Click on <gui>Notifications</gui>."
 msgstr "点击<gui>通知</gui>。"
 
 #. (itstool) path: item/p
-#: C/shell-notifications.page:111
+#: C/shell-notifications.page:112
 msgid "Switch <gui>Show Pop Up Banners</gui> to <gui>Off</gui>."
 msgstr "关闭<gui>显示弹出通知</gui>。"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:115
+#: C/shell-notifications.page:116
 msgid ""
 "When switched off, most notifications will not pop up at the bottom of the "
 "screen. Very important notifications, such as when your battery is "
@@ -8560,8 +8208,8 @@ msgstr "当您关闭通知后，大多数消息提示将不会在屏幕底部弹
 
 #. (itstool) path: info/desc
 #: C/shell-organize-apps.page:18
-msgid "Keep all of your apps organized."
-msgstr "使所有的app排列有序。"
+msgid "Use folders to stay organized."
+msgstr ""
 
 #. (itstool) path: page/title
 #: C/shell-organize-apps.page:21
@@ -8658,39 +8306,33 @@ msgstr "Endless会持续完善应用程序让它们变得更好、更快、更�
 
 #. (itstool) path: item/p
 #: C/shell-update-app.page:34
-msgid ""
-"On the left menu, click on the section <gui>Installed</gui>. All apps that "
-"are installed on your computer will be there."
-msgstr "在左侧菜单里，点击<gui>安装</gui>。将会显示所有安装在您电脑上的应用程序。"
+msgid "On the top bar, click the <gui>Updates</gui> section."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-update-app.page:38
-msgid "Click the thumbnail of the app you want to update."
-msgstr "点击您想要更新的应用程序的缩略图。"
+#: C/shell-update-app.page:37
+msgid ""
+"If there is an update available, you will see an <gui>Update</gui> you can "
+"select. Click on it to download the update. It will be installed "
+"automatically once it's ready."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-update-app.page:41
+#: C/shell-update-app.page:42
 msgid ""
-"If there is an update available, you will see a green button with the label "
-"<gui>Update app</gui>. Click on it to download the update. It will be "
-"installed automatically once it's ready."
-msgstr "如果有可用更新，您会看到一个带有<gui>更新app</gui>标签的绿色按钮。点击并下载更新。准备就绪后将会为您自动安装更新。"
-
-#. (itstool) path: item/p
-#: C/shell-update-app.page:46
-msgid ""
-"Once the update is installed, you will see the <gui>Open app</gui> button."
-msgstr "更新完成后，您会看到 <gui>打开 app</gui>按钮。"
+"You can also choose to <gui>Update All</gui> of your apps at once with the "
+"blue button at the top right of your screen."
+msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-update-app.page:52
-msgid "To update an app, you will need an internet connection."
-msgstr "更新app需互联网连接。"
+#: C/shell-update-app.page:48
+msgid "To update your apps, you will need an internet connection."
+msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-update-app.page:55
-msgid "You can close the <app>App Center</app> while the app is updating."
-msgstr "您可以在更新完成后关闭 <app>App中心</app>。"
+#: C/shell-update-app.page:51
+msgid "You can close the <app>App Center</app> while apps are updating."
+msgstr ""
 
 #. (itstool) path: info/desc
 #: C/shell-update-system.page:19
@@ -8742,19 +8384,19 @@ msgid ""
 msgstr "您可以按照以下步骤检查更新："
 
 #. (itstool) path: item/p
-#: C/shell-update-system.page:52
+#: C/shell-update-system.page:51
 msgid "Click on <gui>Details</gui>."
 msgstr "点击<gui>详细信息</gui>。"
 
 #. (itstool) path: item/p
-#: C/shell-update-system.page:56
+#: C/shell-update-system.page:55
 msgid ""
 "Click on the <gui>Search for updates now</gui> button. If there are updates,"
 " they will automatically start to download and install to your system."
 msgstr "点击 <gui>立即搜索更新</gui>按钮。如果有可用更新，将会自动下载并安装到您的系统上。"
 
 #. (itstool) path: note/p
-#: C/shell-update-system.page:64
+#: C/shell-update-system.page:63
 msgid ""
 "Make sure you don't go over your data limit! You may want to wait until you "
 "can get a Wi-Fi or wired internet connection. You can also contact our "
@@ -8788,9 +8430,12 @@ msgstr "隐藏app后，您可以点击其任务栏上的图标来恢复app。"
 #. (itstool) path: note/p
 #: C/shell-windows-hide.page:33
 msgid ""
-"If you want to hide several windows at the same time, you might want to use "
-"the <gui>hot corner</gui> to quickly navigate between the hidden apps."
-msgstr "如果您想要同时隐藏多个窗口，您可以使用<gui>角落快速键</gui>来快速浏览隐藏窗口。"
+"Starting in Endless version 3.2, you can hide all of your windows instantly "
+"by clicking on the Endless logo on the bottom left corner. Click it again to"
+" restore your windows. When your windows are minimized, you can use the "
+"<gui>hot corner</gui> on the bottom right to quickly navigate between the "
+"hidden apps."
+msgstr ""
 
 #. (itstool) path: info/desc
 #: C/shell-windows-maximize.page:9
@@ -8994,19 +8639,19 @@ msgid ""
 msgstr "电脑将播放简短的响铃音，提醒当前的消息或事件。您可以选择不同的声音，单独设置警报音量，或者禁用警报提醒声音。"
 
 #. (itstool) path: item/p
-#: C/sound-alert.page:45
+#: C/sound-alert.page:43
 msgid "Click <gui>Sound</gui>."
 msgstr "点击<gui>声音</gui>。"
 
 #. (itstool) path: item/p
-#: C/sound-alert.page:48
+#: C/sound-alert.page:46
 msgid ""
 "In the <gui>Sound Effects</gui> tab, select an alert sound. Each sound will "
 "play when you click on it so you can hear how it sounds."
 msgstr "在<gui>声音效果</gui> 选项卡中，选择提示音，单击每个声音时该声音就会播放，您可以进行预听。"
 
 #. (itstool) path: page/p
-#: C/sound-alert.page:53
+#: C/sound-alert.page:51
 msgid ""
 "Use the volume slider in the <gui>Sound Effects</gui> tab to set the volume "
 "of the alert sound. This won't affect the volume of your music, movies, or "
@@ -9014,49 +8659,11 @@ msgid ""
 msgstr "使用<gui>声音效果</gui>里的音量滑块来设置提示音量。这不会影响到你的音乐、电影以及其他音频文件的音量。"
 
 #. (itstool) path: page/p
-#: C/sound-alert.page:57
+#: C/sound-alert.page:55
 msgid ""
 "To disable alert sounds entirely, switch the <gui>Alert volume</gui> to "
 "<gui>Off</gui>."
 msgstr "关闭 <gui>提示音</gui>以禁用提示音。"
-
-#. (itstool) path: credit/years
-#: C/sound-troubleshoot.page:15
-msgid "2016"
-msgstr "2016"
-
-#. (itstool) path: info/desc
-#: C/sound-troubleshoot.page:18
-msgid ""
-"If you can't hear sound on your computer, there may be a way to fix that."
-msgstr "如果您无法听到您电脑的声音，别担心，总有办法解决。"
-
-#. (itstool) path: page/title
-#: C/sound-troubleshoot.page:22
-msgid "Troubleshoot sound on your computer"
-msgstr "音频故障检修"
-
-#. (itstool) path: page/p
-#: C/sound-troubleshoot.page:24
-msgid ""
-"Here are some known issues and how to fix them if you're having trouble "
-"hearing sound from your computer."
-msgstr "如果您无法听到电脑声音，您可以在此查看已知问题与解决办法。"
-
-#. (itstool) path: section/title
-#: C/sound-troubleshoot.page:28
-msgid "Hearing sound on an old TV"
-msgstr "老式电视机的声音"
-
-#. (itstool) path: section/p
-#: C/sound-troubleshoot.page:30
-msgid ""
-"Some Endless computers are compatible with old TVs. To play audio through "
-"your TV, you will need to use an adapter that connects your TV to the 3.5 mm"
-" audio jack on the side of your computer. Endless does not come with this "
-"adapter, so you should check with your local electronics retailer to "
-"purchase one."
-msgstr "某些Endless电脑可以与老式电视机兼容。如果您想通过电视机播放音频，您需要使用一个可以将您的电视机连接到与电脑3.5毫米音频插孔的适配器。Endless没有配置该适配器，因此您需要从本地电子产品零售商处购买。"
 
 #. (itstool) path: info/desc
 #: C/sound-volume.page:20
@@ -9129,23 +8736,23 @@ msgid ""
 msgstr "只有正在播放声音的程序才会列出来，如果正在播放的程序没有列出来，那可能是它不支持这个特性，如果是这样，那么您就不能更改它的音量了。"
 
 #. (itstool) path: info/title
-#: C/user-add.page:32
+#: C/user-add.page:36
 msgctxt "link:index"
 msgid "How do I add more user accounts?"
 msgstr "如何添加更加新用户？"
 
 #. (itstool) path: info/desc
-#: C/user-add.page:33
+#: C/user-add.page:37
 msgid "Add new users so that other people can log in to the computer."
 msgstr "添加新用户以便其他人可以登录计算机。"
 
 #. (itstool) path: page/title
-#: C/user-add.page:36
+#: C/user-add.page:40
 msgid "Add a new user account"
 msgstr "添加一个新用户"
 
 #. (itstool) path: page/p
-#: C/user-add.page:61
+#: C/user-add.page:65
 msgid ""
 "You can create multiple user accounts on your computer and give a user "
 "account to everyone who uses your computer. That way, you can make sure that"
@@ -9154,7 +8761,7 @@ msgid ""
 msgstr "您可以在计算机上创建多个用户，让每个使用该电脑的的人都配置一个用户。这样，您就可以确保您的文件隐私得到保护，而且每个用户都拥有自己的主页文件夹、文档和常用设置。"
 
 #. (itstool) path: page/p
-#: C/user-add.page:66
+#: C/user-add.page:70
 msgid ""
 "You will need <link xref=\"user-admin-explain\">administrator "
 "privileges</link> to add user accounts. The administrator is usually the "
@@ -9164,35 +8771,35 @@ msgid ""
 msgstr "添加用户需要 <link xref=\"user-admin-explain\">管理员权限</link>。管理员通常是电脑安装后第一个设立账户的用户，第一个用户也可以赋予其他人管理员权限。"
 
 #. (itstool) path: steps/title
-#: C/user-add.page:73
+#: C/user-add.page:77
 msgid ""
 "If you are the administrator, follow these steps to create more user "
 "accounts:"
 msgstr "如果您是管理员，您可以按照以下步骤创建更多用户："
 
 #. (itstool) path: item/p
-#: C/user-add.page:82 C/user-admin-change.page:44 C/user-autologin.page:35
-#: C/user-changepassword.page:71 C/user-changepicture.page:48
-#: C/user-delete.page:55
+#: C/user-add.page:84 C/user-admin-change.page:42 C/user-autologin.page:33
+#: C/user-changepassword.page:69 C/user-changepicture.page:46
+#: C/user-delete.page:53
 msgid "Click on <gui>Users</gui>."
 msgstr "点击 <gui>用户</gui>。"
 
 #. (itstool) path: item/p
-#: C/user-add.page:86 C/user-admin-change.page:48 C/user-delete.page:59
+#: C/user-add.page:88 C/user-admin-change.page:46 C/user-delete.page:57
 msgid ""
 "Press <gui style=\"button\">Unlock</gui> in the top right corner and type in"
 " your password when prompted."
 msgstr "点击右上角的<gui>解锁</gui>按钮，然后输入您的密码。"
 
 #. (itstool) path: item/p
-#: C/user-add.page:93
+#: C/user-add.page:95
 msgid ""
 "Press the <gui style=\"button\">+</gui> button, below the list of accounts "
 "on the left, to add a new user account."
 msgstr "在左侧的帐号列表下边，点击 <gui>+</gui> 添加一个新用户。"
 
 #. (itstool) path: item/p
-#: C/user-add.page:98
+#: C/user-add.page:100
 msgid ""
 "If you want the new user to have <link xref=\"user-admin-"
 "explain\">administrative access</link> to the computer, select "
@@ -9202,7 +8809,7 @@ msgid ""
 msgstr "如果您想让新用户具有<link xref=\"user-admin-explain\">管理员权限</link>，在帐户类型中选择<gui>管理员</gui>，管理员可以进行像添加和删除用户、安装软件和驱动，更改日期和时间等操作。"
 
 #. (itstool) path: item/p
-#: C/user-add.page:105
+#: C/user-add.page:107
 msgid ""
 "Enter the new user's full name. The username will be filled in automatically"
 " based on the full name. If you do not like the proposed username, you can "
@@ -9210,12 +8817,12 @@ msgid ""
 msgstr "输入新用户的全名。根据全名将会自动填充用户名。您也可以自己更改用户名。"
 
 #. (itstool) path: media/span
-#: C/user-add.page:112 C/user-changepassword.page:83
+#: C/user-add.page:114 C/user-changepassword.page:81
 msgid "generate password"
 msgstr "生成密码"
 
 #. (itstool) path: item/p
-#: C/user-add.page:110
+#: C/user-add.page:112
 msgid ""
 "You can chose to set a password for the new user, or let them set it "
 "themselves on their first login. You can press on the <gui "
@@ -9224,12 +8831,12 @@ msgid ""
 msgstr "你可以为新用户设定一个密码或者让他们在自己首次登录时设定。您可以按下<gui style=\"button\"><_:media-1/></gui>图标自动生成随机密码。"
 
 #. (itstool) path: item/p
-#: C/user-add.page:117
+#: C/user-add.page:119
 msgid "Click <gui>Add</gui>."
 msgstr "点击<gui>添加</gui>。"
 
 #. (itstool) path: page/p
-#: C/user-add.page:121
+#: C/user-add.page:123
 msgid ""
 "If you want to change the password after creating the account, select the "
 "account, <gui style=\"button\">Unlock</gui> the panel and press on the "
@@ -9237,7 +8844,7 @@ msgid ""
 msgstr "创建账户后，如果您想要更改密码，请选择账户， <gui style=\"button\">解锁</gui>界面后进入当前密码状态。"
 
 #. (itstool) path: note/p
-#: C/user-add.page:126
+#: C/user-add.page:128
 msgid ""
 "In the <gui>Users</gui> panel, you can click the image next to the user's "
 "name to the right to set an image for the account. This image will be shown "
@@ -9246,7 +8853,7 @@ msgid ""
 msgstr "在<gui>用户</gui>面板，你可以点击用户名旁边的图像为该账户设置头像。该头像会在登录窗口显示。您可以使用Endless图像库的图像或者使用您自己拍摄的照片。"
 
 #. (itstool) path: note/p
-#: C/user-add.page:133
+#: C/user-add.page:135
 msgid ""
 "You may want to create a \"Guest\" account so that friends or others who "
 "visit you can use it and you can rest assured that they will not mess up any"
@@ -9283,24 +8890,24 @@ msgid ""
 msgstr "你需要 <link xref=\"user-admin-explain\">管理员权限</link> 来更改账户类型。"
 
 #. (itstool) path: item/p
-#: C/user-admin-change.page:52
+#: C/user-admin-change.page:50
 msgid "Select the user whose privileges you want to change."
 msgstr "选中您想更改权限的用户。"
 
 #. (itstool) path: item/p
-#: C/user-admin-change.page:55
+#: C/user-admin-change.page:53
 msgid ""
 "Click the label <gui>Standard</gui> next to <gui>Account Type</gui> and "
 "select <gui>Administrator</gui>."
 msgstr "点击<gui>帐号类型</gui>旁边的<gui>标准</gui>标签，选择<gui>管理员</gui>。"
 
 #. (itstool) path: item/p
-#: C/user-admin-change.page:59
+#: C/user-admin-change.page:57
 msgid "The user's privileges will be changed when they next log in."
 msgstr "下次登录时，用户权限将会更改。"
 
 #. (itstool) path: note/p
-#: C/user-admin-change.page:64
+#: C/user-admin-change.page:62
 msgid ""
 "The first user account on the system is usually the one that has "
 "administrator privileges. This is the user account that was created when you"
@@ -9308,7 +8915,7 @@ msgid ""
 msgstr "系统创建的第一个用户通常具有管理员权限，它是在您安装系统时创建的用户账号。"
 
 #. (itstool) path: note/p
-#: C/user-admin-change.page:67
+#: C/user-admin-change.page:65
 msgid ""
 "It is unwise to have too many users with <gui>Administrator</gui> privileges"
 " on one system."
@@ -9481,23 +9088,23 @@ msgid ""
 msgstr "您可以更改设置，以便在开机时自动登录您的账户。"
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:39
+#: C/user-autologin.page:37
 msgid ""
 "Select the user account that you want to log in to automatically at startup."
 msgstr "选择您想在开机时自动登录的账户。"
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:43
+#: C/user-autologin.page:41
 msgid "Press <gui style=\"button\">Unlock</gui> and enter your password."
 msgstr "点击<gui>解锁</gui>，输入您的密码。"
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:46
+#: C/user-autologin.page:44
 msgid "Toggle the <gui>Automatic Login</gui> switch to <gui>On</gui>."
 msgstr "切换<gui>自动登录</gui>为开启。"
 
 #. (itstool) path: page/p
-#: C/user-autologin.page:50
+#: C/user-autologin.page:48
 msgid ""
 "When you next start up your computer, you will be logged in automatically. "
 "If you have this option enabled, you will not need to type in your password "
@@ -9507,7 +9114,7 @@ msgid ""
 msgstr "下次开机时，将会自动登录。如果您开启这个功能，您将无需在登录时输入密码。这也意味着其他人可以在开机时访问您的账户、个人资料，包括您的文件和浏览记录。"
 
 #. (itstool) path: note/p
-#: C/user-autologin.page:57
+#: C/user-autologin.page:55
 msgid ""
 "If your account type is <em>Standard</em>, you cannot change this setting. "
 "Contact your system administrator who can change this setting for you."
@@ -9540,7 +9147,7 @@ msgid ""
 msgstr "你需要<link xref=\"user-admin-explain\">管理员权限</link>来编辑其他用户账户。"
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:75
+#: C/user-changepassword.page:73
 msgid ""
 "Click the label <gui>·····</gui> next to <gui>Password</gui>. If you are "
 "changing the password for a different user, you will first need to "
@@ -9548,40 +9155,40 @@ msgid ""
 msgstr "点击<gui>密码</gui>旁边的 <gui>·····</gui>标签。如果您要为另一个用户更改密码，您需要先 <gui>解锁</gui>界面。"
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:80
+#: C/user-changepassword.page:78
 msgid ""
 "Enter your current password, then a new password. Enter your new password "
 "again in the <gui>Confirm password</gui> field."
 msgstr "输入您当前密码，然后输入新密码，并且再在<gui>确认密码</gui>中再输一遍。"
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:82
+#: C/user-changepassword.page:80
 msgid ""
 "You can press on the <gui style=\"button\"><_:media-1/></gui> icon to "
 "automatically generate a random password."
 msgstr "您可以点击<gui style=\"button\"><_:media-1/></gui> 图标自动生成随机密码。"
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:88
+#: C/user-changepassword.page:86
 msgid "Click <gui>Change</gui>."
 msgstr "点击<gui>修改</gui>按钮。"
 
 #. (itstool) path: page/p
-#: C/user-changepassword.page:92
+#: C/user-changepassword.page:90
 msgid ""
 "Make sure you <link xref=\"user-goodpassword\">choose a good "
 "password</link>. This will help to keep your user account safe."
 msgstr "确保您已经<link xref=\"user-goodpassword\">选择了一个好的密码</link>，这将有助于您帐号的安全。"
 
 #. (itstool) path: note/p
-#: C/user-changepassword.page:96
+#: C/user-changepassword.page:94
 msgid ""
 "When you update your login password, your login keyring password will "
 "automatically be updated to be the same as your new login password."
 msgstr "当您更新你的登录密码时，您的登录密钥将会在下次登录时自动更新为您的新登录密码。"
 
 #. (itstool) path: page/p
-#: C/user-changepassword.page:100
+#: C/user-changepassword.page:98
 msgid ""
 "If you forget your password, any user with administrator privileges can "
 "change it for you."
@@ -9606,7 +9213,7 @@ msgid ""
 msgstr "当您登录或切换用户时，会看到一个用户列表和他们的登录头像，您也可以将自己的头像更改为图像库的图片或者您自己的图片，您还可以用摄像头拍一张照片作登录头像。"
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:52
+#: C/user-changepicture.page:50
 msgid ""
 "If you want to edit a user other than yourself, press <gui "
 "style=\"button\">Unlock</gui> in the top right corner and type in your "
@@ -9614,7 +9221,7 @@ msgid ""
 msgstr "如果您想要编辑其他用户信息，点击右上角的<gui style=\"button\">解锁</gui>，按提示输入密码。"
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:57
+#: C/user-changepicture.page:55
 msgid ""
 "Click the picture next to your name. A drop-down gallery will be shown with "
 "some stock login photos. If you like one of them, click it to use it for "
@@ -9622,14 +9229,14 @@ msgid ""
 msgstr "点击用户名旁边的图片，出来一个下拉菜单显示可供选择的登录图片，如果您喜欢其中的图片，点击它作为自己的头像。"
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:62
+#: C/user-changepicture.page:60
 msgid ""
 "If you'd rather use a picture you already have on your computer, click "
 "<gui>Browse for more pictures…</gui>."
 msgstr "如果您想用自己的图片，点<gui>浏览更多图片</gui>按钮。"
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:66
+#: C/user-changepicture.page:64
 msgid ""
 "If you have a webcam, you can take a new login photo right now by clicking "
 "<gui>Take a photo…</gui>. Take your picture, then move and resize the square"
@@ -9664,7 +9271,7 @@ msgid ""
 msgstr "您需要<link xref=\"user-admin-explain\">管理员权限</link> 来删除用户账户。"
 
 #. (itstool) path: item/p
-#: C/user-delete.page:66
+#: C/user-delete.page:64
 msgid ""
 "Select the user that you want to delete and press the <gui "
 "style=\"button\">-</gui> button, below the list of accounts on the left, to "
@@ -9672,7 +9279,7 @@ msgid ""
 msgstr "选中您想要删除的用户，点击左侧账户列表下面的<gui style=\"button\">-</gui>按钮来删除用户账户。"
 
 #. (itstool) path: item/p
-#: C/user-delete.page:72
+#: C/user-delete.page:70
 msgid ""
 "Each user has their own home folder for their files and settings. You can "
 "choose to keep or delete the user's home folder. Click <gui>Delete "

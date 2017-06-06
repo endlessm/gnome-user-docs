@@ -3,8 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2017-06-01 16:45-0700\n"
-"PO-Revision-Date: 2017-06-01 23:47+0000\n"
+"POT-Creation-Date: 2017-06-05 20:09-0700\n"
+"PO-Revision-Date: 2017-06-06 04:48+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Serbian (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/sr/)\n"
 "MIME-Version: 1.0\n"
@@ -139,53 +139,53 @@ msgstr "Укључите <em>одскочне тастере</em> да зане�
 #: C/a11y-font-size.page:37 C/a11y-icon.page:38 C/a11y-mag.page:39
 #: C/a11y-right-click.page:43 C/a11y-slowkeys.page:45
 #: C/a11y-stickykeys.page:49 C/a11y-visualalert.page:44 C/accounts-add.page:36
-#: C/bluetooth-connect-device.page:47 C/bluetooth-remove-connection.page:45
-#: C/bluetooth-send-file.page:52 C/bluetooth-turn-on-off.page:45
-#: C/bluetooth-turn-on-off.page:61 C/keyboard-cursor-blink.page:43
+#: C/bluetooth-connect-device.page:47 C/bluetooth-remove-connection.page:49
+#: C/bluetooth-send-file.page:56 C/bluetooth-turn-on-off.page:49
+#: C/bluetooth-turn-on-off.page:63 C/keyboard-cursor-blink.page:43
 #: C/keyboard-key-super.page:51 C/keyboard-layouts.page:51
 #: C/keyboard-osk.page:41 C/keyboard-repeat-keys.page:46
 #: C/look-background.page:61 C/mouse-doubleclick.page:44
 #: C/mouse-mousekeys.page:44 C/mouse-sensitivity.page:42
 #: C/mouse-when-right-click.page:43 C/net-manual.page:36
-#: C/printing-cancel-job.page:43 C/printing-cancel-job.page:86
-#: C/printing-setup-default-printer.page:42 C/printing-setup.page:80
-#: C/privacy-screen-lock.page:47 C/session-language.page:41
-#: C/sharing-bluetooth.page:90 C/shell-notifications.page:101
-#: C/shell-update-system.page:46 C/sound-alert.page:39 C/user-add.page:76
-#: C/user-admin-change.page:38 C/user-autologin.page:29
-#: C/user-changepassword.page:65 C/user-changepicture.page:42
-#: C/user-delete.page:49
+#: C/printing-cancel-job.page:43 C/printing-cancel-job.page:84
+#: C/printing-setup.page:80 C/privacy-screen-lock.page:47
+#: C/session-language.page:44 C/sharing-bluetooth.page:94
+#: C/shell-notifications.page:104 C/shell-update-system.page:46
+#: C/sound-alert.page:39 C/user-add.page:80 C/user-admin-change.page:38
+#: C/user-autologin.page:29 C/user-changepassword.page:65
+#: C/user-changepicture.page:42 C/user-delete.page:49
 msgid ""
-"Click on the <_:media-1/> on the bottom left-hand corner of your screen, "
-"then click on <gui>Settings</gui>."
+"Type \"Settings\" into the <gui>global search bar</gui> on your desktop. "
+"Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
+"to open."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/a11y-bouncekeys.page:49 C/a11y-contrast.page:49 C/a11y-dwellclick.page:54
-#: C/a11y-font-size.page:43 C/a11y-mag.page:45 C/a11y-right-click.page:49
-#: C/a11y-slowkeys.page:51 C/a11y-stickykeys.page:55
-#: C/a11y-visualalert.page:50 C/keyboard-osk.page:47 C/mouse-mousekeys.page:50
+#: C/a11y-bouncekeys.page:48 C/a11y-contrast.page:47 C/a11y-dwellclick.page:53
+#: C/a11y-font-size.page:42 C/a11y-mag.page:44 C/a11y-right-click.page:48
+#: C/a11y-slowkeys.page:50 C/a11y-stickykeys.page:54
+#: C/a11y-visualalert.page:49 C/keyboard-osk.page:46 C/mouse-mousekeys.page:49
 msgid "Click on <gui>Universal Access</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/a11y-bouncekeys.page:53 C/a11y-slowkeys.page:55 C/a11y-stickykeys.page:59
+#: C/a11y-bouncekeys.page:52 C/a11y-slowkeys.page:54 C/a11y-stickykeys.page:58
 msgid ""
 "Press <gui>Typing Assist (AccessX)</gui> in the <gui>Typing</gui> section."
 msgstr "Притисните <gui>Помоћ куцања (Икс приступ)</gui> у одељку <gui>Куцање</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-bouncekeys.page:57
+#: C/a11y-bouncekeys.page:56
 msgid "Switch <gui>Bounce Keys</gui> to <gui>On</gui>."
 msgstr "Пребаците <gui>Одскочни тастери</gui> на <gui>УКЉ.</gui>."
 
 #. (itstool) path: note/title
-#: C/a11y-bouncekeys.page:62
+#: C/a11y-bouncekeys.page:61
 msgid "Quickly turn bounce keys on and off"
 msgstr "Брзо укључите или искључите одскочне тастере"
 
 #. (itstool) path: note/p
-#: C/a11y-bouncekeys.page:63
+#: C/a11y-bouncekeys.page:62
 msgid ""
 "You can turn bounce keys on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar at the bottom of your "
@@ -195,7 +195,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/a11y-bouncekeys.page:70
+#: C/a11y-bouncekeys.page:69
 msgid ""
 "Use the <gui>Acceptance delay</gui> slider to change how long bounce keys "
 "waits before it registers another key press after you pressed the key for "
@@ -250,7 +250,7 @@ msgid "To adjust the contrast of your window:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/a11y-contrast.page:53
+#: C/a11y-contrast.page:51
 msgid "Switch <gui>High Contrast</gui> to <gui>ON</gui>."
 msgstr "Пребаците <gui>Велики контраст</gui> на <gui>УКЉ.</gui>."
 
@@ -284,19 +284,19 @@ msgid ""
 msgstr "Када је укључен <gui>Клик лебдења</gui>, можете да померате показивач миша изнад контрола, да отпустите миша, и онда да сачекате тренутак пре него што дугме буде било притиснуто за вас."
 
 #. (itstool) path: item/p
-#: C/a11y-dwellclick.page:58
+#: C/a11y-dwellclick.page:57
 msgid ""
 "Press <gui>Click Assistant</gui> in the <gui>Pointing and Clicking</gui> "
 "section."
 msgstr "Притисните <gui>Помоћ при клику</gui> у одељку <gui>Указивање и кликање</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-dwellclick.page:62
+#: C/a11y-dwellclick.page:61
 msgid "Switch <gui>Hover Click</gui> to <gui>On</gui>."
 msgstr "Пребаците <gui>Клик лебдења</gui> на <gui>УКЉ.</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:66
+#: C/a11y-dwellclick.page:65
 msgid ""
 "The <gui>Hover Click</gui> window will open, and will stay above all of your"
 " other windows. You can use this to choose what sort of click should happen "
@@ -306,7 +306,7 @@ msgid ""
 msgstr "Отвориће се прозорче <gui>Клик лебдења</gui>, и остаће поврх свих осталих прозора. Можете да га користите да изаберете која врста клика треба да буде обављена када лебдите. На пример, ако изаберете <gui>Секундарни клик</gui>, извршаваћете десни клик приликом лебдења. Након што извршите дупли клик, десни клик, или превучете, бићете враћени на кликање."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:72
+#: C/a11y-dwellclick.page:71
 msgid ""
 "When you hover your mouse pointer over a button and do not move it, it will "
 "gradually change color. When it has fully changed color, the button will be "
@@ -314,14 +314,14 @@ msgid ""
 msgstr "Када поставите показивач миша изнад дугмета и не померате га, постепено ће променити боју. Када у потпуности промени боју, дугме ће бити притиснуто."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:76
+#: C/a11y-dwellclick.page:75
 msgid ""
 "Adjust the <gui>Delay</gui> setting to change how long you have to hold the "
 "mouse pointer still before clicking."
 msgstr "Подесите <gui>Застој</gui> да измените колико дуго морате да држите мирним показивач миша пре клика."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:79
+#: C/a11y-dwellclick.page:78
 msgid ""
 "You do not need to hold the mouse perfectly still when hovering to click. "
 "The pointer is allowed to move a little bit and will still click after a "
@@ -329,7 +329,7 @@ msgid ""
 msgstr "Не морате да држите миша савршено мирним када лебдите зарад притиска. Показивачу је дозвољено да се мало помера и још увек ће кликнути након тренутка. Ако се помера превише, клик неће бити извршен."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:83
+#: C/a11y-dwellclick.page:82
 msgid ""
 "Adjust the <gui>Motion threshold</gui> setting to change how much the "
 "pointer can move and still be considered to be hovering."
@@ -353,14 +353,14 @@ msgid ""
 msgstr "Ако имате потешкоћа при читању текста на вашем екрану, можете да измените величину словног лика."
 
 #. (itstool) path: item/p
-#: C/a11y-font-size.page:47
+#: C/a11y-font-size.page:46
 msgid ""
 "Switch <gui>Large Text</gui> to <gui>On</gui> in the <gui>Seeing</gui> "
 "section."
 msgstr "Пребаците <gui>Велики текст</gui> на <gui>УКЉ.</gui> у одељку <gui>Видети</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-font-size.page:52
+#: C/a11y-font-size.page:51
 msgid ""
 "Alternatively, you can quickly change the text size by clicking the <link "
 "xref=\"a11y-icon\">accessibility icon</link> on the task bar and selecting "
@@ -368,7 +368,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/a11y-font-size.page:57
+#: C/a11y-font-size.page:56
 msgid ""
 "In many applications, you can increase the text size at any time by pressing"
 " <keyseq><key>Ctrl</key><key>+</key></keyseq>. To reduce the text size, "
@@ -408,12 +408,12 @@ msgid ""
 msgstr "Ако не видите изборник универзалног приступа, можете да га укључите са панела подешавања <gui>Универзалног приступа</gui>:"
 
 #. (itstool) path: item/p
-#: C/a11y-icon.page:44
+#: C/a11y-icon.page:42
 msgid "Click <gui>Universal Access</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/a11y-icon.page:47
+#: C/a11y-icon.page:45
 msgid "Switch <gui>Always Show Universal Access Menu</gui> to <gui>On</gui>."
 msgstr "Пребаците <gui>Увек прикажи изборник универзалног приступа</gui> на <gui>УКЉ.</gui>."
 
@@ -437,17 +437,17 @@ msgid ""
 msgstr "Повећавање екрана је другачије од самог увећавања <link xref=\"a11y-font-size\">величине текста</link>. Ова функција је као да имате увеличавајуће стакло, које вам омогућава да се крећете унаоколо и да приближавате делове екрана."
 
 #. (itstool) path: item/p
-#: C/a11y-mag.page:49
+#: C/a11y-mag.page:48
 msgid "Press on <gui>Zoom</gui> in the <gui>Seeing</gui> section."
 msgstr "Притисните <gui>Увеличање</gui> у одељку <gui>Видети</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-mag.page:52
+#: C/a11y-mag.page:51
 msgid "Switch <gui>Zoom</gui> to <gui>On</gui>."
 msgstr "Пребаците <gui>Увеличање</gui> на <gui>УКЉ.</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:62
+#: C/a11y-mag.page:61
 msgid ""
 "You can now move around the screen area. By moving your mouse to the edges "
 "of the screen, you will move the magnified area in different directions, "
@@ -455,7 +455,7 @@ msgid ""
 msgstr "Сада можете да се крећете унаоколо по области екрана. Померајући вашег миша до ивица екрана, помераћете увеличану област у разним правцима, што ће вам омогућити да видите област вашег избора."
 
 #. (itstool) path: note/p
-#: C/a11y-mag.page:67
+#: C/a11y-mag.page:66
 msgid ""
 "You can quickly turn zoom on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting "
@@ -463,7 +463,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:72
+#: C/a11y-mag.page:71
 msgid ""
 "You can change the magnification factor, the mouse tracking, and the "
 "position of the magnified view on the screen. Adjust these in the "
@@ -471,7 +471,7 @@ msgid ""
 msgstr "Можете да измените чинилац увеличања, праћење миша, и положај увеличаног прегледа на екрану. Дотерајте ово у језичку <gui>Лупа</gui> у прозору подешавања <gui>Увећања</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:76
+#: C/a11y-mag.page:75
 msgid ""
 "You can activate crosshairs to help you find the mouse or touchpad pointer. "
 "To switch them on and adjust their length, color, and thickness, go to "
@@ -480,7 +480,7 @@ msgid ""
 msgstr "Можете да активирате нишан да вам помогне да пронађете миша или показивач додирне табле. Да их укључите и да дотерате њихову дужину, боју и дебљину, идите на <gui>Нишани</gui> у језичку <gui>Нишана</gui> у прозору подешавања <gui>Увећања</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:81
+#: C/a11y-mag.page:80
 msgid ""
 "You can switch to inverse video or <gui>White on black</gui>, and adjust "
 "brightness, contrast and greyscale options for the magnifier. The "
@@ -517,26 +517,26 @@ msgid ""
 msgstr "Можете да извршите десни клик држећи притиснут леви тастер миша. Ово је корисно ако налазите да вам је тешко да померате ваше прсте засебно на једној руци, или ако ваш показивачки уређај има само једно дугме."
 
 #. (itstool) path: item/p
-#: C/a11y-right-click.page:53
+#: C/a11y-right-click.page:52
 msgid ""
 "Press <gui>Click Assist</gui> in the <gui>Pointing and Clicking</gui> "
 "section."
 msgstr "Притисните <gui>Помоћ при клику</gui> у одељку <gui>Указивање и кликање</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-right-click.page:58
+#: C/a11y-right-click.page:57
 msgid "Switch <gui>Simulated Secondary Click</gui> to <gui>On</gui>."
 msgstr "Пребаците <gui>Симулацију секундарног клика</gui> на <gui>УКЉ.</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:63
+#: C/a11y-right-click.page:62
 msgid ""
 "You can change how long you must hold down the left mouse button before it "
 "is registered as a right click by changing the <gui>Acceptance delay</gui>."
 msgstr "Можете да измените колико дуго морате да држите притиснут леви тастер миша пре него што буде забележен као десни клик тако што ћете изменити <gui>Кашњење прихватања</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:67
+#: C/a11y-right-click.page:66
 msgid ""
 "To right-click with simulated secondary click, hold down the left mouse "
 "button where you would normally right-click, then release. The pointer fills"
@@ -545,7 +545,7 @@ msgid ""
 msgstr "Да извршите десни клик са симулираним десним кликом, задржите притиснутим леви тастер миша када желите да извршите десни клик, затим отпустите. Показивач ће бити обојен плавом бојом како будете држали притиснутим леви тастер миша. Када буде у потпуности обојен у плаво, отпустите тастер миша да извршите десни клик."
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:72
+#: C/a11y-right-click.page:71
 msgid ""
 "Some special pointers, such as the resize pointers, do not change colors. "
 "You can still use simulated secondary click as normal, even if you don't get"
@@ -553,7 +553,7 @@ msgid ""
 msgstr "Неки посебни показивачи, као они за промену величине, не мењају боје. Још увек можете да користите симулирани секундарни клик као уобичајени, чак и ако не видите никакву промену на показивачу."
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:76
+#: C/a11y-right-click.page:75
 msgid ""
 "If you use <link xref=\"mouse-mousekeys\">Mouse Keys</link>, this also "
 "allows you to right-click by holding down the <key>5</key> key on your "
@@ -602,17 +602,17 @@ msgid ""
 msgstr "Укључите <em>споре тастере</em> ако желите да постоји кашњење између притиска тастера и појављивања слова на екрану. Ово значи да ћете морати да на тренутак да задржите притиснут сваки тастер који желите да откуцате пре него што се појави слово на екрану. Користите споре тастере ако нехотице притискате неколико тастера у исто време док куцате, или ако налазите да је тешко први пут да притиснете десни тастер на тастатури."
 
 #. (itstool) path: item/p
-#: C/a11y-slowkeys.page:59
+#: C/a11y-slowkeys.page:58
 msgid "Switch <gui>Slow Keys</gui> to <gui>On</gui>."
 msgstr "Пребаците <gui>Спори тастери</gui> на <gui>УКЉ.</gui>."
 
 #. (itstool) path: note/title
-#: C/a11y-slowkeys.page:64
+#: C/a11y-slowkeys.page:63
 msgid "Quickly turn slow keys on and off"
 msgstr "Брзо укључите или искључите споре тастере"
 
 #. (itstool) path: note/p
-#: C/a11y-slowkeys.page:65
+#: C/a11y-slowkeys.page:64
 msgid ""
 "Under <gui>Enable by Keyboard</gui>, select <gui>Turn on accessibility "
 "features from the keyboard</gui> to turn slow keys on and off from the "
@@ -621,7 +621,7 @@ msgid ""
 msgstr "Под <gui>Укључи тастатуром</gui>, изаберите <gui>Укључите функције приступачности са тастатуре</gui> да укључите или искључите споре тастере са тастатуре. Када је ова опција изабрана, можете да притиснете и да држите <key>Шифт</key> осам секунди да укључите или искључите споре тастере."
 
 #. (itstool) path: note/p
-#: C/a11y-slowkeys.page:70
+#: C/a11y-slowkeys.page:69
 msgid ""
 "You can also turn slow keys on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting <gui>Slow "
@@ -630,14 +630,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/a11y-slowkeys.page:77
+#: C/a11y-slowkeys.page:76
 msgid ""
 "Use the <gui>Acceptance delay</gui> slider to control how long you have to "
 "hold a key down for it to register."
 msgstr "Користите клизач <gui>Кашњење прихватања</gui> да одредите колико дуго морате да држите притиснут тастер да би био забележен."
 
 #. (itstool) path: page/p
-#: C/a11y-slowkeys.page:80
+#: C/a11y-slowkeys.page:79
 msgid ""
 "You can have your computer make a sound when you press a key, when a key "
 "press is accepted, or when a key press is rejected because you didn't hold "
@@ -675,17 +675,17 @@ msgid ""
 msgstr "Можда ћете желети да укључите лепљиве тастере ако налазите да је тешко да притиснете неколико тастера у исто време."
 
 #. (itstool) path: item/p
-#: C/a11y-stickykeys.page:63
+#: C/a11y-stickykeys.page:62
 msgid "Switch <gui>Sticky Keys</gui> to <gui>On</gui>."
 msgstr "Пребаците <gui>Лепљиве тастере</gui> на <gui>УКЉ.</gui>."
 
 #. (itstool) path: note/title
-#: C/a11y-stickykeys.page:68
+#: C/a11y-stickykeys.page:67
 msgid "Quickly turn sticky keys on and off"
 msgstr "Брзо укључите или искључите лепљиве тастере"
 
 #. (itstool) path: note/p
-#: C/a11y-stickykeys.page:69
+#: C/a11y-stickykeys.page:68
 msgid ""
 "Under <gui>Enable by Keyboard</gui>, select <gui>Turn on accessibility "
 "features from the keyboard</gui> to turn sticky keys on and off from the "
@@ -694,7 +694,7 @@ msgid ""
 msgstr "Под <gui>Укључи тастатуром</gui>, изаберите <gui>Укључите функције приступачности са тастатуре</gui> да укључите или искључите лепљиве тастере са тастатуре. Када је ова опција изабрана, можете да притиснете <key>Шифт</key> пет пута за редом да укључите или искључите лепљиве тастере."
 
 #. (itstool) path: note/p
-#: C/a11y-stickykeys.page:74
+#: C/a11y-stickykeys.page:73
 msgid ""
 "You can also turn sticky keys on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting <gui>Sticky "
@@ -703,14 +703,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:81
+#: C/a11y-stickykeys.page:80
 msgid ""
 "If you press two keys at once, you can have sticky keys turn itself off "
 "temporarily to let you enter a keyboard shortcut in the normal way."
 msgstr "Ако притиснете два тастера одједном, лепљиви тастери ће се сами привремено искључити да би вам омогућили да унесете пречицу тастатуре на уобичајени начин."
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:84
+#: C/a11y-stickykeys.page:83
 msgid ""
 "For example, if you have sticky keys turned on but press <key>Super</key> "
 "and <key>Tab</key> simultaneously, sticky keys would not wait for you to "
@@ -721,13 +721,13 @@ msgid ""
 msgstr "На пример, ако сте укључили лепљиве тастере али сте истовремено притиснули <key>Супер</key> и <key>Таб</key>, лепљиви тастери неће чекати да притиснете други тастер ако сте укључили ту опцију. Међутим, <em>сачекаће</em> ако сте притиснули само један тастер. Ово је корисно ако вам не представља проблем притискања неких пречица тастатуре истовремено (на пример, тастера који су близу један другом), али не и остале."
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:91
+#: C/a11y-stickykeys.page:90
 msgid ""
 "Select <gui>Disable if two keys are pressed together</gui> to enable this."
 msgstr "Изаберите <gui>Искључи ако су два тастера притиснута истовремено</gui> да укључите ово."
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:94
+#: C/a11y-stickykeys.page:93
 msgid ""
 "You can have the computer make a \"beep\" sound when you start typing a "
 "keyboard shortcut with sticky keys turned on. This is useful if you want to "
@@ -766,24 +766,24 @@ msgid ""
 msgstr "Ово такође може бити корисно ако се налазите у окружењу у коме ваш рачунар треба да буде нечујан, као на пример у библиотеци. Погледајте <link xref=\"sound-alert\"/> да сазнате како да утишате звук упозорења, и да укључите визуелна упозорења."
 
 #. (itstool) path: item/p
-#: C/a11y-visualalert.page:54
+#: C/a11y-visualalert.page:53
 msgid "Press <gui>Visual Alerts</gui> in the <gui>Hearing</gui> section."
 msgstr "Притисните <gui>Визуелна упозорења</gui> у одељку <gui>Слушање</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-visualalert.page:57
+#: C/a11y-visualalert.page:56
 msgid "Switch <gui>Visual Alerts</gui> to <gui>On</gui>."
 msgstr "Пребаците <gui>Визуелна упозорења</gui> на <gui>УКЉ.</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-visualalert.page:60
+#: C/a11y-visualalert.page:59
 msgid ""
 "Select whether you want the entire screen or just your current window title "
 "to flash."
 msgstr "Изаберите да ли желите да затрепери читав екран или само наслов вашег тренутног прозора."
 
 #. (itstool) path: note/p
-#: C/a11y-visualalert.page:66
+#: C/a11y-visualalert.page:65
 msgid ""
 "You can quickly turn visual alerts on and off by clicking the <link xref"
 "=\"a11y-icon\">accessibility icon</link> on the task bar and selecting "
@@ -848,23 +848,27 @@ msgstr "Џим Кембел"
 
 #. (itstool) path: credit/name
 #: C/accounts-add.page:21 C/backup-why.page:11
-#: C/files-microsoft-compatible.page:11 C/files-save.page:10
-#: C/files-zip.page:10 C/keyboard-es-accent.page:10 C/look-background.page:45
+#: C/bluetooth-remove-connection.page:29 C/bluetooth-send-file.page:28
+#: C/bluetooth-turn-on-off.page:28 C/clock-set.page:21
+#: C/clock-timezone.page:25 C/files-microsoft-compatible.page:11
+#: C/files-save.page:10 C/files-zip.page:10 C/look-background.page:45
 #: C/media-import-from-device.page:11 C/media-listen-music.page:11
 #: C/media-play-videos.page:11 C/mouse-when-right-click.page:11
 #: C/net-3g-dongles.page:10 C/net-create-email.page:10
 #: C/net-discover-websites.page:11 C/net-installing-other-browsers.page:10
-#: C/net-read-news.page:11 C/net-social-bar.page:11 C/net-troubleshoot.page:9
+#: C/net-troubleshoot.page:9 C/net-wireless-hidden.page:25
 #: C/printing-from-applications.page:10 C/printing-setup.page:33
 #: C/printing-supported.page:11 C/security-and-privacy.page:8
 #: C/security-data-collection.page:10 C/security-guard-privacy.page:10
-#: C/security-understand-password.page:11 C/sharing-media.page:16
+#: C/security-understand-password.page:11 C/session-language.page:31
+#: C/sharing-bluetooth.page:16 C/sharing-media.page:16
 #: C/shell-add-desktop-folder.page:11 C/shell-apps-close.page:11
 #: C/shell-apps-open.page:25 C/shell-delete-app-desktop.page:11
-#: C/shell-download-media.page:10 C/shell-install-ext-apps.page:10
+#: C/shell-exit.page:30 C/shell-install-ext-apps.page:10
+#: C/shell-introduction.page:26 C/shell-notifications.page:26
 #: C/shell-organize-apps.page:10 C/shell-update-app.page:11
 #: C/shell-update-system.page:11 C/shell-windows-hide.page:11
-#: C/sound-troubleshoot.page:10
+#: C/user-add.page:30
 msgid "Nuritzi Sanchez"
 msgstr ""
 
@@ -888,29 +892,29 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:42
+#: C/accounts-add.page:40
 msgid "Click on <gui>Online Accounts</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:46
+#: C/accounts-add.page:44
 msgid "Click the <gui>Add an online account</gui> button."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:50
+#: C/accounts-add.page:48
 msgid "Select the type of account you want to add first."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:51
+#: C/accounts-add.page:49
 msgid ""
 "If you want to add more than one account type, you can do so at a later "
 "time."
 msgstr "Ако желите да додате више од једне врсте налога, можете то да урадите касније."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:56
+#: C/accounts-add.page:54
 msgid ""
 "A small window will open where you can enter your online account "
 "credentials. For example, if you are setting up a Google account, enter your"
@@ -918,14 +922,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:61
+#: C/accounts-add.page:59
 msgid ""
 "If you have entered your credentials correctly, you will be prompted to "
 "allow Endless access to your online account. Authorize access to continue."
 msgstr "Ако сте исправно унели ваше податке, биће вам затражено да дозволите Гномов приступ вашем налогу на мрежи. Овластите приступ да наставите."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:66
+#: C/accounts-add.page:64
 msgid ""
 "Select the applications that you want linked to your online account. For "
 "example, if you want to use an online account for email, but do not want to "
@@ -934,14 +938,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/accounts-add.page:74
+#: C/accounts-add.page:72
 msgid ""
 "After you have added the accounts, each application that you have selected "
 "will automatically use those credentials when you start them."
 msgstr "Након што сте додали налоге, сви програми које сте изабрали самостално ће употребити ове податке када их будете покренули."
 
 #. (itstool) path: note/p
-#: C/accounts-add.page:78
+#: C/accounts-add.page:76
 msgid ""
 "For security reasons, Endless will not store your password on your computer."
 " Instead, it stores a token that is provided by the online service."
@@ -1354,28 +1358,28 @@ msgid ""
 msgstr "Пре него што ћете моћи да користите Блутут уређај као што је миш или слушалице са микрофоном, као прво морате да повежете ваш рачунар на уређај. Ово се такође назива упаривањем Блутут уређаја."
 
 #. (itstool) path: note/p
-#: C/bluetooth-connect-device.page:41 C/bluetooth-send-file.page:46
+#: C/bluetooth-connect-device.page:41 C/bluetooth-send-file.page:50
 msgid ""
 "Before you begin, make sure Bluetooth is enabled on your computer. See <link"
 " xref=\"bluetooth-turn-on-off\"/>."
 msgstr "Пре него што почнете, уверите се да је укључен Блутут на вашем рачунару. Погледајте <link xref=\"bluetooth-turn-on-off\"/>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:53 C/bluetooth-remove-connection.page:51
-#: C/bluetooth-send-file.page:58 C/bluetooth-turn-on-off.page:51
+#: C/bluetooth-connect-device.page:51 C/bluetooth-remove-connection.page:53
+#: C/bluetooth-send-file.page:60 C/bluetooth-turn-on-off.page:53
 #: C/bluetooth-turn-on-off.page:67
 msgid "Click <gui>Bluetooth</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:56
+#: C/bluetooth-connect-device.page:54
 msgid ""
 "Make the other Bluetooth device discoverable or visible and place it within "
 "10 meters (about 33 feet) of your computer."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:60
+#: C/bluetooth-connect-device.page:58
 msgid ""
 "Click <key>+</key> below the <gui>Devices</gui> list. The <gui>Bluetooth New"
 " Device Setup</gui> panel will open and your computer will begin searching "
@@ -1383,7 +1387,7 @@ msgid ""
 msgstr "Притисните <key>+</key> испод списка <gui>Уређаји</gui>. Отвориће се панел <gui>Подешавање новог блутут уређаја</gui> и ваш рачунар ће почети да тражи уређаје."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:65
+#: C/bluetooth-connect-device.page:63
 msgid ""
 "Select a device in the <gui>Device</gui> list. If there are too many devices"
 " listed, use the <gui>Device type</gui> drop-down to display only a single "
@@ -1391,14 +1395,14 @@ msgid ""
 msgstr "Изаберите уређај са списка <gui>Уређаји</gui>. Ако има превише уређаја на списку, користите падајући списак <gui>Врста уређаја</gui> да прикажете само уређаје једне врсте на списку."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:70
+#: C/bluetooth-connect-device.page:68
 msgid ""
 "Click <gui>PIN options</gui> to set how a PIN will be delivered to the other"
 " device."
 msgstr "Кликните <gui>ПИН опције</gui> да подесите на који начин ће ПИН бити испоручен другим уређајима."
 
 #. (itstool) path: note/p
-#: C/bluetooth-connect-device.page:73
+#: C/bluetooth-connect-device.page:71
 msgid ""
 "The automatic PIN setting will use a six-digit numerical code. A device with"
 " no input keys or screen, such as a mouse or headset, may require a specific"
@@ -1407,21 +1411,21 @@ msgid ""
 msgstr "Самостално подешавање ПИН-а ће користити шестоцифрени бројни код. Уређај без улазних кључева или екрана, као што је миш или слушалице са микрофоном, могу да затраже посебан ПИН као 0000, или чак без ПИН-а. Ручно проверите ваше уређаје за властитим подешавањима."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:78
+#: C/bluetooth-connect-device.page:76
 msgid ""
 "Choose an appropriate PIN setting for your device, then click "
 "<gui>Close</gui>."
 msgstr "Изаберите одговарајуће подешавање ПИН-а за ваш уређај, затим кликните <gui>Затвори</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:82
+#: C/bluetooth-connect-device.page:80
 msgid ""
 "Click <gui>Continue</gui> to proceed. If you did not choose a preset PIN, "
 "the PIN will be displayed on the screen."
 msgstr "Кликните <gui>Настави</gui> за следеће. Ако нисте изабрали ПИН претподешавања, ПИН ће бити приказан на екрану."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:86
+#: C/bluetooth-connect-device.page:84
 msgid ""
 "If required, confirm the PIN on your other device. The device should show "
 "you the PIN you see on your computer screen, or may prompt you to enter the "
@@ -1429,7 +1433,7 @@ msgid ""
 msgstr "Ако је затражено, потврдите ПИН на вашем другом уређају. Уређај треба да вам покаже ПИН који сте видели на екрану вашег рачунара, или може да вам затражи да унесете ПИН. Потврдите ПИН на уређају, затим кликните <gui>Поклопи</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:90
+#: C/bluetooth-connect-device.page:88
 msgid ""
 "You need to finish your entry within about 20 seconds on most devices, or "
 "the connection will not be completed. If that happens, return to the device "
@@ -1437,14 +1441,14 @@ msgid ""
 msgstr "Морате да завршите ваш унос за 20 секунде на већини уређаја, или веза неће бити успостављена. Ако до овога дође, вратите се на списак уређаја и почните опет."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:93
+#: C/bluetooth-connect-device.page:91
 msgid ""
 "A message appears when the connection successfully completes. Click "
 "<gui>Close</gui>."
 msgstr "Порука ће се појавити када веза буде успешно успостављена. Кликните <gui>Затвори</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:97
+#: C/bluetooth-connect-device.page:95
 msgid ""
 "The <gui>Setup Summary</gui> appears when the connection successfully "
 "completes. It may display additional options applicable to the type of "
@@ -1453,14 +1457,14 @@ msgid ""
 msgstr "<gui>Сажетак подешавања</gui> се појављује када се веза успешно оствари. Може да прикаже додатне могућности применљиве на врсту уређаја на који се повезујете. Изаберите жељене могућности и притисните <gui>Изађи</gui>."
 
 #. (itstool) path: page/p
-#: C/bluetooth-connect-device.page:110
+#: C/bluetooth-connect-device.page:108
 msgid ""
 "You can <link xref=\"bluetooth-remove-connection\">remove a Bluetooth "
 "connection</link> later if desired."
 msgstr "Касније, ако желите, можете да <link xref=\"bluetooth-remove-connection\">уклоните Блутут везу</link>."
 
 #. (itstool) path: note/p
-#: C/bluetooth-connect-device.page:115
+#: C/bluetooth-connect-device.page:113
 msgid ""
 "To control access to your shared files, refer to the <gui>Bluetooth "
 "Sharing</gui> settings. See <link xref=\"sharing-bluetooth\"/>."
@@ -1560,12 +1564,12 @@ msgid "2013"
 msgstr "2013"
 
 #. (itstool) path: page/title
-#: C/bluetooth-remove-connection.page:31
+#: C/bluetooth-remove-connection.page:35
 msgid "Remove a connection between Bluetooth devices"
 msgstr "Уклоните везу између Блутут уређаја"
 
 #. (itstool) path: page/p
-#: C/bluetooth-remove-connection.page:33
+#: C/bluetooth-remove-connection.page:37
 msgid ""
 "If you don't want to be connected to a Bluetooth device anymore, you can "
 "remove the connection. This is useful if you no longer want to use a device "
@@ -1574,19 +1578,19 @@ msgid ""
 msgstr "Ако више не желите да будете повезани на Блутут уређај, можете да уклоните везу. Ово је корисно ако више не желите да користите уређај као што је миш или слушалице са микрофоном, или ако више не желите да пребацујете датотеке на или са уређаја."
 
 #. (itstool) path: item/p
-#: C/bluetooth-remove-connection.page:54
+#: C/bluetooth-remove-connection.page:56
 msgid ""
 "Select the device you want to disconnect in the left pane, then click the "
 "<key>-</key> icon below the list."
 msgstr "У левој површи изаберите уређај са којим желите да прекинете везу, затим кликните на иконицу <key>-</key> (минус) испод списка."
 
 #. (itstool) path: item/p
-#: C/bluetooth-remove-connection.page:58
+#: C/bluetooth-remove-connection.page:60
 msgid "Click <gui>Remove</gui> in the confirmation window."
 msgstr "Кликните <gui>Уклони</gui> у прозорчету за потврду."
 
 #. (itstool) path: page/p
-#: C/bluetooth-remove-connection.page:62
+#: C/bluetooth-remove-connection.page:64
 msgid ""
 "You can <link xref=\"bluetooth-connect-device\">reconnect a Bluetooth "
 "device</link> later if desired."
@@ -1598,12 +1602,12 @@ msgid "Share files to Bluetooth devices such as your phone."
 msgstr "Делите датотеке Блутут уређајима као што је ваш телефон."
 
 #. (itstool) path: page/title
-#: C/bluetooth-send-file.page:31
+#: C/bluetooth-send-file.page:35
 msgid "Send files to a Bluetooth device"
 msgstr "Пошаљите датотеке Блутут уређају"
 
 #. (itstool) path: page/p
-#: C/bluetooth-send-file.page:33
+#: C/bluetooth-send-file.page:37
 msgid ""
 "You can send files from your computer to other Bluetooth compatible devices,"
 " like some mobile phones, some speakers, or other computers. You can send "
@@ -1614,33 +1618,33 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:61
+#: C/bluetooth-send-file.page:63
 msgid ""
 "In the <gui>Devices</gui> list, select the device to which to send the files"
 " to and click <gui>Send Files...</gui>."
 msgstr "Са списка <gui>Уређаји</gui>, изаберите уређај коме желите да пошаљете датотеке и кликните <gui>Пошаљи датотеке...</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:63
+#: C/bluetooth-send-file.page:65
 msgid ""
 "If the desired device is not shown in the list, you need to <link xref"
 "=\"bluetooth-connect-device\">connect</link> to it."
 msgstr "Ако жељени уређај није приказан на списку, треба да се <link xref=\"bluetooth-connect-device\">повежете</link> с њим."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:67
+#: C/bluetooth-send-file.page:69
 msgid "Choose the file you want to send and click <gui>Select</gui>."
 msgstr "Изаберите датотеку коју желите да пошаљете и кликните <gui>Изабери</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:68
+#: C/bluetooth-send-file.page:70
 msgid ""
 "To send more than one file in a folder, hold down <key>Ctrl</key> as you "
 "select each file."
 msgstr "Да пошаљете више од једне датотеке у фасцикли, држите притиснутим <key>Ктрл</key> и бирајте датотеку једну по једну."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:72
+#: C/bluetooth-send-file.page:74
 msgid ""
 "The owner of the receiving device usually has to press a button to accept "
 "the file. Once the owner accepts or declines, the result of the file "
@@ -1653,29 +1657,29 @@ msgid "Enable or disable the Bluetooth device on your computer."
 msgstr "Укључите или искључите блутут уређај на вашем рачунару."
 
 #. (itstool) path: page/title
-#: C/bluetooth-turn-on-off.page:30
+#: C/bluetooth-turn-on-off.page:34
 msgid "Turn Bluetooth on or off"
 msgstr "Укључите или искључите блутут"
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:40
+#: C/bluetooth-turn-on-off.page:44
 msgid ""
 "You can turn <gui>Bluetooth</gui> on to use Bluetooth devices and send and "
 "receive files, but turn it off to conserve power."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:42
+#: C/bluetooth-turn-on-off.page:46
 msgid "To turn Bluetooth on:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/bluetooth-turn-on-off.page:54
+#: C/bluetooth-turn-on-off.page:56
 msgid "Set the switch in the titlebar to <gui>ON</gui>."
 msgstr "Пребаците прекидач на насловној траци на <gui>УКЉ.</gui>."
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:58
+#: C/bluetooth-turn-on-off.page:60
 msgid "To turn Bluetooth off:"
 msgstr "Да искључите блутут:"
 
@@ -1728,39 +1732,40 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/clock-set.page:23
+#: C/clock-set.page:27
 msgid ""
 "Click the clock on the task bar and go into the <gui>Date &amp; Time "
 "Settings</gui> to alter the date/time."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/clock-set.page:26
+#: C/clock-set.page:30
 msgid "Change the date and time"
 msgstr "Измените датум и време"
 
 #. (itstool) path: page/p
-#: C/clock-set.page:28
+#: C/clock-set.page:32
 msgid ""
 "If your date and time is in the wrong format, you can change the settings:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/clock-set.page:33
+#: C/clock-set.page:37 C/clock-timezone.page:38
 msgid ""
-"Click on the clock on the task bar at the bottom right of your screen and "
-"select <gui>Date &amp; Time Settings</gui>."
+"Type \"Date and Time\" into the <gui>global search bar</gui> on your "
+"desktop. Click on the resulting <app>Settings</app> icon, or press "
+"<key>Enter</key>, to open."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/clock-set.page:37 C/clock-timezone.page:38
+#: C/clock-set.page:41 C/clock-timezone.page:42
 msgid ""
 "If you have a standard account, you will need to click <gui>Unlock</gui> and"
 " type the <link xref=\"user-admin-explain\">administrator password</link>."
 msgstr "Ако имате стандардни налог, мораћете да кликнете на <gui>Откључај</gui> и да упишете <link xref=\"user-admin-explain\">администраторску лозинку</link>."
 
 #. (itstool) path: item/p
-#: C/clock-set.page:42
+#: C/clock-set.page:46
 msgid ""
 "If you have an internet connection, you can set your date, time and time "
 "zone to update automatically by switching <gui>Automatic Date &amp; "
@@ -1768,7 +1773,7 @@ msgid ""
 msgstr "Ако имате интернет везу, можете да подесите да се ваш датум, време и временска зона самостално ажурирају тако што ћете пребацити <gui>Самосталан датум и време</gui> и <gui>Самостална временска зона</gui> на <gui>УКЉ.</gui>."
 
 #. (itstool) path: item/p
-#: C/clock-set.page:45
+#: C/clock-set.page:49
 msgid ""
 "If you do not have an internet connection, you can update these manually by "
 "switching them to <gui>Off</gui>, then clicking <gui>Date &amp; Time</gui> "
@@ -1776,32 +1781,25 @@ msgid ""
 msgstr "Ако немате интернет везу, можете ручно да их освежите тако што ћете их пребацити на <gui>ИСКЉ.</gui>, затим притиснути <gui>Датум и време</gui> и <gui>Временска зона</gui> да освежите."
 
 #. (itstool) path: item/p
-#: C/clock-set.page:50
+#: C/clock-set.page:54
 msgid ""
 "You can also change how the hour is displayed by selecting "
 "<gui>24-hour</gui> or <gui>AM/PM</gui> format."
 msgstr "Можете такође да измените на који начин ће часовник бити приказан тако што ћете изабрати <gui>24-часовни</gui> или <gui>12-часовни</gui> (ПрП/ПоП) запис."
 
 #. (itstool) path: info/desc
-#: C/clock-timezone.page:27
+#: C/clock-timezone.page:31
 msgid ""
 "Update your time zone to your current location so that your time is correct."
 msgstr "Ажурирајте вашу временску зону на ваше тренутно место тако да вам време буде тачно."
 
 #. (itstool) path: page/title
-#: C/clock-timezone.page:30
+#: C/clock-timezone.page:34
 msgid "Change your timezone"
 msgstr "Измените временску зону"
 
 #. (itstool) path: item/p
-#: C/clock-timezone.page:34
-msgid ""
-"Click on the clock on the task bar on the bottom right side of your screen "
-"and select <gui>Date &amp; Time Settings</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/clock-timezone.page:43
+#: C/clock-timezone.page:47
 msgid ""
 "If you have <gui>Automatic Time Zone</gui> set to <gui>On</gui>, your time "
 "zone should update automatically if you have an internet connection. To "
@@ -1809,14 +1807,14 @@ msgid ""
 msgstr "Ако сте <gui>Самосталну временску зону</gui> подесили на <gui>УКЉ.</gui>, ваша временска зона би требала самостално да се освежи ако сте повезани на интернет. Да ручно освежите вашу временску зону, поставите ово на <gui>ИСКЉ.</gui>."
 
 #. (itstool) path: item/p
-#: C/clock-timezone.page:49
+#: C/clock-timezone.page:53
 msgid ""
 "Click <gui>Time Zone</gui>, then select your location on the map or search "
 "for your current city."
 msgstr "Кликните на <gui>Временску зону</gui>, затим изаберите ваше место на карти или потражите ваш тренутни град."
 
 #. (itstool) path: page/p
-#: C/clock-timezone.page:54
+#: C/clock-timezone.page:58
 msgid ""
 "The time will be updated automatically when you select a different location."
 " You may also wish to <link xref=\"clock-set\">set the clock "
@@ -2169,12 +2167,11 @@ msgstr ""
 
 #. (itstool) path: credit/name
 #: C/files-microsoft-compatible.page:15 C/files-save.page:14
-#: C/files-zip.page:14 C/keyboard-es-accent.page:14
-#: C/media-import-from-device.page:15 C/media-listen-music.page:15
-#: C/media-play-videos.page:15 C/mouse-when-right-click.page:15
-#: C/net-3g-dongles.page:14 C/net-create-email.page:14
-#: C/net-discover-websites.page:15 C/net-installing-other-browsers.page:14
-#: C/net-read-news.page:15 C/net-social-bar.page:15 C/net-troubleshoot.page:13
+#: C/files-zip.page:14 C/media-import-from-device.page:15
+#: C/media-listen-music.page:15 C/media-play-videos.page:15
+#: C/mouse-when-right-click.page:15 C/net-3g-dongles.page:14
+#: C/net-create-email.page:14 C/net-discover-websites.page:15
+#: C/net-installing-other-browsers.page:14 C/net-troubleshoot.page:13
 #: C/printing-from-applications.page:14 C/printing-supported.page:15
 #: C/security-and-privacy.page:12 C/security-data-collection.page:14
 #: C/security-guard-privacy.page:14 C/security-understand-password.page:15
@@ -2182,18 +2179,16 @@ msgstr ""
 #: C/shell-delete-app-desktop.page:15 C/shell-install-ext-apps.page:14
 #: C/shell-organize-apps.page:14 C/shell-update-app.page:15
 #: C/shell-update-system.page:15 C/shell-windows-hide.page:15
-#: C/sound-troubleshoot.page:14
 msgid "Endless Mobile, Inc."
 msgstr ""
 
 #. (itstool) path: credit/years
 #: C/files-microsoft-compatible.page:16 C/files-save.page:15
-#: C/files-zip.page:15 C/keyboard-es-accent.page:15
-#: C/media-import-from-device.page:16 C/media-listen-music.page:16
-#: C/media-play-videos.page:16 C/mouse-when-right-click.page:16
-#: C/net-3g-dongles.page:15 C/net-create-email.page:15
-#: C/net-discover-websites.page:16 C/net-installing-other-browsers.page:15
-#: C/net-read-news.page:16 C/net-social-bar.page:16 C/net-troubleshoot.page:14
+#: C/files-zip.page:15 C/media-import-from-device.page:16
+#: C/media-listen-music.page:16 C/media-play-videos.page:16
+#: C/mouse-when-right-click.page:16 C/net-3g-dongles.page:15
+#: C/net-create-email.page:15 C/net-discover-websites.page:16
+#: C/net-installing-other-browsers.page:15 C/net-troubleshoot.page:14
 #: C/printing-from-applications.page:15 C/printing-supported.page:16
 #: C/security-and-privacy.page:13 C/security-data-collection.page:15
 #: C/security-guard-privacy.page:15 C/security-understand-password.page:16
@@ -3262,7 +3257,9 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/index.page:20
-msgid "<link href=\"endlessm-app://com.endlessm.Tutorial\">Tutorial</link>"
+msgid ""
+"<link href=\"endlessm-app://eos-link-feedback.desktop\">Give Us "
+"Feedback</link>"
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -3303,68 +3300,20 @@ msgid ""
 msgstr "Ако вам представља проблем да видите курсор тастатуре у пољу за текст, можете да учините да трепери да би вам било лакше да га пронађете."
 
 #. (itstool) path: item/p
-#: C/keyboard-cursor-blink.page:49 C/keyboard-repeat-keys.page:52
+#: C/keyboard-cursor-blink.page:48 C/keyboard-repeat-keys.page:51
 msgid "Click on <gui>Keyboard</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/keyboard-cursor-blink.page:52
+#: C/keyboard-cursor-blink.page:51
 msgid "Select <gui>Cursor blinks in text fields</gui>."
 msgstr "Изаберите <gui>Курсор трепће у пољима за унос текста</gui>."
 
 #. (itstool) path: item/p
-#: C/keyboard-cursor-blink.page:54
+#: C/keyboard-cursor-blink.page:53
 msgid ""
 "Use the <gui>Speed</gui> slider to adjust how quickly the cursor blinks."
 msgstr "Користите клизач <gui>Брзина</gui> да подесите колико брзо ће да трепери курсор."
-
-#. (itstool) path: info/desc
-#: C/keyboard-es-accent.page:18
-msgid "Learn how to type accents with your keyboard."
-msgstr ""
-
-#. (itstool) path: page/title
-#: C/keyboard-es-accent.page:21
-msgid "Type Spanish language accents in Endless"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:23
-msgid ""
-"It's easy to type accents on Endless - it is the same as most other "
-"platforms. On a Spanish Latin American keyboard, start by pressing the "
-"accute accent key and then the letter you'd like to accent:"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:27
-msgid "<keyseq><key>`</key><key>a</key></keyseq> = á"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:29
-msgid "<keyseq><key>`</key><key>e</key></keyseq> = é"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:31
-msgid "<keyseq><key>`</key><key>i</key></keyseq> = í"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:33
-msgid "<keyseq><key>`</key><key>o</key></keyseq> = ó"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:35
-msgid "<keyseq><key>`</key><key>u</key></keyseq> = ú"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:37
-msgid "<keyseq><key>\"</key><key>u</key></keyseq> = ü"
-msgstr ""
 
 #. (itstool) path: credit/name
 #: C/keyboard-key-menu.page:12
@@ -3461,24 +3410,24 @@ msgid "To change which keys are used to display your open windows overview:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:57
+#: C/keyboard-key-super.page:55
 msgid "Click <gui>Keyboard</gui>."
 msgstr "Кликните <gui>Тастатура</gui>."
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:60
+#: C/keyboard-key-super.page:58
 msgid "Click the <gui style=\"tab\">Shortcuts</gui> tab."
 msgstr "Кликните на језичак <gui style=\"tab\">Пречице</gui>."
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:63
+#: C/keyboard-key-super.page:61
 msgid ""
 "Select <gui>System</gui> on the left side of the window, and <gui>Show the "
 "activities overview</gui> on the right."
 msgstr "На левој страни прозора изаберите <gui>Систем</gui>, а на десној <gui>Приказ прегледа активности</gui>."
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:67
+#: C/keyboard-key-super.page:65
 msgid "Hold down the desired key combination."
 msgstr "Притисните жељену комбинацију тастера."
 
@@ -3509,36 +3458,36 @@ msgid ""
 msgstr "Постоје на стотине различитих распореда тастатура за различите језике. Чак и за један језик, често имамо неколико распореда тастатуре, као што је распоред Дворак за енглески. Можете да учините да се ваша тастатура понаша као тастатура са другачијим распоредом, без обзира на слова и симболе који су одштампани на тастерима. Ово је корисно ако се често пребацујете са једног језика на други."
 
 #. (itstool) path: item/p
-#: C/keyboard-layouts.page:57 C/session-language.page:47
+#: C/keyboard-layouts.page:55 C/session-language.page:48
 msgid "Click on <gui>Region &amp; Language</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/keyboard-layouts.page:61
+#: C/keyboard-layouts.page:59
 msgid ""
 "Click the <key>+</key> button, select the language which is associated with "
 "the layout, then select a layout and press<gui>Add</gui>."
 msgstr "Кликните на дугме <key>+</key>, изаберите језик који је придружен распореду, затим изаберите распоред и притисните <gui>Додај</gui>."
 
 #. (itstool) path: media/span
-#: C/keyboard-layouts.page:70 C/keyboard-layouts.page:76
+#: C/keyboard-layouts.page:68 C/keyboard-layouts.page:74
 msgid "preview"
 msgstr "преглед"
 
 #. (itstool) path: note/p
-#: C/keyboard-layouts.page:68
+#: C/keyboard-layouts.page:66
 msgid ""
 "You can preview an image of any layout by selecting it in the list of "
 "<gui>Input Sources</gui> and clicking <gui><_:media-1/></gui>"
 msgstr "Можете да прикажете слику неког распореда тако што ћете га изабрати на списку <gui>Извори улаза</gui> и кликнути на <gui><_:media-1/></gui>"
 
 #. (itstool) path: media/span
-#: C/keyboard-layouts.page:79
+#: C/keyboard-layouts.page:77
 msgid "preferences"
 msgstr "поставке"
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:73
+#: C/keyboard-layouts.page:71
 msgid ""
 "Certain languages offer some extra configuration options. You can identify "
 "those languages because they have a <gui><_:media-1/></gui> icon next to "
@@ -3549,7 +3498,7 @@ msgid ""
 msgstr "Неки језици нуде неке посебне могућности подешавања. Можете да препознате те језике зато што имају нацртану иконицу <gui><_:media-1/></gui> поред њих. Ако желите да приступите тим посебним параметрима, изаберите језик са списка <gui>Извора улаза</gui> а дугме нових <gui style=\"button\"><_:media-2/></gui> ће вам дати приступ посебним подешавањима."
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:82
+#: C/keyboard-layouts.page:80
 msgid ""
 "When you use multiple layouts, you can choose to have all windows use the "
 "same layout or to set a different layout for each window. Using a different "
@@ -3561,7 +3510,7 @@ msgid ""
 msgstr "Када користите више распореда, можете да изаберете да сви прозори користе исти распоред или да подесите различит распоред за сваки прозор. Коришћење различитог распореда за сваки прозор је корисно, на пример, ако пишете неки чланак на другом језику у прозору обрађивача текста. Ваш избор тастатуре ће бити упамћен за сваки прозор понаособ када се будете пребацивали између њих. Притисните дугме <gui style=\"button\">Опције</gui> да изаберете како желите да управљате са више распореда."
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:90
+#: C/keyboard-layouts.page:88
 msgid ""
 "The task bar will display a short identifier for the current layout, such as"
 " <gui>en</gui> for the standard English layout. Click the layout indicator "
@@ -3572,7 +3521,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:97
+#: C/keyboard-layouts.page:95
 msgid ""
 "The fastest way to change to another layout is by using the <gui>Input "
 "Source</gui> <gui>Keyboard Shortcuts</gui>. These shortcuts open the "
@@ -3589,7 +3538,7 @@ msgstr "Најбржи начин да промените распоред је 
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/keyboard-layouts.page:106
+#: C/keyboard-layouts.page:104
 msgctxt "_"
 msgid ""
 "external ref='figures/input-methods-switcher.png' "
@@ -3965,19 +3914,19 @@ msgid ""
 msgstr "Ако немате тастатуру прикачену на ваш рачунар или не желите да је користите, можете да укључите <em>тастатуру на екрану</em> за уношење текста."
 
 #. (itstool) path: item/p
-#: C/keyboard-osk.page:51
+#: C/keyboard-osk.page:50
 msgid "Switch on <gui>Screen Keyboard</gui> in the <gui>Typing</gui> section."
 msgstr "Укључите <gui>Тастатура на екрану</gui> у одељку <gui>Куцање</gui>."
 
 #. (itstool) path: page/p
-#: C/keyboard-osk.page:57
+#: C/keyboard-osk.page:56
 msgid ""
 "When you next have the opportunity to type, the on-screen keyboard will open"
 " at the bottom of the screen."
 msgstr "Када будете имали прилику да куцате, на дну екрана ће се појавити тастатура на екрану."
 
 #. (itstool) path: page/p
-#: C/keyboard-osk.page:60
+#: C/keyboard-osk.page:59
 msgid ""
 "Press the <gui style=\"bottom\">123</gui> button to enter numbers and "
 "symbols. More symbols are available if you then press the <gui>{#*</gui> "
@@ -3985,12 +3934,12 @@ msgid ""
 msgstr "Притисните дугме <gui style=\"bottom\">123</gui> да упишете бројеве и симболе. Више симбола је доступно ако након тога притиснете дугме <gui>{#*</gui>. Да се вратите на словну тастатуру, притисните дугме <gui>Abc</gui>."
 
 #. (itstool) path: media/span
-#: C/keyboard-osk.page:66
+#: C/keyboard-osk.page:65
 msgid "keyboard"
 msgstr "тастатура"
 
 #. (itstool) path: page/p
-#: C/keyboard-osk.page:65
+#: C/keyboard-osk.page:64
 msgid ""
 "You can press the <gui style=\"button\"><_:media-1/></gui> icon to hide the "
 "keyboard temporarily. The keyboard will show again automatically when you "
@@ -4022,14 +3971,14 @@ msgid ""
 msgstr "По основи, када држите притиснут тастер на тастатури, слово или симбол ће бити понављано све док не отпустите тастер. Ако имате потешкоћа да довољно брзо повучете ваш прст назад, можете да искључите ову функцију, или да измените након колико времена ће се поновити притисак на тастер."
 
 #. (itstool) path: item/p
-#: C/keyboard-repeat-keys.page:56
+#: C/keyboard-repeat-keys.page:55
 msgid ""
 "Turn off <gui>Key presses repeat when key is held down</gui> to disable "
 "repeated keys entirely."
 msgstr "Искључите <gui>Притисци тастера се понављају када је тастер притиснут</gui> да у потпуности искључите понављања тастера."
 
 #. (itstool) path: item/p
-#: C/keyboard-repeat-keys.page:58
+#: C/keyboard-repeat-keys.page:57
 msgid ""
 "Alternatively, adjust the <gui>Delay</gui> slider to control how long you "
 "have to hold a key down to begin repeating it, and adjust the "
@@ -4077,41 +4026,41 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/look-background.page:67
+#: C/look-background.page:65
 msgid "Click on the <gui>Background</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/look-background.page:70
+#: C/look-background.page:68
 msgid "Click on the <gui>Background</gui> button with the picture in it."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/look-background.page:74
+#: C/look-background.page:72
 msgid "There are three choices displayed on top:"
 msgstr "Постоје приказана три избора на врху:"
 
 #. (itstool) path: item/p
-#: C/look-background.page:77
+#: C/look-background.page:75
 msgid ""
 "Select <gui>Wallpapers</gui> to use one of the beautiful background images "
 "that come with Endless."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/look-background.page:81
+#: C/look-background.page:79
 msgid ""
 "Select <gui>Pictures</gui> to use one of your own photos from your "
 "<file>Pictures</file> folder."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/look-background.page:85
+#: C/look-background.page:83
 msgid "Select <gui>Colors</gui> to just use a color."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/look-background.page:91
+#: C/look-background.page:89
 msgid "The settings are applied immediately."
 msgstr "Подешавања се примењују истог тренутка."
 
@@ -4387,7 +4336,7 @@ msgid ""
 msgstr "Двоклик се одиграва само када тастер миша притиснете довољно брзо по други пут. Ако до другог притиска дође после дужег времена након првог, добићете само два одвојена клика, а не двоклик. Ако имате потешкоћа да довољно брзо притиснете тастер миша, требали бисте да повећате временски интервал."
 
 #. (itstool) path: item/p
-#: C/mouse-doubleclick.page:50 C/mouse-sensitivity.page:48
+#: C/mouse-doubleclick.page:49 C/mouse-sensitivity.page:46
 msgid "Click on <gui>Mouse &amp; Touchpad</gui>."
 msgstr ""
 
@@ -4399,7 +4348,7 @@ msgid ""
 msgstr "Под <gui>Опште</gui>, дотерајте клизач <gui>Двоклика</gui> на вредност која вам највише одговара."
 
 #. (itstool) path: item/p
-#: C/mouse-doubleclick.page:55
+#: C/mouse-doubleclick.page:57
 msgid ""
 "Click the <gui>Test Your Settings</gui> button to test. A single click in "
 "the window will highlight the outer circle. A double-click will highlight "
@@ -4407,7 +4356,7 @@ msgid ""
 msgstr "Кликните на дугме <gui>Испробајте подешавања</gui>. Један клик у прозору ће означити спољни круг. Двоструки клик ће означити унутрашњи круг."
 
 #. (itstool) path: page/p
-#: C/mouse-doubleclick.page:60
+#: C/mouse-doubleclick.page:63
 msgid ""
 "If your mouse double-clicks when you want it to single-click even though you"
 " have increased the double-click timeout, your mouse may be faulty. Try "
@@ -4417,7 +4366,7 @@ msgid ""
 msgstr "Ако ваш миш извршава двоклик када желите само један клик чак и када сте повећали временски интервал дуплог клика, може бити да је ваш миш неисправан. Покушајте да прикључите неки други миш на ваш рачунар и видите да ли ће радити исправно. Другачије, прикључите ваш миш на неки други рачунар и видите да ли још увек има исти проблем."
 
 #. (itstool) path: note/p
-#: C/mouse-doubleclick.page:67
+#: C/mouse-doubleclick.page:70
 msgid ""
 "This setting will affect both your mouse and touchpad, as well as any other "
 "pointing device."
@@ -4442,21 +4391,21 @@ msgid ""
 msgstr "Ако имате потешкоћа приликом коришћења миша или неког другог указивачког уређаја, можете да управљате показивачем миша користећи бројни одељак на вашој тастатури. Ова функција се назива <em>тастери миша</em>."
 
 #. (itstool) path: item/p
-#: C/mouse-mousekeys.page:54
+#: C/mouse-mousekeys.page:53
 msgid ""
 "Use the up and down arrow keys to select <gui>Mouse Keys</gui> in the "
 "<gui>Pointing and Clicking</gui> section then press <key>Enter</key>."
 msgstr "Користите тастере стрелица на горе и на доле да изаберете <gui>Тастере миша</gui> у одељку <gui>Указивање и кликање</gui> и притисните <key>Унеси</key>."
 
 #. (itstool) path: item/p
-#: C/mouse-mousekeys.page:58
+#: C/mouse-mousekeys.page:57
 msgid ""
 "Make sure that <key>Num Lock</key> is turned off. You will now be able to "
 "move the mouse pointer using the keypad."
 msgstr "Уверите се да је искључено <key>Закључај број</key>. Сада ћете моћи да померате показивач миша користећи тастатуру."
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:63
+#: C/mouse-mousekeys.page:62
 msgid ""
 "The keypad is a set of numerical buttons on your keyboard, usually arranged "
 "into a square grid. If you have a keyboard without a keypad (such as a "
@@ -4467,7 +4416,7 @@ msgid ""
 msgstr "Падиљон тастатуре је скуп бројевних тастера на вашој тастатури, обично поређаних у квадратној мрежи. Ако имате тастатуру на којој не постоји падиљон (као што је тастатура преносних рачунара), мораћете да држите притиснутим функцијски тастер (<key>Fn</key>) и да користите одређене друге тастере на вашој тастатури као падиљон тастатуре. Ако ову могућност користите често на вашем преносном рачунару, можете да докупите спољни УСБ или блутут бројевни падиљон."
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:70
+#: C/mouse-mousekeys.page:69
 msgid ""
 "Each number on the keypad corresponds to a direction. For example, pressing "
 "<key>8</key> will move the pointer upwards and pressing <key>2</key> will "
@@ -4476,7 +4425,7 @@ msgid ""
 msgstr "Сваки број на падиљону одговара једном смеру. На пример, када притиснете <key>8</key> померићете га на горе а када притиснете <key>2</key> померићете га на доле. Притисните тастер <key>5</key> да извршите један клик мишем, или га брзо притисните два пута да извршите двоклик."
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:75
+#: C/mouse-mousekeys.page:74
 msgid ""
 "Most keyboards have a special key which allows you to right-click, sometimes"
 " called the <key xref=\"keyboard-key-menu\">Menu</key> key. Note, however, "
@@ -4486,7 +4435,7 @@ msgid ""
 msgstr "Већина тастатура има посебан тастер који вам омогућава да извршите десни клик, који се понекад назива тастер <key xref=\"keyboard-key-menu\">Изборник</key>. Знајте, међутим, да овај тастер одговара првом плану ваше тастатуре, а не показивача миша. Погледајте <link xref=\"a11y-right-click\"/> о томе како да извршите десни клик држећи притиснутом <key>5</key> или леви тастер миша."
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:81
+#: C/mouse-mousekeys.page:80
 msgid ""
 "If you want to use the keypad to type numbers while mouse keys is enabled, "
 "turn <key>Num Lock</key> on. The mouse cannot be controlled with the keypad "
@@ -4494,7 +4443,7 @@ msgid ""
 msgstr "Ако желите да користите падиљон тастатуре да куцате бројеве док су укључени тастери миша, укључите <key>Закључај број</key>. Не можете да управљате мишем користећи падиљон тастатуре када је укључено <key>Закључај број</key>."
 
 #. (itstool) path: note/p
-#: C/mouse-mousekeys.page:86
+#: C/mouse-mousekeys.page:85
 msgid ""
 "The normal number keys, in a line at the top of the keyboard, will not "
 "control the mouse pointer. Only the keypad number keys can be used."
@@ -4519,7 +4468,7 @@ msgid ""
 msgstr "Ако се показивач помера превише брзо или споро када померате миша или користите додирну таблу, можете да дотерате брзину за ове уређаје."
 
 #. (itstool) path: item/p
-#: C/mouse-sensitivity.page:52
+#: C/mouse-sensitivity.page:50
 msgid ""
 "Adjust the <gui>Pointer Speed</gui> slider until the pointer motion is "
 "comfortable for you. You will see one slider per each pointing device, such "
@@ -4527,7 +4476,7 @@ msgid ""
 msgstr "Дотерајте клизач <gui>Брзина показивача</gui> све док не будете били задовољни померањем показивача. Видећете један клизач за сваки показивачки уређај, као што је миш или додирна табла."
 
 #. (itstool) path: note/p
-#: C/mouse-sensitivity.page:77
+#: C/mouse-sensitivity.page:75
 msgid ""
 "The <gui>Touchpad</gui> section only appears if your system has a touchpad, "
 "while the <gui>Mouse</gui> section is only visible when a mouse is plugged "
@@ -4575,17 +4524,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/mouse-when-right-click.page:49
+#: C/mouse-when-right-click.page:48
 msgid "Click on the <gui>Universal Access</gui> panel."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/mouse-when-right-click.page:52
+#: C/mouse-when-right-click.page:51
 msgid "Scroll to the bottom and select <gui>Click Assist</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/mouse-when-right-click.page:55
+#: C/mouse-when-right-click.page:54
 msgid ""
 "Turn the <gui>Simulated secondary click</gui> option on. There you can also "
 "adjust the amount of time you'll need to hold down the key to activate the "
@@ -5206,23 +5155,10 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/net-installing-other-browsers.page:23
 msgid ""
-"Unfortunately, Endless does not currently support the installation of other "
-"browsers."
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/net-installing-other-browsers.page:26
-msgid ""
-"We plan on supporting the installation of other browsers at a future date, "
-"and will notify you when we add this feature. Feel free to give us your "
-"feedback and let us know what you need."
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/net-installing-other-browsers.page:30
-msgid ""
-"In the meantime, we hope you enjoy using the current Endless browser to "
-"explore new websites and stay updated on the world's news!"
+"Endless comes with a browser on the desktop, but if you would like to "
+"install other browsers, you can do so from the App Center. You can try "
+"searching for the browser of your preference by typing its name in the "
+"search bar, or by going to the App Center's <gui>Utilities</gui> section."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -5253,7 +5189,7 @@ msgid "To manually set your network settings:"
 msgstr "Да ручно подесите мрежна подешавања:"
 
 #. (itstool) path: item/p
-#: C/net-manual.page:42
+#: C/net-manual.page:41
 msgid "Click on <gui>Network</gui>."
 msgstr ""
 
@@ -5263,7 +5199,7 @@ msgid "settings"
 msgstr "подешавања"
 
 #. (itstool) path: item/p
-#: C/net-manual.page:46
+#: C/net-manual.page:45
 msgid ""
 "In the left pane, select the network connection that you want to set up "
 "manually and click the <_:media-1/> button. For example, if you plug in to "
@@ -5286,21 +5222,21 @@ msgid ""
 msgstr "Кликните <gui>ИПв4</gui> и измените <gui>Адресе</gui> на <gui>Ручно</gui>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:61
+#: C/net-manual.page:60
 msgid ""
 "Type in the <gui>Address</gui> and <gui>Gateway</gui>, as well as the "
 "appropriate <gui>Netmask</gui>."
 msgstr "Укуцајте <gui>Адресу</gui> и <gui>Мрежни пролаз</gui>, као и одговарајућу <gui>Мрежну маску</gui>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:63
+#: C/net-manual.page:62
 msgid ""
 "These must be <em>IP addresses</em>; that is, they must be four numbers "
 "separated by periods (e.g. 123.45.6.78)."
 msgstr "То морају бити <em>ИП адресе</em>; тако је, морају бити у виду четири броја раздвојена тачкама (нпр. 123.45.6.78)."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:67
+#: C/net-manual.page:66
 msgid ""
 "In the <gui>DNS</gui> section, switch <gui>Automatic</gui> to "
 "<gui>OFF</gui>. Enter the IP address of a DNS server you want to use. Enter "
@@ -5308,7 +5244,7 @@ msgid ""
 msgstr "У одељку <gui>ДНС</gui>, пребаците <gui>Самостално</gui> на <gui>ИСКЉ.</gui>. Унесите ИП адресу ДНС сервера који желите да користите. Унесите додатне адресе ДНС сервера користећи дугме <key>+</key>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:72
+#: C/net-manual.page:71
 msgid ""
 "In the <gui>Routes</gui> section, switch <gui>Automatic</gui> to "
 "<gui>OFF</gui>. Enter the <gui>Address</gui>, <gui>Netmask</gui>, "
@@ -5317,60 +5253,12 @@ msgid ""
 msgstr "У одељку <gui>Руте</gui>, пребаците <gui>Самостално</gui> на <gui>ИСКЉ.</gui>. Унесите <gui>Адресу</gui>, <gui>Мрежну маску</gui>, <gui>Мрежни пролаз</gui> и <gui>Метрички</gui> за руту коју желите да користите. Унесите додатне руте користећи дугме <key>+</key>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:78
+#: C/net-manual.page:77
 msgid ""
 "Click <gui>Apply</gui>. If you are not connected to the network, click the "
 "system status area on the task bar and connect. Test the network settings by"
 " trying to visit a website or look at shared files on the network, for "
 "example."
-msgstr ""
-
-#. (itstool) path: info/desc
-#: C/net-read-news.page:19
-msgid "Keep up to date with the latest news."
-msgstr ""
-
-#. (itstool) path: page/title
-#: C/net-read-news.page:22
-msgid "Read the News"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/net-read-news.page:24
-msgid ""
-"We have added several different newspaper websites to your Browser so that "
-"you can read all the latest news! Explore current events, sports, local news"
-" and more just with a click of a button!"
-msgstr ""
-
-#. (itstool) path: steps/title
-#: C/net-read-news.page:29
-msgid "To read news online:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-read-news.page:31
-msgid ""
-"Click the Internet icon on your desktop or on the task bar to open the "
-"browser."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-read-news.page:36
-msgid "Click on Newspaper section on the left side menu."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-read-news.page:40
-msgid "Discover the internet!"
-msgstr ""
-
-#. (itstool) path: note/p
-#: C/net-read-news.page:45
-msgid ""
-"You'll need an internet connection in order to access the news websites. If "
-"you can't access the internet right now, don't worry, your computer comes "
-"packed with great offline content."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -5487,124 +5375,6 @@ msgid ""
 "long time, for example. Try closing all of the browser's windows and then "
 "opening the browser again to see if this makes a difference."
 msgstr "Понекад веб прегледник наиђе на проблем који га успори. До овога долази из многобројних разлога — посетили сте веб сајт за који се веб прегледник трудио да га учита, или вам је веб прегледник био отворен превише дуго, на пример. Покушајте да затворите све прозоре прегледника и да га након тога поново отворите да видите да ли има разлике."
-
-#. (itstool) path: info/desc
-#: C/net-social-bar.page:19
-msgid "Easily chat with your Facebook friends."
-msgstr ""
-
-#. (itstool) path: page/title
-#: C/net-social-bar.page:22
-msgid "Chat on Facebook from your desktop"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/net-social-bar.page:24
-msgid ""
-"Now you can stay connected with your Facebook friends more easily than ever!"
-" You will need an internet connection to use this feature."
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/net-social-bar.page:27
-msgid "First, you'll need to set up your Facebook account on Endless."
-msgstr ""
-
-#. (itstool) path: steps/title
-#: C/net-social-bar.page:30
-msgid "If you already have a Facebook account:"
-msgstr ""
-
-#. (itstool) path: p/media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-social-bar.page:33
-msgctxt "_"
-msgid ""
-"external ref='figures/eos-icon-socialbar.png' "
-"md5='311852df3d93299e9346bbe809bb81c6'"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:32
-msgid ""
-"Click on <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-"
-"socialbar.png\"> the Facebook icon</media> on the very bottom right-hand "
-"side of your screen."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:38
-msgid "Enter in your email address and password, then click <gui>Login</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:42
-msgid ""
-"You can now start using Facebook right from your desktop. You do not need to"
-" close it if you are working on something else! Just click outside of the "
-"Facebook screen or on the Facebook icon to get back to your other open "
-"windows."
-msgstr ""
-
-#. (itstool) path: steps/title
-#: C/net-social-bar.page:50
-msgid "If you do not have a Facebook account:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:52 C/net-social-bar.page:74
-msgid ""
-"Click on the Facebook icon that is on the very bottom right-hand side of "
-"your screen."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:56
-msgid "Click on <gui>Create New Account</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:59
-msgid ""
-"Follow the steps that Facebook takes you through to complete their set up "
-"process. You will need an email address in order to create a Facebook "
-"account."
-msgstr ""
-
-#. (itstool) path: note/p
-#: C/net-social-bar.page:66
-msgid ""
-"Remember to log out of Facebook if you share your computer with other users,"
-" otherwise they will be able to see and use your Facebook account!"
-msgstr ""
-
-#. (itstool) path: steps/title
-#: C/net-social-bar.page:71
-msgid "Logging out of Facebook"
-msgstr ""
-
-#. (itstool) path: steps/p
-#: C/net-social-bar.page:72
-msgid "To log out of your Facebook account:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:78
-msgid ""
-"Click on the button with three white lines on the left-hand side of the "
-"Facebook window. This will show you the main menu, with your news feed, "
-"events, groups, and more."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:83
-msgid ""
-"Scroll all the way to the bottom of the menu and click on the <gui>Log "
-"Out</gui> button."
-msgstr ""
 
 #. (itstool) path: info/desc
 #: C/net-troubleshoot.page:17
@@ -6024,17 +5794,17 @@ msgid ""
 msgstr "Мрежа може бити скривена. Треба да се <link xref=\"net-wireless-hidden\">повежете на други начин</link> ако је то скривена мрежа."
 
 #. (itstool) path: info/desc
-#: C/net-wireless-hidden.page:25
+#: C/net-wireless-hidden.page:29
 msgid "Connect to a network that you might not be able to see."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/net-wireless-hidden.page:29
+#: C/net-wireless-hidden.page:33
 msgid "Connect to a hidden wireless network"
 msgstr "Повежите се на скривену бежичну мрежу"
 
 #. (itstool) path: page/p
-#: C/net-wireless-hidden.page:31
+#: C/net-wireless-hidden.page:35
 msgid ""
 "Hidden networks don't show up in the list of wireless networks. Having a "
 "hidden network makes it harder for other people to find it, and so more "
@@ -6043,36 +5813,37 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:37
+#: C/net-wireless-hidden.page:41
 msgid ""
-"Click the network icon on the task bar and select <gui>Network "
-"Settings.</gui>"
+"Type \"Network\" into the <gui>global search bar</gui> on your desktop. "
+"Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
+"to open."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:41
+#: C/net-wireless-hidden.page:46
 msgid "Click the <gui>Connect to Hidden Network</gui> button."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:44
+#: C/net-wireless-hidden.page:49
 msgid ""
 "In the window that appears, type the network name and choose the type of "
 "wireless security from the Wi-Fi security drop-down list."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:48
+#: C/net-wireless-hidden.page:53
 msgid "Enter the password or other security details."
 msgstr "Унесите лозинку или друге појединости безбедности."
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:51
+#: C/net-wireless-hidden.page:56
 msgid "Click Connect."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/net-wireless-hidden.page:55
+#: C/net-wireless-hidden.page:60
 msgid ""
 "You may have to check the settings of the wireless access point or router to"
 " see what the network name is. If you don't have the network name (SSID), "
@@ -6083,14 +5854,14 @@ msgid ""
 msgstr "Можда ћете морати да проверите подешавања бежичне приступне тачке или усмеривача да видите назив мреже. Уколико немате назив мреже (ССИД), можете да користите <em>БССИД</em> (Показатељ скупа основних услуга, МАК адреса приступне тачке), који изгледа отприлике овако <gui>02:00:01:02:03:04</gui> и обично се може наћи на доњој страни приступне тачке."
 
 #. (itstool) path: page/p
-#: C/net-wireless-hidden.page:61
+#: C/net-wireless-hidden.page:66
 msgid ""
 "You should also check the security settings for the wireless access point. "
 "Look for terms like WEP and WPA."
 msgstr "Такође би требало да проверите безбедносна подешавања бежичне приступне тачке. Потражите термине као што су ВЕП и ВПА."
 
 #. (itstool) path: note/p
-#: C/net-wireless-hidden.page:65
+#: C/net-wireless-hidden.page:70
 msgid ""
 "While hiding your network may help improve security by preventing people who"
 " don't know about it from connecting, the network will still remain "
@@ -6335,34 +6106,34 @@ msgid "How to cancel a print job:"
 msgstr "Како да откажете посао штампања:"
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:49 C/printing-cancel-job.page:92
-#: C/printing-setup-default-printer.page:48 C/printing-setup.page:86
+#: C/printing-cancel-job.page:47 C/printing-cancel-job.page:88
+#: C/printing-setup-default-printer.page:48 C/printing-setup.page:84
 msgid "Click <gui>Printers</gui>."
 msgstr "Кликните <gui>Штампачи</gui>."
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:52
+#: C/printing-cancel-job.page:50
 msgid ""
 "Click the <gui>Show Jobs</gui> button on the right-hand side of the "
 "<gui>Printers</gui> dialog."
 msgstr "Кликните на дугме <gui>Прикажи послове</gui> на десном крају прозорчета <gui>Штампачи</gui>."
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:56
+#: C/printing-cancel-job.page:54
 msgid ""
 "Cancel the print job by clicking the stop button on the play-pause-stop "
 "symbols."
 msgstr "Откажите посао штампања притиском на дугме за заустављање на симболима за пуштање-паузирање-заустављање."
 
 #. (itstool) path: section/p
-#: C/printing-cancel-job.page:61
+#: C/printing-cancel-job.page:59
 msgid ""
 "If this does not cancel the print job like you expected, try holding down "
 "the <gui>Cancel</gui> button on your printer."
 msgstr "Ако ово не откаже посао штампања као што сте очекивали, покушајте да држите притиснутим дугме <gui>Cancel</gui> (Откажи) на вашем штампачу."
 
 #. (itstool) path: section/p
-#: C/printing-cancel-job.page:64
+#: C/printing-cancel-job.page:62
 msgid ""
 "As a last resort, especially if you have a big print job with a lot of pages"
 " that won't cancel, remove the paper from the printer's paper input tray. "
@@ -6372,7 +6143,7 @@ msgid ""
 msgstr "Као последњи покушај, нарочито ако имате повећи посао штампања са много страница које не желите да откажете, уклоните папир из улазне фиоке штампача. Штампач ће закључити да нема више папира и зауставиће штампање. Можете затим поново да покушате да откажете посао штампања, или да угасите штампач и да га упалите поново."
 
 #. (itstool) path: note/p
-#: C/printing-cancel-job.page:71
+#: C/printing-cancel-job.page:69
 msgid ""
 "Be careful that you don't damage the printer when removing the paper, though"
 " - if you would have to pull hard on the paper to remove it, you should "
@@ -6380,19 +6151,19 @@ msgid ""
 msgstr "Будите пажљиви да не оштетите штампач када уклањате папир — ако будете морали снажно да повучете папир да бисте га уклонили, најбоље ће бити да га оставите тамо где је."
 
 #. (itstool) path: section/title
-#: C/printing-cancel-job.page:79
+#: C/printing-cancel-job.page:77
 msgid "Pause and release a print job"
 msgstr "Откажите и отпустите посао штампања"
 
 #. (itstool) path: section/p
-#: C/printing-cancel-job.page:81
+#: C/printing-cancel-job.page:79
 msgid ""
 "If you want to pause or release a print job, you can do so by going to the "
 "jobs dialog in the printer settings and click the appropriate button."
 msgstr "Ако желите да паузирате или да отпустите посао штампања, можете да урадите ово тако што ћете отићи на прозорче послова у подешавањима штампача и притиснути одговарајуће дугме."
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:95
+#: C/printing-cancel-job.page:91
 msgid ""
 "Click the <gui>Show Jobs</gui> button on the right-hand side of the "
 "<gui>Printers</gui> dialog and either pause or release the print job based "
@@ -6645,6 +6416,13 @@ msgid ""
 msgstr "Потребна су вам администраторска права на систему да подесите основни штампач."
 
 #. (itstool) path: item/p
+#: C/printing-setup-default-printer.page:42
+msgid ""
+"Click on the <_:media-1/> on the bottom left-hand corner of your screen, "
+"then click on <gui>Settings</gui>."
+msgstr ""
+
+#. (itstool) path: item/p
 #: C/printing-setup-default-printer.page:51
 msgid ""
 "Select your desired default printer from the list of available printers."
@@ -6749,19 +6527,19 @@ msgid "Set up your printer manually:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:90
+#: C/printing-setup.page:88
 msgid ""
 "Click the <key>Unlock</key> button in the top-right corner and enter your "
 "password."
 msgstr "Кликните на дугме <key>Откључај</key> у горњем десном углу и упишите вашу лозинку."
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:94
+#: C/printing-setup.page:92
 msgid "Click the <key>+</key> button."
 msgstr "Кликните на дугме <key>+</key>."
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:97
+#: C/printing-setup.page:95
 msgid "In the pop-up window, select your new printer. Click <gui>Add</gui>."
 msgstr "У прозорчету које ће се појавити, изаберите ваш нови штампач. Притисните <gui>Додај</gui>."
 
@@ -6889,36 +6667,36 @@ msgid "To set the length of time before your screen locks automatically:"
 msgstr "Да поставите време након кога ће се ваш екран сам закључати:"
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:53
+#: C/privacy-screen-lock.page:51
 msgid "Click <gui>Privacy</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:56
+#: C/privacy-screen-lock.page:54
 msgid "Select <gui>Screen Lock</gui>."
 msgstr "Изаберите <gui>Закључај екран</gui>."
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:59
+#: C/privacy-screen-lock.page:57
 msgid ""
 "Make sure <gui>Automatic Screen Lock</gui> is switched on, then select a "
 "length of time from the drop-down list."
 msgstr "Уверите се да је укључено <gui>Сам закључај екран</gui>, затим изаберите временски период из падајућег списка."
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:63
+#: C/privacy-screen-lock.page:61
 msgid ""
 "To allow notifications to be displayed on the lock screen, switch <gui>Show "
 "Notifications</gui> to <gui>ON</gui>."
 msgstr "Да омогућите приказивање обавештења на закључаном екрану, пребаците <gui>Прикажи обавештења</gui> на <gui>УКЉ.</gui>."
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:67
+#: C/privacy-screen-lock.page:65
 msgid "Click <gui>Close</gui>."
 msgstr "Кликните <gui>Затвори</gui>."
 
 #. (itstool) path: page/p
-#: C/privacy-screen-lock.page:71
+#: C/privacy-screen-lock.page:69
 msgid ""
 "When your screen is locked, and you want to unlock it, press <key>Esc</key>,"
 " or swipe up from the bottom of the screen with your mouse. Then enter your "
@@ -7205,8 +6983,7 @@ msgstr ""
 #: C/security-guard-privacy.page:49
 msgid ""
 "You can change the lock screen settings under the <gui>Privacy</gui> section"
-" in the <gui>Settings</gui> window that you can access from the User Menu on"
-" the very bottom left-hand side of your screen."
+" under <gui>Settings</gui>."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -7252,27 +7029,27 @@ msgid "Switch to a different language for user interface and help text."
 msgstr "Пребаците на други језик за корисничко сучеље и текст помоћи."
 
 #. (itstool) path: page/title
-#: C/session-language.page:34
+#: C/session-language.page:37
 msgid "Change your region and language"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/session-language.page:36
+#: C/session-language.page:39
 msgid "Endless can be used in many different languages."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/session-language.page:39
+#: C/session-language.page:42
 msgid "To switch your current language:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/session-language.page:51
+#: C/session-language.page:52
 msgid "Click <gui>Language</gui>."
 msgstr "Кликните <gui>Језик</gui>."
 
 #. (itstool) path: item/p
-#: C/session-language.page:55
+#: C/session-language.page:56
 msgid ""
 "Select your desired language. If your language is not listed, click "
 "<_:media-1/> at the bottom of the list to select from all available regions "
@@ -7280,12 +7057,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/session-language.page:62
+#: C/session-language.page:63
 msgid "Click <gui>Done</gui> to save."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/session-language.page:66
+#: C/session-language.page:67
 msgid ""
 "<gui>Your session needs to be restarted for these changes to take "
 "effect</gui> by clicking <gui style=\"button\">Restart Now</gui>, or click "
@@ -7293,7 +7070,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/session-language.page:73
+#: C/session-language.page:74
 msgid ""
 "Some translations may be incomplete, and certain applications may not "
 "support your language at all. Any untranslated text will appear in American "
@@ -7301,7 +7078,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/session-language.page:77
+#: C/session-language.page:78
 msgid ""
 "There are some special folders in your home folder where applications can "
 "store things like music, pictures, and documents. These folders use standard"
@@ -7312,17 +7089,17 @@ msgid ""
 msgstr "Постоје неке посебне фасцикле у вашој личној фасцикли у којима програми могу да ускладиште ствари као што су музика, слике и документи. Ове фасцикле користе стандардне називе у складу са вашим језиком. Када се поново пријавите, бићете упитани да ли желите да преименујете те фасцикле на стандардне називе за изабрани језик. Ако планирате да користите нови језик сво време, требали бисте да ажурирате називе фасцикли."
 
 #. (itstool) path: info/desc
-#: C/sharing-bluetooth.page:16
+#: C/sharing-bluetooth.page:20
 msgid "Set which folders and devices are able to share over Bluetooth."
 msgstr "Подесите које фасцикле и уређаји могу да деле преко блутута."
 
 #. (itstool) path: page/title
-#: C/sharing-bluetooth.page:20
+#: C/sharing-bluetooth.page:24
 msgid "Control sharing over Bluetooth"
 msgstr "Управљајте дељењем преко блутута"
 
 #. (itstool) path: page/p
-#: C/sharing-bluetooth.page:28
+#: C/sharing-bluetooth.page:32
 msgid ""
 "You can allow Bluetooth devices to send you files to your "
 "<file>Downloads</file> folder by turning on that capability. Restrict access"
@@ -7330,14 +7107,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/sharing-bluetooth.page:31
+#: C/sharing-bluetooth.page:35
 msgid ""
 "You can configure <gui>Bluetooth Sharing</gui> to control access to your "
 "shared folders on your computer."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/sharing-bluetooth.page:35
+#: C/sharing-bluetooth.page:39
 msgid ""
 "A Bluetooth device is <em>trusted</em> if you have <em>paired</em>, or "
 "connected your computer to it. See <link xref=\"bluetooth-connect-"
@@ -7345,40 +7122,40 @@ msgid ""
 msgstr "Блутут уређај је <em>поверљив</em> ако сте <em>упарили</em>, или повезали ваш рачунар с њим. Погледајте <link xref=\"bluetooth-connect-device\"/>."
 
 #. (itstool) path: steps/title
-#: C/sharing-bluetooth.page:88
+#: C/sharing-bluetooth.page:92
 msgid "Allow files to be shared into your <file>Downloads</file> folder"
 msgstr "Дозволите дељење датотека у вашој фасцикли <file>Преузимања</file>"
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:96
+#: C/sharing-bluetooth.page:98
 msgid "Click <gui>Sharing</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:99
+#: C/sharing-bluetooth.page:101
 msgid "If <gui>Sharing</gui> is <gui>OFF</gui>, switch it to <gui>ON</gui>."
 msgstr "Ако је <gui>Дељење</gui> <gui>ИСКЉ.</gui>, пребаците га на <gui>УКЉ.</gui>."
 
 #. (itstool) path: note/p
-#: C/sharing-bluetooth.page:102
+#: C/sharing-bluetooth.page:104
 msgid ""
 "If the text below <gui>Computer Name</gui> allows you to edit it, you can "
 "change the name your computer displays on the network."
 msgstr "Ако вам текст испод <gui>назива рачунара</gui> допушта да га уређујете, можете да измените назив под којим се ваш рачунар приказује на мрежи."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:107
+#: C/sharing-bluetooth.page:109
 msgid "Select <gui>Bluetooth Sharing</gui>."
 msgstr "Изаберите <gui>Дељење блутутом</gui>."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:110
+#: C/sharing-bluetooth.page:112
 msgid ""
 "Switch <gui>Save Received Files to Downloads Folder</gui> to <gui>ON</gui>."
 msgstr "Пребаците <gui>Сачувај примљене датотеке у фасцикли преузимања</gui> на <gui>УКЉ.</gui>."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:114
+#: C/sharing-bluetooth.page:116
 msgid ""
 "If you only want to allow trusted devices to access your "
 "<file>Downloads</file> folder, switch <gui>Only Receive From Trusted "
@@ -7386,7 +7163,7 @@ msgid ""
 msgstr "Ако желите да дозволите само поверљивим уређајима да приступе вашој фасцикли <file>Преузимања</file>, пребаците <gui>Само примај са поверљивих уређаја</gui> на <gui>УКЉ.</gui>."
 
 #. (itstool) path: note/p
-#: C/sharing-bluetooth.page:119
+#: C/sharing-bluetooth.page:121
 msgid ""
 "This option is disabled by default. You should enable it if you want to "
 "prevent access to your shared files by anyone with a Bluetooth-enabled cell "
@@ -7394,7 +7171,7 @@ msgid ""
 msgstr "Ова могућност је унапред искључена. Треба да је укључите ако желите да спречите приступ вашим дељеним фасциклама било коме у близини са укљученим блутутом на мобилном телефону."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:126
+#: C/sharing-bluetooth.page:128
 msgid ""
 "Click <gui style=\"button\">Close</gui>. Bluetooth-enabled devices will now "
 "be able to send files to your <file>Downloads</file> folder."
@@ -7542,33 +7319,30 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:30
-msgid ""
-"Right-click on the desktop and select <gui>Add folder</gui>. Alternatively, "
-"you can click on <_:media-1/> from the desktop and click on the "
-"<gui>Folders</gui> button on the left-hand menu."
+msgid "Right-click on the desktop and select <gui>Add folder</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:37 C/shell-organize-apps.page:33
+#: C/shell-add-desktop-folder.page:33 C/shell-organize-apps.page:33
 msgid "Pick an icon for your new folder."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:40
+#: C/shell-add-desktop-folder.page:36
 msgid ""
 "Type a name for your new folder (for example, \"School\") and hit "
 "<key>Enter</key>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:44
+#: C/shell-add-desktop-folder.page:40
 msgid ""
 "You have added a new folder to the desktop. Great! Now click on the "
 "<_:media-1/> on the top-right of the window to go back to the desktop."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:49
+#: C/shell-add-desktop-folder.page:45
 msgid "Drag and drop the apps you want into your folder."
 msgstr ""
 
@@ -7616,23 +7390,23 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/shell-apps-open.page:30
+#: C/shell-apps-open.page:31
 msgctxt "link:index"
 msgid "How do I add new apps?"
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/shell-apps-open.page:31
+#: C/shell-apps-open.page:32
 msgid "Install free apps, folders, and website shortcuts onto your desktop."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/shell-apps-open.page:34
+#: C/shell-apps-open.page:35
 msgid "Add apps and website shortcuts"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-apps-open.page:36
+#: C/shell-apps-open.page:37
 msgid ""
 "The pre-installed apps on your desktop are just a few of the many apps "
 "available to you. Easily add more apps and websites shortcuts directly to "
@@ -7640,46 +7414,46 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-apps-open.page:42
+#: C/shell-apps-open.page:43
 msgid "Adding More Apps"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:45 C/shell-update-app.page:29
+#: C/shell-apps-open.page:46 C/shell-update-app.page:29
 msgid "Click once on <_:media-1/> from the desktop."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:51
+#: C/shell-apps-open.page:52
 msgid ""
 "Browse by category and read each app's short description until you find one "
 "that you want to add to your desktop. All of the apps you see are free."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:57
+#: C/shell-apps-open.page:58
 msgid ""
 "Some apps are already downloaded to your computer and you can add them to "
 "your desktop by clicking <gui>Add to desktop</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:62
+#: C/shell-apps-open.page:63
 msgid ""
 "Other apps need to be installed and require an internet connection. Click "
-"<gui>Install app</gui> to download and install these apps."
+"<gui>Install</gui> to download and install these apps."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:67
+#: C/shell-apps-open.page:68
 msgid ""
 "When the app has been successfully added to your desktop, the green button "
-"will change to <gui>Open app</gui> and you can start using the app "
+"will change to <gui>Launch</gui> and you can start using the app "
 "immediately!"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:70
+#: C/shell-apps-open.page:71
 msgid ""
 "The app's icon will be installed on your desktop, to the left of the "
 "<_:media-1/> button. You can then move it wherever makes sense to you so you"
@@ -7687,18 +7461,21 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-apps-open.page:79
+#: C/shell-apps-open.page:80
 msgid "Installing Website Shortcuts"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:82
-msgid "Click once on the <_:media-1/> from the desktop."
+#: C/shell-apps-open.page:83
+msgid ""
+"Right click on the desktop and select the <gui>Add Website</gui> option."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:87
-msgid "Click on the <gui>Websites</gui> category on the left hand side."
+#: C/shell-apps-open.page:86
+msgid ""
+"Click on the <gui>Websites</gui> category on the left hand side if it is not"
+" already selected."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -7779,154 +7556,37 @@ msgid ""
 "available, you can do it from the <app>App Center</app>."
 msgstr ""
 
-#. (itstool) path: info/desc
-#: C/shell-download-media.page:15
-msgid "Learn how to download songs and media from the internet."
-msgstr ""
-
-#. (itstool) path: page/title
-#: C/shell-download-media.page:18
-msgid "Download songs and media"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/shell-download-media.page:20
-msgid ""
-"You can use the <app>FrostTorrent</app> app to download songs and media from"
-" the internet."
-msgstr ""
-
-#. (itstool) path: steps/title
-#: C/shell-download-media.page:25
-msgid "Download songs and media from the internet following these steps:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:28
-msgid ""
-"Make sure that you have the <app>FrostTorrent</app> app installed on your "
-"computer. If you don't already have it, go to your <app>App Center</app>'s "
-"Utilities section and download it, then click on it once to open."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:33
-msgid ""
-"If this is the first time you open <app>FrostTorrent</app>, you will need to"
-" complete a short setup using the wizard it provides. Once it finishes "
-"setting up, move on to the next step."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:38
-msgid ""
-"Type in a keyword and press <key>Enter</key> on your keyboard, or click on "
-"the search icon. Suggested keywords will show up as you type and you can "
-"click on them to conduct a search on that keyword."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:43
-msgid ""
-"Search results will appear in the main window. Select the file type you want"
-" by clicking on the icon of a music note (songs), a frame (photos), a film "
-"strip (videos), or a sheet of paper (documents). You can also filter your "
-"results by clicking on the <gui>Search Tools</gui> button on the right- hand"
-" side of the window."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:50
-msgid ""
-"To begin downloading the file, double click on the name of a file, or click "
-"once and then click <gui>Download</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:54
-msgid ""
-"After your file finishes downloading, it will appear on the bottom half of "
-"your screen and you can double click on it to open and beging using it. "
-"Right click on any finished file to see more options for using it. You can "
-"also click on the <gui>Library</gui> icon to browse through all the files "
-"that are ready for you to use."
-msgstr ""
-
-#. (itstool) path: note/title
-#: C/shell-download-media.page:63
-msgid "Tips:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:66
-msgid "A song with more “Seeds” next to its name will download more quickly."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:70
-msgid ""
-"Files from SoundCloud.com, Archive.org, or other similar services, will not "
-"show any “Seeds” because they come directly from the source rather than from"
-" other users."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:75
-msgid ""
-"Click the triangle button next to a file to preview it before downloading."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:79
-msgid ""
-"Click the plus button next to a file to select the parts of the package that"
-" you want to download."
-msgstr ""
-
-#. (itstool) path: note/p
-#: C/shell-download-media.page:86
-msgid ""
-"Make sure that what you are downloading is a legal copy! Many files have "
-"copyright laws that prohibit them from being shared for free online. This "
-"means that you could be sued for illegally downloading them without paying "
-"for them. That being said, there are millions of files that are completely "
-"legal and shareable on the internet, and that you can enjoy once you "
-"download them with this app. To learn more about downloading files and "
-"copyright, you may want to google \"torrents and legality\" so that you can "
-"make informed decisions on which files to download."
-msgstr ""
-
 #. (itstool) path: credit/name
 #: C/shell-exit.page:22
 msgid "Alexandre Franke"
 msgstr "Александре Франке"
 
 #. (itstool) path: info/desc
-#: C/shell-exit.page:32
+#: C/shell-exit.page:36
 msgid ""
 "Learn how to leave your user account, by logging out, switching users, and "
 "so on."
 msgstr "Сазнајте како да напустите ваш кориснички налог, одјављивањем, променом корисника, и тако даље."
 
 #. (itstool) path: page/title
-#: C/shell-exit.page:36
+#: C/shell-exit.page:40
 msgid "Log out, power off or switch users"
 msgstr "Одјављивање, гашење, промена корисника"
 
 #. (itstool) path: page/p
-#: C/shell-exit.page:44
+#: C/shell-exit.page:48
 msgid ""
 "When you have finished using your computer, you can turn it off or leave it "
 "powered on and log out."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:48
+#: C/shell-exit.page:52
 msgid "Log out or switch users"
 msgstr "Одјављивање или промена корисника"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:50
+#: C/shell-exit.page:54
 msgid ""
 "To let other users use your computer, you can either log out, or leave "
 "yourself logged in and just switch users. If you switch users, all of your "
@@ -7935,20 +7595,20 @@ msgid ""
 msgstr "Ако желите да оставите ваш рачунар другим корисницима на коришћење, можете или да се одјавите, или да останете пријављени а само да промените корисника. Ако промените корисника, сви ваши програми ће наставити да раде, и све ће бити на истом месту када се поново пријавите."
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:54
+#: C/shell-exit.page:58
 msgid ""
-"To log out (i.e. in order to switch to a different user), click the User "
-"Menu on the bottom left corner of your screen and then click the <gui>lock "
-"icon</gui>."
+"To log out (i.e. in order to switch to a different user), click on the User "
+"icon at the very bottom right-hand side of your screen (it looks like a "
+"person), and click the <gui>Lock icon</gui>."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:61
+#: C/shell-exit.page:65
 msgid "Lock the screen"
 msgstr "Закључавање екрана"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:63
+#: C/shell-exit.page:67
 msgid ""
 "If you're leaving your computer for a short time, you should lock your "
 "screen to prevent other people from accessing your files or running "
@@ -7958,15 +7618,15 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:68
+#: C/shell-exit.page:72
 msgid ""
-"To lock your screen, click on the User Menu at the very bottom left-hand "
-"side of your screen and press the <gui>Lock</gui> button at the bottom right"
-" of the menu."
+"To lock your screen, click on the User icon at the very bottom right-hand "
+"side of your screen (it looks like a person), and click the <gui>Lock "
+"icon</gui>."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-exit.page:72
+#: C/shell-exit.page:76
 msgid ""
 "If you don't lock your screen, it will lock automatically after a certain "
 "amount of time, unless you disable that feature from the <gui>Privacy</gui> "
@@ -7974,22 +7634,22 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:84
+#: C/shell-exit.page:88
 msgid "Power off or restart"
 msgstr "Гашење или поновно покретање"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:86
+#: C/shell-exit.page:90
 msgid ""
 "If you want to power off your computer entirely, or do a full restart, click"
-" the User Menu at the very bottom left-hand side of your screen and press "
-"the <gui>Exit</gui> button at the bottom right of the menu. A dialog will "
-"open offering you the options to, among other options, <gui>Restart</gui> or"
-" <gui>Power Off</gui>."
+" on the User icon at the very bottom right-hand side of your screen (it "
+"looks like a person), and press the <gui>Exit</gui> button at the bottom "
+"right of the menu. A dialog will open offering you the options to, among "
+"other options, <gui>Restart</gui> or <gui>Power Off</gui>."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:92
+#: C/shell-exit.page:96
 msgid ""
 "If there are other users logged in, you may not be allowed to power off or "
 "restart the computer because this will end their sessions. If you are an "
@@ -8023,17 +7683,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/shell-introduction.page:28
+#: C/shell-introduction.page:33
 msgid "A quick introduction to your desktop and some of its cool features."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/shell-introduction.page:31
+#: C/shell-introduction.page:36
 msgid "Introduction to Endless"
 msgstr "Упознавање са Гномом"
 
 #. (itstool) path: page/p
-#: C/shell-introduction.page:33
+#: C/shell-introduction.page:38
 msgid ""
 "Endless has been created just for you. When you first turn your computer on,"
 " you'll find some important applications already installed on your desktop, "
@@ -8041,24 +7701,22 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-introduction.page:37
+#: C/shell-introduction.page:42
 msgid ""
 "The task bar provides access to important things like your windows and "
 "applications, your calendar and clock, and system properties like sound and "
 "networking. There, you can change the volume, edit your Wi-Fi connection "
 "details, check your battery status, log out or switch users, and turn off "
-"your computer. We have also included the possibility to connect to Facebook "
-"on this task bar, so that you can keep in touch with your friends more "
-"easily than ever!"
+"your computer."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:48
+#: C/shell-introduction.page:51
 msgid "<app>App Center</app> overview"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:50
+#: C/shell-introduction.page:53
 msgid ""
 "Your computer should be incredibly useful to you both online and offline. "
 "For that reason, we have packed Endless with all sorts of applications and "
@@ -8068,23 +7726,13 @@ msgid ""
 " to install on your desktop."
 msgstr ""
 
-#. (itstool) path: section/p
-#: C/shell-introduction.page:58
-msgid ""
-"From the <app>App Center</app> you can add: <gui>Apps</gui>, "
-"<gui>Websites</gui>, and <gui>Folders</gui>. You can browse applications you"
-" may want to install by category, add shortcuts to your favorite websites "
-"onto your desktop, or simply create new folders to organize all of your "
-"things in a way that makes sense to you."
-msgstr ""
-
 #. (itstool) path: item/p
-#: C/shell-introduction.page:67
+#: C/shell-introduction.page:64
 msgid "<link xref=\"shell-apps-open\">Learn more about installing apps.</link>"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:75
+#: C/shell-introduction.page:72
 msgid "You and your computer"
 msgstr "Ви и ваш рачунар"
 
@@ -8093,7 +7741,7 @@ msgstr "Ви и ваш рачунар"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:79
+#: C/shell-introduction.page:76
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-classic.png' "
@@ -8101,19 +7749,19 @@ msgid ""
 msgstr "external ref='figures/shell-exit-classic.png' md5='f36e3a0a115ff2181a6fc787e6a83283'"
 
 #. (itstool) path: media/p
-#: C/shell-introduction.page:80
+#: C/shell-introduction.page:77
 msgid "User menu"
 msgstr "Кориснички изборник"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:86
+#: C/shell-introduction.page:83
 msgid ""
 "Click on the <gui>User Menu</gui> on the bottom left-hand corner of your "
 "screen to manage your system settings and your computer."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:113
+#: C/shell-introduction.page:110
 msgid ""
 "When you leave your computer, you can lock your screen to prevent other "
 "people from using it. You can also choose to turn off or restart your "
@@ -8121,19 +7769,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:119
+#: C/shell-introduction.page:116
 msgid ""
 "<link xref=\"shell-exit\">Learn more about switching users, logging out, and"
 " turning off your computer.</link>"
 msgstr "<link xref=\"shell-exit\">Сазнајте више о промени корисника, одјављивању, и гашењу рачунара.</link>"
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:126
+#: C/shell-introduction.page:123
 msgid "Lock Screen"
 msgstr "Закључавање екрана"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:128
+#: C/shell-introduction.page:125
 msgid ""
 "When you lock your screen, or it locks automatically, the lock screen is "
 "displayed. In addition to protecting your desktop while you're away from "
@@ -8143,18 +7791,18 @@ msgid ""
 msgstr "Када закључате екран, или ако се сам закључа, бива приказан екран закључавања. Поред тога што штити вашу радну површ када сте далеко од рачунара, екран закључавања приказује датум и време. Такође приказује информације о стању ваше батерије и мреже, и омогућава вам да управљате пуштањем медија."
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:136
+#: C/shell-introduction.page:133
 msgid ""
 "<link xref=\"privacy-screen-lock\">Learn more about the lock screen.</link>"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:144
+#: C/shell-introduction.page:141
 msgid "Hot Corner"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:146
+#: C/shell-introduction.page:143
 msgid ""
 "Endless allows you to see all of your open windows and tasks so that you can"
 " multitask like a pro. To access this cool feature, move your mouse pointer "
@@ -8166,7 +7814,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:155
+#: C/shell-introduction.page:152
 msgid ""
 "<link xref=\"shell-windows-switching\">Learn more about switching "
 "windows.</link>"
@@ -8414,31 +8062,31 @@ msgid "Marina Zhurakhinskaya"
 msgstr "Марина Зуракинскаја"
 
 #. (itstool) path: info/desc
-#: C/shell-notifications.page:28
+#: C/shell-notifications.page:31
 msgid ""
 "Messages pop-up at the bottom of the screen telling you when certain events "
 "happen."
 msgstr "Приказује облачиће порука при дну екрана обавештавајући вас о дешавању одређених догађаја."
 
 #. (itstool) path: page/title
-#: C/shell-notifications.page:31
+#: C/shell-notifications.page:34
 msgid "Notifications and the message tray"
 msgstr "Обавештења и фиока порука"
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:34
+#: C/shell-notifications.page:37
 msgid "What is a notification?"
 msgstr "Шта је то обавештење?"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:36
+#: C/shell-notifications.page:39
 msgid ""
 "If an application or a system component wants to get your attention, a "
 "notification will be shown at the bottom of your screen."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:39
+#: C/shell-notifications.page:42
 msgid ""
 "For example, if you plug in an external device (like a USB stick), or if new"
 " updates are available for your computer, you will get a notification "
@@ -8446,33 +8094,33 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:43
+#: C/shell-notifications.page:46
 msgid ""
 "To minimize distraction, some notifications first appear as a single line. "
 "You can move your mouse over them to see their full content."
 msgstr "Зарад умањења растројености, нека обавештења се прво појављују у једном реду. Можете да поставите миша преко њих ако желите да видите њихов потпуни садржај."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:46
+#: C/shell-notifications.page:49
 msgid ""
 "Other notifications have selectable option buttons. To close one of these "
 "notifications without selecting one of its options, click the close button."
 msgstr "Остала обавештења имају дугмад избирљивих опција. Да затворите једно од ових обавештења а да не изаберете једну од ових опција, кликните на дугме за затварање."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:51
+#: C/shell-notifications.page:54
 msgid ""
 "Clicking the close button on some notifications dismisses them. Others may "
 "stay hidden in the message tray."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:60
+#: C/shell-notifications.page:63
 msgid "The message tray"
 msgstr "Фиока порука"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:62
+#: C/shell-notifications.page:65
 msgid ""
 "The message tray gives you a way to get back to your notifications when it "
 "is convenient for you. It appears when you move your mouse to the bottom-"
@@ -8482,7 +8130,7 @@ msgid ""
 msgstr "Фиока порука вам пружа начин да погледате ваша обавештења када вам то буде одговарало. Појављује се када померите миша у доњи десни угао екрана, или када притиснете <keyseq><key xref=\"keyboard-key-super\">Супер</key><key>М</key></keyseq>. Фиока порука садржи сва обавештења која нисте прегледали или која се ту налазе за стално."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:69
+#: C/shell-notifications.page:72
 msgid ""
 "The message tray gives you a way to get back to your notifications when it "
 "is convenient for you. It appears when you move your mouse to the bottom-"
@@ -8494,7 +8142,7 @@ msgid ""
 msgstr "Фиока порука вам пружа начин да погледате ваша обавештења када вам то буде одговарало. Појављује се када померите миша у доњи десни угао екрана, или када притиснете <keyseq><key xref=\"keyboard-key-super\">Супер</key><key>М</key></keyseq>. Фиоку порука можете такође да прикажете притиском на плаву иконицу броја на десној страни списка прозора. Фиока порука садржи сва обавештења која нисте прегледали или која се ту налазе за стално."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:77
+#: C/shell-notifications.page:80
 msgid ""
 "You can view the notifications by clicking on the message tray items. These "
 "are usually messages sent by applications. However, chat notifications are "
@@ -8503,43 +8151,43 @@ msgid ""
 msgstr "Можете да видите обавештења кликом на ставке фиоке порука. То су обично поруке које су послали програми. Међутим, обавештењима ћаскања се даје посебан третман, и представљају се појединачним контактима који су вам послали поруке ћаскања."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:82
+#: C/shell-notifications.page:85
 msgid ""
 "You can close the message tray by pressing "
 "<keyseq><key>Super</key><key>M</key></keyseq> again or <key>Esc</key>."
 msgstr "Можете да затворите фиоку порука тако што ћете опет притиснути <keyseq><key>Супер</key><key>М</key></keyseq> или <key>Есц</key>."
 
 #. (itstool) path: note/p
-#: C/shell-notifications.page:86
+#: C/shell-notifications.page:89
 msgid ""
 "If the <link xref=\"keyboard-osk\">screen keyboard</link> is open, you will "
 "need to click the <gui>tray button</gui> to show the message tray."
 msgstr "Ако је отворена <link xref=\"keyboard-osk\">тастатура на екрану</link>, мораћете да кликнете на <gui>дугме фиоке</gui> да прикажете фиоку порука."
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:94
+#: C/shell-notifications.page:97
 msgid "Hiding notifications"
 msgstr "Сакријте обавештења"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:96
+#: C/shell-notifications.page:99
 msgid ""
 "If you're working on something and do not want to be bothered, you can "
 "switch off notifications."
 msgstr "Ако радите на нечему и не желите да будете узнемиравани, можете да искључите обавештења."
 
 #. (itstool) path: item/p
-#: C/shell-notifications.page:107
+#: C/shell-notifications.page:108
 msgid "Click on <gui>Notifications</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-notifications.page:111
+#: C/shell-notifications.page:112
 msgid "Switch <gui>Show Pop Up Banners</gui> to <gui>Off</gui>."
 msgstr "Пребаците <gui>Прикажи искачуће врпце</gui> на <gui>ИСКЉ.</gui>."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:115
+#: C/shell-notifications.page:116
 msgid ""
 "When switched off, most notifications will not pop up at the bottom of the "
 "screen. Very important notifications, such as when your battery is "
@@ -8552,7 +8200,7 @@ msgstr "Када је искључено, већина обавештења не
 
 #. (itstool) path: info/desc
 #: C/shell-organize-apps.page:18
-msgid "Keep all of your apps organized."
+msgid "Use folders to stay organized."
 msgstr ""
 
 #. (itstool) path: page/title
@@ -8650,38 +8298,32 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-update-app.page:34
-msgid ""
-"On the left menu, click on the section <gui>Installed</gui>. All apps that "
-"are installed on your computer will be there."
+msgid "On the top bar, click the <gui>Updates</gui> section."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-update-app.page:38
-msgid "Click the thumbnail of the app you want to update."
+#: C/shell-update-app.page:37
+msgid ""
+"If there is an update available, you will see an <gui>Update</gui> you can "
+"select. Click on it to download the update. It will be installed "
+"automatically once it's ready."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-update-app.page:41
+#: C/shell-update-app.page:42
 msgid ""
-"If there is an update available, you will see a green button with the label "
-"<gui>Update app</gui>. Click on it to download the update. It will be "
-"installed automatically once it's ready."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-update-app.page:46
-msgid ""
-"Once the update is installed, you will see the <gui>Open app</gui> button."
+"You can also choose to <gui>Update All</gui> of your apps at once with the "
+"blue button at the top right of your screen."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-update-app.page:52
-msgid "To update an app, you will need an internet connection."
+#: C/shell-update-app.page:48
+msgid "To update your apps, you will need an internet connection."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-update-app.page:55
-msgid "You can close the <app>App Center</app> while the app is updating."
+#: C/shell-update-app.page:51
+msgid "You can close the <app>App Center</app> while apps are updating."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -8734,19 +8376,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-update-system.page:52
+#: C/shell-update-system.page:51
 msgid "Click on <gui>Details</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-update-system.page:56
+#: C/shell-update-system.page:55
 msgid ""
 "Click on the <gui>Search for updates now</gui> button. If there are updates,"
 " they will automatically start to download and install to your system."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-update-system.page:64
+#: C/shell-update-system.page:63
 msgid ""
 "Make sure you don't go over your data limit! You may want to wait until you "
 "can get a Wi-Fi or wired internet connection. You can also contact our "
@@ -8780,8 +8422,11 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/shell-windows-hide.page:33
 msgid ""
-"If you want to hide several windows at the same time, you might want to use "
-"the <gui>hot corner</gui> to quickly navigate between the hidden apps."
+"Starting in Endless version 3.2, you can hide all of your windows instantly "
+"by clicking on the Endless logo on the bottom left corner. Click it again to"
+" restore your windows. When your windows are minimized, you can use the "
+"<gui>hot corner</gui> on the bottom right to quickly navigate between the "
+"hidden apps."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -8986,19 +8631,19 @@ msgid ""
 msgstr "Ваш рачунар ће пустити једноставан звук упозорења за одређене врсте порука и догађаја. Можете да изаберете другачије снимке звука за упозорења, подесите јачину звука упозорења независно од јачине звука на систему, или да у потпуности искључите звуке упозорења."
 
 #. (itstool) path: item/p
-#: C/sound-alert.page:45
+#: C/sound-alert.page:43
 msgid "Click <gui>Sound</gui>."
 msgstr "Притисните на <gui>Звук</gui>."
 
 #. (itstool) path: item/p
-#: C/sound-alert.page:48
+#: C/sound-alert.page:46
 msgid ""
 "In the <gui>Sound Effects</gui> tab, select an alert sound. Each sound will "
 "play when you click on it so you can hear how it sounds."
 msgstr "У језичку <gui>Звучни ефекти</gui>, изаберите вук за упозорење. Савки звук ће бити пуштен када кликнете на њега тако да можете да чујете како звучи."
 
 #. (itstool) path: page/p
-#: C/sound-alert.page:53
+#: C/sound-alert.page:51
 msgid ""
 "Use the volume slider in the <gui>Sound Effects</gui> tab to set the volume "
 "of the alert sound. This won't affect the volume of your music, movies, or "
@@ -9006,49 +8651,11 @@ msgid ""
 msgstr "Користите клизач јачине звука у језичку <gui>Звучни ефекти</gui> да подесите јачину звука упозорења. Ово неће утицати на јачину звука ваше музике, филмова, или других звучних датотека."
 
 #. (itstool) path: page/p
-#: C/sound-alert.page:57
+#: C/sound-alert.page:55
 msgid ""
 "To disable alert sounds entirely, switch the <gui>Alert volume</gui> to "
 "<gui>Off</gui>."
 msgstr "Да потпуно искључите звуке упозорења, пребаците <gui>Јачина звука упозорења</gui> на <gui>ИСКЉ.</gui>."
-
-#. (itstool) path: credit/years
-#: C/sound-troubleshoot.page:15
-msgid "2016"
-msgstr "2016"
-
-#. (itstool) path: info/desc
-#: C/sound-troubleshoot.page:18
-msgid ""
-"If you can't hear sound on your computer, there may be a way to fix that."
-msgstr ""
-
-#. (itstool) path: page/title
-#: C/sound-troubleshoot.page:22
-msgid "Troubleshoot sound on your computer"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/sound-troubleshoot.page:24
-msgid ""
-"Here are some known issues and how to fix them if you're having trouble "
-"hearing sound from your computer."
-msgstr ""
-
-#. (itstool) path: section/title
-#: C/sound-troubleshoot.page:28
-msgid "Hearing sound on an old TV"
-msgstr ""
-
-#. (itstool) path: section/p
-#: C/sound-troubleshoot.page:30
-msgid ""
-"Some Endless computers are compatible with old TVs. To play audio through "
-"your TV, you will need to use an adapter that connects your TV to the 3.5 mm"
-" audio jack on the side of your computer. Endless does not come with this "
-"adapter, so you should check with your local electronics retailer to "
-"purchase one."
-msgstr ""
 
 #. (itstool) path: info/desc
 #: C/sound-volume.page:20
@@ -9121,23 +8728,23 @@ msgid ""
 msgstr "Само програми који тренутно пуштају звук ће бити на списку. Ако неки програм који тренутно пушта звук није на списку, можда не подржава функцију која вам допушта да управљате јачином звука на овај начин. У том случају, нећете моћи да промените његову јачину звука."
 
 #. (itstool) path: info/title
-#: C/user-add.page:32
+#: C/user-add.page:36
 msgctxt "link:index"
 msgid "How do I add more user accounts?"
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/user-add.page:33
+#: C/user-add.page:37
 msgid "Add new users so that other people can log in to the computer."
 msgstr "Додајте нове кориснике тако да неко други може да се пријави на рачунар."
 
 #. (itstool) path: page/title
-#: C/user-add.page:36
+#: C/user-add.page:40
 msgid "Add a new user account"
 msgstr "Додајте налог новог корисника"
 
 #. (itstool) path: page/p
-#: C/user-add.page:61
+#: C/user-add.page:65
 msgid ""
 "You can create multiple user accounts on your computer and give a user "
 "account to everyone who uses your computer. That way, you can make sure that"
@@ -9146,7 +8753,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/user-add.page:66
+#: C/user-add.page:70
 msgid ""
 "You will need <link xref=\"user-admin-explain\">administrator "
 "privileges</link> to add user accounts. The administrator is usually the "
@@ -9156,35 +8763,35 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/user-add.page:73
+#: C/user-add.page:77
 msgid ""
 "If you are the administrator, follow these steps to create more user "
 "accounts:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-add.page:82 C/user-admin-change.page:44 C/user-autologin.page:35
-#: C/user-changepassword.page:71 C/user-changepicture.page:48
-#: C/user-delete.page:55
+#: C/user-add.page:84 C/user-admin-change.page:42 C/user-autologin.page:33
+#: C/user-changepassword.page:69 C/user-changepicture.page:46
+#: C/user-delete.page:53
 msgid "Click on <gui>Users</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-add.page:86 C/user-admin-change.page:48 C/user-delete.page:59
+#: C/user-add.page:88 C/user-admin-change.page:46 C/user-delete.page:57
 msgid ""
 "Press <gui style=\"button\">Unlock</gui> in the top right corner and type in"
 " your password when prompted."
 msgstr "Притисните <gui style=\"button\">Откључај</gui> у горњем десном углу и унесите вашу лозинку."
 
 #. (itstool) path: item/p
-#: C/user-add.page:93
+#: C/user-add.page:95
 msgid ""
 "Press the <gui style=\"button\">+</gui> button, below the list of accounts "
 "on the left, to add a new user account."
 msgstr "Притисните дугме <gui style=\"button\">+</gui>, испод списка налога на левој страни, да додате налог новог корисника."
 
 #. (itstool) path: item/p
-#: C/user-add.page:98
+#: C/user-add.page:100
 msgid ""
 "If you want the new user to have <link xref=\"user-admin-"
 "explain\">administrative access</link> to the computer, select "
@@ -9194,7 +8801,7 @@ msgid ""
 msgstr "Ако желите да нови корисник има <link xref=\"user-admin-explain\">администраторски приступ</link> рачунару, изаберите <gui>Администратор</gui> за врсту налога. Администратори могу да додају и да бришу кориснике, инсталирају програме и управљачке програме, и да измене датум и време."
 
 #. (itstool) path: item/p
-#: C/user-add.page:105
+#: C/user-add.page:107
 msgid ""
 "Enter the new user's full name. The username will be filled in automatically"
 " based on the full name. If you do not like the proposed username, you can "
@@ -9202,12 +8809,12 @@ msgid ""
 msgstr "Унесите име и презиме новог корисника. Корисничко име ће бити попуњено на основу имена и презимена. Ако вам се не свиђа предложено, можете да га измените."
 
 #. (itstool) path: media/span
-#: C/user-add.page:112 C/user-changepassword.page:83
+#: C/user-add.page:114 C/user-changepassword.page:81
 msgid "generate password"
 msgstr "створите лозинку"
 
 #. (itstool) path: item/p
-#: C/user-add.page:110
+#: C/user-add.page:112
 msgid ""
 "You can chose to set a password for the new user, or let them set it "
 "themselves on their first login. You can press on the <gui "
@@ -9216,12 +8823,12 @@ msgid ""
 msgstr "Можете изабрати да подесите лозинку за новог корисника, или да оставите да је он сам подеси на првом пријављивању. Можете да притиснете иконицу <gui style=\"button\"><_:media-1/></gui> да сами створите насумичну лозинку."
 
 #. (itstool) path: item/p
-#: C/user-add.page:117
+#: C/user-add.page:119
 msgid "Click <gui>Add</gui>."
 msgstr "Кликните <gui>Додај</gui>."
 
 #. (itstool) path: page/p
-#: C/user-add.page:121
+#: C/user-add.page:123
 msgid ""
 "If you want to change the password after creating the account, select the "
 "account, <gui style=\"button\">Unlock</gui> the panel and press on the "
@@ -9229,7 +8836,7 @@ msgid ""
 msgstr "Ако желите да измените лозинку након стврања налога, изаберите налог, <gui style=\"button\">откључајте</gui> панел и притисните на стање текуће лозинке."
 
 #. (itstool) path: note/p
-#: C/user-add.page:126
+#: C/user-add.page:128
 msgid ""
 "In the <gui>Users</gui> panel, you can click the image next to the user's "
 "name to the right to set an image for the account. This image will be shown "
@@ -9238,7 +8845,7 @@ msgid ""
 msgstr "У панелу <gui>Корисници</gui>, можете да кликнете на слику поред имена корисника да подесите слику за налог. Ова слика ће бити приказана у прозору пријављивања. Гном обезбеђује неке слике које можете да користите, или можете да изаберете неку вашу или да направите слику вашом веб камерицом."
 
 #. (itstool) path: note/p
-#: C/user-add.page:133
+#: C/user-add.page:135
 msgid ""
 "You may want to create a \"Guest\" account so that friends or others who "
 "visit you can use it and you can rest assured that they will not mess up any"
@@ -9275,24 +8882,24 @@ msgid ""
 msgstr "Потребна су вам <link xref=\"user-admin-explain\">администраторска права</link> за мењање врста налога."
 
 #. (itstool) path: item/p
-#: C/user-admin-change.page:52
+#: C/user-admin-change.page:50
 msgid "Select the user whose privileges you want to change."
 msgstr "Изаберите корисника чија овлашћења желите да измените."
 
 #. (itstool) path: item/p
-#: C/user-admin-change.page:55
+#: C/user-admin-change.page:53
 msgid ""
 "Click the label <gui>Standard</gui> next to <gui>Account Type</gui> and "
 "select <gui>Administrator</gui>."
 msgstr "Кликните на натпис <gui>Стандардни</gui> поред <gui>Врста налога</gui> и изаберите <gui>Администратор</gui>."
 
 #. (itstool) path: item/p
-#: C/user-admin-change.page:59
+#: C/user-admin-change.page:57
 msgid "The user's privileges will be changed when they next log in."
 msgstr "Овлашћења корисника ће се изменити приликом следећег пријављивања."
 
 #. (itstool) path: note/p
-#: C/user-admin-change.page:64
+#: C/user-admin-change.page:62
 msgid ""
 "The first user account on the system is usually the one that has "
 "administrator privileges. This is the user account that was created when you"
@@ -9300,7 +8907,7 @@ msgid ""
 msgstr "Први кориснички налог на систему је обично онај који има администраторска овлашћења. То је кориснички налог који је направљен приликом инсталације система."
 
 #. (itstool) path: note/p
-#: C/user-admin-change.page:67
+#: C/user-admin-change.page:65
 msgid ""
 "It is unwise to have too many users with <gui>Administrator</gui> privileges"
 " on one system."
@@ -9473,23 +9080,23 @@ msgid ""
 msgstr "Можете да измените ваша подешавања тако да будете самостално пријављени на ваш налог када покренете ваш рачунар:"
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:39
+#: C/user-autologin.page:37
 msgid ""
 "Select the user account that you want to log in to automatically at startup."
 msgstr "Изаберите кориснички налог на који желите самостално пријављивање приликом покретања."
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:43
+#: C/user-autologin.page:41
 msgid "Press <gui style=\"button\">Unlock</gui> and enter your password."
 msgstr "Притисните <gui style=\"button\">Откључај</gui> и унесите вашу лозинку."
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:46
+#: C/user-autologin.page:44
 msgid "Toggle the <gui>Automatic Login</gui> switch to <gui>On</gui>."
 msgstr "Пребаците дугме <gui>Самостално пријављивање</gui> на <gui>УКЉ.</gui>."
 
 #. (itstool) path: page/p
-#: C/user-autologin.page:50
+#: C/user-autologin.page:48
 msgid ""
 "When you next start up your computer, you will be logged in automatically. "
 "If you have this option enabled, you will not need to type in your password "
@@ -9499,7 +9106,7 @@ msgid ""
 msgstr "Када следећи пут будете покренули ваш рачунар, бићете одмах пријављени. Ако вам је ова могућност укључена, нећете морати да уписујете вашу лозинку за пријављивање на ваш налог што значи да ће неко други ако покрене ваш рачунар, бити у могућности да приступи вашем налогу и вашим личним подацима укључујући ваше датотеке и историјат веб прегледника."
 
 #. (itstool) path: note/p
-#: C/user-autologin.page:57
+#: C/user-autologin.page:55
 msgid ""
 "If your account type is <em>Standard</em>, you cannot change this setting. "
 "Contact your system administrator who can change this setting for you."
@@ -9532,7 +9139,7 @@ msgid ""
 msgstr "Потребна су вам <link xref=\"user-admin-explain\">Администраторска права</link> за уређивање корисничких налога који нису ваши."
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:75
+#: C/user-changepassword.page:73
 msgid ""
 "Click the label <gui>·····</gui> next to <gui>Password</gui>. If you are "
 "changing the password for a different user, you will first need to "
@@ -9540,40 +9147,40 @@ msgid ""
 msgstr "Кликните на натпис <gui>·····</gui> поред <gui>лозинке</gui>. Ако мењате лозинку другог корисника, морате као прво да <gui>откључате</gui> панел."
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:80
+#: C/user-changepassword.page:78
 msgid ""
 "Enter your current password, then a new password. Enter your new password "
 "again in the <gui>Confirm password</gui> field."
 msgstr "У одговарајућа поља прво унесите вашу тренутну лозинку а затим нову. Унесите још једном вашу нову лозинку у поље <gui>Потврди лозинку</gui>."
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:82
+#: C/user-changepassword.page:80
 msgid ""
 "You can press on the <gui style=\"button\"><_:media-1/></gui> icon to "
 "automatically generate a random password."
 msgstr "Можете да притиснете иконицу за <gui style=\"button\"><_:media-1/></gui> да сами створите насумичну лозинку."
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:88
+#: C/user-changepassword.page:86
 msgid "Click <gui>Change</gui>."
 msgstr "Кликните <gui>Промени</gui>."
 
 #. (itstool) path: page/p
-#: C/user-changepassword.page:92
+#: C/user-changepassword.page:90
 msgid ""
 "Make sure you <link xref=\"user-goodpassword\">choose a good "
 "password</link>. This will help to keep your user account safe."
 msgstr "Уверите се да сте <link xref=\"user-goodpassword\">изабрали добру лозинку</link>. Ово ће помоћи у очувању безбедности вашег корисничког налога."
 
 #. (itstool) path: note/p
-#: C/user-changepassword.page:96
+#: C/user-changepassword.page:94
 msgid ""
 "When you update your login password, your login keyring password will "
 "automatically be updated to be the same as your new login password."
 msgstr "Када освежите вашу лозинку пријављивања, ваша лозинка привеска пријављивања ће самостално бити освежена да би била иста као ваша нова лозинка пријављивања."
 
 #. (itstool) path: page/p
-#: C/user-changepassword.page:100
+#: C/user-changepassword.page:98
 msgid ""
 "If you forget your password, any user with administrator privileges can "
 "change it for you."
@@ -9598,7 +9205,7 @@ msgid ""
 msgstr "Када се пријавите или промените корисника, видећете списак корисника са њиховим фотографијама пријављивања. Можете да измените вашу фотографију и да поставите ускладиштену или неку вашу личну. Можете чак и да направите нову фотографијом вашом веб камерицом."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:52
+#: C/user-changepicture.page:50
 msgid ""
 "If you want to edit a user other than yourself, press <gui "
 "style=\"button\">Unlock</gui> in the top right corner and type in your "
@@ -9606,7 +9213,7 @@ msgid ""
 msgstr "Ако желите да уредите неког другог корисника, притисните <gui style=\"button\">Откључај</gui> у горњем десном углу и укуцајте вашу лозинку."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:57
+#: C/user-changepicture.page:55
 msgid ""
 "Click the picture next to your name. A drop-down gallery will be shown with "
 "some stock login photos. If you like one of them, click it to use it for "
@@ -9614,14 +9221,14 @@ msgid ""
 msgstr "Кликните на слику поред вашег имена. Биће вам приказана галерија са неким ускладиштеним фотографијама за пријаву. Ако вам нека од њих одговара, кликните на њу да је употребите за вас."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:62
+#: C/user-changepicture.page:60
 msgid ""
 "If you'd rather use a picture you already have on your computer, click "
 "<gui>Browse for more pictures…</gui>."
 msgstr "Ако ипак желите да користите слику коју већ имате на рачунару, кликните <gui>Потражите још слика…</gui>."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:66
+#: C/user-changepicture.page:64
 msgid ""
 "If you have a webcam, you can take a new login photo right now by clicking "
 "<gui>Take a photo…</gui>. Take your picture, then move and resize the square"
@@ -9656,7 +9263,7 @@ msgid ""
 msgstr "Потребна су вам <link xref=\"user-admin-explain\">администраторска права</link> за брисање корисничких налога."
 
 #. (itstool) path: item/p
-#: C/user-delete.page:66
+#: C/user-delete.page:64
 msgid ""
 "Select the user that you want to delete and press the <gui "
 "style=\"button\">-</gui> button, below the list of accounts on the left, to "
@@ -9664,7 +9271,7 @@ msgid ""
 msgstr "Изаберите корисника којег желите да обришете и кликните на дугме <gui style=\"button\">-</gui>, испод списка налога на левој страни, да обришете налог тог корисника."
 
 #. (itstool) path: item/p
-#: C/user-delete.page:72
+#: C/user-delete.page:70
 msgid ""
 "Each user has their own home folder for their files and settings. You can "
 "choose to keep or delete the user's home folder. Click <gui>Delete "

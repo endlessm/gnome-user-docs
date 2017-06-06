@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2017-06-01 16:45-0700\n"
-"PO-Revision-Date: 2017-06-01 23:47+0000\n"
+"POT-Creation-Date: 2017-06-05 20:09-0700\n"
+"PO-Revision-Date: 2017-06-06 04:48+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/id/)\n"
 "MIME-Version: 1.0\n"
@@ -141,53 +141,53 @@ msgstr "Nyalakan <em>tombol pantul</em> untuk mengabaikan penekanan tombol yang 
 #: C/a11y-font-size.page:37 C/a11y-icon.page:38 C/a11y-mag.page:39
 #: C/a11y-right-click.page:43 C/a11y-slowkeys.page:45
 #: C/a11y-stickykeys.page:49 C/a11y-visualalert.page:44 C/accounts-add.page:36
-#: C/bluetooth-connect-device.page:47 C/bluetooth-remove-connection.page:45
-#: C/bluetooth-send-file.page:52 C/bluetooth-turn-on-off.page:45
-#: C/bluetooth-turn-on-off.page:61 C/keyboard-cursor-blink.page:43
+#: C/bluetooth-connect-device.page:47 C/bluetooth-remove-connection.page:49
+#: C/bluetooth-send-file.page:56 C/bluetooth-turn-on-off.page:49
+#: C/bluetooth-turn-on-off.page:63 C/keyboard-cursor-blink.page:43
 #: C/keyboard-key-super.page:51 C/keyboard-layouts.page:51
 #: C/keyboard-osk.page:41 C/keyboard-repeat-keys.page:46
 #: C/look-background.page:61 C/mouse-doubleclick.page:44
 #: C/mouse-mousekeys.page:44 C/mouse-sensitivity.page:42
 #: C/mouse-when-right-click.page:43 C/net-manual.page:36
-#: C/printing-cancel-job.page:43 C/printing-cancel-job.page:86
-#: C/printing-setup-default-printer.page:42 C/printing-setup.page:80
-#: C/privacy-screen-lock.page:47 C/session-language.page:41
-#: C/sharing-bluetooth.page:90 C/shell-notifications.page:101
-#: C/shell-update-system.page:46 C/sound-alert.page:39 C/user-add.page:76
-#: C/user-admin-change.page:38 C/user-autologin.page:29
-#: C/user-changepassword.page:65 C/user-changepicture.page:42
-#: C/user-delete.page:49
+#: C/printing-cancel-job.page:43 C/printing-cancel-job.page:84
+#: C/printing-setup.page:80 C/privacy-screen-lock.page:47
+#: C/session-language.page:44 C/sharing-bluetooth.page:94
+#: C/shell-notifications.page:104 C/shell-update-system.page:46
+#: C/sound-alert.page:39 C/user-add.page:80 C/user-admin-change.page:38
+#: C/user-autologin.page:29 C/user-changepassword.page:65
+#: C/user-changepicture.page:42 C/user-delete.page:49
 msgid ""
-"Click on the <_:media-1/> on the bottom left-hand corner of your screen, "
-"then click on <gui>Settings</gui>."
-msgstr "Klik <_:media-1/> di sudut kiri bawah layar, lalu klik <gui>Pengaturan</gui>."
+"Type \"Settings\" into the <gui>global search bar</gui> on your desktop. "
+"Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
+"to open."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/a11y-bouncekeys.page:49 C/a11y-contrast.page:49 C/a11y-dwellclick.page:54
-#: C/a11y-font-size.page:43 C/a11y-mag.page:45 C/a11y-right-click.page:49
-#: C/a11y-slowkeys.page:51 C/a11y-stickykeys.page:55
-#: C/a11y-visualalert.page:50 C/keyboard-osk.page:47 C/mouse-mousekeys.page:50
+#: C/a11y-bouncekeys.page:48 C/a11y-contrast.page:47 C/a11y-dwellclick.page:53
+#: C/a11y-font-size.page:42 C/a11y-mag.page:44 C/a11y-right-click.page:48
+#: C/a11y-slowkeys.page:50 C/a11y-stickykeys.page:54
+#: C/a11y-visualalert.page:49 C/keyboard-osk.page:46 C/mouse-mousekeys.page:49
 msgid "Click on <gui>Universal Access</gui>."
 msgstr "Klik pada <gui>Universal Access</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-bouncekeys.page:53 C/a11y-slowkeys.page:55 C/a11y-stickykeys.page:59
+#: C/a11y-bouncekeys.page:52 C/a11y-slowkeys.page:54 C/a11y-stickykeys.page:58
 msgid ""
 "Press <gui>Typing Assist (AccessX)</gui> in the <gui>Typing</gui> section."
 msgstr "Tekan <gui>Bantuan Mengetik (AccessX)</gui> dalam bagian <gui>Pengetikan</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-bouncekeys.page:57
+#: C/a11y-bouncekeys.page:56
 msgid "Switch <gui>Bounce Keys</gui> to <gui>On</gui>."
 msgstr "Nyalakan <gui>Tombol Pantul</gui>."
 
 #. (itstool) path: note/title
-#: C/a11y-bouncekeys.page:62
+#: C/a11y-bouncekeys.page:61
 msgid "Quickly turn bounce keys on and off"
 msgstr "Nyalakan dan matikan tombol pantul secara cepat"
 
 #. (itstool) path: note/p
-#: C/a11y-bouncekeys.page:63
+#: C/a11y-bouncekeys.page:62
 msgid ""
 "You can turn bounce keys on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar at the bottom of your "
@@ -197,7 +197,7 @@ msgid ""
 msgstr "Anda dapat mengaktifkan tombol bounce dan mematikan dengan mengklik <link xref=\"a11y-icon\"> ikon aksesibilitas </link> pada task bar di bagian bawah layar Anda dan memilih <gui> Tombol Bounce </gui>. Ikon aksesibilitas terlihat ketika satu atau lebih pengaturan telah diaktifkan dari panel <gui> Universal Access </gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-bouncekeys.page:70
+#: C/a11y-bouncekeys.page:69
 msgid ""
 "Use the <gui>Acceptance delay</gui> slider to change how long bounce keys "
 "waits before it registers another key press after you pressed the key for "
@@ -252,7 +252,7 @@ msgid "To adjust the contrast of your window:"
 msgstr "Untuk menyesuaikan kontras jendela Anda:"
 
 #. (itstool) path: item/p
-#: C/a11y-contrast.page:53
+#: C/a11y-contrast.page:51
 msgid "Switch <gui>High Contrast</gui> to <gui>ON</gui>."
 msgstr "Nyalakan <gui>Kontras Tinggi</gui>."
 
@@ -286,19 +286,19 @@ msgid ""
 msgstr "Ketika <gui>Klik Mengambang</gui> difungsikan, Anda dapat memindah pointer tetikus Anda lewat suatu kendali, melepas tetikus, lalu menunggu sejenak sebelum tombol akan diklikkan bagi Anda."
 
 #. (itstool) path: item/p
-#: C/a11y-dwellclick.page:58
+#: C/a11y-dwellclick.page:57
 msgid ""
 "Press <gui>Click Assistant</gui> in the <gui>Pointing and Clicking</gui> "
 "section."
 msgstr "Tekan <gui>Asisten Klik</gui> dalam seksi <gui>Menunjuk dan Mengklik</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-dwellclick.page:62
+#: C/a11y-dwellclick.page:61
 msgid "Switch <gui>Hover Click</gui> to <gui>On</gui>."
 msgstr "Ubah <gui>Klik Mengambang</gui> menjadi <gui>Nyala</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:66
+#: C/a11y-dwellclick.page:65
 msgid ""
 "The <gui>Hover Click</gui> window will open, and will stay above all of your"
 " other windows. You can use this to choose what sort of click should happen "
@@ -308,7 +308,7 @@ msgid ""
 msgstr "Jendela <gui>Klik Mengambang</gui> akan terbuka, dan akan bertahan di atas semua jendela lain Anda. Anda dapat menggunakan ini untuk memilih apa jenis klik yang harus terjadi ketika Anda mengambang. Misalnya, jika Anda memilih <gui>Klik Sekunder</gui>, Anda akan klik kanan ketika Anda mengambang. Setelah Anda klik ganda, klik kanan, atau menyeret, Anda akan secara otomatis kembali ke mengklik."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:72
+#: C/a11y-dwellclick.page:71
 msgid ""
 "When you hover your mouse pointer over a button and do not move it, it will "
 "gradually change color. When it has fully changed color, the button will be "
@@ -316,14 +316,14 @@ msgid ""
 msgstr "Ketika Anda mengambangkan penunjuk tetikus Anda di atas suatu tombol dan tidak menggerakkannya, itu akan berangsur-angsur berubah warna. Ketika warnanya sudah berubah sepenuhnya, tombol akan diklik."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:76
+#: C/a11y-dwellclick.page:75
 msgid ""
 "Adjust the <gui>Delay</gui> setting to change how long you have to hold the "
 "mouse pointer still before clicking."
 msgstr "Setel pengaturan <gui>Tundaan</gui> untuk mengubah berapa lama Anda mesti menahan penunjuk tetikus tetap diam sebelum mengklik."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:79
+#: C/a11y-dwellclick.page:78
 msgid ""
 "You do not need to hold the mouse perfectly still when hovering to click. "
 "The pointer is allowed to move a little bit and will still click after a "
@@ -331,7 +331,7 @@ msgid ""
 msgstr "Anda tak perlu menahan tetikus diam sempurna ketika mengambang untuk mengklik. Penunjuk boleh bergerak sedikit dan masih akan mengklik setelah beberapa saat. Namun bila bergerak terlalu banyak, klik tak akan terjadi."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:83
+#: C/a11y-dwellclick.page:82
 msgid ""
 "Adjust the <gui>Motion threshold</gui> setting to change how much the "
 "pointer can move and still be considered to be hovering."
@@ -355,14 +355,14 @@ msgid ""
 msgstr "Bila Anda mengalami kesulitan membaca teks pada layar Anda, Anda dapat mengubah ukuran fonta."
 
 #. (itstool) path: item/p
-#: C/a11y-font-size.page:47
+#: C/a11y-font-size.page:46
 msgid ""
 "Switch <gui>Large Text</gui> to <gui>On</gui> in the <gui>Seeing</gui> "
 "section."
 msgstr "Nyalakan <gui>Teks Besar</gui> dalam seksi <gui>Penglihatan</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-font-size.page:52
+#: C/a11y-font-size.page:51
 msgid ""
 "Alternatively, you can quickly change the text size by clicking the <link "
 "xref=\"a11y-icon\">accessibility icon</link> on the task bar and selecting "
@@ -370,7 +370,7 @@ msgid ""
 msgstr "Sebagai alternatif, Anda bisa mengubah cepat ukuran teks dengan klik <link xref=\"a11y-icon\">accessibility icon</link> pada task bar dan memilih <gui>Large Text</gui>."
 
 #. (itstool) path: note/p
-#: C/a11y-font-size.page:57
+#: C/a11y-font-size.page:56
 msgid ""
 "In many applications, you can increase the text size at any time by pressing"
 " <keyseq><key>Ctrl</key><key>+</key></keyseq>. To reduce the text size, "
@@ -410,12 +410,12 @@ msgid ""
 msgstr "Bila Anda tak melihat menu akses universal, Anda dapat memfungsikannya dari panel pengaturan <gui>Akses Universal</gui>:"
 
 #. (itstool) path: item/p
-#: C/a11y-icon.page:44
+#: C/a11y-icon.page:42
 msgid "Click <gui>Universal Access</gui>."
 msgstr "Klik <gui>Universal Access</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-icon.page:47
+#: C/a11y-icon.page:45
 msgid "Switch <gui>Always Show Universal Access Menu</gui> to <gui>On</gui>."
 msgstr "Nyalakan <gui>Selalu Tunjukkan Menu Akses Universal</gui>."
 
@@ -439,17 +439,17 @@ msgid ""
 msgstr "Memperbesar layar berbeda dengan hanya memperbesar <link xref=\"a11y-font-size\">ukuran teks</link>. Fitur ini seperti memiliki kaca pembesar, memungkinkan Anda berpindah-pindah dengan menzum pada berbagai bagian layar."
 
 #. (itstool) path: item/p
-#: C/a11y-mag.page:49
+#: C/a11y-mag.page:48
 msgid "Press on <gui>Zoom</gui> in the <gui>Seeing</gui> section."
 msgstr "Tekan <gui>Zum</gui> dalam bagian <gui>Melihat</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-mag.page:52
+#: C/a11y-mag.page:51
 msgid "Switch <gui>Zoom</gui> to <gui>On</gui>."
 msgstr "Atur <gui>Zum</gui> ke <gui>Nyala</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:62
+#: C/a11y-mag.page:61
 msgid ""
 "You can now move around the screen area. By moving your mouse to the edges "
 "of the screen, you will move the magnified area in different directions, "
@@ -457,7 +457,7 @@ msgid ""
 msgstr "Anda kini dapat berpindah-pindah pada area layar. Dengan memindah tetikus Anda ke tepi layar, Anda akan memindah area yang diperbesar ke arah berbeda, memungkinkan Anda melihat area pilihan Anda."
 
 #. (itstool) path: note/p
-#: C/a11y-mag.page:67
+#: C/a11y-mag.page:66
 msgid ""
 "You can quickly turn zoom on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting "
@@ -465,7 +465,7 @@ msgid ""
 msgstr "Anda dapat dengan cepat menyalakan dan mematikan fungsi perbesar/perkecil dengan mengeklik <link xref=\"a11y-icon\">ikon aksesibilitas</link> pada bilah tugas dan memilih <gui>Zoom</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:72
+#: C/a11y-mag.page:71
 msgid ""
 "You can change the magnification factor, the mouse tracking, and the "
 "position of the magnified view on the screen. Adjust these in the "
@@ -473,7 +473,7 @@ msgid ""
 msgstr "Anda dapat mengubah faktor perbesaran, pelacakan tetikus, dan posisi tilikan yang diperbesar pada layar. Atur ini dalam tab <gui>Pembesar</gui> dari jendela pengaturan <gui>Zum</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:76
+#: C/a11y-mag.page:75
 msgid ""
 "You can activate crosshairs to help you find the mouse or touchpad pointer. "
 "To switch them on and adjust their length, color, and thickness, go to "
@@ -482,7 +482,7 @@ msgid ""
 msgstr "Anda dapat mengaktifkan crosshair guna membantu menemukan pointer mouse atau touchpad. Untuk berganti dan menyesuaikan panjang, warna, dan ketebalannya, pergilah ke <gui>Crosshair</gui> di tab <gui>Crosshair</gui> pada jendela pengaturan <gui>Perbesaran</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:81
+#: C/a11y-mag.page:80
 msgid ""
 "You can switch to inverse video or <gui>White on black</gui>, and adjust "
 "brightness, contrast and greyscale options for the magnifier. The "
@@ -519,26 +519,26 @@ msgid ""
 msgstr "Anda dapat mengklik kanan dengan menahan tombol kiri tetikus. Ini berguna bila Anda mengalami kesulitan untuk memindahkan jari-jari Anda secara individual pada satu tangan, atau bila perangkat penunjuk Anda hanya memiliki satu tombol."
 
 #. (itstool) path: item/p
-#: C/a11y-right-click.page:53
+#: C/a11y-right-click.page:52
 msgid ""
 "Press <gui>Click Assist</gui> in the <gui>Pointing and Clicking</gui> "
 "section."
 msgstr "Tekan <gui>Bantu Klik</gui> dalam seksi <gui>Menunjuk dan Mengklik</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-right-click.page:58
+#: C/a11y-right-click.page:57
 msgid "Switch <gui>Simulated Secondary Click</gui> to <gui>On</gui>."
 msgstr "Nyalakan <gui>Klik Sekunder Tersimulasi</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:63
+#: C/a11y-right-click.page:62
 msgid ""
 "You can change how long you must hold down the left mouse button before it "
 "is registered as a right click by changing the <gui>Acceptance delay</gui>."
 msgstr "Anda dapat mengubah berapa lama Anda mesti menahan tombol kiri tetikus sebelum dianggap sebagai klik kanan dengan mengubah <gui>Tundaan penerimaan</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:67
+#: C/a11y-right-click.page:66
 msgid ""
 "To right-click with simulated secondary click, hold down the left mouse "
 "button where you would normally right-click, then release. The pointer fills"
@@ -547,7 +547,7 @@ msgid ""
 msgstr "Untuk klik kanan dengan klik sekunder tersimulasi, tahan tombol kiri tetikus dimana Anda biasanya melakukan klik kanan, lalu lepaskan. Penunjuk akan diisi warna biru ketika Anda menahan tombol kiri tetikus. Setelah sepenuhnya biru, lepaskan tombol tetikus untuk klik kanan."
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:72
+#: C/a11y-right-click.page:71
 msgid ""
 "Some special pointers, such as the resize pointers, do not change colors. "
 "You can still use simulated secondary click as normal, even if you don't get"
@@ -555,7 +555,7 @@ msgid ""
 msgstr "Beberapa penunjuk khusus, seperti penunjuk ubah ukuran, tak berubah warna. Anda masih dapat memakai klik sekunder tersimulasi seperti normal, bahkan ketika Anda tak mendapat umpan balik visual dari penunjuk."
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:76
+#: C/a11y-right-click.page:75
 msgid ""
 "If you use <link xref=\"mouse-mousekeys\">Mouse Keys</link>, this also "
 "allows you to right-click by holding down the <key>5</key> key on your "
@@ -604,17 +604,17 @@ msgid ""
 msgstr "Hidupkan <em>tombol lambat</em> jika Anda ingin ada penundaan antara menekan tombol dan huruf ditampilkan di layar. Ini berarti bahwa Anda harus menahan setiap tombol yang ingin Anda ketik untuk beberapa saat sebelum muncul. Gunakan tombol lambat jika Anda secara tidak sengaja menekan beberapa tombol pada satu saat ketika Anda mengetik, atau jika Anda merasa sulit untuk langsung menekan tombol yang benar pada papan tik."
 
 #. (itstool) path: item/p
-#: C/a11y-slowkeys.page:59
+#: C/a11y-slowkeys.page:58
 msgid "Switch <gui>Slow Keys</gui> to <gui>On</gui>."
 msgstr "Nyalakan <gui>Tombol Lambat</gui>."
 
 #. (itstool) path: note/title
-#: C/a11y-slowkeys.page:64
+#: C/a11y-slowkeys.page:63
 msgid "Quickly turn slow keys on and off"
 msgstr "Nyalakan dan matikan tombol lambat secara cepat"
 
 #. (itstool) path: note/p
-#: C/a11y-slowkeys.page:65
+#: C/a11y-slowkeys.page:64
 msgid ""
 "Under <gui>Enable by Keyboard</gui>, select <gui>Turn on accessibility "
 "features from the keyboard</gui> to turn slow keys on and off from the "
@@ -623,7 +623,7 @@ msgid ""
 msgstr "Di bawah <gui>Aktifkan dari Papan Tik</gui>, pilih <gui>Hidupkan fitur aksesibilitas dari papan tik</gui> untuk mengaktifkan dan mematikan tombol lambat dari papan tik. Ketika opsi ini dipilih, Anda dapat menekan terus tombol <key>Shift</key> selama delapan detik untuk mengaktifkan atau menonaktifkan tombol lambat."
 
 #. (itstool) path: note/p
-#: C/a11y-slowkeys.page:70
+#: C/a11y-slowkeys.page:69
 msgid ""
 "You can also turn slow keys on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting <gui>Slow "
@@ -632,14 +632,14 @@ msgid ""
 msgstr "Anda juga bisa mengaktifkan dan mematikan fungsi slow key dengan klik <link xref=\"a11y-icon\">accessibility icon</link> pada task bar dan memilih <gui>Slow Keys</gui>. Ikon aksesibilitas akan muncul saat satu atau lebih pengaturan diaktifkan dari panel <gui>Universal Access</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-slowkeys.page:77
+#: C/a11y-slowkeys.page:76
 msgid ""
 "Use the <gui>Acceptance delay</gui> slider to control how long you have to "
 "hold a key down for it to register."
 msgstr "Gunakan penggeser <gui>Tundaan penerimaan</gui> untuk mengendalikan berapa lama Anda mesti menahan menekan tombol sampai terdeteksi."
 
 #. (itstool) path: page/p
-#: C/a11y-slowkeys.page:80
+#: C/a11y-slowkeys.page:79
 msgid ""
 "You can have your computer make a sound when you press a key, when a key "
 "press is accepted, or when a key press is rejected because you didn't hold "
@@ -677,17 +677,17 @@ msgid ""
 msgstr "Anda mungkin ingin menyalakan tombol lengket apabila Anda merasa sulit menekan beberapa tombol sekaligus."
 
 #. (itstool) path: item/p
-#: C/a11y-stickykeys.page:63
+#: C/a11y-stickykeys.page:62
 msgid "Switch <gui>Sticky Keys</gui> to <gui>On</gui>."
 msgstr "Nyalakan <gui>Tombol Lengket</gui>."
 
 #. (itstool) path: note/title
-#: C/a11y-stickykeys.page:68
+#: C/a11y-stickykeys.page:67
 msgid "Quickly turn sticky keys on and off"
 msgstr "Nyalakan dan matikan tombol lengket secara cepat"
 
 #. (itstool) path: note/p
-#: C/a11y-stickykeys.page:69
+#: C/a11y-stickykeys.page:68
 msgid ""
 "Under <gui>Enable by Keyboard</gui>, select <gui>Turn on accessibility "
 "features from the keyboard</gui> to turn sticky keys on and off from the "
@@ -696,7 +696,7 @@ msgid ""
 msgstr "Di bawah <gui>Aktifkan dari Papan Tik</gui>, pilih <gui>Hidupkan fitur aksesibilitas dari papan tik</gui> (di atas <gui>Tombol Lengket</gui>) untuk menghidupkan dan mematikan tombol lengket dari papan tik. Ketika opsi ini dipilih, Anda dapat menekan <key>Shift</key> lima kali berturut-turut untuk mengaktifkan atau menonaktifkan tombol lengket."
 
 #. (itstool) path: note/p
-#: C/a11y-stickykeys.page:74
+#: C/a11y-stickykeys.page:73
 msgid ""
 "You can also turn sticky keys on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting <gui>Sticky "
@@ -705,14 +705,14 @@ msgid ""
 msgstr "Anda juga dapat mengaktifkan tombol lengket dan mematikan dengan mengklik <link xref=\"a11y-icon\">ikon aksesibilitas</link> pada task bar dan memilih <gui>Sticky Keys</gui>. Ikon aksesibilitas terlihat ketika satu atau pengaturan lebih telah diaktifkan dari panel <gui>Universal Access</gui> ."
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:81
+#: C/a11y-stickykeys.page:80
 msgid ""
 "If you press two keys at once, you can have sticky keys turn itself off "
 "temporarily to let you enter a keyboard shortcut in the normal way."
 msgstr "Bila Anda menekan dua tombol sekaligus, Anda dapat mematikan sementara tombol lengket agar Anda dapat memasukkan pintasan papan tik dengan cara normal."
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:84
+#: C/a11y-stickykeys.page:83
 msgid ""
 "For example, if you have sticky keys turned on but press <key>Super</key> "
 "and <key>Tab</key> simultaneously, sticky keys would not wait for you to "
@@ -723,13 +723,13 @@ msgid ""
 msgstr "Misalnya, jika kunci lengket dihidupkan tetapi Anda menekan <key>Super</key> dan <key>Tab</key> secara bersamaan, kunci lengket tidak akan menunggu Anda untuk menekan tombol lain jika opsi ini diaktifkan. Namun ini <em>akan</em> menunggu jika Anda hanya menekan satu tombol. Ini berguna jika Anda dapat menekan beberapa pintasan papan tik secara bersamaan (misalnya, tombol yang berdekatan), tapi bukan yang lainnya."
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:91
+#: C/a11y-stickykeys.page:90
 msgid ""
 "Select <gui>Disable if two keys are pressed together</gui> to enable this."
 msgstr "Pilih <gui>Nonaktifkan bila dua tombol ditekan bersama</gui> untuk mengaktifkan ini."
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:94
+#: C/a11y-stickykeys.page:93
 msgid ""
 "You can have the computer make a \"beep\" sound when you start typing a "
 "keyboard shortcut with sticky keys turned on. This is useful if you want to "
@@ -768,24 +768,24 @@ msgid ""
 msgstr "Ini juga bisa berguna bila Anda berada dalam lingkungan dimana Anda perlu agar komputer Anda tak bersuara seperti di perpustakaan. Lihat <link xref=\"sound-alert\"/> untuk belajar bagaimana membisukan suara peringatan, lalu mengaktifkan peringatan visual."
 
 #. (itstool) path: item/p
-#: C/a11y-visualalert.page:54
+#: C/a11y-visualalert.page:53
 msgid "Press <gui>Visual Alerts</gui> in the <gui>Hearing</gui> section."
 msgstr "Tekan <gui>Peringatan Visual</gui> dalam <gui>Pendengaran</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-visualalert.page:57
+#: C/a11y-visualalert.page:56
 msgid "Switch <gui>Visual Alerts</gui> to <gui>On</gui>."
 msgstr "Ubah <gui>Visual Alerts</gui> ke <gui>On</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-visualalert.page:60
+#: C/a11y-visualalert.page:59
 msgid ""
 "Select whether you want the entire screen or just your current window title "
 "to flash."
 msgstr "Pilih apakah Anda ingin seluruh layar atau hanya jendela kini saja yang mengedip."
 
 #. (itstool) path: note/p
-#: C/a11y-visualalert.page:66
+#: C/a11y-visualalert.page:65
 msgid ""
 "You can quickly turn visual alerts on and off by clicking the <link xref"
 "=\"a11y-icon\">accessibility icon</link> on the task bar and selecting "
@@ -850,23 +850,27 @@ msgstr "Jim Campbell"
 
 #. (itstool) path: credit/name
 #: C/accounts-add.page:21 C/backup-why.page:11
-#: C/files-microsoft-compatible.page:11 C/files-save.page:10
-#: C/files-zip.page:10 C/keyboard-es-accent.page:10 C/look-background.page:45
+#: C/bluetooth-remove-connection.page:29 C/bluetooth-send-file.page:28
+#: C/bluetooth-turn-on-off.page:28 C/clock-set.page:21
+#: C/clock-timezone.page:25 C/files-microsoft-compatible.page:11
+#: C/files-save.page:10 C/files-zip.page:10 C/look-background.page:45
 #: C/media-import-from-device.page:11 C/media-listen-music.page:11
 #: C/media-play-videos.page:11 C/mouse-when-right-click.page:11
 #: C/net-3g-dongles.page:10 C/net-create-email.page:10
 #: C/net-discover-websites.page:11 C/net-installing-other-browsers.page:10
-#: C/net-read-news.page:11 C/net-social-bar.page:11 C/net-troubleshoot.page:9
+#: C/net-troubleshoot.page:9 C/net-wireless-hidden.page:25
 #: C/printing-from-applications.page:10 C/printing-setup.page:33
 #: C/printing-supported.page:11 C/security-and-privacy.page:8
 #: C/security-data-collection.page:10 C/security-guard-privacy.page:10
-#: C/security-understand-password.page:11 C/sharing-media.page:16
+#: C/security-understand-password.page:11 C/session-language.page:31
+#: C/sharing-bluetooth.page:16 C/sharing-media.page:16
 #: C/shell-add-desktop-folder.page:11 C/shell-apps-close.page:11
 #: C/shell-apps-open.page:25 C/shell-delete-app-desktop.page:11
-#: C/shell-download-media.page:10 C/shell-install-ext-apps.page:10
+#: C/shell-exit.page:30 C/shell-install-ext-apps.page:10
+#: C/shell-introduction.page:26 C/shell-notifications.page:26
 #: C/shell-organize-apps.page:10 C/shell-update-app.page:11
 #: C/shell-update-system.page:11 C/shell-windows-hide.page:11
-#: C/sound-troubleshoot.page:10
+#: C/user-add.page:30
 msgid "Nuritzi Sanchez"
 msgstr "Nuritzi Sanchez"
 
@@ -890,29 +894,29 @@ msgid ""
 msgstr "Anda dapat menautkan beberapa akun daring favorit Anda, seperti email, sehingga pengaturan untuk aplikasi terkait akan dibuat dan otomatis bekerja saat Anda membukanya."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:42
+#: C/accounts-add.page:40
 msgid "Click on <gui>Online Accounts</gui>."
 msgstr "Klik pada <gui>Akun Daring</gui>."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:46
+#: C/accounts-add.page:44
 msgid "Click the <gui>Add an online account</gui> button."
 msgstr "Klik tombol <gui>Tambah akun daring</gui>."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:50
+#: C/accounts-add.page:48
 msgid "Select the type of account you want to add first."
 msgstr "Pilih jenis akun yang ingin Anda tambahkan terlebih dahulu."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:51
+#: C/accounts-add.page:49
 msgid ""
 "If you want to add more than one account type, you can do so at a later "
 "time."
 msgstr "Bila Anda ingin menambah lebih dari satu tipe akun, Anda dapat melakukannya setelahnya."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:56
+#: C/accounts-add.page:54
 msgid ""
 "A small window will open where you can enter your online account "
 "credentials. For example, if you are setting up a Google account, enter your"
@@ -920,14 +924,14 @@ msgid ""
 msgstr "Sebuah jendela kecil akan terbuka di mana Anda dapat memasukkan kredensial akun daring Anda. Sebagai contoh, jika Anda menata akun Google, masukkan nama pengguna dan sandi Google Anda."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:61
+#: C/accounts-add.page:59
 msgid ""
 "If you have entered your credentials correctly, you will be prompted to "
 "allow Endless access to your online account. Authorize access to continue."
 msgstr "Jika Anda memasukkan kredensial dengan benar, Anda akan diminta mengizinkan Endless untuk mengakses akun daring Anda. Izinkan akses untuk melanjutkan."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:66
+#: C/accounts-add.page:64
 msgid ""
 "Select the applications that you want linked to your online account. For "
 "example, if you want to use an online account for email, but do not want to "
@@ -936,14 +940,14 @@ msgid ""
 msgstr "Pilih aplikasi yang ingin Anda hubungkan dengan akun daring. Sebagai contoh, jika Anda ingin menggunakan akun daring untuk email, namun tak ingin menggunakan akun daring untuk kalender, ganti opsi <gui>kalender</gui> ke <gui>Off</gui>."
 
 #. (itstool) path: page/p
-#: C/accounts-add.page:74
+#: C/accounts-add.page:72
 msgid ""
 "After you have added the accounts, each application that you have selected "
 "will automatically use those credentials when you start them."
 msgstr "Setelah Anda menambahkan akun, setiap aplikasi yang telah Anda pilih akan secara otomatis memakai kredensial tersebut ketika Anda menjalankan mereka."
 
 #. (itstool) path: note/p
-#: C/accounts-add.page:78
+#: C/accounts-add.page:76
 msgid ""
 "For security reasons, Endless will not store your password on your computer."
 " Instead, it stores a token that is provided by the online service."
@@ -1356,28 +1360,28 @@ msgid ""
 msgstr "Sebelum Anda dapat memakai perangkat Bluetooth seperti tetikus atau headset, pertama Anda perlu menyambung komputer Anda ke perangkat. Ini juga dikenal sebagai memperpasangkan perangkan Bluetooth."
 
 #. (itstool) path: note/p
-#: C/bluetooth-connect-device.page:41 C/bluetooth-send-file.page:46
+#: C/bluetooth-connect-device.page:41 C/bluetooth-send-file.page:50
 msgid ""
 "Before you begin, make sure Bluetooth is enabled on your computer. See <link"
 " xref=\"bluetooth-turn-on-off\"/>."
 msgstr "Sebelum Anda mulai, pastikan bahwa Bluetooth difungsikan pada komputer Anda. Lihat <link xref=\"bluetooth-turn-on-off\"/>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:53 C/bluetooth-remove-connection.page:51
-#: C/bluetooth-send-file.page:58 C/bluetooth-turn-on-off.page:51
+#: C/bluetooth-connect-device.page:51 C/bluetooth-remove-connection.page:53
+#: C/bluetooth-send-file.page:60 C/bluetooth-turn-on-off.page:53
 #: C/bluetooth-turn-on-off.page:67
 msgid "Click <gui>Bluetooth</gui>."
 msgstr "Klik <gui>Bluetooth</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:56
+#: C/bluetooth-connect-device.page:54
 msgid ""
 "Make the other Bluetooth device discoverable or visible and place it within "
 "10 meters (about 33 feet) of your computer."
 msgstr "Buat perangkat Bluetooth lainnya terlihat atau dapat ditemukan dan tempatkan dalam jarak 10 meter (sekitar 33 kaki) dari komputer Anda."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:60
+#: C/bluetooth-connect-device.page:58
 msgid ""
 "Click <key>+</key> below the <gui>Devices</gui> list. The <gui>Bluetooth New"
 " Device Setup</gui> panel will open and your computer will begin searching "
@@ -1385,7 +1389,7 @@ msgid ""
 msgstr "Klik <key>+</key> di bawah daftar <gui>Perangkat</gui>. Panel <gui> Pengaturan Perangkat Baru Bluetooth</gui> akan terbuka dan komputer Anda akan mulai mencari perangkat."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:65
+#: C/bluetooth-connect-device.page:63
 msgid ""
 "Select a device in the <gui>Device</gui> list. If there are too many devices"
 " listed, use the <gui>Device type</gui> drop-down to display only a single "
@@ -1393,14 +1397,14 @@ msgid ""
 msgstr "Pilih perangkat dari daftar <gui>Perangkat</gui>. Jika daftar perangkat terlalu banyak, gunakan drop-down <gui>Jenis perangkat</gui> untuk menampilkan hanya satu jenis perangkat dalam daftar."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:70
+#: C/bluetooth-connect-device.page:68
 msgid ""
 "Click <gui>PIN options</gui> to set how a PIN will be delivered to the other"
 " device."
 msgstr "Klik <gui>Opsi PIN</gui> untuk menata bagaimana PIN akan dikirim ke perangkat lain."
 
 #. (itstool) path: note/p
-#: C/bluetooth-connect-device.page:73
+#: C/bluetooth-connect-device.page:71
 msgid ""
 "The automatic PIN setting will use a six-digit numerical code. A device with"
 " no input keys or screen, such as a mouse or headset, may require a specific"
@@ -1409,21 +1413,21 @@ msgid ""
 msgstr "Pengaturan PIN otomatis akan memakai kode angka enam digit. Perangkat tanpa tombol masukan atau layar, seperti misalnya tetikus atau headset, mungkin memerlukan PIN spesifik seperti 0000, atau tanpa PIN sama sekali. Periksa manual perangkat Anda untuk pengaturan yang sesuai."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:78
+#: C/bluetooth-connect-device.page:76
 msgid ""
 "Choose an appropriate PIN setting for your device, then click "
 "<gui>Close</gui>."
 msgstr "Pilih pengaturan PIN yang sesuai bagi perangkat Anda, lalu klik <gui>Tutup</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:82
+#: C/bluetooth-connect-device.page:80
 msgid ""
 "Click <gui>Continue</gui> to proceed. If you did not choose a preset PIN, "
 "the PIN will be displayed on the screen."
 msgstr "Klik <gui>Lanjutkan</gui> untuk melanjutkan. Bila Anda tak memilih suatu PIN pratata, PIN akan ditampilkan pada layar."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:86
+#: C/bluetooth-connect-device.page:84
 msgid ""
 "If required, confirm the PIN on your other device. The device should show "
 "you the PIN you see on your computer screen, or may prompt you to enter the "
@@ -1431,7 +1435,7 @@ msgid ""
 msgstr "Bila diperlukan, konfirmasikan PIN pada perangkat lain. Perangkat mesti menampilkan PIN yang Anda lihat pada layar komputer Anda, atau mungkin meminta Anda untuk memasukkan PIN. Konfirmasikan PIN pada perangkat, lalu klik <gui>Cocok</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:90
+#: C/bluetooth-connect-device.page:88
 msgid ""
 "You need to finish your entry within about 20 seconds on most devices, or "
 "the connection will not be completed. If that happens, return to the device "
@@ -1439,14 +1443,14 @@ msgid ""
 msgstr "Anda perlu menyelesaikan entri Anda dalam 20 detik pada kebanyakan perangkat, atau koneksi tak akan dilengkapi. Bila itu terjadi, kembalilah ke daftar perangkat dan mulai lagi."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:93
+#: C/bluetooth-connect-device.page:91
 msgid ""
 "A message appears when the connection successfully completes. Click "
 "<gui>Close</gui>."
 msgstr "Suatu pesan muncul ketika koneksi sukses dilengkapkan. Klik <gui>Tutup</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:97
+#: C/bluetooth-connect-device.page:95
 msgid ""
 "The <gui>Setup Summary</gui> appears when the connection successfully "
 "completes. It may display additional options applicable to the type of "
@@ -1455,14 +1459,14 @@ msgid ""
 msgstr "<gui>Rangkuman Penataan</gui> muncul saat koneksi berhasil diselesaikan. Ini mungkin menampilkan opsi tambahan yang berlaku untuk jenis perangkat yang Anda hubungkan. Pilih opsi yang diinginkan lalu klik <gui>Keluar</gui>."
 
 #. (itstool) path: page/p
-#: C/bluetooth-connect-device.page:110
+#: C/bluetooth-connect-device.page:108
 msgid ""
 "You can <link xref=\"bluetooth-remove-connection\">remove a Bluetooth "
 "connection</link> later if desired."
 msgstr "Anda dapat <link xref=\"bluetooth-remove-connectione\">menghapus koneksi Bluetooth</link> nanti bila diinginkan."
 
 #. (itstool) path: note/p
-#: C/bluetooth-connect-device.page:115
+#: C/bluetooth-connect-device.page:113
 msgid ""
 "To control access to your shared files, refer to the <gui>Bluetooth "
 "Sharing</gui> settings. See <link xref=\"sharing-bluetooth\"/>."
@@ -1562,12 +1566,12 @@ msgid "2013"
 msgstr "2013"
 
 #. (itstool) path: page/title
-#: C/bluetooth-remove-connection.page:31
+#: C/bluetooth-remove-connection.page:35
 msgid "Remove a connection between Bluetooth devices"
 msgstr "Menghapus koneksi antara perangkat-perangkat Bluetooth"
 
 #. (itstool) path: page/p
-#: C/bluetooth-remove-connection.page:33
+#: C/bluetooth-remove-connection.page:37
 msgid ""
 "If you don't want to be connected to a Bluetooth device anymore, you can "
 "remove the connection. This is useful if you no longer want to use a device "
@@ -1576,19 +1580,19 @@ msgid ""
 msgstr "Bila Anda tak ingin tersambung ke suatu perangkat Bluetooth lagi, Anda dapat menghapus koneksi. Ini berguna bila Anda tak ingin memakai lagi suatu perangkat seperti tetikus atau headset, atau Anda tak ingin lagi mentransfer berkas ke atau dari suatu perangkat."
 
 #. (itstool) path: item/p
-#: C/bluetooth-remove-connection.page:54
+#: C/bluetooth-remove-connection.page:56
 msgid ""
 "Select the device you want to disconnect in the left pane, then click the "
 "<key>-</key> icon below the list."
 msgstr "Pilih perangkat yang Anda ingin putuskan sambungannya di panel sebelah kiri, lalu klik icon <key> - </key> di bawah daftar."
 
 #. (itstool) path: item/p
-#: C/bluetooth-remove-connection.page:58
+#: C/bluetooth-remove-connection.page:60
 msgid "Click <gui>Remove</gui> in the confirmation window."
 msgstr "Klik <gui>Hapus</gui> dalam jendela konfirmasi."
 
 #. (itstool) path: page/p
-#: C/bluetooth-remove-connection.page:62
+#: C/bluetooth-remove-connection.page:64
 msgid ""
 "You can <link xref=\"bluetooth-connect-device\">reconnect a Bluetooth "
 "device</link> later if desired."
@@ -1600,12 +1604,12 @@ msgid "Share files to Bluetooth devices such as your phone."
 msgstr "Berbagi berkas ke perangkat Bluetooth seperti misalnya telepon Anda."
 
 #. (itstool) path: page/title
-#: C/bluetooth-send-file.page:31
+#: C/bluetooth-send-file.page:35
 msgid "Send files to a Bluetooth device"
 msgstr "Kirimkan berkas ke perangkat Bluetooth"
 
 #. (itstool) path: page/p
-#: C/bluetooth-send-file.page:33
+#: C/bluetooth-send-file.page:37
 msgid ""
 "You can send files from your computer to other Bluetooth compatible devices,"
 " like some mobile phones, some speakers, or other computers. You can send "
@@ -1616,33 +1620,33 @@ msgid ""
 msgstr "Anda dapat mengirim file dari komputer Anda ke peranti Bluetooth yang kompatibel lainnya, seperti sejumlah ponsel, pemutar musik, atau komputer lainnya. Anda dapat mengirim file dengan satu dari tiga cara: menggunakan ikon Bluetooth di batang tugas, dari jendela pengaturan Bluetooth, atau langsung dari folder Dokumen. Beberapa jenis peranti tidak mengizinkan transfer file, atau jenis file tertentu, sehingga Anda perlu memeriksa peranti Anda dahulu."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:61
+#: C/bluetooth-send-file.page:63
 msgid ""
 "In the <gui>Devices</gui> list, select the device to which to send the files"
 " to and click <gui>Send Files...</gui>."
 msgstr "Pada daftar <gui>Peranti</gui>, pilih peranti yang mana yang akan dikirimi file dan klik <gui>Kirim File...</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:63
+#: C/bluetooth-send-file.page:65
 msgid ""
 "If the desired device is not shown in the list, you need to <link xref"
 "=\"bluetooth-connect-device\">connect</link> to it."
 msgstr "Jika perangkat yang Anda inginkan tidak tampak pada daftar, Anda perlu <link xref=\"bluetooth-connect-device\">menghubungkan</link> perangkat ini."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:67
+#: C/bluetooth-send-file.page:69
 msgid "Choose the file you want to send and click <gui>Select</gui>."
 msgstr "Pilih berkas yang ingin Anda kirim dan klik <gui>Pilih</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:68
+#: C/bluetooth-send-file.page:70
 msgid ""
 "To send more than one file in a folder, hold down <key>Ctrl</key> as you "
 "select each file."
 msgstr "Untuk mengirim lebih dari satu berkas dalam suatu folder, tekan terus <key>Ctrl</key> ketika Anda memilih setiap berkas."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:72
+#: C/bluetooth-send-file.page:74
 msgid ""
 "The owner of the receiving device usually has to press a button to accept "
 "the file. Once the owner accepts or declines, the result of the file "
@@ -1655,29 +1659,29 @@ msgid "Enable or disable the Bluetooth device on your computer."
 msgstr "Fungsikan atau matikan perangkat Bluetooth pada komputer Anda."
 
 #. (itstool) path: page/title
-#: C/bluetooth-turn-on-off.page:30
+#: C/bluetooth-turn-on-off.page:34
 msgid "Turn Bluetooth on or off"
 msgstr "Nyalakan atau matikan Bluetooth"
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:40
+#: C/bluetooth-turn-on-off.page:44
 msgid ""
 "You can turn <gui>Bluetooth</gui> on to use Bluetooth devices and send and "
 "receive files, but turn it off to conserve power."
 msgstr "Anda dapat mengaktifkan <gui>Bluetooth</gui> untuk menggunakan peranti Bluetooth dan mengirim serta menerima file, tetapi menonaktifkannya untuk menghemat baterai."
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:42
+#: C/bluetooth-turn-on-off.page:46
 msgid "To turn Bluetooth on:"
 msgstr "Untuk mengaktifkan Bluetooth:"
 
 #. (itstool) path: item/p
-#: C/bluetooth-turn-on-off.page:54
+#: C/bluetooth-turn-on-off.page:56
 msgid "Set the switch in the titlebar to <gui>ON</gui>."
 msgstr "Setel pengaturan di baris judul ke <gui>ON</gui>."
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:58
+#: C/bluetooth-turn-on-off.page:60
 msgid "To turn Bluetooth off:"
 msgstr "Untuk menonaktifkan Bluetooth:"
 
@@ -1730,39 +1734,40 @@ msgid ""
 msgstr "Anda bisa menghidupkan Bluetooth untuk tersambung dengan perangkat Bluetooth lainnya, atau Anda bisa mematikannya untuk menghemat energi."
 
 #. (itstool) path: info/desc
-#: C/clock-set.page:23
+#: C/clock-set.page:27
 msgid ""
 "Click the clock on the task bar and go into the <gui>Date &amp; Time "
 "Settings</gui> to alter the date/time."
 msgstr "Klik jam pada bilah tugas dan buka <gui>Date &amp; Time Settings</gui> untuk mengubah tanggal/waktu."
 
 #. (itstool) path: page/title
-#: C/clock-set.page:26
+#: C/clock-set.page:30
 msgid "Change the date and time"
 msgstr "Ubah tanggal dan waktu"
 
 #. (itstool) path: page/p
-#: C/clock-set.page:28
+#: C/clock-set.page:32
 msgid ""
 "If your date and time is in the wrong format, you can change the settings:"
 msgstr "Jika format waktu dan tanggal Anda salah, Anda dapat mengganti pengaturannya:"
 
 #. (itstool) path: item/p
-#: C/clock-set.page:33
+#: C/clock-set.page:37 C/clock-timezone.page:38
 msgid ""
-"Click on the clock on the task bar at the bottom right of your screen and "
-"select <gui>Date &amp; Time Settings</gui>."
-msgstr "Klik jam di task bar pada kanan bawah layar dan pilih <gui>Date &amp; Time Settings</gui>."
+"Type \"Date and Time\" into the <gui>global search bar</gui> on your "
+"desktop. Click on the resulting <app>Settings</app> icon, or press "
+"<key>Enter</key>, to open."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/clock-set.page:37 C/clock-timezone.page:38
+#: C/clock-set.page:41 C/clock-timezone.page:42
 msgid ""
 "If you have a standard account, you will need to click <gui>Unlock</gui> and"
 " type the <link xref=\"user-admin-explain\">administrator password</link>."
 msgstr "Jika Anda memiliki akun standar, Anda perlu untuk mengklik <gui>Buka</gui> dan ketik <link xref=\"user-admin-explain\">kata sandi administrator</link>."
 
 #. (itstool) path: item/p
-#: C/clock-set.page:42
+#: C/clock-set.page:46
 msgid ""
 "If you have an internet connection, you can set your date, time and time "
 "zone to update automatically by switching <gui>Automatic Date &amp; "
@@ -1770,7 +1775,7 @@ msgid ""
 msgstr "Jika Anda memiliki koneksi internet, Anda bisa mengatur tanggal, waktu, dan zona waktu diperbarui secara otomatis dengan mengubah <gui>Automatic Date &amp; Time</gui> dan <gui>Automatic Time Zone</gui> menjadi <gui>On</gui>."
 
 #. (itstool) path: item/p
-#: C/clock-set.page:45
+#: C/clock-set.page:49
 msgid ""
 "If you do not have an internet connection, you can update these manually by "
 "switching them to <gui>Off</gui>, then clicking <gui>Date &amp; Time</gui> "
@@ -1778,32 +1783,25 @@ msgid ""
 msgstr "Jika Anda tidak memiliki koneksi internet, Anda dapat memperbaruinya secara manual dengan mengalihkannya ke <gui>Mati</gui>, kemudian klik  <gui>Date &amp; Time</gui> dan <gui>Time Zone</gui> untuk memperbarui."
 
 #. (itstool) path: item/p
-#: C/clock-set.page:50
+#: C/clock-set.page:54
 msgid ""
 "You can also change how the hour is displayed by selecting "
 "<gui>24-hour</gui> or <gui>AM/PM</gui> format."
 msgstr "Anda juga dapat mengubah bagaimana jam ditampilkan dengan memilih format <gui>24-jam</gui> atau <gui>AM/PM</gui>."
 
 #. (itstool) path: info/desc
-#: C/clock-timezone.page:27
+#: C/clock-timezone.page:31
 msgid ""
 "Update your time zone to your current location so that your time is correct."
 msgstr "Perbarui zona waktu Anda sesuai lokasi saat ini sehingga jam komputer Anda tepat."
 
 #. (itstool) path: page/title
-#: C/clock-timezone.page:30
+#: C/clock-timezone.page:34
 msgid "Change your timezone"
 msgstr "Ubah zona waktu Anda"
 
 #. (itstool) path: item/p
-#: C/clock-timezone.page:34
-msgid ""
-"Click on the clock on the task bar on the bottom right side of your screen "
-"and select <gui>Date &amp; Time Settings</gui>."
-msgstr "Klik pada jam di bilah tugas di sisi kanan bawah layar dan pilih <gui>Date &amp; Time Settings</gui>."
-
-#. (itstool) path: item/p
-#: C/clock-timezone.page:43
+#: C/clock-timezone.page:47
 msgid ""
 "If you have <gui>Automatic Time Zone</gui> set to <gui>On</gui>, your time "
 "zone should update automatically if you have an internet connection. To "
@@ -1811,14 +1809,14 @@ msgid ""
 msgstr "Apabila <gui>Zona Waktu Otomatis</gui> <gui>Aktif</gui>, zona waktu Anda seharusnya akan diperbarui secara otomatis apabila Anda tersambung ke internet. Untuk memperbarui zona waktu Anda secara manual, setel aturan ini menjadi <gui>Nonaktif</gui>."
 
 #. (itstool) path: item/p
-#: C/clock-timezone.page:49
+#: C/clock-timezone.page:53
 msgid ""
 "Click <gui>Time Zone</gui>, then select your location on the map or search "
 "for your current city."
 msgstr "Klik <gui>Time Zone</gui>, kemudian pilih lokasi Anda di peta atau cari kota tempat Anda berada saat ini."
 
 #. (itstool) path: page/p
-#: C/clock-timezone.page:54
+#: C/clock-timezone.page:58
 msgid ""
 "The time will be updated automatically when you select a different location."
 " You may also wish to <link xref=\"clock-set\">set the clock "
@@ -2171,12 +2169,11 @@ msgstr "Berkas terhapus pada <link xref=\"files-removedrive\">perangkat penyimpa
 
 #. (itstool) path: credit/name
 #: C/files-microsoft-compatible.page:15 C/files-save.page:14
-#: C/files-zip.page:14 C/keyboard-es-accent.page:14
-#: C/media-import-from-device.page:15 C/media-listen-music.page:15
-#: C/media-play-videos.page:15 C/mouse-when-right-click.page:15
-#: C/net-3g-dongles.page:14 C/net-create-email.page:14
-#: C/net-discover-websites.page:15 C/net-installing-other-browsers.page:14
-#: C/net-read-news.page:15 C/net-social-bar.page:15 C/net-troubleshoot.page:13
+#: C/files-zip.page:14 C/media-import-from-device.page:15
+#: C/media-listen-music.page:15 C/media-play-videos.page:15
+#: C/mouse-when-right-click.page:15 C/net-3g-dongles.page:14
+#: C/net-create-email.page:14 C/net-discover-websites.page:15
+#: C/net-installing-other-browsers.page:14 C/net-troubleshoot.page:13
 #: C/printing-from-applications.page:14 C/printing-supported.page:15
 #: C/security-and-privacy.page:12 C/security-data-collection.page:14
 #: C/security-guard-privacy.page:14 C/security-understand-password.page:15
@@ -2184,18 +2181,16 @@ msgstr "Berkas terhapus pada <link xref=\"files-removedrive\">perangkat penyimpa
 #: C/shell-delete-app-desktop.page:15 C/shell-install-ext-apps.page:14
 #: C/shell-organize-apps.page:14 C/shell-update-app.page:15
 #: C/shell-update-system.page:15 C/shell-windows-hide.page:15
-#: C/sound-troubleshoot.page:14
 msgid "Endless Mobile, Inc."
 msgstr "Endless Mobile, Inc."
 
 #. (itstool) path: credit/years
 #: C/files-microsoft-compatible.page:16 C/files-save.page:15
-#: C/files-zip.page:15 C/keyboard-es-accent.page:15
-#: C/media-import-from-device.page:16 C/media-listen-music.page:16
-#: C/media-play-videos.page:16 C/mouse-when-right-click.page:16
-#: C/net-3g-dongles.page:15 C/net-create-email.page:15
-#: C/net-discover-websites.page:16 C/net-installing-other-browsers.page:15
-#: C/net-read-news.page:16 C/net-social-bar.page:16 C/net-troubleshoot.page:14
+#: C/files-zip.page:15 C/media-import-from-device.page:16
+#: C/media-listen-music.page:16 C/media-play-videos.page:16
+#: C/mouse-when-right-click.page:16 C/net-3g-dongles.page:15
+#: C/net-create-email.page:15 C/net-discover-websites.page:16
+#: C/net-installing-other-browsers.page:15 C/net-troubleshoot.page:14
 #: C/printing-from-applications.page:15 C/printing-supported.page:16
 #: C/security-and-privacy.page:13 C/security-data-collection.page:15
 #: C/security-guard-privacy.page:15 C/security-understand-password.page:16
@@ -3264,8 +3259,10 @@ msgstr "Memulai"
 
 #. (itstool) path: section/title
 #: C/index.page:20
-msgid "<link href=\"endlessm-app://com.endlessm.Tutorial\">Tutorial</link>"
-msgstr "<link href=\"endlessm-app://com.endlessm.Tutorial\">Tutorial</link>"
+msgid ""
+"<link href=\"endlessm-app://eos-link-feedback.desktop\">Give Us "
+"Feedback</link>"
+msgstr ""
 
 #. (itstool) path: info/desc
 #: C/keyboard-cursor-blink.page:11
@@ -3305,68 +3302,20 @@ msgid ""
 msgstr "Jika Anda kesulitan melihat kursor papan ketik di bagian teks, Anda bisa membuatnya berkedip supaya mudah dikenali."
 
 #. (itstool) path: item/p
-#: C/keyboard-cursor-blink.page:49 C/keyboard-repeat-keys.page:52
+#: C/keyboard-cursor-blink.page:48 C/keyboard-repeat-keys.page:51
 msgid "Click on <gui>Keyboard</gui>."
 msgstr "Klik pada <gui>Keyboard</gui>."
 
 #. (itstool) path: item/p
-#: C/keyboard-cursor-blink.page:52
+#: C/keyboard-cursor-blink.page:51
 msgid "Select <gui>Cursor blinks in text fields</gui>."
 msgstr "Pilih <gui>Kursor berkedip dalam ruas teks</gui>."
 
 #. (itstool) path: item/p
-#: C/keyboard-cursor-blink.page:54
+#: C/keyboard-cursor-blink.page:53
 msgid ""
 "Use the <gui>Speed</gui> slider to adjust how quickly the cursor blinks."
 msgstr "Gunakan slider <gui>Speed</gui> untuk menyesuaikan kecepatan kedipan kursor."
-
-#. (itstool) path: info/desc
-#: C/keyboard-es-accent.page:18
-msgid "Learn how to type accents with your keyboard."
-msgstr "Pelajari cara mengetikkan aksen pada papan ketik Anda."
-
-#. (itstool) path: page/title
-#: C/keyboard-es-accent.page:21
-msgid "Type Spanish language accents in Endless"
-msgstr "Ketik aksen bahasa Spanyol di Endless"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:23
-msgid ""
-"It's easy to type accents on Endless - it is the same as most other "
-"platforms. On a Spanish Latin American keyboard, start by pressing the "
-"accute accent key and then the letter you'd like to accent:"
-msgstr "Amat mudah untuk mengetik aksen di Endless – caranya sama seperti di sebagian besar platform lainnya. Pada papan tik Spanyol Amerika Latin, mulailah dengan menekan tombol aksen akut dan kemudian huruf yang Anda ingin beri aksen:"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:27
-msgid "<keyseq><key>`</key><key>a</key></keyseq> = á"
-msgstr "<keyseq><key>`</key><key>a</key></keyseq> = á"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:29
-msgid "<keyseq><key>`</key><key>e</key></keyseq> = é"
-msgstr "<keyseq><key>`</key><key>e</key></keyseq> = é"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:31
-msgid "<keyseq><key>`</key><key>i</key></keyseq> = í"
-msgstr "<keyseq><key>`</key><key>i</key></keyseq> = í"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:33
-msgid "<keyseq><key>`</key><key>o</key></keyseq> = ó"
-msgstr "<keyseq><key>`</key><key>o</key></keyseq> = ó"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:35
-msgid "<keyseq><key>`</key><key>u</key></keyseq> = ú"
-msgstr "<keyseq><key>`</key><key>u</key></keyseq> = ú"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:37
-msgid "<keyseq><key>\"</key><key>u</key></keyseq> = ü"
-msgstr "<keyseq><key>\"</key><key>u</key></keyseq> = ü"
 
 #. (itstool) path: credit/name
 #: C/keyboard-key-menu.page:12
@@ -3463,24 +3412,24 @@ msgid "To change which keys are used to display your open windows overview:"
 msgstr "Untuk mengubah tombol yang digunakan untuk menampilkan ikhtisar layar yang terbuka:"
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:57
+#: C/keyboard-key-super.page:55
 msgid "Click <gui>Keyboard</gui>."
 msgstr "Klik <gui>Papan tik</gui>."
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:60
+#: C/keyboard-key-super.page:58
 msgid "Click the <gui style=\"tab\">Shortcuts</gui> tab."
 msgstr "Klik pada cuping <gui style=\"tab\">Pintasan</gui>."
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:63
+#: C/keyboard-key-super.page:61
 msgid ""
 "Select <gui>System</gui> on the left side of the window, and <gui>Show the "
 "activities overview</gui> on the right."
 msgstr "Pilih <gui>Sistem</gui> di sisi kiri jendela, dan <gui>Tampilkan ringkasan aktivitas</gui> di kanan."
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:67
+#: C/keyboard-key-super.page:65
 msgid "Hold down the desired key combination."
 msgstr "Tekan dan tahan kombinasi tombol yang diinginkan."
 
@@ -3511,36 +3460,36 @@ msgid ""
 msgstr "Keyboard datang dalam ratusan tata letak yang berbeda untuk bahasa yang berbeda. Bahkan untuk satu bahasa, sering ada beberapa tata letak keyboard, seperti tata letak Dvorak untuk bahasa Inggris. Anda dapat membuat keyboard Anda berperilaku seperti keyboard dengan tata letak yang berbeda, terlepas dari huruf dan simbol yang tertera pada tombol. Hal ini berguna jika Anda sering beralih di antara beberapa bahasa."
 
 #. (itstool) path: item/p
-#: C/keyboard-layouts.page:57 C/session-language.page:47
+#: C/keyboard-layouts.page:55 C/session-language.page:48
 msgid "Click on <gui>Region &amp; Language</gui>."
 msgstr "Klik pada  <gui>Region &amp; Language</gui>."
 
 #. (itstool) path: item/p
-#: C/keyboard-layouts.page:61
+#: C/keyboard-layouts.page:59
 msgid ""
 "Click the <key>+</key> button, select the language which is associated with "
 "the layout, then select a layout and press<gui>Add</gui>."
 msgstr "Klik tombol <key>+</key>, pilih bahasa yang berasosiasi dengan tata letak, kemudian pilih tata letak dan tekan <gui>Add</gui>."
 
 #. (itstool) path: media/span
-#: C/keyboard-layouts.page:70 C/keyboard-layouts.page:76
+#: C/keyboard-layouts.page:68 C/keyboard-layouts.page:74
 msgid "preview"
 msgstr "pratinjau"
 
 #. (itstool) path: note/p
-#: C/keyboard-layouts.page:68
+#: C/keyboard-layouts.page:66
 msgid ""
 "You can preview an image of any layout by selecting it in the list of "
 "<gui>Input Sources</gui> and clicking <gui><_:media-1/></gui>"
 msgstr "Anda dapat meninjau sebuah gambar pada tata letak apapun dengan memilihnya pada daftar <gui>Sumber Masukan</gui> dan mengklik <gui><_:media-1/></gui>"
 
 #. (itstool) path: media/span
-#: C/keyboard-layouts.page:79
+#: C/keyboard-layouts.page:77
 msgid "preferences"
 msgstr "preferensi"
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:73
+#: C/keyboard-layouts.page:71
 msgid ""
 "Certain languages offer some extra configuration options. You can identify "
 "those languages because they have a <gui><_:media-1/></gui> icon next to "
@@ -3551,7 +3500,7 @@ msgid ""
 msgstr "Sejumlah bahasa memerlukan opsi konfigurasi tambahan. Anda bisa mengenali bahasa tersebut karena mereka memiliki ikon <gui><_:media-1/></gui>. Apabila Anda ingin mengakses parameter tambahan, pilih bahasa dari daftar <gui>Input Source</gui> dan tombol <gui style=\"button\"><_:media-2/></gui> baru akan memberi akses bagi pengaturan lanjutan."
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:82
+#: C/keyboard-layouts.page:80
 msgid ""
 "When you use multiple layouts, you can choose to have all windows use the "
 "same layout or to set a different layout for each window. Using a different "
@@ -3563,7 +3512,7 @@ msgid ""
 msgstr "Bila Anda menggunakan beberapa tata letak, Anda dapat memilih untuk memiliki semua jendela menggunakan tata letak yang sama atau untuk mengatur tata letak yang berbeda untuk setiap jendela. Menggunakan tata letak yang berbeda untuk setiap jendela berguna, misalnya, jika Anda sedang menulis sebuah artikel dalam bahasa lain di jendela pengolah kata. Pilihan keyboard Anda akan diingat untuk setiap jendela ketika Anda alihkan di antara jendela. Tekan tombol <gui style=\"button\">Opsi</gui> untuk memilih bagaimana Anda ingin mengelola beberapa tata letak."
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:90
+#: C/keyboard-layouts.page:88
 msgid ""
 "The task bar will display a short identifier for the current layout, such as"
 " <gui>en</gui> for the standard English layout. Click the layout indicator "
@@ -3574,7 +3523,7 @@ msgid ""
 msgstr "Bilah tugas akan menampilkan pengenal singkat untuk layout yang sedang digunakan, seperti <gui>en</gui> untuk layout bahasa Inggris standar. Klik pada indikator layout dan pilih layout yang ingin Anda gunakan dari menu. Jika bahasa yang Anda pilih memiliki pengaturan tambahan, pengaturan ini akan ditampilkan di bawah daftar layout yang tersedia. Ini akan memberi Anda tinjauan kilat tentang pengaturan Anda. Anda juga dapat membuka gambar dengan layout papan ketik yang sedang digunakan sebagai referensi."
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:97
+#: C/keyboard-layouts.page:95
 msgid ""
 "The fastest way to change to another layout is by using the <gui>Input "
 "Source</gui> <gui>Keyboard Shortcuts</gui>. These shortcuts open the "
@@ -3591,7 +3540,7 @@ msgstr "Cara tercepat untuk beralih ke tata letak lain adalah dengan menggunakan
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/keyboard-layouts.page:106
+#: C/keyboard-layouts.page:104
 msgctxt "_"
 msgid ""
 "external ref='figures/input-methods-switcher.png' "
@@ -3967,19 +3916,19 @@ msgid ""
 msgstr "Jika tidak ada papan ketik yang terhubung ke komputer Anda atau jika Anda lebih suka untuk tidak menggunakannya, Anda dapat mengaktifkan <em>screen keyboard</em> untuk memasukkan teks."
 
 #. (itstool) path: item/p
-#: C/keyboard-osk.page:51
+#: C/keyboard-osk.page:50
 msgid "Switch on <gui>Screen Keyboard</gui> in the <gui>Typing</gui> section."
 msgstr "Aktifkan <gui> Keyboard Layar </gui> di bagian <gui> Mengetik </gui>."
 
 #. (itstool) path: page/p
-#: C/keyboard-osk.page:57
+#: C/keyboard-osk.page:56
 msgid ""
 "When you next have the opportunity to type, the on-screen keyboard will open"
 " at the bottom of the screen."
 msgstr "Ketika Anda berikutnya memiliki kesempatan untuk mengetik, keyboard di layar akan membuka di bagian bawah layar."
 
 #. (itstool) path: page/p
-#: C/keyboard-osk.page:60
+#: C/keyboard-osk.page:59
 msgid ""
 "Press the <gui style=\"bottom\">123</gui> button to enter numbers and "
 "symbols. More symbols are available if you then press the <gui>{#*</gui> "
@@ -3987,12 +3936,12 @@ msgid ""
 msgstr "Tekan tombol <gui style=\"bottom\">123</gui> untuk memasukkan angka dan simbol. Simbol lain tersedia jika Anda menekan tombol <gui>{#*</gui>. Untuk kembali ke papan ketik alfabet, tekan tombol <gui>Abc</gui>."
 
 #. (itstool) path: media/span
-#: C/keyboard-osk.page:66
+#: C/keyboard-osk.page:65
 msgid "keyboard"
 msgstr "papan ketik"
 
 #. (itstool) path: page/p
-#: C/keyboard-osk.page:65
+#: C/keyboard-osk.page:64
 msgid ""
 "You can press the <gui style=\"button\"><_:media-1/></gui> icon to hide the "
 "keyboard temporarily. The keyboard will show again automatically when you "
@@ -4024,14 +3973,14 @@ msgid ""
 msgstr "Secara default, pada saat Anda menekan sebuah tombol pada papan tik, huruf atau simbol akan terus diulang sampai Anda melepaskan tombol itu. Apabila Anda mengalami kesulitan mengangkat kembali jari Anda secara cepat, Anda dapat menonaktifkan fitur ini, Atau mengubah lamanya waktu yang diperlukan sebelum tekanan tombol mulai diulang."
 
 #. (itstool) path: item/p
-#: C/keyboard-repeat-keys.page:56
+#: C/keyboard-repeat-keys.page:55
 msgid ""
 "Turn off <gui>Key presses repeat when key is held down</gui> to disable "
 "repeated keys entirely."
 msgstr "Matikan <gui>pengulangan penekanan tombol saat tombol sedang ditahan</gui> untuk menonaktifkan pengulangan tombol sepenuhnya."
 
 #. (itstool) path: item/p
-#: C/keyboard-repeat-keys.page:58
+#: C/keyboard-repeat-keys.page:57
 msgid ""
 "Alternatively, adjust the <gui>Delay</gui> slider to control how long you "
 "have to hold a key down to begin repeating it, and adjust the "
@@ -4079,41 +4028,41 @@ msgid ""
 msgstr "Anda bisa mengubah gambar latar pada desktop supaya unik. Pilih dari sejumlah foto sampel yang ada di komputer, foto yang Anda sudah tambahkan atau pilih warna favorit Anda."
 
 #. (itstool) path: item/p
-#: C/look-background.page:67
+#: C/look-background.page:65
 msgid "Click on the <gui>Background</gui>."
 msgstr "Klik <gui>Latar Belakang</gui>."
 
 #. (itstool) path: item/p
-#: C/look-background.page:70
+#: C/look-background.page:68
 msgid "Click on the <gui>Background</gui> button with the picture in it."
 msgstr "Klik pada tombol <gui>Latar Belakang</gui> dengan gambar di dalamnya."
 
 #. (itstool) path: item/p
-#: C/look-background.page:74
+#: C/look-background.page:72
 msgid "There are three choices displayed on top:"
 msgstr "Ada tiga pilihan yang ditampilkan di puncak:"
 
 #. (itstool) path: item/p
-#: C/look-background.page:77
+#: C/look-background.page:75
 msgid ""
 "Select <gui>Wallpapers</gui> to use one of the beautiful background images "
 "that come with Endless."
 msgstr "Pilih <gui>Wallpaper</gui> untuk menggunakan salah satu gambar latar belakang yang indah yang hadir dengan Endless."
 
 #. (itstool) path: item/p
-#: C/look-background.page:81
+#: C/look-background.page:79
 msgid ""
 "Select <gui>Pictures</gui> to use one of your own photos from your "
 "<file>Pictures</file> folder."
 msgstr "Pilih <gui>Gambar</gui> untuk menggunakan salah satu foto Anda dari folder <file>Gambar</file>."
 
 #. (itstool) path: item/p
-#: C/look-background.page:85
+#: C/look-background.page:83
 msgid "Select <gui>Colors</gui> to just use a color."
 msgstr "Pilih <gui>Warna</gui> untuk memilih satu warna."
 
 #. (itstool) path: item/p
-#: C/look-background.page:91
+#: C/look-background.page:89
 msgid "The settings are applied immediately."
 msgstr "Pengaturan diterapkan seketika."
 
@@ -4389,7 +4338,7 @@ msgid ""
 msgstr "Klik ganda hanya terjadi saat Anda menekan tombol mouse dua kali dengan cepat. Jika jeda antara klik pertama dan kedua terlalu lama, Anda hanya akan mendapatkan dua klik terpisah, bukan klik ganda. Jika kesulitan mengklik mouse dengan cepat, Anda dapat meningkatkan timeout."
 
 #. (itstool) path: item/p
-#: C/mouse-doubleclick.page:50 C/mouse-sensitivity.page:48
+#: C/mouse-doubleclick.page:49 C/mouse-sensitivity.page:46
 msgid "Click on <gui>Mouse &amp; Touchpad</gui>."
 msgstr "Klik <gui>Mouse &amp; Touchpad</gui>."
 
@@ -4401,7 +4350,7 @@ msgid ""
 msgstr "Pada bagian <gui>General</gui>, sesuaikan slider <gui>Double-click</gui> ke nilai yang nyaman bagi Anda."
 
 #. (itstool) path: item/p
-#: C/mouse-doubleclick.page:55
+#: C/mouse-doubleclick.page:57
 msgid ""
 "Click the <gui>Test Your Settings</gui> button to test. A single click in "
 "the window will highlight the outer circle. A double-click will highlight "
@@ -4409,7 +4358,7 @@ msgid ""
 msgstr "Klik tombol <gui>Uji Pengaturan</gui> untuk menguji.  Klik tunggal di dalam jendela akan menyoroti lingkaran luar. Klik ganda akan menyoroti lingkaran dalam."
 
 #. (itstool) path: page/p
-#: C/mouse-doubleclick.page:60
+#: C/mouse-doubleclick.page:63
 msgid ""
 "If your mouse double-clicks when you want it to single-click even though you"
 " have increased the double-click timeout, your mouse may be faulty. Try "
@@ -4419,7 +4368,7 @@ msgid ""
 msgstr "Jika mouse Anda mengklik ganda padahal Anda ingin mengklik tunggal meski telah meningkatkan timeout klik ganda, mungkin mouse Anda bermasalah. Cobalah menghubungkan mouse lain dengan komputer dan lihat apakah itu bekerja dengan benar. Atau hubungkan mouse Anda dengan komputer lain dan periksa apakah itu masih memiliki masalah yang sama."
 
 #. (itstool) path: note/p
-#: C/mouse-doubleclick.page:67
+#: C/mouse-doubleclick.page:70
 msgid ""
 "This setting will affect both your mouse and touchpad, as well as any other "
 "pointing device."
@@ -4444,21 +4393,21 @@ msgid ""
 msgstr "Jika Anda mengalami kesulitan saat menggunakan mouse atau perangkat penunjuk lainnya, Anda dapat mengendalikan kursor mouse menggunakan keypad numerik pada papan ketik Anda. Fitur ini disebut <em>mouse key</em>."
 
 #. (itstool) path: item/p
-#: C/mouse-mousekeys.page:54
+#: C/mouse-mousekeys.page:53
 msgid ""
 "Use the up and down arrow keys to select <gui>Mouse Keys</gui> in the "
 "<gui>Pointing and Clicking</gui> section then press <key>Enter</key>."
 msgstr "Gunakan panah ke atas dan ke bawah untuk memilih <gui>Mouse Keys</gui> pada bagian <gui>Pointing and Clicking</gui> kemudian tekan <key>Enter</key>."
 
 #. (itstool) path: item/p
-#: C/mouse-mousekeys.page:58
+#: C/mouse-mousekeys.page:57
 msgid ""
 "Make sure that <key>Num Lock</key> is turned off. You will now be able to "
 "move the mouse pointer using the keypad."
 msgstr "Pastikan bahwa <key>Num Lock</key> dimatikan. Anda sekarang akan dapat memindahkan pointer tetikus menggunakan tombol."
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:63
+#: C/mouse-mousekeys.page:62
 msgid ""
 "The keypad is a set of numerical buttons on your keyboard, usually arranged "
 "into a square grid. If you have a keyboard without a keypad (such as a "
@@ -4469,7 +4418,7 @@ msgid ""
 msgstr "Keypad adalah serangkaian tombol numerik pada papan ketik Anda, yang biasanya ditata dalam sebuah petak persegi. Jika papan ketik Anda tidak memiliki keypad (misalnya papan ketik laptop), Anda mungkin perlu menekan dan menahan tombol fungsi (<key>Fn</key>) dan menggunakan tombol-tombol tertentu lainnya pada papan ketik Anda sebagai keypad. Jika Anda sering menggunakan fitur ini pada laptop, Anda dapat membeli keypad numerik bluetooth atau USB eksternal."
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:70
+#: C/mouse-mousekeys.page:69
 msgid ""
 "Each number on the keypad corresponds to a direction. For example, pressing "
 "<key>8</key> will move the pointer upwards and pressing <key>2</key> will "
@@ -4478,7 +4427,7 @@ msgid ""
 msgstr "Setiap nomor pada keypad berpadanan dengan sebuah arah. Sebagai contoh, menekan <key>8</key> akan menggerakkan kursor ke atas dan menekan <key>2</key> akan menggerakkannya ke bawah. Tekan tombol <key>5</key> untuk mengeklik satu kali dengan mouse, atau tekan dua kali dengan cepat untuk mengeklik dua kali."
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:75
+#: C/mouse-mousekeys.page:74
 msgid ""
 "Most keyboards have a special key which allows you to right-click, sometimes"
 " called the <key xref=\"keyboard-key-menu\">Menu</key> key. Note, however, "
@@ -4488,7 +4437,7 @@ msgid ""
 msgstr "Kebanyakan keyboard memiliki tombol khusus yang memungkinkan Anda untuk klik kanan, kadang-kadang disebut tombol <key xref=\"keyboard-key-menu\"> Menu </key>. Namun, perlu diketahui bahwa tombol ini merespon mana fokus keyboard Anda, bukan di mana pointer tetikus Anda. Lihat <link xref=\"a11y-right-click\"/> informasi tentang bagaimana ke klik kanan dengan menekan <key> 5 </key> atau tombol kiri tetikus."
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:81
+#: C/mouse-mousekeys.page:80
 msgid ""
 "If you want to use the keypad to type numbers while mouse keys is enabled, "
 "turn <key>Num Lock</key> on. The mouse cannot be controlled with the keypad "
@@ -4496,7 +4445,7 @@ msgid ""
 msgstr "Jika Anda ingin menggunakan keypad untuk mengetik angka selagi tombol mouse aktif, nyalakan <key>Num Lock</key>. Namun mouse tak dapat dikendalikan dengan keypad selagi <key>Num Lock</key> menyala."
 
 #. (itstool) path: note/p
-#: C/mouse-mousekeys.page:86
+#: C/mouse-mousekeys.page:85
 msgid ""
 "The normal number keys, in a line at the top of the keyboard, will not "
 "control the mouse pointer. Only the keypad number keys can be used."
@@ -4521,7 +4470,7 @@ msgid ""
 msgstr "Jika pointer tetikus Anda bergerak terlalu cepat atau lambat ketika Anda menggerakkan tetikus atau menggunakan touchpad Anda, Anda dapat mengatur kecepatan pointer untuk perangkat ini."
 
 #. (itstool) path: item/p
-#: C/mouse-sensitivity.page:52
+#: C/mouse-sensitivity.page:50
 msgid ""
 "Adjust the <gui>Pointer Speed</gui> slider until the pointer motion is "
 "comfortable for you. You will see one slider per each pointing device, such "
@@ -4529,7 +4478,7 @@ msgid ""
 msgstr "Sesuaikan slider <gui>Pointer Speed</gui> sampai penunjuk gerakan nyaman buat Anda. Anda akan melihat satu slider di setiap perangkat penunjuk, seperti tetikus atau papan sentuh."
 
 #. (itstool) path: note/p
-#: C/mouse-sensitivity.page:77
+#: C/mouse-sensitivity.page:75
 msgid ""
 "The <gui>Touchpad</gui> section only appears if your system has a touchpad, "
 "while the <gui>Mouse</gui> section is only visible when a mouse is plugged "
@@ -4577,17 +4526,17 @@ msgid ""
 msgstr "Jika mouse Anda hanya punya satu tombol, Anda akan perlu mengubah pengaturan untuk memungkinkan Anda menggunakan hanya satu tombol. Berikut ini cara untuk mengubah pengaturan Anda:"
 
 #. (itstool) path: item/p
-#: C/mouse-when-right-click.page:49
+#: C/mouse-when-right-click.page:48
 msgid "Click on the <gui>Universal Access</gui> panel."
 msgstr "Klik pada panel <gui>Akses Universal</gui>."
 
 #. (itstool) path: item/p
-#: C/mouse-when-right-click.page:52
+#: C/mouse-when-right-click.page:51
 msgid "Scroll to the bottom and select <gui>Click Assist</gui>."
 msgstr "Gulir ke bawah dan pilih <gui>Click Assist</gui>."
 
 #. (itstool) path: item/p
-#: C/mouse-when-right-click.page:55
+#: C/mouse-when-right-click.page:54
 msgid ""
 "Turn the <gui>Simulated secondary click</gui> option on. There you can also "
 "adjust the amount of time you'll need to hold down the key to activate the "
@@ -5208,24 +5157,11 @@ msgstr "Memasang perambah lain"
 #. (itstool) path: page/p
 #: C/net-installing-other-browsers.page:23
 msgid ""
-"Unfortunately, Endless does not currently support the installation of other "
-"browsers."
-msgstr "Mohon maaf, Endless saat ini tidak mendukung instalasi perambah lain."
-
-#. (itstool) path: page/p
-#: C/net-installing-other-browsers.page:26
-msgid ""
-"We plan on supporting the installation of other browsers at a future date, "
-"and will notify you when we add this feature. Feel free to give us your "
-"feedback and let us know what you need."
-msgstr "Kami berencana mendukung pemasangan perambah lain dalam waktu dekat dan kami akan mengabarkan saat fitur ini sudah ditambahkan. Silakan beri masukan dan informasi mengenai hal yang Anda perlukan."
-
-#. (itstool) path: page/p
-#: C/net-installing-other-browsers.page:30
-msgid ""
-"In the meantime, we hope you enjoy using the current Endless browser to "
-"explore new websites and stay updated on the world's news!"
-msgstr "Sementara itu, kami berharap Anda menikmati menggunakan peramban Endless saat menjelajahi situs-situs web baru dan tetap aktual pada berita dunia!"
+"Endless comes with a browser on the desktop, but if you would like to "
+"install other browsers, you can do so from the App Center. You can try "
+"searching for the browser of your preference by typing its name in the "
+"search bar, or by going to the App Center's <gui>Utilities</gui> section."
+msgstr ""
 
 #. (itstool) path: info/desc
 #: C/net-manual.page:20
@@ -5255,7 +5191,7 @@ msgid "To manually set your network settings:"
 msgstr "Untuk menata pengaturan jaringan secara manual:"
 
 #. (itstool) path: item/p
-#: C/net-manual.page:42
+#: C/net-manual.page:41
 msgid "Click on <gui>Network</gui>."
 msgstr "Klik <gui>Network</gui>."
 
@@ -5265,7 +5201,7 @@ msgid "settings"
 msgstr "pengaturan"
 
 #. (itstool) path: item/p
-#: C/net-manual.page:46
+#: C/net-manual.page:45
 msgid ""
 "In the left pane, select the network connection that you want to set up "
 "manually and click the <_:media-1/> button. For example, if you plug in to "
@@ -5288,21 +5224,21 @@ msgid ""
 msgstr "Klik <gui>IPv4</gui> lalu ganti <gui>Alamat</gui> ke <gui>Manual</gui>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:61
+#: C/net-manual.page:60
 msgid ""
 "Type in the <gui>Address</gui> and <gui>Gateway</gui>, as well as the "
 "appropriate <gui>Netmask</gui>."
 msgstr "Ketik <gui>Address</gui> dan <gui>Gateway</gui>, juga <gui>Netmask</gui> yang sesuai."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:63
+#: C/net-manual.page:62
 msgid ""
 "These must be <em>IP addresses</em>; that is, they must be four numbers "
 "separated by periods (e.g. 123.45.6.78)."
 msgstr "Ini pasti <em>alamat IP</em>; itulah, mereka harus empat angka yang dipisahkan oleh titik (misalnya 123.45.6.78)."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:67
+#: C/net-manual.page:66
 msgid ""
 "In the <gui>DNS</gui> section, switch <gui>Automatic</gui> to "
 "<gui>OFF</gui>. Enter the IP address of a DNS server you want to use. Enter "
@@ -5310,7 +5246,7 @@ msgid ""
 msgstr "Dalam bagian <gui>DNS</gui> , alihkan <gui>Otomatis</gui>ke<gui> MATI</gui>. Masukkan alamat IP dari server DNS yang ingin Anda gunakan. Masukkan alamat server DNS tambahan menggunakan tombol <key>+</key>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:72
+#: C/net-manual.page:71
 msgid ""
 "In the <gui>Routes</gui> section, switch <gui>Automatic</gui> to "
 "<gui>OFF</gui>. Enter the <gui>Address</gui>, <gui>Netmask</gui>, "
@@ -5319,61 +5255,13 @@ msgid ""
 msgstr "Di bagian <gui>Rute</gui>, ganti <gui>Otomatis</gui> menjadi <gui>OFF</gui>. Masukkan <gui>Alamat</gui>, <gui>Netmask</gui>, <gui>Gateway</gui> dan <gui>Metric</gui> untuk route yang ingin Anda gunakan. Masukkan rute tambahan menggunakan tombol <key>+</key>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:78
+#: C/net-manual.page:77
 msgid ""
 "Click <gui>Apply</gui>. If you are not connected to the network, click the "
 "system status area on the task bar and connect. Test the network settings by"
 " trying to visit a website or look at shared files on the network, for "
 "example."
 msgstr "Klik <gui>Apply</gui>. Jika Anda tak terhubung ke jaringan, klik area status sistem pada bilah tugas dan hubungkan. Uji pengaturan jaringan, misalnya dengan mencoba mengunjungi sebuah situs web atau mencari berkas bersama di jaringan."
-
-#. (itstool) path: info/desc
-#: C/net-read-news.page:19
-msgid "Keep up to date with the latest news."
-msgstr "Ketahui berita terbaru setiap waktu."
-
-#. (itstool) path: page/title
-#: C/net-read-news.page:22
-msgid "Read the News"
-msgstr "Membaca Berita"
-
-#. (itstool) path: page/p
-#: C/net-read-news.page:24
-msgid ""
-"We have added several different newspaper websites to your Browser so that "
-"you can read all the latest news! Explore current events, sports, local news"
-" and more just with a click of a button!"
-msgstr "Kami telah menambahkan beberapa situs web berita di Peramban agar Anda dapat membaca semua berita terbaru! Simak peristiwa-peristiwa yang sedang terjadi, berita olahraga, berita lokal dan lainnya hanya dengan mengeklik sebuah tombol!"
-
-#. (itstool) path: steps/title
-#: C/net-read-news.page:29
-msgid "To read news online:"
-msgstr "Untuk membaca berita online:"
-
-#. (itstool) path: item/p
-#: C/net-read-news.page:31
-msgid ""
-"Click the Internet icon on your desktop or on the task bar to open the "
-"browser."
-msgstr "Klik ikon internet pada desktop atau pada task bar untuk membuka perambah."
-
-#. (itstool) path: item/p
-#: C/net-read-news.page:36
-msgid "Click on Newspaper section on the left side menu."
-msgstr "Klik bagian Newspaper di sisi kiri menu."
-
-#. (itstool) path: item/p
-#: C/net-read-news.page:40
-msgid "Discover the internet!"
-msgstr "Jelajahi isi internet!"
-
-#. (itstool) path: note/p
-#: C/net-read-news.page:45
-msgid ""
-"You'll need an internet connection in order to access the news websites. If "
-"you can't access the internet right now, don't worry, your computer comes "
-"packed with great offline content."
-msgstr "Anda memerlukan koneksi internet untuk mengakses website berita. Jika tidak dapat mengakses internet saat ini, tak perlu khawatir, komputer Anda penuh dengan konten luring yang menarik."
 
 #. (itstool) path: info/desc
 #: C/net-slow.page:14
@@ -5489,124 +5377,6 @@ msgid ""
 "long time, for example. Try closing all of the browser's windows and then "
 "opening the browser again to see if this makes a difference."
 msgstr "Terkadang peramban web mengalami masalah yang membuatnya berjalan dengan lambat. Ini mungkin dapat disebabkan oleh berbagai hal - Anda mungkin telah mengunjungi situs web yang sulit dimuat oleh peramban, atau Anda mungkin telah membuka peramban untuk waktu yang lama. Cobalah menutup semua jendela pada peramban dan membuka peramban kembali untuk melihat apakah ini membuat perbedaan."
-
-#. (itstool) path: info/desc
-#: C/net-social-bar.page:19
-msgid "Easily chat with your Facebook friends."
-msgstr "Mengobrol dengan mudah dengan teman-teman Facebook Anda."
-
-#. (itstool) path: page/title
-#: C/net-social-bar.page:22
-msgid "Chat on Facebook from your desktop"
-msgstr "Mengobrol di Facebook dari desktop"
-
-#. (itstool) path: page/p
-#: C/net-social-bar.page:24
-msgid ""
-"Now you can stay connected with your Facebook friends more easily than ever!"
-" You will need an internet connection to use this feature."
-msgstr "Sekarang Anda dapat terus terhubung dengan teman-teman Facebook secara jauh lebih mudah lagi! Anda perlu sambungan internet untuk menggunakan fitur ini."
-
-#. (itstool) path: page/p
-#: C/net-social-bar.page:27
-msgid "First, you'll need to set up your Facebook account on Endless."
-msgstr "Pertama, Anda harus memasang akun Facebook Anda ke Endless."
-
-#. (itstool) path: steps/title
-#: C/net-social-bar.page:30
-msgid "If you already have a Facebook account:"
-msgstr "Jika Anda sudah memiliki akun Facebook:"
-
-#. (itstool) path: p/media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-social-bar.page:33
-msgctxt "_"
-msgid ""
-"external ref='figures/eos-icon-socialbar.png' "
-"md5='311852df3d93299e9346bbe809bb81c6'"
-msgstr "external ref='figures/eos-icon-socialbar.png' md5='311852df3d93299e9346bbe809bb81c6'"
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:32
-msgid ""
-"Click on <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-"
-"socialbar.png\"> the Facebook icon</media> on the very bottom right-hand "
-"side of your screen."
-msgstr "Klik pada <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-socialbar.png\"> ikon Facebook</media> di sisi kanan bawah layar Anda."
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:38
-msgid "Enter in your email address and password, then click <gui>Login</gui>."
-msgstr "Masukkan alamat email dan sandi, lalu klik <gui>Masuk</gui>."
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:42
-msgid ""
-"You can now start using Facebook right from your desktop. You do not need to"
-" close it if you are working on something else! Just click outside of the "
-"Facebook screen or on the Facebook icon to get back to your other open "
-"windows."
-msgstr "Kini Anda dapat mulai menggunakan Facebook langsung dari desktop. Tak perlu menutupnya jika sedang mengerjakan hal lain! Cukup klik di luar layar Facebook atau pada ikon Facebook untuk kembali ke jendela terbuka lainnya."
-
-#. (itstool) path: steps/title
-#: C/net-social-bar.page:50
-msgid "If you do not have a Facebook account:"
-msgstr "Jika Anda tidak memiliki akun Facebook:"
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:52 C/net-social-bar.page:74
-msgid ""
-"Click on the Facebook icon that is on the very bottom right-hand side of "
-"your screen."
-msgstr "Klik ikon Facebook di sisi kanan bawah layar Anda."
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:56
-msgid "Click on <gui>Create New Account</gui>."
-msgstr "Klik <gui>Create New Account</gui>."
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:59
-msgid ""
-"Follow the steps that Facebook takes you through to complete their set up "
-"process. You will need an email address in order to create a Facebook "
-"account."
-msgstr "Ikuti langkah-langkah yang ditampilkan oleh Facebook untuk menyelesaikan proses pengaturan awalnya. Anda akan membutuhkan alamat email untuk membuat sebuah akun Facebook."
-
-#. (itstool) path: note/p
-#: C/net-social-bar.page:66
-msgid ""
-"Remember to log out of Facebook if you share your computer with other users,"
-" otherwise they will be able to see and use your Facebook account!"
-msgstr "Ingatlah untuk keluar dari Facebook apabila Anda berbagi komputer dengan pengguna lain, jika tidak, mereka akan dapat melihat dan menggunakan akun Facebook Anda!"
-
-#. (itstool) path: steps/title
-#: C/net-social-bar.page:71
-msgid "Logging out of Facebook"
-msgstr "Keluar dari Facebook"
-
-#. (itstool) path: steps/p
-#: C/net-social-bar.page:72
-msgid "To log out of your Facebook account:"
-msgstr "Untuk keluar dari akun Facebook:"
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:78
-msgid ""
-"Click on the button with three white lines on the left-hand side of the "
-"Facebook window. This will show you the main menu, with your news feed, "
-"events, groups, and more."
-msgstr "Klik pada tombol bergambar tiga garis putih pada sisi kiri jendela Facebook. Ini akan menunjukkan menu utama, dengan kabar berita, acara, grup, dan lainnya."
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:83
-msgid ""
-"Scroll all the way to the bottom of the menu and click on the <gui>Log "
-"Out</gui> button."
-msgstr "Gulir hingga ke dasar menu lalu klik tombol <gui>Keluar</gui>."
 
 #. (itstool) path: info/desc
 #: C/net-troubleshoot.page:17
@@ -6026,17 +5796,17 @@ msgid ""
 msgstr "Jaringan bisa terlindungi. Anda perlu <link xref=\"net-wireless-hidden\">connect in a different way</link> apabila jaringan terlindungi."
 
 #. (itstool) path: info/desc
-#: C/net-wireless-hidden.page:25
+#: C/net-wireless-hidden.page:29
 msgid "Connect to a network that you might not be able to see."
 msgstr "Menyambung ke jaringan yang mungkin tak dapat Anda lihat."
 
 #. (itstool) path: page/title
-#: C/net-wireless-hidden.page:29
+#: C/net-wireless-hidden.page:33
 msgid "Connect to a hidden wireless network"
 msgstr "Menyambung ke suatu jaringan nirkabel tersembunyi"
 
 #. (itstool) path: page/p
-#: C/net-wireless-hidden.page:31
+#: C/net-wireless-hidden.page:35
 msgid ""
 "Hidden networks don't show up in the list of wireless networks. Having a "
 "hidden network makes it harder for other people to find it, and so more "
@@ -6045,36 +5815,37 @@ msgid ""
 msgstr "Jaringan terlindung tidak tampil dalam daftar jaringan nirkabel. Memiliki jaringan terlindung menyulitkan pihak lain menemukannya, sehingga relatif lebih aman. Untuk tersambung dengan jaringan nirkabel terlindung, ikuti langkah berikut:"
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:37
+#: C/net-wireless-hidden.page:41
 msgid ""
-"Click the network icon on the task bar and select <gui>Network "
-"Settings.</gui>"
-msgstr "Klik ikon jaringan pada bilah tugas dan pilih <gui>Network Settings.</gui>"
+"Type \"Network\" into the <gui>global search bar</gui> on your desktop. "
+"Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
+"to open."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:41
+#: C/net-wireless-hidden.page:46
 msgid "Click the <gui>Connect to Hidden Network</gui> button."
 msgstr "Klik tombol <gui> Hubungkan ke Jaringan Tersembunyi</gui>."
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:44
+#: C/net-wireless-hidden.page:49
 msgid ""
 "In the window that appears, type the network name and choose the type of "
 "wireless security from the Wi-Fi security drop-down list."
 msgstr "Pada layar yang muncul, ketik nama jaringan dan pilih tipe keamanan nirkabel dari daftar keamanan Wi-Fi."
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:48
+#: C/net-wireless-hidden.page:53
 msgid "Enter the password or other security details."
 msgstr "Masukkan kata sandi atau detail keamanan lainnya."
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:51
+#: C/net-wireless-hidden.page:56
 msgid "Click Connect."
 msgstr "Klik Hubungkan."
 
 #. (itstool) path: page/p
-#: C/net-wireless-hidden.page:55
+#: C/net-wireless-hidden.page:60
 msgid ""
 "You may have to check the settings of the wireless access point or router to"
 " see what the network name is. If you don't have the network name (SSID), "
@@ -6085,14 +5856,14 @@ msgid ""
 msgstr "Anda mungkin perlu memeriksa pengaturan titik akses nirkabel atau router untuk melihat apa nama jaringannya. Apabila Anda tidak tahu nama jaringan (SSID), Anda dapat menggunakan <em>BSSID</em> (Basic Service Set Identifier, yakni alamat MAC titik akses tersebut), yang bentuknya seperti ini: <gui>02:00:01:02:03:04</gui> dan biasanya dapat ditemukan pada sisi bawah titik akses tersebut."
 
 #. (itstool) path: page/p
-#: C/net-wireless-hidden.page:61
+#: C/net-wireless-hidden.page:66
 msgid ""
 "You should also check the security settings for the wireless access point. "
 "Look for terms like WEP and WPA."
 msgstr "Anda juga patut menyimak pengaturan keamanan untuk titik akses nirkabel. Carilah istilah seperti WEP dan WPA."
 
 #. (itstool) path: note/p
-#: C/net-wireless-hidden.page:65
+#: C/net-wireless-hidden.page:70
 msgid ""
 "While hiding your network may help improve security by preventing people who"
 " don't know about it from connecting, the network will still remain "
@@ -6337,34 +6108,34 @@ msgid "How to cancel a print job:"
 msgstr "Bagaimana membatalkan tugas pencetakan:"
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:49 C/printing-cancel-job.page:92
-#: C/printing-setup-default-printer.page:48 C/printing-setup.page:86
+#: C/printing-cancel-job.page:47 C/printing-cancel-job.page:88
+#: C/printing-setup-default-printer.page:48 C/printing-setup.page:84
 msgid "Click <gui>Printers</gui>."
 msgstr "Klik <gui>Pencetak</gui>."
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:52
+#: C/printing-cancel-job.page:50
 msgid ""
 "Click the <gui>Show Jobs</gui> button on the right-hand side of the "
 "<gui>Printers</gui> dialog."
 msgstr "Klik tombol <gui>Tampilkan Jobs</gui> pada sisi kanan dialog <gui>Printers</gui>."
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:56
+#: C/printing-cancel-job.page:54
 msgid ""
 "Cancel the print job by clicking the stop button on the play-pause-stop "
 "symbols."
 msgstr "Batalkan pekerjaan cetak dengan mengklik tombol stop pada simbol play-pause-stop."
 
 #. (itstool) path: section/p
-#: C/printing-cancel-job.page:61
+#: C/printing-cancel-job.page:59
 msgid ""
 "If this does not cancel the print job like you expected, try holding down "
 "the <gui>Cancel</gui> button on your printer."
 msgstr "Jika ini tidak membatalkan pekerjaan print seperti yang Anda harapkan, coba tahan tombol <gui>Cancel</gui> pada printer Anda."
 
 #. (itstool) path: section/p
-#: C/printing-cancel-job.page:64
+#: C/printing-cancel-job.page:62
 msgid ""
 "As a last resort, especially if you have a big print job with a lot of pages"
 " that won't cancel, remove the paper from the printer's paper input tray. "
@@ -6374,7 +6145,7 @@ msgid ""
 msgstr "Sebagai usaha terakhir, terutama jika Anda memiliki pekerjaan cetak besar dengan banyak halaman yang tidak akan membatalkan, menghapus kertas dari baki masukan printer kertas. Printer harus menyadari bahwa tidak ada kertas dan akan berhenti mencetak. Anda kemudian dapat mencoba membatalkan pekerjaan cetak lagi, atau mencoba menyalakan printer, lalu nyalakan lagi."
 
 #. (itstool) path: note/p
-#: C/printing-cancel-job.page:71
+#: C/printing-cancel-job.page:69
 msgid ""
 "Be careful that you don't damage the printer when removing the paper, though"
 " - if you would have to pull hard on the paper to remove it, you should "
@@ -6382,19 +6153,19 @@ msgid ""
 msgstr "Berhati-hatilah untuk tidak merusak printer saat melepaskan kertas, jika Anda perlu menarik kertas dengan keras untuk melepaskannya, Anda mungkin sebaiknya membiarkan kertas tersebut tetap di tempatnya."
 
 #. (itstool) path: section/title
-#: C/printing-cancel-job.page:79
+#: C/printing-cancel-job.page:77
 msgid "Pause and release a print job"
 msgstr "Mengistirahakan dan melepas suatu tugas pencetakan"
 
 #. (itstool) path: section/p
-#: C/printing-cancel-job.page:81
+#: C/printing-cancel-job.page:79
 msgid ""
 "If you want to pause or release a print job, you can do so by going to the "
 "jobs dialog in the printer settings and click the appropriate button."
 msgstr "Jika Anda ingin menghentikan sementara atau mengeluarkan pekerjaan cetak, Anda dapat melakukannya dengan menuju ke dialog pekerjaan dalam pengaturan printer dan klik tombol yang sesuai."
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:95
+#: C/printing-cancel-job.page:91
 msgid ""
 "Click the <gui>Show Jobs</gui> button on the right-hand side of the "
 "<gui>Printers</gui> dialog and either pause or release the print job based "
@@ -6647,6 +6418,13 @@ msgid ""
 msgstr "Anda membutuhkan hak administratif pada sistem untuk mengatur printer default."
 
 #. (itstool) path: item/p
+#: C/printing-setup-default-printer.page:42
+msgid ""
+"Click on the <_:media-1/> on the bottom left-hand corner of your screen, "
+"then click on <gui>Settings</gui>."
+msgstr "Klik <_:media-1/> di sudut kiri bawah layar, lalu klik <gui>Pengaturan</gui>."
+
+#. (itstool) path: item/p
 #: C/printing-setup-default-printer.page:51
 msgid ""
 "Select your desired default printer from the list of available printers."
@@ -6751,19 +6529,19 @@ msgid "Set up your printer manually:"
 msgstr "Atur printer Anda secara manual:"
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:90
+#: C/printing-setup.page:88
 msgid ""
 "Click the <key>Unlock</key> button in the top-right corner and enter your "
 "password."
 msgstr "Klik tombol <key>Unlock</key> di sudut kanan atas dan masukkan kata kunci Anda."
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:94
+#: C/printing-setup.page:92
 msgid "Click the <key>+</key> button."
 msgstr "Klik tombol <key>+</key>."
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:97
+#: C/printing-setup.page:95
 msgid "In the pop-up window, select your new printer. Click <gui>Add</gui>."
 msgstr "Pada jendela pop-up, pilih printer baru Anda. Klik <gui>Add</gui>."
 
@@ -6891,36 +6669,36 @@ msgid "To set the length of time before your screen locks automatically:"
 msgstr "Untuk mengatur lamanya waktu sebelum layar Anda mengunci secara otomatis:"
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:53
+#: C/privacy-screen-lock.page:51
 msgid "Click <gui>Privacy</gui>."
 msgstr "Klik <gui>Privacy</gui>."
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:56
+#: C/privacy-screen-lock.page:54
 msgid "Select <gui>Screen Lock</gui>."
 msgstr "Pilih <gui>Kunci Layar</gui>."
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:59
+#: C/privacy-screen-lock.page:57
 msgid ""
 "Make sure <gui>Automatic Screen Lock</gui> is switched on, then select a "
 "length of time from the drop-down list."
 msgstr "Pastikan <gui>Pengunci Layar Otomatis</gui> diaktifkan, lalu pilih jangka waktu dari daftar drop-down."
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:63
+#: C/privacy-screen-lock.page:61
 msgid ""
 "To allow notifications to be displayed on the lock screen, switch <gui>Show "
 "Notifications</gui> to <gui>ON</gui>."
 msgstr "Untuk mengizinkan pemberitahuan ditampilkan di layar kunci, ubahlah <gui>Tampilkan Pemberitahuan</gui> ke <gui>ON</gui>."
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:67
+#: C/privacy-screen-lock.page:65
 msgid "Click <gui>Close</gui>."
 msgstr "Klik <gui>Tutup</gui>."
 
 #. (itstool) path: page/p
-#: C/privacy-screen-lock.page:71
+#: C/privacy-screen-lock.page:69
 msgid ""
 "When your screen is locked, and you want to unlock it, press <key>Esc</key>,"
 " or swipe up from the bottom of the screen with your mouse. Then enter your "
@@ -7207,9 +6985,8 @@ msgstr "Untuk membuka komputer, cukup masukkan sandi Anda."
 #: C/security-guard-privacy.page:49
 msgid ""
 "You can change the lock screen settings under the <gui>Privacy</gui> section"
-" in the <gui>Settings</gui> window that you can access from the User Menu on"
-" the very bottom left-hand side of your screen."
-msgstr "Anda dapat mengubah pengaturan layar kunci pada bagian <gui>Privacy</gui> di jendela <gui>Settings</gui> yang dapat Anda akses dari Menu Pengguna di sisi kiri bawah layar Anda."
+" under <gui>Settings</gui>."
+msgstr ""
 
 #. (itstool) path: info/desc
 #: C/security-understand-password.page:19
@@ -7254,27 +7031,27 @@ msgid "Switch to a different language for user interface and help text."
 msgstr "Ganti ke bahasa lain untuk antarmuka pengguna dan teks bantuan."
 
 #. (itstool) path: page/title
-#: C/session-language.page:34
+#: C/session-language.page:37
 msgid "Change your region and language"
 msgstr "Mengubah wilayah dan bahasa Anda"
 
 #. (itstool) path: page/p
-#: C/session-language.page:36
+#: C/session-language.page:39
 msgid "Endless can be used in many different languages."
 msgstr "Endless dapat digunakan dalam berbagai bahasa."
 
 #. (itstool) path: steps/title
-#: C/session-language.page:39
+#: C/session-language.page:42
 msgid "To switch your current language:"
 msgstr "Untuk mengganti bahasa saat ini:"
 
 #. (itstool) path: item/p
-#: C/session-language.page:51
+#: C/session-language.page:52
 msgid "Click <gui>Language</gui>."
 msgstr "Klik <gui>Bahasa</gui>."
 
 #. (itstool) path: item/p
-#: C/session-language.page:55
+#: C/session-language.page:56
 msgid ""
 "Select your desired language. If your language is not listed, click "
 "<_:media-1/> at the bottom of the list to select from all available regions "
@@ -7282,12 +7059,12 @@ msgid ""
 msgstr "Pilih bahasa yang Anda inginkan. Apabila bahasa yang Anda inginkan tidak tercantum, klik <_:media-1/> pada bagian akhir daftar untuk memilih dari semua wilayah dan bahasa yang tersedia."
 
 #. (itstool) path: item/p
-#: C/session-language.page:62
+#: C/session-language.page:63
 msgid "Click <gui>Done</gui> to save."
 msgstr "Klik <gui>Selesai</gui> untuk menyimpan."
 
 #. (itstool) path: item/p
-#: C/session-language.page:66
+#: C/session-language.page:67
 msgid ""
 "<gui>Your session needs to be restarted for these changes to take "
 "effect</gui> by clicking <gui style=\"button\">Restart Now</gui>, or click "
@@ -7295,7 +7072,7 @@ msgid ""
 msgstr "<gui>Sesi Anda perlu dimulai ulang untuk menerapkan perubahan ini</gui> dengan mengeklik <gui style=\"button\">Restart Now</gui>, atau klik <gui style=\"button\">X</gui> untuk memulai ulang nanti."
 
 #. (itstool) path: page/p
-#: C/session-language.page:73
+#: C/session-language.page:74
 msgid ""
 "Some translations may be incomplete, and certain applications may not "
 "support your language at all. Any untranslated text will appear in American "
@@ -7303,7 +7080,7 @@ msgid ""
 msgstr "Sebagian terjemahan mungkin tidak sempurna, dan sebagian aplikasi mungkin tidak mendukung bahasa Anda sama sekali. Teks yang tidak diterjemahkan akan ditampilkan dalam bahasa Inggris US."
 
 #. (itstool) path: page/p
-#: C/session-language.page:77
+#: C/session-language.page:78
 msgid ""
 "There are some special folders in your home folder where applications can "
 "store things like music, pictures, and documents. These folders use standard"
@@ -7314,17 +7091,17 @@ msgid ""
 msgstr "Terdapat folder khusus di folder beranda di mana aplikasi dapat menyimpan berkas-berkas seperti musik, gambar, dan dokumen. Folder-folder ini menggunakan nama standar sesuai bahasa Anda. Saat Anda kembali masuk, Anda akan ditanya apakah ingin menamai ulang folder-folder ini ke nama standar untuk bahasa pilihan Anda. Jika Anda berencana menggunakan bahasa baru sepanjang waktu, sebaiknya perbarui nama folder."
 
 #. (itstool) path: info/desc
-#: C/sharing-bluetooth.page:16
+#: C/sharing-bluetooth.page:20
 msgid "Set which folders and devices are able to share over Bluetooth."
 msgstr "Atur folder dan perangkat yang mana yang dapat berbagi melalui Bluetooth."
 
 #. (itstool) path: page/title
-#: C/sharing-bluetooth.page:20
+#: C/sharing-bluetooth.page:24
 msgid "Control sharing over Bluetooth"
 msgstr "Berbagi kontrol melalui Bluetooth"
 
 #. (itstool) path: page/p
-#: C/sharing-bluetooth.page:28
+#: C/sharing-bluetooth.page:32
 msgid ""
 "You can allow Bluetooth devices to send you files to your "
 "<file>Downloads</file> folder by turning on that capability. Restrict access"
@@ -7332,14 +7109,14 @@ msgid ""
 msgstr "Anda bisa membolehkan perangkat Bluetooth mengirim file ke folder <file>Downloads</file> dengan mengaktifkan kemampuan tersebut. Akses terbatas pada <em>trusted devices</em>  untuk keamanan."
 
 #. (itstool) path: page/p
-#: C/sharing-bluetooth.page:31
+#: C/sharing-bluetooth.page:35
 msgid ""
 "You can configure <gui>Bluetooth Sharing</gui> to control access to your "
 "shared folders on your computer."
 msgstr "Anda dapat mengonfigurasikan <gui>Bluetooth Sharing</gui> untuk mengontrol akses ke folder bersama pada komputer Anda."
 
 #. (itstool) path: note/p
-#: C/sharing-bluetooth.page:35
+#: C/sharing-bluetooth.page:39
 msgid ""
 "A Bluetooth device is <em>trusted</em> if you have <em>paired</em>, or "
 "connected your computer to it. See <link xref=\"bluetooth-connect-"
@@ -7347,40 +7124,40 @@ msgid ""
 msgstr "Perangkat Bluetooth <em> dipercaya </em> jika Anda mendapatinya <em> terpasang </em>, atau terhubung ke komputer Anda untuk itu. Lihat <link xref=\"bluetooth-connect-device\"/>."
 
 #. (itstool) path: steps/title
-#: C/sharing-bluetooth.page:88
+#: C/sharing-bluetooth.page:92
 msgid "Allow files to be shared into your <file>Downloads</file> folder"
 msgstr "Izinkan berkas untuk dibagikan ke folder <file>Downloads</file> Anda."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:96
+#: C/sharing-bluetooth.page:98
 msgid "Click <gui>Sharing</gui>."
 msgstr "Klik <gui>Sharing</gui>."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:99
+#: C/sharing-bluetooth.page:101
 msgid "If <gui>Sharing</gui> is <gui>OFF</gui>, switch it to <gui>ON</gui>."
 msgstr "Jika <gui>Sharing</gui> dalam keadaan <gui>MATI</gui>, alihkan ke <gui>NYALA</gui>."
 
 #. (itstool) path: note/p
-#: C/sharing-bluetooth.page:102
+#: C/sharing-bluetooth.page:104
 msgid ""
 "If the text below <gui>Computer Name</gui> allows you to edit it, you can "
 "change the name your computer displays on the network."
 msgstr "Jika teks di bawah <gui> Nama Komputer </gui> memungkinkan Anda untuk mengeditnya, Anda dapat mengubah nama display komputer pada jaringan."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:107
+#: C/sharing-bluetooth.page:109
 msgid "Select <gui>Bluetooth Sharing</gui>."
 msgstr "Pilih <gui>Berbagi Pakai Bluetooth</gui>."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:110
+#: C/sharing-bluetooth.page:112
 msgid ""
 "Switch <gui>Save Received Files to Downloads Folder</gui> to <gui>ON</gui>."
 msgstr "Nyalakan <gui>Simpan Berkas yang Diterima ke Folder Unduh</gui>."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:114
+#: C/sharing-bluetooth.page:116
 msgid ""
 "If you only want to allow trusted devices to access your "
 "<file>Downloads</file> folder, switch <gui>Only Receive From Trusted "
@@ -7388,7 +7165,7 @@ msgid ""
 msgstr "Jika Anda hanya ingin mengizinkan perangkat tepercaya untuk mengakses folder <file>Downloads</file>, atur <gui>Only Receive From Trusted Devices</gui> ke <gui>NYALA</gui>."
 
 #. (itstool) path: note/p
-#: C/sharing-bluetooth.page:119
+#: C/sharing-bluetooth.page:121
 msgid ""
 "This option is disabled by default. You should enable it if you want to "
 "prevent access to your shared files by anyone with a Bluetooth-enabled cell "
@@ -7396,7 +7173,7 @@ msgid ""
 msgstr "Opsi ini dinonaktifkan secara default. Anda harus mengaktifkannya jika Anda ingin mencegah akses ke berkas yang Anda bagi oleh siapa pun dengan ponsel atau perangkat yang mampu mengaktifkan Bluetooth  atau serupa di dekatnya."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:126
+#: C/sharing-bluetooth.page:128
 msgid ""
 "Click <gui style=\"button\">Close</gui>. Bluetooth-enabled devices will now "
 "be able to send files to your <file>Downloads</file> folder."
@@ -7544,33 +7321,30 @@ msgstr "Untuk membuat folder baru:"
 
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:30
-msgid ""
-"Right-click on the desktop and select <gui>Add folder</gui>. Alternatively, "
-"you can click on <_:media-1/> from the desktop and click on the "
-"<gui>Folders</gui> button on the left-hand menu."
-msgstr "Klik kanan di desktop dan pilih <gui>Add folder</gui>. Atau, Anda dapat mengeklik <_:media-1/> di desktop dan klik tombol <gui>Folders</gui> pada menu di sisi kiri."
+msgid "Right-click on the desktop and select <gui>Add folder</gui>."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:37 C/shell-organize-apps.page:33
+#: C/shell-add-desktop-folder.page:33 C/shell-organize-apps.page:33
 msgid "Pick an icon for your new folder."
 msgstr "Pilih ikon untuk folder baru Anda."
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:40
+#: C/shell-add-desktop-folder.page:36
 msgid ""
 "Type a name for your new folder (for example, \"School\") and hit "
 "<key>Enter</key>."
 msgstr "Ketik nama folder baru Anda (contohnya, \"Sekolah\") dan tekan <key>Enter</key>."
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:44
+#: C/shell-add-desktop-folder.page:40
 msgid ""
 "You have added a new folder to the desktop. Great! Now click on the "
 "<_:media-1/> on the top-right of the window to go back to the desktop."
 msgstr "Anda telah menambahkan folder baru ke desktop. Hebat! Sekarang klik pada <_:media-1/> di kanan atas jendela untuk kembali ke desktop."
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:49
+#: C/shell-add-desktop-folder.page:45
 msgid "Drag and drop the apps you want into your folder."
 msgstr "Tarik dan lepaskan aplikasi yang Anda inginkan ke dalam folder Anda."
 
@@ -7618,23 +7392,23 @@ msgid ""
 msgstr "Jika Anda tidak dapat melihat tombol <gui>X</gui> , Anda dapat keluar dari aplikasi dengan menekan tombol <key>Esc</key> pada keyboard Anda, yang biasanya di sudut kiri keyboard Anda. Jendela akan menutup sepenuhnya atau menjadi lebih kecil sehingga Anda dapat melihat bar atas jendela dan task bar Endless di bagian bawah. Jika jendela menjadi lebih kecil, maka Anda dapat mengklik <gui>X</gui> untuk keluar."
 
 #. (itstool) path: info/title
-#: C/shell-apps-open.page:30
+#: C/shell-apps-open.page:31
 msgctxt "link:index"
 msgid "How do I add new apps?"
 msgstr "Bagaimana cara menambahkan aplikasi baru?"
 
 #. (itstool) path: info/desc
-#: C/shell-apps-open.page:31
+#: C/shell-apps-open.page:32
 msgid "Install free apps, folders, and website shortcuts onto your desktop."
 msgstr "Pasang aplikasi gratis, folder, dan shortcut situs ke desktop Anda."
 
 #. (itstool) path: page/title
-#: C/shell-apps-open.page:34
+#: C/shell-apps-open.page:35
 msgid "Add apps and website shortcuts"
 msgstr "Menambahkan pintasan aplikasi dan situs web"
 
 #. (itstool) path: page/p
-#: C/shell-apps-open.page:36
+#: C/shell-apps-open.page:37
 msgid ""
 "The pre-installed apps on your desktop are just a few of the many apps "
 "available to you. Easily add more apps and websites shortcuts directly to "
@@ -7642,46 +7416,46 @@ msgid ""
 msgstr "Aplikasi bawaan pada desktop Anda hanyalah beberapa dari banyak aplikasi yang tersedia untuk Anda. Tambahkan aplikasi dan pintasan situs web lainnya dengan mudah langsung ke desktop Anda."
 
 #. (itstool) path: section/title
-#: C/shell-apps-open.page:42
+#: C/shell-apps-open.page:43
 msgid "Adding More Apps"
 msgstr "Menambah Lebih Banyak Aplikasi"
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:45 C/shell-update-app.page:29
+#: C/shell-apps-open.page:46 C/shell-update-app.page:29
 msgid "Click once on <_:media-1/> from the desktop."
 msgstr "Klik sekali di <_:media-1/> dari desktop."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:51
+#: C/shell-apps-open.page:52
 msgid ""
 "Browse by category and read each app's short description until you find one "
 "that you want to add to your desktop. All of the apps you see are free."
 msgstr "Cari berdasarkan kategori dan baca deskripsi singkat dari setiap aplikasi sampai Anda menemukan yang ingin ditambahkan ke desktop. Semua aplikasi yang Anda lihat adalah gratis."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:57
+#: C/shell-apps-open.page:58
 msgid ""
 "Some apps are already downloaded to your computer and you can add them to "
 "your desktop by clicking <gui>Add to desktop</gui>."
 msgstr "Beberapa aplikasi yang sudah diunduh ke komputer Anda dan Anda dapat menambahkannya ke desktop Anda dengan mengklik <gui>Tambahkan ke desktop</gui>."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:62
+#: C/shell-apps-open.page:63
 msgid ""
 "Other apps need to be installed and require an internet connection. Click "
-"<gui>Install app</gui> to download and install these apps."
-msgstr "Aplikasi lain perlu dipasang dan memerlukan sambungan internet. Klik <gui>Pasang aplikasi</gui> untuk mengunduh dan memasang aplikasi-aplikasi ini."
+"<gui>Install</gui> to download and install these apps."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:67
+#: C/shell-apps-open.page:68
 msgid ""
 "When the app has been successfully added to your desktop, the green button "
-"will change to <gui>Open app</gui> and you can start using the app "
+"will change to <gui>Launch</gui> and you can start using the app "
 "immediately!"
-msgstr "Apabila aplikasi telah berhasil ditambahkan ke desktop, tombol hijau akan berubah menjadi <gui>Buka aplikasi</gui> dan Anda dapat langsung menggunakan aplikasi tersebut!"
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:70
+#: C/shell-apps-open.page:71
 msgid ""
 "The app's icon will be installed on your desktop, to the left of the "
 "<_:media-1/> button. You can then move it wherever makes sense to you so you"
@@ -7689,19 +7463,22 @@ msgid ""
 msgstr "Ikon aplikasi akan dipasang di desktop, di sebelah kiri tombol <_:media-1/>. Anda selanjutnya dapat memindahkannya ke mana pun yang memudahkan Anda menemukannya."
 
 #. (itstool) path: section/title
-#: C/shell-apps-open.page:79
+#: C/shell-apps-open.page:80
 msgid "Installing Website Shortcuts"
 msgstr "Memasang Pintasan Situs Web"
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:82
-msgid "Click once on the <_:media-1/> from the desktop."
-msgstr "Klik satu kali pada <_:media-1/> dari desktop."
+#: C/shell-apps-open.page:83
+msgid ""
+"Right click on the desktop and select the <gui>Add Website</gui> option."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:87
-msgid "Click on the <gui>Websites</gui> category on the left hand side."
-msgstr "Klik pada kategori <gui>Situs Web</gui> di sisi kiri."
+#: C/shell-apps-open.page:86
+msgid ""
+"Click on the <gui>Websites</gui> category on the left hand side if it is not"
+" already selected."
+msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:91
@@ -7781,154 +7558,37 @@ msgid ""
 "available, you can do it from the <app>App Center</app>."
 msgstr "Menghapus aplikasi dari desktop tidak menghapusnya dari sistem. Jika Anda ingin menghapus aplikasi sepenuhnya dari sistem untuk mengosongkan ruang penyimpanan, Anda dapat melakukannya dari <app>App Center</app>."
 
-#. (itstool) path: info/desc
-#: C/shell-download-media.page:15
-msgid "Learn how to download songs and media from the internet."
-msgstr "Pelajari cara mengunduh lagu dan media dari internet."
-
-#. (itstool) path: page/title
-#: C/shell-download-media.page:18
-msgid "Download songs and media"
-msgstr "Unduh lagu-lagu dan media"
-
-#. (itstool) path: page/p
-#: C/shell-download-media.page:20
-msgid ""
-"You can use the <app>FrostTorrent</app> app to download songs and media from"
-" the internet."
-msgstr "Anda bisa menggunakan aplikasi <app>FrostTorrent</app> untuk mengunduh lagu dan media dari internet."
-
-#. (itstool) path: steps/title
-#: C/shell-download-media.page:25
-msgid "Download songs and media from the internet following these steps:"
-msgstr "Unduh lagu dan media dari internet dengan mengikuti langkah-langkah ini:"
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:28
-msgid ""
-"Make sure that you have the <app>FrostTorrent</app> app installed on your "
-"computer. If you don't already have it, go to your <app>App Center</app>'s "
-"Utilities section and download it, then click on it once to open."
-msgstr "Pastikan bahwa aplikasi <app>FrostTorrent</app> telah terpasang pada komputer Anda. Apabila belum ada, masuklah ke bagian Utilitas di <app>Pusat Aplikasi</app> dan unduh, lalu klik pada aplikasi itu satu kali untuk membukanya."
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:33
-msgid ""
-"If this is the first time you open <app>FrostTorrent</app>, you will need to"
-" complete a short setup using the wizard it provides. Once it finishes "
-"setting up, move on to the next step."
-msgstr "Jika ini adalah kali pertama Anda membuka <app>FrostTorrent</app>, Anda perlu menyelesaikan penataan singkat menggunakan wizard yang tersedia. Setelah penataan selesai, lanjutkan ke langkah berikutnya."
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:38
-msgid ""
-"Type in a keyword and press <key>Enter</key> on your keyboard, or click on "
-"the search icon. Suggested keywords will show up as you type and you can "
-"click on them to conduct a search on that keyword."
-msgstr "Ketik kata kunci dan tekan <key>Enter</key> pada papan ketik atau klik di ikon pencarian. Kata kunci yang disarankan akan muncul seiring Anda mengetik dan Anda bisa memilihnya untuk melakukan pencarian berdasarkan kata kunci tersebut."
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:43
-msgid ""
-"Search results will appear in the main window. Select the file type you want"
-" by clicking on the icon of a music note (songs), a frame (photos), a film "
-"strip (videos), or a sheet of paper (documents). You can also filter your "
-"results by clicking on the <gui>Search Tools</gui> button on the right- hand"
-" side of the window."
-msgstr "Hasil pencarian akan muncul di jendela utama. Pilih jenis berkas yang Anda inginkan dengan mengklik ikon dari catatan musik (lagu), bingkai (foto), strip film (video), atau selembar kertas (dokumen). Anda juga dapat menyaring hasil dengan mengklik tombol <gui>Perangkat Pencarian </gui> di sisi kanan jendela."
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:50
-msgid ""
-"To begin downloading the file, double click on the name of a file, or click "
-"once and then click <gui>Download</gui>."
-msgstr "Untuk mulai mengunduh berkas, klik dua kali pada nama berkas, atau klik sekali dan kemudian klik <gui>Unduh</gui>."
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:54
-msgid ""
-"After your file finishes downloading, it will appear on the bottom half of "
-"your screen and you can double click on it to open and beging using it. "
-"Right click on any finished file to see more options for using it. You can "
-"also click on the <gui>Library</gui> icon to browse through all the files "
-"that are ready for you to use."
-msgstr "Setelah file Anda selesai diunduh, maka file itu akan tampil di sisi bawah layar Anda dan Anda dapat melakukan klik-ganda pada file itu untuk membukanya dan mulai menggunakannya. Klik kanan pada file yang sudah selesai diunduh untuk melihat lebih banyak pilihan cara penggunaannya. Anda juga dapat mengklik pada ikon <gui>Pustaka</gui> untuk menelusuri seluruh file yang sudah siap untuk Anda gunakan."
-
-#. (itstool) path: note/title
-#: C/shell-download-media.page:63
-msgid "Tips:"
-msgstr "Tips:"
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:66
-msgid "A song with more “Seeds” next to its name will download more quickly."
-msgstr "Lagu dengan lebih banyak “Seeds” di sebelah judulnya akan lebih cepat diunduh."
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:70
-msgid ""
-"Files from SoundCloud.com, Archive.org, or other similar services, will not "
-"show any “Seeds” because they come directly from the source rather than from"
-" other users."
-msgstr "Berkas-berkas dari SoundCloud.com, Archive.org, atau layanan serupa lainnya tidak menampilkan \"Seeds\" dikarenakan mereka berasal langsung dari sumber dan bukan dari pengguna lain."
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:75
-msgid ""
-"Click the triangle button next to a file to preview it before downloading."
-msgstr "Klik tombol segitiga di sebelah berkas untuk meninjau itu sebelum mengunduh."
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:79
-msgid ""
-"Click the plus button next to a file to select the parts of the package that"
-" you want to download."
-msgstr "Klik tombol plus di samping sebuah file untuk memilih bagian dari paket yang ingin Anda unduh."
-
-#. (itstool) path: note/p
-#: C/shell-download-media.page:86
-msgid ""
-"Make sure that what you are downloading is a legal copy! Many files have "
-"copyright laws that prohibit them from being shared for free online. This "
-"means that you could be sued for illegally downloading them without paying "
-"for them. That being said, there are millions of files that are completely "
-"legal and shareable on the internet, and that you can enjoy once you "
-"download them with this app. To learn more about downloading files and "
-"copyright, you may want to google \"torrents and legality\" so that you can "
-"make informed decisions on which files to download."
-msgstr "Pastikan Anda mengunduh salinan yang legal! Banyak file dilindungi hukum hak cipta sehingga dilarang untuk dibagikan gratis secara daring. Ini berarti Anda bisa mendapat tuntutan hukum jika mengunduhnya secara ilegal tanpa membayar. Walau demikian, ada jutaan file yang legal dan boleh dibagikan di internet, dan bisa Anda nikmati begitu Anda mengunduhnya dengan aplikasi ini. Untuk mengetahui lebih lanjut tentang pengunduhan file dan hak cipta, Anda bisa google \"torrents and legality\" sehingga Anda bisa membuat keputusan sadar tentang file mana yang akan diunduh."
-
 #. (itstool) path: credit/name
 #: C/shell-exit.page:22
 msgid "Alexandre Franke"
 msgstr "Alexandre Franke"
 
 #. (itstool) path: info/desc
-#: C/shell-exit.page:32
+#: C/shell-exit.page:36
 msgid ""
 "Learn how to leave your user account, by logging out, switching users, and "
 "so on."
 msgstr "Pelajari cara keluar dari akun pengguna, dengan log out, ganti pengguna, dan seterusnya."
 
 #. (itstool) path: page/title
-#: C/shell-exit.page:36
+#: C/shell-exit.page:40
 msgid "Log out, power off or switch users"
 msgstr "Keluar, matikan atau beralih pengguna"
 
 #. (itstool) path: page/p
-#: C/shell-exit.page:44
+#: C/shell-exit.page:48
 msgid ""
 "When you have finished using your computer, you can turn it off or leave it "
 "powered on and log out."
 msgstr "Pada saat Anda selesai menggunakan komputer, Anda dapat mematikannya atau tetap menyalakannya tetapi log out."
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:48
+#: C/shell-exit.page:52
 msgid "Log out or switch users"
 msgstr "Log keluar atau bertukar pengguna"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:50
+#: C/shell-exit.page:54
 msgid ""
 "To let other users use your computer, you can either log out, or leave "
 "yourself logged in and just switch users. If you switch users, all of your "
@@ -7937,20 +7597,20 @@ msgid ""
 msgstr "Untuk mengizinkan pengguna lain menggunakan komputer Anda, Anda dapat keluar atau tetap masuk dan cukup beralih pengguna. Jika Anda beralih pengguna, semua aplikasi Anda akan tetap berjalan, dan semuanya akan tetap sama seperti saat Anda meninggalkannya ketika Anda masuk kembali."
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:54
+#: C/shell-exit.page:58
 msgid ""
-"To log out (i.e. in order to switch to a different user), click the User "
-"Menu on the bottom left corner of your screen and then click the <gui>lock "
-"icon</gui>."
-msgstr "Untuk keluar (misalnya ingin berubah ke pengguna lain), klik Menu Pengguna di pojok kiri bawah layar dan kemudian klik <gui>lock icon</gui>."
+"To log out (i.e. in order to switch to a different user), click on the User "
+"icon at the very bottom right-hand side of your screen (it looks like a "
+"person), and click the <gui>Lock icon</gui>."
+msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:61
+#: C/shell-exit.page:65
 msgid "Lock the screen"
 msgstr "Kunci layar"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:63
+#: C/shell-exit.page:67
 msgid ""
 "If you're leaving your computer for a short time, you should lock your "
 "screen to prevent other people from accessing your files or running "
@@ -7960,15 +7620,15 @@ msgid ""
 msgstr "Jika Anda akan meninggalkan komputer Anda untuk waktu yang singkat, Anda sebaiknya mengunci layar untuk mencegah orang lain mengakses berkas atau aplikasi Anda yang sedang berjalan. Saat Anda kembali, Anda akan perlu memasukkan kata sandi untuk masuk lagi. Anda akan menemukan komputer Anda dalam keadaan yang sama seperti saat Anda meninggalkannya."
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:68
+#: C/shell-exit.page:72
 msgid ""
-"To lock your screen, click on the User Menu at the very bottom left-hand "
-"side of your screen and press the <gui>Lock</gui> button at the bottom right"
-" of the menu."
-msgstr "Untuk mengunci layar Anda, klik pada Menu Pengguna pada sisi kiri bawah layar Anda dan tekan tombol <gui>Kunci</gui> pada bagian kanan bawah menu."
+"To lock your screen, click on the User icon at the very bottom right-hand "
+"side of your screen (it looks like a person), and click the <gui>Lock "
+"icon</gui>."
+msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-exit.page:72
+#: C/shell-exit.page:76
 msgid ""
 "If you don't lock your screen, it will lock automatically after a certain "
 "amount of time, unless you disable that feature from the <gui>Privacy</gui> "
@@ -7976,22 +7636,22 @@ msgid ""
 msgstr "Jika Anda tidak mengunci layar Anda, ia akan mengunci secara otomatis setelah waktu tertentu, kecuali jika Anda menonaktifkan fitur dari bagian <gui> Privasi </gui> di <gui> Pengaturan </gui>."
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:84
+#: C/shell-exit.page:88
 msgid "Power off or restart"
 msgstr "Matikan atau start ulang"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:86
+#: C/shell-exit.page:90
 msgid ""
 "If you want to power off your computer entirely, or do a full restart, click"
-" the User Menu at the very bottom left-hand side of your screen and press "
-"the <gui>Exit</gui> button at the bottom right of the menu. A dialog will "
-"open offering you the options to, among other options, <gui>Restart</gui> or"
-" <gui>Power Off</gui>."
-msgstr "Jika Anda ingin mematikan komputer secara menyeluruh, atau melakukan restart penuh, klik Menu Pengguna di kiri bawah layar dan tekan tombol <gui>Exit</gui> pada kanan bawah menu. Kotak peringatan akan muncul menawarkan dua opsi kepada Anda, yaitu <gui>Restart</gui> atau <gui>Power Off</gui>."
+" on the User icon at the very bottom right-hand side of your screen (it "
+"looks like a person), and press the <gui>Exit</gui> button at the bottom "
+"right of the menu. A dialog will open offering you the options to, among "
+"other options, <gui>Restart</gui> or <gui>Power Off</gui>."
+msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:92
+#: C/shell-exit.page:96
 msgid ""
 "If there are other users logged in, you may not be allowed to power off or "
 "restart the computer because this will end their sessions. If you are an "
@@ -8025,17 +7685,17 @@ msgid ""
 msgstr "Apabila Anda ingin memasukkan aplikasi tertentu ke Endless di masa mendatang, harap <link xref=\"gs-give-feedback\">mengirimkan pesan kepada kami melalui opsi Umpan Balik</link>."
 
 #. (itstool) path: info/desc
-#: C/shell-introduction.page:28
+#: C/shell-introduction.page:33
 msgid "A quick introduction to your desktop and some of its cool features."
 msgstr "Sebuah pengantar cepat untuk desktop Anda dan beberapa fitur yang keren."
 
 #. (itstool) path: page/title
-#: C/shell-introduction.page:31
+#: C/shell-introduction.page:36
 msgid "Introduction to Endless"
 msgstr "Pengenalan ke Endless"
 
 #. (itstool) path: page/p
-#: C/shell-introduction.page:33
+#: C/shell-introduction.page:38
 msgid ""
 "Endless has been created just for you. When you first turn your computer on,"
 " you'll find some important applications already installed on your desktop, "
@@ -8043,24 +7703,22 @@ msgid ""
 msgstr "Endlessdibuat hanya untuk Anda. Ketika Anda pertama kali menghidupkan komputer Anda, Anda akan menemukan beberapa aplikasi penting yang sudah dipasang pada desktop Anda, dan task bar di bagian paling bawah layar Anda."
 
 #. (itstool) path: page/p
-#: C/shell-introduction.page:37
+#: C/shell-introduction.page:42
 msgid ""
 "The task bar provides access to important things like your windows and "
 "applications, your calendar and clock, and system properties like sound and "
 "networking. There, you can change the volume, edit your Wi-Fi connection "
 "details, check your battery status, log out or switch users, and turn off "
-"your computer. We have also included the possibility to connect to Facebook "
-"on this task bar, so that you can keep in touch with your friends more "
-"easily than ever!"
-msgstr "Batang tugas memberikan akses terhadap hal-hal penting seperti jendela dan aplikasi, kalender dan jam, dan properti sistem seperti suara dan jaringan. Di situ Anda dapat mengubah volume suara, menyunting rincian sambungan Wi-Fi, memeriksa status baterai, keluar atau berganti pengguna, dan mematikan komputer Anda. Kami juga telah memasukkan kemungkinan untuk menyambung ke Facebook dari batang tugas ini, sehingga Anda dapat tetap terhubung dengan teman-teman Anda secara lebih mudah!"
+"your computer."
+msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:48
+#: C/shell-introduction.page:51
 msgid "<app>App Center</app> overview"
 msgstr "Tinjauan <app>App Center</app>"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:50
+#: C/shell-introduction.page:53
 msgid ""
 "Your computer should be incredibly useful to you both online and offline. "
 "For that reason, we have packed Endless with all sorts of applications and "
@@ -8070,23 +7728,13 @@ msgid ""
 " to install on your desktop."
 msgstr "Komputer Anda sangat berguna bagi Anda baik online dan offline. Untuk itu, kami telah mengemas Endless dengan segala macam aplikasi dan konten untuk Anda untuk menjelajahi dan menemukan. Anda dapat menambahkan lebih banyak aplikasi ke desktop Anda dengan mengklik tombol <_:media-1/> dari desktop. Ini akan meluncurkan <app>Pusat Aplikasi</app> kami, yang penuh dengan aplikasi gratis bagi Anda untuk dipasang pada desktop Anda."
 
-#. (itstool) path: section/p
-#: C/shell-introduction.page:58
-msgid ""
-"From the <app>App Center</app> you can add: <gui>Apps</gui>, "
-"<gui>Websites</gui>, and <gui>Folders</gui>. You can browse applications you"
-" may want to install by category, add shortcuts to your favorite websites "
-"onto your desktop, or simply create new folders to organize all of your "
-"things in a way that makes sense to you."
-msgstr "Dari <app>Pusat Aplikasi</app> Anda dapat menambahkan: <gui>Aplikasi</gui>, <gui> Situs Web</gui>, dan <gui>Folder</gui>. Anda dapat menelusuri aplikasi yang Anda mungkin ingin pasang berdasarkan kategori, menambahkan shortcut ke situs web favorit Anda ke desktop Anda, atau hanya membuat folder baru untuk mengatur semua hal Anda dengan cara yang masuk akal untuk Anda."
-
 #. (itstool) path: item/p
-#: C/shell-introduction.page:67
+#: C/shell-introduction.page:64
 msgid "<link xref=\"shell-apps-open\">Learn more about installing apps.</link>"
 msgstr "<link xref=\"shell-apps-open\">Pelajari selengkapnya tentang pemasangan aplikasi.</link>"
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:75
+#: C/shell-introduction.page:72
 msgid "You and your computer"
 msgstr "Anda dan komputer Anda"
 
@@ -8095,7 +7743,7 @@ msgstr "Anda dan komputer Anda"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:79
+#: C/shell-introduction.page:76
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-classic.png' "
@@ -8103,19 +7751,19 @@ msgid ""
 msgstr "external ref='figures/shell-exit-classic.png' md5='f36e3a0a115ff2181a6fc787e6a83283'"
 
 #. (itstool) path: media/p
-#: C/shell-introduction.page:80
+#: C/shell-introduction.page:77
 msgid "User menu"
 msgstr "Menu pengguna"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:86
+#: C/shell-introduction.page:83
 msgid ""
 "Click on the <gui>User Menu</gui> on the bottom left-hand corner of your "
 "screen to manage your system settings and your computer."
 msgstr "Klik <gui>Menu Pengguna</gui> di sudut kiri bawah layar untuk mengelola pengaturan sistem dan komputer Anda."
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:113
+#: C/shell-introduction.page:110
 msgid ""
 "When you leave your computer, you can lock your screen to prevent other "
 "people from using it. You can also choose to turn off or restart your "
@@ -8123,19 +7771,19 @@ msgid ""
 msgstr "Saat meninggalkan komputer, Anda dapat mengunci layar guna mencegah orang lain menggunakannya. Anda juga dapat memilih untuk mematikannya atau memulai ulang komputer."
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:119
+#: C/shell-introduction.page:116
 msgid ""
 "<link xref=\"shell-exit\">Learn more about switching users, logging out, and"
 " turning off your computer.</link>"
 msgstr "<link xref=\"shell-exit\">Pelajari lebih lanjut tentang bertukar pengguna, log keluar, dan mematikan komputer Anda.</link>"
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:126
+#: C/shell-introduction.page:123
 msgid "Lock Screen"
 msgstr "Kunci Layar"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:128
+#: C/shell-introduction.page:125
 msgid ""
 "When you lock your screen, or it locks automatically, the lock screen is "
 "displayed. In addition to protecting your desktop while you're away from "
@@ -8145,18 +7793,18 @@ msgid ""
 msgstr "Saat Anda mengunci layar atau saat layar terkunci secara otomatis, akan tampil layar kunci. Untuk melindungi desktop saat Anda berada jauh dari komputer, layar kunci akan menampilkan tanggal dan waktu. Layar tersebut juga akan menginformasikan status baterai dan jaringan, serta memungkinkan Anda mengontrol pemutaran media."
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:136
+#: C/shell-introduction.page:133
 msgid ""
 "<link xref=\"privacy-screen-lock\">Learn more about the lock screen.</link>"
 msgstr "<link xref=\"privacy-screen-lock\">Pelajari selengkapnya tentang layar kunci.</link>"
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:144
+#: C/shell-introduction.page:141
 msgid "Hot Corner"
 msgstr "Hot Corner"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:146
+#: C/shell-introduction.page:143
 msgid ""
 "Endless allows you to see all of your open windows and tasks so that you can"
 " multitask like a pro. To access this cool feature, move your mouse pointer "
@@ -8168,7 +7816,7 @@ msgid ""
 msgstr "Endless memungkinkan Anda untuk melihat semua jendela dan tugas yang terbuka sehingga Anda dapat mengerjakan beberapa tugas bersamaan seperti profesional. Untuk mengakses fitur keren ini, pindahkan petunjuk tetikus Anda ke sudut kanan paling bawah layar Anda. Anda kemudian dapat mengklik jendela atau tugas yang Anda ingin buka, sehingga Anda bisa mendapatkannya jauh lebih cepat. Misalnya, jika Anda ingin kembali ke desktop dari lapisan aplikasi dan media yang terbuka, klik pada ruang terbuka di belakang jendela Anda yang terbuka!"
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:155
+#: C/shell-introduction.page:152
 msgid ""
 "<link xref=\"shell-windows-switching\">Learn more about switching "
 "windows.</link>"
@@ -8416,31 +8064,31 @@ msgid "Marina Zhurakhinskaya"
 msgstr "Marina Zhurakhinskaya"
 
 #. (itstool) path: info/desc
-#: C/shell-notifications.page:28
+#: C/shell-notifications.page:31
 msgid ""
 "Messages pop-up at the bottom of the screen telling you when certain events "
 "happen."
 msgstr "Sembulan pesan di dasar layar memberi tahu Anda saat terjadi peristiwa tertentu."
 
 #. (itstool) path: page/title
-#: C/shell-notifications.page:31
+#: C/shell-notifications.page:34
 msgid "Notifications and the message tray"
 msgstr "Notifikasi dan baki pesan"
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:34
+#: C/shell-notifications.page:37
 msgid "What is a notification?"
 msgstr "Apakah notifikasi itu?"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:36
+#: C/shell-notifications.page:39
 msgid ""
 "If an application or a system component wants to get your attention, a "
 "notification will be shown at the bottom of your screen."
 msgstr "Jika sebuah aplikasi atau komponen sistem membutuhkan perhatian Anda, sebuah pemberitahuan akan ditampilkan pada bagian bawah layar."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:39
+#: C/shell-notifications.page:42
 msgid ""
 "For example, if you plug in an external device (like a USB stick), or if new"
 " updates are available for your computer, you will get a notification "
@@ -8448,33 +8096,33 @@ msgid ""
 msgstr "Contohnya, jika Anda memasang perangkat eksternal (seperti USB), atau pembaruan baru tersedia di komputer, Anda akan mendapatkan informasi berupa notifikasi."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:43
+#: C/shell-notifications.page:46
 msgid ""
 "To minimize distraction, some notifications first appear as a single line. "
 "You can move your mouse over them to see their full content."
 msgstr "Untuk meminimalkan gangguan, beberapa pemberitahuan muncul terlebih dahulu satu baris. Anda dapat memindahkan tetikus ke atas mereka untuk melihat konten penuh."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:46
+#: C/shell-notifications.page:49
 msgid ""
 "Other notifications have selectable option buttons. To close one of these "
 "notifications without selecting one of its options, click the close button."
 msgstr "Notifikasi lainnya memiliki tombol opsi yang bisa dipilih. Untuk menutup notifikasi semacam ini tanpa memilih salah satu opsi, klik tombol tutup."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:51
+#: C/shell-notifications.page:54
 msgid ""
 "Clicking the close button on some notifications dismisses them. Others may "
 "stay hidden in the message tray."
 msgstr "Mengklik tombol tutup pada sejumlah pemberitahuan akan menghilangkannya. Yang lain mungkin akan tetap tersembunyi di baki pesan."
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:60
+#: C/shell-notifications.page:63
 msgid "The message tray"
 msgstr "Baki pesan"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:62
+#: C/shell-notifications.page:65
 msgid ""
 "The message tray gives you a way to get back to your notifications when it "
 "is convenient for you. It appears when you move your mouse to the bottom-"
@@ -8484,7 +8132,7 @@ msgid ""
 msgstr "Baki pesan memungkinkan Anda untuk kembali ke pemberitahuan kapan pun Anda inginkan. Baki ini akan tampak saat Anda menggerakkan mouse ke sudut kanan bawah layar, atau dengan menekan <keyseq><key xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq>. Baki pesan berisi semua pemberitahuan yang belum Anda tindaki atau yang secara permanen ditampilkan di dalamnya."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:69
+#: C/shell-notifications.page:72
 msgid ""
 "The message tray gives you a way to get back to your notifications when it "
 "is convenient for you. It appears when you move your mouse to the bottom-"
@@ -8496,7 +8144,7 @@ msgid ""
 msgstr "Baki pesan memungkinkan Anda untuk kembali ke pemberitahuan kapan pun Anda mau. Baki ini akan tampak saat Anda menggerakkan mouse ke sudut kanan bawah layar, atau dengan menekan <keyseq> <key xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq>. Anda juga dapat menampilkan baki pesan dengan mengeklik ikon angka biru di sisi kanan pada daftar jendela. Baki pesan berisi semua pemberitahuan yang belum Anda tindaki atau yang secara permanen ditampilkan di dalamnya."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:77
+#: C/shell-notifications.page:80
 msgid ""
 "You can view the notifications by clicking on the message tray items. These "
 "are usually messages sent by applications. However, chat notifications are "
@@ -8505,43 +8153,43 @@ msgid ""
 msgstr "Anda dapat melihat pemberitahuan dengan mengklik pada kotak pemberitahuan pesan. Ini biasanya pesan yang dikirim oleh aplikasi. Namun, pemberitahuan obrolan diberikan perlakuan khusus, dan diwakili oleh kontak perorangan yang mengirimkan pesan obrolan."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:82
+#: C/shell-notifications.page:85
 msgid ""
 "You can close the message tray by pressing "
 "<keyseq><key>Super</key><key>M</key></keyseq> again or <key>Esc</key>."
 msgstr "Anda dapat menutup tray pesan dengan menekan <keyseq> <key>Super</key> <key>M</key> </keyseq> lagi atau <key> Esc </key>."
 
 #. (itstool) path: note/p
-#: C/shell-notifications.page:86
+#: C/shell-notifications.page:89
 msgid ""
 "If the <link xref=\"keyboard-osk\">screen keyboard</link> is open, you will "
 "need to click the <gui>tray button</gui> to show the message tray."
 msgstr "Jika <link xref=\"keyboard-osk\">screen keyboard</link> sedang terbuka, Anda perlu mengeklik <gui>tombol baki</gui> untuk menampilkan baki pesan."
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:94
+#: C/shell-notifications.page:97
 msgid "Hiding notifications"
 msgstr "Menyembunyikan notifikasi"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:96
+#: C/shell-notifications.page:99
 msgid ""
 "If you're working on something and do not want to be bothered, you can "
 "switch off notifications."
 msgstr "Jika Anda sedang bekerja dan tidak ingin diganggu, Anda dapat menonaktifkan pemberitahuan."
 
 #. (itstool) path: item/p
-#: C/shell-notifications.page:107
+#: C/shell-notifications.page:108
 msgid "Click on <gui>Notifications</gui>."
 msgstr "Klik pada <gui>Pemberitahuan</gui>."
 
 #. (itstool) path: item/p
-#: C/shell-notifications.page:111
+#: C/shell-notifications.page:112
 msgid "Switch <gui>Show Pop Up Banners</gui> to <gui>Off</gui>."
 msgstr "Ubah <gui>Tampilkan Banner Sembulan</gui> ke <gui>Off</gui>."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:115
+#: C/shell-notifications.page:116
 msgid ""
 "When switched off, most notifications will not pop up at the bottom of the "
 "screen. Very important notifications, such as when your battery is "
@@ -8554,8 +8202,8 @@ msgstr "Saat dimatikan, sebagian besar pemberitahuan tidak akan muncul di bagian
 
 #. (itstool) path: info/desc
 #: C/shell-organize-apps.page:18
-msgid "Keep all of your apps organized."
-msgstr "Jaga seluruh aplikasi tertata baik."
+msgid "Use folders to stay organized."
+msgstr ""
 
 #. (itstool) path: page/title
 #: C/shell-organize-apps.page:21
@@ -8652,39 +8300,33 @@ msgstr "Endless terus mengembangkan aplikasi supaya Anda mendapatkan konten yang
 
 #. (itstool) path: item/p
 #: C/shell-update-app.page:34
-msgid ""
-"On the left menu, click on the section <gui>Installed</gui>. All apps that "
-"are installed on your computer will be there."
-msgstr "Pada menu di kiri, klik pada bagian <gui>Installed</gui>. Semua aplikasi yang terpasang di komputer Anda akan muncul di sini."
+msgid "On the top bar, click the <gui>Updates</gui> section."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-update-app.page:38
-msgid "Click the thumbnail of the app you want to update."
-msgstr "Klik thumbnail pada aplikasi yang ingin Anda perbarui."
+#: C/shell-update-app.page:37
+msgid ""
+"If there is an update available, you will see an <gui>Update</gui> you can "
+"select. Click on it to download the update. It will be installed "
+"automatically once it's ready."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-update-app.page:41
+#: C/shell-update-app.page:42
 msgid ""
-"If there is an update available, you will see a green button with the label "
-"<gui>Update app</gui>. Click on it to download the update. It will be "
-"installed automatically once it's ready."
-msgstr "Jika ada pembaruan yang tersedia, Anda akan melihat tombol hijau dengan label <gui>Perbarui aplikasi</gui>. Klik di atasnya untuk mengunduh pembaruan. Ini akan dipasang secara otomatis setelah siap."
-
-#. (itstool) path: item/p
-#: C/shell-update-app.page:46
-msgid ""
-"Once the update is installed, you will see the <gui>Open app</gui> button."
-msgstr "Setelah pembaruan dipasang, Anda akan melihat tombol <gui>Buka aplikasi</gui>."
+"You can also choose to <gui>Update All</gui> of your apps at once with the "
+"blue button at the top right of your screen."
+msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-update-app.page:52
-msgid "To update an app, you will need an internet connection."
-msgstr "Untuk memperbarui sebuah aplikasi, Anda akan membutuhkan koneksi internet."
+#: C/shell-update-app.page:48
+msgid "To update your apps, you will need an internet connection."
+msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-update-app.page:55
-msgid "You can close the <app>App Center</app> while the app is updating."
-msgstr "Anda bisa menutup <app>App Center</app> saat sedang memperbarui aplikasi."
+#: C/shell-update-app.page:51
+msgid "You can close the <app>App Center</app> while apps are updating."
+msgstr ""
 
 #. (itstool) path: info/desc
 #: C/shell-update-system.page:19
@@ -8736,19 +8378,19 @@ msgid ""
 msgstr "Apabila Anda ingin memeriksa pembaruan, Anda perlu mengikuti langkah-langkah berikut:"
 
 #. (itstool) path: item/p
-#: C/shell-update-system.page:52
+#: C/shell-update-system.page:51
 msgid "Click on <gui>Details</gui>."
 msgstr "Klik <gui>Rincian</gui>."
 
 #. (itstool) path: item/p
-#: C/shell-update-system.page:56
+#: C/shell-update-system.page:55
 msgid ""
 "Click on the <gui>Search for updates now</gui> button. If there are updates,"
 " they will automatically start to download and install to your system."
 msgstr "Klik pada tombol <gui>Cari pembaruan sekarang</gui>. Jika ada pembaruan, mereka secara otomatis akan mulai mengunduh dan memasang ke sistem Anda."
 
 #. (itstool) path: note/p
-#: C/shell-update-system.page:64
+#: C/shell-update-system.page:63
 msgid ""
 "Make sure you don't go over your data limit! You may want to wait until you "
 "can get a Wi-Fi or wired internet connection. You can also contact our "
@@ -8782,9 +8424,12 @@ msgstr "Saat aplikasi ini disembunyikan, Anda dapat mengembalikannya dengan meng
 #. (itstool) path: note/p
 #: C/shell-windows-hide.page:33
 msgid ""
-"If you want to hide several windows at the same time, you might want to use "
-"the <gui>hot corner</gui> to quickly navigate between the hidden apps."
-msgstr "Apabila Anda ingin menyembunyikan beberapa layar dalam waktu bersamaan, Anda dapat menggunakan <gui>hot corner</gui> untuk navigasi cepat antaraplikasi terlindung."
+"Starting in Endless version 3.2, you can hide all of your windows instantly "
+"by clicking on the Endless logo on the bottom left corner. Click it again to"
+" restore your windows. When your windows are minimized, you can use the "
+"<gui>hot corner</gui> on the bottom right to quickly navigate between the "
+"hidden apps."
+msgstr ""
 
 #. (itstool) path: info/desc
 #: C/shell-windows-maximize.page:9
@@ -8988,19 +8633,19 @@ msgid ""
 msgstr "Komputer Anda akan memainkan suara peringatan sederhana untuk tipe pesan dan peristiwa tertentu. Anda dapat memiliki klip suara lain untuk peringatan, menata volume peringatan secara terpisah dari volume sistem Anda, atau mematikan suara peringatan sepenuhnya."
 
 #. (itstool) path: item/p
-#: C/sound-alert.page:45
+#: C/sound-alert.page:43
 msgid "Click <gui>Sound</gui>."
 msgstr "Klik <gui>Suara</gui>."
 
 #. (itstool) path: item/p
-#: C/sound-alert.page:48
+#: C/sound-alert.page:46
 msgid ""
 "In the <gui>Sound Effects</gui> tab, select an alert sound. Each sound will "
 "play when you click on it so you can hear how it sounds."
 msgstr "Di tab <gui>Efek Suara</gui> pilihlah suara sinyal. Tiap suara akan diputar jika Anda mengkliknya agar dapat mendengar seperti apa bunyinya."
 
 #. (itstool) path: page/p
-#: C/sound-alert.page:53
+#: C/sound-alert.page:51
 msgid ""
 "Use the volume slider in the <gui>Sound Effects</gui> tab to set the volume "
 "of the alert sound. This won't affect the volume of your music, movies, or "
@@ -9008,49 +8653,11 @@ msgid ""
 msgstr "Gunakan penggeser volume dalam tab <gui>Efek Suara </gui> untuk mengatur volume suara peringatan. Ini tidak akan mempengaruhi volume musik, film, atau berkas suara lainnya."
 
 #. (itstool) path: page/p
-#: C/sound-alert.page:57
+#: C/sound-alert.page:55
 msgid ""
 "To disable alert sounds entirely, switch the <gui>Alert volume</gui> to "
 "<gui>Off</gui>."
 msgstr "Untuk menonaktifkan suara sinyal sepenuhnya, ubahlah <gui>Volume sinyal</gui> ke <gui>Off</gui>."
-
-#. (itstool) path: credit/years
-#: C/sound-troubleshoot.page:15
-msgid "2016"
-msgstr "2016"
-
-#. (itstool) path: info/desc
-#: C/sound-troubleshoot.page:18
-msgid ""
-"If you can't hear sound on your computer, there may be a way to fix that."
-msgstr "Jika Anda tidak dapat mendengar suara pada komputer Anda, mungkin ada cara untuk memperbaikinya."
-
-#. (itstool) path: page/title
-#: C/sound-troubleshoot.page:22
-msgid "Troubleshoot sound on your computer"
-msgstr "Suara troubleshoot di komputer Anda"
-
-#. (itstool) path: page/p
-#: C/sound-troubleshoot.page:24
-msgid ""
-"Here are some known issues and how to fix them if you're having trouble "
-"hearing sound from your computer."
-msgstr "Berikut ini beberapa masalah yang diketahui dan cara mengatasinya jika Anda mengalami masalah saat mendengarkan suara dari komputer Anda."
-
-#. (itstool) path: section/title
-#: C/sound-troubleshoot.page:28
-msgid "Hearing sound on an old TV"
-msgstr "Mendengarkan suara pada TV tua."
-
-#. (itstool) path: section/p
-#: C/sound-troubleshoot.page:30
-msgid ""
-"Some Endless computers are compatible with old TVs. To play audio through "
-"your TV, you will need to use an adapter that connects your TV to the 3.5 mm"
-" audio jack on the side of your computer. Endless does not come with this "
-"adapter, so you should check with your local electronics retailer to "
-"purchase one."
-msgstr "Beberapa komputer Endless kompatibel dengan TV tua. Untuk memutar audio melalui TV Anda, Anda perlu menggunakan adaptor yang menghubungkan TV Anda ke audio jack 3,5 mm di sisi komputer Anda. Endless tidak datang dengan adaptor ini, sehingga Anda harus memeriksa dengan pengecer elektronik lokal Anda untuk membeli satu."
 
 #. (itstool) path: info/desc
 #: C/sound-volume.page:20
@@ -9123,23 +8730,23 @@ msgid ""
 msgstr "Hanya aplikasi yang memutar suara yang akan ditampilkan. Jika aplikasi memutar suara tetapi tidak berada dalam daftar, maka aplikasi ini mungkin tidak mendukung fitur yang memungkinkan Anda untuk mengontrol volumenya dengan cara ini. Jika demikian, Anda tidak dapat mengubah volumenya."
 
 #. (itstool) path: info/title
-#: C/user-add.page:32
+#: C/user-add.page:36
 msgctxt "link:index"
 msgid "How do I add more user accounts?"
 msgstr "Bagaimana cara menambah akun pengguna?"
 
 #. (itstool) path: info/desc
-#: C/user-add.page:33
+#: C/user-add.page:37
 msgid "Add new users so that other people can log in to the computer."
 msgstr "Tambahkan pengguna baru sehingga orang lain dapat log masuk ke komputer."
 
 #. (itstool) path: page/title
-#: C/user-add.page:36
+#: C/user-add.page:40
 msgid "Add a new user account"
 msgstr "Menambah akun pengguna baru"
 
 #. (itstool) path: page/p
-#: C/user-add.page:61
+#: C/user-add.page:65
 msgid ""
 "You can create multiple user accounts on your computer and give a user "
 "account to everyone who uses your computer. That way, you can make sure that"
@@ -9148,7 +8755,7 @@ msgid ""
 msgstr "Anda dapat membuat beberapa akun pengguna di komputer Anda dan memberikannya kepada semua orang yang menggunakan komputer Anda. Dengan begitu, Anda dapat memastikan privasi berkas Anda tetap terjaga dan setiap pengguna akan memiliki folder home, dokumen, dan pengaturan kustom masing-masing."
 
 #. (itstool) path: page/p
-#: C/user-add.page:66
+#: C/user-add.page:70
 msgid ""
 "You will need <link xref=\"user-admin-explain\">administrator "
 "privileges</link> to add user accounts. The administrator is usually the "
@@ -9158,35 +8765,35 @@ msgid ""
 msgstr "Anda membutuhkan <link xref=\"user-admin-explain\">hak administrator</link> untuk menambahkan akun pengguna. Administrator biasanya adalah orang yang pertama kali mengatur akunnya saat komputer pertama kali dibeli dan disiapkan, meskipun ada orang-orang lain yang mungkin juga telah diberikan hak administrator oleh pengguna pertama tersebut."
 
 #. (itstool) path: steps/title
-#: C/user-add.page:73
+#: C/user-add.page:77
 msgid ""
 "If you are the administrator, follow these steps to create more user "
 "accounts:"
 msgstr "Apabila Anda seorang administrator, ikuti langkah-langkah berikut untuk membuat akun pengguna tambahan:"
 
 #. (itstool) path: item/p
-#: C/user-add.page:82 C/user-admin-change.page:44 C/user-autologin.page:35
-#: C/user-changepassword.page:71 C/user-changepicture.page:48
-#: C/user-delete.page:55
+#: C/user-add.page:84 C/user-admin-change.page:42 C/user-autologin.page:33
+#: C/user-changepassword.page:69 C/user-changepicture.page:46
+#: C/user-delete.page:53
 msgid "Click on <gui>Users</gui>."
 msgstr "Klik pada <gui>Users</gui>."
 
 #. (itstool) path: item/p
-#: C/user-add.page:86 C/user-admin-change.page:48 C/user-delete.page:59
+#: C/user-add.page:88 C/user-admin-change.page:46 C/user-delete.page:57
 msgid ""
 "Press <gui style=\"button\">Unlock</gui> in the top right corner and type in"
 " your password when prompted."
 msgstr "Tekan <gui style=\"button\">Unlock</gui> pada sudut kanan atas dan ketik kata kunci saat diminta. "
 
 #. (itstool) path: item/p
-#: C/user-add.page:93
+#: C/user-add.page:95
 msgid ""
 "Press the <gui style=\"button\">+</gui> button, below the list of accounts "
 "on the left, to add a new user account."
 msgstr "Tekan tombol <gui style=\"button\">+</gui>, berikut daftar akun di kiri, untuk menambahkan akun pengguna baru."
 
 #. (itstool) path: item/p
-#: C/user-add.page:98
+#: C/user-add.page:100
 msgid ""
 "If you want the new user to have <link xref=\"user-admin-"
 "explain\">administrative access</link> to the computer, select "
@@ -9196,7 +8803,7 @@ msgid ""
 msgstr "Jika Anda menginginkan pengguna baru memiliki <link xref=\"user-admin-explain\">akses administratif</link> ke komputer, pilihlah <gui>Administrator</gui> sebagai jenis akun. Administrator dapat melakukan hal seperti menambahkan dan menghapus pengguna, menginstal peranti lunak dan driver, serta mengubah waktu dan tanggal."
 
 #. (itstool) path: item/p
-#: C/user-add.page:105
+#: C/user-add.page:107
 msgid ""
 "Enter the new user's full name. The username will be filled in automatically"
 " based on the full name. If you do not like the proposed username, you can "
@@ -9204,12 +8811,12 @@ msgid ""
 msgstr "Masukkan nama lengkap pengguna baru. Nama pengguna akan terisi secara otomatis sesuai nama lengkap. Jika Anda tidak menyukai nama pengguna yang diusulkan, Anda bisa mengubahnya."
 
 #. (itstool) path: media/span
-#: C/user-add.page:112 C/user-changepassword.page:83
+#: C/user-add.page:114 C/user-changepassword.page:81
 msgid "generate password"
 msgstr "hasilkan kata sandi"
 
 #. (itstool) path: item/p
-#: C/user-add.page:110
+#: C/user-add.page:112
 msgid ""
 "You can chose to set a password for the new user, or let them set it "
 "themselves on their first login. You can press on the <gui "
@@ -9218,12 +8825,12 @@ msgid ""
 msgstr "Anda bisa memilih kata kunci untuk pengguna baru atau membiarkan mereka mengaturnya saat pertama kali login. Anda bisa menekan pada ikon <gui style=\"button\"><_:media-1/></gui> untuk memunculkan kata kunci acak secara otomatis."
 
 #. (itstool) path: item/p
-#: C/user-add.page:117
+#: C/user-add.page:119
 msgid "Click <gui>Add</gui>."
 msgstr "Klik <gui>Tambah</gui>."
 
 #. (itstool) path: page/p
-#: C/user-add.page:121
+#: C/user-add.page:123
 msgid ""
 "If you want to change the password after creating the account, select the "
 "account, <gui style=\"button\">Unlock</gui> the panel and press on the "
@@ -9231,7 +8838,7 @@ msgid ""
 msgstr "Jika Anda ingin mengubah kata sandi setelah membuat akun, pilih akun bersangkutan, <gui style=\"button\">Buka</gui> panelnya dan tekan pada status kata sandi saat ini."
 
 #. (itstool) path: note/p
-#: C/user-add.page:126
+#: C/user-add.page:128
 msgid ""
 "In the <gui>Users</gui> panel, you can click the image next to the user's "
 "name to the right to set an image for the account. This image will be shown "
@@ -9240,7 +8847,7 @@ msgid ""
 msgstr "Pada panel <gui>Users</gui>, Anda bisa klik gambar di sebelah nama pengguna ke sisi kanan untuk membuat gambar bagi akun tersebut. Gambar ini akan tampil pada layar login. Endless menyediakan sejumlah stok foto yang bisa digunakan, atau Anda bisa memilih sendiri atau menggunakan foto dari kamera web."
 
 #. (itstool) path: note/p
-#: C/user-add.page:133
+#: C/user-add.page:135
 msgid ""
 "You may want to create a \"Guest\" account so that friends or others who "
 "visit you can use it and you can rest assured that they will not mess up any"
@@ -9277,24 +8884,24 @@ msgid ""
 msgstr "Anda perlu <link xref=\"user-admin-explain\">hak administrator</link> untuk mengubah jenis akun."
 
 #. (itstool) path: item/p
-#: C/user-admin-change.page:52
+#: C/user-admin-change.page:50
 msgid "Select the user whose privileges you want to change."
 msgstr "Pilih pengguna yang privilesenya ingin Anda ubah."
 
 #. (itstool) path: item/p
-#: C/user-admin-change.page:55
+#: C/user-admin-change.page:53
 msgid ""
 "Click the label <gui>Standard</gui> next to <gui>Account Type</gui> and "
 "select <gui>Administrator</gui>."
 msgstr "Klik label <gui>Standar</gui> di samping <gui>Jenis Akun</gui> lalu pilih <gui>Administrator</gui>."
 
 #. (itstool) path: item/p
-#: C/user-admin-change.page:59
+#: C/user-admin-change.page:57
 msgid "The user's privileges will be changed when they next log in."
 msgstr "Hak pengguna akan berubah ketika mereka masuk selanjutnya."
 
 #. (itstool) path: note/p
-#: C/user-admin-change.page:64
+#: C/user-admin-change.page:62
 msgid ""
 "The first user account on the system is usually the one that has "
 "administrator privileges. This is the user account that was created when you"
@@ -9302,7 +8909,7 @@ msgid ""
 msgstr "Akun yang memiliki hak administrator biasanya adalah akun pengguna pertama di sistem. Ini adalah akun pengguna yang dibuat saat Anda pertama kali memasang sistem."
 
 #. (itstool) path: note/p
-#: C/user-admin-change.page:67
+#: C/user-admin-change.page:65
 msgid ""
 "It is unwise to have too many users with <gui>Administrator</gui> privileges"
 " on one system."
@@ -9475,23 +9082,23 @@ msgid ""
 msgstr "Anda dapat mengubah pengaturan Anda sehingga Anda secara otomatis masuk ke akun Anda ketika Anda menyalakan komputer Anda:"
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:39
+#: C/user-autologin.page:37
 msgid ""
 "Select the user account that you want to log in to automatically at startup."
 msgstr "Pilih akun pengguna yang Anda ingin masuk untuk secara otomatis pada saat memulai."
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:43
+#: C/user-autologin.page:41
 msgid "Press <gui style=\"button\">Unlock</gui> and enter your password."
 msgstr "Tekan <gui style=\"button\">Unlock</gui> dan masukkan kata sandi Anda."
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:46
+#: C/user-autologin.page:44
 msgid "Toggle the <gui>Automatic Login</gui> switch to <gui>On</gui>."
 msgstr "Geser saklar <gui>Login Otomatis</gui> menjadi <gui>Aktif</gui>."
 
 #. (itstool) path: page/p
-#: C/user-autologin.page:50
+#: C/user-autologin.page:48
 msgid ""
 "When you next start up your computer, you will be logged in automatically. "
 "If you have this option enabled, you will not need to type in your password "
@@ -9501,7 +9108,7 @@ msgid ""
 msgstr "Saat Anda memulai komputer kali berikutnya, Anda akan dimasukkan otomatis. Jika mengaktifkan opsi ini, Anda tidak perlu memasukkan sandi untuk masuk ke dalam akun Anda yang berarti jika orang lain memulai komputer Anda, mereka akan dapat mengakses akun dan data personal termasuk berkas dan riwayat peramban Anda."
 
 #. (itstool) path: note/p
-#: C/user-autologin.page:57
+#: C/user-autologin.page:55
 msgid ""
 "If your account type is <em>Standard</em>, you cannot change this setting. "
 "Contact your system administrator who can change this setting for you."
@@ -9534,7 +9141,7 @@ msgid ""
 msgstr "Anda perlu <link xref=\"user-admin-explain\"> hak administrator </link> untuk mengedit akun pengguna lain selain Anda sendiri."
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:75
+#: C/user-changepassword.page:73
 msgid ""
 "Click the label <gui>·····</gui> next to <gui>Password</gui>. If you are "
 "changing the password for a different user, you will first need to "
@@ -9542,40 +9149,40 @@ msgid ""
 msgstr "Klik label <gui>·····</gui> sebelah <gui>Kata sandi</gui>. Jika Anda mengubah kata sandi untuk pengguna yang berbeda, Anda perlu untuk <gui> Membuka </gui> panel."
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:80
+#: C/user-changepassword.page:78
 msgid ""
 "Enter your current password, then a new password. Enter your new password "
 "again in the <gui>Confirm password</gui> field."
 msgstr "Masukkan kata sandi Anda saat ini, lalu kata sandi baru. Masukkan kata sandi baru sekali lagi di larik <gui>Konfirmasi kata sandi</gui>."
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:82
+#: C/user-changepassword.page:80
 msgid ""
 "You can press on the <gui style=\"button\"><_:media-1/></gui> icon to "
 "automatically generate a random password."
 msgstr "Anda dapat menekan ikon <gui style=\"button\"><_:media-1/></gui> untuk membuat kata sandi acak secara otomatis."
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:88
+#: C/user-changepassword.page:86
 msgid "Click <gui>Change</gui>."
 msgstr "Klik <gui>Ubah</gui>."
 
 #. (itstool) path: page/p
-#: C/user-changepassword.page:92
+#: C/user-changepassword.page:90
 msgid ""
 "Make sure you <link xref=\"user-goodpassword\">choose a good "
 "password</link>. This will help to keep your user account safe."
 msgstr "Pastikan Anda <link xref=\"user-goodpassword\">memilih kata sandi yang baik </link>. Ini akan membantu untuk menjaga akun pengguna Anda aman."
 
 #. (itstool) path: note/p
-#: C/user-changepassword.page:96
+#: C/user-changepassword.page:94
 msgid ""
 "When you update your login password, your login keyring password will "
 "automatically be updated to be the same as your new login password."
 msgstr "Ketika Anda memperbarui kata sandi Anda, kata sandi keyring Anda akan secara otomatis diperbarui untuk menjadi sama dengan kata sandi masuk baru Anda."
 
 #. (itstool) path: page/p
-#: C/user-changepassword.page:100
+#: C/user-changepassword.page:98
 msgid ""
 "If you forget your password, any user with administrator privileges can "
 "change it for you."
@@ -9600,7 +9207,7 @@ msgid ""
 msgstr "Saat masuk atau berganti pengguna, Anda akan melihat daftar pengguna beserta foto masuk mereka. Anda dapat mengganti foto menjadi gambar persediaan atau gambar Anda sendiri. Anda bahkan dapat mengambil foto masuk baru dengan webcam."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:52
+#: C/user-changepicture.page:50
 msgid ""
 "If you want to edit a user other than yourself, press <gui "
 "style=\"button\">Unlock</gui> in the top right corner and type in your "
@@ -9608,7 +9215,7 @@ msgid ""
 msgstr "Jika Anda ingin mengedit pengguna selain diri Anda, tekan <gui style=\"button\">Buka Kunci</gui> di pojok kanan atas dan ketik kata sandi ketika diminta."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:57
+#: C/user-changepicture.page:55
 msgid ""
 "Click the picture next to your name. A drop-down gallery will be shown with "
 "some stock login photos. If you like one of them, click it to use it for "
@@ -9616,14 +9223,14 @@ msgid ""
 msgstr "Klik gambar di sebelah nama Anda. Sebuah panel-geser berisi galeri akan ditampilkan berisi sejumlah foto login. Apabila Anda suka salah satu diantaranya, klik pada foto itu untuk menggunakan."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:62
+#: C/user-changepicture.page:60
 msgid ""
 "If you'd rather use a picture you already have on your computer, click "
 "<gui>Browse for more pictures…</gui>."
 msgstr "Jika Anda memilih menggunakan gambar yang sudah dimiliki di komputer, klik <gui>Telusuri gambar lainnya...</gui>."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:66
+#: C/user-changepicture.page:64
 msgid ""
 "If you have a webcam, you can take a new login photo right now by clicking "
 "<gui>Take a photo…</gui>. Take your picture, then move and resize the square"
@@ -9658,7 +9265,7 @@ msgid ""
 msgstr "Anda perlu <link xref=\"user-admin-explain\"> hak administrator </link> untuk menghapus akun pengguna."
 
 #. (itstool) path: item/p
-#: C/user-delete.page:66
+#: C/user-delete.page:64
 msgid ""
 "Select the user that you want to delete and press the <gui "
 "style=\"button\">-</gui> button, below the list of accounts on the left, to "
@@ -9666,7 +9273,7 @@ msgid ""
 msgstr "Pilih pengguna yang ingin Anda hapus dan tekan tombol <gui style=\"button\"> - </gui> , di bawah daftar akun di sebelah kiri, untuk menghapus akun pengguna."
 
 #. (itstool) path: item/p
-#: C/user-delete.page:72
+#: C/user-delete.page:70
 msgid ""
 "Each user has their own home folder for their files and settings. You can "
 "choose to keep or delete the user's home folder. Click <gui>Delete "

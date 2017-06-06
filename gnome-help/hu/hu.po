@@ -12,8 +12,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2017-06-01 16:45-0700\n"
-"PO-Revision-Date: 2017-06-01 23:47+0000\n"
+"POT-Creation-Date: 2017-06-05 20:09-0700\n"
+"PO-Revision-Date: 2017-06-06 04:48+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Hungarian (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/hu/)\n"
 "MIME-Version: 1.0\n"
@@ -148,53 +148,53 @@ msgstr "A <em>billentyűszűrés</em> bekapcsolásával figyelmen kívül hagyha
 #: C/a11y-font-size.page:37 C/a11y-icon.page:38 C/a11y-mag.page:39
 #: C/a11y-right-click.page:43 C/a11y-slowkeys.page:45
 #: C/a11y-stickykeys.page:49 C/a11y-visualalert.page:44 C/accounts-add.page:36
-#: C/bluetooth-connect-device.page:47 C/bluetooth-remove-connection.page:45
-#: C/bluetooth-send-file.page:52 C/bluetooth-turn-on-off.page:45
-#: C/bluetooth-turn-on-off.page:61 C/keyboard-cursor-blink.page:43
+#: C/bluetooth-connect-device.page:47 C/bluetooth-remove-connection.page:49
+#: C/bluetooth-send-file.page:56 C/bluetooth-turn-on-off.page:49
+#: C/bluetooth-turn-on-off.page:63 C/keyboard-cursor-blink.page:43
 #: C/keyboard-key-super.page:51 C/keyboard-layouts.page:51
 #: C/keyboard-osk.page:41 C/keyboard-repeat-keys.page:46
 #: C/look-background.page:61 C/mouse-doubleclick.page:44
 #: C/mouse-mousekeys.page:44 C/mouse-sensitivity.page:42
 #: C/mouse-when-right-click.page:43 C/net-manual.page:36
-#: C/printing-cancel-job.page:43 C/printing-cancel-job.page:86
-#: C/printing-setup-default-printer.page:42 C/printing-setup.page:80
-#: C/privacy-screen-lock.page:47 C/session-language.page:41
-#: C/sharing-bluetooth.page:90 C/shell-notifications.page:101
-#: C/shell-update-system.page:46 C/sound-alert.page:39 C/user-add.page:76
-#: C/user-admin-change.page:38 C/user-autologin.page:29
-#: C/user-changepassword.page:65 C/user-changepicture.page:42
-#: C/user-delete.page:49
+#: C/printing-cancel-job.page:43 C/printing-cancel-job.page:84
+#: C/printing-setup.page:80 C/privacy-screen-lock.page:47
+#: C/session-language.page:44 C/sharing-bluetooth.page:94
+#: C/shell-notifications.page:104 C/shell-update-system.page:46
+#: C/sound-alert.page:39 C/user-add.page:80 C/user-admin-change.page:38
+#: C/user-autologin.page:29 C/user-changepassword.page:65
+#: C/user-changepicture.page:42 C/user-delete.page:49
 msgid ""
-"Click on the <_:media-1/> on the bottom left-hand corner of your screen, "
-"then click on <gui>Settings</gui>."
+"Type \"Settings\" into the <gui>global search bar</gui> on your desktop. "
+"Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
+"to open."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/a11y-bouncekeys.page:49 C/a11y-contrast.page:49 C/a11y-dwellclick.page:54
-#: C/a11y-font-size.page:43 C/a11y-mag.page:45 C/a11y-right-click.page:49
-#: C/a11y-slowkeys.page:51 C/a11y-stickykeys.page:55
-#: C/a11y-visualalert.page:50 C/keyboard-osk.page:47 C/mouse-mousekeys.page:50
+#: C/a11y-bouncekeys.page:48 C/a11y-contrast.page:47 C/a11y-dwellclick.page:53
+#: C/a11y-font-size.page:42 C/a11y-mag.page:44 C/a11y-right-click.page:48
+#: C/a11y-slowkeys.page:50 C/a11y-stickykeys.page:54
+#: C/a11y-visualalert.page:49 C/keyboard-osk.page:46 C/mouse-mousekeys.page:49
 msgid "Click on <gui>Universal Access</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/a11y-bouncekeys.page:53 C/a11y-slowkeys.page:55 C/a11y-stickykeys.page:59
+#: C/a11y-bouncekeys.page:52 C/a11y-slowkeys.page:54 C/a11y-stickykeys.page:58
 msgid ""
 "Press <gui>Typing Assist (AccessX)</gui> in the <gui>Typing</gui> section."
 msgstr "Nyomja meg a <gui>Gépelési segéd</gui> gombot a <gui>Gépelés</gui> szakaszban."
 
 #. (itstool) path: item/p
-#: C/a11y-bouncekeys.page:57
+#: C/a11y-bouncekeys.page:56
 msgid "Switch <gui>Bounce Keys</gui> to <gui>On</gui>."
 msgstr "Kapcsolja <gui>BE</gui> a <gui>Billentyűszűrést</gui>."
 
 #. (itstool) path: note/title
-#: C/a11y-bouncekeys.page:62
+#: C/a11y-bouncekeys.page:61
 msgid "Quickly turn bounce keys on and off"
 msgstr "Billentyűszűrés gyors be- és kikapcsolása"
 
 #. (itstool) path: note/p
-#: C/a11y-bouncekeys.page:63
+#: C/a11y-bouncekeys.page:62
 msgid ""
 "You can turn bounce keys on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar at the bottom of your "
@@ -204,7 +204,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/a11y-bouncekeys.page:70
+#: C/a11y-bouncekeys.page:69
 msgid ""
 "Use the <gui>Acceptance delay</gui> slider to change how long bounce keys "
 "waits before it registers another key press after you pressed the key for "
@@ -259,7 +259,7 @@ msgid "To adjust the contrast of your window:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/a11y-contrast.page:53
+#: C/a11y-contrast.page:51
 msgid "Switch <gui>High Contrast</gui> to <gui>ON</gui>."
 msgstr "Kapcsolja <gui>ON</gui> állásba a <gui>Nagy kontraszt</gui> kapcsolót."
 
@@ -293,19 +293,19 @@ msgid ""
 msgstr "Ha a <gui>rámutatási kattintás</gui> be van kapcsolva, akkor mozgassa az egérmutatót egy vezérlőelem fölé, engedje el az egeret, és rövid idő múlva a gomb lenyomásra kerül."
 
 #. (itstool) path: item/p
-#: C/a11y-dwellclick.page:58
+#: C/a11y-dwellclick.page:57
 msgid ""
 "Press <gui>Click Assistant</gui> in the <gui>Pointing and Clicking</gui> "
 "section."
 msgstr "Nyomja meg a <gui>Kattintássegéd</gui> gombot a <gui>Mutatás és kattintás</gui> szakaszban."
 
 #. (itstool) path: item/p
-#: C/a11y-dwellclick.page:62
+#: C/a11y-dwellclick.page:61
 msgid "Switch <gui>Hover Click</gui> to <gui>On</gui>."
 msgstr "Kapcsolja <gui>BE</gui> a <gui>Rámutatási kattintást</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:66
+#: C/a11y-dwellclick.page:65
 msgid ""
 "The <gui>Hover Click</gui> window will open, and will stay above all of your"
 " other windows. You can use this to choose what sort of click should happen "
@@ -315,7 +315,7 @@ msgid ""
 msgstr "Megnyílik az <gui>Elidőzési kattintás</gui> ablak, és a többi ablak felett marad. Ennek segítségével kiválaszthatja, milyen kattintás történjen egy vezérlőelemre mutatáskor. Ha például a <gui>Másodlagos kattintást</gui> választja, akkor az egér jobb kattintást végez, amikor az egérmutatót pár másodpercig egy gomb fölött tartja. A dupla kattintás, jobb kattintás vagy húzás után automatikusan visszaáll a kattintásra."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:72
+#: C/a11y-dwellclick.page:71
 msgid ""
 "When you hover your mouse pointer over a button and do not move it, it will "
 "gradually change color. When it has fully changed color, the button will be "
@@ -323,14 +323,14 @@ msgid ""
 msgstr "Amikor az egérmutatója egy gombra mutat, és nem mozgatja, akkor a színe fokozatosan megváltozik. A szín megváltozásának befejeződésekor megtörténik a gombra kattintás."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:76
+#: C/a11y-dwellclick.page:75
 msgid ""
 "Adjust the <gui>Delay</gui> setting to change how long you have to hold the "
 "mouse pointer still before clicking."
 msgstr "A <gui>Késleltetés</gui> segítségével beállíthatja, hogy meddig kell az egérmutatót adott helyen tartani a kattintás előtt."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:79
+#: C/a11y-dwellclick.page:78
 msgid ""
 "You do not need to hold the mouse perfectly still when hovering to click. "
 "The pointer is allowed to move a little bit and will still click after a "
@@ -338,7 +338,7 @@ msgid ""
 msgstr "Nem kell teljesen álló helyzetben tartania az egeret, hogy a kattintás bekövetkezzen. A mutató elmozdulhat egy kicsit, és kis idő elteltével ekkor is megtörténik a kattintás. Ha azonban túl sokat mozdul, a kattintás nem következik be."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:83
+#: C/a11y-dwellclick.page:82
 msgid ""
 "Adjust the <gui>Motion threshold</gui> setting to change how much the "
 "pointer can move and still be considered to be hovering."
@@ -362,14 +362,14 @@ msgid ""
 msgstr "Ha nehézséget okoz a szöveg elolvasása a képernyőn, akkor megváltoztathatja a betűméretet."
 
 #. (itstool) path: item/p
-#: C/a11y-font-size.page:47
+#: C/a11y-font-size.page:46
 msgid ""
 "Switch <gui>Large Text</gui> to <gui>On</gui> in the <gui>Seeing</gui> "
 "section."
 msgstr "Kapcsolja <gui>BE</gui> a <gui>Nagy szöveg</gui> kapcsolót a <gui>Látás</gui> szakaszban."
 
 #. (itstool) path: page/p
-#: C/a11y-font-size.page:52
+#: C/a11y-font-size.page:51
 msgid ""
 "Alternatively, you can quickly change the text size by clicking the <link "
 "xref=\"a11y-icon\">accessibility icon</link> on the task bar and selecting "
@@ -377,7 +377,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/a11y-font-size.page:57
+#: C/a11y-font-size.page:56
 msgid ""
 "In many applications, you can increase the text size at any time by pressing"
 " <keyseq><key>Ctrl</key><key>+</key></keyseq>. To reduce the text size, "
@@ -417,12 +417,12 @@ msgid ""
 msgstr "Ha nem látja az akadálymentesítés menüt, akkor bekapcsolhatja az <gui>Akadálymentesítés</gui> panelen:"
 
 #. (itstool) path: item/p
-#: C/a11y-icon.page:44
+#: C/a11y-icon.page:42
 msgid "Click <gui>Universal Access</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/a11y-icon.page:47
+#: C/a11y-icon.page:45
 msgid "Switch <gui>Always Show Universal Access Menu</gui> to <gui>On</gui>."
 msgstr "Kapcsolja <gui>BE</gui> az <gui>Akadálymentesítés menü megjelenítése mindig</gui> kapcsolót."
 
@@ -446,17 +446,17 @@ msgid ""
 msgstr "A képernyő nagyítása eltér a <link xref=\"a11y-font-size\">szövegméret</link> puszta növelésétől. Ez a szolgáltatás egy nagyítólencséhez hasonlít, amely mozgatása közben lehetővé teszi a képernyő egyes részeinek felnagyítását."
 
 #. (itstool) path: item/p
-#: C/a11y-mag.page:49
+#: C/a11y-mag.page:48
 msgid "Press on <gui>Zoom</gui> in the <gui>Seeing</gui> section."
 msgstr "Nyomja meg a <gui>Nagyítás</gui> gombot a <gui>Látás</gui> szakaszban."
 
 #. (itstool) path: item/p
-#: C/a11y-mag.page:52
+#: C/a11y-mag.page:51
 msgid "Switch <gui>Zoom</gui> to <gui>On</gui>."
 msgstr "Kapcsolja <gui>BE</gui> a <gui>Nagyítás</gui> kapcsolót."
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:62
+#: C/a11y-mag.page:61
 msgid ""
 "You can now move around the screen area. By moving your mouse to the edges "
 "of the screen, you will move the magnified area in different directions, "
@@ -464,7 +464,7 @@ msgid ""
 msgstr "Most mozgathatja a képernyőterületet. Az egeret a képernyő éleihez mozgatva a nagyított területet különböző irányokba mozgathatja, lehetővé téve a kívánt terület megjelenítését."
 
 #. (itstool) path: note/p
-#: C/a11y-mag.page:67
+#: C/a11y-mag.page:66
 msgid ""
 "You can quickly turn zoom on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting "
@@ -472,7 +472,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:72
+#: C/a11y-mag.page:71
 msgid ""
 "You can change the magnification factor, the mouse tracking, and the "
 "position of the magnified view on the screen. Adjust these in the "
@@ -480,7 +480,7 @@ msgid ""
 msgstr "Megváltoztathatja a nagyítási arányt, az egér követését és a képernyő nagyított részének helyét. Ezek a <gui>Nagyítás</gui> beállításablak <gui>Nagyító</gui> lapján módosíthatók."
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:76
+#: C/a11y-mag.page:75
 msgid ""
 "You can activate crosshairs to help you find the mouse or touchpad pointer. "
 "To switch them on and adjust their length, color, and thickness, go to "
@@ -489,7 +489,7 @@ msgid ""
 msgstr "Bekapcsolhat szálkereszteket a mutató megtalálásának megkönnyítéséhez. A bekapcsolásukhoz és hosszuk, színük, vastagságuk módosításához válassza a <gui>Nagyítás</gui> beállítóablak <gui>Szálkeresztek</gui> lapján a <gui>Szálkeresztek</gui> elemet."
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:81
+#: C/a11y-mag.page:80
 msgid ""
 "You can switch to inverse video or <gui>White on black</gui>, and adjust "
 "brightness, contrast and greyscale options for the magnifier. The "
@@ -526,26 +526,26 @@ msgid ""
 msgstr "A jobb egérgombbal való kattintást a bal egérgomb lenyomva tartásával is helyettesítheti. Ez akkor hasznos, ha nehezen mozgatja ujjait az egyik kezén, vagy ha mutatóeszközének csak egy gombja van."
 
 #. (itstool) path: item/p
-#: C/a11y-right-click.page:53
+#: C/a11y-right-click.page:52
 msgid ""
 "Press <gui>Click Assist</gui> in the <gui>Pointing and Clicking</gui> "
 "section."
 msgstr "Nyomja meg a <gui>Kattintássegéd</gui> gombot a <gui>Mutatás és kattintás</gui> szakaszban."
 
 #. (itstool) path: item/p
-#: C/a11y-right-click.page:58
+#: C/a11y-right-click.page:57
 msgid "Switch <gui>Simulated Secondary Click</gui> to <gui>On</gui>."
 msgstr "Kapcsolja <gui>BE</gui> a <gui>Szimulált másodlagos kattintást</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:63
+#: C/a11y-right-click.page:62
 msgid ""
 "You can change how long you must hold down the left mouse button before it "
 "is registered as a right click by changing the <gui>Acceptance delay</gui>."
 msgstr "Megváltoztathatja, hogy meddig kell lenyomva tartani a bal egérgombot a jobb kattintásként való érzékeléshez az <gui>Elfogadás késleltetése</gui> beállítás módosításával."
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:67
+#: C/a11y-right-click.page:66
 msgid ""
 "To right-click with simulated secondary click, hold down the left mouse "
 "button where you would normally right-click, then release. The pointer fills"
@@ -554,7 +554,7 @@ msgid ""
 msgstr "A szimulált másodlagos kattintással végzett jobb kattintáshoz tartsa lenyomva a bal egérgombot ott, ahova kattintani szeretne, majd engedje fel a gombot. A bal egérgomb nyomva tartása során a mutató feltöltődik kék színnel. Amikor teljesen kék, engedje fel az egérgombot a jobb gombos kattintáshoz."
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:72
+#: C/a11y-right-click.page:71
 msgid ""
 "Some special pointers, such as the resize pointers, do not change colors. "
 "You can still use simulated secondary click as normal, even if you don't get"
@@ -562,7 +562,7 @@ msgid ""
 msgstr "Egyes speciális mutatók, mint az átméretezési mutatók nem változtatják meg színüket. A szimulált másodlagos kattintást ugyanúgy használhatja, még ha nem is kap vizuális visszajelzést a mutatótól."
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:76
+#: C/a11y-right-click.page:75
 msgid ""
 "If you use <link xref=\"mouse-mousekeys\">Mouse Keys</link>, this also "
 "allows you to right-click by holding down the <key>5</key> key on your "
@@ -611,17 +611,17 @@ msgid ""
 msgstr "A <em>lassú billentyűk</em> bekapcsolásával késleltetés iktatható a billentyűk lenyomása és a betű képernyőn való megjelenése közé. Ez azt jelenti, hogy minden billentyűt hosszabb ideig kell lenyomva tartania, mielőtt az megjelenne. A lassú billentyűket akkor használja, ha gépeléskor véletlenül egyszerre több billentyűt is le szokott nyomni, vagy problémát okoz a megfelelő billentyű megnyomása elsőre a billentyűzeten."
 
 #. (itstool) path: item/p
-#: C/a11y-slowkeys.page:59
+#: C/a11y-slowkeys.page:58
 msgid "Switch <gui>Slow Keys</gui> to <gui>On</gui>."
 msgstr "Kapcsolja <gui>BE</gui> a <gui>Lassú billentyűket</gui>."
 
 #. (itstool) path: note/title
-#: C/a11y-slowkeys.page:64
+#: C/a11y-slowkeys.page:63
 msgid "Quickly turn slow keys on and off"
 msgstr "Lassú billentyűk gyors be- és kikapcsolása"
 
 #. (itstool) path: note/p
-#: C/a11y-slowkeys.page:65
+#: C/a11y-slowkeys.page:64
 msgid ""
 "Under <gui>Enable by Keyboard</gui>, select <gui>Turn on accessibility "
 "features from the keyboard</gui> to turn slow keys on and off from the "
@@ -630,7 +630,7 @@ msgid ""
 msgstr "Az <gui>Engedélyezés billentyűzettel</gui> alatt jelölje be az <gui>Akadálymentesítési szolgáltatások bekapcsolása a billentyűzetről</gui> négyzetet a lassú billentyűk be- és kikapcsolásához a billentyűzetről. Ha ez a négyzet ki van választva, akkor a <key>Shift</key> billentyűt nyolc másodpercig lenyomva tartva engedélyezheti vagy letilthatja a lassú billentyűket."
 
 #. (itstool) path: note/p
-#: C/a11y-slowkeys.page:70
+#: C/a11y-slowkeys.page:69
 msgid ""
 "You can also turn slow keys on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting <gui>Slow "
@@ -639,14 +639,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/a11y-slowkeys.page:77
+#: C/a11y-slowkeys.page:76
 msgid ""
 "Use the <gui>Acceptance delay</gui> slider to control how long you have to "
 "hold a key down for it to register."
 msgstr "Az <gui>Elfogadás késleltetése</gui> csúszka segítségével beállíthatja, hogy meddig kell lenyomva tartani egy billentyűt a leütés érzékeléséhez."
 
 #. (itstool) path: page/p
-#: C/a11y-slowkeys.page:80
+#: C/a11y-slowkeys.page:79
 msgid ""
 "You can have your computer make a sound when you press a key, when a key "
 "press is accepted, or when a key press is rejected because you didn't hold "
@@ -684,17 +684,17 @@ msgid ""
 msgstr "Akkor kapcsolja be a ragadós billentyűket, ha problémát okoz egyszerre több billentyű lenyomva tartása."
 
 #. (itstool) path: item/p
-#: C/a11y-stickykeys.page:63
+#: C/a11y-stickykeys.page:62
 msgid "Switch <gui>Sticky Keys</gui> to <gui>On</gui>."
 msgstr "Kapcsolja <gui>BE</gui> a <gui>Ragadós billentyűket</gui>."
 
 #. (itstool) path: note/title
-#: C/a11y-stickykeys.page:68
+#: C/a11y-stickykeys.page:67
 msgid "Quickly turn sticky keys on and off"
 msgstr "Ragadós billentyűk gyors be- és kikapcsolása"
 
 #. (itstool) path: note/p
-#: C/a11y-stickykeys.page:69
+#: C/a11y-stickykeys.page:68
 msgid ""
 "Under <gui>Enable by Keyboard</gui>, select <gui>Turn on accessibility "
 "features from the keyboard</gui> to turn sticky keys on and off from the "
@@ -703,7 +703,7 @@ msgid ""
 msgstr "Az <gui>Engedélyezés billentyűzettel</gui> alatt jelölje be az <gui>Akadálymentesítési szolgáltatások bekapcsolása a billentyűzetről</gui> jelölőnégyzetet (a <gui>Ragadós billentyűk</gui> fölött) a ragadós billentyűk be- és kikapcsolásához a billentyűzetről. Ha ez a négyzet ki van választva, akkor a <key>Shift</key> billentyűt ötször egymás után lenyomva engedélyezheti vagy letilthatja a ragadós billentyűket."
 
 #. (itstool) path: note/p
-#: C/a11y-stickykeys.page:74
+#: C/a11y-stickykeys.page:73
 msgid ""
 "You can also turn sticky keys on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting <gui>Sticky "
@@ -712,14 +712,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:81
+#: C/a11y-stickykeys.page:80
 msgid ""
 "If you press two keys at once, you can have sticky keys turn itself off "
 "temporarily to let you enter a keyboard shortcut in the normal way."
 msgstr "Ha egyszerre két billentyűt nyom le, azzal ideiglenesen kikapcsoltathatja a ragadós billentyűket, és a megszokott módon használhatja a gyorsbillentyűket."
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:84
+#: C/a11y-stickykeys.page:83
 msgid ""
 "For example, if you have sticky keys turned on but press <key>Super</key> "
 "and <key>Tab</key> simultaneously, sticky keys would not wait for you to "
@@ -730,13 +730,13 @@ msgid ""
 msgstr "Ha például a ragadós billentyűk be vannak kapcsolva, de egyszerre megnyomja a <key>Super</key> és <key>Tab</key> billentyűket, akkor a ragadós billentyűk szolgáltatás nem vár újabb billentyű lenyomására. Ha csak egy billentyűt nyomott volna le, akkor várna csak. Ez akkor hasznos, ha néhány gyorsbillentyűt le tud nyomni (például az egymáshoz közeli billentyűkből állókat), de másokat nem."
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:91
+#: C/a11y-stickykeys.page:90
 msgid ""
 "Select <gui>Disable if two keys are pressed together</gui> to enable this."
 msgstr "Válassza a <gui>Letiltás két billentyű egyidejű lenyomásakor</gui> lehetőséget ennek bekapcsolásához."
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:94
+#: C/a11y-stickykeys.page:93
 msgid ""
 "You can have the computer make a \"beep\" sound when you start typing a "
 "keyboard shortcut with sticky keys turned on. This is useful if you want to "
@@ -775,24 +775,24 @@ msgid ""
 msgstr "Ez akkor is hasznos, ha olyan környezetben van, ahol a számítógépnek csendesnek kell lennie, például a könyvtárban. A figyelmeztető hang elnémításával kapcsolatban nézze meg a <link xref=\"sound-alert\"/> fejezetet, majd engedélyezze a vizuális figyelmeztetéseket."
 
 #. (itstool) path: item/p
-#: C/a11y-visualalert.page:54
+#: C/a11y-visualalert.page:53
 msgid "Press <gui>Visual Alerts</gui> in the <gui>Hearing</gui> section."
 msgstr "Nyomja meg a <gui>Vizuális figyelmeztetések</gui> gombot a <gui>Hallás</gui> szakaszban."
 
 #. (itstool) path: item/p
-#: C/a11y-visualalert.page:57
+#: C/a11y-visualalert.page:56
 msgid "Switch <gui>Visual Alerts</gui> to <gui>On</gui>."
 msgstr "Kapcsolja <gui>BE</gui> a <gui>Vizuális figyelmeztetéseket</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-visualalert.page:60
+#: C/a11y-visualalert.page:59
 msgid ""
 "Select whether you want the entire screen or just your current window title "
 "to flash."
 msgstr "Kapcsolja be a <gui>Vizuális figyelmeztetéseket</gui>. Válassza ki, hogy a teljes képernyő, vagy csak az aktuális ablak címsora villanjon-e fel."
 
 #. (itstool) path: note/p
-#: C/a11y-visualalert.page:66
+#: C/a11y-visualalert.page:65
 msgid ""
 "You can quickly turn visual alerts on and off by clicking the <link xref"
 "=\"a11y-icon\">accessibility icon</link> on the task bar and selecting "
@@ -857,23 +857,27 @@ msgstr "Jim Campbell"
 
 #. (itstool) path: credit/name
 #: C/accounts-add.page:21 C/backup-why.page:11
-#: C/files-microsoft-compatible.page:11 C/files-save.page:10
-#: C/files-zip.page:10 C/keyboard-es-accent.page:10 C/look-background.page:45
+#: C/bluetooth-remove-connection.page:29 C/bluetooth-send-file.page:28
+#: C/bluetooth-turn-on-off.page:28 C/clock-set.page:21
+#: C/clock-timezone.page:25 C/files-microsoft-compatible.page:11
+#: C/files-save.page:10 C/files-zip.page:10 C/look-background.page:45
 #: C/media-import-from-device.page:11 C/media-listen-music.page:11
 #: C/media-play-videos.page:11 C/mouse-when-right-click.page:11
 #: C/net-3g-dongles.page:10 C/net-create-email.page:10
 #: C/net-discover-websites.page:11 C/net-installing-other-browsers.page:10
-#: C/net-read-news.page:11 C/net-social-bar.page:11 C/net-troubleshoot.page:9
+#: C/net-troubleshoot.page:9 C/net-wireless-hidden.page:25
 #: C/printing-from-applications.page:10 C/printing-setup.page:33
 #: C/printing-supported.page:11 C/security-and-privacy.page:8
 #: C/security-data-collection.page:10 C/security-guard-privacy.page:10
-#: C/security-understand-password.page:11 C/sharing-media.page:16
+#: C/security-understand-password.page:11 C/session-language.page:31
+#: C/sharing-bluetooth.page:16 C/sharing-media.page:16
 #: C/shell-add-desktop-folder.page:11 C/shell-apps-close.page:11
 #: C/shell-apps-open.page:25 C/shell-delete-app-desktop.page:11
-#: C/shell-download-media.page:10 C/shell-install-ext-apps.page:10
+#: C/shell-exit.page:30 C/shell-install-ext-apps.page:10
+#: C/shell-introduction.page:26 C/shell-notifications.page:26
 #: C/shell-organize-apps.page:10 C/shell-update-app.page:11
 #: C/shell-update-system.page:11 C/shell-windows-hide.page:11
-#: C/sound-troubleshoot.page:10
+#: C/user-add.page:30
 msgid "Nuritzi Sanchez"
 msgstr ""
 
@@ -897,29 +901,29 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:42
+#: C/accounts-add.page:40
 msgid "Click on <gui>Online Accounts</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:46
+#: C/accounts-add.page:44
 msgid "Click the <gui>Add an online account</gui> button."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:50
+#: C/accounts-add.page:48
 msgid "Select the type of account you want to add first."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:51
+#: C/accounts-add.page:49
 msgid ""
 "If you want to add more than one account type, you can do so at a later "
 "time."
 msgstr "Ha több fajta fiókot szeretne hozzáadni, akkor később megteheti azt is."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:56
+#: C/accounts-add.page:54
 msgid ""
 "A small window will open where you can enter your online account "
 "credentials. For example, if you are setting up a Google account, enter your"
@@ -927,14 +931,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:61
+#: C/accounts-add.page:59
 msgid ""
 "If you have entered your credentials correctly, you will be prompted to "
 "allow Endless access to your online account. Authorize access to continue."
 msgstr "Ha helyesen adta meg hitelesítési adatait, akkor a program felkéri, hogy engedélyezze a Endless számára az online fiókjának elérését. A folytatáshoz adja meg a hozzáférést."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:66
+#: C/accounts-add.page:64
 msgid ""
 "Select the applications that you want linked to your online account. For "
 "example, if you want to use an online account for email, but do not want to "
@@ -943,14 +947,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/accounts-add.page:74
+#: C/accounts-add.page:72
 msgid ""
 "After you have added the accounts, each application that you have selected "
 "will automatically use those credentials when you start them."
 msgstr "A fiókok hozzáadása után minden kijelölt alkalmazás az elindulása után automatikusan ezeket a hitelesítési adatokat fogja használni."
 
 #. (itstool) path: note/p
-#: C/accounts-add.page:78
+#: C/accounts-add.page:76
 msgid ""
 "For security reasons, Endless will not store your password on your computer."
 " Instead, it stores a token that is provided by the online service."
@@ -1363,28 +1367,28 @@ msgid ""
 msgstr "Mielőtt használatba vehetné Bluetooth-eszközeit, például egerét vagy fejhallgatóját, először össze kell kapcsolnia azokat számítógépével. Ezt a Bluetooth-eszközök párosításának is hívják."
 
 #. (itstool) path: note/p
-#: C/bluetooth-connect-device.page:41 C/bluetooth-send-file.page:46
+#: C/bluetooth-connect-device.page:41 C/bluetooth-send-file.page:50
 msgid ""
 "Before you begin, make sure Bluetooth is enabled on your computer. See <link"
 " xref=\"bluetooth-turn-on-off\"/>."
 msgstr "Mielőtt nekikezd, győződjön meg róla, hogy a Bluetooth engedélyezve van a számítógépén. Lásd: <link xref=\"bluetooth-turn-on-off\"/>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:53 C/bluetooth-remove-connection.page:51
-#: C/bluetooth-send-file.page:58 C/bluetooth-turn-on-off.page:51
+#: C/bluetooth-connect-device.page:51 C/bluetooth-remove-connection.page:53
+#: C/bluetooth-send-file.page:60 C/bluetooth-turn-on-off.page:53
 #: C/bluetooth-turn-on-off.page:67
 msgid "Click <gui>Bluetooth</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:56
+#: C/bluetooth-connect-device.page:54
 msgid ""
 "Make the other Bluetooth device discoverable or visible and place it within "
 "10 meters (about 33 feet) of your computer."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:60
+#: C/bluetooth-connect-device.page:58
 msgid ""
 "Click <key>+</key> below the <gui>Devices</gui> list. The <gui>Bluetooth New"
 " Device Setup</gui> panel will open and your computer will begin searching "
@@ -1392,7 +1396,7 @@ msgid ""
 msgstr "Kattintson a <key>+</key> billentyűre az <gui>Eszközök</gui> lista alatt. Megjelenik az <gui>Új Bluetooth eszköz beállítása</gui> panel, és a számítógép megkezdi az eszközök keresését."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:65
+#: C/bluetooth-connect-device.page:63
 msgid ""
 "Select a device in the <gui>Device</gui> list. If there are too many devices"
 " listed, use the <gui>Device type</gui> drop-down to display only a single "
@@ -1400,14 +1404,14 @@ msgid ""
 msgstr "Válasszon egy eszközt az <gui>Eszköz</gui> listában. Ha túl sok eszköz van felsorolva, akkor az <gui>Eszköztípus</gui> legördülő menüben kiválaszthatja a megjelenítendő eszköztípust."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:70
+#: C/bluetooth-connect-device.page:68
 msgid ""
 "Click <gui>PIN options</gui> to set how a PIN will be delivered to the other"
 " device."
 msgstr "Nyomja meg a <gui>PIN-beállítások</gui> gombot a PIN-kód másik eszközre való eljuttatási módjának beállításához."
 
 #. (itstool) path: note/p
-#: C/bluetooth-connect-device.page:73
+#: C/bluetooth-connect-device.page:71
 msgid ""
 "The automatic PIN setting will use a six-digit numerical code. A device with"
 " no input keys or screen, such as a mouse or headset, may require a specific"
@@ -1416,21 +1420,21 @@ msgid ""
 msgstr "Az automatikus PIN-beállítás hatására hatjegyű számkód kerül felhasználásra. A billentyűk vagy kijelző nélküli eszközök, például egerek vagy fejhallgatók, adott PIN-kódot igényelhetnek, például 0000, vagy nem is igényelnek kódot. Nézze meg az eszköz használati utasítását a megfelelő beállítással kapcsolatban."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:78
+#: C/bluetooth-connect-device.page:76
 msgid ""
 "Choose an appropriate PIN setting for your device, then click "
 "<gui>Close</gui>."
 msgstr "Válassza ki az eszköznek megfelelő PIN-beállítást, majd nyomja meg a <gui>Bezárás</gui> gombot."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:82
+#: C/bluetooth-connect-device.page:80
 msgid ""
 "Click <gui>Continue</gui> to proceed. If you did not choose a preset PIN, "
 "the PIN will be displayed on the screen."
 msgstr "Nyomja meg a <gui>Folytatás</gui> gombot. Ha nem választott ki előre beállított PIN-kódot, akkor a PIN megjelenik a képernyőn."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:86
+#: C/bluetooth-connect-device.page:84
 msgid ""
 "If required, confirm the PIN on your other device. The device should show "
 "you the PIN you see on your computer screen, or may prompt you to enter the "
@@ -1438,7 +1442,7 @@ msgid ""
 msgstr "Szükség esetén erősítse meg a PIN-kódot a másik eszközön. Az eszköznek a számítógép képernyőjén látható PIN-kódot kell megjelenítenie, vagy annak megadására kell kérnie. Erősítse meg a PIN-kódot az eszközön, és nyomja meg a <gui>Megegyezik</gui> gombot."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:90
+#: C/bluetooth-connect-device.page:88
 msgid ""
 "You need to finish your entry within about 20 seconds on most devices, or "
 "the connection will not be completed. If that happens, return to the device "
@@ -1446,14 +1450,14 @@ msgid ""
 msgstr "A legtöbb eszközön 20 másodpercen belül be kell fejezni a kód bevitelét, különben a kapcsolódás nem lesz sikeres. Ebben az esetben térjen vissza az eszközlistához, és próbálja újra."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:93
+#: C/bluetooth-connect-device.page:91
 msgid ""
 "A message appears when the connection successfully completes. Click "
 "<gui>Close</gui>."
 msgstr "A kapcsolat sikeres létrejöttekor megjelenik egy üzenet. Nyomja meg a <gui>Bezárás</gui> gombot."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:97
+#: C/bluetooth-connect-device.page:95
 msgid ""
 "The <gui>Setup Summary</gui> appears when the connection successfully "
 "completes. It may display additional options applicable to the type of "
@@ -1462,14 +1466,14 @@ msgid ""
 msgstr "A kapcsolódás sikeres befejezésekor megjelenik a <gui>Beállítás összefoglalása</gui> ablak. Ez megjeleníthet további beállításokat, amelyek az adott eszközre lehetnek alkalmazhatók. Válassza ki a kívánt beállításokat, és nyomja meg a <gui>Kilépés</gui> gombot."
 
 #. (itstool) path: page/p
-#: C/bluetooth-connect-device.page:110
+#: C/bluetooth-connect-device.page:108
 msgid ""
 "You can <link xref=\"bluetooth-remove-connection\">remove a Bluetooth "
 "connection</link> later if desired."
 msgstr "Később <link xref=\"bluetooth-remove-connection\">meg is szüntetheti a Bluetooth-kapcsolatot</link>."
 
 #. (itstool) path: note/p
-#: C/bluetooth-connect-device.page:115
+#: C/bluetooth-connect-device.page:113
 msgid ""
 "To control access to your shared files, refer to the <gui>Bluetooth "
 "Sharing</gui> settings. See <link xref=\"sharing-bluetooth\"/>."
@@ -1569,12 +1573,12 @@ msgid "2013"
 msgstr "2013"
 
 #. (itstool) path: page/title
-#: C/bluetooth-remove-connection.page:31
+#: C/bluetooth-remove-connection.page:35
 msgid "Remove a connection between Bluetooth devices"
 msgstr "Bluetooth-eszközök közti kapcsolat megszüntetése"
 
 #. (itstool) path: page/p
-#: C/bluetooth-remove-connection.page:33
+#: C/bluetooth-remove-connection.page:37
 msgid ""
 "If you don't want to be connected to a Bluetooth device anymore, you can "
 "remove the connection. This is useful if you no longer want to use a device "
@@ -1583,19 +1587,19 @@ msgid ""
 msgstr "Ha nem szeretne többé egy adott Bluetooth-eszközhöz kapcsolódni, akkor eltávolíthatja a kapcsolatot. Ez akkor hasznos, ha már nem akar egy egeret vagy fejhallgatót használni, vagy nem akar fájlokat átvinni egy eszközre."
 
 #. (itstool) path: item/p
-#: C/bluetooth-remove-connection.page:54
+#: C/bluetooth-remove-connection.page:56
 msgid ""
 "Select the device you want to disconnect in the left pane, then click the "
 "<key>-</key> icon below the list."
 msgstr "Válassza ki a leválasztani kívánt eszközt a bal oldali ablaktáblán, és kattintson a <key>-</key> ikonra a lista alatt."
 
 #. (itstool) path: item/p
-#: C/bluetooth-remove-connection.page:58
+#: C/bluetooth-remove-connection.page:60
 msgid "Click <gui>Remove</gui> in the confirmation window."
 msgstr "Kattintson az <gui>Eltávolítás</gui> gombra a megerősítési ablakban."
 
 #. (itstool) path: page/p
-#: C/bluetooth-remove-connection.page:62
+#: C/bluetooth-remove-connection.page:64
 msgid ""
 "You can <link xref=\"bluetooth-connect-device\">reconnect a Bluetooth "
 "device</link> later if desired."
@@ -1607,12 +1611,12 @@ msgid "Share files to Bluetooth devices such as your phone."
 msgstr "Fájlok megosztása Bluetooth-eszközökre, például a telefonjára."
 
 #. (itstool) path: page/title
-#: C/bluetooth-send-file.page:31
+#: C/bluetooth-send-file.page:35
 msgid "Send files to a Bluetooth device"
 msgstr "Fájlok küldése Bluetooth-eszközre"
 
 #. (itstool) path: page/p
-#: C/bluetooth-send-file.page:33
+#: C/bluetooth-send-file.page:37
 msgid ""
 "You can send files from your computer to other Bluetooth compatible devices,"
 " like some mobile phones, some speakers, or other computers. You can send "
@@ -1623,33 +1627,33 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:61
+#: C/bluetooth-send-file.page:63
 msgid ""
 "In the <gui>Devices</gui> list, select the device to which to send the files"
 " to and click <gui>Send Files...</gui>."
 msgstr "Az <gui>Eszközök</gui> listában válassza ki az eszközt, amelyre a fájlokat küldeni szeretné, és nyomja meg a <gui>Fájlok küldése</gui> gombot."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:63
+#: C/bluetooth-send-file.page:65
 msgid ""
 "If the desired device is not shown in the list, you need to <link xref"
 "=\"bluetooth-connect-device\">connect</link> to it."
 msgstr "Ha a kívánt eszköz nem jelenik meg a listában, akkor <link xref=\"bluetooth-connect-device\">csatlakoznia</link> kell ahhoz."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:67
+#: C/bluetooth-send-file.page:69
 msgid "Choose the file you want to send and click <gui>Select</gui>."
 msgstr "Válassza ki az elküldeni kívánt fájlt, és nyomja meg a <gui>Kiválasztás</gui> gombot."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:68
+#: C/bluetooth-send-file.page:70
 msgid ""
 "To send more than one file in a folder, hold down <key>Ctrl</key> as you "
 "select each file."
 msgstr "Több fájl küldéséhez tartsa lenyomva a <key>Ctrl</key> billentyűt az egyes fájlok kiválasztása közben."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:72
+#: C/bluetooth-send-file.page:74
 msgid ""
 "The owner of the receiving device usually has to press a button to accept "
 "the file. Once the owner accepts or declines, the result of the file "
@@ -1662,29 +1666,29 @@ msgid "Enable or disable the Bluetooth device on your computer."
 msgstr "A számítógép Bluetooth-eszközének engedélyezése vagy letiltása."
 
 #. (itstool) path: page/title
-#: C/bluetooth-turn-on-off.page:30
+#: C/bluetooth-turn-on-off.page:34
 msgid "Turn Bluetooth on or off"
 msgstr "Bluetooth be- vagy kikapcsolása"
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:40
+#: C/bluetooth-turn-on-off.page:44
 msgid ""
 "You can turn <gui>Bluetooth</gui> on to use Bluetooth devices and send and "
 "receive files, but turn it off to conserve power."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:42
+#: C/bluetooth-turn-on-off.page:46
 msgid "To turn Bluetooth on:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/bluetooth-turn-on-off.page:54
+#: C/bluetooth-turn-on-off.page:56
 msgid "Set the switch in the titlebar to <gui>ON</gui>."
 msgstr "Kapcsolja <gui>BE</gui> a címsorban lévő kapcsolót."
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:58
+#: C/bluetooth-turn-on-off.page:60
 msgid "To turn Bluetooth off:"
 msgstr "A Bluetooth kikapcsolása:"
 
@@ -1737,39 +1741,40 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/clock-set.page:23
+#: C/clock-set.page:27
 msgid ""
 "Click the clock on the task bar and go into the <gui>Date &amp; Time "
 "Settings</gui> to alter the date/time."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/clock-set.page:26
+#: C/clock-set.page:30
 msgid "Change the date and time"
 msgstr "Dátum és idő módosítása"
 
 #. (itstool) path: page/p
-#: C/clock-set.page:28
+#: C/clock-set.page:32
 msgid ""
 "If your date and time is in the wrong format, you can change the settings:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/clock-set.page:33
+#: C/clock-set.page:37 C/clock-timezone.page:38
 msgid ""
-"Click on the clock on the task bar at the bottom right of your screen and "
-"select <gui>Date &amp; Time Settings</gui>."
+"Type \"Date and Time\" into the <gui>global search bar</gui> on your "
+"desktop. Click on the resulting <app>Settings</app> icon, or press "
+"<key>Enter</key>, to open."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/clock-set.page:37 C/clock-timezone.page:38
+#: C/clock-set.page:41 C/clock-timezone.page:42
 msgid ""
 "If you have a standard account, you will need to click <gui>Unlock</gui> and"
 " type the <link xref=\"user-admin-explain\">administrator password</link>."
 msgstr "Normál fiók használata esetén a <gui>Feloldás</gui> gombra kell kattintani, és be kell írni a <link xref=\"user-admin-explain\">rendszergazdai jelszót</link>."
 
 #. (itstool) path: item/p
-#: C/clock-set.page:42
+#: C/clock-set.page:46
 msgid ""
 "If you have an internet connection, you can set your date, time and time "
 "zone to update automatically by switching <gui>Automatic Date &amp; "
@@ -1777,7 +1782,7 @@ msgid ""
 msgstr "Ha rendelkezik internetkapcsolattal, akkor beállíthatja a dátum, idő és időzóna automatikus frissítését az <gui>Automatikus dátum és idő</gui> valamint az <gui>Automatikus időzóna</gui> kapcsolók <gui>BE</gui> állásba kapcsolásával."
 
 #. (itstool) path: item/p
-#: C/clock-set.page:45
+#: C/clock-set.page:49
 msgid ""
 "If you do not have an internet connection, you can update these manually by "
 "switching them to <gui>Off</gui>, then clicking <gui>Date &amp; Time</gui> "
@@ -1785,32 +1790,25 @@ msgid ""
 msgstr "Ha nincs internetkapcsolata, akkor ezeket saját kezűleg is frissítheti a <gui>KI</gui> állásba kapcsolásukkal, majd a <gui>Dátum és idő</gui>, illetve az <gui>Időzóna</gui> elemekre kattintással."
 
 #. (itstool) path: item/p
-#: C/clock-set.page:50
+#: C/clock-set.page:54
 msgid ""
 "You can also change how the hour is displayed by selecting "
 "<gui>24-hour</gui> or <gui>AM/PM</gui> format."
 msgstr "Megváltoztathatja az idő megjelenítési formátumát is a <gui>24 órás</gui> vagy <gui>12 órás</gui> formátum kiválasztásával."
 
 #. (itstool) path: info/desc
-#: C/clock-timezone.page:27
+#: C/clock-timezone.page:31
 msgid ""
 "Update your time zone to your current location so that your time is correct."
 msgstr "Állítsa időzónáját a földrajzi helyére az idő pontosságának biztosításához."
 
 #. (itstool) path: page/title
-#: C/clock-timezone.page:30
+#: C/clock-timezone.page:34
 msgid "Change your timezone"
 msgstr "Időzóna megváltoztatása"
 
 #. (itstool) path: item/p
-#: C/clock-timezone.page:34
-msgid ""
-"Click on the clock on the task bar on the bottom right side of your screen "
-"and select <gui>Date &amp; Time Settings</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/clock-timezone.page:43
+#: C/clock-timezone.page:47
 msgid ""
 "If you have <gui>Automatic Time Zone</gui> set to <gui>On</gui>, your time "
 "zone should update automatically if you have an internet connection. To "
@@ -1818,14 +1816,14 @@ msgid ""
 msgstr "Ha az <gui>Automatikus időzóna</gui> <gui>BE</gui> van kapcsolva, akkor az időzónája automatikusan frissül, ha van internetkapcsolata. Az időzóna saját kezűleg történő beállításához állítsa ezt a kapcsolót <gui>KI</gui> állásba."
 
 #. (itstool) path: item/p
-#: C/clock-timezone.page:49
+#: C/clock-timezone.page:53
 msgid ""
 "Click <gui>Time Zone</gui>, then select your location on the map or search "
 "for your current city."
 msgstr "Kattintson az <gui>Időzóna</gui> gombra, majd válassza ki a földrajzi helyét a térképen, vagy keressen rá az aktuális városra."
 
 #. (itstool) path: page/p
-#: C/clock-timezone.page:54
+#: C/clock-timezone.page:58
 msgid ""
 "The time will be updated automatically when you select a different location."
 " You may also wish to <link xref=\"clock-set\">set the clock "
@@ -2178,12 +2176,11 @@ msgstr ""
 
 #. (itstool) path: credit/name
 #: C/files-microsoft-compatible.page:15 C/files-save.page:14
-#: C/files-zip.page:14 C/keyboard-es-accent.page:14
-#: C/media-import-from-device.page:15 C/media-listen-music.page:15
-#: C/media-play-videos.page:15 C/mouse-when-right-click.page:15
-#: C/net-3g-dongles.page:14 C/net-create-email.page:14
-#: C/net-discover-websites.page:15 C/net-installing-other-browsers.page:14
-#: C/net-read-news.page:15 C/net-social-bar.page:15 C/net-troubleshoot.page:13
+#: C/files-zip.page:14 C/media-import-from-device.page:15
+#: C/media-listen-music.page:15 C/media-play-videos.page:15
+#: C/mouse-when-right-click.page:15 C/net-3g-dongles.page:14
+#: C/net-create-email.page:14 C/net-discover-websites.page:15
+#: C/net-installing-other-browsers.page:14 C/net-troubleshoot.page:13
 #: C/printing-from-applications.page:14 C/printing-supported.page:15
 #: C/security-and-privacy.page:12 C/security-data-collection.page:14
 #: C/security-guard-privacy.page:14 C/security-understand-password.page:15
@@ -2191,18 +2188,16 @@ msgstr ""
 #: C/shell-delete-app-desktop.page:15 C/shell-install-ext-apps.page:14
 #: C/shell-organize-apps.page:14 C/shell-update-app.page:15
 #: C/shell-update-system.page:15 C/shell-windows-hide.page:15
-#: C/sound-troubleshoot.page:14
 msgid "Endless Mobile, Inc."
 msgstr ""
 
 #. (itstool) path: credit/years
 #: C/files-microsoft-compatible.page:16 C/files-save.page:15
-#: C/files-zip.page:15 C/keyboard-es-accent.page:15
-#: C/media-import-from-device.page:16 C/media-listen-music.page:16
-#: C/media-play-videos.page:16 C/mouse-when-right-click.page:16
-#: C/net-3g-dongles.page:15 C/net-create-email.page:15
-#: C/net-discover-websites.page:16 C/net-installing-other-browsers.page:15
-#: C/net-read-news.page:16 C/net-social-bar.page:16 C/net-troubleshoot.page:14
+#: C/files-zip.page:15 C/media-import-from-device.page:16
+#: C/media-listen-music.page:16 C/media-play-videos.page:16
+#: C/mouse-when-right-click.page:16 C/net-3g-dongles.page:15
+#: C/net-create-email.page:15 C/net-discover-websites.page:16
+#: C/net-installing-other-browsers.page:15 C/net-troubleshoot.page:14
 #: C/printing-from-applications.page:15 C/printing-supported.page:16
 #: C/security-and-privacy.page:13 C/security-data-collection.page:15
 #: C/security-guard-privacy.page:15 C/security-understand-password.page:16
@@ -3271,7 +3266,9 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/index.page:20
-msgid "<link href=\"endlessm-app://com.endlessm.Tutorial\">Tutorial</link>"
+msgid ""
+"<link href=\"endlessm-app://eos-link-feedback.desktop\">Give Us "
+"Feedback</link>"
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -3312,68 +3309,20 @@ msgid ""
 msgstr "Ha nehezen veszi észre a szövegkurzort a szövegmezőkben, akkor az egyszerűbb megtalálás érdekében villogóvá teheti."
 
 #. (itstool) path: item/p
-#: C/keyboard-cursor-blink.page:49 C/keyboard-repeat-keys.page:52
+#: C/keyboard-cursor-blink.page:48 C/keyboard-repeat-keys.page:51
 msgid "Click on <gui>Keyboard</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/keyboard-cursor-blink.page:52
+#: C/keyboard-cursor-blink.page:51
 msgid "Select <gui>Cursor blinks in text fields</gui>."
 msgstr "Jelölje be <gui>A kurzor villogjon szövegmezőkben</gui> négyzetet."
 
 #. (itstool) path: item/p
-#: C/keyboard-cursor-blink.page:54
+#: C/keyboard-cursor-blink.page:53
 msgid ""
 "Use the <gui>Speed</gui> slider to adjust how quickly the cursor blinks."
 msgstr "A <gui>Sebesség</gui> csúszka segítségével módosítsa a kurzor villogási sebességét."
-
-#. (itstool) path: info/desc
-#: C/keyboard-es-accent.page:18
-msgid "Learn how to type accents with your keyboard."
-msgstr ""
-
-#. (itstool) path: page/title
-#: C/keyboard-es-accent.page:21
-msgid "Type Spanish language accents in Endless"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:23
-msgid ""
-"It's easy to type accents on Endless - it is the same as most other "
-"platforms. On a Spanish Latin American keyboard, start by pressing the "
-"accute accent key and then the letter you'd like to accent:"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:27
-msgid "<keyseq><key>`</key><key>a</key></keyseq> = á"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:29
-msgid "<keyseq><key>`</key><key>e</key></keyseq> = é"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:31
-msgid "<keyseq><key>`</key><key>i</key></keyseq> = í"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:33
-msgid "<keyseq><key>`</key><key>o</key></keyseq> = ó"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:35
-msgid "<keyseq><key>`</key><key>u</key></keyseq> = ú"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:37
-msgid "<keyseq><key>\"</key><key>u</key></keyseq> = ü"
-msgstr ""
 
 #. (itstool) path: credit/name
 #: C/keyboard-key-menu.page:12
@@ -3470,24 +3419,24 @@ msgid "To change which keys are used to display your open windows overview:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:57
+#: C/keyboard-key-super.page:55
 msgid "Click <gui>Keyboard</gui>."
 msgstr "Kattintson a <gui>Billentyűzet</gui> ikonra."
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:60
+#: C/keyboard-key-super.page:58
 msgid "Click the <gui style=\"tab\">Shortcuts</gui> tab."
 msgstr "Válassza a <gui style=\"tab\">Gyorsbillentyűk</gui> lapot."
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:63
+#: C/keyboard-key-super.page:61
 msgid ""
 "Select <gui>System</gui> on the left side of the window, and <gui>Show the "
 "activities overview</gui> on the right."
 msgstr "Az ablak bal oldalán válassza a <gui>Rendszer</gui> kategóriát, majd a jobb oldalon a <gui>Tevékenységek áttekintés megjelenítése</gui> lehetőséget."
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:67
+#: C/keyboard-key-super.page:65
 msgid "Hold down the desired key combination."
 msgstr "Tartsa lenyomva a kívánt billentyűkombinációt."
 
@@ -3518,36 +3467,36 @@ msgid ""
 msgstr "A különböző nyelvekhez több száz billentyűzetkiosztás készült. Még egyetlen nyelv esetén is több kiosztás van, például angol nyelvhez a Dvorak kiosztás. Billentyűzetének viselkedése megváltoztatható, a billentyűkre nyomtatott betűktől és szimbólumoktól függetlenül átállítható másik kiosztás használatára. Ez több nyelv használata közti gyakori váltás esetén hasznos."
 
 #. (itstool) path: item/p
-#: C/keyboard-layouts.page:57 C/session-language.page:47
+#: C/keyboard-layouts.page:55 C/session-language.page:48
 msgid "Click on <gui>Region &amp; Language</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/keyboard-layouts.page:61
+#: C/keyboard-layouts.page:59
 msgid ""
 "Click the <key>+</key> button, select the language which is associated with "
 "the layout, then select a layout and press<gui>Add</gui>."
 msgstr "Nyomja meg a <gui>+</gui> gombot, válassza ki a kiosztáshoz tartozó nyelvet, és nyomja meg a <gui>Hozzáadás</gui> gombot."
 
 #. (itstool) path: media/span
-#: C/keyboard-layouts.page:70 C/keyboard-layouts.page:76
+#: C/keyboard-layouts.page:68 C/keyboard-layouts.page:74
 msgid "preview"
 msgstr "előnézet"
 
 #. (itstool) path: note/p
-#: C/keyboard-layouts.page:68
+#: C/keyboard-layouts.page:66
 msgid ""
 "You can preview an image of any layout by selecting it in the list of "
 "<gui>Input Sources</gui> and clicking <gui><_:media-1/></gui>"
 msgstr "Bármely kiosztás képét megjelenítheti. Válassza ki a <gui>Bemeneti források</gui> listából a kiosztást, majd nyomja meg az <gui><_:media-1/></gui> gombot."
 
 #. (itstool) path: media/span
-#: C/keyboard-layouts.page:79
+#: C/keyboard-layouts.page:77
 msgid "preferences"
 msgstr "beállítások"
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:73
+#: C/keyboard-layouts.page:71
 msgid ""
 "Certain languages offer some extra configuration options. You can identify "
 "those languages because they have a <gui><_:media-1/></gui> icon next to "
@@ -3558,7 +3507,7 @@ msgid ""
 msgstr "Bizonyos nyelvek további beállítási lehetőségeket is kínálnak. Ezeket a nyelveket a mellettük lévő <gui><_:media-1/></gui> ikonról ismerheti fel. Ezen extra paraméterek eléréséhez válassza ki a nyelvet a <gui>Bemeneti források</gui> listájából, és nyomja meg a megjelenő <gui style=\"button\"><_:media-2/></gui> gombot."
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:82
+#: C/keyboard-layouts.page:80
 msgid ""
 "When you use multiple layouts, you can choose to have all windows use the "
 "same layout or to set a different layout for each window. Using a different "
@@ -3570,7 +3519,7 @@ msgid ""
 msgstr "Több kiosztás használatakor eldöntheti, hogy minden ablak ugyanazt a kiosztást használja-e, vagy minden ablak más-más kiosztást. Az eltérő kiosztás használata akkor lehet hasznos, ha például egy szövegszerkesztő ablakban másik nyelven ír egy cikket. Az egyes ablakokhoz kiválasztott kiosztás ilyenkor megmarad az ablakok közti váltáskor. Nyomja meg a <gui style=\"button\">Beállítások</gui> gombot a további kiosztások kezelésének kiválasztásához."
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:90
+#: C/keyboard-layouts.page:88
 msgid ""
 "The task bar will display a short identifier for the current layout, such as"
 " <gui>en</gui> for the standard English layout. Click the layout indicator "
@@ -3581,7 +3530,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:97
+#: C/keyboard-layouts.page:95
 msgid ""
 "The fastest way to change to another layout is by using the <gui>Input "
 "Source</gui> <gui>Keyboard Shortcuts</gui>. These shortcuts open the "
@@ -3598,7 +3547,7 @@ msgstr "Másik kiosztásra váltani a <gui>Bemeneti forrás</gui> <gui>gyorsbill
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/keyboard-layouts.page:106
+#: C/keyboard-layouts.page:104
 msgctxt "_"
 msgid ""
 "external ref='figures/input-methods-switcher.png' "
@@ -3974,19 +3923,19 @@ msgid ""
 msgstr "Ha számítógépéhez nem csatlakozik billentyűzet, vagy nem szereti használni, akkor a szövegbevitelhez bekapcsolhatja a <em>képernyő-billentyűzetet</em>."
 
 #. (itstool) path: item/p
-#: C/keyboard-osk.page:51
+#: C/keyboard-osk.page:50
 msgid "Switch on <gui>Screen Keyboard</gui> in the <gui>Typing</gui> section."
 msgstr "Kapcsolja be a <gui>Képernyő-billentyűzetet</gui> a <gui>Gépelés</gui> szakaszban."
 
 #. (itstool) path: page/p
-#: C/keyboard-osk.page:57
+#: C/keyboard-osk.page:56
 msgid ""
 "When you next have the opportunity to type, the on-screen keyboard will open"
 " at the bottom of the screen."
 msgstr "Amikor legközelebb gépelnie kell, a képernyő alján megnyílik a képernyő-billentyűzet."
 
 #. (itstool) path: page/p
-#: C/keyboard-osk.page:60
+#: C/keyboard-osk.page:59
 msgid ""
 "Press the <gui style=\"bottom\">123</gui> button to enter numbers and "
 "symbols. More symbols are available if you then press the <gui>{#*</gui> "
@@ -3994,12 +3943,12 @@ msgid ""
 msgstr "Nyomja meg az <gui style=\"bottom\">123</gui> gombot számok és szimbólumok beviteléhez. További szimbólumok válnak elérhetővé, ha megnyomja a <gui>{#*</gui> gombot. Az ábécé billentyűzethez való visszatéréshez nyomja meg az <gui>Abc</gui> gombot."
 
 #. (itstool) path: media/span
-#: C/keyboard-osk.page:66
+#: C/keyboard-osk.page:65
 msgid "keyboard"
 msgstr "billentyűzet"
 
 #. (itstool) path: page/p
-#: C/keyboard-osk.page:65
+#: C/keyboard-osk.page:64
 msgid ""
 "You can press the <gui style=\"button\"><_:media-1/></gui> icon to hide the "
 "keyboard temporarily. The keyboard will show again automatically when you "
@@ -4031,14 +3980,14 @@ msgid ""
 msgstr "Alapesetben egy billentyű lenyomva tartásakor a betű vagy szimbólum bevitele addig ismétlődik, amíg fel nem engedi a billentyűt. Ha nem tudja elég gyorsan visszahúzni ujjait, akkor letilthatja ezt a szolgáltatást, vagy megváltoztathatja az ismétlés megkezdéséhez szükséges várakozást."
 
 #. (itstool) path: item/p
-#: C/keyboard-repeat-keys.page:56
+#: C/keyboard-repeat-keys.page:55
 msgid ""
 "Turn off <gui>Key presses repeat when key is held down</gui> to disable "
 "repeated keys entirely."
 msgstr "Törölje a <gui>Billentyű ismétlése nyomva tartáskor</gui> négyzetet a billentyűismétlés teljes letiltásához."
 
 #. (itstool) path: item/p
-#: C/keyboard-repeat-keys.page:58
+#: C/keyboard-repeat-keys.page:57
 msgid ""
 "Alternatively, adjust the <gui>Delay</gui> slider to control how long you "
 "have to hold a key down to begin repeating it, and adjust the "
@@ -4086,41 +4035,41 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/look-background.page:67
+#: C/look-background.page:65
 msgid "Click on the <gui>Background</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/look-background.page:70
+#: C/look-background.page:68
 msgid "Click on the <gui>Background</gui> button with the picture in it."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/look-background.page:74
+#: C/look-background.page:72
 msgid "There are three choices displayed on top:"
 msgstr "Három lehetőség jelenik meg fent:"
 
 #. (itstool) path: item/p
-#: C/look-background.page:77
+#: C/look-background.page:75
 msgid ""
 "Select <gui>Wallpapers</gui> to use one of the beautiful background images "
 "that come with Endless."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/look-background.page:81
+#: C/look-background.page:79
 msgid ""
 "Select <gui>Pictures</gui> to use one of your own photos from your "
 "<file>Pictures</file> folder."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/look-background.page:85
+#: C/look-background.page:83
 msgid "Select <gui>Colors</gui> to just use a color."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/look-background.page:91
+#: C/look-background.page:89
 msgid "The settings are applied immediately."
 msgstr "A beállítások azonnal alkalmazásra kerülnek."
 
@@ -4396,7 +4345,7 @@ msgid ""
 msgstr "A dupla kattintás csak akkor következik be, ha az egérgombot elég gyorsan nyomja le kétszer. Ha a második lenyomás túl hosszú idővel követi az elsőt, az két külön kattintásnak fog számítani, nem duplának. Ha nem tudja gyorsan lenyomni az egérgombot, akkor növelje az időkorlátot."
 
 #. (itstool) path: item/p
-#: C/mouse-doubleclick.page:50 C/mouse-sensitivity.page:48
+#: C/mouse-doubleclick.page:49 C/mouse-sensitivity.page:46
 msgid "Click on <gui>Mouse &amp; Touchpad</gui>."
 msgstr ""
 
@@ -4408,7 +4357,7 @@ msgid ""
 msgstr "Az <gui>Általános</gui> alatt módosítsa a <gui>Dupla kattintás</gui> csúszkát az Önnek megfelelő értékre."
 
 #. (itstool) path: item/p
-#: C/mouse-doubleclick.page:55
+#: C/mouse-doubleclick.page:57
 msgid ""
 "Click the <gui>Test Your Settings</gui> button to test. A single click in "
 "the window will highlight the outer circle. A double-click will highlight "
@@ -4416,7 +4365,7 @@ msgid ""
 msgstr "Nyomja meg a <gui>Beállítások tesztelése</gui> gombot a teszteléshez. Egy kattintás az ablakban kiemeli a külső kört. A dupla kattintás kiemeli a belső kört."
 
 #. (itstool) path: page/p
-#: C/mouse-doubleclick.page:60
+#: C/mouse-doubleclick.page:63
 msgid ""
 "If your mouse double-clicks when you want it to single-click even though you"
 " have increased the double-click timeout, your mouse may be faulty. Try "
@@ -4426,7 +4375,7 @@ msgid ""
 msgstr "Ha egere akkor is duplán kattint, amikor csak egyszer nyomja le a gombot, és megnövelte a dupla kattintás időtúllépését, akkor az egér hibás lehet. Próbáljon meg másik egeret csatlakoztatni, hátha az megfelelően működik. Ennek alternatívájaként csatlakoztassa egerét másik számítógéphez, és ellenőrizze, hogy azon is ugyanúgy rossz-e."
 
 #. (itstool) path: note/p
-#: C/mouse-doubleclick.page:67
+#: C/mouse-doubleclick.page:70
 msgid ""
 "This setting will affect both your mouse and touchpad, as well as any other "
 "pointing device."
@@ -4451,21 +4400,21 @@ msgid ""
 msgstr "Ha gondot okoz az egér vagy más mutatóeszköz használata, akkor az egérmutatót irányíthatja a numerikus billentyűzetről is. Ezt a szolgáltatást <em>egérbillentyűknek</em> hívjuk."
 
 #. (itstool) path: item/p
-#: C/mouse-mousekeys.page:54
+#: C/mouse-mousekeys.page:53
 msgid ""
 "Use the up and down arrow keys to select <gui>Mouse Keys</gui> in the "
 "<gui>Pointing and Clicking</gui> section then press <key>Enter</key>."
 msgstr "A fel és le nyílbillentyűk segítségével válassza ki az <gui>Egérbillentyűket</gui> a <gui>Mutatás és kattintás</gui> szakaszban, majd nyomja meg az <key>Enter</key> billentyűt."
 
 #. (itstool) path: item/p
-#: C/mouse-mousekeys.page:58
+#: C/mouse-mousekeys.page:57
 msgid ""
 "Make sure that <key>Num Lock</key> is turned off. You will now be able to "
 "move the mouse pointer using the keypad."
 msgstr "Győződjön meg róla, hogy a <key>Num Lock</key> billentyű ki van kapcsolva. Ezután az egérmutatót a numerikus billentyűzet használatával mozgathatja."
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:63
+#: C/mouse-mousekeys.page:62
 msgid ""
 "The keypad is a set of numerical buttons on your keyboard, usually arranged "
 "into a square grid. If you have a keyboard without a keypad (such as a "
@@ -4476,7 +4425,7 @@ msgid ""
 msgstr "A numerikus billentyűzet a billentyűzet számbillentyűkből álló része, amelyet általában négyzetrácsba rendeznek. Ha billentyűzetén nincs numerikus billentyűzet (például laptop esetén), akkor a funkció billentyűt (<key>Fn</key>) kell nyomva tartani, és más billentyűk lesznek numerikus billentyűzetként használhatók. Ha gyakran használja laptopon ezt a szolgáltatást, akkor vásárolhat külső USB vagy Bluetooth numerikus billentyűzetet."
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:70
+#: C/mouse-mousekeys.page:69
 msgid ""
 "Each number on the keypad corresponds to a direction. For example, pressing "
 "<key>8</key> will move the pointer upwards and pressing <key>2</key> will "
@@ -4485,7 +4434,7 @@ msgid ""
 msgstr "A numerikus billentyűzet minden száma megfelel egy iránynak. A <key>8</key> lenyomása például felfelé mozgatja a mutatót, a <key>2</key> lenyomása pedig lefelé. Nyomja meg egyszer az <key>5</key> billentyűt az egérkattintáshoz, vagy kétszer gyorsan a dupla kattintáshoz."
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:75
+#: C/mouse-mousekeys.page:74
 msgid ""
 "Most keyboards have a special key which allows you to right-click, sometimes"
 " called the <key xref=\"keyboard-key-menu\">Menu</key> key. Note, however, "
@@ -4495,7 +4444,7 @@ msgid ""
 msgstr "A legtöbb billentyűzeten van a jobb kattintást végző speciális billentyű, amelyet <key xref=\"keyboard-key-menu\">Menü</key> billentyűnek neveznek. Azonban ez nem az egérmutató által mutatott helyen, hanem a billentyűzetfókusz helyén jeleníti meg a helyi menüt. A jobb egérgombbal való kattintásnak az <key>5</key> billentyűvel vagy a bal egérgomb lenyomva tartásával történő kiváltásával kapcsolatos további információkért lásd: <link xref=\"a11y-right-click\"/>."
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:81
+#: C/mouse-mousekeys.page:80
 msgid ""
 "If you want to use the keypad to type numbers while mouse keys is enabled, "
 "turn <key>Num Lock</key> on. The mouse cannot be controlled with the keypad "
@@ -4503,7 +4452,7 @@ msgid ""
 msgstr "Ha a numerikus billentyűzeten számokat szeretne bevinni, mialatt az egérbillentyűk szolgáltatás engedélyezve van, akkor kapcsolja be a <key>Num Lock</key> billentyűt. Az egér nem irányítható a numerikus billentyűzetről, amikor a <key>Num Lock</key> engedélyezett."
 
 #. (itstool) path: note/p
-#: C/mouse-mousekeys.page:86
+#: C/mouse-mousekeys.page:85
 msgid ""
 "The normal number keys, in a line at the top of the keyboard, will not "
 "control the mouse pointer. Only the keypad number keys can be used."
@@ -4528,7 +4477,7 @@ msgid ""
 msgstr "Ha a mutató túl gyorsan vagy lassan mozog az egér mozgatásakor vagy az érintőtábla használatakor, akkor módosíthatja a mutató sebességét az eszközökhöz."
 
 #. (itstool) path: item/p
-#: C/mouse-sensitivity.page:52
+#: C/mouse-sensitivity.page:50
 msgid ""
 "Adjust the <gui>Pointer Speed</gui> slider until the pointer motion is "
 "comfortable for you. You will see one slider per each pointing device, such "
@@ -4536,7 +4485,7 @@ msgid ""
 msgstr "A <gui>Mutató sebessége</gui> csúszka értékét módosítsa addig, amíg a mutató mozgása Önnek megfelelővé nem válik. Minden mutatóeszközhöz, például az egérhez és az érintőtáblához is külön csúszka jelenik meg."
 
 #. (itstool) path: note/p
-#: C/mouse-sensitivity.page:77
+#: C/mouse-sensitivity.page:75
 msgid ""
 "The <gui>Touchpad</gui> section only appears if your system has a touchpad, "
 "while the <gui>Mouse</gui> section is only visible when a mouse is plugged "
@@ -4584,17 +4533,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/mouse-when-right-click.page:49
+#: C/mouse-when-right-click.page:48
 msgid "Click on the <gui>Universal Access</gui> panel."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/mouse-when-right-click.page:52
+#: C/mouse-when-right-click.page:51
 msgid "Scroll to the bottom and select <gui>Click Assist</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/mouse-when-right-click.page:55
+#: C/mouse-when-right-click.page:54
 msgid ""
 "Turn the <gui>Simulated secondary click</gui> option on. There you can also "
 "adjust the amount of time you'll need to hold down the key to activate the "
@@ -5215,23 +5164,10 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/net-installing-other-browsers.page:23
 msgid ""
-"Unfortunately, Endless does not currently support the installation of other "
-"browsers."
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/net-installing-other-browsers.page:26
-msgid ""
-"We plan on supporting the installation of other browsers at a future date, "
-"and will notify you when we add this feature. Feel free to give us your "
-"feedback and let us know what you need."
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/net-installing-other-browsers.page:30
-msgid ""
-"In the meantime, we hope you enjoy using the current Endless browser to "
-"explore new websites and stay updated on the world's news!"
+"Endless comes with a browser on the desktop, but if you would like to "
+"install other browsers, you can do so from the App Center. You can try "
+"searching for the browser of your preference by typing its name in the "
+"search bar, or by going to the App Center's <gui>Utilities</gui> section."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -5262,7 +5198,7 @@ msgid "To manually set your network settings:"
 msgstr "Hálózati beállítások megadása saját kezűleg:"
 
 #. (itstool) path: item/p
-#: C/net-manual.page:42
+#: C/net-manual.page:41
 msgid "Click on <gui>Network</gui>."
 msgstr ""
 
@@ -5272,7 +5208,7 @@ msgid "settings"
 msgstr "beállítások"
 
 #. (itstool) path: item/p
-#: C/net-manual.page:46
+#: C/net-manual.page:45
 msgid ""
 "In the left pane, select the network connection that you want to set up "
 "manually and click the <_:media-1/> button. For example, if you plug in to "
@@ -5295,21 +5231,21 @@ msgid ""
 msgstr "Lépjen az <gui>IPv4</gui> lapra, és módosítsa a <gui>Címek</gui> beállítást <gui>Kézi</gui> értékűre."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:61
+#: C/net-manual.page:60
 msgid ""
 "Type in the <gui>Address</gui> and <gui>Gateway</gui>, as well as the "
 "appropriate <gui>Netmask</gui>."
 msgstr "Írja be a <gui>Címet</gui> és az <gui>Átjárót</gui>, valamint a megfelelő <gui>Hálózati maszkot</gui>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:63
+#: C/net-manual.page:62
 msgid ""
 "These must be <em>IP addresses</em>; that is, they must be four numbers "
 "separated by periods (e.g. 123.45.6.78)."
 msgstr "Ezeknek <em>IP-címeknek</em> kell lenniük, azaz négy, pontokkal elválasztott számnak (például: 123.45.6.78)."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:67
+#: C/net-manual.page:66
 msgid ""
 "In the <gui>DNS</gui> section, switch <gui>Automatic</gui> to "
 "<gui>OFF</gui>. Enter the IP address of a DNS server you want to use. Enter "
@@ -5317,7 +5253,7 @@ msgid ""
 msgstr "A <gui>DNS</gui> szakaszban kapcsolja <gui>KI</gui> az <gui>Automatikus</gui> beállítást. Írja be a használni kívánt DNS-kiszolgáló IP-címét. A <key>+</key> gomb használatával további DNS-kiszolgálók címeit adhatja meg."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:72
+#: C/net-manual.page:71
 msgid ""
 "In the <gui>Routes</gui> section, switch <gui>Automatic</gui> to "
 "<gui>OFF</gui>. Enter the <gui>Address</gui>, <gui>Netmask</gui>, "
@@ -5326,60 +5262,12 @@ msgid ""
 msgstr "Az <gui>Útvonalak</gui> szakaszban kapcsolja <gui>KI</gui> az <gui>Automatikus</gui> beállítást. Írja be a használni kívánt útvonal <gui>Címét</gui>, <gui>Hálózati maszkját</gui>, <gui>Átjáróját</gui> és <gui>Metrikáját</gui>. A <key>+</key> gomb használatával további útvonalakat adhat meg."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:78
+#: C/net-manual.page:77
 msgid ""
 "Click <gui>Apply</gui>. If you are not connected to the network, click the "
 "system status area on the task bar and connect. Test the network settings by"
 " trying to visit a website or look at shared files on the network, for "
 "example."
-msgstr ""
-
-#. (itstool) path: info/desc
-#: C/net-read-news.page:19
-msgid "Keep up to date with the latest news."
-msgstr ""
-
-#. (itstool) path: page/title
-#: C/net-read-news.page:22
-msgid "Read the News"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/net-read-news.page:24
-msgid ""
-"We have added several different newspaper websites to your Browser so that "
-"you can read all the latest news! Explore current events, sports, local news"
-" and more just with a click of a button!"
-msgstr ""
-
-#. (itstool) path: steps/title
-#: C/net-read-news.page:29
-msgid "To read news online:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-read-news.page:31
-msgid ""
-"Click the Internet icon on your desktop or on the task bar to open the "
-"browser."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-read-news.page:36
-msgid "Click on Newspaper section on the left side menu."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-read-news.page:40
-msgid "Discover the internet!"
-msgstr ""
-
-#. (itstool) path: note/p
-#: C/net-read-news.page:45
-msgid ""
-"You'll need an internet connection in order to access the news websites. If "
-"you can't access the internet right now, don't worry, your computer comes "
-"packed with great offline content."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -5496,124 +5384,6 @@ msgid ""
 "long time, for example. Try closing all of the browser's windows and then "
 "opening the browser again to see if this makes a difference."
 msgstr "Néha a webböngészők olyan problémákba ütköznek, amelyek miatt lassúvá válnak. Ennek sok oka lehet – például olyan oldalt keresett fel, amelynek betöltésével a böngésző nehezen birkózik meg, vagy a böngésző hosszú ideig volt megnyitva. Próbálja meg bezárni a böngésző összes ablakát, és újra elindítani: ez például javulást okozhat."
-
-#. (itstool) path: info/desc
-#: C/net-social-bar.page:19
-msgid "Easily chat with your Facebook friends."
-msgstr ""
-
-#. (itstool) path: page/title
-#: C/net-social-bar.page:22
-msgid "Chat on Facebook from your desktop"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/net-social-bar.page:24
-msgid ""
-"Now you can stay connected with your Facebook friends more easily than ever!"
-" You will need an internet connection to use this feature."
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/net-social-bar.page:27
-msgid "First, you'll need to set up your Facebook account on Endless."
-msgstr ""
-
-#. (itstool) path: steps/title
-#: C/net-social-bar.page:30
-msgid "If you already have a Facebook account:"
-msgstr ""
-
-#. (itstool) path: p/media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-social-bar.page:33
-msgctxt "_"
-msgid ""
-"external ref='figures/eos-icon-socialbar.png' "
-"md5='311852df3d93299e9346bbe809bb81c6'"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:32
-msgid ""
-"Click on <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-"
-"socialbar.png\"> the Facebook icon</media> on the very bottom right-hand "
-"side of your screen."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:38
-msgid "Enter in your email address and password, then click <gui>Login</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:42
-msgid ""
-"You can now start using Facebook right from your desktop. You do not need to"
-" close it if you are working on something else! Just click outside of the "
-"Facebook screen or on the Facebook icon to get back to your other open "
-"windows."
-msgstr ""
-
-#. (itstool) path: steps/title
-#: C/net-social-bar.page:50
-msgid "If you do not have a Facebook account:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:52 C/net-social-bar.page:74
-msgid ""
-"Click on the Facebook icon that is on the very bottom right-hand side of "
-"your screen."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:56
-msgid "Click on <gui>Create New Account</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:59
-msgid ""
-"Follow the steps that Facebook takes you through to complete their set up "
-"process. You will need an email address in order to create a Facebook "
-"account."
-msgstr ""
-
-#. (itstool) path: note/p
-#: C/net-social-bar.page:66
-msgid ""
-"Remember to log out of Facebook if you share your computer with other users,"
-" otherwise they will be able to see and use your Facebook account!"
-msgstr ""
-
-#. (itstool) path: steps/title
-#: C/net-social-bar.page:71
-msgid "Logging out of Facebook"
-msgstr ""
-
-#. (itstool) path: steps/p
-#: C/net-social-bar.page:72
-msgid "To log out of your Facebook account:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:78
-msgid ""
-"Click on the button with three white lines on the left-hand side of the "
-"Facebook window. This will show you the main menu, with your news feed, "
-"events, groups, and more."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:83
-msgid ""
-"Scroll all the way to the bottom of the menu and click on the <gui>Log "
-"Out</gui> button."
-msgstr ""
 
 #. (itstool) path: info/desc
 #: C/net-troubleshoot.page:17
@@ -6033,17 +5803,17 @@ msgid ""
 msgstr "A hálózat rejtett lehet. A rejtett hálózatokhoz <link xref=\"net-wireless-hidden\">más módon kell csatlakozni</link>."
 
 #. (itstool) path: info/desc
-#: C/net-wireless-hidden.page:25
+#: C/net-wireless-hidden.page:29
 msgid "Connect to a network that you might not be able to see."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/net-wireless-hidden.page:29
+#: C/net-wireless-hidden.page:33
 msgid "Connect to a hidden wireless network"
 msgstr "Kapcsolódás rejtett vezeték nélküli hálózathoz"
 
 #. (itstool) path: page/p
-#: C/net-wireless-hidden.page:31
+#: C/net-wireless-hidden.page:35
 msgid ""
 "Hidden networks don't show up in the list of wireless networks. Having a "
 "hidden network makes it harder for other people to find it, and so more "
@@ -6052,36 +5822,37 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:37
+#: C/net-wireless-hidden.page:41
 msgid ""
-"Click the network icon on the task bar and select <gui>Network "
-"Settings.</gui>"
+"Type \"Network\" into the <gui>global search bar</gui> on your desktop. "
+"Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
+"to open."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:41
+#: C/net-wireless-hidden.page:46
 msgid "Click the <gui>Connect to Hidden Network</gui> button."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:44
+#: C/net-wireless-hidden.page:49
 msgid ""
 "In the window that appears, type the network name and choose the type of "
 "wireless security from the Wi-Fi security drop-down list."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:48
+#: C/net-wireless-hidden.page:53
 msgid "Enter the password or other security details."
 msgstr "Adja meg jelszavát, vagy más biztonsági adatokat."
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:51
+#: C/net-wireless-hidden.page:56
 msgid "Click Connect."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/net-wireless-hidden.page:55
+#: C/net-wireless-hidden.page:60
 msgid ""
 "You may have to check the settings of the wireless access point or router to"
 " see what the network name is. If you don't have the network name (SSID), "
@@ -6092,14 +5863,14 @@ msgid ""
 msgstr "A hálózat nevének meghatározásához szükség lehet a vezeték nélküli hozzáférési pont vagy router beállításainak megnézésére. Ha nem tudja a hálózat nevét (SSID), akkor használhatja a <em>BSSID</em> (a hozzáférési pont MAC-címe), amely valahogy így néz ki: <gui>02:00:01:02:03:04</gui> és általában a hozzáférési pont alján látható."
 
 #. (itstool) path: page/p
-#: C/net-wireless-hidden.page:61
+#: C/net-wireless-hidden.page:66
 msgid ""
 "You should also check the security settings for the wireless access point. "
 "Look for terms like WEP and WPA."
 msgstr "A vezeték nélküli hozzáférési pont biztonsági beállításait is nézze meg. Keresse a WEP vagy WPA rövidítéseket."
 
 #. (itstool) path: note/p
-#: C/net-wireless-hidden.page:65
+#: C/net-wireless-hidden.page:70
 msgid ""
 "While hiding your network may help improve security by preventing people who"
 " don't know about it from connecting, the network will still remain "
@@ -6344,34 +6115,34 @@ msgid "How to cancel a print job:"
 msgstr "Nyomtatási feladat megszakítása:"
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:49 C/printing-cancel-job.page:92
-#: C/printing-setup-default-printer.page:48 C/printing-setup.page:86
+#: C/printing-cancel-job.page:47 C/printing-cancel-job.page:88
+#: C/printing-setup-default-printer.page:48 C/printing-setup.page:84
 msgid "Click <gui>Printers</gui>."
 msgstr "Válassza a <gui>Nyomtatók</gui> ikont."
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:52
+#: C/printing-cancel-job.page:50
 msgid ""
 "Click the <gui>Show Jobs</gui> button on the right-hand side of the "
 "<gui>Printers</gui> dialog."
 msgstr "Nyomja meg a <gui>Feladatok megjelenítése</gui> gombot a <gui>Nyomtatók</gui> ablak jobb oldalán."
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:56
+#: C/printing-cancel-job.page:54
 msgid ""
 "Cancel the print job by clicking the stop button on the play-pause-stop "
 "symbols."
 msgstr "A nyomtatási feladatot a leállítás gomb megnyomásával szakíthatja meg."
 
 #. (itstool) path: section/p
-#: C/printing-cancel-job.page:61
+#: C/printing-cancel-job.page:59
 msgid ""
 "If this does not cancel the print job like you expected, try holding down "
 "the <gui>Cancel</gui> button on your printer."
 msgstr "Ha ez a várttól eltérően nem szakítja meg a nyomtatási feladatot, akkor próbálja meg lenyomva tartani a nyomtató <gui>Megszakítás</gui> gombját."
 
 #. (itstool) path: section/p
-#: C/printing-cancel-job.page:64
+#: C/printing-cancel-job.page:62
 msgid ""
 "As a last resort, especially if you have a big print job with a lot of pages"
 " that won't cancel, remove the paper from the printer's paper input tray. "
@@ -6381,7 +6152,7 @@ msgid ""
 msgstr "Végső esetben, különösen ha egy nagyon sok oldalból álló nyomtatási feladat megszakítása nem sikerül, távolítsa el a papírt a nyomtató papíradagoló tálcájáról. A nyomtató ekkor felismeri, hogy kifogyott a papír, és megszakítja a nyomtatást. Ekkor megpróbálhatja újra megszakítani a nyomtatási feladatot, vagy ki- és újra bekapcsolni a nyomtatót."
 
 #. (itstool) path: note/p
-#: C/printing-cancel-job.page:71
+#: C/printing-cancel-job.page:69
 msgid ""
 "Be careful that you don't damage the printer when removing the paper, though"
 " - if you would have to pull hard on the paper to remove it, you should "
@@ -6389,19 +6160,19 @@ msgid ""
 msgstr "Legyen óvatos a papír eltávolításakor – ha a papírt erősen kellene meghúznia az eltávolításához, akkor inkább hagyja a helyén."
 
 #. (itstool) path: section/title
-#: C/printing-cancel-job.page:79
+#: C/printing-cancel-job.page:77
 msgid "Pause and release a print job"
 msgstr "Nyomtatási feladat szüneteltetése és folytatása"
 
 #. (itstool) path: section/p
-#: C/printing-cancel-job.page:81
+#: C/printing-cancel-job.page:79
 msgid ""
 "If you want to pause or release a print job, you can do so by going to the "
 "jobs dialog in the printer settings and click the appropriate button."
 msgstr "Ha egy nyomtatási feladatot szeretne megszakítani vagy folytatni, akkor a nyomtató beállításai alatti feladatok ablak megfelelő gombjaival ezt megteheti."
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:95
+#: C/printing-cancel-job.page:91
 msgid ""
 "Click the <gui>Show Jobs</gui> button on the right-hand side of the "
 "<gui>Printers</gui> dialog and either pause or release the print job based "
@@ -6654,6 +6425,13 @@ msgid ""
 msgstr "Az alapértelmezett nyomtató beállításához rendszergazdai jogosultságra van szükség."
 
 #. (itstool) path: item/p
+#: C/printing-setup-default-printer.page:42
+msgid ""
+"Click on the <_:media-1/> on the bottom left-hand corner of your screen, "
+"then click on <gui>Settings</gui>."
+msgstr ""
+
+#. (itstool) path: item/p
 #: C/printing-setup-default-printer.page:51
 msgid ""
 "Select your desired default printer from the list of available printers."
@@ -6758,19 +6536,19 @@ msgid "Set up your printer manually:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:90
+#: C/printing-setup.page:88
 msgid ""
 "Click the <key>Unlock</key> button in the top-right corner and enter your "
 "password."
 msgstr "Nyomja meg a <gui>Feloldás</gui> gombot a jobb felső sarokban, és adja meg jelszavát."
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:94
+#: C/printing-setup.page:92
 msgid "Click the <key>+</key> button."
 msgstr "Kattintson a <gui>+</gui> gombra."
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:97
+#: C/printing-setup.page:95
 msgid "In the pop-up window, select your new printer. Click <gui>Add</gui>."
 msgstr "A megjelenő ablakban válassza ki a nyomtatóját. Nyomja meg a <gui>Hozzáadás</gui> gombot."
 
@@ -6898,36 +6676,36 @@ msgid "To set the length of time before your screen locks automatically:"
 msgstr "A képernyő automatikus zárolása előtti idő hosszának beállításához:"
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:53
+#: C/privacy-screen-lock.page:51
 msgid "Click <gui>Privacy</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:56
+#: C/privacy-screen-lock.page:54
 msgid "Select <gui>Screen Lock</gui>."
 msgstr "Válassza a <gui>Képernyőzár</gui> lehetőséget."
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:59
+#: C/privacy-screen-lock.page:57
 msgid ""
 "Make sure <gui>Automatic Screen Lock</gui> is switched on, then select a "
 "length of time from the drop-down list."
 msgstr "Ha az <gui>Automatikus képernyőzárolás</gui> be van kapcsolva, akkor a legördülő listában kiválaszthatja az idő hosszát."
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:63
+#: C/privacy-screen-lock.page:61
 msgid ""
 "To allow notifications to be displayed on the lock screen, switch <gui>Show "
 "Notifications</gui> to <gui>ON</gui>."
 msgstr "Állítsa az <gui>Értesítések megjelenítése</gui> kapcsolót <gui>BE</gui> állásba az értesítések megjelenítéséhez a zárolási képernyőn."
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:67
+#: C/privacy-screen-lock.page:65
 msgid "Click <gui>Close</gui>."
 msgstr "Nyomja meg a <gui>Bezárás</gui> gombot."
 
 #. (itstool) path: page/p
-#: C/privacy-screen-lock.page:71
+#: C/privacy-screen-lock.page:69
 msgid ""
 "When your screen is locked, and you want to unlock it, press <key>Esc</key>,"
 " or swipe up from the bottom of the screen with your mouse. Then enter your "
@@ -7214,8 +6992,7 @@ msgstr ""
 #: C/security-guard-privacy.page:49
 msgid ""
 "You can change the lock screen settings under the <gui>Privacy</gui> section"
-" in the <gui>Settings</gui> window that you can access from the User Menu on"
-" the very bottom left-hand side of your screen."
+" under <gui>Settings</gui>."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -7261,27 +7038,27 @@ msgid "Switch to a different language for user interface and help text."
 msgstr "A felhasználói felület és a súgó nyelvének megváltoztatása."
 
 #. (itstool) path: page/title
-#: C/session-language.page:34
+#: C/session-language.page:37
 msgid "Change your region and language"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/session-language.page:36
+#: C/session-language.page:39
 msgid "Endless can be used in many different languages."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/session-language.page:39
+#: C/session-language.page:42
 msgid "To switch your current language:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/session-language.page:51
+#: C/session-language.page:52
 msgid "Click <gui>Language</gui>."
 msgstr "Kattintson a <gui>Nyelv</gui> gombra."
 
 #. (itstool) path: item/p
-#: C/session-language.page:55
+#: C/session-language.page:56
 msgid ""
 "Select your desired language. If your language is not listed, click "
 "<_:media-1/> at the bottom of the list to select from all available regions "
@@ -7289,12 +7066,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/session-language.page:62
+#: C/session-language.page:63
 msgid "Click <gui>Done</gui> to save."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/session-language.page:66
+#: C/session-language.page:67
 msgid ""
 "<gui>Your session needs to be restarted for these changes to take "
 "effect</gui> by clicking <gui style=\"button\">Restart Now</gui>, or click "
@@ -7302,7 +7079,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/session-language.page:73
+#: C/session-language.page:74
 msgid ""
 "Some translations may be incomplete, and certain applications may not "
 "support your language at all. Any untranslated text will appear in American "
@@ -7310,7 +7087,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/session-language.page:77
+#: C/session-language.page:78
 msgid ""
 "There are some special folders in your home folder where applications can "
 "store things like music, pictures, and documents. These folders use standard"
@@ -7321,17 +7098,17 @@ msgid ""
 msgstr "Saját mappája tartalmaz néhány speciális mappát, amelyekben az alkalmazások zenéket, képeket, dokumentumokat stb. tárolhatnak. Ezek a mappák szabványos és lefordított neveket használnak. A következő bejelentkezéskor egy program megkérdezi, hogy át szeretné-e nevezni ezeket a mappákat a kiválasztott nyelvnek megfelelő szabványos nevekre. Ha a jövőben mindig a kiválasztott nevet szeretné használni, akkor frissítse a mappaneveket."
 
 #. (itstool) path: info/desc
-#: C/sharing-bluetooth.page:16
+#: C/sharing-bluetooth.page:20
 msgid "Set which folders and devices are able to share over Bluetooth."
 msgstr "A Bluetooth használatával megosztható mappák és eszközök beállítása."
 
 #. (itstool) path: page/title
-#: C/sharing-bluetooth.page:20
+#: C/sharing-bluetooth.page:24
 msgid "Control sharing over Bluetooth"
 msgstr "Bluetooth megosztás szabályozása"
 
 #. (itstool) path: page/p
-#: C/sharing-bluetooth.page:28
+#: C/sharing-bluetooth.page:32
 msgid ""
 "You can allow Bluetooth devices to send you files to your "
 "<file>Downloads</file> folder by turning on that capability. Restrict access"
@@ -7339,14 +7116,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/sharing-bluetooth.page:31
+#: C/sharing-bluetooth.page:35
 msgid ""
 "You can configure <gui>Bluetooth Sharing</gui> to control access to your "
 "shared folders on your computer."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/sharing-bluetooth.page:35
+#: C/sharing-bluetooth.page:39
 msgid ""
 "A Bluetooth device is <em>trusted</em> if you have <em>paired</em>, or "
 "connected your computer to it. See <link xref=\"bluetooth-connect-"
@@ -7354,40 +7131,40 @@ msgid ""
 msgstr "A Bluetooth eszköze akkor <em>megbízható</em>, ha <em>párosította</em> vagy más szóval csatlakoztatta a számítógéphez. Lásd: <link xref=\"bluetooth-connect-device\"/>."
 
 #. (itstool) path: steps/title
-#: C/sharing-bluetooth.page:88
+#: C/sharing-bluetooth.page:92
 msgid "Allow files to be shared into your <file>Downloads</file> folder"
 msgstr "Fájlok megosztásának engedélyezése a <file>Letöltések</file> mappába"
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:96
+#: C/sharing-bluetooth.page:98
 msgid "Click <gui>Sharing</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:99
+#: C/sharing-bluetooth.page:101
 msgid "If <gui>Sharing</gui> is <gui>OFF</gui>, switch it to <gui>ON</gui>."
 msgstr "Ha a <gui>Megosztás</gui> <gui>KI</gui> van kapcsolva, akkor kapcsolja <gui>BE</gui> állásba a kapcsolót."
 
 #. (itstool) path: note/p
-#: C/sharing-bluetooth.page:102
+#: C/sharing-bluetooth.page:104
 msgid ""
 "If the text below <gui>Computer Name</gui> allows you to edit it, you can "
 "change the name your computer displays on the network."
 msgstr "Ha a <gui>Számítógép neve</gui> alatti szöveg szerkeszthető, akkor megváltoztathatja a számítógép által a hálózaton megjelenített nevet."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:107
+#: C/sharing-bluetooth.page:109
 msgid "Select <gui>Bluetooth Sharing</gui>."
 msgstr "Válassza a <gui>Bluetooth megosztás</gui> lehetőséget."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:110
+#: C/sharing-bluetooth.page:112
 msgid ""
 "Switch <gui>Save Received Files to Downloads Folder</gui> to <gui>ON</gui>."
 msgstr "Kapcsolja <gui>BE</gui> a <gui>Fogadott fájlok mentése a Letöltések mappába</gui> kapcsolót."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:114
+#: C/sharing-bluetooth.page:116
 msgid ""
 "If you only want to allow trusted devices to access your "
 "<file>Downloads</file> folder, switch <gui>Only Receive From Trusted "
@@ -7395,7 +7172,7 @@ msgid ""
 msgstr "Ha csak megbízható eszközöknek szeretné engedélyezni a <file>Letöltések</file> mappa elérését, akkor kapcsolja <gui>BE</gui> a <gui>Fogadás csak megbízható eszközökről</gui> kapcsolót."
 
 #. (itstool) path: note/p
-#: C/sharing-bluetooth.page:119
+#: C/sharing-bluetooth.page:121
 msgid ""
 "This option is disabled by default. You should enable it if you want to "
 "prevent access to your shared files by anyone with a Bluetooth-enabled cell "
@@ -7403,7 +7180,7 @@ msgid ""
 msgstr "Ez a beállítás alapesetben ki van kapcsolva. Akkor kapcsolja be, ha meg szeretné akadályozni a megosztott fájljainak elérését bárki által, akinek a közelében Bluetooth-képes mobiltelefonja vagy hasonló eszköze van."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:126
+#: C/sharing-bluetooth.page:128
 msgid ""
 "Click <gui style=\"button\">Close</gui>. Bluetooth-enabled devices will now "
 "be able to send files to your <file>Downloads</file> folder."
@@ -7551,33 +7328,30 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:30
-msgid ""
-"Right-click on the desktop and select <gui>Add folder</gui>. Alternatively, "
-"you can click on <_:media-1/> from the desktop and click on the "
-"<gui>Folders</gui> button on the left-hand menu."
+msgid "Right-click on the desktop and select <gui>Add folder</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:37 C/shell-organize-apps.page:33
+#: C/shell-add-desktop-folder.page:33 C/shell-organize-apps.page:33
 msgid "Pick an icon for your new folder."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:40
+#: C/shell-add-desktop-folder.page:36
 msgid ""
 "Type a name for your new folder (for example, \"School\") and hit "
 "<key>Enter</key>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:44
+#: C/shell-add-desktop-folder.page:40
 msgid ""
 "You have added a new folder to the desktop. Great! Now click on the "
 "<_:media-1/> on the top-right of the window to go back to the desktop."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:49
+#: C/shell-add-desktop-folder.page:45
 msgid "Drag and drop the apps you want into your folder."
 msgstr ""
 
@@ -7625,23 +7399,23 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/shell-apps-open.page:30
+#: C/shell-apps-open.page:31
 msgctxt "link:index"
 msgid "How do I add new apps?"
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/shell-apps-open.page:31
+#: C/shell-apps-open.page:32
 msgid "Install free apps, folders, and website shortcuts onto your desktop."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/shell-apps-open.page:34
+#: C/shell-apps-open.page:35
 msgid "Add apps and website shortcuts"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-apps-open.page:36
+#: C/shell-apps-open.page:37
 msgid ""
 "The pre-installed apps on your desktop are just a few of the many apps "
 "available to you. Easily add more apps and websites shortcuts directly to "
@@ -7649,46 +7423,46 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-apps-open.page:42
+#: C/shell-apps-open.page:43
 msgid "Adding More Apps"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:45 C/shell-update-app.page:29
+#: C/shell-apps-open.page:46 C/shell-update-app.page:29
 msgid "Click once on <_:media-1/> from the desktop."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:51
+#: C/shell-apps-open.page:52
 msgid ""
 "Browse by category and read each app's short description until you find one "
 "that you want to add to your desktop. All of the apps you see are free."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:57
+#: C/shell-apps-open.page:58
 msgid ""
 "Some apps are already downloaded to your computer and you can add them to "
 "your desktop by clicking <gui>Add to desktop</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:62
+#: C/shell-apps-open.page:63
 msgid ""
 "Other apps need to be installed and require an internet connection. Click "
-"<gui>Install app</gui> to download and install these apps."
+"<gui>Install</gui> to download and install these apps."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:67
+#: C/shell-apps-open.page:68
 msgid ""
 "When the app has been successfully added to your desktop, the green button "
-"will change to <gui>Open app</gui> and you can start using the app "
+"will change to <gui>Launch</gui> and you can start using the app "
 "immediately!"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:70
+#: C/shell-apps-open.page:71
 msgid ""
 "The app's icon will be installed on your desktop, to the left of the "
 "<_:media-1/> button. You can then move it wherever makes sense to you so you"
@@ -7696,18 +7470,21 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-apps-open.page:79
+#: C/shell-apps-open.page:80
 msgid "Installing Website Shortcuts"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:82
-msgid "Click once on the <_:media-1/> from the desktop."
+#: C/shell-apps-open.page:83
+msgid ""
+"Right click on the desktop and select the <gui>Add Website</gui> option."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:87
-msgid "Click on the <gui>Websites</gui> category on the left hand side."
+#: C/shell-apps-open.page:86
+msgid ""
+"Click on the <gui>Websites</gui> category on the left hand side if it is not"
+" already selected."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -7788,154 +7565,37 @@ msgid ""
 "available, you can do it from the <app>App Center</app>."
 msgstr ""
 
-#. (itstool) path: info/desc
-#: C/shell-download-media.page:15
-msgid "Learn how to download songs and media from the internet."
-msgstr ""
-
-#. (itstool) path: page/title
-#: C/shell-download-media.page:18
-msgid "Download songs and media"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/shell-download-media.page:20
-msgid ""
-"You can use the <app>FrostTorrent</app> app to download songs and media from"
-" the internet."
-msgstr ""
-
-#. (itstool) path: steps/title
-#: C/shell-download-media.page:25
-msgid "Download songs and media from the internet following these steps:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:28
-msgid ""
-"Make sure that you have the <app>FrostTorrent</app> app installed on your "
-"computer. If you don't already have it, go to your <app>App Center</app>'s "
-"Utilities section and download it, then click on it once to open."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:33
-msgid ""
-"If this is the first time you open <app>FrostTorrent</app>, you will need to"
-" complete a short setup using the wizard it provides. Once it finishes "
-"setting up, move on to the next step."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:38
-msgid ""
-"Type in a keyword and press <key>Enter</key> on your keyboard, or click on "
-"the search icon. Suggested keywords will show up as you type and you can "
-"click on them to conduct a search on that keyword."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:43
-msgid ""
-"Search results will appear in the main window. Select the file type you want"
-" by clicking on the icon of a music note (songs), a frame (photos), a film "
-"strip (videos), or a sheet of paper (documents). You can also filter your "
-"results by clicking on the <gui>Search Tools</gui> button on the right- hand"
-" side of the window."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:50
-msgid ""
-"To begin downloading the file, double click on the name of a file, or click "
-"once and then click <gui>Download</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:54
-msgid ""
-"After your file finishes downloading, it will appear on the bottom half of "
-"your screen and you can double click on it to open and beging using it. "
-"Right click on any finished file to see more options for using it. You can "
-"also click on the <gui>Library</gui> icon to browse through all the files "
-"that are ready for you to use."
-msgstr ""
-
-#. (itstool) path: note/title
-#: C/shell-download-media.page:63
-msgid "Tips:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:66
-msgid "A song with more “Seeds” next to its name will download more quickly."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:70
-msgid ""
-"Files from SoundCloud.com, Archive.org, or other similar services, will not "
-"show any “Seeds” because they come directly from the source rather than from"
-" other users."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:75
-msgid ""
-"Click the triangle button next to a file to preview it before downloading."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:79
-msgid ""
-"Click the plus button next to a file to select the parts of the package that"
-" you want to download."
-msgstr ""
-
-#. (itstool) path: note/p
-#: C/shell-download-media.page:86
-msgid ""
-"Make sure that what you are downloading is a legal copy! Many files have "
-"copyright laws that prohibit them from being shared for free online. This "
-"means that you could be sued for illegally downloading them without paying "
-"for them. That being said, there are millions of files that are completely "
-"legal and shareable on the internet, and that you can enjoy once you "
-"download them with this app. To learn more about downloading files and "
-"copyright, you may want to google \"torrents and legality\" so that you can "
-"make informed decisions on which files to download."
-msgstr ""
-
 #. (itstool) path: credit/name
 #: C/shell-exit.page:22
 msgid "Alexandre Franke"
 msgstr "Alexandre Franke"
 
 #. (itstool) path: info/desc
-#: C/shell-exit.page:32
+#: C/shell-exit.page:36
 msgid ""
 "Learn how to leave your user account, by logging out, switching users, and "
 "so on."
 msgstr "A felhasználói fiók elhagyása kijelentkezéssel, felhasználóváltással stb."
 
 #. (itstool) path: page/title
-#: C/shell-exit.page:36
+#: C/shell-exit.page:40
 msgid "Log out, power off or switch users"
 msgstr "Kijelentkezés, kikapcsolás vagy felhasználóváltás"
 
 #. (itstool) path: page/p
-#: C/shell-exit.page:44
+#: C/shell-exit.page:48
 msgid ""
 "When you have finished using your computer, you can turn it off or leave it "
 "powered on and log out."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:48
+#: C/shell-exit.page:52
 msgid "Log out or switch users"
 msgstr "Kijelentkezés vagy felhasználóváltás"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:50
+#: C/shell-exit.page:54
 msgid ""
 "To let other users use your computer, you can either log out, or leave "
 "yourself logged in and just switch users. If you switch users, all of your "
@@ -7944,20 +7604,20 @@ msgid ""
 msgstr "Hogy más felhasználók is használhassák számítógépét, kijelentkezhet, vagy bejelentkezve maradhat és megváltoztathatja a felhasználót. Ha felhasználót vált, akkor minden alkalmazása továbbra is futni fog, és a következő bejelentkezéskor minden ugyanott lesz, ahol hagyta."
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:54
+#: C/shell-exit.page:58
 msgid ""
-"To log out (i.e. in order to switch to a different user), click the User "
-"Menu on the bottom left corner of your screen and then click the <gui>lock "
-"icon</gui>."
+"To log out (i.e. in order to switch to a different user), click on the User "
+"icon at the very bottom right-hand side of your screen (it looks like a "
+"person), and click the <gui>Lock icon</gui>."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:61
+#: C/shell-exit.page:65
 msgid "Lock the screen"
 msgstr "Képernyő zárolása"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:63
+#: C/shell-exit.page:67
 msgid ""
 "If you're leaving your computer for a short time, you should lock your "
 "screen to prevent other people from accessing your files or running "
@@ -7967,15 +7627,15 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:68
+#: C/shell-exit.page:72
 msgid ""
-"To lock your screen, click on the User Menu at the very bottom left-hand "
-"side of your screen and press the <gui>Lock</gui> button at the bottom right"
-" of the menu."
+"To lock your screen, click on the User icon at the very bottom right-hand "
+"side of your screen (it looks like a person), and click the <gui>Lock "
+"icon</gui>."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-exit.page:72
+#: C/shell-exit.page:76
 msgid ""
 "If you don't lock your screen, it will lock automatically after a certain "
 "amount of time, unless you disable that feature from the <gui>Privacy</gui> "
@@ -7983,22 +7643,22 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:84
+#: C/shell-exit.page:88
 msgid "Power off or restart"
 msgstr "Kikapcsolás vagy újraindítás"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:86
+#: C/shell-exit.page:90
 msgid ""
 "If you want to power off your computer entirely, or do a full restart, click"
-" the User Menu at the very bottom left-hand side of your screen and press "
-"the <gui>Exit</gui> button at the bottom right of the menu. A dialog will "
-"open offering you the options to, among other options, <gui>Restart</gui> or"
-" <gui>Power Off</gui>."
+" on the User icon at the very bottom right-hand side of your screen (it "
+"looks like a person), and press the <gui>Exit</gui> button at the bottom "
+"right of the menu. A dialog will open offering you the options to, among "
+"other options, <gui>Restart</gui> or <gui>Power Off</gui>."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:92
+#: C/shell-exit.page:96
 msgid ""
 "If there are other users logged in, you may not be allowed to power off or "
 "restart the computer because this will end their sessions. If you are an "
@@ -8032,17 +7692,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/shell-introduction.page:28
+#: C/shell-introduction.page:33
 msgid "A quick introduction to your desktop and some of its cool features."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/shell-introduction.page:31
+#: C/shell-introduction.page:36
 msgid "Introduction to Endless"
 msgstr "A Endless bemutatása"
 
 #. (itstool) path: page/p
-#: C/shell-introduction.page:33
+#: C/shell-introduction.page:38
 msgid ""
 "Endless has been created just for you. When you first turn your computer on,"
 " you'll find some important applications already installed on your desktop, "
@@ -8050,24 +7710,22 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-introduction.page:37
+#: C/shell-introduction.page:42
 msgid ""
 "The task bar provides access to important things like your windows and "
 "applications, your calendar and clock, and system properties like sound and "
 "networking. There, you can change the volume, edit your Wi-Fi connection "
 "details, check your battery status, log out or switch users, and turn off "
-"your computer. We have also included the possibility to connect to Facebook "
-"on this task bar, so that you can keep in touch with your friends more "
-"easily than ever!"
+"your computer."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:48
+#: C/shell-introduction.page:51
 msgid "<app>App Center</app> overview"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:50
+#: C/shell-introduction.page:53
 msgid ""
 "Your computer should be incredibly useful to you both online and offline. "
 "For that reason, we have packed Endless with all sorts of applications and "
@@ -8077,23 +7735,13 @@ msgid ""
 " to install on your desktop."
 msgstr ""
 
-#. (itstool) path: section/p
-#: C/shell-introduction.page:58
-msgid ""
-"From the <app>App Center</app> you can add: <gui>Apps</gui>, "
-"<gui>Websites</gui>, and <gui>Folders</gui>. You can browse applications you"
-" may want to install by category, add shortcuts to your favorite websites "
-"onto your desktop, or simply create new folders to organize all of your "
-"things in a way that makes sense to you."
-msgstr ""
-
 #. (itstool) path: item/p
-#: C/shell-introduction.page:67
+#: C/shell-introduction.page:64
 msgid "<link xref=\"shell-apps-open\">Learn more about installing apps.</link>"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:75
+#: C/shell-introduction.page:72
 msgid "You and your computer"
 msgstr "Ön és a számítógépe"
 
@@ -8102,7 +7750,7 @@ msgstr "Ön és a számítógépe"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:79
+#: C/shell-introduction.page:76
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-classic.png' "
@@ -8110,19 +7758,19 @@ msgid ""
 msgstr "external ref='figures/shell-exit-classic.png' md5='f36e3a0a115ff2181a6fc787e6a83283'"
 
 #. (itstool) path: media/p
-#: C/shell-introduction.page:80
+#: C/shell-introduction.page:77
 msgid "User menu"
 msgstr "Felhasználói menü"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:86
+#: C/shell-introduction.page:83
 msgid ""
 "Click on the <gui>User Menu</gui> on the bottom left-hand corner of your "
 "screen to manage your system settings and your computer."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:113
+#: C/shell-introduction.page:110
 msgid ""
 "When you leave your computer, you can lock your screen to prevent other "
 "people from using it. You can also choose to turn off or restart your "
@@ -8130,19 +7778,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:119
+#: C/shell-introduction.page:116
 msgid ""
 "<link xref=\"shell-exit\">Learn more about switching users, logging out, and"
 " turning off your computer.</link>"
 msgstr "<link xref=\"shell-exit\">Tudjon meg többet a felhasználóváltásról, a kijelentkezésről és a számítógép kikapcsolásáról.</link>"
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:126
+#: C/shell-introduction.page:123
 msgid "Lock Screen"
 msgstr "Zároló képernyő"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:128
+#: C/shell-introduction.page:125
 msgid ""
 "When you lock your screen, or it locks automatically, the lock screen is "
 "displayed. In addition to protecting your desktop while you're away from "
@@ -8152,18 +7800,18 @@ msgid ""
 msgstr "Amikor zárolja a képernyőjét, vagy az automatikusan zárolásra kerül, akkor jelenik meg a zároló képernyő. A rendszer illetéktelen hozzáférés elleni védelmén túl a zároló képernyő megjeleníti a dátumot és időt. Információkat jelenít meg továbbá az akkumulátor és a hálózat állapotáról, valamint lehetővé teszi a médialejátszás vezérlését."
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:136
+#: C/shell-introduction.page:133
 msgid ""
 "<link xref=\"privacy-screen-lock\">Learn more about the lock screen.</link>"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:144
+#: C/shell-introduction.page:141
 msgid "Hot Corner"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:146
+#: C/shell-introduction.page:143
 msgid ""
 "Endless allows you to see all of your open windows and tasks so that you can"
 " multitask like a pro. To access this cool feature, move your mouse pointer "
@@ -8175,7 +7823,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:155
+#: C/shell-introduction.page:152
 msgid ""
 "<link xref=\"shell-windows-switching\">Learn more about switching "
 "windows.</link>"
@@ -8423,31 +8071,31 @@ msgid "Marina Zhurakhinskaya"
 msgstr "Marina Zhurakhinskaya"
 
 #. (itstool) path: info/desc
-#: C/shell-notifications.page:28
+#: C/shell-notifications.page:31
 msgid ""
 "Messages pop-up at the bottom of the screen telling you when certain events "
 "happen."
 msgstr "A képernyő alján felbukkanó üzenetek értesítik bizonyos eseményekről."
 
 #. (itstool) path: page/title
-#: C/shell-notifications.page:31
+#: C/shell-notifications.page:34
 msgid "Notifications and the message tray"
 msgstr "Értesítések és az üzenettálca"
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:34
+#: C/shell-notifications.page:37
 msgid "What is a notification?"
 msgstr "Mi az az értesítés?"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:36
+#: C/shell-notifications.page:39
 msgid ""
 "If an application or a system component wants to get your attention, a "
 "notification will be shown at the bottom of your screen."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:39
+#: C/shell-notifications.page:42
 msgid ""
 "For example, if you plug in an external device (like a USB stick), or if new"
 " updates are available for your computer, you will get a notification "
@@ -8455,33 +8103,33 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:43
+#: C/shell-notifications.page:46
 msgid ""
 "To minimize distraction, some notifications first appear as a single line. "
 "You can move your mouse over them to see their full content."
 msgstr "A figyelemelterelés csökkentése érdekében egyes értesítések először egyetlen sorban jelennek meg. A teljes tartalmuk megjelenítéséhez vigye az egérmutatót az üzenet fölé."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:46
+#: C/shell-notifications.page:49
 msgid ""
 "Other notifications have selectable option buttons. To close one of these "
 "notifications without selecting one of its options, click the close button."
 msgstr "Más értesítések rendelkezhetnek kijelölhető választógombokkal. Kattintson a bezárás gombra az ilyen értesítések bezárásához a felkínált lehetőségek bármelyikének kiválasztása nélkül."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:51
+#: C/shell-notifications.page:54
 msgid ""
 "Clicking the close button on some notifications dismisses them. Others may "
 "stay hidden in the message tray."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:60
+#: C/shell-notifications.page:63
 msgid "The message tray"
 msgstr "Az üzenettálca"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:62
+#: C/shell-notifications.page:65
 msgid ""
 "The message tray gives you a way to get back to your notifications when it "
 "is convenient for you. It appears when you move your mouse to the bottom-"
@@ -8491,7 +8139,7 @@ msgid ""
 msgstr "Az üzenettálca lehetővé teszi az értesítésekhez való visszatérést, amikor az Önnek megfelelő. Akkor jelenik meg, amikor az egérmutatót a képernyő jobb alsó sarkába viszi, vagy megnyomja a <keyseq><key xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq> kombinációt. Az üzenettálca azokat az értesítéseket tartalmazza, amelyekre nem reagált, vagy amelyek folyamatosan ott találhatók."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:69
+#: C/shell-notifications.page:72
 msgid ""
 "The message tray gives you a way to get back to your notifications when it "
 "is convenient for you. It appears when you move your mouse to the bottom-"
@@ -8503,7 +8151,7 @@ msgid ""
 msgstr "Az üzenettálca lehetővé teszi az értesítésekhez való visszatérést, amikor az Önnek megfelelő. Akkor jelenik meg, amikor az egérmutatót a képernyő jobb alsó sarkába viszi, vagy megnyomja a <keyseq><key xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq> kombinációt. Az üzenettálca megjeleníthető az ablaklista jobb oldalán lévő kék számra kattintva is. Az üzenettálca azokat az értesítéseket tartalmazza, amelyekre nem reagált, vagy amelyek folyamatosan ott találhatók."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:77
+#: C/shell-notifications.page:80
 msgid ""
 "You can view the notifications by clicking on the message tray items. These "
 "are usually messages sent by applications. However, chat notifications are "
@@ -8512,43 +8160,43 @@ msgid ""
 msgstr "Az értesítéseket megjelenítheti az üzenettálca elemeire való kattintással. Ezek általában alkalmazások által küldött üzenetek. Azonban az azonnaliüzenő programok értesítései speciális elbánás alá esnek, és ezeket a küldő partnerek képviselik."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:82
+#: C/shell-notifications.page:85
 msgid ""
 "You can close the message tray by pressing "
 "<keyseq><key>Super</key><key>M</key></keyseq> again or <key>Esc</key>."
 msgstr "Az üzenettálcát a <keyseq><key>Super</key><key>M</key></keyseq> ismételt, vagy az <key>Esc</key> egyszeri megnyomásával zárhatja be."
 
 #. (itstool) path: note/p
-#: C/shell-notifications.page:86
+#: C/shell-notifications.page:89
 msgid ""
 "If the <link xref=\"keyboard-osk\">screen keyboard</link> is open, you will "
 "need to click the <gui>tray button</gui> to show the message tray."
 msgstr "Ha a <link xref=\"keyboard-osk\">képernyő-billentyűzet</link> nyitva van, akkor kattintson a <gui>tálcagombra</gui> az üzenettálca megjelenítéséhez."
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:94
+#: C/shell-notifications.page:97
 msgid "Hiding notifications"
 msgstr "Értesítések elrejtése"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:96
+#: C/shell-notifications.page:99
 msgid ""
 "If you're working on something and do not want to be bothered, you can "
 "switch off notifications."
 msgstr "Ha éppen dolgozik valamin, és nem szeretné, hogy megzavarják, akkor kikapcsolhatja az értesítéseket."
 
 #. (itstool) path: item/p
-#: C/shell-notifications.page:107
+#: C/shell-notifications.page:108
 msgid "Click on <gui>Notifications</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-notifications.page:111
+#: C/shell-notifications.page:112
 msgid "Switch <gui>Show Pop Up Banners</gui> to <gui>Off</gui>."
 msgstr "Kapcsolja <gui>KI</gui> a <gui>Felugró sávok megjelenítése</gui> kapcsolót."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:115
+#: C/shell-notifications.page:116
 msgid ""
 "When switched off, most notifications will not pop up at the bottom of the "
 "screen. Very important notifications, such as when your battery is "
@@ -8561,7 +8209,7 @@ msgstr "A kikapcsolás után a legtöbb értesítés nem jelenik meg a képerny�
 
 #. (itstool) path: info/desc
 #: C/shell-organize-apps.page:18
-msgid "Keep all of your apps organized."
+msgid "Use folders to stay organized."
 msgstr ""
 
 #. (itstool) path: page/title
@@ -8659,38 +8307,32 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-update-app.page:34
-msgid ""
-"On the left menu, click on the section <gui>Installed</gui>. All apps that "
-"are installed on your computer will be there."
+msgid "On the top bar, click the <gui>Updates</gui> section."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-update-app.page:38
-msgid "Click the thumbnail of the app you want to update."
+#: C/shell-update-app.page:37
+msgid ""
+"If there is an update available, you will see an <gui>Update</gui> you can "
+"select. Click on it to download the update. It will be installed "
+"automatically once it's ready."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-update-app.page:41
+#: C/shell-update-app.page:42
 msgid ""
-"If there is an update available, you will see a green button with the label "
-"<gui>Update app</gui>. Click on it to download the update. It will be "
-"installed automatically once it's ready."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/shell-update-app.page:46
-msgid ""
-"Once the update is installed, you will see the <gui>Open app</gui> button."
+"You can also choose to <gui>Update All</gui> of your apps at once with the "
+"blue button at the top right of your screen."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-update-app.page:52
-msgid "To update an app, you will need an internet connection."
+#: C/shell-update-app.page:48
+msgid "To update your apps, you will need an internet connection."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-update-app.page:55
-msgid "You can close the <app>App Center</app> while the app is updating."
+#: C/shell-update-app.page:51
+msgid "You can close the <app>App Center</app> while apps are updating."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -8743,19 +8385,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-update-system.page:52
+#: C/shell-update-system.page:51
 msgid "Click on <gui>Details</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-update-system.page:56
+#: C/shell-update-system.page:55
 msgid ""
 "Click on the <gui>Search for updates now</gui> button. If there are updates,"
 " they will automatically start to download and install to your system."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-update-system.page:64
+#: C/shell-update-system.page:63
 msgid ""
 "Make sure you don't go over your data limit! You may want to wait until you "
 "can get a Wi-Fi or wired internet connection. You can also contact our "
@@ -8789,8 +8431,11 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/shell-windows-hide.page:33
 msgid ""
-"If you want to hide several windows at the same time, you might want to use "
-"the <gui>hot corner</gui> to quickly navigate between the hidden apps."
+"Starting in Endless version 3.2, you can hide all of your windows instantly "
+"by clicking on the Endless logo on the bottom left corner. Click it again to"
+" restore your windows. When your windows are minimized, you can use the "
+"<gui>hot corner</gui> on the bottom right to quickly navigate between the "
+"hidden apps."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -8995,19 +8640,19 @@ msgid ""
 msgstr "A számítógép egy egyszerű riasztáshangot játszik le bizonyos üzenettípusokhoz és eseményekhez. Eltérő hangokat választhat a riasztásokhoz, beállíthatja a riasztások a rendszerhangerőtől független hangerejét, vagy teljesen le is tilthatja a riasztáshangokat."
 
 #. (itstool) path: item/p
-#: C/sound-alert.page:45
+#: C/sound-alert.page:43
 msgid "Click <gui>Sound</gui>."
 msgstr "Kattintson a <gui>Hang</gui> ikonra."
 
 #. (itstool) path: item/p
-#: C/sound-alert.page:48
+#: C/sound-alert.page:46
 msgid ""
 "In the <gui>Sound Effects</gui> tab, select an alert sound. Each sound will "
 "play when you click on it so you can hear how it sounds."
 msgstr "A <gui>Hangeffektusok</gui> lapon válasszon egy riasztáshangot. Amikor rájuk kattint, a hangok lejátszásra kerülnek, így meghallgathatja azokat."
 
 #. (itstool) path: page/p
-#: C/sound-alert.page:53
+#: C/sound-alert.page:51
 msgid ""
 "Use the volume slider in the <gui>Sound Effects</gui> tab to set the volume "
 "of the alert sound. This won't affect the volume of your music, movies, or "
@@ -9015,49 +8660,11 @@ msgid ""
 msgstr "Használja a hangerőcsúszkát a <gui>Hangeffektusok</gui> lapon a riasztáshangok hangerejének beállításához. Ez nem befolyásolja a zenék, filmek és egyéb hangfájlok lejátszásának hangerejét."
 
 #. (itstool) path: page/p
-#: C/sound-alert.page:57
+#: C/sound-alert.page:55
 msgid ""
 "To disable alert sounds entirely, switch the <gui>Alert volume</gui> to "
 "<gui>Off</gui>."
 msgstr "A riasztáshangok teljes letiltásához kapcsolja <gui>KI</gui> a <gui>Riasztás hangerejét</gui>."
-
-#. (itstool) path: credit/years
-#: C/sound-troubleshoot.page:15
-msgid "2016"
-msgstr "2016"
-
-#. (itstool) path: info/desc
-#: C/sound-troubleshoot.page:18
-msgid ""
-"If you can't hear sound on your computer, there may be a way to fix that."
-msgstr ""
-
-#. (itstool) path: page/title
-#: C/sound-troubleshoot.page:22
-msgid "Troubleshoot sound on your computer"
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/sound-troubleshoot.page:24
-msgid ""
-"Here are some known issues and how to fix them if you're having trouble "
-"hearing sound from your computer."
-msgstr ""
-
-#. (itstool) path: section/title
-#: C/sound-troubleshoot.page:28
-msgid "Hearing sound on an old TV"
-msgstr ""
-
-#. (itstool) path: section/p
-#: C/sound-troubleshoot.page:30
-msgid ""
-"Some Endless computers are compatible with old TVs. To play audio through "
-"your TV, you will need to use an adapter that connects your TV to the 3.5 mm"
-" audio jack on the side of your computer. Endless does not come with this "
-"adapter, so you should check with your local electronics retailer to "
-"purchase one."
-msgstr ""
 
 #. (itstool) path: info/desc
 #: C/sound-volume.page:20
@@ -9130,23 +8737,23 @@ msgid ""
 msgstr "Csak a hangot lejátszó alkalmazások lesznek felsorolva. Ha egy alkalmazás lejátszik ugyan hangot, de nincs felsorolva az ablakban, akkor nem támogatja a hangerőszabályzás ezen módját. Ebben az esetben nem fogja tudni megváltoztatni a hangerejét."
 
 #. (itstool) path: info/title
-#: C/user-add.page:32
+#: C/user-add.page:36
 msgctxt "link:index"
 msgid "How do I add more user accounts?"
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/user-add.page:33
+#: C/user-add.page:37
 msgid "Add new users so that other people can log in to the computer."
 msgstr "Új felhasználó hozzáadása, hogy mások is használhassák a számítógépet."
 
 #. (itstool) path: page/title
-#: C/user-add.page:36
+#: C/user-add.page:40
 msgid "Add a new user account"
 msgstr "Új felhasználói fiók hozzáadása"
 
 #. (itstool) path: page/p
-#: C/user-add.page:61
+#: C/user-add.page:65
 msgid ""
 "You can create multiple user accounts on your computer and give a user "
 "account to everyone who uses your computer. That way, you can make sure that"
@@ -9155,7 +8762,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/user-add.page:66
+#: C/user-add.page:70
 msgid ""
 "You will need <link xref=\"user-admin-explain\">administrator "
 "privileges</link> to add user accounts. The administrator is usually the "
@@ -9165,35 +8772,35 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/user-add.page:73
+#: C/user-add.page:77
 msgid ""
 "If you are the administrator, follow these steps to create more user "
 "accounts:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-add.page:82 C/user-admin-change.page:44 C/user-autologin.page:35
-#: C/user-changepassword.page:71 C/user-changepicture.page:48
-#: C/user-delete.page:55
+#: C/user-add.page:84 C/user-admin-change.page:42 C/user-autologin.page:33
+#: C/user-changepassword.page:69 C/user-changepicture.page:46
+#: C/user-delete.page:53
 msgid "Click on <gui>Users</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-add.page:86 C/user-admin-change.page:48 C/user-delete.page:59
+#: C/user-add.page:88 C/user-admin-change.page:46 C/user-delete.page:57
 msgid ""
 "Press <gui style=\"button\">Unlock</gui> in the top right corner and type in"
 " your password when prompted."
 msgstr "Nyomja meg a jobb felső sarokban lévő <gui style=\"button\">Feloldás</gui> gombot, és adja meg jelszavát."
 
 #. (itstool) path: item/p
-#: C/user-add.page:93
+#: C/user-add.page:95
 msgid ""
 "Press the <gui style=\"button\">+</gui> button, below the list of accounts "
 "on the left, to add a new user account."
 msgstr "Új felhasználó létrehozásához a felhasználók bal oldali listája alatt kattintson a <gui style=\"button\">+</gui> gombra."
 
 #. (itstool) path: item/p
-#: C/user-add.page:98
+#: C/user-add.page:100
 msgid ""
 "If you want the new user to have <link xref=\"user-admin-"
 "explain\">administrative access</link> to the computer, select "
@@ -9203,7 +8810,7 @@ msgid ""
 msgstr "Ha azt szeretné, hogy az új felhasználónak legyen <link xref=\"user-admin-explain\">rendszergazda hozzáférése</link>, akkor válassza a <gui>Rendszergazda</gui> fióktípust a legördülő menüből. A rendszergazdák mindent megtehetnek, például hozzáadhatnak vagy törölhetnek felhasználókat, telepíthetnek szoftvereket és illesztőprogramokat, és megváltoztathatják a dátumot és az időt."
 
 #. (itstool) path: item/p
-#: C/user-add.page:105
+#: C/user-add.page:107
 msgid ""
 "Enter the new user's full name. The username will be filled in automatically"
 " based on the full name. If you do not like the proposed username, you can "
@@ -9211,12 +8818,12 @@ msgid ""
 msgstr "Írja be az új felhasználó teljes nevét. A felhasználónév automatikusan kitöltésre kerül a teljes név alapján. Ha a javasolt felhasználónév nem tetszik, megváltoztathatja."
 
 #. (itstool) path: media/span
-#: C/user-add.page:112 C/user-changepassword.page:83
+#: C/user-add.page:114 C/user-changepassword.page:81
 msgid "generate password"
 msgstr "jelszó előállítása"
 
 #. (itstool) path: item/p
-#: C/user-add.page:110
+#: C/user-add.page:112
 msgid ""
 "You can chose to set a password for the new user, or let them set it "
 "themselves on their first login. You can press on the <gui "
@@ -9225,12 +8832,12 @@ msgid ""
 msgstr "Beállíthatja az új felhasználó jelszavát, vagy lehetővé teheti neki az első bejelentkezésekor történő beállítást. A <gui style=\"button\"><_:media-1/></gui> ikonra kattintva automatikusan előállíthat egy véletlen jelszót."
 
 #. (itstool) path: item/p
-#: C/user-add.page:117
+#: C/user-add.page:119
 msgid "Click <gui>Add</gui>."
 msgstr "Kattintson a <gui>Hozzáadás</gui> gombra."
 
 #. (itstool) path: page/p
-#: C/user-add.page:121
+#: C/user-add.page:123
 msgid ""
 "If you want to change the password after creating the account, select the "
 "account, <gui style=\"button\">Unlock</gui> the panel and press on the "
@@ -9238,7 +8845,7 @@ msgid ""
 msgstr "Ha a jelszót a fiók létrehozása után szeretné megváltoztatni, akkor válassza ki a fiókot, kattintson a <gui style=\"button\">Feloldás</gui> gombra a jobb felső sarokban, és kattintson a jelenlegi jelszó állapotára."
 
 #. (itstool) path: note/p
-#: C/user-add.page:126
+#: C/user-add.page:128
 msgid ""
 "In the <gui>Users</gui> panel, you can click the image next to the user's "
 "name to the right to set an image for the account. This image will be shown "
@@ -9247,7 +8854,7 @@ msgid ""
 msgstr "A <gui>Felhasználók</gui> ablakban a fiók képének megváltoztatásához rákattinthat a képre a felhasználó neve mellett. Ez a kép fog megjelenni a bejelentkezési ablakban. A Endless biztosít néhány alapértelmezett képet, illetve választhat a saját képei közül, vagy készíthet egyet a webkamerájával."
 
 #. (itstool) path: note/p
-#: C/user-add.page:133
+#: C/user-add.page:135
 msgid ""
 "You may want to create a \"Guest\" account so that friends or others who "
 "visit you can use it and you can rest assured that they will not mess up any"
@@ -9284,24 +8891,24 @@ msgid ""
 msgstr "A fióktípusok megváltoztatásához <link xref=\"user-admin-explain\">rendszergazdai jogosultság</link> szükséges."
 
 #. (itstool) path: item/p
-#: C/user-admin-change.page:52
+#: C/user-admin-change.page:50
 msgid "Select the user whose privileges you want to change."
 msgstr "Válassza ki a felhasználót, akinek meg szeretné változtatni a jogosultságait."
 
 #. (itstool) path: item/p
-#: C/user-admin-change.page:55
+#: C/user-admin-change.page:53
 msgid ""
 "Click the label <gui>Standard</gui> next to <gui>Account Type</gui> and "
 "select <gui>Administrator</gui>."
 msgstr "A <gui>Fióktípus</gui> mellett kattintson a <gui>Szabványos</gui> feliratra, és válassza a <gui>Rendszergazda</gui> menüpontot."
 
 #. (itstool) path: item/p
-#: C/user-admin-change.page:59
+#: C/user-admin-change.page:57
 msgid "The user's privileges will be changed when they next log in."
 msgstr "A felhasználó jogosultságai a következő bejelentkezésekor fognak megváltozni."
 
 #. (itstool) path: note/p
-#: C/user-admin-change.page:64
+#: C/user-admin-change.page:62
 msgid ""
 "The first user account on the system is usually the one that has "
 "administrator privileges. This is the user account that was created when you"
@@ -9309,7 +8916,7 @@ msgid ""
 msgstr "A rendszer első felhasználói fiókja általában a rendszergazdai jogosultsággal rendelkező. Ez a felhasználói fiók a rendszer telepítésekor készült."
 
 #. (itstool) path: note/p
-#: C/user-admin-change.page:67
+#: C/user-admin-change.page:65
 msgid ""
 "It is unwise to have too many users with <gui>Administrator</gui> privileges"
 " on one system."
@@ -9482,23 +9089,23 @@ msgid ""
 msgstr "Beállítható, hogy a számítógép bekapcsolásakor automatikusan bejelentkezzen a fiókjába:"
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:39
+#: C/user-autologin.page:37
 msgid ""
 "Select the user account that you want to log in to automatically at startup."
 msgstr "Válassza ki a felhasználói fiókot, amelyet az automatikus bejelentkezéshez használni szeretne."
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:43
+#: C/user-autologin.page:41
 msgid "Press <gui style=\"button\">Unlock</gui> and enter your password."
 msgstr "Nyomja meg a <gui style=\"button\">Feloldás</gui> gombot, és adja meg jelszavát."
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:46
+#: C/user-autologin.page:44
 msgid "Toggle the <gui>Automatic Login</gui> switch to <gui>On</gui>."
 msgstr "Kapcsolja <gui>BE</gui> állásba az <gui>Automatikus bejelentkezés</gui> kapcsolót."
 
 #. (itstool) path: page/p
-#: C/user-autologin.page:50
+#: C/user-autologin.page:48
 msgid ""
 "When you next start up your computer, you will be logged in automatically. "
 "If you have this option enabled, you will not need to type in your password "
@@ -9508,7 +9115,7 @@ msgid ""
 msgstr "A számítógép következő bekapcsolásakor automatikusan be fog jelentkezni. Ha ez a lehetőség engedélyezve van, akkor a jelszó megadása nem lesz szükséges, ezért ha valaki más kapcsolja be a számítógépet, az hozzáférhet a fiókjához és a személyes adataihoz, a fájljait és böngészési előzményeit is beleértve."
 
 #. (itstool) path: note/p
-#: C/user-autologin.page:57
+#: C/user-autologin.page:55
 msgid ""
 "If your account type is <em>Standard</em>, you cannot change this setting. "
 "Contact your system administrator who can change this setting for you."
@@ -9541,7 +9148,7 @@ msgid ""
 msgstr "A saját fiókjától eltérő fiókok szerkesztéséhez <link xref=\"user-admin-explain\">rendszergazdai jogosultság</link> szükséges."
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:75
+#: C/user-changepassword.page:73
 msgid ""
 "Click the label <gui>·····</gui> next to <gui>Password</gui>. If you are "
 "changing the password for a different user, you will first need to "
@@ -9549,40 +9156,40 @@ msgid ""
 msgstr "Kattintson a <gui>·····</gui> feliratra a <gui>Jelszó</gui> mellett. Ha egy másik felhasználó jelszavát módosítja, akkor először a <gui>Feloldás</gui> gombra kell kattintania."
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:80
+#: C/user-changepassword.page:78
 msgid ""
 "Enter your current password, then a new password. Enter your new password "
 "again in the <gui>Confirm password</gui> field."
 msgstr "Gépelje be a jelenlegi, majd az új jelszavát. A <gui>Jelszó megerősítése</gui> mezőbe gépelje be újra az új jelszavát."
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:82
+#: C/user-changepassword.page:80
 msgid ""
 "You can press on the <gui style=\"button\"><_:media-1/></gui> icon to "
 "automatically generate a random password."
 msgstr "A <gui style=\"button\"><_:media-1/></gui> ikonra kattintva automatikusan előállíthat egy véletlen jelszót."
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:88
+#: C/user-changepassword.page:86
 msgid "Click <gui>Change</gui>."
 msgstr "Kattintson a <gui>Módosítás</gui> gombra."
 
 #. (itstool) path: page/p
-#: C/user-changepassword.page:92
+#: C/user-changepassword.page:90
 msgid ""
 "Make sure you <link xref=\"user-goodpassword\">choose a good "
 "password</link>. This will help to keep your user account safe."
 msgstr "Győződjön meg róla, hogy <link xref=\"user-goodpassword\">jó jelszót választott-e</link>. Ez segít biztonságban tartani a fiókját."
 
 #. (itstool) path: note/p
-#: C/user-changepassword.page:96
+#: C/user-changepassword.page:94
 msgid ""
 "When you update your login password, your login keyring password will "
 "automatically be updated to be the same as your new login password."
 msgstr "Amikor megváltoztatja a bejelentkezési jelszavát, a bejelentkezési kulcstartó jelszava automatikusan frissítésre kerül, hogy megegyezzen az új bejelentkezési jelszóval."
 
 #. (itstool) path: page/p
-#: C/user-changepassword.page:100
+#: C/user-changepassword.page:98
 msgid ""
 "If you forget your password, any user with administrator privileges can "
 "change it for you."
@@ -9607,7 +9214,7 @@ msgid ""
 msgstr "Bejelentkezéskor vagy felhasználóváltáskor megjelenik a felhasználók listája a bejelentkezési fényképeikkel. Megváltoztathatja a fényképét az alapértelmezett képek egyikére, vagy használhat saját fényképet. Sőt, a webkamerájával is készíthet bejelentkezési fényképet."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:52
+#: C/user-changepicture.page:50
 msgid ""
 "If you want to edit a user other than yourself, press <gui "
 "style=\"button\">Unlock</gui> in the top right corner and type in your "
@@ -9615,7 +9222,7 @@ msgid ""
 msgstr "Ha egy másik felhasználó beállításait szeretné szerkeszteni, akkor nyomja meg a jobb felső sarokban lévő <gui style=\"button\">Feloldás</gui> gombot, és adja meg jelszavát."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:57
+#: C/user-changepicture.page:55
 msgid ""
 "Click the picture next to your name. A drop-down gallery will be shown with "
 "some stock login photos. If you like one of them, click it to use it for "
@@ -9623,14 +9230,14 @@ msgid ""
 msgstr "Kattintson a neve melletti képre. Megjelenik egy legördülő galéria, amely az alapértelmezett bejelentkezési képeket tartalmazza. Ha valamelyik tetszik, akkor kattintson rá a használatához saját képként."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:62
+#: C/user-changepicture.page:60
 msgid ""
 "If you'd rather use a picture you already have on your computer, click "
 "<gui>Browse for more pictures…</gui>."
 msgstr "Ha inkább olyan képet választana, mely már a számítógépén van, kattintson a <gui>További képek tallózása</gui> gombra."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:66
+#: C/user-changepicture.page:64
 msgid ""
 "If you have a webcam, you can take a new login photo right now by clicking "
 "<gui>Take a photo…</gui>. Take your picture, then move and resize the square"
@@ -9665,7 +9272,7 @@ msgid ""
 msgstr "A felhasználói fiókok törléséhez <link xref=\"user-admin-explain\">rendszergazdai jogosultság</link> szükséges."
 
 #. (itstool) path: item/p
-#: C/user-delete.page:66
+#: C/user-delete.page:64
 msgid ""
 "Select the user that you want to delete and press the <gui "
 "style=\"button\">-</gui> button, below the list of accounts on the left, to "
@@ -9673,7 +9280,7 @@ msgid ""
 msgstr "Válassza ki a törölni kívánt felhasználót, és a felhasználók bal oldali listája alatt kattintson a <gui style=\"button\">-</gui> gombra az adott felhasználói fiók törléséhez."
 
 #. (itstool) path: item/p
-#: C/user-delete.page:72
+#: C/user-delete.page:70
 msgid ""
 "Each user has their own home folder for their files and settings. You can "
 "choose to keep or delete the user's home folder. Click <gui>Delete "

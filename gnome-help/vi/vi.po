@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2017-06-01 16:45-0700\n"
-"PO-Revision-Date: 2017-06-01 23:47+0000\n"
+"POT-Creation-Date: 2017-06-05 20:09-0700\n"
+"PO-Revision-Date: 2017-06-06 04:48+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -140,53 +140,53 @@ msgstr "Bật <em>phím dội</em> để bỏ qua phím nhấn được lặp l�
 #: C/a11y-font-size.page:37 C/a11y-icon.page:38 C/a11y-mag.page:39
 #: C/a11y-right-click.page:43 C/a11y-slowkeys.page:45
 #: C/a11y-stickykeys.page:49 C/a11y-visualalert.page:44 C/accounts-add.page:36
-#: C/bluetooth-connect-device.page:47 C/bluetooth-remove-connection.page:45
-#: C/bluetooth-send-file.page:52 C/bluetooth-turn-on-off.page:45
-#: C/bluetooth-turn-on-off.page:61 C/keyboard-cursor-blink.page:43
+#: C/bluetooth-connect-device.page:47 C/bluetooth-remove-connection.page:49
+#: C/bluetooth-send-file.page:56 C/bluetooth-turn-on-off.page:49
+#: C/bluetooth-turn-on-off.page:63 C/keyboard-cursor-blink.page:43
 #: C/keyboard-key-super.page:51 C/keyboard-layouts.page:51
 #: C/keyboard-osk.page:41 C/keyboard-repeat-keys.page:46
 #: C/look-background.page:61 C/mouse-doubleclick.page:44
 #: C/mouse-mousekeys.page:44 C/mouse-sensitivity.page:42
 #: C/mouse-when-right-click.page:43 C/net-manual.page:36
-#: C/printing-cancel-job.page:43 C/printing-cancel-job.page:86
-#: C/printing-setup-default-printer.page:42 C/printing-setup.page:80
-#: C/privacy-screen-lock.page:47 C/session-language.page:41
-#: C/sharing-bluetooth.page:90 C/shell-notifications.page:101
-#: C/shell-update-system.page:46 C/sound-alert.page:39 C/user-add.page:76
-#: C/user-admin-change.page:38 C/user-autologin.page:29
-#: C/user-changepassword.page:65 C/user-changepicture.page:42
-#: C/user-delete.page:49
+#: C/printing-cancel-job.page:43 C/printing-cancel-job.page:84
+#: C/printing-setup.page:80 C/privacy-screen-lock.page:47
+#: C/session-language.page:44 C/sharing-bluetooth.page:94
+#: C/shell-notifications.page:104 C/shell-update-system.page:46
+#: C/sound-alert.page:39 C/user-add.page:80 C/user-admin-change.page:38
+#: C/user-autologin.page:29 C/user-changepassword.page:65
+#: C/user-changepicture.page:42 C/user-delete.page:49
 msgid ""
-"Click on the <_:media-1/> on the bottom left-hand corner of your screen, "
-"then click on <gui>Settings</gui>."
-msgstr "Nhấp vào <_:media-1/> ở góc trái phía cuối màn hình của bạn, sau đó nhấp vào mục <gui>Cài đặt</gui> (Settings)."
+"Type \"Settings\" into the <gui>global search bar</gui> on your desktop. "
+"Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
+"to open."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/a11y-bouncekeys.page:49 C/a11y-contrast.page:49 C/a11y-dwellclick.page:54
-#: C/a11y-font-size.page:43 C/a11y-mag.page:45 C/a11y-right-click.page:49
-#: C/a11y-slowkeys.page:51 C/a11y-stickykeys.page:55
-#: C/a11y-visualalert.page:50 C/keyboard-osk.page:47 C/mouse-mousekeys.page:50
+#: C/a11y-bouncekeys.page:48 C/a11y-contrast.page:47 C/a11y-dwellclick.page:53
+#: C/a11y-font-size.page:42 C/a11y-mag.page:44 C/a11y-right-click.page:48
+#: C/a11y-slowkeys.page:50 C/a11y-stickykeys.page:54
+#: C/a11y-visualalert.page:49 C/keyboard-osk.page:46 C/mouse-mousekeys.page:49
 msgid "Click on <gui>Universal Access</gui>."
 msgstr "Nhấp vào <gui>Universal Access</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-bouncekeys.page:53 C/a11y-slowkeys.page:55 C/a11y-stickykeys.page:59
+#: C/a11y-bouncekeys.page:52 C/a11y-slowkeys.page:54 C/a11y-stickykeys.page:58
 msgid ""
 "Press <gui>Typing Assist (AccessX)</gui> in the <gui>Typing</gui> section."
 msgstr "Nhấn <gui>Trợ giúp Gõ nhập (AccessX)</gui> trong phần <gui>Gõ nhập</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-bouncekeys.page:57
+#: C/a11y-bouncekeys.page:56
 msgid "Switch <gui>Bounce Keys</gui> to <gui>On</gui>."
 msgstr "Chuyển <gui>Phím Nảy</gui> sang chế độ <gui>Bật</gui>."
 
 #. (itstool) path: note/title
-#: C/a11y-bouncekeys.page:62
+#: C/a11y-bouncekeys.page:61
 msgid "Quickly turn bounce keys on and off"
 msgstr "Bật hoặc tắt phím dội nhanh"
 
 #. (itstool) path: note/p
-#: C/a11y-bouncekeys.page:63
+#: C/a11y-bouncekeys.page:62
 msgid ""
 "You can turn bounce keys on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar at the bottom of your "
@@ -196,7 +196,7 @@ msgid ""
 msgstr "Bạn có thể bật và tắt phím nảy bằng cách bấm vào <link xref=\"a11y-icon\">biểu tượng hỗ trợ truy cấp</link> trên thanh công cụ ở dưới cùng màn hình và chọn <gui>Phím Nảy</gui>. Biểu tượng hỗ trợ truy cập hiển thị khi một hoặc nhiều cài đặt đã được bật trong bảng <gui>Truy cập Đa năng</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-bouncekeys.page:70
+#: C/a11y-bouncekeys.page:69
 msgid ""
 "Use the <gui>Acceptance delay</gui> slider to change how long bounce keys "
 "waits before it registers another key press after you pressed the key for "
@@ -251,7 +251,7 @@ msgid "To adjust the contrast of your window:"
 msgstr "Để điều chỉnh độ tương phản cho cửa sổ của bạn:"
 
 #. (itstool) path: item/p
-#: C/a11y-contrast.page:53
+#: C/a11y-contrast.page:51
 msgid "Switch <gui>High Contrast</gui> to <gui>ON</gui>."
 msgstr "Chuyển <gui>High Contrast</gui> (Độ tương phản Cao) thành <gui>ON</gui> (BẬT)."
 
@@ -285,19 +285,19 @@ msgid ""
 msgstr "Khi <gui>Hover Click</gui> được bật, bạn có thể dịch chuyển con trỏ của chuột trên một bộ điều chỉnh, rồi thả chuột ra và đợi một chút trước khi chuột sẽ nhấp vào nút đó cho bạn."
 
 #. (itstool) path: item/p
-#: C/a11y-dwellclick.page:58
+#: C/a11y-dwellclick.page:57
 msgid ""
 "Press <gui>Click Assistant</gui> in the <gui>Pointing and Clicking</gui> "
 "section."
 msgstr "Nhấn <gui>Click Assistant</gui> trong phần <gui>Pointing and Clicking</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-dwellclick.page:62
+#: C/a11y-dwellclick.page:61
 msgid "Switch <gui>Hover Click</gui> to <gui>On</gui>."
 msgstr " <gui>Bật</gui> tính năng <gui>Rê Chuột</gui>"
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:66
+#: C/a11y-dwellclick.page:65
 msgid ""
 "The <gui>Hover Click</gui> window will open, and will stay above all of your"
 " other windows. You can use this to choose what sort of click should happen "
@@ -307,7 +307,7 @@ msgid ""
 msgstr "Cửa sổ <gui>Phủ bóng nhấn</gui> sẽ mở ra và ở đó đến khi bạn đóng mọi cửa sổ khác. Bạn có thể chọn loại nhấn bạn muốn. Ví dụ, nếu bạn chọn <gui>Nhấn lần hai</gui>, bạn sẽ nhấp phải khi dừng chuột. Sau khi bạn nhấp đúp, nhấn chuột phải, hoặc kéo, bạn sẽ tự động quay về nhấn bình thường."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:72
+#: C/a11y-dwellclick.page:71
 msgid ""
 "When you hover your mouse pointer over a button and do not move it, it will "
 "gradually change color. When it has fully changed color, the button will be "
@@ -315,14 +315,14 @@ msgid ""
 msgstr "Khi bạn lượn con trỏ chuột phía trên một nút và không dịch chuyển, nút đó sẽ dần đổi màu. Khi nút đã đổi màu xong, chuột sẽ nhấp vào nút đó."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:76
+#: C/a11y-dwellclick.page:75
 msgid ""
 "Adjust the <gui>Delay</gui> setting to change how long you have to hold the "
 "mouse pointer still before clicking."
 msgstr "Điều chỉnh thiết lập <gui>Khoảng chờ</gui> để xác định phải giữ yên chuột bao lâu trước khi nhấn."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:79
+#: C/a11y-dwellclick.page:78
 msgid ""
 "You do not need to hold the mouse perfectly still when hovering to click. "
 "The pointer is allowed to move a little bit and will still click after a "
@@ -330,7 +330,7 @@ msgid ""
 msgstr "Bạn không phải giữ chuột hoàn toàn bất động khi lượn để nhấp chuột. Con trỏ được phép dịch chuyển một chút và sau một lúc, nó sẽ nhấp. Nhưng nếu dịch chuyển quá nhiều, chuột sẽ không nhấp."
 
 #. (itstool) path: page/p
-#: C/a11y-dwellclick.page:83
+#: C/a11y-dwellclick.page:82
 msgid ""
 "Adjust the <gui>Motion threshold</gui> setting to change how much the "
 "pointer can move and still be considered to be hovering."
@@ -354,14 +354,14 @@ msgid ""
 msgstr "Nếu bạn gặp khó khăn khi đọc chữ trên màn hình, bạn có thể thay đổi kích thước phông chữ."
 
 #. (itstool) path: item/p
-#: C/a11y-font-size.page:47
+#: C/a11y-font-size.page:46
 msgid ""
 "Switch <gui>Large Text</gui> to <gui>On</gui> in the <gui>Seeing</gui> "
 "section."
 msgstr "Đổi sang <gui>Chữ lớn</gui> bằng cách chọn <gui>Bật</gui> trong mục <gui>Nhìn</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-font-size.page:52
+#: C/a11y-font-size.page:51
 msgid ""
 "Alternatively, you can quickly change the text size by clicking the <link "
 "xref=\"a11y-icon\">accessibility icon</link> on the task bar and selecting "
@@ -369,7 +369,7 @@ msgid ""
 msgstr "Hoặc bạn có thể thay đổi nhanh cỡ chữ bằng cách nhấn vào <link xref=\"a11y-icon\">biểu tượng khả năng truy cập</link> trên thanh tác vụ và chọn <gui>Chữ lớn</gui>."
 
 #. (itstool) path: note/p
-#: C/a11y-font-size.page:57
+#: C/a11y-font-size.page:56
 msgid ""
 "In many applications, you can increase the text size at any time by pressing"
 " <keyseq><key>Ctrl</key><key>+</key></keyseq>. To reduce the text size, "
@@ -409,12 +409,12 @@ msgid ""
 msgstr "Nếu bạn không thấy danh mục truy cập chung, bạn có thể bật danh mục này lên từ bảng cài đặt <gui>Universal Access</gui>:"
 
 #. (itstool) path: item/p
-#: C/a11y-icon.page:44
+#: C/a11y-icon.page:42
 msgid "Click <gui>Universal Access</gui>."
 msgstr "Bấm <gui>Truy cập Đa năng</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-icon.page:47
+#: C/a11y-icon.page:45
 msgid "Switch <gui>Always Show Universal Access Menu</gui> to <gui>On</gui>."
 msgstr " <gui>Bật</gui> tính năng <gui>Luôn Hiển thị Menu Truy cập Đa năng</gui>"
 
@@ -438,17 +438,17 @@ msgid ""
 msgstr "Phóng to màn hình khác với việc chỉ làm <link xref=\"a11y-font-size\">text size</link> lớn hơn. Chức năng này giống như dùng kính lúp, cho phép bạn di chuyển khắp xung quanh nhờ việc phóng to các phần của màn hình."
 
 #. (itstool) path: item/p
-#: C/a11y-mag.page:49
+#: C/a11y-mag.page:48
 msgid "Press on <gui>Zoom</gui> in the <gui>Seeing</gui> section."
 msgstr "Nhấp vào <gui>Phóng to</gui> tại mục <gui>Xem</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-mag.page:52
+#: C/a11y-mag.page:51
 msgid "Switch <gui>Zoom</gui> to <gui>On</gui>."
 msgstr "Chuyển trạng thái nút <gui>Thu phóng</gui> (Zoom) thành <gui>Bật</gui> (On)."
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:62
+#: C/a11y-mag.page:61
 msgid ""
 "You can now move around the screen area. By moving your mouse to the edges "
 "of the screen, you will move the magnified area in different directions, "
@@ -456,7 +456,7 @@ msgid ""
 msgstr "Bây giờ bạn có thể di chuyển xung quanh vùng màn hình. Bằng việc di chuột ra các rìa màn hình, bạn sẽ dịch chuyển vùng phóng to theo các hướng khác nhau, giúp bạn xem được vùng bạn chọn."
 
 #. (itstool) path: note/p
-#: C/a11y-mag.page:67
+#: C/a11y-mag.page:66
 msgid ""
 "You can quickly turn zoom on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting "
@@ -464,7 +464,7 @@ msgid ""
 msgstr "Bạn có thể nhanh chóng bật hoặc tắt tính năng thu phóng bằng cách nhấp vào <link xref=\"a11y-icon\">biểu tượng hỗ trợ truy cập</link> trên thanh tác vụ và chọn <gui>Thu phóng</gui> (Zoom)."
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:72
+#: C/a11y-mag.page:71
 msgid ""
 "You can change the magnification factor, the mouse tracking, and the "
 "position of the magnified view on the screen. Adjust these in the "
@@ -472,7 +472,7 @@ msgid ""
 msgstr "Bạn có thể thay đổi hệ số phóng đại, đường chạy của chuột, và vị trí xem phóng đại trên màn hình. Điều chỉnh những đặc điểm này tại thẻ <gui>Magnifier</gui> trong cửa sổ cài đặt <gui>Zoom</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:76
+#: C/a11y-mag.page:75
 msgid ""
 "You can activate crosshairs to help you find the mouse or touchpad pointer. "
 "To switch them on and adjust their length, color, and thickness, go to "
@@ -481,7 +481,7 @@ msgid ""
 msgstr "Bạn có thể kích hoạt chế độ crosshair (dấu chữ thập) để giúp bạn tìm con chuột hay con trỏ của bàn di chuột. Để bật các crosshair và điều chỉnh độ dài, màu sắc cũng như độ đậm nhạt của chúng, hãy vào mục <gui>Crosshairs</gui> trong thanh tab <gui>Crosshairs</gui> của cửa sổ cài đặt <gui>Thu phóng</gui> (Zoom)."
 
 #. (itstool) path: page/p
-#: C/a11y-mag.page:81
+#: C/a11y-mag.page:80
 msgid ""
 "You can switch to inverse video or <gui>White on black</gui>, and adjust "
 "brightness, contrast and greyscale options for the magnifier. The "
@@ -518,26 +518,26 @@ msgid ""
 msgstr "Bạn có thể nhấp chuột phải bằng cách giữ nút chuột trái. Điều này rất hữu ích nếu bạn thấy khó khăn khi di chuyển các ngón tay của bạn một cách riêng biệt trên một bàn tay, hoặc nếu thiết bị trỏ của bạn chỉ có một nút duy nhất."
 
 #. (itstool) path: item/p
-#: C/a11y-right-click.page:53
+#: C/a11y-right-click.page:52
 msgid ""
 "Press <gui>Click Assist</gui> in the <gui>Pointing and Clicking</gui> "
 "section."
 msgstr "Nhấn <gui>Click Assit</gui> trong phần <gui>Pointing and Clicking</gui>."
 
 #. (itstool) path: item/p
-#: C/a11y-right-click.page:58
+#: C/a11y-right-click.page:57
 msgid "Switch <gui>Simulated Secondary Click</gui> to <gui>On</gui>."
 msgstr "Chuyển <gui>Simulated Secondary Click</gui> (Mô phỏng Nhấp chuột Thứ cấp) sang chế độ <gui>On</gui> (Bật)."
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:63
+#: C/a11y-right-click.page:62
 msgid ""
 "You can change how long you must hold down the left mouse button before it "
 "is registered as a right click by changing the <gui>Acceptance delay</gui>."
 msgstr "Bạn có thể thay đổi khoảng thời gian bạn phải giữ nút chuột trái trước khi được đăng ký là nhấp chuột phải bằng cách thay đổi <gui>Acceptance delay</gui> (Độ trễ tiếp nhận)."
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:67
+#: C/a11y-right-click.page:66
 msgid ""
 "To right-click with simulated secondary click, hold down the left mouse "
 "button where you would normally right-click, then release. The pointer fills"
@@ -546,7 +546,7 @@ msgid ""
 msgstr "Để nhấp chuột phải với cú nhấp thứ cấp mô phỏng, nhấn giữ nút chuột trái ở vị trí bạn bình thường sẽ nhấp chuột phải, sau đó thả ra.  Con trỏ sẽ được tô màu xanh dương khi bạn nhấn giữ nút chuột trái. Khi con trỏ hoàn toàn chuyển màu xanh dương, bạn thả nút chuột để thực hiện nhấp chuột phải."
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:72
+#: C/a11y-right-click.page:71
 msgid ""
 "Some special pointers, such as the resize pointers, do not change colors. "
 "You can still use simulated secondary click as normal, even if you don't get"
@@ -554,7 +554,7 @@ msgid ""
 msgstr "Một số con trỏ đặc biệt không thay đổi màu sắc, chẳng hạn như con trỏ thay đổi kích thước. Bạn vẫn có thể sử dụng cái nhấp chuột thứ cấp mô phỏng như bình thường, ngay cả khi bạn không nhận thấy phản hồi trực quan từ con trỏ."
 
 #. (itstool) path: page/p
-#: C/a11y-right-click.page:76
+#: C/a11y-right-click.page:75
 msgid ""
 "If you use <link xref=\"mouse-mousekeys\">Mouse Keys</link>, this also "
 "allows you to right-click by holding down the <key>5</key> key on your "
@@ -603,17 +603,17 @@ msgid ""
 msgstr "Bật <em>slow keys</em> (phím chậm) nếu bạn muốn có độ trễ giữa nhấn phím và hiển thị chữ cái đó trên màn hình. Điều này có nghĩa rằng bạn phải giữ mỗi phím mà bạn muốn gõ trong một lúc trước khi nó xuất hiện. Sử dụng phím chậm nếu bạn vô tình nhấn một vài phím cùng một thời điểm khi bạn gõ, hoặc nếu bạn cảm thấy khó khăn khi nhấn đúng phím ngay lần đầu tiên trên bàn phím."
 
 #. (itstool) path: item/p
-#: C/a11y-slowkeys.page:59
+#: C/a11y-slowkeys.page:58
 msgid "Switch <gui>Slow Keys</gui> to <gui>On</gui>."
 msgstr "<gui>Bật </gui> <gui>Phím Chậm</gui>."
 
 #. (itstool) path: note/title
-#: C/a11y-slowkeys.page:64
+#: C/a11y-slowkeys.page:63
 msgid "Quickly turn slow keys on and off"
 msgstr "Bật tắt nhanh phím chập"
 
 #. (itstool) path: note/p
-#: C/a11y-slowkeys.page:65
+#: C/a11y-slowkeys.page:64
 msgid ""
 "Under <gui>Enable by Keyboard</gui>, select <gui>Turn on accessibility "
 "features from the keyboard</gui> to turn slow keys on and off from the "
@@ -622,7 +622,7 @@ msgid ""
 msgstr "Trong phần <gui>Bật bằng bàn phím</gui>, chọn <gui>Bật các tính năng về khả năng truy cập từ bàn phím</gui> để bật và tắt phím chậm bằng bàn phím. Khi tùy chọn này đã được chọn, bạn có thể nhấn và giữ <key>Shift</key> trong tám giây để bật hoặc tắt các phím chậm."
 
 #. (itstool) path: note/p
-#: C/a11y-slowkeys.page:70
+#: C/a11y-slowkeys.page:69
 msgid ""
 "You can also turn slow keys on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting <gui>Slow "
@@ -631,14 +631,14 @@ msgid ""
 msgstr "Bạn cũng có thể bật và tắt phím chậm bằng cách bấm vào <link xref=\"a11y-icon\">biểu tượng hỗ trợ truy cập</link> trên thanh cộng cụ và chọn <gui>Phím Chậm</gui>. Biểu tượng hỗ trợ truy cấp hiển thị khi một hoặc nhiều cài đặt đã được bật trong bảng <gui>Truy cập Đa năng</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-slowkeys.page:77
+#: C/a11y-slowkeys.page:76
 msgid ""
 "Use the <gui>Acceptance delay</gui> slider to control how long you have to "
 "hold a key down for it to register."
 msgstr "Sử dụng thanh trượt <gui>Khoảng trễ chấp nhận</gui> để điều khiển thời lượng bạn phải nhấn giữ một phím để phím đó được ghi nhận."
 
 #. (itstool) path: page/p
-#: C/a11y-slowkeys.page:80
+#: C/a11y-slowkeys.page:79
 msgid ""
 "You can have your computer make a sound when you press a key, when a key "
 "press is accepted, or when a key press is rejected because you didn't hold "
@@ -676,17 +676,17 @@ msgid ""
 msgstr "Bạn có thể muốn bật phím dính nếu bạn cảm thấy khó khăn để giữ nhiều phím cùng một lúc."
 
 #. (itstool) path: item/p
-#: C/a11y-stickykeys.page:63
+#: C/a11y-stickykeys.page:62
 msgid "Switch <gui>Sticky Keys</gui> to <gui>On</gui>."
 msgstr "Chuyển trạng thái tính năng <gui>Phím dính</gui> (Sticky Keys) thành <gui>Bật</gui> (On)."
 
 #. (itstool) path: note/title
-#: C/a11y-stickykeys.page:68
+#: C/a11y-stickykeys.page:67
 msgid "Quickly turn sticky keys on and off"
 msgstr "Bật tắt nhanh phím dính"
 
 #. (itstool) path: note/p
-#: C/a11y-stickykeys.page:69
+#: C/a11y-stickykeys.page:68
 msgid ""
 "Under <gui>Enable by Keyboard</gui>, select <gui>Turn on accessibility "
 "features from the keyboard</gui> to turn sticky keys on and off from the "
@@ -695,7 +695,7 @@ msgid ""
 msgstr "Trong phần <gui>Bật bằng bàn phím</gui>, chọn <gui>Bật các tính năng về khả năng truy cập từ bàn phím</gui> để bật và tắt phím dính bằng bàn phím. Khi tùy chọn này đã được chọn, bạn có thể nhấn <key>Shift</key> năm lần liên tiếp để bật hoặc tắt các phím dính."
 
 #. (itstool) path: note/p
-#: C/a11y-stickykeys.page:74
+#: C/a11y-stickykeys.page:73
 msgid ""
 "You can also turn sticky keys on and off by clicking the <link xref=\"a11y-"
 "icon\">accessibility icon</link> on the task bar and selecting <gui>Sticky "
@@ -704,14 +704,14 @@ msgid ""
 msgstr "Bạn cũng có thể bật và tắt phím dính bằng cách bấm vào <link xref=\"a11y-icon\">biểu tượng hỗ trợ truy cập</link> ở thanh công cụ và chọn <gui>Phím Dính</gui>. Biểu tượng hỗ trợ truy cập hiển thị khi một hoặc nhiều cài đặt đã được bật trong bảng <gui>Truy cập Đa năng</gui>."
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:81
+#: C/a11y-stickykeys.page:80
 msgid ""
 "If you press two keys at once, you can have sticky keys turn itself off "
 "temporarily to let you enter a keyboard shortcut in the normal way."
 msgstr "Nếu bạn nhấn hai phím cùng một lúc, bạn có thể tạm thời tắt tiện ích phím dính đi để cho phép bạn nhập một lối tắt bàn phím theo cách thông thường."
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:84
+#: C/a11y-stickykeys.page:83
 msgid ""
 "For example, if you have sticky keys turned on but press <key>Super</key> "
 "and <key>Tab</key> simultaneously, sticky keys would not wait for you to "
@@ -722,13 +722,13 @@ msgid ""
 msgstr "Ví dụ, nếu bạn đã bật tính năng sticky keys (gõ lần lượt các phím trong tổ hợp phím tắt) nhưng bạn lại nhấn đồng thời các phím <key>Super</key> và <key>Tab</key>, stickey keys sẽ không chờ bạn nhấn phím khác nếu bạn đã bật tùy chọn này. Tuy nhiên, nó <em>sẽ</em> đợi nếu bạn chỉ nhấn một phím. Điều này sẽ hữu ích nếu bạn có thể nhấn đồng thời một vài tổ hợp phím tắt (ví dụ, các phím gần nhau) nhưng sẽ không hữu dụng đối với các trường hợp khác."
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:91
+#: C/a11y-stickykeys.page:90
 msgid ""
 "Select <gui>Disable if two keys are pressed together</gui> to enable this."
 msgstr "Chọn <gui>Vô hiệu hóa nếu hai phím được nhấn cùng nhau</gui> để bật tính năng này."
 
 #. (itstool) path: page/p
-#: C/a11y-stickykeys.page:94
+#: C/a11y-stickykeys.page:93
 msgid ""
 "You can have the computer make a \"beep\" sound when you start typing a "
 "keyboard shortcut with sticky keys turned on. This is useful if you want to "
@@ -767,24 +767,24 @@ msgid ""
 msgstr "Điều này cũng có thể hữu ích nếu bạn đang ở môi trường cần đặt chế độ im lặng cho máy tính của bạn, chẳng hạn như tại thư viện. Xem <link xref=\"sound-alert\"/> để tìm hiểu cách tắt âm thông báo, sau đó bật thông báo trực quan."
 
 #. (itstool) path: item/p
-#: C/a11y-visualalert.page:54
+#: C/a11y-visualalert.page:53
 msgid "Press <gui>Visual Alerts</gui> in the <gui>Hearing</gui> section."
 msgstr "Nhấn vào <gui>Cảnh báo Trực quan</gui> (Visual Alerts) trong mục <gui>Nghe</gui> (Hearing)."
 
 #. (itstool) path: item/p
-#: C/a11y-visualalert.page:57
+#: C/a11y-visualalert.page:56
 msgid "Switch <gui>Visual Alerts</gui> to <gui>On</gui>."
 msgstr "Chuyển <gui>Visual Alerts</gui> (Cảnh báo Ảo) sang <gui>On</gui> (Bật)."
 
 #. (itstool) path: item/p
-#: C/a11y-visualalert.page:60
+#: C/a11y-visualalert.page:59
 msgid ""
 "Select whether you want the entire screen or just your current window title "
 "to flash."
 msgstr "Chọn toàn bộ màn hình hoặc chỉ tiêu đề của cửa sổ hiện tại nhấp nháy."
 
 #. (itstool) path: note/p
-#: C/a11y-visualalert.page:66
+#: C/a11y-visualalert.page:65
 msgid ""
 "You can quickly turn visual alerts on and off by clicking the <link xref"
 "=\"a11y-icon\">accessibility icon</link> on the task bar and selecting "
@@ -849,23 +849,27 @@ msgstr "Jim Campbell"
 
 #. (itstool) path: credit/name
 #: C/accounts-add.page:21 C/backup-why.page:11
-#: C/files-microsoft-compatible.page:11 C/files-save.page:10
-#: C/files-zip.page:10 C/keyboard-es-accent.page:10 C/look-background.page:45
+#: C/bluetooth-remove-connection.page:29 C/bluetooth-send-file.page:28
+#: C/bluetooth-turn-on-off.page:28 C/clock-set.page:21
+#: C/clock-timezone.page:25 C/files-microsoft-compatible.page:11
+#: C/files-save.page:10 C/files-zip.page:10 C/look-background.page:45
 #: C/media-import-from-device.page:11 C/media-listen-music.page:11
 #: C/media-play-videos.page:11 C/mouse-when-right-click.page:11
 #: C/net-3g-dongles.page:10 C/net-create-email.page:10
 #: C/net-discover-websites.page:11 C/net-installing-other-browsers.page:10
-#: C/net-read-news.page:11 C/net-social-bar.page:11 C/net-troubleshoot.page:9
+#: C/net-troubleshoot.page:9 C/net-wireless-hidden.page:25
 #: C/printing-from-applications.page:10 C/printing-setup.page:33
 #: C/printing-supported.page:11 C/security-and-privacy.page:8
 #: C/security-data-collection.page:10 C/security-guard-privacy.page:10
-#: C/security-understand-password.page:11 C/sharing-media.page:16
+#: C/security-understand-password.page:11 C/session-language.page:31
+#: C/sharing-bluetooth.page:16 C/sharing-media.page:16
 #: C/shell-add-desktop-folder.page:11 C/shell-apps-close.page:11
 #: C/shell-apps-open.page:25 C/shell-delete-app-desktop.page:11
-#: C/shell-download-media.page:10 C/shell-install-ext-apps.page:10
+#: C/shell-exit.page:30 C/shell-install-ext-apps.page:10
+#: C/shell-introduction.page:26 C/shell-notifications.page:26
 #: C/shell-organize-apps.page:10 C/shell-update-app.page:11
 #: C/shell-update-system.page:11 C/shell-windows-hide.page:11
-#: C/sound-troubleshoot.page:10
+#: C/user-add.page:30
 msgid "Nuritzi Sanchez"
 msgstr "Nuritzi Sanchez"
 
@@ -889,29 +893,29 @@ msgid ""
 msgstr "Bạn có thể liên kết một số tài khoản trực tuyến yêu thích của mình, giống như email của bạn, để các ứng dụng có liên quan sẽ được thiết lập sẵn trước khi bạn mở chúng."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:42
+#: C/accounts-add.page:40
 msgid "Click on <gui>Online Accounts</gui>."
 msgstr "Nhấp vào <gui>Tài khoản trực tuyến</gui>."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:46
+#: C/accounts-add.page:44
 msgid "Click the <gui>Add an online account</gui> button."
 msgstr "Nhấp vào nút <gui>Thêm một tài khoản trực tuyến</gui>."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:50
+#: C/accounts-add.page:48
 msgid "Select the type of account you want to add first."
 msgstr "Trước hết, hãy chọn loại tài khoản bạn muốn thêm vào."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:51
+#: C/accounts-add.page:49
 msgid ""
 "If you want to add more than one account type, you can do so at a later "
 "time."
 msgstr "Nếu muốn thêm nhiều loại tài khoản, bạn có thể làm vào lúc khác."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:56
+#: C/accounts-add.page:54
 msgid ""
 "A small window will open where you can enter your online account "
 "credentials. For example, if you are setting up a Google account, enter your"
@@ -919,14 +923,14 @@ msgid ""
 msgstr "Một cửa sổ nhỏ sẽ mở ra và bạn có thể nhập thông tin đăng nhập tài khoản trực tuyến của mình. Ví dụ, nếu bạn đang thiết lập tài khoản Google, hãy nhập tên người dùng và mật khẩu Google của bạn."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:61
+#: C/accounts-add.page:59
 msgid ""
 "If you have entered your credentials correctly, you will be prompted to "
 "allow Endless access to your online account. Authorize access to continue."
 msgstr "Nếu bạn đã nhập đúng thông tin đăng nhập của mình, bạn sẽ được nhắc cho phép Endless truy cập tài khoản trực tuyến của bạn. Cho phép truy cập để tiếp tục."
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:66
+#: C/accounts-add.page:64
 msgid ""
 "Select the applications that you want linked to your online account. For "
 "example, if you want to use an online account for email, but do not want to "
@@ -935,14 +939,14 @@ msgid ""
 msgstr "Chọn các ứng dụng bạn muốn liên kết với tài khoản trực tuyến của mình. Ví dụ, nếu bạn muốn dùng tài khoản trực tuyến cho email nhưng không muốn dùng tài khoản trực tuyến cho lịch của bạn, hãy chỉnh chế độ tùy chọn <gui>Lịch</gui> thành <gui>Tắt</gui>."
 
 #. (itstool) path: page/p
-#: C/accounts-add.page:74
+#: C/accounts-add.page:72
 msgid ""
 "After you have added the accounts, each application that you have selected "
 "will automatically use those credentials when you start them."
 msgstr "Sau khi bạn đã thêm tài khoản, mỗi ứng dụng bạn chọn sẽ tự động dùng chứng nhận khi khởi động."
 
 #. (itstool) path: note/p
-#: C/accounts-add.page:78
+#: C/accounts-add.page:76
 msgid ""
 "For security reasons, Endless will not store your password on your computer."
 " Instead, it stores a token that is provided by the online service."
@@ -1355,28 +1359,28 @@ msgid ""
 msgstr "Trước khi bạn có thể sử dụng một thiết bị Bluetooth như chuột hoặc tai nghe, bạn cần kết nối máy tính với thiết bị đó. Việc này còn được gọi là ghép nối các thiết bị Bluetooth."
 
 #. (itstool) path: note/p
-#: C/bluetooth-connect-device.page:41 C/bluetooth-send-file.page:46
+#: C/bluetooth-connect-device.page:41 C/bluetooth-send-file.page:50
 msgid ""
 "Before you begin, make sure Bluetooth is enabled on your computer. See <link"
 " xref=\"bluetooth-turn-on-off\"/>."
 msgstr "Trước khi bắt đầu, hãy đảm bảo Bluetooth trên máy tính của bạn đã được bật. Xem <link xref=\"bluetooth-turn-on-off\"/>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:53 C/bluetooth-remove-connection.page:51
-#: C/bluetooth-send-file.page:58 C/bluetooth-turn-on-off.page:51
+#: C/bluetooth-connect-device.page:51 C/bluetooth-remove-connection.page:53
+#: C/bluetooth-send-file.page:60 C/bluetooth-turn-on-off.page:53
 #: C/bluetooth-turn-on-off.page:67
 msgid "Click <gui>Bluetooth</gui>."
 msgstr "Nhấp chuột vào <gui>Bluetooth</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:56
+#: C/bluetooth-connect-device.page:54
 msgid ""
 "Make the other Bluetooth device discoverable or visible and place it within "
 "10 meters (about 33 feet) of your computer."
 msgstr "Để thiết bị Bluetooth kia có thể được tìm thấy hoặc hiện ra và đặt nó trong vòng 10 mét (khoảng 33 fút) từ máy tính của bạn."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:60
+#: C/bluetooth-connect-device.page:58
 msgid ""
 "Click <key>+</key> below the <gui>Devices</gui> list. The <gui>Bluetooth New"
 " Device Setup</gui> panel will open and your computer will begin searching "
@@ -1384,7 +1388,7 @@ msgid ""
 msgstr "Nhấp <key>+</key> dưới danh sách <gui>Devices</gui>. Bảng <gui>Bluetooth New Device Setup</gui> sẽ mở ra và máy tính của bạn sẽ bắt đầu tìm kiếm các thiết bị."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:65
+#: C/bluetooth-connect-device.page:63
 msgid ""
 "Select a device in the <gui>Device</gui> list. If there are too many devices"
 " listed, use the <gui>Device type</gui> drop-down to display only a single "
@@ -1392,14 +1396,14 @@ msgid ""
 msgstr "Chọn một thiết bị trong danh sách <gui>Thiết bị</gui>. Nếu có quá nhiều thiết bị trong danh sách, hãy sử dụng danh sách thả xuống <gui>Loại thiết bị</gui> để chỉ hiển thị một loại thiết bị trong danh sách."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:70
+#: C/bluetooth-connect-device.page:68
 msgid ""
 "Click <gui>PIN options</gui> to set how a PIN will be delivered to the other"
 " device."
 msgstr "Bấm vào <gui>tùy chọn PIN</gui> để thiết lập cách chuyển giao PIN đến thiết bị khác."
 
 #. (itstool) path: note/p
-#: C/bluetooth-connect-device.page:73
+#: C/bluetooth-connect-device.page:71
 msgid ""
 "The automatic PIN setting will use a six-digit numerical code. A device with"
 " no input keys or screen, such as a mouse or headset, may require a specific"
@@ -1408,21 +1412,21 @@ msgid ""
 msgstr "Chế độ cài đặt mã PIN tự động sẽ dùng một mã số gồm sáu chữ số. Thiết bị không có phím nhập liệu hoặc màn hình, như chuột hoặc tai nghe, có thể cần mã PIN cụ thể như 0000, hoặc không cần mã PIN. Xem hướng dẫn sử dụng thiết bị để cài đặt phù hợp."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:78
+#: C/bluetooth-connect-device.page:76
 msgid ""
 "Choose an appropriate PIN setting for your device, then click "
 "<gui>Close</gui>."
 msgstr "Chọn một cài đặt PIN thích hợp cho thiết bị của bạn, rồi bấm <gui>Đóng</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:82
+#: C/bluetooth-connect-device.page:80
 msgid ""
 "Click <gui>Continue</gui> to proceed. If you did not choose a preset PIN, "
 "the PIN will be displayed on the screen."
 msgstr "Nhấp <gui>Continue</gui> để tiếp tục. Nếu bạn chưa chọn một PIN định trước, PIN sẽ hiện ra trên màn hình."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:86
+#: C/bluetooth-connect-device.page:84
 msgid ""
 "If required, confirm the PIN on your other device. The device should show "
 "you the PIN you see on your computer screen, or may prompt you to enter the "
@@ -1430,7 +1434,7 @@ msgid ""
 msgstr "Xác nhận mã PIN trên thiết bị khác của bạn nếu cần. Thiết bị sẽ hiển thị mã PIN mà bạn nhìn thấy trên màn hình máy tính, hoặc nhắc bạn nhập mã PIN. Xác nhận mã PIN trên thiết bị, rồi nhấp vào <gui>Kết quả trùng khớp</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:90
+#: C/bluetooth-connect-device.page:88
 msgid ""
 "You need to finish your entry within about 20 seconds on most devices, or "
 "the connection will not be completed. If that happens, return to the device "
@@ -1438,14 +1442,14 @@ msgid ""
 msgstr "Bạn cần hoàn thiện nội dung nhập trong vòng khoảng 20 giây trên hầu hết các thiết bị, nếu không thì kết nối sẽ không được hoàn tất. Nếu điều đó xảy ra, hãy quay lại danh sách thiết bị và bắt đầu lại."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:93
+#: C/bluetooth-connect-device.page:91
 msgid ""
 "A message appears when the connection successfully completes. Click "
 "<gui>Close</gui>."
 msgstr "Một thông báo xuất hiện khi kết nối hoàn tất thành công. Bấm vào <gui>Đóng</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-connect-device.page:97
+#: C/bluetooth-connect-device.page:95
 msgid ""
 "The <gui>Setup Summary</gui> appears when the connection successfully "
 "completes. It may display additional options applicable to the type of "
@@ -1454,14 +1458,14 @@ msgid ""
 msgstr "Bản <gui>Tóm tắt Thiết lập</gui> xuất hiện khi hoàn thành kết nối thành công. Nó có thể thể hiện các tùy chọn bổ sung áp dụng cho loại thiết bị bạn đang kết nối. Chọn tùy chọn bạn muốn và nhấp <gui>Thoát</gui>."
 
 #. (itstool) path: page/p
-#: C/bluetooth-connect-device.page:110
+#: C/bluetooth-connect-device.page:108
 msgid ""
 "You can <link xref=\"bluetooth-remove-connection\">remove a Bluetooth "
 "connection</link> later if desired."
 msgstr "Bạn có thể <link xref=\"bluetooth-remove-connection\">bỏ kết nối Bluetooth</link> sau nếu muốn."
 
 #. (itstool) path: note/p
-#: C/bluetooth-connect-device.page:115
+#: C/bluetooth-connect-device.page:113
 msgid ""
 "To control access to your shared files, refer to the <gui>Bluetooth "
 "Sharing</gui> settings. See <link xref=\"sharing-bluetooth\"/>."
@@ -1561,12 +1565,12 @@ msgid "2013"
 msgstr "2013"
 
 #. (itstool) path: page/title
-#: C/bluetooth-remove-connection.page:31
+#: C/bluetooth-remove-connection.page:35
 msgid "Remove a connection between Bluetooth devices"
 msgstr "Loại bỏ kết nỗi giữa hai thiết bị Bluetooth"
 
 #. (itstool) path: page/p
-#: C/bluetooth-remove-connection.page:33
+#: C/bluetooth-remove-connection.page:37
 msgid ""
 "If you don't want to be connected to a Bluetooth device anymore, you can "
 "remove the connection. This is useful if you no longer want to use a device "
@@ -1575,19 +1579,19 @@ msgid ""
 msgstr "Nếu bạn không muốn kết nối vào thiết bị Bluetooth nữa, bạn có thể gỡ kết nối. Điều này hữu ích nếu bạn không còn muốn sử dụng một thiết bị như chuột hay tai nghe hay nếu bạn không muốn chuyển tệp đến hoặc đi từ một thiết bị nữa."
 
 #. (itstool) path: item/p
-#: C/bluetooth-remove-connection.page:54
+#: C/bluetooth-remove-connection.page:56
 msgid ""
 "Select the device you want to disconnect in the left pane, then click the "
 "<key>-</key> icon below the list."
 msgstr "Chọn thiết bị bạn muốn cắt kết nối trên ô bên trái, sau đó nhấp vào biểu tượng <key>-</key> dưới danh sách."
 
 #. (itstool) path: item/p
-#: C/bluetooth-remove-connection.page:58
+#: C/bluetooth-remove-connection.page:60
 msgid "Click <gui>Remove</gui> in the confirmation window."
 msgstr "Nhấn <gui>Loại bỏ</gui> trong cửa sổ xác nhận."
 
 #. (itstool) path: page/p
-#: C/bluetooth-remove-connection.page:62
+#: C/bluetooth-remove-connection.page:64
 msgid ""
 "You can <link xref=\"bluetooth-connect-device\">reconnect a Bluetooth "
 "device</link> later if desired."
@@ -1599,12 +1603,12 @@ msgid "Share files to Bluetooth devices such as your phone."
 msgstr "Chia sẻ tập tin đến thiết bị Bluetooth như điện thoại."
 
 #. (itstool) path: page/title
-#: C/bluetooth-send-file.page:31
+#: C/bluetooth-send-file.page:35
 msgid "Send files to a Bluetooth device"
 msgstr "Gửi tệp đến thiết bị Bluetooth "
 
 #. (itstool) path: page/p
-#: C/bluetooth-send-file.page:33
+#: C/bluetooth-send-file.page:37
 msgid ""
 "You can send files from your computer to other Bluetooth compatible devices,"
 " like some mobile phones, some speakers, or other computers. You can send "
@@ -1615,33 +1619,33 @@ msgid ""
 msgstr "Bạn có thể gửi các tập tin từ máy tính tới các thiết bị Bluetooth tương thích khác, như một số điện thoại di động, loa, hoặc máy tính khác. Bạn có thể gửi các tập tin bằng một trong ba cách: sử dụng biểu tượng Bluetooth trên thanh tác vụ, từ cửa sổ cài đặt Bluetooth, hoặc trực tiếp từ thư mục Tài liệu. Một số loại thiết bị không cho phép gửi tập tin, hoặc một số dạng tập tin nhất định, vì vậy bạn nên kiểm tra trước thiết bị của mình."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:61
+#: C/bluetooth-send-file.page:63
 msgid ""
 "In the <gui>Devices</gui> list, select the device to which to send the files"
 " to and click <gui>Send Files...</gui>."
 msgstr "Trong danh sách <gui>Thiết bị</gui>, chọn thiết bị nhận tập tin và nhấp <gui>Gửi tập tin...</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:63
+#: C/bluetooth-send-file.page:65
 msgid ""
 "If the desired device is not shown in the list, you need to <link xref"
 "=\"bluetooth-connect-device\">connect</link> to it."
 msgstr "Nếu trong danh sách không hiển thị thiết bị mong muốn, bạn cần <link xref=\"bluetooth-connect-device\">kết nối</link> đến thiết bị đó."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:67
+#: C/bluetooth-send-file.page:69
 msgid "Choose the file you want to send and click <gui>Select</gui>."
 msgstr "Chọn tập tin bạn muốn gửi và nhấn <gui>Gửi</gui>."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:68
+#: C/bluetooth-send-file.page:70
 msgid ""
 "To send more than one file in a folder, hold down <key>Ctrl</key> as you "
 "select each file."
 msgstr "Để gửi nhiều tập tin trong thư mục, nhấn giữ phím <key>Ctrl</key> khi chọn từng tập tin."
 
 #. (itstool) path: item/p
-#: C/bluetooth-send-file.page:72
+#: C/bluetooth-send-file.page:74
 msgid ""
 "The owner of the receiving device usually has to press a button to accept "
 "the file. Once the owner accepts or declines, the result of the file "
@@ -1654,29 +1658,29 @@ msgid "Enable or disable the Bluetooth device on your computer."
 msgstr "Bật tắt thiết bị Bluetooth trên máy tính."
 
 #. (itstool) path: page/title
-#: C/bluetooth-turn-on-off.page:30
+#: C/bluetooth-turn-on-off.page:34
 msgid "Turn Bluetooth on or off"
 msgstr "Bặt tắt Bluetooth"
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:40
+#: C/bluetooth-turn-on-off.page:44
 msgid ""
 "You can turn <gui>Bluetooth</gui> on to use Bluetooth devices and send and "
 "receive files, but turn it off to conserve power."
 msgstr "Bạn có thể bật <gui>Bluetooth</gui> để sử dụng các thiết bị Bluetooth và gửi, nhận các tập tin, nhưng hãy tắt nó đi để tiết kiệm năng lượng."
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:42
+#: C/bluetooth-turn-on-off.page:46
 msgid "To turn Bluetooth on:"
 msgstr "Để bật Bluetooth:"
 
 #. (itstool) path: item/p
-#: C/bluetooth-turn-on-off.page:54
+#: C/bluetooth-turn-on-off.page:56
 msgid "Set the switch in the titlebar to <gui>ON</gui>."
 msgstr "Thiết lập chuyển đổi trên thanh tiêu đề thành <gui>ON</gui> (BẬT)."
 
 #. (itstool) path: page/p
-#: C/bluetooth-turn-on-off.page:58
+#: C/bluetooth-turn-on-off.page:60
 msgid "To turn Bluetooth off:"
 msgstr "Để tắt Bluetooth:"
 
@@ -1729,39 +1733,40 @@ msgid ""
 msgstr "Bạn có thể bật Bluetooth để kết nối với các thiết bị có Bluetooth khác, hoặc bạn có thể tắt để tiết kiệm điện."
 
 #. (itstool) path: info/desc
-#: C/clock-set.page:23
+#: C/clock-set.page:27
 msgid ""
 "Click the clock on the task bar and go into the <gui>Date &amp; Time "
 "Settings</gui> to alter the date/time."
 msgstr "Nhấp vào mục đồng hồ trên thanh tác vụ và vào <gui>Cài đặt Ngày &amp; Giờ</gui> (Date &amp; Time Settings) để thay đổi ngày/giờ."
 
 #. (itstool) path: page/title
-#: C/clock-set.page:26
+#: C/clock-set.page:30
 msgid "Change the date and time"
 msgstr "Thay đổi ngày giờ"
 
 #. (itstool) path: page/p
-#: C/clock-set.page:28
+#: C/clock-set.page:32
 msgid ""
 "If your date and time is in the wrong format, you can change the settings:"
 msgstr "Nếu ngày và thời gian của bạn ở định dạng sai, bạn có thể thay đổi cài đặt:"
 
 #. (itstool) path: item/p
-#: C/clock-set.page:33
+#: C/clock-set.page:37 C/clock-timezone.page:38
 msgid ""
-"Click on the clock on the task bar at the bottom right of your screen and "
-"select <gui>Date &amp; Time Settings</gui>."
-msgstr "Nhấp vào đồng hồ trên thanh tác vụ nằm ở góc dưới bên phải màn hình của bạn và chọn <gui>Date &amp; Time Settings</gui>."
+"Type \"Date and Time\" into the <gui>global search bar</gui> on your "
+"desktop. Click on the resulting <app>Settings</app> icon, or press "
+"<key>Enter</key>, to open."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/clock-set.page:37 C/clock-timezone.page:38
+#: C/clock-set.page:41 C/clock-timezone.page:42
 msgid ""
 "If you have a standard account, you will need to click <gui>Unlock</gui> and"
 " type the <link xref=\"user-admin-explain\">administrator password</link>."
 msgstr "Nếu bạn có một tài khoản thông thường, bạn sẽ cần nhấp vào <gui>Unclock</gui> và gõ <link xref=\"user-admin-explain\">administrator password</link>."
 
 #. (itstool) path: item/p
-#: C/clock-set.page:42
+#: C/clock-set.page:46
 msgid ""
 "If you have an internet connection, you can set your date, time and time "
 "zone to update automatically by switching <gui>Automatic Date &amp; "
@@ -1769,7 +1774,7 @@ msgid ""
 msgstr "Nếu bạn có kết nối internet, bạn có thể đặt để ngày tháng, thời gian và múi giờ tự động cập nhật bằng việc chuyển từ <gui>Automatic Date &amp; Time</gui> và <gui>Automatic Time Zone</gui> sang <gui>On</gui>."
 
 #. (itstool) path: item/p
-#: C/clock-set.page:45
+#: C/clock-set.page:49
 msgid ""
 "If you do not have an internet connection, you can update these manually by "
 "switching them to <gui>Off</gui>, then clicking <gui>Date &amp; Time</gui> "
@@ -1777,32 +1782,25 @@ msgid ""
 msgstr "Nếu không có kết nối internet, bạn có thể tiến hành cập nhật thủ công bằng cách chuyển trạng thái của chúng thành <gui>Tắt</gui> (Off), sau đó nhấp vào <gui>Ngày và Giờ </gui> (Date &amp; Time ) và <gui>Múi giờ</gui> (Time Zone) để cập nhật."
 
 #. (itstool) path: item/p
-#: C/clock-set.page:50
+#: C/clock-set.page:54
 msgid ""
 "You can also change how the hour is displayed by selecting "
 "<gui>24-hour</gui> or <gui>AM/PM</gui> format."
 msgstr "Bạn cũng có thể thay đổi cách hiện giờ bằng việc lựa chọn dạng thức <gui>24-hour</gui> hay <gui>AM/PM</gui>."
 
 #. (itstool) path: info/desc
-#: C/clock-timezone.page:27
+#: C/clock-timezone.page:31
 msgid ""
 "Update your time zone to your current location so that your time is correct."
 msgstr "Cập nhật múi giờ vào vị trí hiện tại của bạn để có thời gian chính xác."
 
 #. (itstool) path: page/title
-#: C/clock-timezone.page:30
+#: C/clock-timezone.page:34
 msgid "Change your timezone"
 msgstr "Thay đổi múi giờ"
 
 #. (itstool) path: item/p
-#: C/clock-timezone.page:34
-msgid ""
-"Click on the clock on the task bar on the bottom right side of your screen "
-"and select <gui>Date &amp; Time Settings</gui>."
-msgstr "Bấm vào đồng hồ trên thanh công cụ ở phía dưới bên phải màn hình và chọn  <gui>Cài đặt Ngày và Thời gian</gui>."
-
-#. (itstool) path: item/p
-#: C/clock-timezone.page:43
+#: C/clock-timezone.page:47
 msgid ""
 "If you have <gui>Automatic Time Zone</gui> set to <gui>On</gui>, your time "
 "zone should update automatically if you have an internet connection. To "
@@ -1810,14 +1808,14 @@ msgid ""
 msgstr "Nếu <gui>Múi giờ tự động</gui> đang <gui>Bật</gui>, múi giờ của bạn sẽ tự động cập nhật nếu bạn kết nối internet. Để cập nhật múi giờ bằng tay, hãy <gui>Tắt</gui> tùy chọn này."
 
 #. (itstool) path: item/p
-#: C/clock-timezone.page:49
+#: C/clock-timezone.page:53
 msgid ""
 "Click <gui>Time Zone</gui>, then select your location on the map or search "
 "for your current city."
 msgstr "Nhấp vào <gui>Time Zone</gui>, sau đó lựa chọn địa điểm của bạn trên bản đồ hoặc tìm kiếm thành phố hiện tại của bạn."
 
 #. (itstool) path: page/p
-#: C/clock-timezone.page:54
+#: C/clock-timezone.page:58
 msgid ""
 "The time will be updated automatically when you select a different location."
 " You may also wish to <link xref=\"clock-set\">set the clock "
@@ -2170,12 +2168,11 @@ msgstr "Các tập tin bị xóa trên một <link xref=\"files-removedrive\">th
 
 #. (itstool) path: credit/name
 #: C/files-microsoft-compatible.page:15 C/files-save.page:14
-#: C/files-zip.page:14 C/keyboard-es-accent.page:14
-#: C/media-import-from-device.page:15 C/media-listen-music.page:15
-#: C/media-play-videos.page:15 C/mouse-when-right-click.page:15
-#: C/net-3g-dongles.page:14 C/net-create-email.page:14
-#: C/net-discover-websites.page:15 C/net-installing-other-browsers.page:14
-#: C/net-read-news.page:15 C/net-social-bar.page:15 C/net-troubleshoot.page:13
+#: C/files-zip.page:14 C/media-import-from-device.page:15
+#: C/media-listen-music.page:15 C/media-play-videos.page:15
+#: C/mouse-when-right-click.page:15 C/net-3g-dongles.page:14
+#: C/net-create-email.page:14 C/net-discover-websites.page:15
+#: C/net-installing-other-browsers.page:14 C/net-troubleshoot.page:13
 #: C/printing-from-applications.page:14 C/printing-supported.page:15
 #: C/security-and-privacy.page:12 C/security-data-collection.page:14
 #: C/security-guard-privacy.page:14 C/security-understand-password.page:15
@@ -2183,18 +2180,16 @@ msgstr "Các tập tin bị xóa trên một <link xref=\"files-removedrive\">th
 #: C/shell-delete-app-desktop.page:15 C/shell-install-ext-apps.page:14
 #: C/shell-organize-apps.page:14 C/shell-update-app.page:15
 #: C/shell-update-system.page:15 C/shell-windows-hide.page:15
-#: C/sound-troubleshoot.page:14
 msgid "Endless Mobile, Inc."
 msgstr "Endless Mobile, Inc."
 
 #. (itstool) path: credit/years
 #: C/files-microsoft-compatible.page:16 C/files-save.page:15
-#: C/files-zip.page:15 C/keyboard-es-accent.page:15
-#: C/media-import-from-device.page:16 C/media-listen-music.page:16
-#: C/media-play-videos.page:16 C/mouse-when-right-click.page:16
-#: C/net-3g-dongles.page:15 C/net-create-email.page:15
-#: C/net-discover-websites.page:16 C/net-installing-other-browsers.page:15
-#: C/net-read-news.page:16 C/net-social-bar.page:16 C/net-troubleshoot.page:14
+#: C/files-zip.page:15 C/media-import-from-device.page:16
+#: C/media-listen-music.page:16 C/media-play-videos.page:16
+#: C/mouse-when-right-click.page:16 C/net-3g-dongles.page:15
+#: C/net-create-email.page:15 C/net-discover-websites.page:16
+#: C/net-installing-other-browsers.page:15 C/net-troubleshoot.page:14
 #: C/printing-from-applications.page:15 C/printing-supported.page:16
 #: C/security-and-privacy.page:13 C/security-data-collection.page:15
 #: C/security-guard-privacy.page:15 C/security-understand-password.page:16
@@ -3263,8 +3258,10 @@ msgstr "Bắt đầu"
 
 #. (itstool) path: section/title
 #: C/index.page:20
-msgid "<link href=\"endlessm-app://com.endlessm.Tutorial\">Tutorial</link>"
-msgstr "<link href=\"endlessm-app://com.endlessm.Tutorial\">Hướng dẫn</link>"
+msgid ""
+"<link href=\"endlessm-app://eos-link-feedback.desktop\">Give Us "
+"Feedback</link>"
+msgstr ""
 
 #. (itstool) path: info/desc
 #: C/keyboard-cursor-blink.page:11
@@ -3304,68 +3301,20 @@ msgid ""
 msgstr "Nếu bạn thấy khó nhìn con trỏ của bàn phím trong một trường văn bản, bạn có thể làm cho nó nhấp nháy để bạn dễ thấy vị trí của nó hơn."
 
 #. (itstool) path: item/p
-#: C/keyboard-cursor-blink.page:49 C/keyboard-repeat-keys.page:52
+#: C/keyboard-cursor-blink.page:48 C/keyboard-repeat-keys.page:51
 msgid "Click on <gui>Keyboard</gui>."
 msgstr "Bấm vào <gui>Bàn phím</gui>."
 
 #. (itstool) path: item/p
-#: C/keyboard-cursor-blink.page:52
+#: C/keyboard-cursor-blink.page:51
 msgid "Select <gui>Cursor blinks in text fields</gui>."
 msgstr "Chọn <gui>Con trỏ chớp trong ô văn bản</gui>."
 
 #. (itstool) path: item/p
-#: C/keyboard-cursor-blink.page:54
+#: C/keyboard-cursor-blink.page:53
 msgid ""
 "Use the <gui>Speed</gui> slider to adjust how quickly the cursor blinks."
 msgstr "Dùng con trượt <gui>Tốc độ</gui> để điều chỉnh tốc độ chớp."
-
-#. (itstool) path: info/desc
-#: C/keyboard-es-accent.page:18
-msgid "Learn how to type accents with your keyboard."
-msgstr "TÌm hiểu cách gõ các dấu thanh bằng bàn phím."
-
-#. (itstool) path: page/title
-#: C/keyboard-es-accent.page:21
-msgid "Type Spanish language accents in Endless"
-msgstr "Gõ dấu tiếng Tây Ban Nha trong Endless"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:23
-msgid ""
-"It's easy to type accents on Endless - it is the same as most other "
-"platforms. On a Spanish Latin American keyboard, start by pressing the "
-"accute accent key and then the letter you'd like to accent:"
-msgstr "Không hề khó khi gõ dấu trọng âm trên Endless - nó cũng giống như hầu hết các nền tảng khác. Trên một bàn phím tiếng Tây Ban Nha khu vực Mỹ - La tinh, bắt đầu bằng cách nhấn phím dấu sắc rồi tiếp đến là chữ cái mà bạn muốn thêm dấu:"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:27
-msgid "<keyseq><key>`</key><key>a</key></keyseq> = á"
-msgstr "<keyseq><key>`</key><key>a</key></keyseq> = á"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:29
-msgid "<keyseq><key>`</key><key>e</key></keyseq> = é"
-msgstr "<keyseq><key>`</key><key>e</key></keyseq> = é"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:31
-msgid "<keyseq><key>`</key><key>i</key></keyseq> = í"
-msgstr "<keyseq><key>`</key><key>i</key></keyseq> = í"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:33
-msgid "<keyseq><key>`</key><key>o</key></keyseq> = ó"
-msgstr "<keyseq><key>`</key><key>o</key></keyseq> = ó"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:35
-msgid "<keyseq><key>`</key><key>u</key></keyseq> = ú"
-msgstr "<keyseq><key>`</key><key>u</key></keyseq> = ú"
-
-#. (itstool) path: page/p
-#: C/keyboard-es-accent.page:37
-msgid "<keyseq><key>\"</key><key>u</key></keyseq> = ü"
-msgstr "<keyseq><key>\"</key><key>u</key></keyseq> = ü"
 
 #. (itstool) path: credit/name
 #: C/keyboard-key-menu.page:12
@@ -3462,24 +3411,24 @@ msgid "To change which keys are used to display your open windows overview:"
 msgstr "Để thay đổi các phím nào được sử dụng để hiển thị tổng quan cửa sổ mở của bạn:"
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:57
+#: C/keyboard-key-super.page:55
 msgid "Click <gui>Keyboard</gui>."
 msgstr "Nhấn <gui>Bàn phím</gui>."
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:60
+#: C/keyboard-key-super.page:58
 msgid "Click the <gui style=\"tab\">Shortcuts</gui> tab."
 msgstr "Nhấp vào thẻ <gui style=\"tab\">Lối tắt</gui>."
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:63
+#: C/keyboard-key-super.page:61
 msgid ""
 "Select <gui>System</gui> on the left side of the window, and <gui>Show the "
 "activities overview</gui> on the right."
 msgstr "Chọn <gui>Hệ thống</gui> ở bên trái cửa sổ và <gui>Hiển thị tổng quan các hoạt động</gui> ở bên phải."
 
 #. (itstool) path: item/p
-#: C/keyboard-key-super.page:67
+#: C/keyboard-key-super.page:65
 msgid "Hold down the desired key combination."
 msgstr "Nhấn giữ tổ hợp phím mong muốn."
 
@@ -3510,36 +3459,36 @@ msgid ""
 msgstr "Bàn phím có hàng trăm bố trí khác nhau cho các ngôn ngữ khác nhau. Thậm chí một ngôn ngữ cũng có thể có nhiều bố trí bàn phím khác nhau, như Dvorak cho tiếng Anh. Bạn có thể biến bàn phím của bạn thành bàn phím với bột bố trí khác, bất kể tên phím in trên từng phím. Khá hữu dụng khi bạn phải thường xuyên chuyển đổi ngôn ngữ."
 
 #. (itstool) path: item/p
-#: C/keyboard-layouts.page:57 C/session-language.page:47
+#: C/keyboard-layouts.page:55 C/session-language.page:48
 msgid "Click on <gui>Region &amp; Language</gui>."
 msgstr "Nhấp vào <gui>Vùng &amp; Ngôn ngữ</gui>."
 
 #. (itstool) path: item/p
-#: C/keyboard-layouts.page:61
+#: C/keyboard-layouts.page:59
 msgid ""
 "Click the <key>+</key> button, select the language which is associated with "
 "the layout, then select a layout and press<gui>Add</gui>."
 msgstr "Nhấp vào nút <key>+</key>, chọn ngôn ngữ liên quan đến bố cục, sau đó chọn dạng bố cục và nhấn <gui>Add</gui> (Thêm)."
 
 #. (itstool) path: media/span
-#: C/keyboard-layouts.page:70 C/keyboard-layouts.page:76
+#: C/keyboard-layouts.page:68 C/keyboard-layouts.page:74
 msgid "preview"
 msgstr "xem trước"
 
 #. (itstool) path: note/p
-#: C/keyboard-layouts.page:68
+#: C/keyboard-layouts.page:66
 msgid ""
 "You can preview an image of any layout by selecting it in the list of "
 "<gui>Input Sources</gui> and clicking <gui><_:media-1/></gui>"
 msgstr "Bạn có thể xem trước ảnh của bất kỳ bố cục bằng cách chọn trong danh sách <gui>Input Sources</gui> (Nguồn Đầu vào) và nhấp vào <gui><_:media-1/></gui>"
 
 #. (itstool) path: media/span
-#: C/keyboard-layouts.page:79
+#: C/keyboard-layouts.page:77
 msgid "preferences"
 msgstr "tùy chọn"
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:73
+#: C/keyboard-layouts.page:71
 msgid ""
 "Certain languages offer some extra configuration options. You can identify "
 "those languages because they have a <gui><_:media-1/></gui> icon next to "
@@ -3550,7 +3499,7 @@ msgid ""
 msgstr "Một số ngôn ngữ cung cấp thêm một số tùy chọn cấu hình. Bạn có thể xác định những ngôn ngữ đó bởi vì chúng có biểu tượng <gui><_:media-1/></gui> bên cạnh. Nếu bạn muốn truy cập vào những thông số bổ sung này, chọn ngôn ngữ từ danh sách <gui> Input Source (Nguồn Nhập vào)</gui> và nút <gui style=\"button\"><_:media-2/></gui> mới sẽ cho phép bạn truy cập vào thiết lập bổ sung."
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:82
+#: C/keyboard-layouts.page:80
 msgid ""
 "When you use multiple layouts, you can choose to have all windows use the "
 "same layout or to set a different layout for each window. Using a different "
@@ -3562,7 +3511,7 @@ msgid ""
 msgstr "Khi bạn sử dụng nhiều bố cục, bạn có thể chọn để tất cả các cửa sổ sử dụng cùng một bố cục hoặc thiết lập bố cục khác nhau cho mỗi cửa sổ. Ví dụ, sử dụng bố cục khác nhau cho mỗi cửa sổ sẽ hữu ích khi bạn viết một bài viết bằng ngôn ngữ khác trong một cửa sổ trình soạn thảo văn bản. Lựa chọn bàn phím của bạn sẽ được ghi nhớ cho mỗi cửa sổ khi bạn chuyển đổi giữa các cửa sổ. Nhấn nút <gui style=\"button\">Tùy chọn</gui> để chọn cách mà bạn muốn quản lý nhiều bố cục."
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:90
+#: C/keyboard-layouts.page:88
 msgid ""
 "The task bar will display a short identifier for the current layout, such as"
 " <gui>en</gui> for the standard English layout. Click the layout indicator "
@@ -3573,7 +3522,7 @@ msgid ""
 msgstr "Thanh tác vụ sẽ hiển thị một từ định danh ngắn cho bố cục hiện tại, chẳng hạn như <gui>en</gui> cho bố cục tiếng Anh tiêu chuẩn. Nhấp vào chỉ báo bố cục và chọn bố cục mà bạn muốn sử dụng từ trình đơn. Nếu ngôn ngữ được chọn có bất kỳ cài đặt thêm nào, thì những cài đặt đó sẽ được hiển thị bên dưới danh sách các bố cục hiện có. Điều này đem lại cho bạn thông tin khái quát nhanh chóng về cài đặt của bạn. Bạn cũng có thể mở một hình ảnh với bố cục bàn phím hiện tại để tham khảo."
 
 #. (itstool) path: page/p
-#: C/keyboard-layouts.page:97
+#: C/keyboard-layouts.page:95
 msgid ""
 "The fastest way to change to another layout is by using the <gui>Input "
 "Source</gui> <gui>Keyboard Shortcuts</gui>. These shortcuts open the "
@@ -3590,7 +3539,7 @@ msgstr "Cách nhanh nhất để thay đổi bố cục <gui>Các bộ phím t�
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/keyboard-layouts.page:106
+#: C/keyboard-layouts.page:104
 msgctxt "_"
 msgid ""
 "external ref='figures/input-methods-switcher.png' "
@@ -3966,19 +3915,19 @@ msgid ""
 msgstr "Nếu bạn không có bàn phím gắn liền với máy tính hoặc không muốn dùng đến nó, bạn có thể bật <em>bàn phím ảo</em> (screen keyboard) để nhập văn bản."
 
 #. (itstool) path: item/p
-#: C/keyboard-osk.page:51
+#: C/keyboard-osk.page:50
 msgid "Switch on <gui>Screen Keyboard</gui> in the <gui>Typing</gui> section."
 msgstr "Bật <gui>Bàn phím Ảo</gui> trong phần <gui>Gõ nhập</gui>."
 
 #. (itstool) path: page/p
-#: C/keyboard-osk.page:57
+#: C/keyboard-osk.page:56
 msgid ""
 "When you next have the opportunity to type, the on-screen keyboard will open"
 " at the bottom of the screen."
 msgstr "Lần kế tiếp khi bạn có cơ hội để gõ nhập, bàn phím ảo sẽ mở ra ở phía dưới màn hình."
 
 #. (itstool) path: page/p
-#: C/keyboard-osk.page:60
+#: C/keyboard-osk.page:59
 msgid ""
 "Press the <gui style=\"bottom\">123</gui> button to enter numbers and "
 "symbols. More symbols are available if you then press the <gui>{#*</gui> "
@@ -3986,12 +3935,12 @@ msgid ""
 msgstr "Nhấn nút <gui style=\"bottom\">123</gui> để nhập các số và biểu tượng. Sẽ có thêm nhiều biểu tượng nếu khi đó bạn nhấn nút <gui>{#*</gui>. Để trở lại bàn phím bảng chữ cái, nhấn nút <gui>Abc</gui>."
 
 #. (itstool) path: media/span
-#: C/keyboard-osk.page:66
+#: C/keyboard-osk.page:65
 msgid "keyboard"
 msgstr "bàn phím"
 
 #. (itstool) path: page/p
-#: C/keyboard-osk.page:65
+#: C/keyboard-osk.page:64
 msgid ""
 "You can press the <gui style=\"button\"><_:media-1/></gui> icon to hide the "
 "keyboard temporarily. The keyboard will show again automatically when you "
@@ -4023,14 +3972,14 @@ msgid ""
 msgstr "Theo mặc định, khi bạn giữ một phím trên bàn phím, chữ hoặc biểu tượng sẽ được lặp lại cho đến khi bạn thả phím. Nếu không thả phím được đủ nhanh, bạn có thể tắt tính năng này, hoặc thay đổi thời gian cần thiết trước khi việc nhấn phím bắt đầu lặp lại. "
 
 #. (itstool) path: item/p
-#: C/keyboard-repeat-keys.page:56
+#: C/keyboard-repeat-keys.page:55
 msgid ""
 "Turn off <gui>Key presses repeat when key is held down</gui> to disable "
 "repeated keys entirely."
 msgstr "Tắt <gui>Lặp lại nhấn phím khi nhấn giữ phím </gui> để tắt hoàn toàn các phím lặp lại."
 
 #. (itstool) path: item/p
-#: C/keyboard-repeat-keys.page:58
+#: C/keyboard-repeat-keys.page:57
 msgid ""
 "Alternatively, adjust the <gui>Delay</gui> slider to control how long you "
 "have to hold a key down to begin repeating it, and adjust the "
@@ -4078,41 +4027,41 @@ msgid ""
 msgstr "Bạn có thể thay đổi hình nền mang nét độc đáo của riêng bạn của màn hình nền. Chọn từ một số ảnh mẫu đã có trên máy tính của bạn, một số ảnh bạn đã thêm vào, hoặc chọn màu sắc yêu thích của bạn."
 
 #. (itstool) path: item/p
-#: C/look-background.page:67
+#: C/look-background.page:65
 msgid "Click on the <gui>Background</gui>."
 msgstr "Nhấp vào <gui>Nền màn hình</gui>."
 
 #. (itstool) path: item/p
-#: C/look-background.page:70
+#: C/look-background.page:68
 msgid "Click on the <gui>Background</gui> button with the picture in it."
 msgstr "Nhấp vào nút <gui>Background</gui> (Hình nền) với ảnh trong đó."
 
 #. (itstool) path: item/p
-#: C/look-background.page:74
+#: C/look-background.page:72
 msgid "There are three choices displayed on top:"
 msgstr "Có ba lựa chọn hiển thị ở trên cùng:"
 
 #. (itstool) path: item/p
-#: C/look-background.page:77
+#: C/look-background.page:75
 msgid ""
 "Select <gui>Wallpapers</gui> to use one of the beautiful background images "
 "that come with Endless."
 msgstr "Chọn <gui>Hình nền</gui> để sử dụng một trong những hình nền đẹp đẽ được kèm với Endless."
 
 #. (itstool) path: item/p
-#: C/look-background.page:81
+#: C/look-background.page:79
 msgid ""
 "Select <gui>Pictures</gui> to use one of your own photos from your "
 "<file>Pictures</file> folder."
 msgstr "Chọn <gui>Hình ảnh</gui> để sử dụng một trong những hình ảnh của riêng bạn từ thư mục <file>Hình ảnh</file>."
 
 #. (itstool) path: item/p
-#: C/look-background.page:85
+#: C/look-background.page:83
 msgid "Select <gui>Colors</gui> to just use a color."
 msgstr "Lựa chọn <gui>Colors</gui> để chỉ sử dụng một màu."
 
 #. (itstool) path: item/p
-#: C/look-background.page:91
+#: C/look-background.page:89
 msgid "The settings are applied immediately."
 msgstr "Các cài đặt được áp dụng ngay tức khắc."
 
@@ -4388,7 +4337,7 @@ msgid ""
 msgstr "Thao tác nhấp đúp chuột chỉ có hiệu lực khi bạn nhấn nút chuột hai lần đủ nhanh. Nếu lần nhấp thứ hai quá lâu sau lần nhấp trước, đây sẽ chỉ là hai lần nhấp riêng biệt, không được tính là nhấp đúp. Nếu bạn gặp khó khăn trong việc nhấp nhanh nút chuột, bạn nên tăng thời gian chờ."
 
 #. (itstool) path: item/p
-#: C/mouse-doubleclick.page:50 C/mouse-sensitivity.page:48
+#: C/mouse-doubleclick.page:49 C/mouse-sensitivity.page:46
 msgid "Click on <gui>Mouse &amp; Touchpad</gui>."
 msgstr "Nhấp vào mục <gui>Con chuột &amp; Bàn di chuột</gui> (Mouse &amp; Touchpad)."
 
@@ -4400,7 +4349,7 @@ msgid ""
 msgstr "Trong phần <gui>Chung</gui>, điều chỉnh con trượt <gui>Bấm đúp</gui> đến giá trị mong muốn."
 
 #. (itstool) path: item/p
-#: C/mouse-doubleclick.page:55
+#: C/mouse-doubleclick.page:57
 msgid ""
 "Click the <gui>Test Your Settings</gui> button to test. A single click in "
 "the window will highlight the outer circle. A double-click will highlight "
@@ -4408,7 +4357,7 @@ msgid ""
 msgstr "Nhấp vào nút <gui>Thử nghiệm Cài đặt của Bạn</gui> để thử nghiệm. Thao tác nhấp chuột một lần vào cửa sổ sẽ làm nổi bật vòng tròn bên ngoài. Thao tác nhấp đúp chuột sẽ làm nổi bật vòng tròn bên trong."
 
 #. (itstool) path: page/p
-#: C/mouse-doubleclick.page:60
+#: C/mouse-doubleclick.page:63
 msgid ""
 "If your mouse double-clicks when you want it to single-click even though you"
 " have increased the double-click timeout, your mouse may be faulty. Try "
@@ -4418,7 +4367,7 @@ msgid ""
 msgstr "Nếu chuột của bạn nhấp đúp khi bạn muốn nhấp chỉ một lần dù bạn đã tăng thời gian chờ nhấp đúp chuột, con chuột của bạn có thể bị lỗi. Hãy thử cắm một con chuột khác vào máy tính của bạn và xem thử nó có hoạt động đúng cách không. Ngoài ra, hãy cắm chuột của bạn vào máy tính khác và xem có xảy ra lỗi như vậy nữa không."
 
 #. (itstool) path: note/p
-#: C/mouse-doubleclick.page:67
+#: C/mouse-doubleclick.page:70
 msgid ""
 "This setting will affect both your mouse and touchpad, as well as any other "
 "pointing device."
@@ -4443,21 +4392,21 @@ msgid ""
 msgstr "Nếu bạn gặp khó khăn sử dụng chuột hoặc thiết bị tương tự, bạn có thể điều khiển chuột dùng bàn phím số. Tính năng này gọi là <em>phím chuột</em>."
 
 #. (itstool) path: item/p
-#: C/mouse-mousekeys.page:54
+#: C/mouse-mousekeys.page:53
 msgid ""
 "Use the up and down arrow keys to select <gui>Mouse Keys</gui> in the "
 "<gui>Pointing and Clicking</gui> section then press <key>Enter</key>."
 msgstr "Sử dụng các phím mũi tên lên và xuống để chọn <gui>Mouse Keys</gui> (Phím Chuột) trong phần <gui> Pointing and Clicking (Trỏ và Nhấp)</gui> và sau đó nhấn <key>Enter</key>."
 
 #. (itstool) path: item/p
-#: C/mouse-mousekeys.page:58
+#: C/mouse-mousekeys.page:57
 msgid ""
 "Make sure that <key>Num Lock</key> is turned off. You will now be able to "
 "move the mouse pointer using the keypad."
 msgstr "Bảo đảm tắt phím <key>Num Lock</key>. Bạn sẽ có thể di chuyển chuột dùng bàn phím số."
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:63
+#: C/mouse-mousekeys.page:62
 msgid ""
 "The keypad is a set of numerical buttons on your keyboard, usually arranged "
 "into a square grid. If you have a keyboard without a keypad (such as a "
@@ -4468,7 +4417,7 @@ msgid ""
 msgstr "Vùng phím số là một tập hợp các nút chữ số trên bàn phím của bạn, thường được bố trí thành một lưới hình vuông. Nếu bạn có bàn phím mà không có vùng phím số (chẳng hạn như bàn phím của laptop), thì có thể bạn cần nhấn giữ phím chức năng (<key>Fn</key>) và dùng một số phím khác trên bàn phím để làm vùng phím số. Nếu bạn thường dùng tính năng này trên một máy laptop thì bạn có thể mua bàn phím số gắn ngoài qua USB hoặc bluetooth."
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:70
+#: C/mouse-mousekeys.page:69
 msgid ""
 "Each number on the keypad corresponds to a direction. For example, pressing "
 "<key>8</key> will move the pointer upwards and pressing <key>2</key> will "
@@ -4477,7 +4426,7 @@ msgid ""
 msgstr "Mỗi chữ số trên vùng phím số tương ứng với một hướng. Ví dụ, nhấn phím số <key>8</key> sẽ dịch chuyển con trỏ lên trên và nhấn số <key>2</key> sẽ dịch chuyển con trỏ xuống dưới. Nhấn phím số <key>5</key> để nhấp con chuột một lần, hoặc nhấn nhanh phím đó hai lần để nhấp đúp chuột."
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:75
+#: C/mouse-mousekeys.page:74
 msgid ""
 "Most keyboards have a special key which allows you to right-click, sometimes"
 " called the <key xref=\"keyboard-key-menu\">Menu</key> key. Note, however, "
@@ -4487,7 +4436,7 @@ msgid ""
 msgstr "Hầu hết các bàn phím đều có một phím đặc biệt cho phép bạn bấm chuột phải, đôi khi gọi là phím <key xref=\"keyboard-key-menu\">Menu</key>. Tuy nhiên, hãy lưu ý rằng phím này đáp ứng với vị trí của con trỏ bàn phím, không phải vị trí con trỏ chuột. Hãy xem <link xref=\"a11y-right-click\"/> để biết thông tin về cách bấm chuột phải bằng thao tác nhấn giữ <key>5</key> hoặc nút chuột trái."
 
 #. (itstool) path: page/p
-#: C/mouse-mousekeys.page:81
+#: C/mouse-mousekeys.page:80
 msgid ""
 "If you want to use the keypad to type numbers while mouse keys is enabled, "
 "turn <key>Num Lock</key> on. The mouse cannot be controlled with the keypad "
@@ -4495,7 +4444,7 @@ msgid ""
 msgstr "Nếu bạn muốn sử dụng vùng phím số để gõ chữ số trong khi tính năng phím chuột đã được kích hoạt, hãy bật phím <key>Num Lock</key>. Tuy nhiên, không thể điều khiển con chuột bằng vùng phím số khi phím <key>Num Lock</key> đang bật."
 
 #. (itstool) path: note/p
-#: C/mouse-mousekeys.page:86
+#: C/mouse-mousekeys.page:85
 msgid ""
 "The normal number keys, in a line at the top of the keyboard, will not "
 "control the mouse pointer. Only the keypad number keys can be used."
@@ -4520,7 +4469,7 @@ msgid ""
 msgstr "Nếu con trỏ di chuyển quá nhanh hoặc quá chậm khi bạn di chuyển chuột hoặc dùng chuột cảm ứng, bạn có thể điều chỉnh tốc độ con trỏ cho những thiết bị này."
 
 #. (itstool) path: item/p
-#: C/mouse-sensitivity.page:52
+#: C/mouse-sensitivity.page:50
 msgid ""
 "Adjust the <gui>Pointer Speed</gui> slider until the pointer motion is "
 "comfortable for you. You will see one slider per each pointing device, such "
@@ -4528,7 +4477,7 @@ msgid ""
 msgstr "Điều chỉnh bộ trượt <gui>Pointer Speed (Tốc độ Con trỏ)</gui> cho đến khi chuyển động của con trỏ phù hợp với bạn. Bạn sẽ thấy một biểu tượng trượt cho mỗi thiết bị trỏ như chuột hoặc bàn di chuột."
 
 #. (itstool) path: note/p
-#: C/mouse-sensitivity.page:77
+#: C/mouse-sensitivity.page:75
 msgid ""
 "The <gui>Touchpad</gui> section only appears if your system has a touchpad, "
 "while the <gui>Mouse</gui> section is only visible when a mouse is plugged "
@@ -4576,17 +4525,17 @@ msgid ""
 msgstr "Nếu chuột của bạn chỉ có một nút, bạn sẽ cần phải đổi cài đặt để cho phép bạn sử dụng chỉ một nút chuột. Cách đổi cài đặt như sau:"
 
 #. (itstool) path: item/p
-#: C/mouse-when-right-click.page:49
+#: C/mouse-when-right-click.page:48
 msgid "Click on the <gui>Universal Access</gui> panel."
 msgstr "Nhấp vào bảng điều khiển <gui>Universal Access</gui> (Truy cập Toàn cầu)."
 
 #. (itstool) path: item/p
-#: C/mouse-when-right-click.page:52
+#: C/mouse-when-right-click.page:51
 msgid "Scroll to the bottom and select <gui>Click Assist</gui>."
 msgstr "Cuộn xuống dưới cùng và chọn <gui>Trợ giúp Bấm chuột</gui>."
 
 #. (itstool) path: item/p
-#: C/mouse-when-right-click.page:55
+#: C/mouse-when-right-click.page:54
 msgid ""
 "Turn the <gui>Simulated secondary click</gui> option on. There you can also "
 "adjust the amount of time you'll need to hold down the key to activate the "
@@ -5207,24 +5156,11 @@ msgstr "Cài đặt các trình duyệt khác"
 #. (itstool) path: page/p
 #: C/net-installing-other-browsers.page:23
 msgid ""
-"Unfortunately, Endless does not currently support the installation of other "
-"browsers."
-msgstr "Thật không may, Endless hiện không hỗ trợ cài đặt các trình duyệt khác."
-
-#. (itstool) path: page/p
-#: C/net-installing-other-browsers.page:26
-msgid ""
-"We plan on supporting the installation of other browsers at a future date, "
-"and will notify you when we add this feature. Feel free to give us your "
-"feedback and let us know what you need."
-msgstr "Chúng tôi có kế hoạch hỗ trợ cài đặt các trình duyệt khác vào một ngày trong tương lai, và sẽ thông báo cho bạn khi chúng tôi thêm tính năng này. Vui lòng cung cấp cho chúng tôi thông tin phản hồi của bạn và cho chúng tôi biết bạn cần gì."
-
-#. (itstool) path: page/p
-#: C/net-installing-other-browsers.page:30
-msgid ""
-"In the meantime, we hope you enjoy using the current Endless browser to "
-"explore new websites and stay updated on the world's news!"
-msgstr "Trong lúc này, chúng tôi hy vọng bạn thích thú sử dụng trình duyệt Endless hiện tại để khám phá các trang web mới và cập nhật tin tức thế giới!"
+"Endless comes with a browser on the desktop, but if you would like to "
+"install other browsers, you can do so from the App Center. You can try "
+"searching for the browser of your preference by typing its name in the "
+"search bar, or by going to the App Center's <gui>Utilities</gui> section."
+msgstr ""
 
 #. (itstool) path: info/desc
 #: C/net-manual.page:20
@@ -5254,7 +5190,7 @@ msgid "To manually set your network settings:"
 msgstr "Để tự đặt thiết lập mạng:"
 
 #. (itstool) path: item/p
-#: C/net-manual.page:42
+#: C/net-manual.page:41
 msgid "Click on <gui>Network</gui>."
 msgstr "Nhấp vào mục <gui>Mạng</gui> (Network)."
 
@@ -5264,7 +5200,7 @@ msgid "settings"
 msgstr "cài đặt"
 
 #. (itstool) path: item/p
-#: C/net-manual.page:46
+#: C/net-manual.page:45
 msgid ""
 "In the left pane, select the network connection that you want to set up "
 "manually and click the <_:media-1/> button. For example, if you plug in to "
@@ -5287,21 +5223,21 @@ msgid ""
 msgstr "Nhấp <gui>IPv4</gui> và thay đổi chế độ <gui>Địa chỉ</gui> thành <gui>Thủ công</gui>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:61
+#: C/net-manual.page:60
 msgid ""
 "Type in the <gui>Address</gui> and <gui>Gateway</gui>, as well as the "
 "appropriate <gui>Netmask</gui>."
 msgstr "Gõ vào <gui>Address</gui> và <gui>Gateway</gui>, cũng như <gui>Netmask</gui> thích hợp."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:63
+#: C/net-manual.page:62
 msgid ""
 "These must be <em>IP addresses</em>; that is, they must be four numbers "
 "separated by periods (e.g. 123.45.6.78)."
 msgstr "Đây chắc hẳn là <em>IP addresses</em>; nói cách khác, chúng phải gồm bốn con số tách biệt nhau bởi dấu chấm (ví dụ 123.45.6.78)."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:67
+#: C/net-manual.page:66
 msgid ""
 "In the <gui>DNS</gui> section, switch <gui>Automatic</gui> to "
 "<gui>OFF</gui>. Enter the IP address of a DNS server you want to use. Enter "
@@ -5309,7 +5245,7 @@ msgid ""
 msgstr "Tại phần <gui>DNS</gui>, chuyển từ <gui>Automatic</gui> sang <gui>OFF</gui>. Nhập địa chỉ IP của một máy chủ DNS bạn muốn sử dụng. Nhập các địa chỉ máy chủ DNS phụ khác bằng việc dùng nút <key>+</key>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:72
+#: C/net-manual.page:71
 msgid ""
 "In the <gui>Routes</gui> section, switch <gui>Automatic</gui> to "
 "<gui>OFF</gui>. Enter the <gui>Address</gui>, <gui>Netmask</gui>, "
@@ -5318,61 +5254,13 @@ msgid ""
 msgstr "Trong mục <gui>Định tuyến</gui> (Routes), chuyển trạng thái nút <gui>Tự động</gui> (Automatic) thành <gui>TẮT</gui> (OFF). Nhập thông tin <gui>Address</gui>, <gui>Netmask</gui>, <gui>Gateway</gui> và <gui>Metric</gui> cho một tuyến mà bạn muốn sử dụng. Nhập định tuyến bổ sung bằng nút <key>+</key>."
 
 #. (itstool) path: item/p
-#: C/net-manual.page:78
+#: C/net-manual.page:77
 msgid ""
 "Click <gui>Apply</gui>. If you are not connected to the network, click the "
 "system status area on the task bar and connect. Test the network settings by"
 " trying to visit a website or look at shared files on the network, for "
 "example."
 msgstr "Nhấp vào <gui>Áp dụng</gui> (Apply). Nếu bạn chưa kết nối mạng, hãy nhấp vào vùng trạng thái hệ thống trên thanh tác vụ và kết nối mạng. Kiểm tra các cài đặt mạng bằng cách cố gắng truy cập một website hay tìm các tập tin được chia sẻ trên mạng, ví dụ vậy."
-
-#. (itstool) path: info/desc
-#: C/net-read-news.page:19
-msgid "Keep up to date with the latest news."
-msgstr "Luôn cập nhật các tin tức mới nhất."
-
-#. (itstool) path: page/title
-#: C/net-read-news.page:22
-msgid "Read the News"
-msgstr "Đọc Tin tức"
-
-#. (itstool) path: page/p
-#: C/net-read-news.page:24
-msgid ""
-"We have added several different newspaper websites to your Browser so that "
-"you can read all the latest news! Explore current events, sports, local news"
-" and more just with a click of a button!"
-msgstr "Chúng tôi đã thêm vài website báo điện tử khác nhau vào Trình duyệt của bạn để bạn có thể đọc mọi tin tức mới nhất! Hãy khám phá các sự kiện hiện có, các môn thể thao, tin tức địa phương và nhiều hơn nữa chỉ với một lần nhấp nút!"
-
-#. (itstool) path: steps/title
-#: C/net-read-news.page:29
-msgid "To read news online:"
-msgstr "Để đọc tin tức trực tuyến:"
-
-#. (itstool) path: item/p
-#: C/net-read-news.page:31
-msgid ""
-"Click the Internet icon on your desktop or on the task bar to open the "
-"browser."
-msgstr "Nhấp vào biểu tượng Internet trên desktop của bạn hoặc trên thanh tác vụ để mở trình duyệt."
-
-#. (itstool) path: item/p
-#: C/net-read-news.page:36
-msgid "Click on Newspaper section on the left side menu."
-msgstr "Nhấp vào mục Newspaper (Báo) ở menu bên trái."
-
-#. (itstool) path: item/p
-#: C/net-read-news.page:40
-msgid "Discover the internet!"
-msgstr "Khám phá internet!"
-
-#. (itstool) path: note/p
-#: C/net-read-news.page:45
-msgid ""
-"You'll need an internet connection in order to access the news websites. If "
-"you can't access the internet right now, don't worry, your computer comes "
-"packed with great offline content."
-msgstr "Bạn sẽ cần có kết nối internet để truy cập các website tin tức. Đừng lo lắng nếu bạn không thể truy cập internet ngay lập tức, vì máy tính của bạn sẵn có nhiều nội dung ngoại tuyến tuyệt vời."
 
 #. (itstool) path: info/desc
 #: C/net-slow.page:14
@@ -5488,124 +5376,6 @@ msgid ""
 "long time, for example. Try closing all of the browser's windows and then "
 "opening the browser again to see if this makes a difference."
 msgstr "Đôi khi trình duyệt gặp vấn đề và chạy chậm. Có thể có nhiều nguyên nhân - bạn xem một trang web đang quá tải, hoặc bạn mở trình duyệt quá lâu.. Thử đóng hết cửa sổ trình duyệt và mở lại xem có khác gì không."
-
-#. (itstool) path: info/desc
-#: C/net-social-bar.page:19
-msgid "Easily chat with your Facebook friends."
-msgstr "Dễ dàng trò chuyện với bạn bè của bạn trên Facebook."
-
-#. (itstool) path: page/title
-#: C/net-social-bar.page:22
-msgid "Chat on Facebook from your desktop"
-msgstr "Trò chuyện trên Facebook từ màn hình nền của bạn"
-
-#. (itstool) path: page/p
-#: C/net-social-bar.page:24
-msgid ""
-"Now you can stay connected with your Facebook friends more easily than ever!"
-" You will need an internet connection to use this feature."
-msgstr "Giờ đây bạn có thể kết nối với bạn bè trên Facebook dễ dàng hơn bao giờ hết! Bạn sẽ cần kết nối internet để sử dụng tính năng này."
-
-#. (itstool) path: page/p
-#: C/net-social-bar.page:27
-msgid "First, you'll need to set up your Facebook account on Endless."
-msgstr "Trước tiên, bạn sẽ cần thiết lập tài khoản Facebook trên Endless."
-
-#. (itstool) path: steps/title
-#: C/net-social-bar.page:30
-msgid "If you already have a Facebook account:"
-msgstr "Nếu bạn đã có tài khoản Facebook:"
-
-#. (itstool) path: p/media
-#. This is a reference to an external file such as an image or video. When
-#. the file changes, the md5 hash will change to let you know you need to
-#. update your localized copy. The msgstr is not used at all. Set it to
-#. whatever you like once you have updated your copy of the file.
-#: C/net-social-bar.page:33
-msgctxt "_"
-msgid ""
-"external ref='figures/eos-icon-socialbar.png' "
-"md5='311852df3d93299e9346bbe809bb81c6'"
-msgstr "tham chiếu bên ngoài='figures/eos-icon-socialbar.png' md5='311852df3d93299e9346bbe809bb81c6'"
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:32
-msgid ""
-"Click on <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-"
-"socialbar.png\"> the Facebook icon</media> on the very bottom right-hand "
-"side of your screen."
-msgstr "Nhấp vào <media type=\"image\" mime=\"image/png\" src=\"figures/eos-icon-socialbar.png\">biểu tượng Facebook</media> ở phía dưới bên tay phải màn hình."
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:38
-msgid "Enter in your email address and password, then click <gui>Login</gui>."
-msgstr "Nhập địa chỉ email và mật khẩu của bạn, sau đó nhấp <gui>Đăng nhập</gui>."
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:42
-msgid ""
-"You can now start using Facebook right from your desktop. You do not need to"
-" close it if you are working on something else! Just click outside of the "
-"Facebook screen or on the Facebook icon to get back to your other open "
-"windows."
-msgstr "Giờ thì bạn có thể bắt đầu sử dụng Facebook ngay từ màn hình nền của mình. Bạn không cần đóng nó nếu đang làm việc trên ứng dụng nào khác! Chỉ cần nhấp vào bên ngoài màn hình Facebook hoặc nhấp trên biểu tượng Facebook để trở lại các cửa sổ mở khác của bạn."
-
-#. (itstool) path: steps/title
-#: C/net-social-bar.page:50
-msgid "If you do not have a Facebook account:"
-msgstr "Nếu bạn không có tài khoản Facebook:"
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:52 C/net-social-bar.page:74
-msgid ""
-"Click on the Facebook icon that is on the very bottom right-hand side of "
-"your screen."
-msgstr "Nhấp vào biểu tượng Facebook ở ngay phía dưới bên phải màn hình của bạn."
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:56
-msgid "Click on <gui>Create New Account</gui>."
-msgstr "Nhấp vào <gui>Create New Account</gui>."
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:59
-msgid ""
-"Follow the steps that Facebook takes you through to complete their set up "
-"process. You will need an email address in order to create a Facebook "
-"account."
-msgstr "Thực hiện theo các bước mà Facebook hướng dẫn bạn để hoàn tất quy trình thiết lập của họ. Bạn sẽ cần có địa chỉ email để tạo một tài khoản Facebook."
-
-#. (itstool) path: note/p
-#: C/net-social-bar.page:66
-msgid ""
-"Remember to log out of Facebook if you share your computer with other users,"
-" otherwise they will be able to see and use your Facebook account!"
-msgstr "Nhớ đăng xuất khỏi Facebook nếu bạn dùng chung máy tính với người khác, nếu không họ sẽ thấy và sử dụng được tài khoản Facebook của bạn!"
-
-#. (itstool) path: steps/title
-#: C/net-social-bar.page:71
-msgid "Logging out of Facebook"
-msgstr "Đăng xuất Facebook"
-
-#. (itstool) path: steps/p
-#: C/net-social-bar.page:72
-msgid "To log out of your Facebook account:"
-msgstr "Để đăng xuất khỏi tài khoản Facebook của bạn:"
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:78
-msgid ""
-"Click on the button with three white lines on the left-hand side of the "
-"Facebook window. This will show you the main menu, with your news feed, "
-"events, groups, and more."
-msgstr "Nhấp vào nút có ba gạch ngang màu trắng ở phía bên trái của cửa sổ Facebook. Bạn sẽ thấy trình đơn chính, với nguồn tin, sự kiện, nhóm, và hơn thế nữa."
-
-#. (itstool) path: item/p
-#: C/net-social-bar.page:83
-msgid ""
-"Scroll all the way to the bottom of the menu and click on the <gui>Log "
-"Out</gui> button."
-msgstr "Cuộn chuột xuống phía cuối trình đơn và nhấp vào nút <gui>Đăng xuất</gui> (Log Out)."
 
 #. (itstool) path: info/desc
 #: C/net-troubleshoot.page:17
@@ -6025,17 +5795,17 @@ msgid ""
 msgstr "Mạng có thể bị ẩn. Bạn có thể cần <link xref=\"net-wireless-hidden\">kết nối cách khác</link> đến mạng ẩn."
 
 #. (itstool) path: info/desc
-#: C/net-wireless-hidden.page:25
+#: C/net-wireless-hidden.page:29
 msgid "Connect to a network that you might not be able to see."
 msgstr "Kết nối vào mạng mà có thể bạn không nhìn thấy được."
 
 #. (itstool) path: page/title
-#: C/net-wireless-hidden.page:29
+#: C/net-wireless-hidden.page:33
 msgid "Connect to a hidden wireless network"
 msgstr "Kết nối đến mạng không dây ẩn"
 
 #. (itstool) path: page/p
-#: C/net-wireless-hidden.page:31
+#: C/net-wireless-hidden.page:35
 msgid ""
 "Hidden networks don't show up in the list of wireless networks. Having a "
 "hidden network makes it harder for other people to find it, and so more "
@@ -6044,36 +5814,37 @@ msgid ""
 msgstr "Mạng ẩn không hiển thị trong danh sách mạng không dây. Sử dụng mạng ẩn khiến người khác khó tìm ra hơn, và vì vậy có khả năng bảo mật cao hơn. Để kết nối với mạng không dây ẩn, hãy làm theo các bước sau:"
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:37
+#: C/net-wireless-hidden.page:41
 msgid ""
-"Click the network icon on the task bar and select <gui>Network "
-"Settings.</gui>"
-msgstr "Nhấp vào biểu tượng mạng trên thanh tác vụ và chọn <gui>Cài đặt mạng</gui> (Network Settings)."
+"Type \"Network\" into the <gui>global search bar</gui> on your desktop. "
+"Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
+"to open."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:41
+#: C/net-wireless-hidden.page:46
 msgid "Click the <gui>Connect to Hidden Network</gui> button."
 msgstr "Nhấn nút <gui>Connect to Hidden Network</gui>."
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:44
+#: C/net-wireless-hidden.page:49
 msgid ""
 "In the window that appears, type the network name and choose the type of "
 "wireless security from the Wi-Fi security drop-down list."
 msgstr "Trong cửa sổ hiện ra, gõ tên mạng và lựa chọn loại bảo mật không dây từ danh sách thả xuống về bảo mật Wi-Fi."
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:48
+#: C/net-wireless-hidden.page:53
 msgid "Enter the password or other security details."
 msgstr "Nhập mật khẩu hoặc các thông tin bảo mật khác."
 
 #. (itstool) path: item/p
-#: C/net-wireless-hidden.page:51
+#: C/net-wireless-hidden.page:56
 msgid "Click Connect."
 msgstr "Bấm vào Kết nối."
 
 #. (itstool) path: page/p
-#: C/net-wireless-hidden.page:55
+#: C/net-wireless-hidden.page:60
 msgid ""
 "You may have to check the settings of the wireless access point or router to"
 " see what the network name is. If you don't have the network name (SSID), "
@@ -6084,14 +5855,14 @@ msgid ""
 msgstr "Bạn có thể phải mở phần cài đặt của điểm truy cập hoặc bộ định tuyến không dây để xem tên mạng. Nếu không có tên mạng (SSID), bạn có thể sử dụng <em>BSSID</em> (Basic Service Set Identifier, địa chỉ MAC của điểm truy cập), có dạng <gui>02:00:01:02:03:04</gui> và thường có thể tìm thấy ở bên dưới điểm truy cập."
 
 #. (itstool) path: page/p
-#: C/net-wireless-hidden.page:61
+#: C/net-wireless-hidden.page:66
 msgid ""
 "You should also check the security settings for the wireless access point. "
 "Look for terms like WEP and WPA."
 msgstr "Bạn cũng nên kiểm tra cài đặt an ninh cho điểm truy cập không dây. Tìm kiếm các thuật ngữ như WEP và WPA."
 
 #. (itstool) path: note/p
-#: C/net-wireless-hidden.page:65
+#: C/net-wireless-hidden.page:70
 msgid ""
 "While hiding your network may help improve security by preventing people who"
 " don't know about it from connecting, the network will still remain "
@@ -6336,34 +6107,34 @@ msgid "How to cancel a print job:"
 msgstr "Cách hủy một công việc in:"
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:49 C/printing-cancel-job.page:92
-#: C/printing-setup-default-printer.page:48 C/printing-setup.page:86
+#: C/printing-cancel-job.page:47 C/printing-cancel-job.page:88
+#: C/printing-setup-default-printer.page:48 C/printing-setup.page:84
 msgid "Click <gui>Printers</gui>."
 msgstr "Nhấn <gui>Máy in</gui>."
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:52
+#: C/printing-cancel-job.page:50
 msgid ""
 "Click the <gui>Show Jobs</gui> button on the right-hand side of the "
 "<gui>Printers</gui> dialog."
 msgstr "Bấm nút <gui>Hiển thị Lệnh in</gui> ở bên phải hộp thoại <gui>Máy in</gui>."
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:56
+#: C/printing-cancel-job.page:54
 msgid ""
 "Cancel the print job by clicking the stop button on the play-pause-stop "
 "symbols."
 msgstr "Hủy lệnh in bằng cách bấm vào ngút dừng trên các biểu tượng chạy-tạm dừng-dừng."
 
 #. (itstool) path: section/p
-#: C/printing-cancel-job.page:61
+#: C/printing-cancel-job.page:59
 msgid ""
 "If this does not cancel the print job like you expected, try holding down "
 "the <gui>Cancel</gui> button on your printer."
 msgstr "Nếu không thể hủy bỏ công việc in như bạn muốn, hãy thử nhấn giữ nút <gui>Cancel</gui> (Hủy bỏ) trên máy in của bạn."
 
 #. (itstool) path: section/p
-#: C/printing-cancel-job.page:64
+#: C/printing-cancel-job.page:62
 msgid ""
 "As a last resort, especially if you have a big print job with a lot of pages"
 " that won't cancel, remove the paper from the printer's paper input tray. "
@@ -6373,7 +6144,7 @@ msgid ""
 msgstr "Cách cuối cùng, đặc biệt khi bạn đã chọn in rất nhiều giấy, là gỡ giấy trắng ra khỏi khay của máy in. Máy in sẽ nhận ra hết giấy và ngừng in. Bạn có thể thử huỷ lần nữa, hoặc tắt máy in và mở lại."
 
 #. (itstool) path: note/p
-#: C/printing-cancel-job.page:71
+#: C/printing-cancel-job.page:69
 msgid ""
 "Be careful that you don't damage the printer when removing the paper, though"
 " - if you would have to pull hard on the paper to remove it, you should "
@@ -6381,19 +6152,19 @@ msgid ""
 msgstr "Hãy cẩn thận đừng làm hỏng máy in khi bạn lấy giấy ra, cho dù - nếu phải lôi mạnh giấy để lấy ra thì có lẽ bạn nên cứ để giấy lại nguyên vị trí cũ."
 
 #. (itstool) path: section/title
-#: C/printing-cancel-job.page:79
+#: C/printing-cancel-job.page:77
 msgid "Pause and release a print job"
 msgstr "Tạm dừng và tiếp tục một lệnh in"
 
 #. (itstool) path: section/p
-#: C/printing-cancel-job.page:81
+#: C/printing-cancel-job.page:79
 msgid ""
 "If you want to pause or release a print job, you can do so by going to the "
 "jobs dialog in the printer settings and click the appropriate button."
 msgstr "Nếu bạn muốn tạm ngừng hoặc thực hiện một lệnh in, bạn có thể làm như vậy bằng cách đi đến hộp thoại lệnh in trong cài đặt máy in và bấm vào nút thích hợp."
 
 #. (itstool) path: item/p
-#: C/printing-cancel-job.page:95
+#: C/printing-cancel-job.page:91
 msgid ""
 "Click the <gui>Show Jobs</gui> button on the right-hand side of the "
 "<gui>Printers</gui> dialog and either pause or release the print job based "
@@ -6646,6 +6417,13 @@ msgid ""
 msgstr "Bạn cần quyền quản trị để có thể đổi máy in mặc định."
 
 #. (itstool) path: item/p
+#: C/printing-setup-default-printer.page:42
+msgid ""
+"Click on the <_:media-1/> on the bottom left-hand corner of your screen, "
+"then click on <gui>Settings</gui>."
+msgstr "Nhấp vào <_:media-1/> ở góc trái phía cuối màn hình của bạn, sau đó nhấp vào mục <gui>Cài đặt</gui> (Settings)."
+
+#. (itstool) path: item/p
 #: C/printing-setup-default-printer.page:51
 msgid ""
 "Select your desired default printer from the list of available printers."
@@ -6750,19 +6528,19 @@ msgid "Set up your printer manually:"
 msgstr "Cài đặt bằng tay cho máy in của bạn:"
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:90
+#: C/printing-setup.page:88
 msgid ""
 "Click the <key>Unlock</key> button in the top-right corner and enter your "
 "password."
 msgstr "Nhấp vào nút <key>Unlock</key> nằm ở góc trên bên phải rồi nhập mật khẩu của bạn."
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:94
+#: C/printing-setup.page:92
 msgid "Click the <key>+</key> button."
 msgstr "Bấm nút <key>+</key>."
 
 #. (itstool) path: item/p
-#: C/printing-setup.page:97
+#: C/printing-setup.page:95
 msgid "In the pop-up window, select your new printer. Click <gui>Add</gui>."
 msgstr "Trong cửa sổ bật ra, chọn máy in mới của bạn. Bấm <gui>Thêm</gui>."
 
@@ -6890,36 +6668,36 @@ msgid "To set the length of time before your screen locks automatically:"
 msgstr "Để lựa chọn độ dài thời gian trước khi màn hình của bạn tự động khóa:"
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:53
+#: C/privacy-screen-lock.page:51
 msgid "Click <gui>Privacy</gui>."
 msgstr "Nhấp vào <gui>Privacy</gui> (Riêng tư)."
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:56
+#: C/privacy-screen-lock.page:54
 msgid "Select <gui>Screen Lock</gui>."
 msgstr "Chọn <gui>Khóa Màn hình</gui>"
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:59
+#: C/privacy-screen-lock.page:57
 msgid ""
 "Make sure <gui>Automatic Screen Lock</gui> is switched on, then select a "
 "length of time from the drop-down list."
 msgstr "Bảo đảm tính năng <gui>Tự động Khóa Màn hình</gui> đang bật, rồi chọn độ dài thời gian từ danh sách thả xuống."
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:63
+#: C/privacy-screen-lock.page:61
 msgid ""
 "To allow notifications to be displayed on the lock screen, switch <gui>Show "
 "Notifications</gui> to <gui>ON</gui>."
 msgstr "Để cho phép hiển thị thông báo trên màn hình khóa, chuyển chế độ <gui>Hiển thị Thông báo</gui> thành <gui>BẬT</gui>."
 
 #. (itstool) path: item/p
-#: C/privacy-screen-lock.page:67
+#: C/privacy-screen-lock.page:65
 msgid "Click <gui>Close</gui>."
 msgstr "Nhấn <gui>Đóng</gui>."
 
 #. (itstool) path: page/p
-#: C/privacy-screen-lock.page:71
+#: C/privacy-screen-lock.page:69
 msgid ""
 "When your screen is locked, and you want to unlock it, press <key>Esc</key>,"
 " or swipe up from the bottom of the screen with your mouse. Then enter your "
@@ -7206,9 +6984,8 @@ msgstr "Để mở khóa máy tính, bạn chỉ cần nhập mật khẩu của
 #: C/security-guard-privacy.page:49
 msgid ""
 "You can change the lock screen settings under the <gui>Privacy</gui> section"
-" in the <gui>Settings</gui> window that you can access from the User Menu on"
-" the very bottom left-hand side of your screen."
-msgstr "Bạn có thể thay đổi cài đặt khóa màn hình trong phần <gui>Bảo mật</gui> của cửa sổ <gui>Cài đặt</gui>, bạn có thể truy cập cửa sổ này từ Menu Người dùng ở phía dưới cùng bên trái màn hình."
+" under <gui>Settings</gui>."
+msgstr ""
 
 #. (itstool) path: info/desc
 #: C/security-understand-password.page:19
@@ -7253,27 +7030,27 @@ msgid "Switch to a different language for user interface and help text."
 msgstr "Chuyển ngôn ngữ của giao diện hiển thị và trợ giúp."
 
 #. (itstool) path: page/title
-#: C/session-language.page:34
+#: C/session-language.page:37
 msgid "Change your region and language"
 msgstr "Thay đổi vùng và ngôn ngữ"
 
 #. (itstool) path: page/p
-#: C/session-language.page:36
+#: C/session-language.page:39
 msgid "Endless can be used in many different languages."
 msgstr "Có thể sử dụng Endless với nhiều ngôn ngữ khác nhau."
 
 #. (itstool) path: steps/title
-#: C/session-language.page:39
+#: C/session-language.page:42
 msgid "To switch your current language:"
 msgstr "Để chuyển đổi ngôn ngữ hiện tại của bạn:"
 
 #. (itstool) path: item/p
-#: C/session-language.page:51
+#: C/session-language.page:52
 msgid "Click <gui>Language</gui>."
 msgstr "Nhấp vào <gui>Language</gui>."
 
 #. (itstool) path: item/p
-#: C/session-language.page:55
+#: C/session-language.page:56
 msgid ""
 "Select your desired language. If your language is not listed, click "
 "<_:media-1/> at the bottom of the list to select from all available regions "
@@ -7281,12 +7058,12 @@ msgid ""
 msgstr "Chọn ngôn ngữ bạn mong muốn. Nếu ngôn ngữ của bạn không được liệt kê, hãy nhấp vào <_:media-1/> ở dưới cùng của danh sách để chọn trong tất cả các vùng và ngôn ngữ có sẵn."
 
 #. (itstool) path: item/p
-#: C/session-language.page:62
+#: C/session-language.page:63
 msgid "Click <gui>Done</gui> to save."
 msgstr "Nhấp <gui>Xong</gui> để lưu."
 
 #. (itstool) path: item/p
-#: C/session-language.page:66
+#: C/session-language.page:67
 msgid ""
 "<gui>Your session needs to be restarted for these changes to take "
 "effect</gui> by clicking <gui style=\"button\">Restart Now</gui>, or click "
@@ -7294,7 +7071,7 @@ msgid ""
 msgstr "<gui>Phiên làm việc của bạn cần được khởi động lại để các thay đổi này có hiệu lực</gui> bằng cách nhấp chuột vào nút <gui style=\"button\">Khởi động lại ngay</gui> (Restart Now), hoặc nhấp vào dấu <gui style=\"button\">X</gui> để khởi động lại sau."
 
 #. (itstool) path: page/p
-#: C/session-language.page:73
+#: C/session-language.page:74
 msgid ""
 "Some translations may be incomplete, and certain applications may not "
 "support your language at all. Any untranslated text will appear in American "
@@ -7302,7 +7079,7 @@ msgid ""
 msgstr "Một số bản dịch có thể không hoàn chỉnh và một số ứng dụng có thể không hỗ trợ ngôn ngữ của bạn. Bất kỳ văn bản nào chưa được dịch sẽ xuất hiện dưới dạng tiếng Anh Mỹ."
 
 #. (itstool) path: page/p
-#: C/session-language.page:77
+#: C/session-language.page:78
 msgid ""
 "There are some special folders in your home folder where applications can "
 "store things like music, pictures, and documents. These folders use standard"
@@ -7313,17 +7090,17 @@ msgid ""
 msgstr "Có một số thư mục đặc biệt trong thư mục riêng của bạn mà ứng dụng dùng để lưu những thứ như nhạc, hình ảnh, tài liệu... Những thư mục này dùng tên chuẩn theo ngôn ngữ của bạn. Khi bạn đăng nhập lại, bạn sẽ được hỏi bạn có muốn đổi tên thư mục sang tên chuẩn của ngôn ngữ bạn chọn hay không. Nếu bạn định dùng ngôn ngữ này lâu dài, bạn nên cập nhật tên thư mục."
 
 #. (itstool) path: info/desc
-#: C/sharing-bluetooth.page:16
+#: C/sharing-bluetooth.page:20
 msgid "Set which folders and devices are able to share over Bluetooth."
 msgstr "Thiết lập những thư mục và thiết bị nào có thể chia sẻ qua Bluetooth."
 
 #. (itstool) path: page/title
-#: C/sharing-bluetooth.page:20
+#: C/sharing-bluetooth.page:24
 msgid "Control sharing over Bluetooth"
 msgstr "Kiểm soát việc chia sẻ qua Bluetooth"
 
 #. (itstool) path: page/p
-#: C/sharing-bluetooth.page:28
+#: C/sharing-bluetooth.page:32
 msgid ""
 "You can allow Bluetooth devices to send you files to your "
 "<file>Downloads</file> folder by turning on that capability. Restrict access"
@@ -7331,14 +7108,14 @@ msgid ""
 msgstr "Bạn có thể cho phép các thiết bị Bluetooth gửi các tệp tin của bạn tới thư mục <file>Downloads</file> của bạn bằng cách bật khả năng đó lên. Hạn chế quyền truy cập chỉ với <em>trusted devices</em> để đảm bảo an toàn cao hơn."
 
 #. (itstool) path: page/p
-#: C/sharing-bluetooth.page:31
+#: C/sharing-bluetooth.page:35
 msgid ""
 "You can configure <gui>Bluetooth Sharing</gui> to control access to your "
 "shared folders on your computer."
 msgstr "Bạn có thể cấu hình tính năng <gui>Chia sẻ Bluetooth</gui> (Bluetooth Sharing) để kiểm soát quyền truy cập vào các thư mục dùng chung trên máy tính của bạn."
 
 #. (itstool) path: note/p
-#: C/sharing-bluetooth.page:35
+#: C/sharing-bluetooth.page:39
 msgid ""
 "A Bluetooth device is <em>trusted</em> if you have <em>paired</em>, or "
 "connected your computer to it. See <link xref=\"bluetooth-connect-"
@@ -7346,40 +7123,40 @@ msgid ""
 msgstr "Thiết bị Bluetooth được <em>tin cậy</em> nếu bạn đã <em>ghép đôi</em> hoặc kết nối nó với máy tính của mình. Hãy xem <link xref=\"bluetooth-connect-device\"/>."
 
 #. (itstool) path: steps/title
-#: C/sharing-bluetooth.page:88
+#: C/sharing-bluetooth.page:92
 msgid "Allow files to be shared into your <file>Downloads</file> folder"
 msgstr "Cho phép các tập tin được chia sẻ vào thư mục <file>Tải về</file> (Downloads) của bạn"
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:96
+#: C/sharing-bluetooth.page:98
 msgid "Click <gui>Sharing</gui>."
 msgstr "Nhấp vào <gui>Chia sẻ</gui>."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:99
+#: C/sharing-bluetooth.page:101
 msgid "If <gui>Sharing</gui> is <gui>OFF</gui>, switch it to <gui>ON</gui>."
 msgstr "Nếu tính năng <gui>Chia sẻ</gui> đang <gui>TẮT</gui>, hãy <gui>BẬT</gui> nó lên."
 
 #. (itstool) path: note/p
-#: C/sharing-bluetooth.page:102
+#: C/sharing-bluetooth.page:104
 msgid ""
 "If the text below <gui>Computer Name</gui> allows you to edit it, you can "
 "change the name your computer displays on the network."
 msgstr "Nếu văn bản phía dưới <gui>Tên Máy tính</gui> cho phép bạn sửa, thì bạn có thể đổi tên hiển thị của máy tính của mình trên mạng."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:107
+#: C/sharing-bluetooth.page:109
 msgid "Select <gui>Bluetooth Sharing</gui>."
 msgstr "Chọn <gui>Bluetooth Sharing</gui> (Chia sẻ Bluetooth)."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:110
+#: C/sharing-bluetooth.page:112
 msgid ""
 "Switch <gui>Save Received Files to Downloads Folder</gui> to <gui>ON</gui>."
 msgstr "Chuyển <gui>Lưu Tệp đã Nhận vào Thư mục Tải về</gui> sang chế độ <gui>BẬT</gui>."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:114
+#: C/sharing-bluetooth.page:116
 msgid ""
 "If you only want to allow trusted devices to access your "
 "<file>Downloads</file> folder, switch <gui>Only Receive From Trusted "
@@ -7387,7 +7164,7 @@ msgid ""
 msgstr "Nếu bạn muốn chỉ cho phép các thiết bị đáng tin truy cập vào thư mục <file>Tải về</file> (Downloads), hãy chuyển trạng thái mục <gui>Chỉ Nhận Từ Thiết bị Đáng tin</gui> (Only Receive From Trusted Devices) thành <gui>BẬT</gui> (ON)."
 
 #. (itstool) path: note/p
-#: C/sharing-bluetooth.page:119
+#: C/sharing-bluetooth.page:121
 msgid ""
 "This option is disabled by default. You should enable it if you want to "
 "prevent access to your shared files by anyone with a Bluetooth-enabled cell "
@@ -7395,7 +7172,7 @@ msgid ""
 msgstr "Tùy chọn này tắt theo mặc định. Bạn nên bật tùy chọn này nếu muốn ngăn chặn việc truy cập vào các tệp chia sẻ của mình bởi bất kỳ người nào có điện thoại di động bật Bluetooth hoặc thiết bị tương tự ở gần đó."
 
 #. (itstool) path: item/p
-#: C/sharing-bluetooth.page:126
+#: C/sharing-bluetooth.page:128
 msgid ""
 "Click <gui style=\"button\">Close</gui>. Bluetooth-enabled devices will now "
 "be able to send files to your <file>Downloads</file> folder."
@@ -7543,33 +7320,30 @@ msgstr "Để thêm thư mục mới:"
 
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:30
-msgid ""
-"Right-click on the desktop and select <gui>Add folder</gui>. Alternatively, "
-"you can click on <_:media-1/> from the desktop and click on the "
-"<gui>Folders</gui> button on the left-hand menu."
-msgstr "Nhấp chuột phải vào màn hình nền máy tính và chọn <gui>Thêm thư mục</gui> (Add folder). Một cách khác là bạn có thể nhấp vào <_:media-1/> từ màn hình nền và nhấp nút <gui>Thư mục</gui> (Folders) trên trình đơn bên trái."
+msgid "Right-click on the desktop and select <gui>Add folder</gui>."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:37 C/shell-organize-apps.page:33
+#: C/shell-add-desktop-folder.page:33 C/shell-organize-apps.page:33
 msgid "Pick an icon for your new folder."
 msgstr "Chọn một biểu tượng từ thư mục mới của bạn."
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:40
+#: C/shell-add-desktop-folder.page:36
 msgid ""
 "Type a name for your new folder (for example, \"School\") and hit "
 "<key>Enter</key>."
 msgstr "Nhập tên cho thư mục mới (ví dụ: \"Trường học\") và nhấn <key>Enter</key>."
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:44
+#: C/shell-add-desktop-folder.page:40
 msgid ""
 "You have added a new folder to the desktop. Great! Now click on the "
 "<_:media-1/> on the top-right of the window to go back to the desktop."
 msgstr "Bạn đã thêm một thư mục mới lên màn hình nền. Tuyệt lắm! Giờ thì nhấp vào <_:media-1/> ở góc trên bên phải của cửa sổ để quay trở lại màn hình nền."
 
 #. (itstool) path: item/p
-#: C/shell-add-desktop-folder.page:49
+#: C/shell-add-desktop-folder.page:45
 msgid "Drag and drop the apps you want into your folder."
 msgstr "Kéo và thả các ứng dụng bạn muốn vào thư mục của bạn."
 
@@ -7617,23 +7391,23 @@ msgid ""
 msgstr "Nếu bạn không thể thấy nút <gui>X</gui>, bạn có thể thoát khỏi ứng dụng bằng cách nhấn phím <key>Esc</key> trên bàn phím của bạn, thường là trên góc trái bàn phím của bạn. Cửa sổ sẽ đóng hoàn toàn hoặc thu nhỏ hơn để bạn có thể nhìn thấy thanh trên cùng của cửa sổ và thanh tác vụ Endless ở phía dưới. Nếu cửa sổ thu nhỏ hơn thì bạn có thể nhấp vào {<gui>X</gui> để thoát."
 
 #. (itstool) path: info/title
-#: C/shell-apps-open.page:30
+#: C/shell-apps-open.page:31
 msgctxt "link:index"
 msgid "How do I add new apps?"
 msgstr "Làm thế nào để tôi thêm ứng dụng mới?"
 
 #. (itstool) path: info/desc
-#: C/shell-apps-open.page:31
+#: C/shell-apps-open.page:32
 msgid "Install free apps, folders, and website shortcuts onto your desktop."
 msgstr "Cài đặt lối tắt đến các ứng dụng miễn phí, thư mục và trang web vào màn hình nền của bạn."
 
 #. (itstool) path: page/title
-#: C/shell-apps-open.page:34
+#: C/shell-apps-open.page:35
 msgid "Add apps and website shortcuts"
 msgstr "Thêm lối tắt cho ứng dụng và trang web"
 
 #. (itstool) path: page/p
-#: C/shell-apps-open.page:36
+#: C/shell-apps-open.page:37
 msgid ""
 "The pre-installed apps on your desktop are just a few of the many apps "
 "available to you. Easily add more apps and websites shortcuts directly to "
@@ -7641,46 +7415,46 @@ msgid ""
 msgstr "Những ứng dụng cài đặt sẵn màn hình nền chỉ là một vài trong số rất nhiều ứng dụng sẵn có cho bạn. Có thể dễ dàng thêm các ứng dụng và lối tắt đến trang web trực tiếp vào màn hình nền."
 
 #. (itstool) path: section/title
-#: C/shell-apps-open.page:42
+#: C/shell-apps-open.page:43
 msgid "Adding More Apps"
 msgstr "Thêm Các Ứng Dụng Nữa"
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:45 C/shell-update-app.page:29
+#: C/shell-apps-open.page:46 C/shell-update-app.page:29
 msgid "Click once on <_:media-1/> from the desktop."
 msgstr "Nhấp một lần vào <_:media-1/> từ màn hình nền."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:51
+#: C/shell-apps-open.page:52
 msgid ""
 "Browse by category and read each app's short description until you find one "
 "that you want to add to your desktop. All of the apps you see are free."
 msgstr "Duyệt theo mục và đọc mô tả ngắn của mỗi ứng dụng cho đến khi bạn tìm thấy ứng dụng mà bạn muốn thêm vào màn hình nền của bạn. Tất cả các ứng dụng mà bạn nhìn thấy đều miễn phí."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:57
+#: C/shell-apps-open.page:58
 msgid ""
 "Some apps are already downloaded to your computer and you can add them to "
 "your desktop by clicking <gui>Add to desktop</gui>."
 msgstr "Một số ứng dụng đã được tải về máy của bạn và bạn có thể đưa chúng lên màn hình nền nhờ việc nhấp vào <gui>Add to desktop</gui>."
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:62
+#: C/shell-apps-open.page:63
 msgid ""
 "Other apps need to be installed and require an internet connection. Click "
-"<gui>Install app</gui> to download and install these apps."
-msgstr "Các ứng dụng khác cần được cài đặt và phải có kết nối internet. Nhấp vào <gui>Cài đặt ứng dụng</gui> để tải và cài đặt các ứng dụng này."
+"<gui>Install</gui> to download and install these apps."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:67
+#: C/shell-apps-open.page:68
 msgid ""
 "When the app has been successfully added to your desktop, the green button "
-"will change to <gui>Open app</gui> and you can start using the app "
+"will change to <gui>Launch</gui> and you can start using the app "
 "immediately!"
-msgstr "Khi ứng dụng được thêm vào màn hình nền của bạn thành công, nút màu xanh lục sẽ thay đổi thành <gui>Mở ứng dụng</gui> và bạn có thể bắt đầu sử dụng ứng dụng ngay lập tức!"
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:70
+#: C/shell-apps-open.page:71
 msgid ""
 "The app's icon will be installed on your desktop, to the left of the "
 "<_:media-1/> button. You can then move it wherever makes sense to you so you"
@@ -7688,19 +7462,22 @@ msgid ""
 msgstr "Biểu tượng của ứng dụng sẽ được cài đặt trên desktop của bạn, bên trái của nút <_:media-1/>. Sau đó bạn có thể di chuyển biểu tượng đến bất kỳ nơi nào có ý nghĩa với bạn để bạn có thể dễ dàng tìm thấy nó."
 
 #. (itstool) path: section/title
-#: C/shell-apps-open.page:79
+#: C/shell-apps-open.page:80
 msgid "Installing Website Shortcuts"
 msgstr "Cài đặt Lối tắt trang web"
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:82
-msgid "Click once on the <_:media-1/> from the desktop."
-msgstr "Nhấp một lần vào nút <_:media-1/> từ màn hình nền máy tính."
+#: C/shell-apps-open.page:83
+msgid ""
+"Right click on the desktop and select the <gui>Add Website</gui> option."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-apps-open.page:87
-msgid "Click on the <gui>Websites</gui> category on the left hand side."
-msgstr "Nhấp vào danh mục <gui>Websites</gui> phía bên trái."
+#: C/shell-apps-open.page:86
+msgid ""
+"Click on the <gui>Websites</gui> category on the left hand side if it is not"
+" already selected."
+msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:91
@@ -7780,154 +7557,37 @@ msgid ""
 "available, you can do it from the <app>App Center</app>."
 msgstr "Xóa ứng dụng khỏi màn hình nền sẽ không xóa bỏ ứng dụng ra khỏi hệ thống. Nếu bạn muốn xóa hoàn toàn ứng dụng ra khỏi hệ thống để có thêm dung lượng lưu trữ, bạn có thể làm điều đó trong <app>Trung tâm Ứng dụng</app>."
 
-#. (itstool) path: info/desc
-#: C/shell-download-media.page:15
-msgid "Learn how to download songs and media from the internet."
-msgstr "Tìm hiểu cách tải ca khúc và đa phương tiện từ internet."
-
-#. (itstool) path: page/title
-#: C/shell-download-media.page:18
-msgid "Download songs and media"
-msgstr "Tải các bài hát và đa phương tiện"
-
-#. (itstool) path: page/p
-#: C/shell-download-media.page:20
-msgid ""
-"You can use the <app>FrostTorrent</app> app to download songs and media from"
-" the internet."
-msgstr "Bạn có thể dùng ứng dụng <app>FrostTorrent</app> để tải bài hát và đa phương tiện từ internet."
-
-#. (itstool) path: steps/title
-#: C/shell-download-media.page:25
-msgid "Download songs and media from the internet following these steps:"
-msgstr "Tải bài hát và tập tin đa phương tiện từ internet theo các bước sau:"
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:28
-msgid ""
-"Make sure that you have the <app>FrostTorrent</app> app installed on your "
-"computer. If you don't already have it, go to your <app>App Center</app>'s "
-"Utilities section and download it, then click on it once to open."
-msgstr "Hãy chắc chắn rằng bạn đã cài ứng dụng <app>FrostTorrent</app> trên máy tính. Nếu bạn chưa có, hãy đến mục Tiện ích của <app>Trung tâm ứng dụng</app> để tải về, sau đó nhấp một lần để mở ứng dụng."
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:33
-msgid ""
-"If this is the first time you open <app>FrostTorrent</app>, you will need to"
-" complete a short setup using the wizard it provides. Once it finishes "
-"setting up, move on to the next step."
-msgstr "Nếu đây là lần đầu tiên bạn mở <app>FrostTorrent</app>, bạn sẽ phải hoàn tất một bước thiết lập ngắn bằng cách dùng thuật sĩ được cung cấp. Khi việc thiết lập đã xong, hãy chuyển sang bước kế tiếp."
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:38
-msgid ""
-"Type in a keyword and press <key>Enter</key> on your keyboard, or click on "
-"the search icon. Suggested keywords will show up as you type and you can "
-"click on them to conduct a search on that keyword."
-msgstr "Gõ một từ khóa và nhấn <key>Enter</key> trên bàn phím của bạn, hoặc nhấp vào biểu tượng tìm kiếm. Các từ khóa được gợi ý sẽ hiện ra khi bạn gõ và bạn có thể nhấp vào chúng để tiến hành tìm kiếm từ khóa đó."
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:43
-msgid ""
-"Search results will appear in the main window. Select the file type you want"
-" by clicking on the icon of a music note (songs), a frame (photos), a film "
-"strip (videos), or a sheet of paper (documents). You can also filter your "
-"results by clicking on the <gui>Search Tools</gui> button on the right- hand"
-" side of the window."
-msgstr "Kết quả tìm kiếm sẽ hiện ra trên cửa sổ chính. Lựa chọn tập tin bạn muốn bằng cách nhấp vào biểu tượng nốt nhạc (bài hát), khung ảnh (ảnh), đoạn phim (video), hoặc một tờ giấy (tài liệu). Bạn cũng có thể lọc các kết quả của mình nhờ việc nhấp vào nút <gui>Search Tools</gui> nằm bên tay phải của cửa sổ."
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:50
-msgid ""
-"To begin downloading the file, double click on the name of a file, or click "
-"once and then click <gui>Download</gui>."
-msgstr "Để bắt đầu tải tệp tin về máy, nhấp đúp vào tên của một tệp tin hoặc nhấp một lần sau đó nhấp <gui>Download</gui>."
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:54
-msgid ""
-"After your file finishes downloading, it will appear on the bottom half of "
-"your screen and you can double click on it to open and beging using it. "
-"Right click on any finished file to see more options for using it. You can "
-"also click on the <gui>Library</gui> icon to browse through all the files "
-"that are ready for you to use."
-msgstr "Sau khi tệp của bạn đã tải xong, nó sẽ xuất hiện ở nửa dưới cùng trên màn hình của bạn và bạn có thể nhấp đúp vào tệp để mở và bắt đầu sử dụng nó. Nhấp chuột phải vào bất kỳ tệp đã tải xong để xem thêm tùy chọn sử dụng nó. Bạn cũng có thể nhấp vào biểu tượng <gui>Library</gui> (Thư viện) để duyệt qua tất cả các tệp đã sẵn sàng cho bạn sử dụng."
-
-#. (itstool) path: note/title
-#: C/shell-download-media.page:63
-msgid "Tips:"
-msgstr "Mẹo nhỏ:"
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:66
-msgid "A song with more “Seeds” next to its name will download more quickly."
-msgstr "Một bài hát có “Seeds” (Lượt tải lên) nhiều hơn bên cạnh tên bài hát sẽ tải về nhanh hơn."
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:70
-msgid ""
-"Files from SoundCloud.com, Archive.org, or other similar services, will not "
-"show any “Seeds” because they come directly from the source rather than from"
-" other users."
-msgstr "Các tệp từ SoundCloud.com, Archieve.org hay các dịch vụ khác sẽ không hiển thị bất kỳ \"Nguồn tải lên\" nào vì chúng được gửi trực tiếp từ nguồn thay vì từ những người dùng khác."
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:75
-msgid ""
-"Click the triangle button next to a file to preview it before downloading."
-msgstr "Bấm vào nút hình tam giác kế bên tệp để xem trước khi tải xuống."
-
-#. (itstool) path: item/p
-#: C/shell-download-media.page:79
-msgid ""
-"Click the plus button next to a file to select the parts of the package that"
-" you want to download."
-msgstr "Nhấn vào nút dấu cộng bên cạnh một tệp để chọn các phần của gói phần mềm mà bạn muốn tải về."
-
-#. (itstool) path: note/p
-#: C/shell-download-media.page:86
-msgid ""
-"Make sure that what you are downloading is a legal copy! Many files have "
-"copyright laws that prohibit them from being shared for free online. This "
-"means that you could be sued for illegally downloading them without paying "
-"for them. That being said, there are millions of files that are completely "
-"legal and shareable on the internet, and that you can enjoy once you "
-"download them with this app. To learn more about downloading files and "
-"copyright, you may want to google \"torrents and legality\" so that you can "
-"make informed decisions on which files to download."
-msgstr "Hãy chắc chắn rằng bạn đang tải bản sao hợp pháp! Nhiều tập tin có luật bản quyền không cho phép chia sẻ miễn phí qua internet. Điều đó có nghĩa là bạn có thể bị kiện vì tải chúng bất hợp pháp khi không trả phí. Tuy vậy, có hàng triệu tập tin hoàn toàn hợp pháp và có thể chia sẻ trên internet, và bạn có thể sử dụng khi tải về bằng ứng dụng này. Để tìm hiểu thêm về việc tải các tập tin và bản quyền, bạn có thể tìm kiếm trên Google cụm từ \"torrent và tính hợp pháp\" để cân nhắc khi quyết định tải về tập tin nào."
-
 #. (itstool) path: credit/name
 #: C/shell-exit.page:22
 msgid "Alexandre Franke"
 msgstr "Alexandre Franke"
 
 #. (itstool) path: info/desc
-#: C/shell-exit.page:32
+#: C/shell-exit.page:36
 msgid ""
 "Learn how to leave your user account, by logging out, switching users, and "
 "so on."
 msgstr "Tìm hiểu thêm về rời tài khoản người dùng, đăng xuất, chuyển người dùng..."
 
 #. (itstool) path: page/title
-#: C/shell-exit.page:36
+#: C/shell-exit.page:40
 msgid "Log out, power off or switch users"
 msgstr "Đăng xuất, tắt máy hoặc thay đổi người dùng"
 
 #. (itstool) path: page/p
-#: C/shell-exit.page:44
+#: C/shell-exit.page:48
 msgid ""
 "When you have finished using your computer, you can turn it off or leave it "
 "powered on and log out."
 msgstr "Khi bạn đã sử dụng xong máy tính của mình, bạn có thể tắt nó hoặc đăng xuất trong khi vẫn bật nguồn."
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:48
+#: C/shell-exit.page:52
 msgid "Log out or switch users"
 msgstr "Đăng xuất hoặc chuyển người dùng"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:50
+#: C/shell-exit.page:54
 msgid ""
 "To let other users use your computer, you can either log out, or leave "
 "yourself logged in and just switch users. If you switch users, all of your "
@@ -7936,20 +7596,20 @@ msgid ""
 msgstr "Để cho phép người dùng khác dùng máy tính, bạn có thể hoặc đăng xuất, hoặc vẫn đăng nhập nhưng chuyển người dùng. Nếu bạn chuyển người dùng, mọi ứng dụng của bạn sẽ vẫn chạy, và mọi thứ sẽ vẫn y nguyên khi bạn trở lại."
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:54
+#: C/shell-exit.page:58
 msgid ""
-"To log out (i.e. in order to switch to a different user), click the User "
-"Menu on the bottom left corner of your screen and then click the <gui>lock "
-"icon</gui>."
-msgstr "Để đăng xuất (ví dụ như khi muốn chuyển sang người sử dụng khác), hãy nhấp vào Danh mục Người Sử dụng ở góc dưới bên trái màn hình của bạn, sau đó nhấp vào <gui>lock icon</gui>."
+"To log out (i.e. in order to switch to a different user), click on the User "
+"icon at the very bottom right-hand side of your screen (it looks like a "
+"person), and click the <gui>Lock icon</gui>."
+msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:61
+#: C/shell-exit.page:65
 msgid "Lock the screen"
 msgstr "Khoá màn hình"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:63
+#: C/shell-exit.page:67
 msgid ""
 "If you're leaving your computer for a short time, you should lock your "
 "screen to prevent other people from accessing your files or running "
@@ -7959,15 +7619,15 @@ msgid ""
 msgstr "Nếu bạn không dùng đến máy tính trong một thời gian ngắn, bạn nên khóa màn hình lại để phòng ngừa người khác truy cập các tập tin của bạn hoặc kích hoạt các ứng dụng. Khi quay lại dùng máy, bạn sẽ cần nhập mật khẩu để đăng nhập trở lại. Bạn sẽ thấy là máy tính của bạn vẫn đang thực hiện mọi việc y như lúc bạn rời máy."
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:68
+#: C/shell-exit.page:72
 msgid ""
-"To lock your screen, click on the User Menu at the very bottom left-hand "
-"side of your screen and press the <gui>Lock</gui> button at the bottom right"
-" of the menu."
-msgstr "Để khóa màn hình, nhấp vào Trình đơn người dùng ở dưới cùng bên tay trái màn hình của bạn và nhấn nút <gui>Khóa</gui> ở phía dưới bên phải trình đơn."
+"To lock your screen, click on the User icon at the very bottom right-hand "
+"side of your screen (it looks like a person), and click the <gui>Lock "
+"icon</gui>."
+msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-exit.page:72
+#: C/shell-exit.page:76
 msgid ""
 "If you don't lock your screen, it will lock automatically after a certain "
 "amount of time, unless you disable that feature from the <gui>Privacy</gui> "
@@ -7975,22 +7635,22 @@ msgid ""
 msgstr "Nếu bạn không khóa màn hình, nó sẽ tự động khóa sau một khoảng thời gian nhất định, trừ khi bạn tắt tính năng này ở mục <gui>Bảo mật</gui>  trong <gui>Cài đặt</gui>."
 
 #. (itstool) path: section/title
-#: C/shell-exit.page:84
+#: C/shell-exit.page:88
 msgid "Power off or restart"
 msgstr "Tắt máy hoặc khởi động lại"
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:86
+#: C/shell-exit.page:90
 msgid ""
 "If you want to power off your computer entirely, or do a full restart, click"
-" the User Menu at the very bottom left-hand side of your screen and press "
-"the <gui>Exit</gui> button at the bottom right of the menu. A dialog will "
-"open offering you the options to, among other options, <gui>Restart</gui> or"
-" <gui>Power Off</gui>."
-msgstr "Nếu bạn muốn máy tính của bạn tắt nguồn hoàn toàn, hoặc khởi động lại toàn bộ, nhấp vào User Menu (Menu Người dùng) ở phía dưới bên trái của màn hình và nhấn nút <gui>Exit</gui> (Thoát) ở phía dưới bên phải của menu . Một hộp thoại sẽ mở ra và đưa cho bạn các tùy chọn để <gui>Restart</gui> (Khởi động lại) hoặc <gui>Power Off</gui> (Tắt Nguồn), trong số nhiều tùy chọn khác."
+" on the User icon at the very bottom right-hand side of your screen (it "
+"looks like a person), and press the <gui>Exit</gui> button at the bottom "
+"right of the menu. A dialog will open offering you the options to, among "
+"other options, <gui>Restart</gui> or <gui>Power Off</gui>."
+msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-exit.page:92
+#: C/shell-exit.page:96
 msgid ""
 "If there are other users logged in, you may not be allowed to power off or "
 "restart the computer because this will end their sessions. If you are an "
@@ -8024,17 +7684,17 @@ msgid ""
 msgstr "Nếu bạn có một ứng dụng cụ thể mà bạn muốn thấy trên Endless trong tương lai, vui lòng <link xref=\"gs-give-feedback\">gửi cho chúng tôi một tin nhắn thông qua tùy chọn Phản hồi </link> để chúng tôi biết."
 
 #. (itstool) path: info/desc
-#: C/shell-introduction.page:28
+#: C/shell-introduction.page:33
 msgid "A quick introduction to your desktop and some of its cool features."
 msgstr "Giới thiệu nhanh về màn hình nền của bạn và một số đặc điểm thú vị của màn hình."
 
 #. (itstool) path: page/title
-#: C/shell-introduction.page:31
+#: C/shell-introduction.page:36
 msgid "Introduction to Endless"
 msgstr "Giới thiệu Endless"
 
 #. (itstool) path: page/p
-#: C/shell-introduction.page:33
+#: C/shell-introduction.page:38
 msgid ""
 "Endless has been created just for you. When you first turn your computer on,"
 " you'll find some important applications already installed on your desktop, "
@@ -8042,24 +7702,22 @@ msgid ""
 msgstr "Endless được tạo ra dành riêng cho bạn. Khi bạn bật máy tính lần đầu tiên, bạn sẽ thấy một số ứng dụng quan trọng đã cài đặt sẵn trên màn hình nền, và một thanh công cụ ở dưới cùng màn hình."
 
 #. (itstool) path: page/p
-#: C/shell-introduction.page:37
+#: C/shell-introduction.page:42
 msgid ""
 "The task bar provides access to important things like your windows and "
 "applications, your calendar and clock, and system properties like sound and "
 "networking. There, you can change the volume, edit your Wi-Fi connection "
 "details, check your battery status, log out or switch users, and turn off "
-"your computer. We have also included the possibility to connect to Facebook "
-"on this task bar, so that you can keep in touch with your friends more "
-"easily than ever!"
-msgstr "Thanh tác vụ cho phép truy cập vào những nơi quan trọng như cửa sổ và ứng dụng, lịch và đồng hồ, và các thuộc tính hệ thống như âm thanh và kết nối mạng. Ở đó, bạn có thể điều chỉnh âm lượng, sửa thông tin kết nối Wi-Fi, kiểm tra tình trạng pin, đăng xuất hoặc chuyển đổi người dùng, và tắt máy tính. Chúng tôi cũng đã bổ sung khả năng kết nối với Facebook trên thanh tác vụ này, để bạn có thể giữ liên lạc với bạn bè dễ dàng hơn bao giờ hết!"
+"your computer."
+msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:48
+#: C/shell-introduction.page:51
 msgid "<app>App Center</app> overview"
 msgstr "Tổng quan về <app>Trung tâm Ứng dụng</app> "
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:50
+#: C/shell-introduction.page:53
 msgid ""
 "Your computer should be incredibly useful to you both online and offline. "
 "For that reason, we have packed Endless with all sorts of applications and "
@@ -8069,23 +7727,13 @@ msgid ""
 " to install on your desktop."
 msgstr "Máy tính của bạn cần hoạt động thực hữu ích cả khi trực tuyến lẫn khi ngoại tuyến. Vì lý do này, chúng tôi đã trang bị cho Endless đủ loại ứng dụng và nội dung để bạn khám phá và tìm hiểu. Bạn có thể bổ sung thêm ứng dụng cho màn hình nền của bạn bằng việc nhấp vào nút <_:media-1/> trên màn hình nền. Điều đó sẽ khởi động <app>App Center</app> của chúng tôi, trong đó có chứa đầy các ứng dụng miễn phí để bạn cài đặt lên màn hình nền của mình."
 
-#. (itstool) path: section/p
-#: C/shell-introduction.page:58
-msgid ""
-"From the <app>App Center</app> you can add: <gui>Apps</gui>, "
-"<gui>Websites</gui>, and <gui>Folders</gui>. You can browse applications you"
-" may want to install by category, add shortcuts to your favorite websites "
-"onto your desktop, or simply create new folders to organize all of your "
-"things in a way that makes sense to you."
-msgstr "Từ <app>Trung tâm Ứng dụng</app> bạn có thể thêm các: <gui>Ứng dụng</gui>, <gui>Trang web</gui>, và <gui>Thư mục</gui>. Bạn có thể duyệt các ứng dụng mà bạn muốn cài đặt theo thể loại, thêm lối tắt đến các trang web ưa thích của mình vào màn hình nền, hoặc đơn giản là tạo thư mục mới để sắp xếp mọi thứ của bạn theo cách có ý nghĩa với bạn."
-
 #. (itstool) path: item/p
-#: C/shell-introduction.page:67
+#: C/shell-introduction.page:64
 msgid "<link xref=\"shell-apps-open\">Learn more about installing apps.</link>"
 msgstr "<link xref=\"shell-apps-open\">Tìm hiểu thêm về việc cài đặt ứng dụng.</link>"
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:75
+#: C/shell-introduction.page:72
 msgid "You and your computer"
 msgstr "Bạn và máy tính của bạn"
 
@@ -8094,7 +7742,7 @@ msgstr "Bạn và máy tính của bạn"
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:79
+#: C/shell-introduction.page:76
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-classic.png' "
@@ -8102,19 +7750,19 @@ msgid ""
 msgstr "external ref='figures/shell-exit-classic.png' md5='f36e3a0a115ff2181a6fc787e6a83283'"
 
 #. (itstool) path: media/p
-#: C/shell-introduction.page:80
+#: C/shell-introduction.page:77
 msgid "User menu"
 msgstr "Trình đơn người dùng"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:86
+#: C/shell-introduction.page:83
 msgid ""
 "Click on the <gui>User Menu</gui> on the bottom left-hand corner of your "
 "screen to manage your system settings and your computer."
 msgstr "Nhấp vào <gui>Trình đơn Người dùng</gui> (User Menu) ở góc trái phía cuối màn hình để quản lý cài đặt hệ thống cũng như máy tính của bạn."
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:113
+#: C/shell-introduction.page:110
 msgid ""
 "When you leave your computer, you can lock your screen to prevent other "
 "people from using it. You can also choose to turn off or restart your "
@@ -8122,19 +7770,19 @@ msgid ""
 msgstr "Khi bạn rời khỏi máy tính của mình, bạn có thể khóa màn hình để ngăn chặn người khác sử dụng nó. Bạn cũng có thể chọn tắt hoặc khởi động lại máy tính của mình."
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:119
+#: C/shell-introduction.page:116
 msgid ""
 "<link xref=\"shell-exit\">Learn more about switching users, logging out, and"
 " turning off your computer.</link>"
 msgstr "<link xref=\"shell-exit\">Tìm hiểu thêm về chuyển người dùng, đăng xuất hoặc tắt máy.</link>"
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:126
+#: C/shell-introduction.page:123
 msgid "Lock Screen"
 msgstr "Màn hình Khóa"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:128
+#: C/shell-introduction.page:125
 msgid ""
 "When you lock your screen, or it locks automatically, the lock screen is "
 "displayed. In addition to protecting your desktop while you're away from "
@@ -8144,18 +7792,18 @@ msgid ""
 msgstr "Khi bạn khóa màn hình của bạn, hoặc màn hình tự động khóa, màn hình khóa sẽ được hiển thị. Ngoài việc bảo vệ desktop của bạn trong khi bạn không ở gần máy tính của mình, màn hình khóa sẽ hiển thị ngày tháng và thời gian. Màn hình khóa cũng hiển thị thông tin về pin và tình trạng mạng của bạn, và cho phép bạn điều khiển phát lại phương tiện."
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:136
+#: C/shell-introduction.page:133
 msgid ""
 "<link xref=\"privacy-screen-lock\">Learn more about the lock screen.</link>"
 msgstr "<link xref=\"privacy-screen-lock\">Tìm hiểu thêm về màn hình khóa.</link>"
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:144
+#: C/shell-introduction.page:141
 msgid "Hot Corner"
 msgstr "Hot Corner"
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:146
+#: C/shell-introduction.page:143
 msgid ""
 "Endless allows you to see all of your open windows and tasks so that you can"
 " multitask like a pro. To access this cool feature, move your mouse pointer "
@@ -8167,7 +7815,7 @@ msgid ""
 msgstr "Endless  cho phép bạn thấy được tất cả các cửa sổ và các công việc đang mở của bạn để bạn có thể làm nhiều việc một lúc thật chuyên nghiệp. Để tiếp cận với đặc điểm rất tuyệt này, di chuyển con trỏ chuột của bạn tới góc dưới cùng bên phải màn hình của bạn. Sau đó, bạn có thể nhấp vào cửa sổ hoặc công việc bạn muốn mở, nhờ vậy bạn có thể di chuyển qua lại nhanh hơn rất nhiều. Ví dụ, nếu bạn muốn quay lại màn hình nền trong khi có rất nhiều các ứng dụng và các nội dung đa phương tiện đang mở, chỉ việc nhấp chuột vào một khoảng mở phía sau các cửa sổ đang mở của bạn!"
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:155
+#: C/shell-introduction.page:152
 msgid ""
 "<link xref=\"shell-windows-switching\">Learn more about switching "
 "windows.</link>"
@@ -8415,31 +8063,31 @@ msgid "Marina Zhurakhinskaya"
 msgstr "Marina Zhurakhinskaya"
 
 #. (itstool) path: info/desc
-#: C/shell-notifications.page:28
+#: C/shell-notifications.page:31
 msgid ""
 "Messages pop-up at the bottom of the screen telling you when certain events "
 "happen."
 msgstr "Thông báo hiện ở đáy màn hình cho bạn biết một số sự kiện nhất định đang diễn ra."
 
 #. (itstool) path: page/title
-#: C/shell-notifications.page:31
+#: C/shell-notifications.page:34
 msgid "Notifications and the message tray"
 msgstr "Thông báo và khay thông báo"
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:34
+#: C/shell-notifications.page:37
 msgid "What is a notification?"
 msgstr "Thông báo là gì?"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:36
+#: C/shell-notifications.page:39
 msgid ""
 "If an application or a system component wants to get your attention, a "
 "notification will be shown at the bottom of your screen."
 msgstr "Nếu một ứng dụng hay một thành phần hệ thống muốn thu hút sự chú ý của bạn, sẽ có một thông báo xuất hiện ở phía cuối màn hình của bạn."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:39
+#: C/shell-notifications.page:42
 msgid ""
 "For example, if you plug in an external device (like a USB stick), or if new"
 " updates are available for your computer, you will get a notification "
@@ -8447,33 +8095,33 @@ msgid ""
 msgstr "Ví dụ, nếu bạn cắm một thiết bị bên ngoài (như ổ USB), hay nếu có các cập nhật mới cho máy tính của bạn, bạn sẽ nhận được thông báo để báo tin cho bạn biết."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:43
+#: C/shell-notifications.page:46
 msgid ""
 "To minimize distraction, some notifications first appear as a single line. "
 "You can move your mouse over them to see their full content."
 msgstr "Để tránh bị phân tâm, thông báo lần đầu tiên xuất hiện dạng một dòng đơn. Bạn có thể chuyển con chuột bên trên để xem đầy đủ nội dung."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:46
+#: C/shell-notifications.page:49
 msgid ""
 "Other notifications have selectable option buttons. To close one of these "
 "notifications without selecting one of its options, click the close button."
 msgstr "Các thông báo khác có các nút tùy chọn có thể chọn được. Để đóng một trong các thông báo này mà không lựa chọn một trong số các tuỳ chọn của nó, nhấp vào nút đóng."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:51
+#: C/shell-notifications.page:54
 msgid ""
 "Clicking the close button on some notifications dismisses them. Others may "
 "stay hidden in the message tray."
 msgstr "Khi nhấp vào nút Đóng trên một số thông báo, các thông báo này sẽ bị bỏ qua. Một số thông báo khác có thể bị ẩn trong khay thông báo."
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:60
+#: C/shell-notifications.page:63
 msgid "The message tray"
 msgstr "Khay thông báo"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:62
+#: C/shell-notifications.page:65
 msgid ""
 "The message tray gives you a way to get back to your notifications when it "
 "is convenient for you. It appears when you move your mouse to the bottom-"
@@ -8483,7 +8131,7 @@ msgid ""
 msgstr "Khay thông báo là một cách cho phép bạn quay trở lại các thông báo khi thấy thuận tiện. Khay thông báo xuất hiện khi bạn di chuột đến góc phải phía cuối màn hình, hoặc nhấn <keyseq><key xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq>. Khay thông báo chứa đựng tất cả các thông báo mà bạn chưa động đến hoặc những thông báo vĩnh viễn thuộc về khay."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:69
+#: C/shell-notifications.page:72
 msgid ""
 "The message tray gives you a way to get back to your notifications when it "
 "is convenient for you. It appears when you move your mouse to the bottom-"
@@ -8495,7 +8143,7 @@ msgid ""
 msgstr "Khay thông báo cho bạn cách để trở lại xem các thông báo của mình khi thuận tiện. Nó xuất hiện khi bạn di chuyển chuột đến góc dưới bên phải màn hình, hoặc nhấn  <keyseq> <key xref=\"keyboard-key-super\">Super</key><key>M</key></keyseq>. Bạn cũng có thể hiển thị khay thông báo bằng cách bấm vào biểu tượng số màu xanh dương ở bên trái danh sách cửa sổ. Khay thông báo chứa tất cả các thông báo bạn chưa thực hiện hành động hoặc thông báo nằm thường trực ở đó."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:77
+#: C/shell-notifications.page:80
 msgid ""
 "You can view the notifications by clicking on the message tray items. These "
 "are usually messages sent by applications. However, chat notifications are "
@@ -8504,43 +8152,43 @@ msgid ""
 msgstr "Bạn có thể xem thông báo bằng cách nhấn vào các mục trong khay thông báo. Thường các mục trong đây do ứng dụng gửi cho bạn. Tuy nhiên, thông báo tin nhắn được đối xử đặc biệt và hiện ra theo người đã gửi cho bạn."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:82
+#: C/shell-notifications.page:85
 msgid ""
 "You can close the message tray by pressing "
 "<keyseq><key>Super</key><key>M</key></keyseq> again or <key>Esc</key>."
 msgstr "Bạn có thể đóng khay thông báo nhờ nhấn <keyseq><key>Super</key><key>M</key></keyseq> một lần nữa hoặc <key>Esc</key>."
 
 #. (itstool) path: note/p
-#: C/shell-notifications.page:86
+#: C/shell-notifications.page:89
 msgid ""
 "If the <link xref=\"keyboard-osk\">screen keyboard</link> is open, you will "
 "need to click the <gui>tray button</gui> to show the message tray."
 msgstr "Nếu <link xref=\"keyboard-osk\">bàn phím ảo</link> đang mở, bạn sẽ cần phải bấm vào <gui>nút khay</gui> để hiển thị khay thông báo."
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:94
+#: C/shell-notifications.page:97
 msgid "Hiding notifications"
 msgstr "Ẩn thông báo"
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:96
+#: C/shell-notifications.page:99
 msgid ""
 "If you're working on something and do not want to be bothered, you can "
 "switch off notifications."
 msgstr "Nếu bạn đang làm một việc gì đó và không muốn bị làm phiền, bạn có thể tắt thông báo."
 
 #. (itstool) path: item/p
-#: C/shell-notifications.page:107
+#: C/shell-notifications.page:108
 msgid "Click on <gui>Notifications</gui>."
 msgstr "Nhấp vào <gui>Notifications</gui>."
 
 #. (itstool) path: item/p
-#: C/shell-notifications.page:111
+#: C/shell-notifications.page:112
 msgid "Switch <gui>Show Pop Up Banners</gui> to <gui>Off</gui>."
 msgstr "Chuyển <gui>Hiển thị Băng quảng cáo Bật lên</gui> sang chế độ <gui>Tắt</gui>."
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:115
+#: C/shell-notifications.page:116
 msgid ""
 "When switched off, most notifications will not pop up at the bottom of the "
 "screen. Very important notifications, such as when your battery is "
@@ -8553,8 +8201,8 @@ msgstr "Khi đã được tắt đi thì hầu hết các thông báo sẽ khôn
 
 #. (itstool) path: info/desc
 #: C/shell-organize-apps.page:18
-msgid "Keep all of your apps organized."
-msgstr "Luôn sắp xếp tất cả các ứng dụng của bạn."
+msgid "Use folders to stay organized."
+msgstr ""
 
 #. (itstool) path: page/title
 #: C/shell-organize-apps.page:21
@@ -8651,39 +8299,33 @@ msgstr "Endless liên tục cải thiện các ứng dụng để chúng ngày c
 
 #. (itstool) path: item/p
 #: C/shell-update-app.page:34
-msgid ""
-"On the left menu, click on the section <gui>Installed</gui>. All apps that "
-"are installed on your computer will be there."
-msgstr "Trên menu bên trái, nhấp vào phần <gui>Installed</gui> (Đã cài đặt). Tất cả các ứng dụng được cài đặt trên máy tính của bạn sẽ hiển thị ở đó."
+msgid "On the top bar, click the <gui>Updates</gui> section."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-update-app.page:38
-msgid "Click the thumbnail of the app you want to update."
-msgstr "Nhấp vào ảnh thu nhỏ của ứng dụng bạn muốn cập nhật."
+#: C/shell-update-app.page:37
+msgid ""
+"If there is an update available, you will see an <gui>Update</gui> you can "
+"select. Click on it to download the update. It will be installed "
+"automatically once it's ready."
+msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-update-app.page:41
+#: C/shell-update-app.page:42
 msgid ""
-"If there is an update available, you will see a green button with the label "
-"<gui>Update app</gui>. Click on it to download the update. It will be "
-"installed automatically once it's ready."
-msgstr "Nếu có bản cập nhật, bạn sẽ thấy nút màu xanh lá với nhãn <gui>Cập nhật ứng dụng</gui>. Bấm vào nút này để tải về bản cập nhật. Nó sẽ được tự động cài đặt khi sẵn sàng."
-
-#. (itstool) path: item/p
-#: C/shell-update-app.page:46
-msgid ""
-"Once the update is installed, you will see the <gui>Open app</gui> button."
-msgstr "Khi cập nhật đã được cài đặt, bạn sẽ thấy có nút <gui>Mở ứng dụng</gui>."
+"You can also choose to <gui>Update All</gui> of your apps at once with the "
+"blue button at the top right of your screen."
+msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-update-app.page:52
-msgid "To update an app, you will need an internet connection."
-msgstr "Để cập nhật một ứng dụng, bạn sẽ cần có kết nối internet."
+#: C/shell-update-app.page:48
+msgid "To update your apps, you will need an internet connection."
+msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-update-app.page:55
-msgid "You can close the <app>App Center</app> while the app is updating."
-msgstr "Bạn có thể đóng <app>App Center</app> (Trung tâm Ứng dụng) trong khi ứng dụng đang cập nhật."
+#: C/shell-update-app.page:51
+msgid "You can close the <app>App Center</app> while apps are updating."
+msgstr ""
 
 #. (itstool) path: info/desc
 #: C/shell-update-system.page:19
@@ -8735,19 +8377,19 @@ msgid ""
 msgstr "Nếu bạn muốn kiểm tra các bản cập nhật, bạn cần phải làm theo các bước này:"
 
 #. (itstool) path: item/p
-#: C/shell-update-system.page:52
+#: C/shell-update-system.page:51
 msgid "Click on <gui>Details</gui>."
 msgstr "Nhấp vào <gui>Chi tiết</gui>."
 
 #. (itstool) path: item/p
-#: C/shell-update-system.page:56
+#: C/shell-update-system.page:55
 msgid ""
 "Click on the <gui>Search for updates now</gui> button. If there are updates,"
 " they will automatically start to download and install to your system."
 msgstr "Bấm nút <gui>Tìm kiếm bản cập nhật ngay</gui>. Nếu có bản cập nhật, chúng sẽ được tự động tải về và cài đặt vào hệ thống của bạn."
 
 #. (itstool) path: note/p
-#: C/shell-update-system.page:64
+#: C/shell-update-system.page:63
 msgid ""
 "Make sure you don't go over your data limit! You may want to wait until you "
 "can get a Wi-Fi or wired internet connection. You can also contact our "
@@ -8781,9 +8423,12 @@ msgstr "Khi ứng dụng bị ẩn đi, bạn có thể khiến nó xuất hiệ
 #. (itstool) path: note/p
 #: C/shell-windows-hide.page:33
 msgid ""
-"If you want to hide several windows at the same time, you might want to use "
-"the <gui>hot corner</gui> to quickly navigate between the hidden apps."
-msgstr "Nếu bạn muốn ẩn vài cửa sổ cùng một lúc, có lẽ bạn nên dùng <gui>hot corner</gui> để nhanh chóng dịch chuyển qua lại giữa các ứng dụng ẩn."
+"Starting in Endless version 3.2, you can hide all of your windows instantly "
+"by clicking on the Endless logo on the bottom left corner. Click it again to"
+" restore your windows. When your windows are minimized, you can use the "
+"<gui>hot corner</gui> on the bottom right to quickly navigate between the "
+"hidden apps."
+msgstr ""
 
 #. (itstool) path: info/desc
 #: C/shell-windows-maximize.page:9
@@ -8987,19 +8632,19 @@ msgid ""
 msgstr "Máy tính có thể phát âm thanh báo động đơn giản cho một số loại thông báo và sự kiện. Bạn có thể chọn những đoạn âm thanh khác nhau cho báo động, đặt mức âm lượng báo động độc lập với âm lượng hệ thống, hoặc tắt báo động âm thanh hoàn toàn."
 
 #. (itstool) path: item/p
-#: C/sound-alert.page:45
+#: C/sound-alert.page:43
 msgid "Click <gui>Sound</gui>."
 msgstr "Nhấn <gui>Âm thanh</gui>."
 
 #. (itstool) path: item/p
-#: C/sound-alert.page:48
+#: C/sound-alert.page:46
 msgid ""
 "In the <gui>Sound Effects</gui> tab, select an alert sound. Each sound will "
 "play when you click on it so you can hear how it sounds."
 msgstr "Trong tab <gui>Sound Effects</gui> (Hiệu ứng Âm thanh), hãy chọn âm thanh cảnh báo. Từng âm thanh sẽ phát khi bạn nhấp vào âm thanh đó để bạn có thể nghe thấy âm thanh đó như thế nào."
 
 #. (itstool) path: page/p
-#: C/sound-alert.page:53
+#: C/sound-alert.page:51
 msgid ""
 "Use the volume slider in the <gui>Sound Effects</gui> tab to set the volume "
 "of the alert sound. This won't affect the volume of your music, movies, or "
@@ -9007,49 +8652,11 @@ msgid ""
 msgstr "Sử dụng thanh điều chỉnh âm thanh trên thẻ <gui>South Effects</gui> để đặt âm lượng của chuông báo. Việc này sẽ không thay đổi âm lượng của nhạc, phim hoặc các tệp âm thanh khác."
 
 #. (itstool) path: page/p
-#: C/sound-alert.page:57
+#: C/sound-alert.page:55
 msgid ""
 "To disable alert sounds entirely, switch the <gui>Alert volume</gui> to "
 "<gui>Off</gui>."
 msgstr "Để tắt toàn bộ âm thông báo, chuyển <gui>Âm lượng thông báo</gui> sang chế độ <gui>Tắt</gui>."
-
-#. (itstool) path: credit/years
-#: C/sound-troubleshoot.page:15
-msgid "2016"
-msgstr "2016"
-
-#. (itstool) path: info/desc
-#: C/sound-troubleshoot.page:18
-msgid ""
-"If you can't hear sound on your computer, there may be a way to fix that."
-msgstr "Nếu bạn không nghe thấy âm thanh từ máy tính, có thể có cách để khắc phục vấn đề này."
-
-#. (itstool) path: page/title
-#: C/sound-troubleshoot.page:22
-msgid "Troubleshoot sound on your computer"
-msgstr "Khắc phục sự cố âm thanh trên máy tính của bạn"
-
-#. (itstool) path: page/p
-#: C/sound-troubleshoot.page:24
-msgid ""
-"Here are some known issues and how to fix them if you're having trouble "
-"hearing sound from your computer."
-msgstr "Sau đây là một số vấn đề đã biết và cách khắc phục vấn đề nếu bạn gặp phải sự cố không nghe được âm thanh từ máy tính của bạn. "
-
-#. (itstool) path: section/title
-#: C/sound-troubleshoot.page:28
-msgid "Hearing sound on an old TV"
-msgstr "Nghe âm thanh trên một chiếc tivi cũ"
-
-#. (itstool) path: section/p
-#: C/sound-troubleshoot.page:30
-msgid ""
-"Some Endless computers are compatible with old TVs. To play audio through "
-"your TV, you will need to use an adapter that connects your TV to the 3.5 mm"
-" audio jack on the side of your computer. Endless does not come with this "
-"adapter, so you should check with your local electronics retailer to "
-"purchase one."
-msgstr "Một số máy tính Endless tương thích với các tivi cũ. Để nghe các nội dung âm thanh trên tivi của bạn, bạn sẽ phải dùng một bộ chuyển đổi để kết nối tivi của bạn với jack cắm âm thanh 3,5 mm ở bên sườn máy tính của bạn. Endless không đi kèm với bộ chuyển đổi này, vì thế bạn cần mua ở các nhà bán lẻ đồ điện tử ở nơi bạn sinh sống."
 
 #. (itstool) path: info/desc
 #: C/sound-volume.page:20
@@ -9122,23 +8729,23 @@ msgid ""
 msgstr "Chỉ những ứng dụng đang phát âm thanh mới được liệt kê. Nếu ứng dụng của bạn đang phát nhưng không được liệt kê, có thể nó không hỗ trợ điều chỉnh âm lượng theo cách này. Trong trường hợp này bạn không thể thay đổi âm lượng của nó."
 
 #. (itstool) path: info/title
-#: C/user-add.page:32
+#: C/user-add.page:36
 msgctxt "link:index"
 msgid "How do I add more user accounts?"
 msgstr "Làm thế nào để thêm tài khoản người dùng?"
 
 #. (itstool) path: info/desc
-#: C/user-add.page:33
+#: C/user-add.page:37
 msgid "Add new users so that other people can log in to the computer."
 msgstr "Thêm người dùng để người khác có thể đăng nhập vào hệ thống."
 
 #. (itstool) path: page/title
-#: C/user-add.page:36
+#: C/user-add.page:40
 msgid "Add a new user account"
 msgstr "Thêm tài khoản người dùng mới"
 
 #. (itstool) path: page/p
-#: C/user-add.page:61
+#: C/user-add.page:65
 msgid ""
 "You can create multiple user accounts on your computer and give a user "
 "account to everyone who uses your computer. That way, you can make sure that"
@@ -9147,7 +8754,7 @@ msgid ""
 msgstr "Bạn có thể tạo nhiều tài khoản người dùng trên máy tính của mình và cấp tài khoản người dùng cho từng người sử dụng máy tính của bạn. Bằng cách này, bạn có thể bảo đảm rằng các tệp của mình giữ được sự riêng tư và mỗi người dùng sẽ có thư mục chủ, tài liệu và các cài đặt tùy chỉnh của riêng họ."
 
 #. (itstool) path: page/p
-#: C/user-add.page:66
+#: C/user-add.page:70
 msgid ""
 "You will need <link xref=\"user-admin-explain\">administrator "
 "privileges</link> to add user accounts. The administrator is usually the "
@@ -9157,35 +8764,35 @@ msgid ""
 msgstr "Bạn sẽ cần có <link xref=\"user-admin-explain\">đặc quyền quản trị viên</link> để thêm tài khoản người dùng. Quản trị viên thường là người thiết lập tài khoản của họ đầu tiên khi máy tính lần đầu được mua về và thiết lập, mặc dù những người khác cũng có thể được người dùng đầu tiên đó trao đặc quyền quản trị viên."
 
 #. (itstool) path: steps/title
-#: C/user-add.page:73
+#: C/user-add.page:77
 msgid ""
 "If you are the administrator, follow these steps to create more user "
 "accounts:"
 msgstr "Nếu bạn là quản trị viên, hãy làm theo các bước sau để thêm tài khoản người dùng:"
 
 #. (itstool) path: item/p
-#: C/user-add.page:82 C/user-admin-change.page:44 C/user-autologin.page:35
-#: C/user-changepassword.page:71 C/user-changepicture.page:48
-#: C/user-delete.page:55
+#: C/user-add.page:84 C/user-admin-change.page:42 C/user-autologin.page:33
+#: C/user-changepassword.page:69 C/user-changepicture.page:46
+#: C/user-delete.page:53
 msgid "Click on <gui>Users</gui>."
 msgstr "Bấm vào <gui>Người dùng</gui>."
 
 #. (itstool) path: item/p
-#: C/user-add.page:86 C/user-admin-change.page:48 C/user-delete.page:59
+#: C/user-add.page:88 C/user-admin-change.page:46 C/user-delete.page:57
 msgid ""
 "Press <gui style=\"button\">Unlock</gui> in the top right corner and type in"
 " your password when prompted."
 msgstr "Nhấn <gui style=\"button\">Mở khóa</gui> ở góc trên bên phải và nhập mật khẩu của bạn khi được hỏi."
 
 #. (itstool) path: item/p
-#: C/user-add.page:93
+#: C/user-add.page:95
 msgid ""
 "Press the <gui style=\"button\">+</gui> button, below the list of accounts "
 "on the left, to add a new user account."
 msgstr "Nhấn nút <gui style=\"button\">+</gui>, dưới danh sách các tài khoản ở bên trái, để bổ sung thêm tài khoản cho người sử dụng mới."
 
 #. (itstool) path: item/p
-#: C/user-add.page:98
+#: C/user-add.page:100
 msgid ""
 "If you want the new user to have <link xref=\"user-admin-"
 "explain\">administrative access</link> to the computer, select "
@@ -9195,7 +8802,7 @@ msgid ""
 msgstr "Nếu bạn muốn người dùng mới có <link xref=\"user-admin-explain\">quyền truy cập quản trị</link> vào máy tính, hãy chọn <gui>Administrator</gui> (Quản trị) cho loại tài khoản. Quản trị viên có thể làm những việc như thêm và xóa người dùng, cài đặt phần mềm và trình điều khiển, và thay đổi ngày và thời gian."
 
 #. (itstool) path: item/p
-#: C/user-add.page:105
+#: C/user-add.page:107
 msgid ""
 "Enter the new user's full name. The username will be filled in automatically"
 " based on the full name. If you do not like the proposed username, you can "
@@ -9203,12 +8810,12 @@ msgid ""
 msgstr "Nhập họ và tên đầy đủ của người sử dụng mới. Tên người sử dụng sẽ được tự động điền vào, dựa trên họ và tên đầy đủ. Nếu bạn không thích tên người sử dụng do máy đề xuất, bạn có thể thay đổi."
 
 #. (itstool) path: media/span
-#: C/user-add.page:112 C/user-changepassword.page:83
+#: C/user-add.page:114 C/user-changepassword.page:81
 msgid "generate password"
 msgstr "tạo mật khẩu"
 
 #. (itstool) path: item/p
-#: C/user-add.page:110
+#: C/user-add.page:112
 msgid ""
 "You can chose to set a password for the new user, or let them set it "
 "themselves on their first login. You can press on the <gui "
@@ -9217,12 +8824,12 @@ msgid ""
 msgstr "Bạn có thể chọn thiết lập mật khẩu cho người dùng mới hoặc để máy tự thiết lập khi đăng nhập lần đầu tiên. Bạn có thể nhấn vào biểu tượng <gui style=\"button\"><_:media-1/></gui> để tự động tạo ra một mật khẩu ngẫu nhiên."
 
 #. (itstool) path: item/p
-#: C/user-add.page:117
+#: C/user-add.page:119
 msgid "Click <gui>Add</gui>."
 msgstr "Nhấp vào <gui>Thêm</gui>."
 
 #. (itstool) path: page/p
-#: C/user-add.page:121
+#: C/user-add.page:123
 msgid ""
 "If you want to change the password after creating the account, select the "
 "account, <gui style=\"button\">Unlock</gui> the panel and press on the "
@@ -9230,7 +8837,7 @@ msgid ""
 msgstr "Nếu bạn muốn thay đổi mật khẩu sau khi tạo tài khoản, hãy chọn tài khoản đó, <gui style=\"button\">Mở khóa</gui> bảng điều khiển và nhấn vào trạng thái mật khẩu hiện tại."
 
 #. (itstool) path: note/p
-#: C/user-add.page:126
+#: C/user-add.page:128
 msgid ""
 "In the <gui>Users</gui> panel, you can click the image next to the user's "
 "name to the right to set an image for the account. This image will be shown "
@@ -9239,7 +8846,7 @@ msgid ""
 msgstr "Trong bảng <gui>Users</gui>, bạn có thể nhấp vào hình ảnh nằm cạnh tên người sử dụng ở bên phải để chọn hình ảnh cho tài khoản đó. Hình ảnh này sẽ hiện ra ở cửa sổ đăng nhập. Endless cung cấp một số hình ảnh trong kho ảnh nếu bạn muốn dùng, hoặc bạn có thể chọn ảnh của riêng bạn hay dùng webcam chụp ảnh."
 
 #. (itstool) path: note/p
-#: C/user-add.page:133
+#: C/user-add.page:135
 msgid ""
 "You may want to create a \"Guest\" account so that friends or others who "
 "visit you can use it and you can rest assured that they will not mess up any"
@@ -9276,24 +8883,24 @@ msgid ""
 msgstr "Bạn cần <link xref=\"user-admin-explain\">quyền quản trị viên</link> để thay đổi loại tài khoản."
 
 #. (itstool) path: item/p
-#: C/user-admin-change.page:52
+#: C/user-admin-change.page:50
 msgid "Select the user whose privileges you want to change."
 msgstr "Chọn người dùng mà bạn muốn thay đổi đặc quyền."
 
 #. (itstool) path: item/p
-#: C/user-admin-change.page:55
+#: C/user-admin-change.page:53
 msgid ""
 "Click the label <gui>Standard</gui> next to <gui>Account Type</gui> and "
 "select <gui>Administrator</gui>."
 msgstr "Nhấp vào nhãn <gui>Tiêu chuẩn</gui> kế bên <gui>Loại Tài khoản</gui> và chọn <gui>Quản trị viên</gui>."
 
 #. (itstool) path: item/p
-#: C/user-admin-change.page:59
+#: C/user-admin-change.page:57
 msgid "The user's privileges will be changed when they next log in."
 msgstr "Các đặc quyền của người dùng sẽ thay đổi trong lần đăng nhập tiếp theo."
 
 #. (itstool) path: note/p
-#: C/user-admin-change.page:64
+#: C/user-admin-change.page:62
 msgid ""
 "The first user account on the system is usually the one that has "
 "administrator privileges. This is the user account that was created when you"
@@ -9301,7 +8908,7 @@ msgid ""
 msgstr "Tài khoản người dùng đầu tiên trên hệ thống thường là tài khoản có đặc quyền quản trị viên. Đây là tài khoản người dùng được tạo ra khi bạn cài đặt hệ thống lần đầu."
 
 #. (itstool) path: note/p
-#: C/user-admin-change.page:67
+#: C/user-admin-change.page:65
 msgid ""
 "It is unwise to have too many users with <gui>Administrator</gui> privileges"
 " on one system."
@@ -9474,23 +9081,23 @@ msgid ""
 msgstr "Bạn có thể thay đổi cài đặt của mình để bạn tự động đăng nhập vào tài khoản của mình mỗi khi bạn bật máy tính lên:"
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:39
+#: C/user-autologin.page:37
 msgid ""
 "Select the user account that you want to log in to automatically at startup."
 msgstr "Chọn tài khoản người dùng mà bạn muốn tự động đăng nhập vào khi khởi động."
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:43
+#: C/user-autologin.page:41
 msgid "Press <gui style=\"button\">Unlock</gui> and enter your password."
 msgstr "Nhấn nút <gui style=\"button\">Mở khóa</gui> (Unlock) và nhập mật khẩu của bạn."
 
 #. (itstool) path: item/p
-#: C/user-autologin.page:46
+#: C/user-autologin.page:44
 msgid "Toggle the <gui>Automatic Login</gui> switch to <gui>On</gui>."
 msgstr "Đổi nút chuyển đổi <gui>Đăng nhập Tự động</gui> sang chế độ <gui>Bật</gui>."
 
 #. (itstool) path: page/p
-#: C/user-autologin.page:50
+#: C/user-autologin.page:48
 msgid ""
 "When you next start up your computer, you will be logged in automatically. "
 "If you have this option enabled, you will not need to type in your password "
@@ -9500,7 +9107,7 @@ msgid ""
 msgstr "Khi bạn khởi động máy tính của mình vào lần tới, bạn sẽ được đăng nhập tự động. Nếu bạn đã bật tùy chọn này, bạn sẽ không cần phải nhập mật khẩu của mình để đăng nhập vào tài khoản, nghĩa là nếu ai đó khởi động máy tính của bạn, họ sẽ có thể truy cập tài khoản và dữ liệu cá nhân của bạn, bao gồm các tệp và lịch sử trình duyệt của bạn."
 
 #. (itstool) path: note/p
-#: C/user-autologin.page:57
+#: C/user-autologin.page:55
 msgid ""
 "If your account type is <em>Standard</em>, you cannot change this setting. "
 "Contact your system administrator who can change this setting for you."
@@ -9533,7 +9140,7 @@ msgid ""
 msgstr "Bạn cần có <link xref=\"user-admin-explain\">đặc quyền quản trị viên</link> để sửa tài khoản người dùng không phải là tài khoản của chính bạn."
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:75
+#: C/user-changepassword.page:73
 msgid ""
 "Click the label <gui>·····</gui> next to <gui>Password</gui>. If you are "
 "changing the password for a different user, you will first need to "
@@ -9541,40 +9148,40 @@ msgid ""
 msgstr "Bấm vào nhãn <gui>·····</gui> kế bên <gui>Mật khẩu</gui>. Nếu bạn đổi mật khẩu cho một người dùng khác, trước hết bạn sẽ cần phải <gui>Mở khóa</gui> bảng này."
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:80
+#: C/user-changepassword.page:78
 msgid ""
 "Enter your current password, then a new password. Enter your new password "
 "again in the <gui>Confirm password</gui> field."
 msgstr "Nhập mật khẩu hiện tại, rồi mật khẩu mới. Nhập mật khẩu mới lần hai trong ô <gui>Xác nhận mật khẩu</gui>."
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:82
+#: C/user-changepassword.page:80
 msgid ""
 "You can press on the <gui style=\"button\"><_:media-1/></gui> icon to "
 "automatically generate a random password."
 msgstr "Bạn có thể nhấn vào biểu tượng <gui style=\"button\"><_:media-1/></gui> để tự động tạo mật khẩu ngẫu nhiên."
 
 #. (itstool) path: item/p
-#: C/user-changepassword.page:88
+#: C/user-changepassword.page:86
 msgid "Click <gui>Change</gui>."
 msgstr "Nhấn <gui>Đổi</gui>."
 
 #. (itstool) path: page/p
-#: C/user-changepassword.page:92
+#: C/user-changepassword.page:90
 msgid ""
 "Make sure you <link xref=\"user-goodpassword\">choose a good "
 "password</link>. This will help to keep your user account safe."
 msgstr "Nhớ <link xref=\"user-goodpassword\">chọn mật khẩu tốt</link> để bảo đảm an toàn cho tài khoản của bạn."
 
 #. (itstool) path: note/p
-#: C/user-changepassword.page:96
+#: C/user-changepassword.page:94
 msgid ""
 "When you update your login password, your login keyring password will "
 "automatically be updated to be the same as your new login password."
 msgstr "Khi bạn cập nhật mật khẩu đăng nhập của mình, mật khẩu đăng nhập chùm chìa khóa của bạn cũng sẽ được tự động cập nhật cho giống với mật khẩu đăng nhập mới của bạn."
 
 #. (itstool) path: page/p
-#: C/user-changepassword.page:100
+#: C/user-changepassword.page:98
 msgid ""
 "If you forget your password, any user with administrator privileges can "
 "change it for you."
@@ -9599,7 +9206,7 @@ msgid ""
 msgstr "Khi bạn đăng nhập hoặc chuyển người dùng, bạn sẽ thấy danh sách người dùng kèm ảnh đăng nhập của họ. Bạn có thể thay đổi ảnh đăng nhập của bạn dùng một số ảnh sẵn có hoặc ảnh của chính bạn. Bạn thậm chí có thể chụp ảnh mới với webcam."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:52
+#: C/user-changepicture.page:50
 msgid ""
 "If you want to edit a user other than yourself, press <gui "
 "style=\"button\">Unlock</gui> in the top right corner and type in your "
@@ -9607,7 +9214,7 @@ msgid ""
 msgstr "Nếu bạn muốn sửa một người dùng không phải là chính bạn, hãy nhấn <gui style=\"button\">Mở khóa</gui> ở góc trên bên phải và nhập mật khẩu khi được nhắc."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:57
+#: C/user-changepicture.page:55
 msgid ""
 "Click the picture next to your name. A drop-down gallery will be shown with "
 "some stock login photos. If you like one of them, click it to use it for "
@@ -9615,14 +9222,14 @@ msgid ""
 msgstr "Nhấn chọn ảnh kế bên tên bạn. Các ảnh sẵn có sẽ hiện ra. Nếu bạn thích chúng, nhấn chọn để dùng."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:62
+#: C/user-changepicture.page:60
 msgid ""
 "If you'd rather use a picture you already have on your computer, click "
 "<gui>Browse for more pictures…</gui>."
 msgstr "Nếu bạn muốn sử dụng một hình ảnh bạn đã có trên máy tính của mình, hãy nhấp <gui>Duyệt thêm ảnh...</gui>."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:66
+#: C/user-changepicture.page:64
 msgid ""
 "If you have a webcam, you can take a new login photo right now by clicking "
 "<gui>Take a photo…</gui>. Take your picture, then move and resize the square"
@@ -9657,7 +9264,7 @@ msgid ""
 msgstr "Bạn cần có <link xref=\"user-admin-explain\">đặc quyền quản trị viên</link> để xóa tài khoản người dùng."
 
 #. (itstool) path: item/p
-#: C/user-delete.page:66
+#: C/user-delete.page:64
 msgid ""
 "Select the user that you want to delete and press the <gui "
 "style=\"button\">-</gui> button, below the list of accounts on the left, to "
@@ -9665,7 +9272,7 @@ msgid ""
 msgstr "Chọn người dùng mà bạn muốn xóa và nhấn nút <gui style=\"button\">-</gui> , ở phía dưới bên trái danh sách tài khoản, để xóa tài khoản người dùng đó."
 
 #. (itstool) path: item/p
-#: C/user-delete.page:72
+#: C/user-delete.page:70
 msgid ""
 "Each user has their own home folder for their files and settings. You can "
 "choose to keep or delete the user's home folder. Click <gui>Delete "
