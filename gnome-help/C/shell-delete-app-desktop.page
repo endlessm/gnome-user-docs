@@ -16,15 +16,15 @@
       <years>2014</years>
     </credit>
 
-    <desc>Learn how to remove apps from your desktop.</desc>
+    <desc>Learn how to remove things from your desktop.</desc>
   </info>
 
-  <title>Delete apps from the desktop</title>
+  <title>Remove apps and folders from the desktop</title>
 
   <steps>
-    <title>To delete an app from your desktop:</title>
+    <title>To remove an app from your desktop:</title>
     <item>
-      <p>Click and hold the app icon you want to delete.</p>
+      <p>Click and hold the app icon you want to remove.</p>
     </item>
     <item>
       <p>Keeping the mouse button pressed, drag the app icon on top of <media
@@ -37,7 +37,7 @@
       can icon.</p>
     </item>
     <item>
-      <p>Just drop the icon there to delete the app.</p>
+      <p>Just drop the icon there to remove the app from your desktop.</p>
       <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-delete-notification.png"/>
     </item>
   </steps>
@@ -45,11 +45,39 @@
   <p>The <gui>More Apps</gui> icon will always be the last icon on your desktop.
   </p>
 
-  <comment>[include image showing how to delete]</comment>
-
   <note>
-    <p>Deleting the app from your desktop doesn't remove it from the system. If
+    <p>Removing the app from your desktop doesn't remove it from the system. If
     you want to delete the app entirely from the system to make storage space
     available, you can do it from the <app>App Center</app>.</p>
   </note>
+
+
+ <steps>
+    <title>To remove a folder from your desktop:</title>
+    <item>
+      <p>First, you'll need to remove all of the apps within the folder you'd like
+      to delete. Follow the steps above and drag each app outside of the folder. 
+      You can then leave each app on your desktop, or you can move the apps to another
+      folder or the trash.</p>
+    </item>
+    <item>
+      <p>Once the folder you want to remove is empty, click and hold the folder.</p>
+    </item>
+    <item>
+      <p>Keeping the mouse button pressed, drag the folder on top of <media
+      its:translate="no" type="image" mime="image/png"
+      src="figures/eos-icon-more-apps.png">the plus button</media>.</p>
+      <media its:translate="no" type="image" mime="image/gif" src="figures/eos-desktop-delete-app.gif"/>
+    </item>
+    <item>
+      <p>You will notice that the <gui>More Apps</gui> icon will become a trash
+      can icon.</p>
+    </item>
+    <item>
+      <p>Just drop the folder there to remove it from the desktop.</p>
+      <media its:translate="no" type="image" mime="image/png" src="figures/eos-desktop-delete-notification.png"/>
+    </item>
+  </steps>
+
+
 </page>

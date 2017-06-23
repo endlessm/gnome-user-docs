@@ -29,7 +29,8 @@
 
 <title>Delete files and folders</title>
 
-  <p>If you don't want a file or folder any more, you can delete it. When you
+  <p>If you don't want a file or document folder any more, you can delete it
+  via the <gui>Documents</gui> file manager. When you
   delete an item it is moved to the <gui>Trash</gui> folder, where it is stored
   until you empty the trash.  You can <link xref="files-recover">restore items
   </link> in the <gui>Trash</gui> folder to their original location if you
@@ -39,7 +40,7 @@
     <title>To send a file to the trash:</title>
     <item><p>Select the item you want to place in the trash by clicking it once.
     </p></item>
-    <item><p>Press <keyseq><key>Ctrl</key><key>Delete</key></keyseq> on your
+    <item><p>Press the <key>Delete</key> key on your
     keyboard. Alternatively, drag the item to the <gui>Trash</gui> in the
     sidebar.</p></item>
   </steps>
