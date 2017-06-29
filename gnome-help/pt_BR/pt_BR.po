@@ -3,6 +3,7 @@
 # Enrico Nicoletto <liverig@gmail.com>, 2013
 # Ivan G. Gonçalves <i@endlessm.com>, 2015-2016
 # João Santana <joaosantana@outlook.com>, 2013
+# Mariana Barbosa <mariana@endlessm.com>, 2017
 # Mariana Barbosa <mari@endlessm.com>, 2015-2016
 # Nuritzi Sanchez <ns@endlessm.com>, 2016
 # Philip Chimento <philip.chimento@gmail.com>, 2015
@@ -12,9 +13,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2017-06-05 20:09-0700\n"
-"PO-Revision-Date: 2017-06-06 04:48+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"POT-Creation-Date: 2017-06-23 15:31-0700\n"
+"PO-Revision-Date: 2017-06-27 18:03+0000\n"
+"Last-Translator: Mariana Barbosa <mariana@endlessm.com>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -167,7 +168,7 @@ msgid ""
 "Type \"Settings\" into the <gui>global search bar</gui> on your desktop. "
 "Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
 "to open."
-msgstr ""
+msgstr "Escreva \"Configuração\" na <gui>Barra de Pesquisa Global</gui> na sua Área de trabalho. Clicar no Ícone de <app>Configuração</app> que aparece na busca ou pressione <key>Enter</key> para abrir."
 
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:48 C/a11y-contrast.page:47 C/a11y-dwellclick.page:53
@@ -1764,7 +1765,7 @@ msgid ""
 "Type \"Date and Time\" into the <gui>global search bar</gui> on your "
 "desktop. Click on the resulting <app>Settings</app> icon, or press "
 "<key>Enter</key>, to open."
-msgstr ""
+msgstr "Digite \"Data e Hora\" na <gui>Barra de Pesquisa Global</gui> na sua Área de trabalho. Clicar no Ícone de <app>Configuração</app> que aparece na busca ou pressione <key>Enter</key> para abrir."
 
 #. (itstool) path: item/p
 #: C/clock-set.page:41 C/clock-timezone.page:42
@@ -2084,33 +2085,33 @@ msgstr "Excluindo arquivos e pastas"
 #. (itstool) path: page/p
 #: C/files-delete.page:32
 msgid ""
-"If you don't want a file or folder any more, you can delete it. When you "
-"delete an item it is moved to the <gui>Trash</gui> folder, where it is "
-"stored until you empty the trash. You can <link xref=\"files-"
-"recover\">restore items </link> in the <gui>Trash</gui> folder to their "
-"original location if you decide you need them, or if they were accidentally "
-"deleted."
-msgstr "Se você não quiser um arquivo ou pasta mais, você pode excluí-lo. Quando você exclui um item, ele é movido para a <gui>Lixeira</gui>, onde fica armazenado até que você a esvazie. Você pode <link xref=\"files-recover\">restaurar os itens</link> da pasta <gui>Lixeira</gui> para sua localização original se você resolver que precisa deles, ou eles se foram excluídos acidentalmente."
+"If you don't want a file or document folder any more, you can delete it via "
+"the <gui>Documents</gui> file manager. When you delete an item it is moved "
+"to the <gui>Trash</gui> folder, where it is stored until you empty the "
+"trash. You can <link xref=\"files-recover\">restore items </link> in the "
+"<gui>Trash</gui> folder to their original location if you decide you need "
+"them, or if they were accidentally deleted."
+msgstr "Se você quiser deletar algum Arquivo ou Pasta de documentos, você pode fazer isso usando o Gerenciador de arquivos de <gui>Documentos</gui>. Quando você deletar um item, ele será movido para a pasta <gui>Lixeira</gui>, e ali ficará armazenado até você esvaziá-la. Você pode<link xref=\"files-recover\">recuperar itens</link>da pasta <gui>Lixeira</gui>caso você mude de ideia ou tenha removido sem querer."
 
 #. (itstool) path: steps/title
-#: C/files-delete.page:39
+#: C/files-delete.page:40
 msgid "To send a file to the trash:"
 msgstr "Para enviar um arquivo para a lixeira:"
 
 #. (itstool) path: item/p
-#: C/files-delete.page:40
+#: C/files-delete.page:41
 msgid "Select the item you want to place in the trash by clicking it once."
 msgstr "Selecione o item que queira excluir clicando nele uma vez."
 
 #. (itstool) path: item/p
-#: C/files-delete.page:42
+#: C/files-delete.page:43
 msgid ""
-"Press <keyseq><key>Ctrl</key><key>Delete</key></keyseq> on your keyboard. "
-"Alternatively, drag the item to the <gui>Trash</gui> in the sidebar."
-msgstr "Pressione <keyseq><key>Ctrl</key><key>Delete</key></keyseq> no seu teclado. Como alternativa, arraste o item para a <gui>Lixeira</gui> no barra lateral."
+"Press the <key>Delete</key> key on your keyboard. Alternatively, drag the "
+"item to the <gui>Trash</gui> in the sidebar."
+msgstr "Pressione a tecla <key>Deletar</key>no seu teclado. Ou então, você também pode arrastar o item para a<gui>lixeira </gui>na barra lateral."
 
 #. (itstool) path: page/p
-#: C/files-delete.page:47
+#: C/files-delete.page:48
 msgid ""
 "To delete files permanently, and free up disk space on your computer, you "
 "need to empty the trash. To empty the trash, right-click <gui>Trash</gui> in"
@@ -2118,43 +2119,43 @@ msgid ""
 msgstr "Para excluir os arquivos permanentemente, e liberar espaço em disco do seu computador, você precisa esvaziar a lixeira. Para esvaziar, clique com botão direito na <gui>Lixeira</gui> na barra lateral e selecione <gui>Esvaziar lixeira</gui>."
 
 #. (itstool) path: section/title
-#: C/files-delete.page:52
+#: C/files-delete.page:53
 msgid "Permanently delete a file"
 msgstr "Excluir um arquivo permanentemente"
 
 #. (itstool) path: section/p
-#: C/files-delete.page:53
+#: C/files-delete.page:54
 msgid ""
 "You can immediately delete a file permanently, without having to send it to "
 "the trash first."
 msgstr "Você pode excluir imediatamente um arquivo de forma permanente, sem ter que enviá-lo para a lixeira antes."
 
 #. (itstool) path: steps/title
-#: C/files-delete.page:57
+#: C/files-delete.page:58
 msgid "To permanently delete a file:"
 msgstr "Para excluir permanentemente um arquivo:"
 
 #. (itstool) path: item/p
-#: C/files-delete.page:58
+#: C/files-delete.page:59
 msgid "Select the item you want to delete."
 msgstr "Selecione o item que queira excluir."
 
 #. (itstool) path: item/p
-#: C/files-delete.page:59
+#: C/files-delete.page:60
 msgid ""
 "Press and hold the <key>Shift</key> key, then press the <key>Delete</key> "
 "key on your keyboard."
 msgstr "Pressione e mantenha a tecla <key>Shift</key>, e então pressione a tecla <key>Delete</key> no seu teclado."
 
 #. (itstool) path: item/p
-#: C/files-delete.page:61
+#: C/files-delete.page:62
 msgid ""
 "Because you cannot undo this, you will be asked to confirm that you want to "
 "delete the file or folder."
 msgstr "Como você não poderá desfazer essa ação, será pedida uma confirmação sobre seu desejo de excluir o arquivo ou a pasta."
 
 #. (itstool) path: note/p
-#: C/files-delete.page:65
+#: C/files-delete.page:66
 msgid ""
 "If you frequently need to delete files without using the trash (for example,"
 " if you often work with sensitive data), you can add a <gui>Delete</gui> "
@@ -2166,7 +2167,7 @@ msgid ""
 msgstr "Se você costuma deleta arquivos sem usar a lixeira com frequência (importante para quem trabalha com informação confidencial), você pode adicionar o comando <gui>Apagar</gui> no menu de arquivos e pastas acionável clicando com o botão direito do mouse. Para fazer isso, clique no ícone <app>Documentos</app> na área de trabalho. Clique no ícone em forma de círculo no canto superior direito da janela, depois em <gui>Preferências</gui> e então selecione a aba <gui>Comportamento</gui>. Selecione <gui>Incluir o comando Apagar que dispensa a Lixeira</gui>.\n. "
 
 #. (itstool) path: note/p
-#: C/files-delete.page:73
+#: C/files-delete.page:74
 msgid ""
 "Deleted files on a <link xref=\"files-removedrive\">removable device </link>"
 " may not be visible on other operating systems, such Windows or Mac OS. The "
@@ -3269,7 +3270,7 @@ msgstr "Primeiros Passos"
 msgid ""
 "<link href=\"endlessm-app://eos-link-feedback.desktop\">Give Us "
 "Feedback</link>"
-msgstr ""
+msgstr "<link href=\"endlessm-app://eos-link-feedback.desktop\">Deixe seus comentários</link>"
 
 #. (itstool) path: info/desc
 #: C/keyboard-cursor-blink.page:11
@@ -5168,7 +5169,7 @@ msgid ""
 "install other browsers, you can do so from the App Center. You can try "
 "searching for the browser of your preference by typing its name in the "
 "search bar, or by going to the App Center's <gui>Utilities</gui> section."
-msgstr ""
+msgstr "O Endless já vem com um Navegador de internet na Área de trabalho mas, se você quiser, há outras opções de navegador na Central de programas. Para instalar outro navegador, você pode pesquisar pelo nome do navegador na Barra de busca, ou ir direto para a Central de programas e pesquisar na categoria <gui>Utilidades</gui>"
 
 #. (itstool) path: info/desc
 #: C/net-manual.page:20
@@ -5827,7 +5828,7 @@ msgid ""
 "Type \"Network\" into the <gui>global search bar</gui> on your desktop. "
 "Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
 "to open."
-msgstr ""
+msgstr "Digitar \"Rede\" na <gui>Barra de Pesquisa Global</gui> na Área de trabalho. Clicar no Ícone de <app>Configuração</app> que aparece na busca ou pressione <key>Enter</key> para abrir."
 
 #. (itstool) path: item/p
 #: C/net-wireless-hidden.page:46
@@ -6993,7 +6994,7 @@ msgstr "Para desbloquear computador, entre com sua senha."
 msgid ""
 "You can change the lock screen settings under the <gui>Privacy</gui> section"
 " under <gui>Settings</gui>."
-msgstr ""
+msgstr "Você pode alterar a configuração de Bloqueio de tela em <gui>Privacidade</gui>, dentro de <gui>Configuração</gui>."
 
 #. (itstool) path: info/desc
 #: C/security-understand-password.page:19
@@ -7329,7 +7330,7 @@ msgstr "Adicione uma nova pasta:"
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:30
 msgid "Right-click on the desktop and select <gui>Add folder</gui>."
-msgstr ""
+msgstr "Clique com o lado direito do mouse na área de trabalho e selecione <gui>Adicionar pasta</gui>."
 
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:33 C/shell-organize-apps.page:33
@@ -7451,7 +7452,7 @@ msgstr "Alguns programas já estão baixados nos seu computador e você pode adi
 msgid ""
 "Other apps need to be installed and require an internet connection. Click "
 "<gui>Install</gui> to download and install these apps."
-msgstr ""
+msgstr "Outros programas precisam ser instalados e demandam Conexão com internet Clicar em <gui>Instalar</gui> para baixar e instalar esses programas."
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:68
@@ -7459,7 +7460,7 @@ msgid ""
 "When the app has been successfully added to your desktop, the green button "
 "will change to <gui>Launch</gui> and you can start using the app "
 "immediately!"
-msgstr ""
+msgstr "Quando o programa estiver sido adicionado com sucesso à sua área de trabalho, um botão verde será alterado para <gui>Executar</gui> e você poderá começar a usar o programa neste momento!"
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:71
@@ -7478,14 +7479,14 @@ msgstr "Instalando atalhos para websites"
 #: C/shell-apps-open.page:83
 msgid ""
 "Right click on the desktop and select the <gui>Add Website</gui> option."
-msgstr ""
+msgstr "Clicar com o botão direito do mouse na Área de trabalho e selecionar a opção <gui>Adicionar Website</gui>."
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:86
 msgid ""
 "Click on the <gui>Websites</gui> category on the left hand side if it is not"
 " already selected."
-msgstr ""
+msgstr "Clique na categoria <gui>Websites</gui> do lado esquerdo, caso não esteja selecionada ainda."
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:91
@@ -7515,23 +7516,23 @@ msgstr "Clique no botão <_:media-1/> e o atalho com o link será instalado na s
 
 #. (itstool) path: info/desc
 #: C/shell-delete-app-desktop.page:19
-msgid "Learn how to remove apps from your desktop."
-msgstr "Aprenda como remover programas da sua área de trabalho."
+msgid "Learn how to remove things from your desktop."
+msgstr "Veja como limpar ou remover ícones da sua área de trabalho."
 
 #. (itstool) path: page/title
 #: C/shell-delete-app-desktop.page:22
-msgid "Delete apps from the desktop"
-msgstr "Deletando programas da área de trabalho"
+msgid "Remove apps and folders from the desktop"
+msgstr "Remover aplicativos e pastas da área de trabalho"
 
 #. (itstool) path: steps/title
 #: C/shell-delete-app-desktop.page:25
-msgid "To delete an app from your desktop:"
-msgstr "Para apagar um programa da área de trabalho:"
+msgid "To remove an app from your desktop:"
+msgstr "Remover um aplicativo da área de trabalho:"
 
 #. (itstool) path: item/p
 #: C/shell-delete-app-desktop.page:27
-msgid "Click and hold the app icon you want to delete."
-msgstr "Clique e segure no icone do programa que você deseja apagar"
+msgid "Click and hold the app icon you want to remove."
+msgstr "Clique e segure o ícone do app que você quer remover."
 
 #. (itstool) path: item/p
 #: C/shell-delete-app-desktop.page:30
@@ -7540,7 +7541,7 @@ msgid ""
 msgstr "Mantendo o botão do mouse pressionado, arraste o ícone do programa para <_:media-1/>."
 
 #. (itstool) path: item/p
-#: C/shell-delete-app-desktop.page:36
+#: C/shell-delete-app-desktop.page:36 C/shell-delete-app-desktop.page:73
 msgid ""
 "You will notice that the <gui>More Apps</gui> icon will become a trash can "
 "icon."
@@ -7548,8 +7549,8 @@ msgstr "Você irá notar que o ícone do <gui>Mais programas</gui> se transformo
 
 #. (itstool) path: item/p
 #: C/shell-delete-app-desktop.page:40
-msgid "Just drop the icon there to delete the app."
-msgstr "Apenas solte o ícone ali para apagar o programa."
+msgid "Just drop the icon there to remove the app from your desktop."
+msgstr "Para remover o app da sua área de trabalho, arraste o ícone para lá."
 
 #. (itstool) path: page/p
 #: C/shell-delete-app-desktop.page:45
@@ -7558,12 +7559,43 @@ msgid ""
 msgstr "O ícone do <gui>Mais programas</gui> irá sempre ser o  último ícone da área de trabalho."
 
 #. (itstool) path: note/p
-#: C/shell-delete-app-desktop.page:51
+#: C/shell-delete-app-desktop.page:49
 msgid ""
-"Deleting the app from your desktop doesn't remove it from the system. If you"
+"Removing the app from your desktop doesn't remove it from the system. If you"
 " want to delete the app entirely from the system to make storage space "
 "available, you can do it from the <app>App Center</app>."
-msgstr "Deletar um programa da área de trabalho não fará com que ele seja removido do sistema. Se você quiser deletar o programa completamente para abrir mais espaço de armazenagem, você pode fazer isso a partir da <app>Central de Programas</app>."
+msgstr "Remover um aplicativo da sua Área de trabalho não significa removê-lo do sistema. Se você quiser deletar o app completamente para liberar espaço de armazenamento, por exemplo, você pode fazer isso na<app>Central de programas</app>."
+
+#. (itstool) path: steps/title
+#: C/shell-delete-app-desktop.page:56
+msgid "To remove a folder from your desktop:"
+msgstr "Remover uma pasta da sua área de trabalho:"
+
+#. (itstool) path: item/p
+#: C/shell-delete-app-desktop.page:58
+msgid ""
+"First, you'll need to remove all of the apps within the folder you'd like to"
+" delete. Follow the steps above and drag each app outside of the folder. You"
+" can then leave each app on your desktop, or you can move the apps to "
+"another folder or the trash."
+msgstr "Primeiramente, você precisará remover todos os apps de dentro da pasta que deseja apagar. Siga os passos acima e arraste cada app para fora da pasta. Você poderá deixar os apps na área de trabalho, movê-los para uma nova pasta ou para a lixeira."
+
+#. (itstool) path: item/p
+#: C/shell-delete-app-desktop.page:64
+msgid ""
+"Once the folder you want to remove is empty, click and hold the folder."
+msgstr "Uma vez que a pasta esteja vazia, selecione e segure a pasta."
+
+#. (itstool) path: item/p
+#: C/shell-delete-app-desktop.page:67
+msgid ""
+"Keeping the mouse button pressed, drag the folder on top of <_:media-1/>."
+msgstr "Com o botão do mouse pressionado, arraste a Pasta sobre <_:media-1/>."
+
+#. (itstool) path: item/p
+#: C/shell-delete-app-desktop.page:77
+msgid "Just drop the folder there to remove it from the desktop."
+msgstr "Solte a pasta lá para removê-la da área de trabalho."
 
 #. (itstool) path: credit/name
 #: C/shell-exit.page:22
@@ -7609,7 +7641,7 @@ msgid ""
 "To log out (i.e. in order to switch to a different user), click on the User "
 "icon at the very bottom right-hand side of your screen (it looks like a "
 "person), and click the <gui>Lock icon</gui>."
-msgstr ""
+msgstr "Para trocar de usuário no computador, clicar no Ícone \"Usuário\" no canto inferior direito da tela (imagem de um boneco) e clicar no <gui>ícone do cadeado</gui>."
 
 #. (itstool) path: section/title
 #: C/shell-exit.page:65
@@ -7632,7 +7664,7 @@ msgid ""
 "To lock your screen, click on the User icon at the very bottom right-hand "
 "side of your screen (it looks like a person), and click the <gui>Lock "
 "icon</gui>."
-msgstr ""
+msgstr "Para travar a sua tela, clique no ícone de Usuário no canto inferior direito da sua tela (imagem de um boneco), e clique no <gui>ícone de fechar</gui>."
 
 #. (itstool) path: note/p
 #: C/shell-exit.page:76
@@ -7655,7 +7687,7 @@ msgid ""
 "looks like a person), and press the <gui>Exit</gui> button at the bottom "
 "right of the menu. A dialog will open offering you the options to, among "
 "other options, <gui>Restart</gui> or <gui>Power Off</gui>."
-msgstr ""
+msgstr "Se quiser desligar o computador completamente, ou desligar e reiniciar, clique no ícone de Usuário na parte inferior direita da tela (imagem de um boneco), e pressione o botão <gui>Sair</gui> na parte inferior direta do menu. Uma caixa de diálogo vai se abrir com algumas opções, entre elas a de <gui>Reiniciar</gui> e <gui>Desligar</gui>."
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:96
@@ -7717,7 +7749,7 @@ msgid ""
 "networking. There, you can change the volume, edit your Wi-Fi connection "
 "details, check your battery status, log out or switch users, and turn off "
 "your computer."
-msgstr ""
+msgstr "A barra de Tarefa dá acesso a coisas importantes como janelas abertas e Programas, calendário e relógio, e propriedades do sistema como som e rede. Nela você pode alterar volume, mexer no Wi-Fi, conferir status de bateria, trocar de usuário e desligar o computador."
 
 #. (itstool) path: section/title
 #: C/shell-introduction.page:51
@@ -8210,7 +8242,7 @@ msgstr "Quando alterna para OFF (desativa), a maioria das notificações não va
 #. (itstool) path: info/desc
 #: C/shell-organize-apps.page:18
 msgid "Use folders to stay organized."
-msgstr ""
+msgstr "Utilize as pastas para uma melhor organização."
 
 #. (itstool) path: page/title
 #: C/shell-organize-apps.page:21
@@ -8308,7 +8340,7 @@ msgstr "A Endless está constantemente melhorando os programas para que estes te
 #. (itstool) path: item/p
 #: C/shell-update-app.page:34
 msgid "On the top bar, click the <gui>Updates</gui> section."
-msgstr ""
+msgstr "Na barra superior, clique em <gui>Atualizações</gui>."
 
 #. (itstool) path: item/p
 #: C/shell-update-app.page:37
@@ -8316,24 +8348,24 @@ msgid ""
 "If there is an update available, you will see an <gui>Update</gui> you can "
 "select. Click on it to download the update. It will be installed "
 "automatically once it's ready."
-msgstr ""
+msgstr "Se tiver uma atualização disponível, você verá um botão de <gui>Atualizar</gui>. Clicar no botão para baixar a atualização e ela será instalada automaticamente."
 
 #. (itstool) path: item/p
 #: C/shell-update-app.page:42
 msgid ""
 "You can also choose to <gui>Update All</gui> of your apps at once with the "
 "blue button at the top right of your screen."
-msgstr ""
+msgstr "Você também pode escolher  por <gui>Atualizar todos</gui> os seus programas de uma só vez utilizando o botão azul no canto superior direito da sua tela."
 
 #. (itstool) path: note/p
 #: C/shell-update-app.page:48
 msgid "To update your apps, you will need an internet connection."
-msgstr ""
+msgstr "Para atualizar os seus apps, você vai precisar de conexão com internet ."
 
 #. (itstool) path: note/p
 #: C/shell-update-app.page:51
 msgid "You can close the <app>App Center</app> while apps are updating."
-msgstr ""
+msgstr "Você pode fechar a <app>Central de Programas</app> enquanto os programas são atualizados."
 
 #. (itstool) path: info/desc
 #: C/shell-update-system.page:19
@@ -8436,7 +8468,7 @@ msgid ""
 " restore your windows. When your windows are minimized, you can use the "
 "<gui>hot corner</gui> on the bottom right to quickly navigate between the "
 "hidden apps."
-msgstr ""
+msgstr "A partir da versão 3.2, você poderá esconder todas as janelas de forma instantânea clicando no logo da Endless no canto inferior esquerdo. Clique novamente para restaurar as suas janelas. Quando as janelas ficam minimizadas, você pode usar o <gui>canto de acesso rápido</gui> na parte inferior direita para rapidamente navegar pelos aplicativos escondidos."
 
 #. (itstool) path: info/desc
 #: C/shell-windows-maximize.page:9

@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2017-06-05 20:09-0700\n"
-"PO-Revision-Date: 2017-06-06 04:48+0000\n"
+"POT-Creation-Date: 2017-06-23 15:31-0700\n"
+"PO-Revision-Date: 2017-06-23 22:32+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Marathi (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/mr/)\n"
 "MIME-Version: 1.0\n"
@@ -2077,33 +2077,33 @@ msgstr "फाइल्स आणि फोल्डर्स काढून �
 #. (itstool) path: page/p
 #: C/files-delete.page:32
 msgid ""
-"If you don't want a file or folder any more, you can delete it. When you "
-"delete an item it is moved to the <gui>Trash</gui> folder, where it is "
-"stored until you empty the trash. You can <link xref=\"files-"
-"recover\">restore items </link> in the <gui>Trash</gui> folder to their "
-"original location if you decide you need them, or if they were accidentally "
-"deleted."
-msgstr "फाइल किंवा फोल्डरची आवश्यकता नसल्यास, त्यास नष्ट करणे शक्य आहे. घटकाला नष्ट केल्यास त्याला <gui>कचरापेटी</gui> फोल्डरमध्ये स्थानांतरित केले जाते, जेथे कचरापेटी रिकामे होईपर्यंत साठवले जाते. आवश्यकता, किंवा चुकिने नष्ट केले असल्यास <gui>कचरापेटी</gui> फोल्डरमधील <link xref=\"files-recover\">घटकांना पूर्वस्थितीत </link> आणि तेही मूळ ठिकाणी आणणे शक्य आहे."
+"If you don't want a file or document folder any more, you can delete it via "
+"the <gui>Documents</gui> file manager. When you delete an item it is moved "
+"to the <gui>Trash</gui> folder, where it is stored until you empty the "
+"trash. You can <link xref=\"files-recover\">restore items </link> in the "
+"<gui>Trash</gui> folder to their original location if you decide you need "
+"them, or if they were accidentally deleted."
+msgstr ""
 
 #. (itstool) path: steps/title
-#: C/files-delete.page:39
+#: C/files-delete.page:40
 msgid "To send a file to the trash:"
 msgstr "फाइलला कचरा कुंडीत पाठवण्यासाठी:"
 
 #. (itstool) path: item/p
-#: C/files-delete.page:40
+#: C/files-delete.page:41
 msgid "Select the item you want to place in the trash by clicking it once."
 msgstr "इच्छित फाइल कचरा कुंडीत टाकायला निवडण्यासाठी त्यावर एकदा क्लिक करा."
 
 #. (itstool) path: item/p
-#: C/files-delete.page:42
+#: C/files-delete.page:43
 msgid ""
-"Press <keyseq><key>Ctrl</key><key>Delete</key></keyseq> on your keyboard. "
-"Alternatively, drag the item to the <gui>Trash</gui> in the sidebar."
-msgstr "कळफलकावरील <keyseq><key>Ctrl</key><key>Delete</key></keyseq> दाबा. वैकल्पिकरित्या, बाजूच्यापट्टीमध्ये घटकाला ओढून <gui>कचरापेटी</gui> मध्ये टाका."
+"Press the <key>Delete</key> key on your keyboard. Alternatively, drag the "
+"item to the <gui>Trash</gui> in the sidebar."
+msgstr ""
 
 #. (itstool) path: page/p
-#: C/files-delete.page:47
+#: C/files-delete.page:48
 msgid ""
 "To delete files permanently, and free up disk space on your computer, you "
 "need to empty the trash. To empty the trash, right-click <gui>Trash</gui> in"
@@ -2111,43 +2111,43 @@ msgid ""
 msgstr "नेहमीकरिता फाइल्स नष्ट करण्यासाठी, आणि संगणकावरील डिस्कची जागा मोकळी करण्यासाठी, तुम्हाला कचरापेटी रिकामे करावे लागेल. कचरापेटी रिकामे करण्यासाठी, बाजूच्यापट्टीमध्ये <gui>कचरापेटी</gui> उजवी-क्लिक करा आणि <gui>कचरापेटी रिकामे करा</gui> निवडा."
 
 #. (itstool) path: section/title
-#: C/files-delete.page:52
+#: C/files-delete.page:53
 msgid "Permanently delete a file"
 msgstr "फाइल कायमची काढून टाका"
 
 #. (itstool) path: section/p
-#: C/files-delete.page:53
+#: C/files-delete.page:54
 msgid ""
 "You can immediately delete a file permanently, without having to send it to "
 "the trash first."
 msgstr "तुम्ही नेहमीकरिता फाइल नष्ट करू शकता, कचरापेटीकडे फाइलला न पाठवता."
 
 #. (itstool) path: steps/title
-#: C/files-delete.page:57
+#: C/files-delete.page:58
 msgid "To permanently delete a file:"
 msgstr "फाइल कायमची काढून टाकण्यासाठी:"
 
 #. (itstool) path: item/p
-#: C/files-delete.page:58
+#: C/files-delete.page:59
 msgid "Select the item you want to delete."
 msgstr "तुम्हाला जी वस्तु काढायची आहे ती निवडा."
 
 #. (itstool) path: item/p
-#: C/files-delete.page:59
+#: C/files-delete.page:60
 msgid ""
 "Press and hold the <key>Shift</key> key, then press the <key>Delete</key> "
 "key on your keyboard."
 msgstr "<key>Shift</key> कि दाबा आणि दाबून ठेवा, त्यानंतर कळफलकावरील <key>Delete</key> कि दाबा."
 
 #. (itstool) path: item/p
-#: C/files-delete.page:61
+#: C/files-delete.page:62
 msgid ""
 "Because you cannot undo this, you will be asked to confirm that you want to "
 "delete the file or folder."
 msgstr "यास पूर्ववत् करणे अशक्य असल्यामुळे, तुम्हाला फाइल किंवा फोल्डर नष्ट करायचे आहे याच्या खात्रीकरिता विचारले जाईल."
 
 #. (itstool) path: note/p
-#: C/files-delete.page:65
+#: C/files-delete.page:66
 msgid ""
 "If you frequently need to delete files without using the trash (for example,"
 " if you often work with sensitive data), you can add a <gui>Delete</gui> "
@@ -2159,7 +2159,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/files-delete.page:73
+#: C/files-delete.page:74
 msgid ""
 "Deleted files on a <link xref=\"files-removedrive\">removable device </link>"
 " may not be visible on other operating systems, such Windows or Mac OS. The "
@@ -7508,22 +7508,22 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/shell-delete-app-desktop.page:19
-msgid "Learn how to remove apps from your desktop."
+msgid "Learn how to remove things from your desktop."
 msgstr ""
 
 #. (itstool) path: page/title
 #: C/shell-delete-app-desktop.page:22
-msgid "Delete apps from the desktop"
+msgid "Remove apps and folders from the desktop"
 msgstr ""
 
 #. (itstool) path: steps/title
 #: C/shell-delete-app-desktop.page:25
-msgid "To delete an app from your desktop:"
+msgid "To remove an app from your desktop:"
 msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-delete-app-desktop.page:27
-msgid "Click and hold the app icon you want to delete."
+msgid "Click and hold the app icon you want to remove."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -7533,7 +7533,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-delete-app-desktop.page:36
+#: C/shell-delete-app-desktop.page:36 C/shell-delete-app-desktop.page:73
 msgid ""
 "You will notice that the <gui>More Apps</gui> icon will become a trash can "
 "icon."
@@ -7541,7 +7541,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-delete-app-desktop.page:40
-msgid "Just drop the icon there to delete the app."
+msgid "Just drop the icon there to remove the app from your desktop."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -7551,11 +7551,42 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-delete-app-desktop.page:51
+#: C/shell-delete-app-desktop.page:49
 msgid ""
-"Deleting the app from your desktop doesn't remove it from the system. If you"
+"Removing the app from your desktop doesn't remove it from the system. If you"
 " want to delete the app entirely from the system to make storage space "
 "available, you can do it from the <app>App Center</app>."
+msgstr ""
+
+#. (itstool) path: steps/title
+#: C/shell-delete-app-desktop.page:56
+msgid "To remove a folder from your desktop:"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/shell-delete-app-desktop.page:58
+msgid ""
+"First, you'll need to remove all of the apps within the folder you'd like to"
+" delete. Follow the steps above and drag each app outside of the folder. You"
+" can then leave each app on your desktop, or you can move the apps to "
+"another folder or the trash."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/shell-delete-app-desktop.page:64
+msgid ""
+"Once the folder you want to remove is empty, click and hold the folder."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/shell-delete-app-desktop.page:67
+msgid ""
+"Keeping the mouse button pressed, drag the folder on top of <_:media-1/>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/shell-delete-app-desktop.page:77
+msgid "Just drop the folder there to remove it from the desktop."
 msgstr ""
 
 #. (itstool) path: credit/name

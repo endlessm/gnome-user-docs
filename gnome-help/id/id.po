@@ -2,12 +2,13 @@
 # Translators:
 # Andika Triwidada <andika@gmail.com>, 2011-2013
 # Roddy Shuler <roddy@endlessm.com>, 2017
+# Septira Taruna <septira@endlessm.com>, 2017
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2017-06-05 20:09-0700\n"
-"PO-Revision-Date: 2017-06-06 04:48+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"POT-Creation-Date: 2017-06-23 15:31-0700\n"
+"PO-Revision-Date: 2017-06-29 16:39+0000\n"
+"Last-Translator: Septira Taruna <septira@endlessm.com>\n"
 "Language-Team: Indonesian (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -160,7 +161,7 @@ msgid ""
 "Type \"Settings\" into the <gui>global search bar</gui> on your desktop. "
 "Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
 "to open."
-msgstr ""
+msgstr "Ketik \"Pengaturan\" ke dalam <gui>kolom pencarian global</gui> pada desktop Anda. Klik ikon <app>Pengaturan</app> pada hasil pencarian, atau tekan <key>Enter</key> untuk membuka."
 
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:48 C/a11y-contrast.page:47 C/a11y-dwellclick.page:53
@@ -1757,7 +1758,7 @@ msgid ""
 "Type \"Date and Time\" into the <gui>global search bar</gui> on your "
 "desktop. Click on the resulting <app>Settings</app> icon, or press "
 "<key>Enter</key>, to open."
-msgstr ""
+msgstr "Ketik \"Tanggal & Waktu\" ke dalam <gui>kolom pencarian global</gui> pada desktop Anda. Klik ikon <app>Pengaturan</app> pada hasil pencarian, atau tekan <key>Enter</key> untuk membuka."
 
 #. (itstool) path: item/p
 #: C/clock-set.page:41 C/clock-timezone.page:42
@@ -2077,33 +2078,33 @@ msgstr "Menghapus berkas dan folder"
 #. (itstool) path: page/p
 #: C/files-delete.page:32
 msgid ""
-"If you don't want a file or folder any more, you can delete it. When you "
-"delete an item it is moved to the <gui>Trash</gui> folder, where it is "
-"stored until you empty the trash. You can <link xref=\"files-"
-"recover\">restore items </link> in the <gui>Trash</gui> folder to their "
-"original location if you decide you need them, or if they were accidentally "
-"deleted."
-msgstr "Jika Anda sudah tidak memerlukan sebuah berkas atau folder lagi, Anda dapat menghapusnya. Saat Anda menghapus sebuah item, item ini dipindahkan ke folder <gui>Trash</gui>, di mana item akan disimpan sampai Anda mengosongkan sampah. Anda dapat <link xref=\"files-recover\">mengembalikan item</link> di dalam folder <gui>Trash</gui> ke lokasi aslinya jika Anda memutuskan bahwa Anda membutuhkannya, atau jika item dihapus secara tidak sengaja."
+"If you don't want a file or document folder any more, you can delete it via "
+"the <gui>Documents</gui> file manager. When you delete an item it is moved "
+"to the <gui>Trash</gui> folder, where it is stored until you empty the "
+"trash. You can <link xref=\"files-recover\">restore items </link> in the "
+"<gui>Trash</gui> folder to their original location if you decide you need "
+"them, or if they were accidentally deleted."
+msgstr "Jika Anda tidak ingin menyimpan sebuah file atu dokumen, Anda bisa menghapusnya melalui file manager <gui>Dokumen</gui>. Saat Anda menghapus sebuah file atau folder, file atau folder tersebut akan dipindahkan ke folder <gui>Tong Sampah</gui>, dan disimpan di sana sampai Anda menghapus isi tong sampah. Jika ingin, atau secara tidak sengaja menghapus file, Anda bisa <link xref=\"files-recover\">mengembalikan item</link> yang ada di folder <gui>Tong Sampah</gui>ke lokasi awal."
 
 #. (itstool) path: steps/title
-#: C/files-delete.page:39
+#: C/files-delete.page:40
 msgid "To send a file to the trash:"
 msgstr "Untuk mengirim berkas ke tong sampah:"
 
 #. (itstool) path: item/p
-#: C/files-delete.page:40
+#: C/files-delete.page:41
 msgid "Select the item you want to place in the trash by clicking it once."
 msgstr "Pilih berkas yang ingin Anda tempatkan ke tong sampah dengan mengkliknya sekali."
 
 #. (itstool) path: item/p
-#: C/files-delete.page:42
+#: C/files-delete.page:43
 msgid ""
-"Press <keyseq><key>Ctrl</key><key>Delete</key></keyseq> on your keyboard. "
-"Alternatively, drag the item to the <gui>Trash</gui> in the sidebar."
-msgstr "Tekan <keyseq><key>Ctrl</key><key>Delete</key></keyseq> pada papan ketik. Atau seret item ke <gui>Sampah</gui> di bilah samping."
+"Press the <key>Delete</key> key on your keyboard. Alternatively, drag the "
+"item to the <gui>Trash</gui> in the sidebar."
+msgstr "Tekan tombol <key>Delete</key> pada keyboard Anda. Anda juga bisa menyeret item ke ikon <gui>Tong Sampah</gui> pada sidebar."
 
 #. (itstool) path: page/p
-#: C/files-delete.page:47
+#: C/files-delete.page:48
 msgid ""
 "To delete files permanently, and free up disk space on your computer, you "
 "need to empty the trash. To empty the trash, right-click <gui>Trash</gui> in"
@@ -2111,43 +2112,43 @@ msgid ""
 msgstr "Untuk menghapus berkas secara permanen dan membebaskan ruang penyimpanan pada komputer, Anda perlu mengosongkan sampah. Untuk melakukannya, klik kanan pada <gui>Trash</gui> pada bilah sisi dan pilih <gui>Empty Trash</gui>."
 
 #. (itstool) path: section/title
-#: C/files-delete.page:52
+#: C/files-delete.page:53
 msgid "Permanently delete a file"
 msgstr "Menghapus berkas secara permanen"
 
 #. (itstool) path: section/p
-#: C/files-delete.page:53
+#: C/files-delete.page:54
 msgid ""
 "You can immediately delete a file permanently, without having to send it to "
 "the trash first."
 msgstr "Anda dapat langsung menghapus berkas secara permanen, tanpa harus mengirimkannya ke tempat sampah terlebih dahulu."
 
 #. (itstool) path: steps/title
-#: C/files-delete.page:57
+#: C/files-delete.page:58
 msgid "To permanently delete a file:"
 msgstr "Untuk menghapus berkas secara permanen:"
 
 #. (itstool) path: item/p
-#: C/files-delete.page:58
+#: C/files-delete.page:59
 msgid "Select the item you want to delete."
 msgstr "Pilih butir yang ingin Anda hapus."
 
 #. (itstool) path: item/p
-#: C/files-delete.page:59
+#: C/files-delete.page:60
 msgid ""
 "Press and hold the <key>Shift</key> key, then press the <key>Delete</key> "
 "key on your keyboard."
 msgstr "Tekan dan tahan tombol <key>Shift</key>, kemudian tekan tombol <key>Delete</key> pada papan ketik Anda."
 
 #. (itstool) path: item/p
-#: C/files-delete.page:61
+#: C/files-delete.page:62
 msgid ""
 "Because you cannot undo this, you will be asked to confirm that you want to "
 "delete the file or folder."
 msgstr "Karena tak dapat membatalkan ini, Anda akan diminta mengonfirmasi bahwa Anda ingin menghapus berkas atau folder."
 
 #. (itstool) path: note/p
-#: C/files-delete.page:65
+#: C/files-delete.page:66
 msgid ""
 "If you frequently need to delete files without using the trash (for example,"
 " if you often work with sensitive data), you can add a <gui>Delete</gui> "
@@ -2159,7 +2160,7 @@ msgid ""
 msgstr "Jika Anda perlu sering menghapus berkas tanpa menggunakan tempat sampah (misalnya jika Anda sering bekerja dengan data yang sensitif), Anda dapat menambahkan entri <gui>Delete</gui> pada menu klik kanan untuk berkas dan folder. Pertama-tama, klik ikon <app>Documents</app> dari desktop. Klik ikon yang tampak seperti lingkaran pada sudut kanan atas jendela, klik pada <gui>Preferences</gui> dan pilih tab <gui>Behavior</gui>. Pilih <gui>Include a Delete command that bypasses Trash</gui>."
 
 #. (itstool) path: note/p
-#: C/files-delete.page:73
+#: C/files-delete.page:74
 msgid ""
 "Deleted files on a <link xref=\"files-removedrive\">removable device </link>"
 " may not be visible on other operating systems, such Windows or Mac OS. The "
@@ -3262,7 +3263,7 @@ msgstr "Memulai"
 msgid ""
 "<link href=\"endlessm-app://eos-link-feedback.desktop\">Give Us "
 "Feedback</link>"
-msgstr ""
+msgstr "<link href=\"endlessm-app://eos-link-feedback.desktop\">Beri Kami Saran dan Masukan</link>"
 
 #. (itstool) path: info/desc
 #: C/keyboard-cursor-blink.page:11
@@ -5161,7 +5162,7 @@ msgid ""
 "install other browsers, you can do so from the App Center. You can try "
 "searching for the browser of your preference by typing its name in the "
 "search bar, or by going to the App Center's <gui>Utilities</gui> section."
-msgstr ""
+msgstr "Endless sudah dilengkapi dengan browser yang bisa ditemukan di desktop. Tetapi bila Anda ingin menginstal browser lain, Anda bisa melakukannya dari dalam Pusat Aplikasi. Anda bisa mencoba untuk mencari browser pilihan Anda dengan cara mengetikan namanya pada kolom pencarian, atau lihat di bagian <gui>Utilitas</gui> pada Pusat Aplikasi."
 
 #. (itstool) path: info/desc
 #: C/net-manual.page:20
@@ -5820,7 +5821,7 @@ msgid ""
 "Type \"Network\" into the <gui>global search bar</gui> on your desktop. "
 "Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
 "to open."
-msgstr ""
+msgstr "Ketik \"Jaringan\" ke dalam <gui>kolom pencarian global</gui> pada desktop Anda. Klik ikon <app>Pengaturan</app> pada hasil pencarian, atau tekan <key>Enter</key> untuk membuka."
 
 #. (itstool) path: item/p
 #: C/net-wireless-hidden.page:46
@@ -6986,7 +6987,7 @@ msgstr "Untuk membuka komputer, cukup masukkan sandi Anda."
 msgid ""
 "You can change the lock screen settings under the <gui>Privacy</gui> section"
 " under <gui>Settings</gui>."
-msgstr ""
+msgstr "Anda bisa mengubah pengaturan kunci layar dari bagian <gui>Privasi</gui> dalam <gui>Pengaturan</gui>."
 
 #. (itstool) path: info/desc
 #: C/security-understand-password.page:19
@@ -7322,7 +7323,7 @@ msgstr "Untuk membuat folder baru:"
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:30
 msgid "Right-click on the desktop and select <gui>Add folder</gui>."
-msgstr ""
+msgstr "Klik kanan pada desktop dan pilih <gui>Tambah folder</gui>"
 
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:33 C/shell-organize-apps.page:33
@@ -7444,7 +7445,7 @@ msgstr "Beberapa aplikasi yang sudah diunduh ke komputer Anda dan Anda dapat men
 msgid ""
 "Other apps need to be installed and require an internet connection. Click "
 "<gui>Install</gui> to download and install these apps."
-msgstr ""
+msgstr "Aplikasi lain perlu diinstal terlebih dahulu dan membutuhkan koneksi internet. Klik <gui>Instal</gui>untuk mengunduh dan menginstal aplikasi tersebut."
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:68
@@ -7452,7 +7453,7 @@ msgid ""
 "When the app has been successfully added to your desktop, the green button "
 "will change to <gui>Launch</gui> and you can start using the app "
 "immediately!"
-msgstr ""
+msgstr "Ketika aplikasi sudah ditambahkan ke desktop Anda, tombol hijau akan berubah menjadi <gui>Buka</gui>dan Anda bisa langsung menggunakan aplikasinya!"
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:71
@@ -7471,14 +7472,14 @@ msgstr "Memasang Pintasan Situs Web"
 #: C/shell-apps-open.page:83
 msgid ""
 "Right click on the desktop and select the <gui>Add Website</gui> option."
-msgstr ""
+msgstr "Klik kanan pada desktop dan pilih opsi <gui>Tambah Website</gui>."
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:86
 msgid ""
 "Click on the <gui>Websites</gui> category on the left hand side if it is not"
 " already selected."
-msgstr ""
+msgstr "Apabila belum terpilih, klik kanan pada kategori <gui>Website</gui> yang berada di sisi kiri."
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:91
@@ -7508,22 +7509,22 @@ msgstr "Klik pada tombol <_:media-1/> dan tautan Anda akan terpasang ke desktop.
 
 #. (itstool) path: info/desc
 #: C/shell-delete-app-desktop.page:19
-msgid "Learn how to remove apps from your desktop."
-msgstr "Pelajari cara menghapus aplikasi dari desktop Anda."
+msgid "Learn how to remove things from your desktop."
+msgstr "Pelajari cara menghapus sesuatu dari desktop Anda."
 
 #. (itstool) path: page/title
 #: C/shell-delete-app-desktop.page:22
-msgid "Delete apps from the desktop"
-msgstr "Hapus aplikasi dari desktop"
+msgid "Remove apps and folders from the desktop"
+msgstr "Hapus aplikasi dan folder dari desktop"
 
 #. (itstool) path: steps/title
 #: C/shell-delete-app-desktop.page:25
-msgid "To delete an app from your desktop:"
-msgstr "Untuk menghapus aplikasi dari dekstop:"
+msgid "To remove an app from your desktop:"
+msgstr "Untuk menghapus aplikasi dari desktop:"
 
 #. (itstool) path: item/p
 #: C/shell-delete-app-desktop.page:27
-msgid "Click and hold the app icon you want to delete."
+msgid "Click and hold the app icon you want to remove."
 msgstr "Klik dan tahan ikon aplikasi yang ingin Anda hapus."
 
 #. (itstool) path: item/p
@@ -7533,7 +7534,7 @@ msgid ""
 msgstr "Dengan menjaga agar tombol mouse tetap ditekan, seret ikon aplikasi ke atas <_:media-1/>."
 
 #. (itstool) path: item/p
-#: C/shell-delete-app-desktop.page:36
+#: C/shell-delete-app-desktop.page:36 C/shell-delete-app-desktop.page:73
 msgid ""
 "You will notice that the <gui>More Apps</gui> icon will become a trash can "
 "icon."
@@ -7541,8 +7542,8 @@ msgstr "Anda akan melihat ikon <gui>More Apps</gui> berubah menjadi ikon tempat 
 
 #. (itstool) path: item/p
 #: C/shell-delete-app-desktop.page:40
-msgid "Just drop the icon there to delete the app."
-msgstr "Letakan ikon di sini untuk menghapus aplikasi."
+msgid "Just drop the icon there to remove the app from your desktop."
+msgstr "Letakan ikon di sana untuk menghapus aplikasi."
 
 #. (itstool) path: page/p
 #: C/shell-delete-app-desktop.page:45
@@ -7551,12 +7552,43 @@ msgid ""
 msgstr "Ikon <gui>Aplikasi Lainnya</gui> akan selalu menjadi ikon terakhir di desktop Anda."
 
 #. (itstool) path: note/p
-#: C/shell-delete-app-desktop.page:51
+#: C/shell-delete-app-desktop.page:49
 msgid ""
-"Deleting the app from your desktop doesn't remove it from the system. If you"
+"Removing the app from your desktop doesn't remove it from the system. If you"
 " want to delete the app entirely from the system to make storage space "
 "available, you can do it from the <app>App Center</app>."
-msgstr "Menghapus aplikasi dari desktop tidak menghapusnya dari sistem. Jika Anda ingin menghapus aplikasi sepenuhnya dari sistem untuk mengosongkan ruang penyimpanan, Anda dapat melakukannya dari <app>App Center</app>."
+msgstr "Menghapus aplikasi dari desktop tidak menghapusnya dari sistem. Jika Anda ingin menghapus aplikasi sepenuhnya dari sistem untuk mengosongkan ruang penyimpanan, Anda dapat melakukannya dari <app>Pusat Aplikasi</app>."
+
+#. (itstool) path: steps/title
+#: C/shell-delete-app-desktop.page:56
+msgid "To remove a folder from your desktop:"
+msgstr "Untuk menghapus folder dari desktop:"
+
+#. (itstool) path: item/p
+#: C/shell-delete-app-desktop.page:58
+msgid ""
+"First, you'll need to remove all of the apps within the folder you'd like to"
+" delete. Follow the steps above and drag each app outside of the folder. You"
+" can then leave each app on your desktop, or you can move the apps to "
+"another folder or the trash."
+msgstr "Pertama, Anda harus mengeluarkan semua aplikasi yang ada di folder yang ingin dihapus. Ikuti langkah di atas dan seret setiap aplikasi keluar dari dalam folder. Anda bisa meletakkan aplikasi di atas desktop, atau memindahkan aplikasi ke folder lain atau ke dalam tong sampah."
+
+#. (itstool) path: item/p
+#: C/shell-delete-app-desktop.page:64
+msgid ""
+"Once the folder you want to remove is empty, click and hold the folder."
+msgstr "Ketika folder yang ingin Anda hapus sudah kosong, klik dan tahan foldernya."
+
+#. (itstool) path: item/p
+#: C/shell-delete-app-desktop.page:67
+msgid ""
+"Keeping the mouse button pressed, drag the folder on top of <_:media-1/>."
+msgstr "Tekan terus tombol mouse, seret ikon aplikasi di atas <_:media-1/>."
+
+#. (itstool) path: item/p
+#: C/shell-delete-app-desktop.page:77
+msgid "Just drop the folder there to remove it from the desktop."
+msgstr "Letakkan folder di sana untuk menghapusnya dari desktop."
 
 #. (itstool) path: credit/name
 #: C/shell-exit.page:22
@@ -7602,7 +7634,7 @@ msgid ""
 "To log out (i.e. in order to switch to a different user), click on the User "
 "icon at the very bottom right-hand side of your screen (it looks like a "
 "person), and click the <gui>Lock icon</gui>."
-msgstr ""
+msgstr "Untuk log keluar (misalnya untuk mengganti akun pengguna), klik ikon Pengguna pada bagian kanan bawah layar Anda (ikon ini tampak seperti kepala manusia), lalu klik <gui>ikon Gembok.</gui>"
 
 #. (itstool) path: section/title
 #: C/shell-exit.page:65
@@ -7625,7 +7657,7 @@ msgid ""
 "To lock your screen, click on the User icon at the very bottom right-hand "
 "side of your screen (it looks like a person), and click the <gui>Lock "
 "icon</gui>."
-msgstr ""
+msgstr "Untuk mengunci layar Anda, klik ikon Pengguna pada bagian kanan bawah layar Anda (ikon ini tampak seperti kepala manusia), lalu klik <gui>ikon Gembok</gui>."
 
 #. (itstool) path: note/p
 #: C/shell-exit.page:76
@@ -7648,7 +7680,7 @@ msgid ""
 "looks like a person), and press the <gui>Exit</gui> button at the bottom "
 "right of the menu. A dialog will open offering you the options to, among "
 "other options, <gui>Restart</gui> or <gui>Power Off</gui>."
-msgstr ""
+msgstr "Bila ingin mematikan komputer Anda seluruhnya, atau melakukan proses mulai ulang, klik ikon Pengguna yang bisa ditemukan di sisi kanan bawah layar Anda (ikon ini tampak seperti kepala manusia), lalu klik tombol<gui>Keluar</gui>pada bagian bawah menu. Sebuah dialog akan muncul dengan berbagai opsi, salah satunya adalah <gui>Nyalakan Ulang</gui> atau <gui>Matikan</gui>."
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:96
@@ -7710,7 +7742,7 @@ msgid ""
 "networking. There, you can change the volume, edit your Wi-Fi connection "
 "details, check your battery status, log out or switch users, and turn off "
 "your computer."
-msgstr ""
+msgstr "Taskbar memberikan akses ke hal-hal penting seperti jendela dan aplikasi, kalendar dan jam, dan pengaturan sistem lainnya seperti suara dan jaringan. Anda bisa mengubah volume, mengganti detail jaringan Wi-Fi, mengecek status baterai, log keluar atau mengganti pengguna, dan mematikan komputer Anda."
 
 #. (itstool) path: section/title
 #: C/shell-introduction.page:51
@@ -8203,7 +8235,7 @@ msgstr "Saat dimatikan, sebagian besar pemberitahuan tidak akan muncul di bagian
 #. (itstool) path: info/desc
 #: C/shell-organize-apps.page:18
 msgid "Use folders to stay organized."
-msgstr ""
+msgstr "Gunakan folder supaya tetap terorganisir."
 
 #. (itstool) path: page/title
 #: C/shell-organize-apps.page:21
@@ -8301,7 +8333,7 @@ msgstr "Endless terus mengembangkan aplikasi supaya Anda mendapatkan konten yang
 #. (itstool) path: item/p
 #: C/shell-update-app.page:34
 msgid "On the top bar, click the <gui>Updates</gui> section."
-msgstr ""
+msgstr "Pada kolom di atas, klik bagian <gui>Pembaruan</gui>."
 
 #. (itstool) path: item/p
 #: C/shell-update-app.page:37
@@ -8309,24 +8341,24 @@ msgid ""
 "If there is an update available, you will see an <gui>Update</gui> you can "
 "select. Click on it to download the update. It will be installed "
 "automatically once it's ready."
-msgstr ""
+msgstr "Bila ada pembaruan baru, Anda akan melihat sebuah <gui>Pembaruan</gui> yang bisa Anda pilih. Klik untuk mengunduh pembaruan. Pembaruan akan diinstal secara otomatis ketika sudah siap."
 
 #. (itstool) path: item/p
 #: C/shell-update-app.page:42
 msgid ""
 "You can also choose to <gui>Update All</gui> of your apps at once with the "
 "blue button at the top right of your screen."
-msgstr ""
+msgstr "Anda bisa memilih untuk <gui>Perbarui Semua</gui> aplikasi dalam sekali jalan dengan menekan tombol biru pada sisi kanan atas layar Anda."
 
 #. (itstool) path: note/p
 #: C/shell-update-app.page:48
 msgid "To update your apps, you will need an internet connection."
-msgstr ""
+msgstr "Untuk memperbarui aplikasi, Anda memerlukan koneksi internet."
 
 #. (itstool) path: note/p
 #: C/shell-update-app.page:51
 msgid "You can close the <app>App Center</app> while apps are updating."
-msgstr ""
+msgstr "Anda boleh menutup <app>Pusat Aplikasi</app>ketika aplikasi sedang diperbarui."
 
 #. (itstool) path: info/desc
 #: C/shell-update-system.page:19
@@ -8429,7 +8461,7 @@ msgid ""
 " restore your windows. When your windows are minimized, you can use the "
 "<gui>hot corner</gui> on the bottom right to quickly navigate between the "
 "hidden apps."
-msgstr ""
+msgstr "Mulai dari Endless versi 3.2, Anda bisa menyembunyikan semua jendela aplikasi secara cepat dengan cara mengklik logo Endless di bagian sudut kiri bawah. Klik sekali lagi untuk mengembalikan jendela aplikasi. Ketika jendela sedang di minimalkan, Anda bisa menggunakan <gui>pojok aktif</gui> pada bagian kanan bawah untuk secara cepat berpindah dari satu aplikasi ke aplikasi lainnya."
 
 #. (itstool) path: info/desc
 #: C/shell-windows-maximize.page:9

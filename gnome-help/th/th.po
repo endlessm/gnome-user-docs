@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2017-06-05 20:09-0700\n"
-"PO-Revision-Date: 2017-06-06 04:48+0000\n"
+"POT-Creation-Date: 2017-06-23 15:31-0700\n"
+"PO-Revision-Date: 2017-06-24 06:46+0000\n"
 "Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
 "Language-Team: Thai (http://www.transifex.com/endless-mobile-inc/gnome-user-docs/language/th/)\n"
 "MIME-Version: 1.0\n"
@@ -159,7 +159,7 @@ msgid ""
 "Type \"Settings\" into the <gui>global search bar</gui> on your desktop. "
 "Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
 "to open."
-msgstr ""
+msgstr "พิมพ์ \"Settings\" ลงใน<gui>แถบการค้นหาทั้งหมด</gui>บนเดสก์ท็อปของคุณ จากนั้นคลิกบนไอคอน<app>การตั้งค่า</app>ที่ปรากฎ หรือกดปุ่ม <key>Enter</key> เพื่อเปิด"
 
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:48 C/a11y-contrast.page:47 C/a11y-dwellclick.page:53
@@ -1756,7 +1756,7 @@ msgid ""
 "Type \"Date and Time\" into the <gui>global search bar</gui> on your "
 "desktop. Click on the resulting <app>Settings</app> icon, or press "
 "<key>Enter</key>, to open."
-msgstr ""
+msgstr "พิมพ์ \"Date and Time\" ลงใน<gui>แถบการค้นหาทั้งหมด</gui>บนเดสก์ท็อปของคุณ จากนั้นคลิกบนไอคอน<app>การตั้งค่า</app>ที่ปรากฎ หรือกด <key>Enter</key> เพื่อเปิด"
 
 #. (itstool) path: item/p
 #: C/clock-set.page:41 C/clock-timezone.page:42
@@ -2076,33 +2076,33 @@ msgstr "ลบไฟล์และโฟลเดอร์"
 #. (itstool) path: page/p
 #: C/files-delete.page:32
 msgid ""
-"If you don't want a file or folder any more, you can delete it. When you "
-"delete an item it is moved to the <gui>Trash</gui> folder, where it is "
-"stored until you empty the trash. You can <link xref=\"files-"
-"recover\">restore items </link> in the <gui>Trash</gui> folder to their "
-"original location if you decide you need them, or if they were accidentally "
-"deleted."
-msgstr "หากคุณไม่ต้องการให้ไฟล์หรือโฟลเดอร์อีกแล้ว ก็สามารถลบได้ เมื่อคุณลบไอเทมไปแล้ว จะเข้าไปอยู่ในโฟลเดอร์ <gui>ถังขยะ</gui>ซึ่งจะเก็บไว้จนกว่าคุณจะลบไฟล์ในถังขยะ คุณสามารถ <link xref=\"files-recover\">กู้คืนไอเทม</link>ใน โฟลเดอร์ <gui>ถังขยะ</gui> กลับไปไว้ที่เดิมได้หากต้องการใช้ใหม่ หรือถูกลบโดยไม่ตั้งใจ"
+"If you don't want a file or document folder any more, you can delete it via "
+"the <gui>Documents</gui> file manager. When you delete an item it is moved "
+"to the <gui>Trash</gui> folder, where it is stored until you empty the "
+"trash. You can <link xref=\"files-recover\">restore items </link> in the "
+"<gui>Trash</gui> folder to their original location if you decide you need "
+"them, or if they were accidentally deleted."
+msgstr "หากคุณไม่ต้องการไฟล์หรือโฟลเดอร์เอกสารอีกต่อไปแล้ว คุณสามารถลบรายการดังกล่าวได้ผ่านตัวจัดการไฟล์<gui>เอกสาร</gui> เมื่อคุณลบรายการหนึ่งๆ ระบบจะย้ายรายการดังกล่าวไปที่โฟลเดอร์<gui>ถังขยะ</gui> ซึ่งจะจัดเก็บรายการนั้นๆ ไว้จนกว่าคุณจะล้างข้อมูลในถังขยะ ทั้งนี้คุณสามารถ<link xref=\"files-recover\">คืนรายการ</link>ที่อยู่ในโฟลเดอร์<gui>ถังขยะ</gui>กลับสู่ตำแหน่งเดิมได้หากคุณตัดสินใจว่าคุณยังคงต้องการรายการดังกล่าวอยู่ หรือหากรายการดังกล่าวถูกลบออกโดยบังเอิญ"
 
 #. (itstool) path: steps/title
-#: C/files-delete.page:39
+#: C/files-delete.page:40
 msgid "To send a file to the trash:"
 msgstr " วิธีนำใส่ไฟล์ลงในถังขยะ: "
 
 #. (itstool) path: item/p
-#: C/files-delete.page:40
+#: C/files-delete.page:41
 msgid "Select the item you want to place in the trash by clicking it once."
 msgstr "เลือกรายการที่คุณต้องการนำไปใส่ถังขยะด้วยการคลิกที่รายการดังกล่าวหนึ่งครั้ง"
 
 #. (itstool) path: item/p
-#: C/files-delete.page:42
+#: C/files-delete.page:43
 msgid ""
-"Press <keyseq><key>Ctrl</key><key>Delete</key></keyseq> on your keyboard. "
-"Alternatively, drag the item to the <gui>Trash</gui> in the sidebar."
-msgstr "กด <keyseq><key>Ctrl</key><key>Delete</key></keyseq> บนแป้นพิมพ์ของคุณ  หรืออีกทางหนึ่ง ลากไอเท็มไปยัง <gui>Trash</gui> ในแถบด้านข้าง"
+"Press the <key>Delete</key> key on your keyboard. Alternatively, drag the "
+"item to the <gui>Trash</gui> in the sidebar."
+msgstr "กดปุ่ม <key>Delete</key> บนแป้นพิมพ์ของคุณ หรือลากรายการดังกล่าวไปยัง<gui>ถังขยะ</gui>ในแถบด้านข้าง"
 
 #. (itstool) path: page/p
-#: C/files-delete.page:47
+#: C/files-delete.page:48
 msgid ""
 "To delete files permanently, and free up disk space on your computer, you "
 "need to empty the trash. To empty the trash, right-click <gui>Trash</gui> in"
@@ -2110,43 +2110,43 @@ msgid ""
 msgstr "หากต้องการลบไฟล์แบบถาวรและเพิ่มพื้นที่ในคอมพิวเตอร์ของคุณ คุณจะต้องล้างถังขยะ คุณสามารถล้างถังขยะด้วยการคลิกขวาที่<gui>ถังขยะ</gui>ในแถบด้านข้างและเลือก<gui>ล้างถังขยะ</gui>"
 
 #. (itstool) path: section/title
-#: C/files-delete.page:52
+#: C/files-delete.page:53
 msgid "Permanently delete a file"
 msgstr "ลบไฟล์ถาวร"
 
 #. (itstool) path: section/p
-#: C/files-delete.page:53
+#: C/files-delete.page:54
 msgid ""
 "You can immediately delete a file permanently, without having to send it to "
 "the trash first."
 msgstr "คุณสามารถลบไฟล์อย่างถารได้ทันที โดยไม่ต้องส่งไปที่ถังขยะก่อน"
 
 #. (itstool) path: steps/title
-#: C/files-delete.page:57
+#: C/files-delete.page:58
 msgid "To permanently delete a file:"
 msgstr "วิธีลบไฟล์แบบถาวร:"
 
 #. (itstool) path: item/p
-#: C/files-delete.page:58
+#: C/files-delete.page:59
 msgid "Select the item you want to delete."
 msgstr "เลือกไอเทมที่ต้องการลบ"
 
 #. (itstool) path: item/p
-#: C/files-delete.page:59
+#: C/files-delete.page:60
 msgid ""
 "Press and hold the <key>Shift</key> key, then press the <key>Delete</key> "
 "key on your keyboard."
 msgstr "กดแป้น <key>Shift</key> ค้างไว้ แล้วกดแป้น <key>Delete</key> บนคีย์บอร์ด"
 
 #. (itstool) path: item/p
-#: C/files-delete.page:61
+#: C/files-delete.page:62
 msgid ""
 "Because you cannot undo this, you will be asked to confirm that you want to "
 "delete the file or folder."
 msgstr "เนื่องจากคุณไม่สามารถยกเลิกการกระทำนี้ คุณจะต้องยืนยันว่าคุณต้องการลบไฟล์หรือโฟล์เดอร์นี้แน่ๆ หรือไม่"
 
 #. (itstool) path: note/p
-#: C/files-delete.page:65
+#: C/files-delete.page:66
 msgid ""
 "If you frequently need to delete files without using the trash (for example,"
 " if you often work with sensitive data), you can add a <gui>Delete</gui> "
@@ -2158,7 +2158,7 @@ msgid ""
 msgstr "หากคุณต้องลบไฟล๋บ่อยๆ โดยไม่ใช้ถังขยะ (เช่น หากคุณมักทำงานกับข้อมูลที่ต้องรักษาความปลอดภัยสูง) คุณสามารถเพิ่มทางเข้าไปยัง <gui>ลบ</gui>ในเมนูไฟล์หรือโฟลเดอร์ที่เปิดโดยการคลิกขวา ไอคอน<app>เอกสาร</app>จากเดสก์ท็อป คลิกไอคอนที่เหมือนวงกลมตรงมุมขวาบนของหน้าต่าง คลิก<gui>การตั้งค่า</gui> และเลือกแท็บ <gui>พฤติกรรม</gui> เลือก<gui> รวมคำสั่งลบที่ส่งไปยังถังขยะ</gui>"
 
 #. (itstool) path: note/p
-#: C/files-delete.page:73
+#: C/files-delete.page:74
 msgid ""
 "Deleted files on a <link xref=\"files-removedrive\">removable device </link>"
 " may not be visible on other operating systems, such Windows or Mac OS. The "
@@ -3261,7 +3261,7 @@ msgstr "เริ่มต้นใช้งาน"
 msgid ""
 "<link href=\"endlessm-app://eos-link-feedback.desktop\">Give Us "
 "Feedback</link>"
-msgstr ""
+msgstr "<link href=\"endlessm-app://eos-link-feedback.desktop\">แสดงข้อคิดเห็น</link>"
 
 #. (itstool) path: info/desc
 #: C/keyboard-cursor-blink.page:11
@@ -5160,7 +5160,7 @@ msgid ""
 "install other browsers, you can do so from the App Center. You can try "
 "searching for the browser of your preference by typing its name in the "
 "search bar, or by going to the App Center's <gui>Utilities</gui> section."
-msgstr ""
+msgstr "Endless มาพร้อมกับเบราว์เซอร์บนเดสก์ท็อป แต่ถ้าหากคุณต้องการติดตั้งเบราว์เซอร์อื่น คุณสามารถทำเช่นนั้นได้จากศูนย์แอป คุณอาจลองค้นหาเบราว์เซอร์ที่คุณต้องการได้โดยการพิมพ์ชื่อของเบราว์เซอร์ลงในแถบค้นหา หรือโดยการไปที่หมวด<gui>อรรถประโยชน์</gui>ในศูนย์แอป"
 
 #. (itstool) path: info/desc
 #: C/net-manual.page:20
@@ -5819,7 +5819,7 @@ msgid ""
 "Type \"Network\" into the <gui>global search bar</gui> on your desktop. "
 "Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
 "to open."
-msgstr ""
+msgstr "พิมพ์ \"Network\" ลงใน<gui>แถบการค้นหาทั้งหมด</gui>บนเดสก์ท็อปของคุณ จากนั้นคลิกบนไอคอน<app>การตั้งค่า</app>ที่ปรากฎ หรือกดปุ่ม <key>Enter</key> เพื่อเปิด"
 
 #. (itstool) path: item/p
 #: C/net-wireless-hidden.page:46
@@ -6985,7 +6985,7 @@ msgstr "ปลดล็อคคอมพิวเตอร์ แค่ใส�
 msgid ""
 "You can change the lock screen settings under the <gui>Privacy</gui> section"
 " under <gui>Settings</gui>."
-msgstr ""
+msgstr "คุณสามารถเปลี่ยนการตั้งค่าหน้าจอเมื่อล็อกได้ในหมวด<gui>ความเป็นส่วนตัว</gui>ของตัวเลือก<gui>การตั้งค่า</gui>"
 
 #. (itstool) path: info/desc
 #: C/security-understand-password.page:19
@@ -7321,7 +7321,7 @@ msgstr "ในการเพิ่มโฟลเดอร์ใหม่:"
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:30
 msgid "Right-click on the desktop and select <gui>Add folder</gui>."
-msgstr ""
+msgstr "คลิกขวาบนเดสก์ท็อปและเลือก<gui>เพิ่มโฟลเดอร์</gui>"
 
 #. (itstool) path: item/p
 #: C/shell-add-desktop-folder.page:33 C/shell-organize-apps.page:33
@@ -7443,7 +7443,7 @@ msgstr "บางแอปมีการดาวน์โหลดลงบน
 msgid ""
 "Other apps need to be installed and require an internet connection. Click "
 "<gui>Install</gui> to download and install these apps."
-msgstr ""
+msgstr "ต้องติดตั้งแอปอื่นๆ และต้องเชื่อมต่อกับอินเทอร์เน็ต คลิก<gui>ติดตั้ง</gui>เพื่อดาวน์โหลดและติดตั้งแอปเหล่านี้"
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:68
@@ -7451,7 +7451,7 @@ msgid ""
 "When the app has been successfully added to your desktop, the green button "
 "will change to <gui>Launch</gui> and you can start using the app "
 "immediately!"
-msgstr ""
+msgstr "เมื่อเพิ่มแอปลงในเดสก์ท็อปของคุณสำเร็จแล้ว ปุ่มสีเขียวจะเปลี่ยนเป็นคำสั่ง<gui>เปิด</gui> และคุณจะสามารถเริ่มต้นการใช้งานแอปได้ทันที!"
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:71
@@ -7470,14 +7470,14 @@ msgstr "กำลังติดตั้งปุ่มลัดเว็บไ
 #: C/shell-apps-open.page:83
 msgid ""
 "Right click on the desktop and select the <gui>Add Website</gui> option."
-msgstr ""
+msgstr "คลิกขวาบนเดสก์ท็อปและเลือกตัวเลือก<gui>เพิ่มเว็บไซต์</gui>"
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:86
 msgid ""
 "Click on the <gui>Websites</gui> category on the left hand side if it is not"
 " already selected."
-msgstr ""
+msgstr "คลิกที่ประเภท<gui>เว็บไซต์</gui>ที่ด้านซ้ายมือหากยังไม่ได้เลือกไว้"
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:91
@@ -7507,23 +7507,23 @@ msgstr "ึคลิกปุ่ม <_:media-1/> และลิงค์ขอ�
 
 #. (itstool) path: info/desc
 #: C/shell-delete-app-desktop.page:19
-msgid "Learn how to remove apps from your desktop."
-msgstr "ดูวิธีถอดแอพออกจากเดสก์ท็อปของคุณ"
+msgid "Learn how to remove things from your desktop."
+msgstr "เรียนรู้วิธีการลบสิ่งต่างๆ ออกจากเดสก์ท็อปของคุณ"
 
 #. (itstool) path: page/title
 #: C/shell-delete-app-desktop.page:22
-msgid "Delete apps from the desktop"
-msgstr "ลบแอพจากเดสก์ท็อป"
+msgid "Remove apps and folders from the desktop"
+msgstr "ลบแอปและโฟลเดอร์ออกจากเดสก์ท็อป"
 
 #. (itstool) path: steps/title
 #: C/shell-delete-app-desktop.page:25
-msgid "To delete an app from your desktop:"
-msgstr "การลบแอพจากหน้าเดสก์ท็อป"
+msgid "To remove an app from your desktop:"
+msgstr "การลบแอปออกจากเดสก์ท็อปของคุณ:"
 
 #. (itstool) path: item/p
 #: C/shell-delete-app-desktop.page:27
-msgid "Click and hold the app icon you want to delete."
-msgstr "ึคลิกไอคอนแอพที่คุณต้องการลบค้างไว้ "
+msgid "Click and hold the app icon you want to remove."
+msgstr "คลิกไอคอนแอปที่คุณต้องการลบค้างไว้"
 
 #. (itstool) path: item/p
 #: C/shell-delete-app-desktop.page:30
@@ -7532,7 +7532,7 @@ msgid ""
 msgstr "กดปุ่มเมาส์ค้างไว้ แล้วลากไอคอนแอพไปอยู่เหนือ <_:media-1/>"
 
 #. (itstool) path: item/p
-#: C/shell-delete-app-desktop.page:36
+#: C/shell-delete-app-desktop.page:36 C/shell-delete-app-desktop.page:73
 msgid ""
 "You will notice that the <gui>More Apps</gui> icon will become a trash can "
 "icon."
@@ -7540,8 +7540,8 @@ msgstr "คุณจะเห็นว่าไอคอน <gui>แอพอื
 
 #. (itstool) path: item/p
 #: C/shell-delete-app-desktop.page:40
-msgid "Just drop the icon there to delete the app."
-msgstr "แค่วางไอคอนลงที่นั่นเพื่อลบแอพ"
+msgid "Just drop the icon there to remove the app from your desktop."
+msgstr "วางไอคอนไว้ตรงนั้นเพื่อลบแอปออกจากเดสก์ท็อปของคุณ"
 
 #. (itstool) path: page/p
 #: C/shell-delete-app-desktop.page:45
@@ -7550,12 +7550,43 @@ msgid ""
 msgstr "ไอคอน <gui>แอพเพิ่มเติม</gui> จะเป็นไอคอนสุดท้ายในเดสก์ท็อปของคุณเสมอ"
 
 #. (itstool) path: note/p
-#: C/shell-delete-app-desktop.page:51
+#: C/shell-delete-app-desktop.page:49
 msgid ""
-"Deleting the app from your desktop doesn't remove it from the system. If you"
+"Removing the app from your desktop doesn't remove it from the system. If you"
 " want to delete the app entirely from the system to make storage space "
 "available, you can do it from the <app>App Center</app>."
-msgstr "การลบแอพออกจากเดสก์ท็อปของคุณ ไม่ได้เป็นการลบออกจากระบบ หากคุณต้องการจะลบแอพออกจากระบบไปเลย เพื่อเพิ่มพื้นที่การจัดเก็บ คุณสามารถทำได้ที่ <app>ศูนย์กลางแอพ</app>"
+msgstr "การลบแอปออกจากเดสก์ท็อปของคุณนั้นจะไม่เป็นการลบแอปออกจากระบบ หากคุณต้องการลบแอปออกจากระบบอย่างสิ้นเชิงเพื่อเพิ่มพื้นที่ว่าง คุณสามารถทำการดังกล่าวได้จาก<app>ศูนย์แอป</app>"
+
+#. (itstool) path: steps/title
+#: C/shell-delete-app-desktop.page:56
+msgid "To remove a folder from your desktop:"
+msgstr "การลบโฟลเดอร์ออกจากเดสก์ท็อปของคุณ:"
+
+#. (itstool) path: item/p
+#: C/shell-delete-app-desktop.page:58
+msgid ""
+"First, you'll need to remove all of the apps within the folder you'd like to"
+" delete. Follow the steps above and drag each app outside of the folder. You"
+" can then leave each app on your desktop, or you can move the apps to "
+"another folder or the trash."
+msgstr "อันดับแรก คุณจะต้องลบแอปทั้งหมดภายในโฟลเดอร์คุณที่ต้องการลบออก ทำตามขั้นตอนข้างต้นแล้วลากแต่ละแอปออกจากโฟลเดอร์ จากนั้นคุณจะสามารถปล่อยแอปไว้บนเดสก์ท็อปของคุณ หรือคุณจะย้ายแอปไปยังโฟลเดอร์อื่นหรือไปยังถังขยะก็ได้เช่นกัน"
+
+#. (itstool) path: item/p
+#: C/shell-delete-app-desktop.page:64
+msgid ""
+"Once the folder you want to remove is empty, click and hold the folder."
+msgstr "เมื่อโฟลเดอร์ที่คุณต้องการลบออกว่างเปล่าแล้ว ให้คลิกที่โฟลเดอร์ค้างไว้"
+
+#. (itstool) path: item/p
+#: C/shell-delete-app-desktop.page:67
+msgid ""
+"Keeping the mouse button pressed, drag the folder on top of <_:media-1/>."
+msgstr "กดปุ่มบนเมาส์ค้างไว้แล้วลากโฟลเดอร์มาไว้ที่ด้านบนของ <_:media-1/>"
+
+#. (itstool) path: item/p
+#: C/shell-delete-app-desktop.page:77
+msgid "Just drop the folder there to remove it from the desktop."
+msgstr "วางโฟลเดอร์ไว้ตรงนั้นเพื่อลบออกจากเดสก์ท็อป"
 
 #. (itstool) path: credit/name
 #: C/shell-exit.page:22
@@ -7601,7 +7632,7 @@ msgid ""
 "To log out (i.e. in order to switch to a different user), click on the User "
 "icon at the very bottom right-hand side of your screen (it looks like a "
 "person), and click the <gui>Lock icon</gui>."
-msgstr ""
+msgstr "หากต้องการออกจากระบบ (กล่าวคือ เพื่อเปลี่ยนเป็นผู้ใช้อื่น) ให้คลิกที่ไอคอนผู้ใช้ที่ด้านล่างขวาของหน้าจอของคุณ (ดูเหมือนรูปคน) แล้วคลิกที่<gui>ไอคอนแม่กุญแจ</gui>"
 
 #. (itstool) path: section/title
 #: C/shell-exit.page:65
@@ -7624,7 +7655,7 @@ msgid ""
 "To lock your screen, click on the User icon at the very bottom right-hand "
 "side of your screen (it looks like a person), and click the <gui>Lock "
 "icon</gui>."
-msgstr ""
+msgstr "สำหรับการล็อกหน้าจอของคุณ ให้คลิกที่ไอคอนผู้ใช้ที่ด้านล่างขวาของหน้าจอ (ดูเหมือนรูปคน) แล้วคลิก<gui>ไอคอนแม่กุญแจ</gui>"
 
 #. (itstool) path: note/p
 #: C/shell-exit.page:76
@@ -7647,7 +7678,7 @@ msgid ""
 "looks like a person), and press the <gui>Exit</gui> button at the bottom "
 "right of the menu. A dialog will open offering you the options to, among "
 "other options, <gui>Restart</gui> or <gui>Power Off</gui>."
-msgstr ""
+msgstr "หากคุณต้องการปิดคอมพิวเตอร์ของคุณทั้งระบบ หรือต้องการรีสตาร์ตใหม่ทั้งระบบ ให้คลิกที่ไอคอนผู้ใช้ที่ด้านล่างขวาของหน้าจอของคุณ (ดูเหมือนรูปคน) แล้วกดปุ่ม<gui>ออก</gui>ที่ด้านล่างขวาของเมนู กล่องโต้ตอบจะเปิดขึ้นเพื่อแสดงตัวเลือกต่างๆ เช่น <gui>รีสตาร์ต</gui> หรือ <gui>ปิดเครื่อง</gui>"
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:96
@@ -7709,7 +7740,7 @@ msgid ""
 "networking. There, you can change the volume, edit your Wi-Fi connection "
 "details, check your battery status, log out or switch users, and turn off "
 "your computer."
-msgstr ""
+msgstr "แถบงานจะให้การเข้าถึงสิ่งต่างๆ ที่สำคัญอย่างเช่น หน้าต่างและแอปพลิเคชันของคุณ, ปฏิทินและนาฬิกาของคุณ และคุณสมบัติของระบบอย่างเช่น เสียงและระบบเครือข่าย ที่นี่คุณจะสามารถเปลี่ยนระดับเสียง, แก้ไขรายละเอียดการเชื่อมต่อ Wi-Fi ของคุณ, ตรวจสอบสถานะของแบตเตอรี่, ออกจากระบบหรือเปลี่ยนผู้ใช้ และปิดเครื่องคอมพิวเตอร์ของคุณได้"
 
 #. (itstool) path: section/title
 #: C/shell-introduction.page:51
@@ -8202,7 +8233,7 @@ msgstr "เมื่อปิดเครื่อง การแจ้งเ�
 #. (itstool) path: info/desc
 #: C/shell-organize-apps.page:18
 msgid "Use folders to stay organized."
-msgstr ""
+msgstr "ใช้โฟลเดอร์เพื่อรักษาความเป็นระบบ"
 
 #. (itstool) path: page/title
 #: C/shell-organize-apps.page:21
@@ -8300,7 +8331,7 @@ msgstr "Endless พัฒนาแอพอยู่เสมอ เพื่อ
 #. (itstool) path: item/p
 #: C/shell-update-app.page:34
 msgid "On the top bar, click the <gui>Updates</gui> section."
-msgstr ""
+msgstr "ที่แถบด้านบนสุด ให้คลิกหมวด<gui>การอัปเดต</gui>"
 
 #. (itstool) path: item/p
 #: C/shell-update-app.page:37
@@ -8308,24 +8339,24 @@ msgid ""
 "If there is an update available, you will see an <gui>Update</gui> you can "
 "select. Click on it to download the update. It will be installed "
 "automatically once it's ready."
-msgstr ""
+msgstr "หากมีการอัปเดตพร้อมให้บริการ คุณจะมองเห็นตัวเลือก<gui>อัปเดต</gui>ที่คุณสามารถเลือกได้ ให้คลิกที่ตัวเลือกนั้นเพื่อดาวน์โหลดการอัปเดต โดยระบบจะทำการติดตั้งให้โดยอัตโนมัติเมื่อดาวน์โหลดเสร็จ"
 
 #. (itstool) path: item/p
 #: C/shell-update-app.page:42
 msgid ""
 "You can also choose to <gui>Update All</gui> of your apps at once with the "
 "blue button at the top right of your screen."
-msgstr ""
+msgstr "นอกจากนี้ คุณยังสามารถเลือกที่จะ<gui>อัปเดตทั้งหมด</gui>กับแอปของคุณทันทีด้วยปุ่มสีน้ำเงินที่ด้านบนขวาของหน้าจอของคุณ"
 
 #. (itstool) path: note/p
 #: C/shell-update-app.page:48
 msgid "To update your apps, you will need an internet connection."
-msgstr ""
+msgstr "หากต้องการอัปเดตแอป คุณจะต้องเชื่อมต่อกับอินเทอร์เน็ต"
 
 #. (itstool) path: note/p
 #: C/shell-update-app.page:51
 msgid "You can close the <app>App Center</app> while apps are updating."
-msgstr ""
+msgstr "คุณสามารถปิด<app>ศูนย์แอป</app>ในระหว่างที่แอปกำลังอัปเดตได้"
 
 #. (itstool) path: info/desc
 #: C/shell-update-system.page:19
@@ -8428,7 +8459,7 @@ msgid ""
 " restore your windows. When your windows are minimized, you can use the "
 "<gui>hot corner</gui> on the bottom right to quickly navigate between the "
 "hidden apps."
-msgstr ""
+msgstr "ตั้งแต่ Endless เวอร์ชัน 3.2 เป็นต้นไป คุณจะสามารถซ่อนหน้าต่างทั้งหมดของคุณแบบทันทีได้โดยการคลิกที่โลโก้ Endless ในมุมล่างซ้าย จากนั้นให้คลิกอีกครั้งเพื่อเรียกคืนหน้าต่างของคุณ เมื่อหน้าต่างของคุณถูกย่อลง คุณจะสามารถใช้<gui>มุมลัด</gui>ที่อยู่บริเวณด้านล่างขวาเพื่อเลื่อนไปมาระหว่างแอปต่างๆ ที่ซ่อนไว้อย่างรวดเร็วได้"
 
 #. (itstool) path: info/desc
 #: C/shell-windows-maximize.page:9
