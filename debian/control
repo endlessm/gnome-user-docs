@@ -14,6 +14,7 @@ Vcs-Svn: svn://anonscm.debian.org/svn/pkg-gnome/desktop/unstable/gnome-user-docs
 Vcs-Browser: http://anonscm.debian.org/viewvc/pkg-gnome/desktop/unstable/gnome-user-docs
 
 Package: gnome-user-guide
+Provides: gnome-user-docs
 Architecture: all
 Depends: ${misc:Depends},
          yelp (>= 3)
