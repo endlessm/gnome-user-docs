@@ -8,7 +8,7 @@
 # Nuritzi Sanchez <ns@endlessm.com>, 2016
 # Philip Chimento <philip.chimento@gmail.com>, 2015
 # Renato Peixoto Pinto <renato@endlessm.com>, 2015
-# Roddy Shuler <roddy@endlessm.com>, 2016
+# Roddy Shuler <roddy@stanfordalumni.org>, 2016
 # rodolforg <rodolforg@gmail.com>, 2011-2012
 msgid ""
 msgstr ""

@@ -1,12 +1,13 @@
 # 
 # Translators:
 # Andrej Znidarsic <andrej.znidarsic@gmail.com>, 2011
+# Shaddai, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2017-06-23 15:31-0700\n"
-"PO-Revision-Date: 2017-09-23 11:11+0000\n"
-"Last-Translator: Roddy Shuler <roddy@endlessm.com>\n"
+"PO-Revision-Date: 2019-01-15 02:59+0000\n"
+"Last-Translator: Shaddai\n"
 "Language-Team: Slovenian (http://www.transifex.com/endless-os/gnome-user-docs/language/sl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -159,7 +160,7 @@ msgid ""
 "Type \"Settings\" into the <gui>global search bar</gui> on your desktop. "
 "Click on the resulting <app>Settings</app> icon, or press <key>Enter</key>, "
 "to open."
-msgstr ""
+msgstr "Napiši \"Nastavitve\" v <gui>globalno vrstico iskanja</gui> na svojem namizju. Klikni na icono rezultata <app>Nastavitve</app> ali pritisni <key>Enter</key>, da odpreš."
 
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:48 C/a11y-contrast.page:47 C/a11y-dwellclick.page:53
@@ -167,7 +168,7 @@ msgstr ""
 #: C/a11y-slowkeys.page:50 C/a11y-stickykeys.page:54
 #: C/a11y-visualalert.page:49 C/keyboard-osk.page:46 C/mouse-mousekeys.page:49
 msgid "Click on <gui>Universal Access</gui>."
-msgstr ""
+msgstr "Klikni na<gui>Univerzalni Dostop</gui>."
 
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:52 C/a11y-slowkeys.page:54 C/a11y-stickykeys.page:58
@@ -178,7 +179,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:56
 msgid "Switch <gui>Bounce Keys</gui> to <gui>On</gui>."
-msgstr ""
+msgstr "Vklopite <gui>Odskočne tipke</gui> na <gui>On</gui>."
 
 #. (itstool) path: note/title
 #: C/a11y-bouncekeys.page:61
@@ -248,7 +249,7 @@ msgstr ""
 #. (itstool) path: steps/title
 #: C/a11y-contrast.page:41
 msgid "To adjust the contrast of your window:"
-msgstr ""
+msgstr "Če želite prilagoditi kontrast okna:"
 
 #. (itstool) path: item/p
 #: C/a11y-contrast.page:51
@@ -381,7 +382,7 @@ msgstr ""
 msgid ""
 "The universal access menu is the icon on the bottom bar that looks like a "
 "person."
-msgstr ""
+msgstr "Meni za univerzalni dostop je ikona, ki se nahaja na spodnji vrstici in zgleda kot človek."
 
 #. (itstool) path: page/title
 #: C/a11y-icon.page:22
@@ -399,7 +400,7 @@ msgstr ""
 #. (itstool) path: figure/desc
 #: C/a11y-icon.page:29
 msgid "The universal access menu can be found on the bottom bar."
-msgstr ""
+msgstr "Meni za univerzalni dostop lahko najdete na spodnji vrstici."
 
 #. (itstool) path: page/p
 #: C/a11y-icon.page:33
@@ -411,7 +412,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/a11y-icon.page:42
 msgid "Click <gui>Universal Access</gui>."
-msgstr ""
+msgstr "Klikni <gui>Univerzalni Dostop</gui>."
 
 #. (itstool) path: item/p
 #: C/a11y-icon.page:45
@@ -421,12 +422,12 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/a11y-mag.page:27
 msgid "Zoom in on your screen so that it is easier to see things."
-msgstr ""
+msgstr "Povečaj na svojem zaslonu zato, da lažje se vidi stvari."
 
 #. (itstool) path: page/title
 #: C/a11y-mag.page:30
 msgid "Magnify a screen area"
-msgstr ""
+msgstr "Povečajte območje zaslona"
 
 #. (itstool) path: page/p
 #: C/a11y-mag.page:32
@@ -813,27 +814,27 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/a11y.page:33
 msgid "Visual Impairments"
-msgstr ""
+msgstr "Težave z vidom"
 
 #. (itstool) path: section/title
 #: C/a11y.page:38
 msgid "Low Vision"
-msgstr ""
+msgstr "Slabovidnost"
 
 #. (itstool) path: section/title
 #: C/a11y.page:43
 msgid "Hearing Impairments"
-msgstr ""
+msgstr "Težave s sluhom"
 
 #. (itstool) path: section/title
 #: C/a11y.page:48
 msgid "Mobility Impairments"
-msgstr ""
+msgstr "Težave z gibanjem"
 
 #. (itstool) path: section/title
 #: C/a11y.page:53
 msgid "See Also"
-msgstr ""
+msgstr "Poglej tudi"
 
 #. (itstool) path: credit/name
 #: C/accounts-add.page:13 C/bluetooth-connect-device.page:16
@@ -871,7 +872,7 @@ msgstr "Jim Campbell"
 #: C/shell-update-system.page:11 C/shell-windows-hide.page:11
 #: C/user-add.page:30
 msgid "Nuritzi Sanchez"
-msgstr ""
+msgstr "Nuritzi Sanchez"
 
 #. (itstool) path: info/desc
 #: C/accounts-add.page:26
@@ -883,7 +884,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/accounts-add.page:29
 msgid "Add an online account"
-msgstr ""
+msgstr "Dodajte spletni račun"
 
 #. (itstool) path: page/p
 #: C/accounts-add.page:31
@@ -895,17 +896,17 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/accounts-add.page:40
 msgid "Click on <gui>Online Accounts</gui>."
-msgstr ""
+msgstr "Klikni na<gui>Spletni računi</gui>."
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:44
 msgid "Click the <gui>Add an online account</gui> button."
-msgstr ""
+msgstr "Kliki na gumb <gui>Dodaj spletni račun</gui>"
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:48
 msgid "Select the type of account you want to add first."
-msgstr ""
+msgstr "Izberite vrsto računa, ki ga želite najprej dodati."
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:49
@@ -1370,7 +1371,7 @@ msgstr "Preden začnete, se prepričajte, da je Bluetooth na vašem računalniku
 #: C/bluetooth-send-file.page:60 C/bluetooth-turn-on-off.page:53
 #: C/bluetooth-turn-on-off.page:67
 msgid "Click <gui>Bluetooth</gui>."
-msgstr ""
+msgstr "Kliknite <gui>Bluetooth</gui>."
 
 #. (itstool) path: item/p
 #: C/bluetooth-connect-device.page:54
@@ -1605,7 +1606,7 @@ msgstr "Souporaba datotek z napravami z omogočenim Bluetooth, kot je telefon."
 #. (itstool) path: page/title
 #: C/bluetooth-send-file.page:35
 msgid "Send files to a Bluetooth device"
-msgstr ""
+msgstr "Pošljite datoteke napravi Bluetooth"
 
 #. (itstool) path: page/p
 #: C/bluetooth-send-file.page:37
@@ -1672,7 +1673,7 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/bluetooth-turn-on-off.page:46
 msgid "To turn Bluetooth on:"
-msgstr ""
+msgstr "Za prižgati Bluetooth:"
 
 #. (itstool) path: item/p
 #: C/bluetooth-turn-on-off.page:56
@@ -1682,7 +1683,7 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/bluetooth-turn-on-off.page:60
 msgid "To turn Bluetooth off:"
-msgstr ""
+msgstr "Za ugasniti Bluetooth:"
 
 #. (itstool) path: item/p
 #: C/bluetooth-turn-on-off.page:70
@@ -1708,7 +1709,7 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/bluetooth.page:16
 msgid "Learn what Bluetooth is."
-msgstr ""
+msgstr "Spoznaj kaj je Bluetooth."
 
 #. (itstool) path: page/title
 #: C/bluetooth.page:21
@@ -1792,7 +1793,7 @@ msgstr ""
 #: C/clock-timezone.page:31
 msgid ""
 "Update your time zone to your current location so that your time is correct."
-msgstr ""
+msgstr "Posodobi svojo časovno cono na svojo trenutno lokacijo, da bo vaš čas točen."
 
 #. (itstool) path: page/title
 #: C/clock-timezone.page:34
@@ -1812,7 +1813,7 @@ msgstr ""
 msgid ""
 "Click <gui>Time Zone</gui>, then select your location on the map or search "
 "for your current city."
-msgstr ""
+msgstr "Kliknite na <gui>Časovno Cono</gui>, potem izberite svojo lokacijo na zemljevidu ali poiščite svoje trenutno mesto."
 
 #. (itstool) path: page/p
 #: C/clock-timezone.page:58
@@ -2181,7 +2182,7 @@ msgstr ""
 #: C/shell-organize-apps.page:14 C/shell-update-app.page:15
 #: C/shell-update-system.page:15 C/shell-windows-hide.page:15
 msgid "Endless Mobile, Inc."
-msgstr ""
+msgstr "Endless Mobile, Inc."
 
 #. (itstool) path: credit/years
 #: C/files-microsoft-compatible.page:16 C/files-save.page:15
@@ -2198,7 +2199,7 @@ msgstr ""
 #: C/shell-organize-apps.page:15 C/shell-update-app.page:16
 #: C/shell-update-system.page:16 C/shell-windows-hide.page:16
 msgid "2014"
-msgstr ""
+msgstr "2014"
 
 #. (itstool) path: info/desc
 #: C/files-microsoft-compatible.page:19
@@ -2208,7 +2209,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/files-microsoft-compatible.page:22
 msgid "Save in a Microsoft compatible format"
-msgstr ""
+msgstr "Shrani v združljivi Microsoftovi obliki"
 
 #. (itstool) path: page/p
 #: C/files-microsoft-compatible.page:24
@@ -2650,7 +2651,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/files-save.page:21
 msgid "Save your files"
-msgstr ""
+msgstr "Shrani svoje datoteke"
 
 #. (itstool) path: page/p
 #: C/files-save.page:23
@@ -2724,7 +2725,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/files-save.page:61
 msgid "Photoshop = .psd"
-msgstr ""
+msgstr "Photoshop = .psd"
 
 #. (itstool) path: section/p
 #: C/files-save.page:65
@@ -2754,7 +2755,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/files-save.page:82
 msgid "How do I save a file?"
-msgstr ""
+msgstr "Kako shraniti datoteko?"
 
 #. (itstool) path: section/p
 #: C/files-save.page:84
@@ -3088,7 +3089,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/files-share.page:24
 msgid "Share files by email"
-msgstr ""
+msgstr "Pošlji datoteko kot elektronsko pošto"
 
 #. (itstool) path: page/p
 #: C/files-share.page:36
@@ -3143,7 +3144,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/files-zip.page:21
 msgid "Create zip files"
-msgstr ""
+msgstr "Ustvarite zip datoteko"
 
 #. (itstool) path: page/p
 #: C/files-zip.page:23
@@ -3155,7 +3156,7 @@ msgstr ""
 #. (itstool) path: steps/title
 #: C/files-zip.page:27
 msgid "To create a zip file, follow these steps:"
-msgstr ""
+msgstr "Da ustvarite zip datoteko, sledite tem postopkom:"
 
 #. (itstool) path: item/p
 #: C/files-zip.page:29
@@ -3192,17 +3193,17 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/files.page:20
 msgid "Documents &amp; Files"
-msgstr ""
+msgstr "Dokumenti in datoteke"
 
 #. (itstool) path: section/title
 #: C/files.page:23
 msgid "Share your Files"
-msgstr ""
+msgstr "Delite svoje datoteke"
 
 #. (itstool) path: section/title
 #: C/files.page:28
 msgid "Media"
-msgstr ""
+msgstr "Nosilci"
 
 #. (itstool) path: info/title
 #: C/hardware.page:10
@@ -3223,22 +3224,22 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/hardware.page:19
 msgid "Displays"
-msgstr ""
+msgstr "Zasloni"
 
 #. (itstool) path: section/title
 #: C/hardware.page:24
 msgid "Sound"
-msgstr ""
+msgstr "Zvok"
 
 #. (itstool) path: section/title
 #: C/hardware.page:29
 msgid "Printers"
-msgstr ""
+msgstr "Tiskalniki"
 
 #. (itstool) path: section/title
 #: C/hardware.page:34
 msgid "Keyboard &amp; Mouse"
-msgstr ""
+msgstr "Tipkovnica & Miška"
 
 #. (itstool) path: info/desc
 #: C/index.page:8
@@ -3254,14 +3255,14 @@ msgstr "Pomoč Endless"
 #. (itstool) path: page/title
 #: C/index.page:15
 msgid "Getting Started"
-msgstr ""
+msgstr "Seja je začeta"
 
 #. (itstool) path: section/title
 #: C/index.page:20
 msgid ""
 "<link href=\"endlessm-app://eos-link-feedback.desktop\">Give Us "
 "Feedback</link>"
-msgstr ""
+msgstr "<link href=\"endlessm-app://eos-link-feedback.desktop\">Podajte nam povratne informacije</link>"
 
 #. (itstool) path: info/desc
 #: C/keyboard-cursor-blink.page:11
@@ -3286,7 +3287,7 @@ msgstr "Julita Inca"
 #: C/look-background.page:37 C/mouse-doubleclick.page:29
 #: C/shell-apps-open.page:21
 msgid "Shobha Tyagi"
-msgstr ""
+msgstr "Shobha Tyagi"
 
 #. (itstool) path: page/title
 #: C/keyboard-cursor-blink.page:36
@@ -3303,7 +3304,7 @@ msgstr "Če kazalko tipkovnice težko vidite v besedilnem polju, lahko nastavite
 #. (itstool) path: item/p
 #: C/keyboard-cursor-blink.page:48 C/keyboard-repeat-keys.page:51
 msgid "Click on <gui>Keyboard</gui>."
-msgstr ""
+msgstr "Kliknite na <gui>Tipkovnico</gui>."
 
 #. (itstool) path: item/p
 #: C/keyboard-cursor-blink.page:51
@@ -3336,7 +3337,7 @@ msgstr "Creative Commons Share Alike 3.0"
 #. (itstool) path: page/title
 #: C/keyboard-key-menu.page:26
 msgid "Right click with your keyboard"
-msgstr ""
+msgstr "Desno kliknite s tipkovnico"
 
 #. (itstool) path: page/p
 #: C/keyboard-key-menu.page:28
@@ -3384,7 +3385,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/keyboard-key-super.page:26
 msgid "Use the Super key"
-msgstr ""
+msgstr "Uporabi super tipko"
 
 #. (itstool) path: page/p
 #: C/keyboard-key-super.page:28
@@ -3435,7 +3436,7 @@ msgstr "Držite želeno kombinacijo tipk."
 #. (itstool) path: credit/name
 #: C/keyboard-layouts.page:26
 msgid "Juanjo Marín"
-msgstr ""
+msgstr "Juanjo Marín"
 
 #. (itstool) path: info/desc
 #: C/keyboard-layouts.page:37
@@ -3445,7 +3446,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/keyboard-layouts.page:40
 msgid "Use alternative keyboard layouts"
-msgstr ""
+msgstr "Uporabite nadomestno razporeditev tipkovnice"
 
 #. (itstool) path: page/p
 #: C/keyboard-layouts.page:42
@@ -3473,7 +3474,7 @@ msgstr ""
 #. (itstool) path: media/span
 #: C/keyboard-layouts.page:68 C/keyboard-layouts.page:74
 msgid "preview"
-msgstr ""
+msgstr "predogled"
 
 #. (itstool) path: note/p
 #: C/keyboard-layouts.page:66
@@ -3485,7 +3486,7 @@ msgstr ""
 #. (itstool) path: media/span
 #: C/keyboard-layouts.page:77
 msgid "preferences"
-msgstr ""
+msgstr "možnosti"
 
 #. (itstool) path: page/p
 #: C/keyboard-layouts.page:71
@@ -3554,7 +3555,7 @@ msgstr "Uporaba programov in namizja brez miške."
 #. (itstool) path: page/title
 #: C/keyboard-nav.page:31
 msgid "Use the keyboard instead of a mouse"
-msgstr ""
+msgstr "Uporabite tipkovnico namesto miške"
 
 #. (itstool) path: page/p
 #: C/keyboard-nav.page:41
@@ -3695,7 +3696,7 @@ msgstr "Odpre prvi meni v menijski vrstici okna. Uporabite smerne tipke za krmar
 #: C/keyboard-nav.page:103
 msgid ""
 "<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>F10</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>F10</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:105
@@ -3707,7 +3708,7 @@ msgstr ""
 msgid ""
 "<keyseq><key>Shift</key><key>F10</key></keyseq> or <key xref=\"keyboard-key-"
 "menu\">Menu</key>"
-msgstr ""
+msgstr "<keyseq><key>Shift</key><key>F10</key></keyseq> ali tipka <key xref=\"keyboard-key-menu\">Meni</key>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:111
@@ -3762,7 +3763,7 @@ msgstr "Kroži med okni istega programa. Držite tipko <key>Alt</key> in pritisn
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:149 C/shell-keyboard-shortcuts.page:82
 msgid "<keyseq><key>Super</key><key>M</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Super</key><key>M</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:150
@@ -3848,7 +3849,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:190
 msgid "<keyseq><key>Super</key><key>H</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Super</key><key>H</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:191
@@ -3858,7 +3859,7 @@ msgstr "Skrči okno."
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:194
 msgid "<keyseq><key>Super</key><key>←</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Super</key><key>←</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:195
@@ -3871,7 +3872,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:201
 msgid "<keyseq><key>Super</key><key>→</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Super</key><key>→</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:202
@@ -3937,7 +3938,7 @@ msgstr ""
 #. (itstool) path: media/span
 #: C/keyboard-osk.page:65
 msgid "keyboard"
-msgstr ""
+msgstr "tipkovnica"
 
 #. (itstool) path: page/p
 #: C/keyboard-osk.page:64
@@ -3996,7 +3997,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/keyboard.page:29
 msgid "Use your keyboard"
-msgstr ""
+msgstr "Uporabite svojo tipkovnico"
 
 #. (itstool) path: credit/name
 #: C/look-background.page:17
@@ -4016,7 +4017,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/look-background.page:53
 msgid "Choose a photo for your background"
-msgstr ""
+msgstr "Izberite sliko za svoje ozadje"
 
 #. (itstool) path: page/p
 #: C/look-background.page:55
@@ -4029,7 +4030,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/look-background.page:65
 msgid "Click on the <gui>Background</gui>."
-msgstr ""
+msgstr "Kliknite na <gui>Ozadje</gui>."
 
 #. (itstool) path: item/p
 #: C/look-background.page:68
@@ -4058,7 +4059,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/look-background.page:83
 msgid "Select <gui>Colors</gui> to just use a color."
-msgstr ""
+msgstr "Izberite <gui>Barve</gui> samo za uporabo barve."
 
 #. (itstool) path: item/p
 #: C/look-background.page:89
@@ -4085,14 +4086,14 @@ msgstr ""
 #. (itstool) path: steps/title
 #: C/media-import-from-device.page:29
 msgid "Using a USB Cable"
-msgstr ""
+msgstr "Uporaba kabla USB"
 
 #. (itstool) path: item/p
 #: C/media-import-from-device.page:31
 msgid ""
 "If your camera or phone has a USB cable, connect it directly to your Endless"
 " computer."
-msgstr ""
+msgstr "Če ima vaš fotoaparat ali telefon kabel USB, ga priključite neposredno na računalnik Endless."
 
 #. (itstool) path: item/p
 #: C/media-import-from-device.page:40
@@ -4130,7 +4131,7 @@ msgstr ""
 #. (itstool) path: steps/title
 #: C/media-import-from-device.page:62
 msgid "Safely disconnect your camera or phone:"
-msgstr ""
+msgstr "Varno odklopite fotoaparat ali telefon:"
 
 #. (itstool) path: section/p
 #: C/media-import-from-device.page:79
@@ -4151,12 +4152,12 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/media-listen-music.page:19
 msgid "Learn about the Music app."
-msgstr ""
+msgstr "Več o aplikaciji Glasba."
 
 #. (itstool) path: page/title
 #: C/media-listen-music.page:22
 msgid "Listen to my music"
-msgstr ""
+msgstr "Poslušaj mojo glasbo"
 
 #. (itstool) path: page/p
 #: C/media-listen-music.page:24
@@ -4176,7 +4177,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/media-listen-music.page:34
 msgid "Double click on a song to play it."
-msgstr ""
+msgstr "Dvakrat klikni na pesem za predvajanje."
 
 #. (itstool) path: item/p
 #: C/media-listen-music.page:37
@@ -4216,7 +4217,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/media-play-videos.page:22
 msgid "Play my videos"
-msgstr ""
+msgstr "Predvajaj moj posnetek"
 
 #. (itstool) path: page/p
 #: C/media-play-videos.page:24
@@ -4231,7 +4232,7 @@ msgstr ""
 #. (itstool) path: steps/title
 #: C/media-play-videos.page:30
 msgid "To watch your videos:"
-msgstr ""
+msgstr "Za ogledati  si svoje videoposnetke:"
 
 #. (itstool) path: steps/p
 #: C/media-play-videos.page:31
@@ -4246,12 +4247,12 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/media-play-videos.page:37 C/media-play-videos.page:60
 msgid "Click on <_:media-1/> on your desktop."
-msgstr ""
+msgstr "Klikni na <_:media-1/> iz svojega namizja."
 
 #. (itstool) path: item/p
 #: C/media-play-videos.page:42 C/media-play-videos.page:65
 msgid "Click on the <gui>Videos</gui> folder."
-msgstr ""
+msgstr "Klikni na mapo <gui>Videoposnetki</gui>."
 
 #. (itstool) path: item/p
 #: C/media-play-videos.page:45
@@ -4492,7 +4493,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/mouse-when-right-click.page:22
 msgid "How and when to use the right click"
-msgstr ""
+msgstr "Kako in kje uporabiti desni klik"
 
 #. (itstool) path: page/p
 #: C/mouse-when-right-click.page:24
@@ -4515,7 +4516,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/mouse-when-right-click.page:35
 msgid "If your mouse only has one button"
-msgstr ""
+msgstr "Če ima vaša miška samo en gumb"
 
 #. (itstool) path: section/p
 #: C/mouse-when-right-click.page:37
@@ -4527,7 +4528,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/mouse-when-right-click.page:48
 msgid "Click on the <gui>Universal Access</gui> panel."
-msgstr ""
+msgstr "Klikni na ploščo za<gui>Univerzalni Dostop</gui>."
 
 #. (itstool) path: item/p
 #: C/mouse-when-right-click.page:51
@@ -4552,7 +4553,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/mouse.page:19
 msgid "Use your mouse"
-msgstr ""
+msgstr "Uporabi svojo miško"
 
 #. (itstool) path: info/desc
 #: C/nautilus-file-properties-basic.page:8
@@ -4896,42 +4897,42 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-3g-dongles.page:28
 msgid "Huawei E303"
-msgstr ""
+msgstr "Huawei E303"
 
 #. (itstool) path: item/p
 #: C/net-3g-dongles.page:31
 msgid "Huawei E153"
-msgstr ""
+msgstr "Huawei E153"
 
 #. (itstool) path: item/p
 #: C/net-3g-dongles.page:34
 msgid "Huawei E173"
-msgstr ""
+msgstr "Huawei E173"
 
 #. (itstool) path: item/p
 #: C/net-3g-dongles.page:37
 msgid "Huawei E303c"
-msgstr ""
+msgstr "Huawei E303c"
 
 #. (itstool) path: item/p
 #: C/net-3g-dongles.page:40
 msgid "Huawei E3276"
-msgstr ""
+msgstr "Huawei E3276"
 
 #. (itstool) path: item/p
 #: C/net-3g-dongles.page:43
 msgid "Huawei E3276s"
-msgstr ""
+msgstr "Huawei E3276s"
 
 #. (itstool) path: item/p
 #: C/net-3g-dongles.page:46
 msgid "Huawei E353s-6"
-msgstr ""
+msgstr "Huawei E353s-6"
 
 #. (itstool) path: item/p
 #: C/net-3g-dongles.page:49
 msgid "ZTE MF626"
-msgstr ""
+msgstr "ZTE MF626"
 
 #. (itstool) path: page/p
 #: C/net-3g-dongles.page:53
@@ -4949,7 +4950,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/net-antivirus.page:20
 msgid "Virus protection"
-msgstr ""
+msgstr "Virusna zaščita"
 
 #. (itstool) path: page/p
 #: C/net-antivirus.page:22
@@ -4986,7 +4987,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/net-create-email.page:21
 msgid "Create an email address"
-msgstr ""
+msgstr "Ustvarite elektronski naslov"
 
 #. (itstool) path: page/p
 #: C/net-create-email.page:23
@@ -5009,32 +5010,32 @@ msgstr ""
 #. (itstool) path: list/title
 #: C/net-create-email.page:33
 msgid "Popular email providers"
-msgstr ""
+msgstr "Prepoznavni ponudniki elektronske pošte"
 
 #. (itstool) path: item/p
 #: C/net-create-email.page:35
 msgid "<link href=\"https://mail.google.com\">Gmail</link>"
-msgstr ""
+msgstr "<link href=\"https://mail.google.com\">Gmail</link>"
 
 #. (itstool) path: item/p
 #: C/net-create-email.page:38
 msgid "<link href=\"https://www.hotmail.com\">Hotmail</link>"
-msgstr ""
+msgstr "<link href=\"https://www.hotmail.com\">Hotmail</link>"
 
 #. (itstool) path: item/p
 #: C/net-create-email.page:41
 msgid "<link href=\"https://mail.yahoo.com\">Yahoo Mail</link>"
-msgstr ""
+msgstr "<link href=\"https://mail.yahoo.com\">Yahoo Mail</link>"
 
 #. (itstool) path: item/p
 #: C/net-create-email.page:44
 msgid "<link href=\"https://mail.live.com\">Live</link>"
-msgstr ""
+msgstr "<link href=\"https://mail.live.com\">Live</link>"
 
 #. (itstool) path: list/title
 #: C/net-create-email.page:49
 msgid "Tips and internet security"
-msgstr ""
+msgstr "Nasveti in internetna varnost"
 
 #. (itstool) path: item/p
 #: C/net-create-email.page:51
@@ -5070,12 +5071,12 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/net-discover-websites.page:19
 msgid "Find new websites you love."
-msgstr ""
+msgstr "Poiščite nove spletne strani, ki jih imate radi."
 
 #. (itstool) path: page/title
 #: C/net-discover-websites.page:22
 msgid "Discover new websites"
-msgstr ""
+msgstr "Odkrite novo spletno stran"
 
 #. (itstool) path: page/p
 #: C/net-discover-websites.page:24
@@ -5151,7 +5152,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/net-installing-other-browsers.page:21
 msgid "Installing other browsers"
-msgstr ""
+msgstr "Namestitev drugih brskalnikov"
 
 #. (itstool) path: page/p
 #: C/net-installing-other-browsers.page:23
@@ -5192,12 +5193,12 @@ msgstr "Za ročno nastavitev svojih omrežnih povezav:"
 #. (itstool) path: item/p
 #: C/net-manual.page:41
 msgid "Click on <gui>Network</gui>."
-msgstr ""
+msgstr "Klikni na <gui>Omrežja</gui>."
 
 #. (itstool) path: media/span
 #: C/net-manual.page:48 C/net-manual.page:51
 msgid "settings"
-msgstr ""
+msgstr "nastavitve"
 
 #. (itstool) path: item/p
 #: C/net-manual.page:45
@@ -5438,7 +5439,7 @@ msgstr "V primeru da še vedno niste povezani, vaše omrežje morda ne podpira s
 #. (itstool) path: info/desc
 #: C/net-wireless-adhoc.page:24
 msgid "Create a wireless hotspot and connect to other devices."
-msgstr ""
+msgstr "Ustvarite brezžično dostopno točko in se povežite z drugimi napravami."
 
 #. (itstool) path: page/title
 #: C/net-wireless-adhoc.page:29
@@ -5745,7 +5746,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/net-wireless-find.page:21
 msgid "I can't see my wireless network on the list"
-msgstr ""
+msgstr "Na seznamu ne vidim svojega brezžičnega omrežja"
 
 #. (itstool) path: page/p
 #: C/net-wireless-find.page:23
@@ -5836,12 +5837,12 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-wireless-hidden.page:53
 msgid "Enter the password or other security details."
-msgstr ""
+msgstr "Vnesite geslo ali druge varnostne podrobnosti."
 
 #. (itstool) path: item/p
 #: C/net-wireless-hidden.page:56
 msgid "Click Connect."
-msgstr ""
+msgstr "Kliknite poveži."
 
 #. (itstool) path: page/p
 #: C/net-wireless-hidden.page:60
@@ -6000,7 +6001,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/net.page:16
 msgid "Internet"
-msgstr ""
+msgstr "Internet"
 
 #. (itstool) path: section/title
 #: C/net.page:19
@@ -6070,7 +6071,7 @@ msgstr "Razpoložljivost teh možnosti je morda odvisna od vrste tiskalnika, ki 
 #. (itstool) path: credit/name
 #: C/printing-cancel-job.page:21 C/printing-setup-default-printer.page:20
 msgid "Jana Svarova"
-msgstr ""
+msgstr "Jana Svarova"
 
 #. (itstool) path: info/desc
 #: C/printing-cancel-job.page:26
@@ -6246,7 +6247,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/printing-from-applications.page:21
 msgid "Print my documents"
-msgstr ""
+msgstr "Natisni moje dokumente"
 
 #. (itstool) path: page/p
 #: C/printing-from-applications.page:23
@@ -6467,7 +6468,7 @@ msgstr "Ko tiskate v programu, je privzeti tiskalnik samodejno uporabljen, razen
 #: C/printing-setup.page:38
 msgctxt "link:index"
 msgid "How do I set up my printer?"
-msgstr ""
+msgstr "Kako nastavim svoj tiskalnik?"
 
 #. (itstool) path: info/desc
 #: C/printing-setup.page:39
@@ -6552,7 +6553,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/printing-supported.page:22
 msgid "Supported Printers"
-msgstr ""
+msgstr "Podprti tiskalniki"
 
 #. (itstool) path: page/p
 #: C/printing-supported.page:24
@@ -6579,7 +6580,7 @@ msgstr ""
 #. (itstool) path: steps/title
 #: C/printing-to-file.page:21 C/printing-to-file.page:29
 msgid "Print to file"
-msgstr ""
+msgstr "Tiskanje v datoteko"
 
 #. (itstool) path: page/p
 #: C/printing-to-file.page:23
@@ -6641,7 +6642,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/privacy-screen-lock.page:30
 msgid "Automatically lock your screen"
-msgstr ""
+msgstr "Samodejno zaklenite zaslon"
 
 #. (itstool) path: page/p
 #: C/privacy-screen-lock.page:32
@@ -6675,7 +6676,7 @@ msgstr "Kliknite <gui>Zasebnost</gui>."
 #. (itstool) path: item/p
 #: C/privacy-screen-lock.page:54
 msgid "Select <gui>Screen Lock</gui>."
-msgstr ""
+msgstr "Izberite <gui>Zaklenjen Zaslon</gui>."
 
 #. (itstool) path: item/p
 #: C/privacy-screen-lock.page:57
@@ -6880,17 +6881,17 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/security-and-privacy.page:19
 msgid "Security and Privacy"
-msgstr ""
+msgstr "Varnost in Zasebnost"
 
 #. (itstool) path: section/title
 #: C/security-and-privacy.page:22
 msgid "User Accounts"
-msgstr ""
+msgstr "Uporabniški računi"
 
 #. (itstool) path: section/title
 #: C/security-and-privacy.page:27
 msgid "Multiple User Accounts"
-msgstr ""
+msgstr "Več Uporabniških Računov"
 
 #. (itstool) path: section/title
 #: C/security-and-privacy.page:32
@@ -6900,7 +6901,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/security-and-privacy.page:37
 msgid "Protect your Computer"
-msgstr ""
+msgstr "Zaščitite svoj Računalnik"
 
 #. (itstool) path: info/desc
 #: C/security-data-collection.page:18
@@ -6912,7 +6913,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/security-data-collection.page:22
 msgid "Data Collection"
-msgstr ""
+msgstr "Zbirka Podatkov"
 
 #. (itstool) path: page/p
 #: C/security-data-collection.page:24
@@ -6936,7 +6937,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/security-guard-privacy.page:21
 msgid "Guard your privacy"
-msgstr ""
+msgstr "Varujte svojo zasebnost"
 
 #. (itstool) path: page/p
 #: C/security-guard-privacy.page:23
@@ -7032,22 +7033,22 @@ msgstr "Preklopite na drug jezik za uporabniški vmesnik in besedilo pomoči."
 #. (itstool) path: page/title
 #: C/session-language.page:37
 msgid "Change your region and language"
-msgstr ""
+msgstr "Spremenite svojo regijo in jezik"
 
 #. (itstool) path: page/p
 #: C/session-language.page:39
 msgid "Endless can be used in many different languages."
-msgstr ""
+msgstr "Endless lahko uporabljate v mnogih različnih jezikih"
 
 #. (itstool) path: steps/title
 #: C/session-language.page:42
 msgid "To switch your current language:"
-msgstr ""
+msgstr "Da zamenjate svoj trenutni jezik:"
 
 #. (itstool) path: item/p
 #: C/session-language.page:52
 msgid "Click <gui>Language</gui>."
-msgstr ""
+msgstr "Kliknite <gui>Jezik</gui>."
 
 #. (itstool) path: item/p
 #: C/session-language.page:56
@@ -7060,7 +7061,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/session-language.page:63
 msgid "Click <gui>Done</gui> to save."
-msgstr ""
+msgstr "Kliknite <gui>Dokončano</gui>, da shranite."
 
 #. (itstool) path: item/p
 #: C/session-language.page:67
@@ -7130,7 +7131,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/sharing-bluetooth.page:98
 msgid "Click <gui>Sharing</gui>."
-msgstr ""
+msgstr "Klikni <gui>Deli</gui>."
 
 #. (itstool) path: item/p
 #: C/sharing-bluetooth.page:101
@@ -7186,7 +7187,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/sharing-media.page:23
 msgid "Edit and share my photos"
-msgstr ""
+msgstr "Uredi in deli moje slike"
 
 #. (itstool) path: page/p
 #: C/sharing-media.page:25
@@ -7306,7 +7307,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/shell-add-desktop-folder.page:22
 msgid "Add folders to the desktop"
-msgstr ""
+msgstr "Dodajte mapo na namizje"
 
 #. (itstool) path: page/p
 #: C/shell-add-desktop-folder.page:23
@@ -7355,7 +7356,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/shell-apps-close.page:22
 msgid "Close your apps"
-msgstr ""
+msgstr "Zaprite svoje aplikacije"
 
 #. (itstool) path: page/p
 #: C/shell-apps-close.page:24
@@ -7365,7 +7366,7 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/shell-apps-close.page:26
 msgid "<gui>Click the X:</gui>"
-msgstr ""
+msgstr "<gui>Klikni na X:</gui>"
 
 #. (itstool) path: page/p
 #: C/shell-apps-close.page:28
@@ -7377,7 +7378,7 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/shell-apps-close.page:32
 msgid "<gui>Exiting full screen displays:</gui>"
-msgstr ""
+msgstr "<gui>Izhod iz celozaslonskega prikaza:</gui>"
 
 #. (itstool) path: page/p
 #: C/shell-apps-close.page:34
@@ -7394,7 +7395,7 @@ msgstr ""
 #: C/shell-apps-open.page:31
 msgctxt "link:index"
 msgid "How do I add new apps?"
-msgstr ""
+msgstr "Kako dodam nove aplikacije?"
 
 #. (itstool) path: info/desc
 #: C/shell-apps-open.page:32
@@ -7417,12 +7418,12 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/shell-apps-open.page:43
 msgid "Adding More Apps"
-msgstr ""
+msgstr "Dodajanje več aplikacij"
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:46 C/shell-update-app.page:29
 msgid "Click once on <_:media-1/> from the desktop."
-msgstr ""
+msgstr "Klikni na <_:media-1/> iz svojega namizja."
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:52
@@ -7464,7 +7465,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/shell-apps-open.page:80
 msgid "Installing Website Shortcuts"
-msgstr ""
+msgstr "Nameščanje bližnjic do spletnih mest"
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:83
@@ -7508,7 +7509,7 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/shell-delete-app-desktop.page:19
 msgid "Learn how to remove things from your desktop."
-msgstr ""
+msgstr "Več o tem, kako odstraniti stvari iz namizja."
 
 #. (itstool) path: page/title
 #: C/shell-delete-app-desktop.page:22
@@ -7523,7 +7524,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-delete-app-desktop.page:27
 msgid "Click and hold the app icon you want to remove."
-msgstr ""
+msgstr "Kliknite in pridržite ikono aplikacije, ki jo želite odstraniti."
 
 #. (itstool) path: item/p
 #: C/shell-delete-app-desktop.page:30
@@ -7603,7 +7604,7 @@ msgstr "Naučite se kako se odjavite, preklapljate med uporabniki in še več."
 #. (itstool) path: page/title
 #: C/shell-exit.page:40
 msgid "Log out, power off or switch users"
-msgstr ""
+msgstr "Odjava, izklop ali preklop uporabnikov"
 
 #. (itstool) path: page/p
 #: C/shell-exit.page:48
@@ -7696,7 +7697,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/shell-install-ext-apps.page:21
 msgid "Install apps that don't come on Endless"
-msgstr ""
+msgstr "Naloži aplikacije, ki niso prišle z Endless"
 
 #. (itstool) path: page/p
 #: C/shell-install-ext-apps.page:23
@@ -7745,7 +7746,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/shell-introduction.page:51
 msgid "<app>App Center</app> overview"
-msgstr ""
+msgstr "<app>App Center</app> pregled"
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:53
@@ -7761,7 +7762,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-introduction.page:64
 msgid "<link xref=\"shell-apps-open\">Learn more about installing apps.</link>"
-msgstr ""
+msgstr "<link xref=\"shell-apps-open\">Spoznaj kako inštalirati aplikacije.</link>"
 
 #. (itstool) path: section/title
 #: C/shell-introduction.page:72
@@ -7831,7 +7832,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/shell-introduction.page:141
 msgid "Hot Corner"
-msgstr ""
+msgstr "Vroči kot"
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:143
@@ -7881,7 +7882,7 @@ msgstr "Spoznavanje namizja"
 msgid ""
 "<keyseq><key>Alt</key><key>F1</key></keyseq> or the <key xref=\"keyboard-"
 "key-super\">Super</key> key"
-msgstr ""
+msgstr "<keyseq><key>Alt</key><key>F1</key></keyseq> ali tipka <key xref=\"keyboard-key-super\">Super</key>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:40
@@ -7903,7 +7904,7 @@ msgstr "Pojavno ukazno okno (za hitro izvajanje ukazov)"
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:48
 msgid "<keyseq><key>Super</key><key>Tab</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Super</key><key> Tab</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:49
@@ -7915,7 +7916,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:53
 msgid "<keyseq><key>Super</key><key>`</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Super</key><key>`</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:55
@@ -7960,12 +7961,12 @@ msgstr "<keyseq><key>Ctrl</key><key>Alt</key><key>Delete</key></keyseq>"
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:75
 msgid "Quit applications."
-msgstr ""
+msgstr "Zaprite aplikacije."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:78
 msgid "<keyseq><key>Super</key><key>L</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Super</key><key>L</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:79
@@ -8211,7 +8212,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-notifications.page:108
 msgid "Click on <gui>Notifications</gui>."
-msgstr ""
+msgstr "Klikni na <gui>Obvestila</gui>."
 
 #. (itstool) path: item/p
 #: C/shell-notifications.page:112
@@ -8238,7 +8239,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/shell-organize-apps.page:21
 msgid "Organize your apps"
-msgstr ""
+msgstr "Organizirajte svoje aplikacije"
 
 #. (itstool) path: page/p
 #: C/shell-organize-apps.page:23
@@ -8284,7 +8285,7 @@ msgstr "Namizje"
 #. (itstool) path: section/title
 #: C/shell-overview.page:21
 msgid "Apps"
-msgstr ""
+msgstr "Aplikacije"
 
 #. (itstool) path: section/title
 #: C/shell-overview.page:26
@@ -8304,12 +8305,12 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/shell-overview.page:41
 msgid "Time and Date"
-msgstr ""
+msgstr "Čas in Datum"
 
 #. (itstool) path: section/title
 #: C/shell-overview.page:46
 msgid "Restart, Shut Down &amp; Lock"
-msgstr ""
+msgstr "Ponovni zagon, Ugasni, Zakleni"
 
 #. (itstool) path: info/desc
 #: C/shell-update-app.page:19
@@ -8319,7 +8320,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/shell-update-app.page:22
 msgid "Updating apps"
-msgstr ""
+msgstr "Posodabljanje aplikacij"
 
 #. (itstool) path: page/p
 #: C/shell-update-app.page:24
@@ -8366,7 +8367,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/shell-update-system.page:22
 msgid "Update Endless"
-msgstr ""
+msgstr "Posodobi Endless"
 
 #. (itstool) path: page/p
 #: C/shell-update-system.page:24
@@ -8394,7 +8395,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/shell-update-system.page:38
 msgid "If you use a 3G connection"
-msgstr ""
+msgstr "Če uporabljate 3G povezavo"
 
 #. (itstool) path: section/p
 #: C/shell-update-system.page:40
@@ -8763,7 +8764,7 @@ msgstr "Prikazani bodo le programi, ki predvajajo zvoke. V primeru da program pr
 #: C/user-add.page:36
 msgctxt "link:index"
 msgid "How do I add more user accounts?"
-msgstr ""
+msgstr "Kako dodam več uporabniških računov?"
 
 #. (itstool) path: info/desc
 #: C/user-add.page:37
@@ -8806,7 +8807,7 @@ msgstr ""
 #: C/user-changepassword.page:69 C/user-changepicture.page:46
 #: C/user-delete.page:53
 msgid "Click on <gui>Users</gui>."
-msgstr ""
+msgstr "Klikni na <gui>Uporabniki</gui>."
 
 #. (itstool) path: item/p
 #: C/user-add.page:88 C/user-admin-change.page:46 C/user-delete.page:57
@@ -8843,7 +8844,7 @@ msgstr ""
 #. (itstool) path: media/span
 #: C/user-add.page:114 C/user-changepassword.page:81
 msgid "generate password"
-msgstr ""
+msgstr "ustvarite geslo"
 
 #. (itstool) path: item/p
 #: C/user-add.page:112
@@ -9024,7 +9025,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/user-admin-explain.page:79
 msgid "Why are administrative privileges useful?"
-msgstr ""
+msgstr "Zakaj so skrbniška dovoljenja uporabna?"
 
 #. (itstool) path: section/p
 #: C/user-admin-explain.page:81
@@ -9032,7 +9033,7 @@ msgid ""
 "Requiring users to have administrative privileges before important system "
 "changes are made is useful because it helps to prevent your system from "
 "being broken, intentionally or unintentionally."
-msgstr ""
+msgstr "Zahtevanje skrbniških dovoljenj od uporabnikov pred pomembnimi sistemskimi spremembami je uporabno, ker pomaga pri preprečevanju namerne ali nenamerne okvare vašega sistema."
 
 #. (itstool) path: section/p
 #: C/user-admin-explain.page:85
@@ -9102,7 +9103,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/user-autologin.page:22
 msgid "Log in automatically"
-msgstr ""
+msgstr "Prijavi se samodejno"
 
 #. (itstool) path: page/p
 #: C/user-autologin.page:24
@@ -9120,7 +9121,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/user-autologin.page:41
 msgid "Press <gui style=\"button\">Unlock</gui> and enter your password."
-msgstr ""
+msgstr "Kliknite gumb <gui style=\"button\">Odkleni</gui> in vnesite svoje geslo."
 
 #. (itstool) path: item/p
 #: C/user-autologin.page:44
