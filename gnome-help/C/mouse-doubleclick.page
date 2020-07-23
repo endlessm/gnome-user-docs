@@ -45,8 +45,8 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Accessibility</gui>.</p>
+      <p>Open the <gui xref="shell-introduction#overview">Overview</gui>
+      and start typing <gui>Accessibility</gui>.</p>
     </item>
     <item>
       <p>Click <gui>Accessibility</gui> to open the panel.</p>

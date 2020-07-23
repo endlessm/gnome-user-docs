@@ -47,7 +47,7 @@
   <steps>
     <title>Automatically empty your trash and clear temporary files</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
+      <p>Open the <gui xref="shell-introduction#overview">Overview</gui> and
       start typing <gui>Privacy</gui>.</p>
     </item>
     <item>

@@ -28,7 +28,7 @@
 <steps>
   <title>Format a removable disk</title>
   <item>
-    <p>Open <app>Disks</app> from the <gui>Activities</gui> overview.</p>
+    <p>Open <app>Disks</app> from the <gui>Overview</gui>.</p>
   </item>
   <item>
     <p>Select the disk you want to wipe from the list of storage devices on the
