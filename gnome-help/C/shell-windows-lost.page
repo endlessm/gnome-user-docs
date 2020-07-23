@@ -20,18 +20,17 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>Check the <gui>Activities</gui> overview or other workspaces.</desc>
+    <desc>Check the <gui>Overview</gui> or other workspaces.</desc>
   </info>
 
   <title>Find a lost window</title>
 
   <p>A window on a different workspace, or hidden behind another window, is
-  easily found using the <gui xref="shell-introduction#activities">Activities</gui>
-  overview:</p>
+  easily found using the <gui xref="shell-introduction#overview">Overview</gui>:</p>
 
   <list>
     <item>
-      <p>Open the <gui>Activities</gui> overview. If the missing window is on
+      <p>Open the <gui>Overview</gui>. If the missing window is on
       the current
       <link xref="shell-windows#working-with-workspaces">workspace</link>, it
       will be shown here in thumbnail. Simply click the thumbnail to redisplay

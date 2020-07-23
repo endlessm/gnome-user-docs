@@ -76,7 +76,7 @@
   <p>Previews of applications with a single window can be displayed with
   the <key>&#8595;</key> key.</p>
 
-  <p>From the <gui>Activities</gui> overview, click on a
+  <p>From the <gui>Overview</gui>, click on a
   <link xref="shell-windows">window</link> to switch to it and leave the
   overview. If you have multiple
   <link xref="shell-windows#working-with-workspaces">workspaces</link> open,
