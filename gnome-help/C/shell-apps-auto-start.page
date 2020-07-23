@@ -45,8 +45,8 @@
   <steps>
     <title>To start an application automatically on login:</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui>
-      overview and start typing <gui>Tweaks</gui>.</p>
+      <p>Open the <gui xref="shell-introduction#overview">Overview</gui>
+      and start typing <gui>Tweaks</gui>.</p>
     </item>
     <item>
       <p>Click <gui>Tweaks</gui> to open the application.</p>

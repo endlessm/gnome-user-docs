@@ -87,7 +87,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
+      <p>Open the <gui xref="shell-introduction#overview">Overview</gui> and
       start typing <gui>Displays</gui>.</p>
     </item>
     <item>
@@ -107,7 +107,7 @@
       <note>
         <p>The primary display is the one with the
         <link xref="shell-introduction">top bar</link>, and where the
-        <gui>Activities</gui> overview is shown.</p>
+        <gui>Overview</gui> is shown.</p>
       </note>
     </item>
     <item>

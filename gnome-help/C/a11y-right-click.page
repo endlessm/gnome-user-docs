@@ -45,8 +45,8 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Accessibility</gui>.</p>
+      <p>Open the <gui xref="shell-introduction#overview">Overview</gui>
+      and start typing <gui>Accessibility</gui>.</p>
     </item>
     <item>
       <p>Click <gui>Accessibility</gui> to open the panel.</p>
@@ -79,7 +79,7 @@
   keypad.</p>
 
   <note>
-    <p>In the <gui>Activities</gui> overview, you are always able to long-press
+    <p>In the <gui>Overview</gui>, you are always able to long-press
     to right-click, even with this feature disabled. Long-press works slightly
     differently in the overview: you do not have to release the button to
     right-click.</p>

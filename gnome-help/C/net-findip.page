@@ -48,8 +48,8 @@
   <steps>
     <title>Find your wired connection's internal (network) IP address</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Settings</gui>.</p>
+      <p>Open the <gui xref="shell-introduction#overview">Overview</gui> and
+      start typing <gui>Network</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Settings</gui>.</p>
