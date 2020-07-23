@@ -53,12 +53,12 @@
 <list>
   <item>
     <p if:test="!platform:gnome-classic">In the
-    <gui xref="shell-introduction#activities">Activities</gui> overview, move
+    <gui xref="shell-introduction#desktop">Desktop</gui>, move
     your cursor to the right-most side of the screen.</p>
     <p if:test="platform:gnome-classic">Click the button at the bottom left of
     the screen in the window list, or press the
     <key xref="keyboard-key-super">Super</key> key to open the
-    <gui>Activities</gui> overview.</p>
+    <gui>Desktop</gui>.</p>
   </item>
   <item>
     <p if:test="!platform:gnome-classic">A vertical panel will expand showing

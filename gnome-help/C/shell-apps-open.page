@@ -25,7 +25,7 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>Launch apps from the <gui>Activities</gui> overview.</desc>
+    <desc>Launch apps from the <gui>Overview</gui>.</desc>
   </info>
 
   <title>Start applications</title>
@@ -40,17 +40,17 @@ icon to choose a window to focus or get new window. Mention middle-click?</p>
 
   <p if:test="!platform:gnome-classic">Move your mouse pointer to the
   <gui>Activities</gui> corner at the top left of the screen to show the
-  <gui xref="shell-introduction#activities">Activities</gui> overview. This is where you
+  <gui xref="shell-introduction#overview">Overview</gui>. This is where you
   can find all of your applications. You can also open the overview by pressing
   the <key xref="keyboard-key-super">Super</key> key.</p>
   
   <p if:test="platform:gnome-classic">You can start applications from the
   <gui xref="shell-introduction#activities">Applications</gui> menu at the top
-  left of the screen, or you can use the <gui>Activities</gui> overview by
+  left of the screen, or you can use the <gui>Overview</gui> by
   pressing the <key xref="keyboard-key-super">Super</key> key.</p>
 
   <p>There are several ways of opening an application once you’re in the
-  <gui>Activities</gui> overview:</p>
+  <gui>Overview</gui>:</p>
 
   <list>
     <item>
@@ -61,7 +61,7 @@ icon to choose a window to focus or get new window. Mention middle-click?</p>
     </item>
     <item>
       <p>Some applications have icons in the <em>dash</em>, the vertical strip
-      of icons on the left-hand side of the <gui>Activities</gui> overview.
+      of icons on the left-hand side of the <gui>Overview</gui>.
       Click one of these to start the corresponding application.</p>
       <p>If you have applications that you use very frequently, you can
       <link xref="shell-apps-favorites">add them to the dash</link>

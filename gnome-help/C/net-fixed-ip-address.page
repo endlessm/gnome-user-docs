@@ -46,7 +46,7 @@
   <steps>
     <title>To give your computer a fixed (static) IP address:</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
+      <p>Go to the Desktop and
       start typing <gui>Network</gui>.</p>
     </item>
     <item>

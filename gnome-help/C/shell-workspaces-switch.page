@@ -31,7 +31,7 @@
  <title>Using the mouse:</title>
  <item>
   <p if:test="!platform:gnome-classic">Open the
-  <gui xref="shell-introduction#activities">Activities</gui> overview.</p>
+  <gui xref="shell-introduction#desktop">Desktop</gui>.</p>
   <p if:test="platform:gnome-classic">At the bottom right of the screen, click
   on one of the four workspaces to activate the workspace.</p>
  </item>

@@ -37,7 +37,7 @@
   <steps>
     <item>
       <p if:test="!platform:gnome-classic">Open the
-      <gui xref="shell-introduction#activities">Activities</gui> overview by
+      <gui xref="shell-introduction#overview">Overview</gui> by
       clicking <gui>Activities</gui> at the top left of the screen</p>
       <p if:test="platform:gnome-classic">Click the
       <gui xref="shell-introduction#activities">Applications</gui> menu at the

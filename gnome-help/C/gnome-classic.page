@@ -46,11 +46,10 @@
 </if:choose>
 
 <p>You can use the <gui>Applications</gui> menu on the top bar to launch
- applications. The <gui xref="shell-introduction#activities">Activities</gui>
- overview is available by selecting the <gui>Activities
- Overview</gui> item from the menu.</p>
+ applications. The <gui xref="shell-introduction#overview">Overview</gui>
+ is available by selecting the <gui>Overview</gui> item from the menu.</p>
 
-<p>To access the <em><gui>Activities</gui> overview</em>,
+<p>To access the <em><gui>Overview</gui></em>,
  you can also press the <key xref="keyboard-key-super">Super</key> key.</p>
 
 <section id="gnome-classic-window-list">

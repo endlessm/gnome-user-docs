@@ -64,8 +64,8 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Settings</gui>.</p>
+      <p>Go to the Desktop
+      and start typing <gui>Settings</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Settings</gui>.</p>
@@ -337,7 +337,7 @@
         <td><p><keyseq><key>Super</key><key>A</key></keyseq></p></td>
   </tr>
   <tr>
-	<td><p>Show the activities overview</p></td>
+	<td><p>Show the desktop</p></td>
 	<td><p><keyseq><key>Alt</key><key>F1</key></keyseq></p></td>
   </tr>
   <tr>
@@ -345,7 +345,7 @@
 	<td><p><keyseq><key>Super</key><key>V</key></keyseq></p></td>
   </tr>
   <tr>
-	<td><p>Show the overview</p></td>
+	<td><p>Show the desktop</p></td>
 	<td><p><keyseq><key>Super</key><key>S</key></keyseq></p></td>
   </tr>
   <tr>

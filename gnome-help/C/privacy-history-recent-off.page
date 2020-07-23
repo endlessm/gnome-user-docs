@@ -39,7 +39,7 @@
   <steps>
     <title>Turn off file history tracking</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
+      <p>Go to the Desktop and
       start typing <gui>Privacy</gui>.</p>
     </item>
     <item>
@@ -62,7 +62,7 @@
   <steps>
     <title>Restrict the amount of time your file history is tracked</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
+      <p>Go to the Desktop and
       start typing <gui>File History &amp; Trash</gui>.</p>
     </item>
     <item>
