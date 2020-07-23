@@ -43,8 +43,8 @@
 <table rules="rows" frame="bottom">
   <tr>
     <td><p><media type="image" src="figures/touch-overview.svg" width="128" its:translate="no"/></p></td>
-    <td><p><em>Open the Activities Overview and Applications View</em></p>
-    <p>Place three fingers on the touchpad or touchscreen and gesture upwards to open the Activities Overview.</p>
+    <td><p><em>Open the Desktop and Applications View</em></p>
+    <p>Place three fingers on the touchpad or touchscreen and gesture upwards to go to the Desktop.</p>
     <p>To open the Applications View, place three fingers and gesture upwards again.</p></td>
   </tr>
   <tr>

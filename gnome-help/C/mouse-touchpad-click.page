@@ -89,8 +89,8 @@
   <steps>
     <title>Enable Tap to Click</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
+      <p>Open the <gui xref="shell-introduction#activities">Desktop</gui> 
+      and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Mouse &amp; Touchpad</gui> to open the panel.</p>
@@ -130,8 +130,8 @@
   <steps>
     <title>Enable Two-finger Scrolling</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
+      <p>Open the <gui xref="shell-introduction#desktop">Desktop</gui> 
+      and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Mouse &amp; Touchpad</gui> to open the panel.</p>
@@ -154,8 +154,8 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
+      <p>Open the <gui xref="shell-introduction#desktop">Desktop</gui>
+      and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Mouse &amp; Touchpad</gui> to open the panel.</p>

@@ -31,8 +31,8 @@
   <steps>
 
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui>
-      overview and start typing <gui>Wi-Fi</gui> or <gui>Bluetooth</gui>, respectively.</p>
+      <p>Open the <gui xref="shell-introduction#activities">Desktop</gui>
+      and start typing <gui>Wi-Fi</gui> or <gui>Bluetooth</gui>, respectively.</p>
     </item>
     <item>
       <p>Click <gui>Wi-Fi</gui> to open the panel, or <gui>Bluetooth</gui>, respectively.</p>

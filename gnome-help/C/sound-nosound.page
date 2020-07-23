@@ -44,8 +44,8 @@
   <p>Also, you can check the volume slider in the <gui>Sound</gui>   panel:</p>
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui>
-      overview and start typing <gui>Sound</gui>.</p>
+      <p>Go to the Desktop
+      and start typing <gui>Sound</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Sound</gui> to open the panel.</p>
@@ -86,7 +86,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui>
+      <p>Open the <gui xref="shell-introduction#desktop">Desktop</gui>
       overview and start typing <gui>Sound</gui>.</p>
     </item>
     <item>
@@ -114,7 +114,7 @@
   card you have:</p>
   <steps>
     <item>
-      <p>Go to the <gui>Activities</gui> overview and open a Terminal.</p>
+      <p>Go to the <gui>Desktop</gui> and open a Terminal.</p>
     </item>
     <item>
       <p>Run <cmd>lspci</cmd> as <link xref="user-admin-explain">superuser</link>;

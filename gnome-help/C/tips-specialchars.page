@@ -50,7 +50,7 @@
     characters, including emoji, by browsing character categories or searching
     for keywords.</p>
 
-    <p>You can launch <app>Characters</app> from the Activities overview.</p>
+    <p>You can launch <app>Characters</app> from the Overview.</p>
 
   </section>
 
@@ -83,8 +83,8 @@
     <steps>
       <title>Define a compose key</title>
       <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Settings</gui>.</p>
+      <p>Open the <gui xref="shell-introduction#activities">Desktop</gui> 
+      and start typing <gui>Settings</gui>.</p>
       </item>
       <item>
         <p>Click on <gui>Settings</gui>.</p>

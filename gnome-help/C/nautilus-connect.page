@@ -48,7 +48,7 @@ files on the internet, or to share files with other people on
 your local network.</p>
 
 <p>To browse files over the network, open the <app>Files</app>
-application from the <gui>Activities</gui> overview, and click
+application from the <gui>Desktop</gui>, and click
 <gui>Other Locations</gui> in the sidebar. The file manager
 will find any computers on your local area network that advertise
 their ability to serve files. If you want to connect to a server

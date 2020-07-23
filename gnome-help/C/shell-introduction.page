@@ -36,7 +36,7 @@
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
     <desc>A visual overview of your desktop, the top bar, and the
-    <gui>Activities</gui> overview.</desc>
+    <gui>Overview</gui>.</desc>
   </info>
 
   <title>Visual overview of GNOME</title>
@@ -70,7 +70,7 @@
 <!-- TODO: Replace "Activities overview" title for classic mode with something
 like "Application windows" by using if:when and if:else ? -->
 <section id="activities">
-  <title><gui>Activities</gui> overview</title>
+  <title><gui>Overview</gui></title>
 
   <p if:test="!platform:gnome-classic">When you start GNOME, you automatically
   enter the <gui>Activities</gui> overview. The overview allows you to access

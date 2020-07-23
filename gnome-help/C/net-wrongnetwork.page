@@ -38,8 +38,8 @@
   <steps>
     <title>To forget a wireless connection:</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui>
-      overview and start typing <gui>Wi-Fi</gui>.</p>
+      <p>Go to the Desktop
+      and start typing <gui>Wi-Fi</gui>.</p>
     </item>
     <item>
       <p>Find the network that you <em>do not</em> want it to keep connecting to.</p>

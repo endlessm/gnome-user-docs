@@ -48,7 +48,7 @@
   <steps>
     <title>Find your wired connection’s internal (network) IP address</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
+      <p>Go to the Desktop and
       start typing <gui>Settings</gui>.</p>
     </item>
     <item>
@@ -77,7 +77,7 @@
   <steps>
     <title>Find your wireless connection’s internal (network) IP address</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
+      <p>Go to the Desktop and
       start typing <gui>Settings</gui>.</p>
     </item>
     <item>

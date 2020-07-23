@@ -48,7 +48,7 @@ information on navigating user interfaces with only the keyboard.</p>
       <keyseq><key>Alt</key><key>F1</key></keyseq> or the</p>
       <p><key xref="keyboard-key-super">Super</key> key
     </p></td>
-    <td><p>Switch between the <gui>Activities</gui> overview and desktop. In
+    <td><p>Switch between the <gui>Overview</gui> and desktop. In
     the overview, start typing to instantly search your applications, contacts,
     and documents.</p></td>
   </tr>
@@ -83,8 +83,8 @@ information on navigating user interfaces with only the keyboard.</p>
     <!-- To be updated to <key>Tab</key> in the future. -->
     <td><p><keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq></p></td>
     <td>
-      <p>Give keyboard focus to the top bar. In the <gui>Activities</gui>
-      overview, switch keyboard focus between the top bar, dash, windows
+      <p>Give keyboard focus to the top bar. In the <gui>Overview</gui>,
+      switch keyboard focus between the top bar, dash, windows
       overview, applications list, and search field. Use the arrow keys to
       navigate.</p>
     </td>

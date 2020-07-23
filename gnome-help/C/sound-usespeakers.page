@@ -54,8 +54,8 @@
   <steps>
     <title>Select a default audio output device</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui>
-      overview and start typing <gui>Sound</gui>.</p>
+      <p>Go to the Desktop
+      and start typing <gui>Sound</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Sound</gui> to open the panel.</p>
