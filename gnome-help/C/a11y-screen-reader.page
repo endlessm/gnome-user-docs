@@ -19,6 +19,10 @@
       <name>Jana Heves</name>
       <email>jsvarova@gnome.org</email>
     </credit>
+    <credit type="editor">
+      <name>Pranali Deshmukh</name>
+      <email>pranali21293@gmail.com</email>
+    </credit>
 
     <desc>Use the <app>Orca</app> screen reader to speak the user
     interface.</desc>
@@ -26,11 +30,7 @@
 
   <title>Read screen aloud</title>
 
-  <p>The <app>Orca</app> screen reader can speak the user interface. Depending
-  on how you installed your system, you might not have Orca installed. If not,
-  install Orca first.</p>
-
-  <p if:test="action:install"><link style="button" action="install:orca">Install Orca</link></p>
+  <p>The <app>Orca</app> screen reader can speak the user interface.</p>
   
   <p>To start <app>Orca</app> using the keyboard:</p>
   
