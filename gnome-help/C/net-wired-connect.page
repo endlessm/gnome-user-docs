@@ -35,7 +35,7 @@
   (<media its:translate="no" type="image"
   src="figures/network-wired-symbolic.svg"><span
   its:translate="yes">settings</span></media>)
-  is displayed on the top bar with three dots while the connection is being
+  is displayed on the task bar with three dots while the connection is being
   established. The dots disappear when you are connected.</p>
 
   <p>If this does not happen, you should first of all make sure that your
