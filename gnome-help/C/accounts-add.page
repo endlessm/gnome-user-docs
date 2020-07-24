@@ -38,8 +38,8 @@
 
   <title>Add an account</title>
 
-  <p>Adding an account will help link your online accounts with your GNOME
-  desktop. Thus, your email program, chat program and other related
+  <p>Adding an account will help link your online accounts with your system.
+  Thus, your email program, chat program and other related
   applications will be set up for you.</p>
 
   <steps>
@@ -64,7 +64,7 @@
     </item>
     <item>
       <p>If you have entered your credentials correctly, you will be prompted
-      to allow GNOME access to your online account. Authorize access to
+      to allow Endless access to your online account. Authorize access to
       continue.</p>
     </item>
     <item>
@@ -79,7 +79,7 @@
   for information on controlling which services to allow.</p>
 
   <note style="tip">
-    <p>Many online services provide an authorization token which GNOME stores
+    <p>Many online services provide an authorization token which Endless OS stores
     instead of your password. If you remove an account, you should also revoke
     that certificate in the online service. See <link xref="accounts-remove"/>
     for more information.</p>
