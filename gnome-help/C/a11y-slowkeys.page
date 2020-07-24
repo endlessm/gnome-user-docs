@@ -74,7 +74,7 @@
     you can press and hold <key>Shift</key> for eight seconds to enable or
     disable slow keys.</p>
     <p>You can also turn slow keys on and off by clicking the
-    <link xref="a11y-icon">accessibility icon</link> on the top bar and
+    <link xref="a11y-icon">accessibility icon</link> on the task bar and
     selecting <gui>Slow Keys</gui>. The accessibility icon is visible when
     one or more settings have been enabled from the <gui>Accessibility</gui>
     panel.</p>

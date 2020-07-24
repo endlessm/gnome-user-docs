@@ -71,7 +71,7 @@
 <title>Drag files to copy or move</title>
 <item><p>Open the file manager and go to the folder which contains the file you
  want to copy.</p></item>
-<item><p>Click <gui>Files</gui> in the top bar, select <gui>New Window</gui> (or
+<item><p>Click <gui>Files</gui> in the task bar, select <gui>New Window</gui> (or
  press <keyseq><key>Ctrl</key><key>N</key></keyseq>) to open a second window. In
  the new window, navigate to the folder where you want to move or copy the file.
  </p></item>
