@@ -26,11 +26,14 @@
 
   <title>Read screen aloud</title>
 
-  <p>The <app>Orca</app> screen reader can speak the user interface. Depending
-  on how you installed your system, you might not have Orca installed. If not,
-  install Orca first.</p>
+  <p>The <app>Orca</app> screen reader can speak the user interface.</p>
 
+  <comment> Disabled, Endless has Orca installed already.
+  Depending
+  on how you installed your system, you might not have Orca installed. If not,
+  install Orca first.
   <p if:test="action:install"><link style="button" action="install:orca">Install Orca</link></p>
+  </comment>
   
   <p>To start <app>Orca</app> using the keyboard:</p>
   
