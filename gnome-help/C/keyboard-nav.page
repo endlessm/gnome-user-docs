@@ -121,7 +121,7 @@
   <tr>
     <td><p><keyseq><key xref="keyboard-key-super">Super</key>
     <key>F10</key></keyseq></p></td>
-    <td><p>Open the application menu on the top bar.</p></td>
+    <td><p>Open the application menu on the taskbar.</p></td>
   </tr>
   <tr>
     <td><p><keyseq><key>Shift</key><key>F10</key></keyseq> or</p>

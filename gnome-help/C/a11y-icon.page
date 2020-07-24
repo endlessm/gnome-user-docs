@@ -18,7 +18,7 @@
       <email>philbull@gmail.com</email>
     </credit>
 
-    <desc>The accessibility menu is the icon on the top bar that looks like
+    <desc>The accessibility menu is the icon on the taskbar that looks like
     a person.</desc>
   </info>
 
@@ -26,11 +26,11 @@
 
   <p>The <em>accessibility menu</em> is where you can turn on some of the
   accessibility settings. You can find this menu by clicking the icon which
-  looks like a person surrounded by a circle on the top bar.</p>
+  looks like a person surrounded by a circle on the taskbar.</p>
 
   <figure>
-    <desc>The accessibility menu can be found on the top bar.</desc>
-    <media its:translate="no" type="image" mime="image/png" src="figures/preferences-desktop-accessibility-symbolic.svg"/>
+    <desc>The accessibility menu can be found on the taskbar.</desc>
+    <media its:translate="no" type="image" mime="image/png" src="figures/universal-access-menu.png"/>
   </figure>
 
   <p>If you do not see the accessibility menu, you can enable it from the
@@ -52,8 +52,8 @@
 
   <p>To access this menu using the keyboard rather than the mouse, press
   <keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq> to move the
-  keyboard focus to the top bar. A white line will appear underneath the
-  <gui>Overview</gui> button — this tells you which item on the top bar is
+  keyboard focus to the taskbar. A white line will appear underneath the
+  <gui>Overview</gui> button — this tells you which item on the taskbar is
   selected. Use the arrow keys on the keyboard to move the white line under the
   accessibility menu icon and then press <key>Enter</key> to open it. You
   can use the up and down arrow keys to select items in the menu. Press

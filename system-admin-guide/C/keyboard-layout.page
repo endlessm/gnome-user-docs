@@ -60,7 +60,7 @@
       <screen><output>$ </output><input>localectl set-x11-keymap es,us</input></screen>
     </item>
     <item>
-      <p>Log out to find that the defined layouts are available at the top bar
+      <p>Log out to find that the defined layouts are available at the bottom bar
       on the login screen.</p>
     </item>
   </steps>

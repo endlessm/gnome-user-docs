@@ -53,7 +53,7 @@
     <item>
       <p>Open the
       <gui xref="shell-introduction#systemmenu">system menu</gui> from the right
-      side of the top bar and select the Wi-Fi network, then select <gui>Wi-Fi
+      side of the taskbar and select the Wi-Fi network, then select <gui>Wi-Fi
       Settings</gui>. Make sure that the <gui>Wi-Fi</gui> switch is set to on.
       You should also check that <link xref="net-wireless-airplane">Airplane
       Mode</link> is <em>not</em> switched on.</p>

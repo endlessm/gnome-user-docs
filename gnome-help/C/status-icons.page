@@ -57,10 +57,10 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>Explains the meanings of the icons located on the right of the top bar.</desc>
+    <desc>Explains the meanings of the icons located on the right of the taskbar.</desc>
   </info>
 
-  <title>What do the icons in the top bar mean?</title>
+  <title>What do the icons in the taskbar mean?</title>
 
 <p>This page explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the system are described.</p>
 
@@ -269,7 +269,7 @@ FIXME: I don't want a bare desc, because it ends up in the section links above.
 But this section also gets a seealso from net-wireless.page, and we'd like a
 desc for that. In Mallard 1.2, we can use role on desc. It works in Yelp, but
 it's not in a schema yet, so it will cause validation errors in CI.
-  <desc type="link" role="seealso">Explains the meanings of the networking icons in the top bar.</desc>
+  <desc type="link" role="seealso">Explains the meanings of the networking icons in the taskbar.</desc>
 -->
 </info>
 <title>Networking icons</title>

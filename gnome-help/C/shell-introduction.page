@@ -35,7 +35,7 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>A visual overview of your desktop, the top bar, and the
+    <desc>A visual overview of your desktop, the taskbar, and the
     <gui>Overview</gui>.</desc>
   </info>
 
@@ -43,25 +43,25 @@
 
   <p>GNOME features a user interface designed to stay out of your way, minimize
   distractions, and help you get things done. When you first log in, you will
-  see the <gui>Activities</gui> overview and the top bar.</p>
+  see the <gui>Activities</gui> overview and the taskbar.</p>
 
 <if:choose>
   <if:when test="!platform:gnome-classic">
     <media type="image" src="figures/shell-top-bar.png" width="600" if:test="!target:mobile">
-      <p>GNOME Shell top bar</p>
+      <p>GNOME Shell taskbar</p>
     </media>
   </if:when>
   <if:when test="platform:gnome-classic">
     <media type="image" src="figures/shell-top-bar-classic.png" width="500" if:test="!target:mobile">
-      <p>GNOME Shell top bar</p>
+      <p>GNOME Shell taskbar</p>
     </media>
   </if:when>
 </if:choose>
 
-  <p>The top bar provides access to your windows and applications, your
+  <p>The taskbar provides access to your windows and applications, your
   calendar and appointments, and
   <link xref="status-icons">system properties</link> like sound, networking,
-  and power. In the system menu in the top bar, you can change the volume or
+  and power. In the system menu in the taskbar, you can change the volume or
   screen brightness, edit your <gui>Wi-Fi</gui> connection details, check your
   battery status, log out or switch users, and turn off your computer.</p>
 
@@ -169,7 +169,7 @@ like "Application windows" by using if:when and if:else ? -->
   </if:when>
 </if:choose>
 
-  <p>Click the clock on the top bar to see the current date, a month-by-month
+  <p>Click the clock on the taskbar to see the current date, a month-by-month
   calendar, a list of your upcoming appointments and new notifications. You can
   also open the calendar by pressing
   <keyseq><key>Super</key><key>M</key></keyseq>. You can access the date and

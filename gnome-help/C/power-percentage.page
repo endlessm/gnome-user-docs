@@ -19,19 +19,19 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>Display the battery percentage in the top bar.</desc>
+    <desc>Display the battery percentage in the taskbar.</desc>
   </info>
   
   <title>Show the battery status as a percentage</title>
 
-  <p>The <link xref="status-icons#batteryicons">status icon</link> in the top
-    bar shows the charge level of the main internal battery, and whether it is
-    currently charging or not. It can also display the charge as a
+  <p>The <link xref="status-icons#batteryicons">status icon</link> in the
+    taskbar shows the charge level of the main internal battery, and whether it
+    is currently charging or not. It can also display the charge as a
     <link xref="power-percentage">percentage</link>.</p>
 
   <steps>
 
-    <title>Display the battery percentage in the top bar</title>
+    <title>Display the battery percentage in the taskbar</title>
 
     <item>
       <p>Open the <gui xref="shell-introduction#activities">Desktop</gui>

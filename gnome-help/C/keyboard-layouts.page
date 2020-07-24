@@ -104,7 +104,7 @@
   <gui style="button">Options</gui> button to select how you want to manage
   multiple layouts.</p>
 
-  <p>The top bar will display a short identifier for the current layout, such
+  <p>The taskbar will display a short identifier for the current layout, such
   as <gui>en</gui> for the standard English layout. Click the layout indicator
   and select the layout you want to use from the menu. If the selected language
   has any extra settings, they will be shown below the list of available

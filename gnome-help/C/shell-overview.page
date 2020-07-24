@@ -24,7 +24,7 @@
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
     <desc>Work with apps, windows, and workspaces. See your appointments and
-    things that matter in the top bar.</desc>
+    things that matter in the taskbar.</desc>
     <uix:thumb role="experimental-gnome-tiles" src="figures/tile-home.svg"/>
   </info>
 

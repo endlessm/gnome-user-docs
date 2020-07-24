@@ -46,9 +46,9 @@
 
   <comment>
     <cite date="2013-11-09" href="mailto:mdhillca@gmail.com">mdhill</cite>
-    <p>Add link to shell-terminology definition of system status *area* of top
-    bar when it has been written, explain that if your network connection is
-    through a Bluetooth device it will show up in the system *menu* and only
+    <p>Add link to shell-terminology definition of system status *area* of
+    taskbar when it has been written, explain that if your network connection
+    is through a Bluetooth device it will show up in the system *menu* and only
     then will its icon be visible as shown.</p>
   </comment>
 
@@ -77,7 +77,7 @@
   <steps>
     <item>
       <p>Open the <gui xref="shell-introduction#systemmenu">system menu</gui> from the
-      right side of the top bar.</p>
+      right side of the taskbar.</p>
     </item>
     <item>
       <p>Select
