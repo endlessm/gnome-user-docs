@@ -60,7 +60,8 @@
     size, press <keyseq><key>Ctrl</key><key>-</key></keyseq>.</p>
   </note>
 
-  <p><gui>Large Text</gui> will scale the text by 1.2 times. You can use
-  <app>Tweaks</app> to make text size bigger or smaller.</p>
+  <p><gui>Large Text</gui> will scale the text by 1.2 times.</p>
+  # GNOME Tweaks not available
+  # You can use <app>Tweaks</app> to make text size bigger or smaller.
 
 </page>
