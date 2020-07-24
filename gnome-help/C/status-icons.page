@@ -17,10 +17,10 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>Explains the meanings of the icons located on the right of the top bar.</desc>
+    <desc>Explains the meanings of the icons located on the right of the taskbar.</desc>
   </info>
 
-  <title>What do the icons in the top bar mean?</title>
+  <title>What do the icons in the taskbar mean?</title>
 <p>This section explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the system are described.</p>
 
 <links type="section"/>

@@ -69,7 +69,7 @@
 
   <p>To <gui>Log Out</gui> or <gui>Switch User</gui>, click the
   <link xref="shell-introduction#systemmenu">system menu</link> on the right
-  side of the top bar, expand <gui>Power Off / Log Out</gui>, and select the correct option.</p>
+  side of the taskbar, expand <gui>Power Off / Log Out</gui>, and select the correct option.</p>
 
   <note if:test="!platform:gnome-classic">
     <p>The <gui>Log Out</gui> and <gui>Switch User</gui> entries only appear in
@@ -97,8 +97,8 @@
   password to log back in. If you don’t lock your screen, it will lock
   automatically after a certain amount of time.</p>
 
-  <p>To lock your screen, click the system menu on the right side of the top
-  bar and select <gui>Lock</gui> from the menu.</p>
+  <p>To lock your screen, click the system menu on the right side of the
+  taskbar and select <gui>Lock</gui> from the menu.</p>
 
   <p>When your screen is locked, other users can log in to their own accounts
   by clicking <gui>Log in as another user</gui> at the bottom right of the login
@@ -121,7 +121,7 @@
   suspend.</p>
 
   <p>To suspend your computer manually, click the system menu on the right side
-  of the top bar, expand <gui>Power Off / Log Out</gui>, and select
+  of the taskbar, expand <gui>Power Off / Log Out</gui>, and select
   <gui>Suspend</gui>.</p>
 
 </section>
@@ -134,7 +134,7 @@
   <title>Power off or restart</title>
 
   <p>If you want to power off your computer entirely, or do a full restart,
-  click the system menu on the right side of the top bar, expand <gui>Power Off
+  click the system menu on the right side of the taskbar, expand <gui>Power Off
   / Log Out</gui>, and select either <gui>Restart…</gui> or <gui>Power Off…</gui>.</p>
 
   <p>If there are other users logged in, you may not be allowed to power off or
