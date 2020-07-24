@@ -66,7 +66,7 @@
   <note style="tip">
     <title>Quickly turn bounce keys on and off</title>
     <p>You can turn bounce keys on and off by clicking the
-    <link xref="a11y-icon">accessibility icon</link> on the top bar and
+    <link xref="a11y-icon">accessibility icon</link> on the task bar and
     selecting <gui>Bounce Keys</gui>. The accessibility icon is visible when
     one or more settings have been enabled from the <gui>Accessibility</gui>
     panel.</p>
