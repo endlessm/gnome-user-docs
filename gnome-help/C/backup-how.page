@@ -52,8 +52,7 @@
  programmer, you do not have to back up the files that get produced when you
  compile your programs. Instead, just make sure that you back up the original
  source files.</p></item>
- <item><p>Any files in the Trash folder. Your Trash folder can be found in
- <file>~/.local/share/Trash</file>.</p></item>
+ <item><p>Any files in the Trash folder.</p></item>
 </list>
 
 </page>
