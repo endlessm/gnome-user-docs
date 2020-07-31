@@ -100,7 +100,7 @@
 
   <media its:translate="no" type="image" src="figures/bluetooth-symbolic.svg"
   style="floatend">
-    <p its:translate="yes">The Bluetooth icon on the task bar</p>
+    <p its:translate="yes">The Bluetooth icon on the taskbar</p>
   </media>
   <p>When one or more Bluetooth devices are connected, the Bluetooth icon
   appears in the system status area.</p>
