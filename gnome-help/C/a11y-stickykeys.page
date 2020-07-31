@@ -76,7 +76,7 @@
     selected, you can press <key>Shift</key> five times in a row to enable or
     disable sticky keys.</p>
     <p>You can also turn sticky keys on and off by clicking the
-    <link xref="a11y-icon">accessibility icon</link> on the task bar and
+    <link xref="a11y-icon">accessibility icon</link> on the taskbar and
     selecting <gui>Sticky Keys</gui>. The accessibility icon is visible when
     one or more settings have been enabled from the <gui>Accessibility</gui>
     panel.</p>

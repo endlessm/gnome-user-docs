@@ -47,8 +47,8 @@
           deactivate, then switch it <gui>ON/OFF</gui>.</tt:p>
         </tt:div>
         <tt:div begin="9s" end="16s">
-          <tt:p>The monitor with the task bar is the main monitor. To change
-          which monitor is “main”, click on the task bar and drag it over to
+          <tt:p>The monitor with the taskbar is the main monitor. To change
+          which monitor is “main”, click on the taskbar and drag it over to
           the monitor you want to set as the “main” monitor.</tt:p>
         </tt:div>
         <tt:div begin="16s" end="25s">
@@ -106,7 +106,7 @@
 
       <note>
         <p>The primary display is the one with the
-        <link xref="shell-introduction">task bar</link>, and where the
+        <link xref="shell-introduction">taskbar</link>, and where the
         <gui>Overview</gui> is shown.</p>
       </note>
     </item>

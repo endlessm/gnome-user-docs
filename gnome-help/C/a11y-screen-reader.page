@@ -62,7 +62,7 @@
   <note style = "tip">
     <title>Quickly turn Screen Reader on and off</title>
     <p>You can turn Screen Reader on and off by clicking the
-    <link xref="a11y-icon">accessibility icon</link> in the task bar and
+    <link xref="a11y-icon">accessibility icon</link> in the taskbar and
     selecting <gui>Screen Reader</gui>.</p>
   </note>
 
