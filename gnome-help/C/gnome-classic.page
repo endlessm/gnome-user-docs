@@ -32,7 +32,7 @@
   desktop experience. While <em>GNOME Classic</em> is based on <em>GNOME 3</em>
   technologies, it provides a number of changes to the user interface, such as
   the <gui>Applications</gui> and
-  <gui>Places</gui> menus on the task bar, and a window
+  <gui>Places</gui> menus on the taskbar, and a window
   list at the bottom of the screen.</p>
   </if:when>
   <if:when test="platform:gnome-classic">
@@ -40,12 +40,12 @@
   desktop experience. While <em>GNOME Classic</em> is based on <em>GNOME 3</em>
   technologies, it provides a number of changes to the user interface, such as
   the <gui xref="shell-introduction#activities">Applications</gui> and
-  <gui>Places</gui> menus on the task bar, and a window
+  <gui>Places</gui> menus on the taskbar, and a window
   list at the bottom of the screen.</p>
   </if:when>
 </if:choose>
 
-<p>You can use the <gui>Applications</gui> menu on the task bar to launch
+<p>You can use the <gui>Applications</gui> menu on the taskbar to launch
  applications. The <gui xref="shell-introduction#overview">Overview</gui>
  is available by selecting the <gui>Overview</gui> item from the menu.</p>
 
@@ -79,7 +79,7 @@
     <title>To switch from <em>GNOME</em> to <em>GNOME Classic</em>:</title>
     <item>
       <p>Save any open work, and then log out. Click the system menu on the right
-      side of the task bar, click your name and then choose the right option.</p>
+      side of the taskbar, click your name and then choose the right option.</p>
     </item>
     <item>
       <p>A confirmation message will appear. Select <gui>Log Out</gui> to
@@ -104,7 +104,7 @@
     <title>To switch from <em>GNOME Classic</em> to <em>GNOME</em>:</title>
     <item>
       <p>Save any open work, and then log out. Click the system menu on the right
-      side of the task bar, click your name and then choose the right option.</p>
+      side of the taskbar, click your name and then choose the right option.</p>
     </item>
     <item>
       <p>A confirmation message will appear. Select <gui>Log Out</gui> to

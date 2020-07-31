@@ -83,8 +83,8 @@ information on navigating user interfaces with only the keyboard.</p>
     <!-- To be updated to <key>Tab</key> in the future. -->
     <td><p><keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq></p></td>
     <td>
-      <p>Give keyboard focus to the task bar. In the <gui>Overview</gui>,
-      switch keyboard focus between the task bar, dash, windows
+      <p>Give keyboard focus to the taskbar. In the <gui>Overview</gui>,
+      switch keyboard focus between the taskbar, dash, windows
       overview, applications list, and search field. Use the arrow keys to
       navigate.</p>
     </td>
