@@ -63,7 +63,12 @@
   </steps>
 
  <if:choose>
- <if:when test="!platform:gnome-classic">
+ <if:when test="platform:endless">
+ <media type="image" src="figures/shell-appts-endless.png" width="500">
+  <p>Clock, calendar, and appointments</p>
+ </media>
+ </if:when>
+ <if:when test="!platform:gnome-classic !platform:endless">
  <media type="image" src="figures/shell-appts.png" width="500">
   <p>Clock, calendar, and appointments</p>
  </media>
