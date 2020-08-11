@@ -9,6 +9,7 @@
     <revision pkgversion="3.8" date="2013-04-27" status="review"/>
     <revision pkgversion="3.12" date="2014-02-26" status="review"/>
     <revision pkgversion="3.18" date="2015-09-28" status="review"/>
+    <revision pkgversion="3.36.2" date="2020-08-11" status="review"/>
 
     <credit type="author">
       <name>Lucie Hankey</name>
@@ -35,30 +36,28 @@
 
   <steps>
     <item>
-      <p>Press the <gui style="button">+</gui> button.</p>
+      <p>Press the <gui style="button">+</gui> button in the top-left corner
+      of the window.</p>
     </item>
     <item>
-      <p>In the <gui>New contact</gui> dialog, enter the contact name and their
-      information. Click on the drop down box next to each field to chose the
-      type of detail.</p>
+      <p>In the <gui>New Contact</gui> dialog, enter the contact name and their
+      information. Click on the drop-down box next to each field to choose the
+      type of detail, and fill in the values.</p>
     </item>
     <item>
       <p>Press <gui style="button">Add</gui>.</p>
     </item>
   </steps>
 
-  <p>To remove a contact:</p>
+  <p>To delete a contact:</p>
 
   <steps>
     <item>
       <p>Select the contact from your contact list.</p>
     </item>
     <item>
-      <p>Press <gui style="button">Edit</gui> in the top-right corner of
-      <app>Contacts</app>.</p>
-    </item>
-    <item>
-      <p>Press <gui style="button">Remove Contact</gui>.</p>
+      <p>Press the menu button in the top-right corner of the window and
+      select <gui style="button">Delete</gui>.</p>
     </item>
   </steps>
 
