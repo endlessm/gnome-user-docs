@@ -41,7 +41,8 @@
 
   <steps>
     <item>
-      <p>Press the <gui style="button">+</gui> button.</p>
+      <p>Press the <gui style="button">+</gui> button in the top-left corner
+      of the window.</p>
     </item>
     <item>
       <p>In the <gui>New contact</gui> dialog, enter the contact name and their
@@ -56,7 +57,7 @@
     </item>
   </steps>
 
-  <p>To remove a contact:</p>
+  <p>To delete a contact:</p>
 
   <steps>
     <item>
