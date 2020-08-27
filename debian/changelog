@@ -1,3 +1,9 @@
+gnome-user-docs (41.1-1endless1) eos; urgency=medium
+
+  * debian/rules: Do not replace "install:" links with "apt:" links
+
+ -- Jian-Hong Pan <jhp@endlessos.org>  Wed, 05 Jan 2022 17:53:32 +0800
+
 gnome-user-docs (41.1-1) unstable; urgency=medium
 
   * New upstream release
