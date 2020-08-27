@@ -1,6 +1,12 @@
 #!/usr/bin/make -f
 
-include /usr/share/cdbs/1/rules/debhelper.mk
-include /usr/share/cdbs/1/class/gnome.mk
-include /usr/share/cdbs/1/rules/utils.mk
--include /usr/share/gnome-pkg-tools/1/rules/gnome-get-source.mk
+%:
+	dh $@
+
+override_dh_install:
+	# modify install links (https://bugs.debian.org/938994)
+	for d in $(CURDIR)/debian/tmp/usr/share/help/*/gnome-help; do \
+		cd $$d; \
+		sed -i 's/action="install:/href="apt:/' *.page; \
+	done
+	dh_install

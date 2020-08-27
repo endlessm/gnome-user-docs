@@ -1,9 +1,219 @@
-gnome-user-docs (3.10.3-1endless1) eos; urgency=low
+gnome-user-docs (3.36.2-1) unstable; urgency=medium
 
-  * Upgrade to 3.10
-    [endlessm/eos-shell#2344]
+  * New upstream release
+  * Bump debhelper-compat to 13
 
- -- Juan A. Suarez Romero <jasuarez@igalia.com>  Wed, 23 Apr 2014 12:40:20 +0200
+ -- Jeremy Bicha <jbicha@debian.org>  Sun, 26 Apr 2020 16:50:41 -0400
+
+gnome-user-docs (3.36.1-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jeremy Bicha <jbicha@debian.org>  Sat, 28 Mar 2020 22:24:06 -0400
+
+gnome-user-docs (3.36.0-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Gunnar Hjalmarsson <gunnarhj@ubuntu.com>  Mon, 16 Mar 2020 13:56:08 +0100
+
+gnome-user-docs (3.34.1-1) unstable; urgency=medium
+
+  [ Jeremy Bicha ]
+  * New upstream release
+  * Bump Standards-Version to 4.5.0
+
+  [ Debian Janitor ]
+  * Set field Upstream-Name in debian/copyright.
+  * Set upstream metadata fields: Bug-Submit, Repository, Repository-Browse.
+  * Set upstream metadata fields: Bug-Database.
+
+ -- Jeremy Bicha <jbicha@debian.org>  Sat, 01 Feb 2020 21:09:01 -0500
+
+gnome-user-docs (3.34.0-2) unstable; urgency=medium
+
+  * Build-Depend on debhelper-compat 12 and drop debian/compat
+  * Build-Depend on dh-sequence-gnome instead of gnome-pkg-tools
+  * Upload to unstable
+
+ -- Jeremy Bicha <jbicha@debian.org>  Sat, 14 Sep 2019 15:29:17 -0400
+
+gnome-user-docs (3.34.0-1) experimental; urgency=medium
+
+  * New upstream release
+  * Bump Standards-Version to 4.4.0
+  * Bump to compat level 12
+  * Replace broken install links with apt: links (Closes: #938994)
+
+ -- Gunnar Hjalmarsson <gunnarhj@ubuntu.com>  Thu, 12 Sep 2019 04:23:17 +0200
+
+gnome-user-docs (3.32.0-1) experimental; urgency=medium
+
+  * New upstream release
+
+ -- Jeremy Bicha <jbicha@debian.org>  Tue, 12 Mar 2019 20:26:07 -0400
+
+gnome-user-docs (3.30.2-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jeremy Bicha <jbicha@debian.org>  Sun, 25 Nov 2018 15:39:15 -0500
+
+gnome-user-docs (3.30.1-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jeremy Bicha <jbicha@debian.org>  Fri, 05 Oct 2018 14:37:11 -0400
+
+gnome-user-docs (3.30.0-1) unstable; urgency=medium
+
+  * New upstream release
+  * Bump Standards-Version to 4.2.1
+
+ -- Jeremy Bicha <jbicha@debian.org>  Sun, 09 Sep 2018 10:02:02 -0400
+
+gnome-user-docs (3.28.2-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jeremy Bicha <jbicha@debian.org>  Sun, 13 May 2018 11:07:49 -0400
+
+gnome-user-docs (3.28.1-1) unstable; urgency=medium
+
+  * New upstream release
+  * Bump Standards-Version to 4.1.4
+
+ -- Jeremy Bicha <jbicha@debian.org>  Mon, 09 Apr 2018 18:00:58 -0400
+
+gnome-user-docs (3.28.0-1) unstable; urgency=medium
+
+  * New upstream release
+  * Update Vcs fields for migration to https://salsa.debian.org/
+  * Bump debhelper compat to 11
+
+ -- Jeremy Bicha <jbicha@debian.org>  Wed, 14 Mar 2018 13:53:17 -0400
+
+gnome-user-docs (3.26.2.1-1) unstable; urgency=medium
+
+  * New usptream release
+  * Update Vcs fields for conversion to git
+  * Add debian/gbp.conf
+  * Bump Standards-Version to 4.1.2
+
+ -- Jeremy Bicha <jbicha@debian.org>  Fri, 15 Dec 2017 18:04:00 -0500
+
+gnome-user-docs (3.26.2-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Michael Biebl <biebl@debian.org>  Wed, 01 Nov 2017 01:41:27 +0100
+
+gnome-user-docs (3.26.1.1-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jeremy Bicha <jbicha@debian.org>  Wed, 18 Oct 2017 13:38:39 -0400
+
+gnome-user-docs (3.26.0.1-1) unstable; urgency=medium
+
+  * New upstream release
+  * Don't use obsolete Priority: extra for transitional package
+  * Bump Standards-Version to 4.1.1
+
+ -- Jeremy Bicha <jbicha@debian.org>  Sun, 01 Oct 2017 18:15:17 -0400
+
+gnome-user-docs (3.26.0-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jeremy Bicha <jbicha@debian.org>  Tue, 12 Sep 2017 14:46:46 -0400
+
+gnome-user-docs (3.25.90-2) unstable; urgency=medium
+
+  * Add missing Breaks/Replaces for package rename
+
+ -- Jeremy Bicha <jbicha@ubuntu.com>  Wed, 30 Aug 2017 06:52:21 -0400
+
+gnome-user-docs (3.25.90-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Rename gnome-user-guide to gnome-user-docs
+  * Bum Standards-Version to 4.1.0
+
+ -- Jeremy Bicha <jbicha@ubuntu.com>  Tue, 29 Aug 2017 16:45:24 -0400
+
+gnome-user-docs (3.22.0-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Convert from cdbs to dh.
+  * Bump debhelper compat level to 10.
+
+ -- Michael Biebl <biebl@debian.org>  Tue, 20 Sep 2016 11:26:15 +0200
+
+gnome-user-docs (3.20.2-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Change Section from gnome to doc.
+  * Add Provides: gnome-user-docs, so the package can be found under its
+    original name.
+
+ -- Michael Biebl <biebl@debian.org>  Tue, 10 May 2016 21:44:59 +0200
+
+gnome-user-docs (3.20.1-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Bump Standards-Version to 3.9.8.
+
+ -- Michael Biebl <biebl@debian.org>  Sun, 17 Apr 2016 21:54:31 +0200
+
+gnome-user-docs (3.18.1-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Change the Homepage to https://help.gnome.org/users/.
+
+ -- Michael Biebl <biebl@debian.org>  Tue, 13 Oct 2015 16:17:50 +0200
+
+gnome-user-docs (3.18.0-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Andreas Henriksson <andreas@fatal.se>  Sat, 03 Oct 2015 18:30:56 +0200
+
+gnome-user-docs (3.16.1-1) unstable; urgency=medium
+
+  * New upstream release.
+  * Add Homepage: URL.
+
+ -- Michael Biebl <biebl@debian.org>  Fri, 29 May 2015 01:28:49 +0200
+
+gnome-user-docs (3.14.1-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Michael Biebl <biebl@debian.org>  Mon, 20 Oct 2014 19:34:35 +0200
+
+gnome-user-docs (3.14.0-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Michael Biebl <biebl@debian.org>  Wed, 24 Sep 2014 13:50:37 +0200
+
+gnome-user-docs (3.13.92-1) unstable; urgency=medium
+
+  * New upstream release candidate.
+  * Bump Standards-Version to 3.9.6, with no changes needed.
+  * Fix minor copyright formatting error.
+
+ -- Jordi Mallach <jordi@debian.org>  Mon, 22 Sep 2014 13:13:06 +0200
+
+gnome-user-docs (3.12.2-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream release.
+  * debian/control.in:
+    - Bump Standards-Version to 3.9.5.
+
+ -- Luca Falavigna <dktrkranz@debian.org>  Tue, 15 Jul 2014 22:20:04 +0200
 
 gnome-user-docs (3.8.2-1) unstable; urgency=low
 
@@ -136,8 +346,8 @@ gnome-user-docs (2.26.2-1) unstable; urgency=low
   * Stop mentioning GNOME 2.
   * Remove scrollkeeper dependency.
   * New upstream release.
-  * 90_autotools.patch: new patch. Update gnome-doc-utils.make and rerun 
-    the autotools to benefit of the symlinks for figures, reducing the 
+  * 90_autotools.patch: new patch. Update gnome-doc-utils.make and rerun
+    the autotools to benefit of the symlinks for figures, reducing the
     size of the binary package. Closes: #520255.
 
  -- Josselin Mouette <joss@debian.org>  Sat, 27 Jun 2009 00:53:47 +0200
@@ -191,7 +401,7 @@ gnome-user-docs (2.20.0-1) unstable; urgency=low
 
   * New upstream release.
   * Bump gnome-doc-utils requirement.
-  * Don't ship the GFDL in the package, point to that in 
+  * Don't ship the GFDL in the package, point to that in
     /usr/share/common-licenses instead.
 
  -- Josselin Mouette <joss@debian.org>  Sat, 22 Sep 2007 17:29:55 +0200
@@ -290,7 +500,7 @@ gnome2-user-docs (2.8.1-2) unstable; urgency=low
 
 gnome2-user-docs (2.8.1-1) experimental; urgency=low
 
-  * New upstream version. 
+  * New upstream version.
 
  -- Jose Carlos Garcia Sogo <jsogo@debian.org>  Sun, 14 Nov 2004 13:23:20 +0100
 
@@ -320,7 +530,7 @@ gnome2-user-docs (2.4.1-5) unstable; urgency=low
 
   * New maintainer. Thanks for your work Christian. (Closes: #238879)
   * It's now one of GNOME Team packages.
-  * Bumped Standars Version to 3.6.1. No changes needed.   
+  * Bumped Standars Version to 3.6.1. No changes needed.
 
  -- Jose Carlos Garcia Sogo <jsogo@debian.org>  Sat, 20 Mar 2004 18:13:20 +0100
 
