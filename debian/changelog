@@ -1,3 +1,23 @@
+gnome-user-docs (3.38.2-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Laurent Bigonville <bigon@debian.org>  Mon, 07 Dec 2020 15:25:00 +0100
+
+gnome-user-docs (3.38.1-1) unstable; urgency=medium
+
+  * Team upload
+  * New upstream release
+  * Add the Rules-Requires-Root header
+
+ -- Gunnar Hjalmarsson <gunnarhj@ubuntu.com>  Wed, 07 Oct 2020 14:28:14 +0200
+
+gnome-user-docs (3.38.0-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Gunnar Hjalmarsson <gunnarhj@ubuntu.com>  Sun, 13 Sep 2020 19:27:38 +0200
+
 gnome-user-docs (3.36.2-1) unstable; urgency=medium
 
   * New upstream release

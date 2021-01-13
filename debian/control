@@ -6,12 +6,13 @@ Source: gnome-user-docs
 Section: doc
 Priority: optional
 Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
-Uploaders: Jeremy Bicha <jbicha@debian.org>
+Uploaders: Jeremy Bicha <jbicha@debian.org>, Laurent Bigonville <bigon@debian.org>
 Build-Depends: debhelper-compat (= 13),
                dh-sequence-gnome
 Build-Depends-Indep: yelp-tools,
                      pkg-config
 Standards-Version: 4.5.0
+Rules-Requires-Root: no
 Vcs-Browser: https://salsa.debian.org/gnome-team/gnome-user-docs
 Vcs-Git: https://salsa.debian.org/gnome-team/gnome-user-docs.git
 Homepage: https://help.gnome.org/users/

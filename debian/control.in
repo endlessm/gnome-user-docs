@@ -8,6 +8,7 @@ Build-Depends: debhelper-compat (= 13),
 Build-Depends-Indep: yelp-tools,
                      pkg-config
 Standards-Version: 4.5.0
+Rules-Requires-Root: no
 Vcs-Browser: https://salsa.debian.org/gnome-team/gnome-user-docs
 Vcs-Git: https://salsa.debian.org/gnome-team/gnome-user-docs.git
 Homepage: https://help.gnome.org/users/
