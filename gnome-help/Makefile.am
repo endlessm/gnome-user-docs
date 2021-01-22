@@ -39,6 +39,7 @@ HELP_MEDIA = \
 	figures/edge-drag-up.svg \
 	figures/emblem-system-symbolic.svg \
 	figures/emoji-flags-symbolic.svg \
+	figures/endless-desktop.png \
 	figures/gesture-drag.png \
 	figures/gesture-hold.png \
 	figures/gesture-pinch-symbolic.svg \
@@ -104,11 +105,15 @@ HELP_MEDIA = \
 	figures/shell-appts-classic.png \
 	figures/shell-appts-endless.png \
 	figures/shell-appts.png \
+	figures/shell-bottom-taskbar-endless.png \
+	figures/shell-bottom-taskbar-favorites-endless.png \
 	figures/shell-exit-classic.png \
+	figures/shell-exit-endless.png \
 	figures/shell-exit.png \
 	figures/shell-top-bar-classic.png \
 	figures/shell-top-bar.png \
 	figures/shell-window-list-classic.png \
+	figures/shell-window-list-endless.png \
 	figures/shell-workspaces.png \
 	figures/network-wireless-acquiring-symbolic.svg \
 	figures/network-wireless-connected-symbolic.svg \
@@ -119,6 +124,7 @@ HELP_MEDIA = \
 	figures/network-wireless-signal-ok-symbolic.svg \
 	figures/network-wireless-signal-weak-symbolic.svg \
 	figures/system-run-symbolic.svg \
+	figures/system-settings-menu-endless.png \
 	figures/view-more-symbolic.svg \
 	figures/yelp-icon-big.svg
 
