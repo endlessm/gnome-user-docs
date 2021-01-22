@@ -53,6 +53,7 @@ HELP_MEDIA = \
 	figures/edit-find-symbolic.svg \
 	figures/emblem-system-symbolic.svg \
 	figures/emoji-flags-symbolic.svg \
+	figures/endless-desktop.png \
 	figures/gnome.svg \
 	figures/go-down-symbolic.svg \
 	figures/input-keyboard-symbolic.png \
@@ -87,13 +88,18 @@ HELP_MEDIA = \
 	figures/shell-appts-classic.png \
 	figures/shell-appts-endless.png \
 	figures/shell-appts.png \
+	figures/shell-bottom-taskbar-endless.png \
+	figures/shell-bottom-taskbar-favorites-endless.png \
 	figures/shell-exit-classic.png \
+	figures/shell-exit-endless.png \
 	figures/shell-exit.png \
 	figures/shell-top-bar-classic.png \
 	figures/shell-top-bar.png \
 	figures/shell-window-list-classic.png \
+	figures/shell-window-list-endless.png \
 	figures/shell-workspaces.png \
 	figures/system-run-symbolic.svg \
+	figures/system-settings-menu-endless.png \
 	figures/tile-a11y.svg \
 	figures/tile-files.svg \
 	figures/tile-hardware.svg \
