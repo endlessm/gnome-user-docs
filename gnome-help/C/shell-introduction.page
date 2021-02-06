@@ -32,7 +32,7 @@
       <name>Andre Klapper</name>
       <email>ak-47@gmx.net</email>
     </credit>
-    <credit type="editor">
+    <credit type="author editor">
       <name>Pranali Deshmukh</name>
       <email>pranali21293@gmail.com</email>
     </credit>
@@ -103,18 +103,18 @@ like "Application windows" by using if:when and if:else ? -->
   <key xref="keyboard-key-super">Super</key> key on your keyboard.</p>
 
   <p if:test="platform:endless">To access your windows and applications,
-  click the Endless logo button at the bottom left corner of the screen in the window list.</p>
+  click the Endless logo button at the bottom left corner of the screen.</p>
 
   <media type="image" its:translate="no" src="figures/shell-activities-dash.png" height="65" style="floatend floatright" if:test="!target:mobile, !platform:gnome-classic">
     <p>Activities button and Dash</p>
   </media>
-  <p if:test="!platform:gnome-classic">At the bottom of the overview, you will find the <em>dash</em>. The dash
+  <p if:test="!platform:gnome-classic !platform:endless">At the bottom of the overview, you will find the <em>dash</em>. The dash
   shows you your favorite and running applications. Click any icon in the
   dash to open that application; if the application is already running, it will
   have a small dot below its icon. Clicking its icon will bring up the most
   recently used window. You can also drag the icon onto a workspace.</p>
 
-  <p if:test="platform:endless">On the bottom left corner of the screen, you will find a list of
+  <p if:test="platform:endless">On the left side of the taskbar, you will find a list of
   your favorite and running applications. You may click any icon here to open that application; 
   if the application is already running, it will have a small dot below its icon. 
   Clicking its icon will bring up the most recently used window.</p>
@@ -122,6 +122,10 @@ like "Application windows" by using if:when and if:else ? -->
   <p if:test="!platform:gnome-classic !platform:endless">Right-clicking the icon displays a menu that 
   allows you to pick any window in a running application, or to open a new window. 
   You can also click the icon while holding down <key>Ctrl</key> to open a new window.</p>
+
+  <p if:test="platform:endless">Right-clicking the icon displays a menu that allows you 
+  to add/remove the application to/from your favorites or in case the application is 
+  already running the menu displays an option to quit the application.</p>
 
   <p if:test="!platform:gnome-classic !platform:endless">Click the grid button (which has nine dots) in the dash to display the
   applications overview. This shows you all the applications installed on your
@@ -139,7 +143,7 @@ like "Application windows" by using if:when and if:else ? -->
   the windows on the current workspace.</p>
 
   <p if:test="platform:endless">Clicking the Endless logo button allows you to toggle between
-  the Endless desktop and the running applications.</p>
+  the Endless Desktop and the running applications.</p>
 
   <media type="image" src="figures/shell-bottom-taskbar-favorites-endless.png" heigth="50" if:test="!target:mobile, !platform:gnome-classic">
     <p>Activities button and Dash</p>
@@ -346,7 +350,7 @@ messages will be presented, such as when your battery is critically low.</p>
     <media type="image" src="figures/shell-window-list-endless.png" width="400" if:test="!target:mobile">
       <p>Window List</p>
     </media>
-    <p>The window list at the bottom of the screen provides access to all your
+    <p>The window list within the taskbar provides access to all your
     open windows and applications and lets you quickly minimize and restore
     them.</p>
   </if:when>
