@@ -40,6 +40,10 @@
       <name>Michael Hill</name>
       <email>mdhillca@gmail.com</email>
     </credit>
+    <credit type="editor">
+      <name>Pranali Deshmukh</name>
+      <email>pranali21293@gmail.com</email>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -120,7 +124,7 @@
   computer’s functions. A very small amount of power is still used during
   suspend.</p>
 
-  <p>To suspend your computer manually, click the system menu on the right side
+  <p>To suspend your computer manually, click the user menu on the right side
   of the taskbar, expand <gui>Power Off / Log Out</gui>, and select
   <gui>Suspend</gui>.</p>
 
