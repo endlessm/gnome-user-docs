@@ -27,6 +27,10 @@
       <name>Ekaterina Gerasimova</name>
       <email>kittykat3756@gmail.com</email>
     </credit>
+    <credit type="editor">
+      <name>Pranali Deshmukh</name>
+      <email>pranali21293@gmail.com</email>
+    </credit>
 
     <desc>Use larger fonts to make text easier to read.</desc>
   </info>
@@ -61,7 +65,5 @@
   </note>
 
   <p><gui>Large Text</gui> will scale the text by 1.2 times.</p>
-  # GNOME Tweaks not available
-  # You can use <app>Tweaks</app> to make text size bigger or smaller.
-
+  
 </page>
