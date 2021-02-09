@@ -231,7 +231,6 @@ HELP_FILES = \
 	files-tilde.page \
 	files.page \
 	get-involved.page \
-	gnome-classic.page \
 	gnome-version.page \
 	hardware-auth.page \
 	hardware-cardreader.page \
@@ -284,7 +283,6 @@ HELP_FILES = \
 	net-email-virus.page \
 	net-email.page \
 	net-findip.page \
-	net-firewall-on-off.page \
 	net-firewall-ports.page \
 	net-fixed-ip-address.page \
 	net-general.page \
@@ -375,7 +373,6 @@ HELP_FILES = \
 	sharing-displayname.page \
 	sharing-media.page \
 	sharing-personal.page \
-	shell-apps-auto-start.page \
 	shell-apps-favorites.page \
 	shell-apps-open.page \
 	shell-exit.page \
