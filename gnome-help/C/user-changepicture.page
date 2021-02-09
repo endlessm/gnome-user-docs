@@ -35,15 +35,14 @@
 
   <p>When you log in or switch users, you will see a list of users with
   their login photos. You can change your photo to a stock image or an
-  image of your own. You can even take a new login photo with your
-  webcam.</p>
+  image of your own.</p>
 
   <p>You need <link xref="user-admin-explain">administrator privileges</link>
   to edit user accounts other than your own.</p>
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#overview">Overview</gui> and
+      <p>Go to the Desktop and
       start typing <gui>Users</gui>.</p>
     </item>
     <item>
