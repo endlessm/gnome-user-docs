@@ -55,7 +55,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#overview">Overview</gui> and
+      <p>Go to the Desktop and
       start typing <gui>Displays</gui>.</p>
     </item>
     <item>
@@ -132,7 +132,7 @@
   <note style="tip">
     <p>If your device rotates the screen automatically, you can lock the current
     rotation using the
-<media its:translate="no" type="image" src="figures/rotation-locked-symbolic.svg"><span its:translate="yes">rotation lock</span></media> button at the bottom of the <gui xref="shell-introduction#systemmenu">system menu</gui>. To unlock, press the 
+<media its:translate="no" type="image" src="figures/rotation-locked-symbolic.svg"><span its:translate="yes">rotation lock</span></media> button at the bottom of the <gui xref="shell-introduction#usermenu">user menu</gui>. To unlock, press the 
 <media its:translate="no" type="image" src="figures/rotation-allowed-symbolic.svg"><span its:translate="yes">rotation unlock</span></media> button</p>
   </note>
 

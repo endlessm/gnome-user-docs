@@ -29,7 +29,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#overview">Overview</gui>
+      <p>Go to the Desktop
       and start typing <gui>Displays</gui>.</p>
     </item>
     <item>
@@ -51,7 +51,7 @@
       <note>
         <p>The <link xref="shell-introduction">taskbar</link> shows when
         <gui>Night Light</gui> is active. It can be temporarily disabled from
-        the system menu.</p>
+        the user menu.</p>
       </note>
 
 

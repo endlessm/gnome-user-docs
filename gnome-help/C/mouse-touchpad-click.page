@@ -50,7 +50,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#overview">Overview</gui>
+      <p>Go to the Desktop
       and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
     </item>
     <item>
@@ -109,8 +109,8 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
+      <p>Open the <gui xref="shell-introduction#desktop">Desktop</gui> 
+      and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Mouse &amp; Touchpad</gui> to open the panel.</p>
@@ -145,8 +145,8 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
+      <p>Open the <gui xref="shell-introduction#desktop">Desktop</gui>
+      and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Mouse &amp; Touchpad</gui> to open the panel.</p>

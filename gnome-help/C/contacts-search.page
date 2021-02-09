@@ -34,11 +34,11 @@
 
   <steps>
     <item>
-      <p>In the <gui>Overview</gui>, start typing the name of the
+      <p>In the <gui>Desktop</gui>, start typing the name of the
       contact.</p>
     </item>
     <item>
-      <p>Matching contacts will appear in the overview instead of the usual list
+      <p>Matching contacts will appear in the desktop instead of the usual list
       of applications.</p>
     </item>
     <item>

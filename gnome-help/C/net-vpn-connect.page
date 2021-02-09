@@ -59,7 +59,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#overview">Overview</gui> and
+      <p>Go to the Desktop and
       start typing <gui>Network</gui>.</p>
     </item>
     <item>
@@ -81,7 +81,7 @@
     </item>
     <item>
       <p>When you have finished setting up the VPN, open the
-      <gui xref="shell-introduction#systemmenu">system menu</gui> from the right side of
+      <gui xref="shell-introduction#usermenu">user menu</gui> from the right side of
       the taskbar, click <gui>VPN off</gui> and select <gui>Connect</gui>. You
       may need to enter a password for the connection before it is established.
       Once the connection is made, you will see a lock shaped icon in the
@@ -95,7 +95,7 @@
 <media its:translate="no" type="image" src="figures/emblem-system-symbolic.svg"><span its:translate="yes">settings</span></media> button to review the settings.</p>
     </item>
     <item>
-      <p>To disconnect from the VPN, click the system menu on the taskbar and
+      <p>To disconnect from the VPN, click the user menu on the taskbar and
       click <gui>Turn Off</gui> under the name of your VPN connection.</p>
     </item>
   </steps>

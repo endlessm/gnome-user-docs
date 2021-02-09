@@ -38,7 +38,7 @@
   <steps>
     <title>To manually set your network settings:</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#overview">Overview</gui>
+      <p>Go to the Desktop
       and start typing <gui>Settings</gui>.</p>
     </item>
     <item>
@@ -81,7 +81,7 @@
     </item>
     <item>
       <p>Click <gui>Apply</gui>. If you are not connected to the network, open the
-      <gui xref="shell-introduction#systemmenu">system menu</gui> from the right side of
+      <gui xref="shell-introduction#usermenu">user menu</gui> from the right side of
       the taskbar and connect. Test the network
       settings by trying to visit a website or look at shared files on the
       network, for example.</p>

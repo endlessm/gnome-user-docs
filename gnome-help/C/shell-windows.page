@@ -21,7 +21,7 @@
   <title>Windows and workspaces</title>
 
   <p>Like other desktops, the system uses windows to display your running
-  applications. Using both the <gui xref="shell-introduction#overview">Overview</gui>
+  applications. Using both the <gui xref="shell-introduction#desktop">Desktop</gui>
   and the <em>dash</em>, you can launch new applications and control active windows.</p>
 
   <p>You can also group your applications together within workspaces. Visit the
@@ -36,7 +36,7 @@
     has a section on the dash, but none describe it in much detail.</p>
   </comment>
 <!-- 
-  <p>In the <gui>Overview</gui>, the <gui>dash</gui> displays your 
+  <p>In the <gui>Desktop</gui>, the <gui>dash</gui> displays your 
   favorite applications as well as your running applications. 
   The <gui>dash</gui> will place a slight glow behind any running applications.
   </p>

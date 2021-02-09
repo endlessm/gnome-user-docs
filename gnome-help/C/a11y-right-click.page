@@ -45,7 +45,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#overview">Overview</gui>
+      <p>Go to the Desktop
       and start typing <gui>Accessibility</gui>.</p>
     </item>
     <item>
@@ -79,9 +79,9 @@
   keypad.</p>
 
   <note>
-    <p>In the <gui>Overview</gui>, you are always able to long-press
+    <p>In the <gui>Desktop</gui>, you are always able to long-press
     to right-click, even with this feature disabled. Long-press works slightly
-    differently in the overview: you do not have to release the button to
+    differently in the desktop: you do not have to release the button to
     right-click.</p>
   </note>
 

@@ -32,7 +32,7 @@
 <title>Change the sound volume</title>
 
   <p>To change the sound volume, open the
-  <gui xref="shell-introduction#systemmenu">system menu</gui> from the right
+  <gui xref="shell-introduction#usermenu">user menu</gui> from the right
   side of the taskbar and move the volume slider left or right. You can
   completely turn off sound by dragging the slider to the left.</p>
 
@@ -58,7 +58,7 @@
 
     <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#overview">Overview</gui>
+      <p>Go to the Desktop
       and start typing <gui>Sound</gui>.</p>
     </item>
     <item>

@@ -57,7 +57,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#overview">Overview</gui> and
+      <p>Go to the Desktop and
       start typing <gui>Bluetooth</gui>.</p>
     </item>
     <item>
@@ -76,7 +76,7 @@
   <p>To turn Bluetooth off:</p>
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#systemmenu">system menu</gui> from the
+      <p>Open the <gui xref="shell-introduction#usermenu">user menu</gui> from the
       right side of the taskbar.</p>
     </item>
     <item>

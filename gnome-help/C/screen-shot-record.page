@@ -49,7 +49,7 @@
   <steps>
     <item>
       <p>Open <app>Screenshot</app> from the
-      <gui xref="shell-introduction#overview">Overview</gui>.</p>
+      <gui xref="shell-introduction#desktop">Desktop</gui>.</p>
     </item>
     <item>
       <p>In the <app>Screenshot</app> window, select whether to grab the whole

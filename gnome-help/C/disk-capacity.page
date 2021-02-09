@@ -42,7 +42,7 @@
 
   <list>
     <item>
-      <p>Open <app>Disk Usage Analyzer</app> from the <gui>Overview</gui>.
+      <p>Open <app>Disk Usage Analyzer</app> from the <gui>Desktop</gui>.
       The window will display a list of file locations together with
       the usage and capacity of each.</p>
     </item>
@@ -68,7 +68,7 @@
 
 <steps>
  <item>
-  <p>Open the <app>System Monitor</app> application from the <gui>Overview</gui>.</p>
+  <p>Open the <app>System Monitor</app> application from the Desktop.</p>
  </item>
  <item>
   <p>Select the <gui>File Systems</gui> tab to view the system’s partitions and
@@ -85,8 +85,7 @@
 
 <steps>
   <item>
-    <p>Open the <app>Usage</app> application from the <gui>Activities</gui>
-    overview.</p>
+    <p>Open the <app>Usage</app> application from the Desktop.</p>
   </item>
   <item>
     <p>Select <gui>Storage</gui> tab to view the system’s total <gui>Used</gui>

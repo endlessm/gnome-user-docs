@@ -54,7 +54,7 @@
     <title>Search</title>
     <item>
       <p>Open the <app>Files</app> application from the
-      <gui xref="shell-introduction#overview">Overview</gui>.</p>
+      <gui xref="shell-introduction#desktop">Desktop</gui>.</p>
     </item>
     <item>
       <p>If you know the files you want are under a particular folder, go to
@@ -119,7 +119,7 @@ searched:</p>
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#overview">Overview</gui>
+      <p>Go to the Desktop
       and start typing <gui>Search</gui>.</p>
     </item>
     <item>

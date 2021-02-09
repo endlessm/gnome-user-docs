@@ -28,7 +28,7 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>Go to the <gui>Overview</gui> and drag the window to a
+    <desc>Go to the <gui>Desktop</gui> and drag the window to a
     different workspace.</desc>
   </info>
 
@@ -55,7 +55,7 @@
   <steps>
     <title>Using the mouse:</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#overview">Overview</gui>.</p>
+      <p>Go to the Desktop.</p>
     </item>
     <item>
       <p>Click and drag the window toward the right of the screen.</p>

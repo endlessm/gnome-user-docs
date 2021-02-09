@@ -42,7 +42,7 @@
   <steps>
     <item>
       <p>Open <app>Disks</app> from the
-      <gui xref="shell-introduction#overview">Overview</gui>.</p>
+      <gui xref="shell-introduction#desktop">Desktop</gui>.</p>
     </item>
     <item>
       <p>Choose the disk from the list in the left pane.</p>
