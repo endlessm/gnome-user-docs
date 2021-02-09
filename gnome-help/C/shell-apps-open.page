@@ -25,32 +25,23 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>Launch apps from the <gui>Overview</gui>.</desc>
+    <desc>Launch apps from the <gui>Desktop</gui>.</desc>
   </info>
 
   <title>Start applications</title>
 
-<comment>
-<cite>shaunm</cite>
-<p>If an app is running, it's focused. You can create a new window by dragging
-to the windows overview or onto a workspace thumbnail. (Also mention dragging
-to overview in list item below, not just workspace thumbnail.) Right-click
-icon to choose a window to focus or get new window. Mention middle-click?</p>
-</comment>
-
-  <p if:test="!platform:gnome-classic">Move your mouse pointer to the
-  <gui>Activities</gui> corner at the top left of the screen to show the
-  <gui xref="shell-introduction#overview">Overview</gui>. This is where you
-  can find all of your applications. You can also open the overview by pressing
+  <p if:test="!platform:gnome-classic">Click the <gui>Endless OS Button</gui>
+  at left corner of the taskbar to show the Desktop. This is where you
+  can find all of your applications. You can also go to the Desktop by pressing
   the <key xref="keyboard-key-super">Super</key> key.</p>
   
   <p if:test="platform:gnome-classic">You can start applications from the
-  <gui xref="shell-introduction#activities">Applications</gui> menu at the top
-  left of the screen, or you can use the <gui>Overview</gui> by
+  <gui xref="shell-introduction#desktop">Applications</gui> menu at the top
+  left of the screen, or you can use the <gui>Desktop</gui> by
   pressing the <key xref="keyboard-key-super">Super</key> key.</p>
 
   <p>There are several ways of opening an application once you’re in the
-  <gui>Overview</gui>:</p>
+  <gui>Desktop</gui>:</p>
 
   <list>
     <item>
@@ -60,28 +51,18 @@ icon to choose a window to focus or get new window. Mention middle-click?</p>
       to type an related term. Click the application’s icon to start it.</p>
     </item>
     <item>
-      <p>Some applications have icons in the <em>dash</em>, the vertical strip
-      of icons on the left-hand side of the <gui>Overview</gui>.
+      <p>Some applications have icons in the horizontal strip
+      on the left-hand side of the <gui>Taskbar</gui>.
       Click one of these to start the corresponding application.</p>
       <p>If you have applications that you use very frequently, you can
       <link xref="shell-apps-favorites">add them to the dash</link>
       yourself.</p>
     </item>
     <item>
-      <p>Click the grid button at the bottom of the dash.
-      You will see the first page of all installed applications. To see more
-      applications, press the dots on the right, to view other
-      applications. Press on the application to start it.</p>
-    </item>
-    <item>
-      <p>You can launch an application in a separate
-      <link xref="shell-workspaces">workspace</link> by dragging its icon from
-      the dash, and dropping it onto one of the workspaces on the right-hand
-      side of the screen. The application will open in the chosen
-      workspace.</p>
-      <p>You can launch an application in a <em>new</em> workspace by dragging
-      its icon to the empty workspace at the bottom of the workspace
-      switcher, or to the small gap between two workspaces.</p>
+      <p>When looking at the <gui>Desktop</gui>,
+      you will see the first page of all installed applications. To see more
+      applications, press the arrow on the right.
+      Press on the application to start it.</p>
     </item>
   </list>
 
