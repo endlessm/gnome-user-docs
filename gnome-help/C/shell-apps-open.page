@@ -25,7 +25,7 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>Launch apps from the <gui>Overview</gui>.</desc>
+    <desc>Launch apps from the <gui>Desktop</gui>.</desc>
   </info>
 
   <title>Start applications</title>
@@ -38,19 +38,18 @@ to overview in list item below, not just workspace thumbnail.) Right-click
 icon to choose a window to focus or get new window. Mention middle-click?</p>
 </comment>
 
-  <p if:test="!platform:gnome-classic">Move your mouse pointer to the
-  <gui>Activities</gui> corner at the top left of the screen to show the
-  <gui xref="shell-introduction#overview">Desktop</gui>. This is where you
+  <p if:test="!platform:gnome-classic">Click the <gui>Endless OS Button</gui>
+  at left corner of the taskbar to show the Desktop. This is where you
   can find all of your applications. You can also go to the Desktop by pressing
   the <key xref="keyboard-key-super">Super</key> key.</p>
   
   <p if:test="platform:gnome-classic">You can start applications from the
-  <gui xref="shell-introduction#activities">Applications</gui> menu at the top
-  left of the screen, or you can use the <gui>Overview</gui> by
+  <gui xref="shell-introduction#desktop">Applications</gui> menu at the top
+  left of the screen, or you can use the <gui>Desktop</gui> by
   pressing the <key xref="keyboard-key-super">Super</key> key.</p>
 
   <p>There are several ways of opening an application once you’re in the
-  <gui>Overview</gui>:</p>
+  <gui>Desktop</gui>:</p>
 
   <list>
     <item>
@@ -60,7 +59,7 @@ icon to choose a window to focus or get new window. Mention middle-click?</p>
       to type an related term. Click the application’s icon to start it.</p>
     </item>
     <item>
-      <p>Some applications have icons in the <em>dash</em>, the horizontal strip
+      <p>Some applications have icons in the <em>Taskbar</em>, the horizontal strip
       of icons at the bottom of the <gui>Desktop</gui>.
       Click one of these to start the corresponding application.</p>
       <p>If you have applications that you use very frequently, you can
@@ -68,18 +67,10 @@ icon to choose a window to focus or get new window. Mention middle-click?</p>
       yourself.</p>
     </item>
     <item>
-      <p>Click the grid button (which has nine dots) in the dash.
-      You will see the first page of all installed applications. To see more
-      applications, press the dots at the bottom, above the dash, to view other
-      applications. Press on the application to start it.</p>
-    </item>
-    <item>
-      <p>You can launch an application in a separate
-      <link xref="shell-workspaces">workspace</link> by dragging its icon from
-      the dash, and dropping it onto one of the workspaces. The application will
-      open in the chosen workspace.</p>
-      <p>You can launch an application in a <em>new</em> workspace by dragging its
-      icon to an empty workspace, or to the small gap between two workspaces.</p>
+      <p>When looking at the <gui>Desktop</gui>,
+      you will see the first page of all installed applications. To see more
+      applications, press the arrow on the right.
+      Press on the application to start it.</p>
     </item>
   </list>
 <comment>
