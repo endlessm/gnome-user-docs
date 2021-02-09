@@ -5,7 +5,6 @@
 
   <info>
     <link type="guide" xref="net-security"/>
-    <link type="seealso" xref="net-firewall-on-off"/>
     <revision pkgversion="3.4.0" date="2012-02-20" status="final"/>
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
 
@@ -23,10 +22,8 @@
   <title>Commonly-used network ports</title>
 
   <p>This is a list of network ports commonly used by applications that provide
-  network services, like file sharing or remote desktop viewing. You can change
-  your system’s firewall to <link xref="net-firewall-on-off">block or allow
-  access</link> to these applications. There are thousands of ports in use, so
-  this table isn’t complete.</p>
+  network services, like file sharing or remote desktop viewing. There are thousands 
+  of ports in use, so this table isn’t complete.</p>
 
   <table shade="rows" frame="top">
     <thead>
