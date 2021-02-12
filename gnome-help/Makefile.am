@@ -416,9 +416,6 @@ HELP_FILES = \
 	shell-windows-switching.page \
 	shell-windows-tiled.page \
 	shell-windows.page \
-	shell-workspaces-movewindow.page \
-	shell-workspaces-switch.page \
-	shell-workspaces.page \
 	sound-alert.page \
 	sound-broken.page \
 	sound-crackle.page \

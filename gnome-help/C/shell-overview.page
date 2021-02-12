@@ -26,6 +26,12 @@
     <desc>Work with apps, windows, and workspaces. See your appointments and
     things that matter in the taskbar.</desc>
     <uix:thumb role="experimental-gnome-tiles" src="figures/tile-home.svg"/>
+    <desc>
+      <link xref="clock-calendar">Calendar</link>,
+      <link xref="shell-notifications">notifications</link>,
+      <link xref="shell-keyboard-shortcuts">keyboard shortcuts</link>,
+      <link xref="shell-windows">window management</link>…
+    </desc>
   </info>
 
   <title>Your desktop</title>

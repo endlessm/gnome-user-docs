@@ -75,7 +75,7 @@ information on navigating user interfaces with only the keyboard.</p>
   <tr xml:id="alt-escape">
     <td><p><keyseq><key>Alt</key><key>Esc</key></keyseq></p></td>
     <td>
-      <p>Switch between windows in the current workspace. Hold down
+      <p>Switch between windows. Hold down
       <key>Shift</key> for reverse order.</p>
     </td>
   </tr>
@@ -90,28 +90,6 @@ information on navigating user interfaces with only the keyboard.</p>
   <tr xml:id="super-a">
     <td><p><keyseq><key>Super</key><key>A</key></keyseq></p></td>
     <td><p>Show the list of applications.</p></td>
-  </tr>
-  <tr xml:id="super-updown">
-    <td>
-      <p if:test="!platform:gnome-classic"><keyseq><key>Super</key><key>Page Up</key></keyseq></p>
-      <p if:test="platform:gnome-classic"><keyseq><key>Ctrl</key><key>Alt</key><key>→</key></keyseq></p>
-      <p>and</p>
-      <p if:test="!platform:gnome-classic"><keyseq><key>Super</key><key>Page Down</key></keyseq></p>
-      <p if:test="platform:gnome-classic"><keyseq><key>Ctrl</key><key>Alt</key><key>←</key></keyseq></p>
-    </td>
-    <td><p><link xref="shell-workspaces-switch">Switch between
-     workspaces</link>.</p></td>
-  </tr>
-  <tr xml:id="shift-super-updown">
-    <td>
-      <p if:test="!platform:gnome-classic"><keyseq><key>Shift</key><key>Super</key><key>Page Up</key></keyseq></p>
-      <p if:test="platform:gnome-classic"><keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>→</key></keyseq></p>
-      <p>and</p>
-      <p if:test="!platform:gnome-classic"><keyseq><key>Shift</key><key>Super</key><key>Page Down</key></keyseq></p>
-      <p if:test="platform:gnome-classic"><keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>←</key></keyseq></p>
-    </td>
-    <td><p><link xref="shell-workspaces-movewindow">Move the current window to a
-     different workspace</link>.</p></td>
   </tr>
   <tr xml:id="shift-super-left">
     <td><p><keyseq><key>Shift</key><key>Super</key><key>&#8592;</key></keyseq></p></td>

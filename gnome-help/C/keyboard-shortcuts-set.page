@@ -239,26 +239,6 @@
 	<td><p><keyseq><key>Ctrl</key><key>Alt</key><key>Esc</key></keyseq></p></td>
   </tr>
   <tr>
-	<td><p>Switch to last workspace</p></td>
-	<td><p><keyseq><key>Super</key><key>End</key></keyseq></p></td>
-  </tr>
-  <tr>
-	<td><p>Switch to workspace 1</p></td>
-	<td><p><keyseq><key>Super</key><key>Home</key></keyseq></p></td>
-  </tr>
-  <tr>
-	<td><p>Switch to workspace 2</p></td>
-	<td><p>Disabled</p></td>
-  </tr>
-  <tr>
-	<td><p>Switch to workspace 3</p></td>
-	<td><p>Disabled</p></td>
-  </tr>
-  <tr>
-	<td><p>Switch to workspace 4</p></td>
-	<td><p>Disabled</p></td>
-  </tr>
-  <tr>
         <td><p>Switch windows</p></td>
         <td><p>Disabled</p></td>
   </tr>
@@ -471,10 +451,6 @@
   <tr>
 	<td><p>Toggle maximization state</p></td>
 	<td><p><keyseq><key>Alt</key><key>F10</key></keyseq></p></td>
-  </tr>
-  <tr>
-	<td><p>Toggle window on all workspaces or one</p></td>
-	<td><p>Disabled</p></td>
   </tr>
   <tr>
         <td><p>View split on left</p></td>

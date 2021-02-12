@@ -21,40 +21,13 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>Check the <gui>Desktop</gui> or other workspaces.</desc>
+    <desc>Check the <gui>Desktop</gui>.</desc>
   </info>
 
   <title>Find a lost window</title>
 
-  <p>A window on a different workspace, or hidden behind another window, is
-  easily found using the <gui xref="shell-introduction#desktop">Desktop</gui>:</p>
-
-  <list>
-    <item>
-      <p>Open the <gui>Desktop</gui>. If the missing window is on
-      the current
-      <link xref="shell-windows#working-with-workspaces">workspace</link>, it
-      will be shown here in thumbnail. Simply click the thumbnail to redisplay
-      the window, or</p>
-    </item>
-    <item>
-      <p>Click different workspaces in the
-      <link xref="shell-workspaces">workspace selector</link>
-      to try to find your window, or</p>
-    </item>
-    <item>
-      <p>Right-click the application in the dash and its open windows will be
-      listed. Click the window in the list to switch to it.</p>
-    </item>
-  </list>
-
-  <comment>
-    <cite date="2014-09-22">David King</cite>
-    <p>Mention search providers, especially with reference to gnome-terminal,
-    and how they can be used to find open terminals.</p>
-  </comment>
-
-  <p>Using the window switcher:</p>
+  <p>A window hidden behind another window, is
+  easily found using the window switcher:</p>
 
   <list>
     <item>

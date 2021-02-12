@@ -39,8 +39,6 @@
   switching between tasks a single-step process and provides a full picture of
   which applications are running.</p>
 
-  <p>From a workspace:</p>
-
   <steps>
     <item>
       <p>Press
@@ -78,9 +76,6 @@
 
   <p>From the <gui>Desktop</gui>, click on a
   <link xref="shell-windows">window</link> to switch to it and leave the
-  overview. If you have multiple
-  <link xref="shell-windows#working-with-workspaces">workspaces</link> open,
-  you can click on each workspace to view the open windows on each
-  workspace.</p>
+  overview.</p>
 
 </page>
