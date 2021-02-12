@@ -154,9 +154,6 @@
   <include xmlns="http://www.w3.org/2001/XInclude"
            href="shell-keyboard-shortcuts.page"
            xpointer="ctrl-alt-tab"/>
-  <include xmlns="http://www.w3.org/2001/XInclude"
-           href="shell-keyboard-shortcuts.page"
-           xpointer="super-updown"/>
   <tr>
     <td><p><keyseq><key>Alt</key><key>F6</key></keyseq></p></td>
     <td><p>Cycle through windows in the same application. Hold down the
@@ -203,9 +200,6 @@
     resize the window. Press <key>Enter</key> to finish resizing the window, or
     <key>Esc</key> to return it to its original size.</p></td>
   </tr>
-  <include xmlns="http://www.w3.org/2001/XInclude"
-           href="shell-keyboard-shortcuts.page"
-           xpointer="shift-super-updown"/>
   <include xmlns="http://www.w3.org/2001/XInclude"
            href="shell-keyboard-shortcuts.page"
            xpointer="shift-super-left"/>

@@ -114,7 +114,6 @@ HELP_MEDIA = \
 	figures/shell-top-bar.png \
 	figures/shell-window-list-classic.png \
 	figures/shell-window-list-endless.png \
-	figures/shell-workspaces.png \
 	figures/network-wireless-acquiring-symbolic.svg \
 	figures/network-wireless-connected-symbolic.svg \
 	figures/network-wireless-encrypted-symbolic.svg \
@@ -386,9 +385,6 @@ HELP_FILES = \
 	shell-windows-switching.page \
 	shell-windows-tiled.page \
 	shell-windows.page \
-	shell-workspaces-movewindow.page \
-	shell-workspaces-switch.page \
-	shell-workspaces.page \
 	sound-alert.page \
 	sound-broken.page \
 	sound-crackle.page \

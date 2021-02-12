@@ -18,15 +18,11 @@
     <desc>Move and organize your windows.</desc>
   </info>
 
-  <title>Windows and workspaces</title>
+  <title>Window management</title>
 
   <p>Like other desktops, the system uses windows to display your running
   applications. Using both the <gui xref="shell-introduction#desktop">Desktop</gui>
   and the <em>dash</em>, you can launch new applications and control active windows.</p>
-
-  <p>You can also group your applications together within workspaces. Visit the
-  window and workspace help topics below to better learn how to use these
-  features.</p>
 
   <comment>
     <cite date="2014-09-22">David King</cite>
@@ -51,21 +47,12 @@
   provides options to open a new window for that application and to remove or 
   add that application to favorites depending on its current status.</p>
 
-  <p>Windows are shown on their corresponding 
-  <link xref="shell-windows-workspaces">workspaces</link>.</p>
 -->
 <section id="working-with-windows" style="2column">
   <info>
     <title type="link" role="trail">Windows</title>
   </info>
  <title>Working with windows</title>
-</section>
-
-<section id="working-with-workspaces" style="2column">
-  <info>
-    <title type="link" role="trail">Workspaces</title>
-  </info>
- <title>Working with workspaces</title>
 </section>
 
 </page>

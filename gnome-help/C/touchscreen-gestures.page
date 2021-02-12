@@ -62,11 +62,6 @@
     <td><p><em>Switch Application</em></p>
     <p>Hold three fingers on the surface while tapping with the fourth.</p></td>
   </tr>
-  <tr xml:id="workspaceswitch">
-    <td><p><media type="image" src="figures/4-finger-drag.svg" width="256" its:translate="no"/></p></td>
-    <td><p><em>Switch Workspace</em></p>
-    <p>Drag up or down with four fingers touching the screen.</p></td>
-  </tr>
 </table>
 
 </section>

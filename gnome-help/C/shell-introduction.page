@@ -161,10 +161,6 @@ like "Application windows" by using if:when and if:else ? -->
       <p><link xref="shell-apps-open">Learn more about starting
       applications.</link></p>
     </item>
-    <item>
-      <p><link xref="shell-windows">Learn more about windows and
-      workspaces.</link></p>
-    </item>
   </list>
 
 </section>
