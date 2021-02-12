@@ -28,7 +28,7 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>Display your appointments in the calendar area in the taskbar area.</desc>
+    <desc>Display your appointments in the calendar area in the taskbar.</desc>
   </info>
 
  <title>Calendar appointments</title>

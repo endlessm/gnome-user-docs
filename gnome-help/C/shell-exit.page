@@ -71,9 +71,8 @@
   your applications will continue running, and everything will be where you
   left it when you log back in.</p>
 
-  <p>To <gui>Log Out</gui> or <gui>Switch User</gui>, click the
-  <link xref="shell-introduction#usermenu">user menu</link> on the right
-  side of the   taskbar, click your name and then choose the correct option.</p>
+  <p>To <gui>Log Out</gui>, click the user menu on the right side of the taskbar,
+  expand <gui>Power Off / Log Out</gui>, and select <gui>Log Out</gui>.</p>
 
   <note if:test="!platform:gnome-classic">
     <p>The <gui>Log Out</gui> and <gui>Switch User</gui> entries only appear in
