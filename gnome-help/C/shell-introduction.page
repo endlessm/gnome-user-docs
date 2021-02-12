@@ -85,7 +85,7 @@
   <p>The taskbar provides access to your windows and applications, your
   calendar and appointments, and
   <link xref="status-icons">system properties</link> like sound, networking,
-  and power. In the user menu in the taskbar, you can change the volume or
+  and power. In the system menu in the taskbar, you can change the volume or
   screen brightness, edit your <gui>Wi-Fi</gui> connection details, check your
   battery status, log out or switch users, and turn off your computer.</p>
 
@@ -297,7 +297,7 @@ messages will be presented, such as when your battery is critically low.</p>
   completely to give somebody else access to the computer, or you can
   suspend or power off the computer from the menu. If you have a screen 
   that supports vertical or horizontal rotation, you can quickly rotate the 
-  screen from the user menu. If your screen does not support rotation, 
+  screen from the system menu. If your screen does not support rotation,
   you will not see the button.</p>
 
   <list style="compact">
