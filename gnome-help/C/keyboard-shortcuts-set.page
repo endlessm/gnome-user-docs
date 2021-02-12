@@ -129,14 +129,6 @@
 	<td><p>Disabled</p></td>
   </tr>
   <tr>
-	<td><p>Move to workspace above</p></td>
-	<td><p><keyseq><key>Super</key><key>Page Up</key></keyseq></p></td>
-  </tr>
-  <tr>
-	<td><p>Move to workspace below</p></td>
-	<td><p><keyseq><key>Super</key><key>Page Down</key></keyseq></p></td>
-  </tr>
-  <tr>
 	<td><p>Move window one monitor down</p></td>
 	<td><p><keyseq><key>Shift</key><key xref="keyboard-key-super">Super</key><key>&#8595;</key></keyseq></p></td>
   </tr>
@@ -153,38 +145,6 @@
 	<td><p><keyseq><key>Shift</key><key>Super</key><key>&#8593;</key></keyseq></p></td>
   </tr>
   <tr>
-	<td><p>Move window one workspace down</p></td>
-	<td><p><keyseq><key>Shift</key><key>Super</key><key>Page Down</key></keyseq>
-  </p></td>
-  </tr>
-  <tr>
-	<td><p>Move window one workspace up</p></td>
-	<td><p><keyseq><key>Shift</key><key>Super</key>
-  <key>Page Up</key></keyseq></p></td>
-  </tr>
-  <tr>
-	<td><p>Move window to last workspace</p></td>
-	<td><p><keyseq><key>Shift</key><key>Super</key><key>End</key></keyseq>
-  </p></td>
-  </tr>
-  <tr>
-	<td><p>Move window to workspace 1</p></td>
-	<td><p><keyseq><key>Shift</key><key>Super</key><key>Home</key></keyseq>
-  </p></td>
-  </tr>
-  <tr>
-	<td><p>Move window to workspace 2</p></td>
-	<td><p>Disabled</p></td>
-  </tr>
-  <tr>
-	<td><p>Move window to workspace 3</p></td>
-	<td><p>Disabled</p></td>
-  </tr>
-  <tr>
-	<td><p>Move window to workspace 4</p></td>
-	<td><p>Disabled</p></td>
-  </tr>
-  <tr>
 	<td><p>Switch applications</p></td>
 	<td><p><keyseq><key>Super</key><key>Tab</key></keyseq></p></td>
   </tr>
@@ -195,26 +155,6 @@
   <tr>
 	<td><p>Switch system controls directly</p></td>
 	<td><p><keyseq><key>Ctrl</key><key>Alt</key><key>Esc</key></keyseq></p></td>
-  </tr>
-  <tr>
-	<td><p>Switch to last workspace</p></td>
-	<td><p><keyseq><key>Super</key><key>End</key></keyseq></p></td>
-  </tr>
-  <tr>
-	<td><p>Switch to workspace 1</p></td>
-	<td><p><keyseq><key>Super</key><key>Home</key></keyseq></p></td>
-  </tr>
-  <tr>
-	<td><p>Switch to workspace 2</p></td>
-	<td><p>Disabled</p></td>
-  </tr>
-  <tr>
-	<td><p>Switch to workspace 3</p></td>
-	<td><p>Disabled</p></td>
-  </tr>
-  <tr>
-	<td><p>Switch to workspace 4</p></td>
-	<td><p>Disabled</p></td>
   </tr>
   <tr>
         <td><p>Switch windows</p></td>
@@ -460,10 +400,6 @@
   <tr>
 	<td><p>Toggle maximization state</p></td>
 	<td><p><keyseq><key>Alt</key><key>F10</key></keyseq></p></td>
-  </tr>
-  <tr>
-	<td><p>Toggle window on all workspaces or one</p></td>
-	<td><p>Disabled</p></td>
   </tr>
   <tr>
         <td><p>View split on left</p></td>
