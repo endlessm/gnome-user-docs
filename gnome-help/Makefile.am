@@ -80,6 +80,7 @@ HELP_MEDIA = \
 	figures/net-wired-ethernet-diagram.svg \
 	figures/preferences-desktop-accessibility-symbolic.svg \
 	figures/printing-select.png \
+	figures/right-edge-drag-up.svg \
 	figures/rotation-allowed-symbolic.svg \
 	figures/rotation-locked-symbolic.svg \
 	figures/shell-activities-dash.png \

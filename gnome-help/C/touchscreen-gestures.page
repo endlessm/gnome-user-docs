@@ -62,6 +62,20 @@
     <td><p><em>Bring up the on-screen keyboard</em></p>
     <p>On a touchscreen, drag up from the bottom edge to bring up the
     <link xref="keyboard-osk">on-screen keyboard</link>, if the on-screen keyboard is enabled.</p></td>
+  <tr xml:id="notifications">
+    <td><p><media type="image" src="figures/right-edge-drag-up.svg" width="256" its:translate="no"/></p></td>
+    <td><p><em>Bring up the notifications list</em></p>
+    <p>Slide up from the bottom screen edge, where the clock is located.</p></td>
+  </tr>
+  <tr xml:id="usermenu">
+    <td><p><media type="image" src="figures/right-edge-drag-up.svg" width="256" its:translate="no"/></p></td>
+    <td><p><em>Bring up the user menu</em></p>
+    <p>Slide up from the bottom screen edge, where the user menu is located.</p></td>
+  </tr>
+  <tr xml:id="systemmenu">
+    <td><p><media type="image" src="figures/right-edge-drag-up.svg" width="256" its:translate="no"/></p></td>
+    <td><p><em>Bring up the system menu</em></p>
+    <p>Slide up from the bottom screen edge, where the system menu is located.</p></td>
   </tr>
 </table>
 
