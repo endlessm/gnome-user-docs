@@ -48,7 +48,7 @@ information on navigating user interfaces with only the keyboard.</p>
       <keyseq><key>Alt</key><key>F1</key></keyseq> or the</p>
       <p><key xref="keyboard-key-super">Super</key> key
     </p></td>
-    <td><p>Switch between the <gui>Desktop</gui> and desktop. In
+    <td><p>Switch between the <gui>Desktop</gui> and running applications. In
     the desktop, start typing to instantly search your applications, contacts,
     and documents.</p></td>
   </tr>
