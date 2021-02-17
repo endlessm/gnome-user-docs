@@ -97,6 +97,7 @@ HELP_MEDIA = \
 	figures/preferences-desktop-accessibility-symbolic.svg \
 	figures/printing-select.png \
 	figures/right-edge-drag-down.svg \
+	figures/right-edge-drag-up.svg \
 	figures/rotation-allowed-symbolic.svg \
 	figures/rotation-locked-symbolic.svg \
 	figures/shell-activities-dash.png \
