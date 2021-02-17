@@ -46,7 +46,7 @@
     Internet stick to a USB port on your computer.</p>
     </item>
     <item>
-    <p>Open the <gui xref="shell-introduction#usermenu">user menu</gui> from the right
+    <p>Open the <gui xref="shell-introduction#systemmenu">system menu</gui> from the right
     side of the taskbar.</p>
   </item>
   <item>
@@ -55,7 +55,7 @@
       Mobile Broadband Off</gui>. The <gui>Mobile Broadband</gui> section of
       the menu will expand.</p>
       <note>
-        <p>If <gui>Mobile Broadband</gui> does not appear in the user menu,
+        <p>If <gui>Mobile Broadband</gui> does not appear in the system menu,
         ensure that your device is not set to connect as Mass Storage.</p>
       </note>
     </item>
