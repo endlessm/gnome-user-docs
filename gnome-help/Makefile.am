@@ -39,6 +39,7 @@ HELP_MEDIA = \
 	figures/edge-drag-up.svg \
 	figures/emblem-system-symbolic.svg \
 	figures/emoji-flags-symbolic.svg \
+	figures/endless.svg \
 	figures/endless-desktop.png \
 	figures/gesture-drag.png \
 	figures/gesture-hold.png \
