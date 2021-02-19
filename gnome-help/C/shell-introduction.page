@@ -108,7 +108,7 @@ like "Application windows" by using if:when and if:else ? -->
   <key xref="keyboard-key-super">Super</key> key on your keyboard.</p>
 
   <p if:test="platform:endless">To access your windows and applications,
-  click the Endless OS logo button at the bottom left corner of the screen.</p>
+  click the <gui>Endless button</gui> at the bottom left corner of the screen.</p>
 
   <media type="image" its:translate="no" src="figures/shell-activities-dash.png" height="65" style="floatend floatright" if:test="!target:mobile, !platform:gnome-classic">
     <p>Activities button and Dash</p>
@@ -147,7 +147,7 @@ like "Application windows" by using if:when and if:else ? -->
   you will initially be in the windows overview. This shows you live thumbnails of all 
   the windows on the current workspace.</p>
 
-  <p if:test="platform:endless">Clicking the Endless logo button allows you to toggle between
+  <p if:test="platform:endless">Clicking the <gui>Endless button</gui> allows you to toggle between
   the desktop and the running applications.</p>
 
   <media type="image" src="figures/shell-bottom-taskbar-favorites-endless.png" heigth="50" if:test="!target:mobile, !platform:gnome-classic">
@@ -162,7 +162,7 @@ like "Application windows" by using if:when and if:else ? -->
   Your favorite applications stay in the dash even when they’re not running, 
   so you can access them quickly.</p>
 
-  <p if:test="platform:endless">Click the Endless OS Logo button at the bottom left corner
+  <p if:test="platform:endless">Click the <gui>Endless button</gui> at the bottom left corner
   of the screen or press the <key xref="keyboard-key-super">Super</key> key to display the desktop. 
   This shows you all the applications installed on your computer. Click any application to run it. 
   You can add the application to your favorite list by right-clicking on the application.
