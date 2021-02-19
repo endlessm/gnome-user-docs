@@ -108,6 +108,10 @@
   <p>To lock your screen, click the user menu on the right side of the
   taskbar and select <gui>Lock</gui> from the menu.</p>
 
+  <p>When your screen is locked, other users can log in to their own accounts
+  by clicking <gui>Log in as another user</gui> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
+
 </section>
 
 <section id="suspend">
