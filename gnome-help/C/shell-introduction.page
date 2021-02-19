@@ -39,8 +39,7 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>A visual overview of your desktop, the taskbar, and the
-    <gui>Desktop</gui>.</desc>
+    <desc>A visual overview of the <gui>Desktop</gui> and taskbar.</desc>
   </info>
 
   <title>Visual overview of the Endless OS Desktop</title>
@@ -87,7 +86,11 @@
   <link xref="status-icons">system properties</link> like sound, networking,
   and power. In the system menu in the taskbar, you can change the volume or
   screen brightness, edit your <gui>Wi-Fi</gui> connection details, check your
-  battery status, log out or switch users, and turn off your computer.</p>
+  battery status, and more.</p>
+
+  <p>If you have a screen that supports vertical or horizontal rotation, you can also
+  quickly rotate the screen from the system menu. If your screen does not support rotation,
+  you will not see the button.</p>
 
 <links type="section"/>
 
@@ -108,7 +111,7 @@ like "Application windows" by using if:when and if:else ? -->
   typing to search your applications, files, folders, and the web.</p>
 
   <p if:test="platform:endless">To access your windows and applications,
-  click the Endless OS logo button at the bottom left corner of the screen.</p>
+  click the <gui>Endless button</gui> at the bottom left corner of the screen.</p>
 
   <p if:test="platform:gnome-classic">On the left of the overview, you will find the <em>dash</em>. The dash
   shows you your favorite and running applications. Click any icon in the
@@ -134,7 +137,7 @@ like "Application windows" by using if:when and if:else ? -->
   you will initially be in the windows overview. This shows you live thumbnails of all 
   the windows on the current workspace.</p>
 
-  <p if:test="platform:endless">Clicking the Endless logo button allows you to toggle between
+  <p if:test="platform:endless">Clicking the <gui>Endless button</gui> allows you to toggle between
   the desktop and the running applications.</p>
 
   <media type="image" src="figures/shell-bottom-taskbar-favorites-endless.png" heigth="50" if:test="!target:mobile, !platform:gnome-classic">
@@ -149,7 +152,7 @@ like "Application windows" by using if:when and if:else ? -->
   Your favorite applications stay in the dash even when they’re not running, 
   so you can access them quickly.</p>
 
-  <p if:test="platform:endless">Click the Endless OS Logo button at the bottom left corner
+  <p if:test="platform:endless">Click the <gui>Endless button</gui> at the bottom left corner
   of the screen or press the <key xref="keyboard-key-super">Super</key> key to display the desktop. 
   This shows you all the applications installed on your computer. Click any application to run it. 
   You can add the application to your favorite list by right-clicking on the application.
@@ -276,16 +279,11 @@ messages will be presented, such as when your battery is critically low.</p>
 -->
 
   <p>When you leave your computer, you can lock your screen to prevent other
-  people from using it. You can also quickly switch users without logging out
-  completely to give somebody else access to the computer, or you can
-  suspend or power off the computer from the menu. If you have a screen 
-  that supports vertical or horizontal rotation, you can quickly rotate the 
-  screen from the system menu. If your screen does not support rotation,
-  you will not see the button.</p>
+  people from using it. You can also suspend or power off the computer from the menu.</p>
 
   <list style="compact">
     <item>
-      <p><link xref="shell-exit">Learn more about switching users, logging out, and turning off your computer.</link></p>
+      <p><link xref="shell-exit">Learn more about logging out, suspending and turning off your computer.</link></p>
     </item>
   </list>
 

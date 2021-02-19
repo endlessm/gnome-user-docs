@@ -46,17 +46,6 @@
   Sharing</gui> to allow others to access your desktop and set the security
   preferences.</p>
 
-  <note style="info package">
-    <p>You must have the <app>Vino</app> package installed for
-     <gui>Screen Sharing</gui> to be visible.</p>
-
-    <if:choose xmlns:if="http://projectmallard.org/if/1.0/">
-      <if:when test="action:install">
-        <p><link action="install:vino" style="button">Install Vino</link></p>
-      </if:when>
-    </if:choose>
-  </note>
-
   <steps>
     <item>
       <p>Go to the Desktop
