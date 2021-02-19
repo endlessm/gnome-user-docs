@@ -13,12 +13,12 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>How to determine which version of GNOME is running.</desc>
+    <desc>How to determine which version of Endless OS is running.</desc>
   </info>
 
-  <title>Determine which version of GNOME is running</title>
+  <title>Determine which version of Endless OS is running</title>
 
-  <p>You can determine the version of GNOME that is running on your system by
+  <p>You can determine the version of Endless OS that is running on your system by
   going to the <gui>About</gui> panel in <gui>Settings</gui>.</p>
 
   <steps>
@@ -28,7 +28,7 @@
     </item>
     <item>
       <p>A window appears showing information about your system, including your
-      distribution’s name and the GNOME version.</p>
+      device’s name and the Endless OS version.</p>
     </item>
   </steps>
 
