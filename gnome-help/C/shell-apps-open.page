@@ -30,7 +30,7 @@
 
   <title>Start applications</title>
 
-  <p if:test="!platform:gnome-classic">Click the <gui>Endless OS Button</gui>
+  <p if:test="!platform:gnome-classic">Click the <gui>Endless button</gui>
   at left corner of the taskbar to show the Desktop. This is where you
   can find all of your applications. You can also go to the Desktop by pressing
   the <key xref="keyboard-key-super">Super</key> key.</p>
