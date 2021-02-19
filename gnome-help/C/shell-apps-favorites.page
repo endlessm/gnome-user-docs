@@ -38,9 +38,10 @@
     <steps>
       <item>
         <p if:test="!platform:gnome-classic">Open the
-        Desktop by clicking <gui>Endless OS Button</gui> at the bottom left of the screen</p>
+        <gui xref="shell-introduction#overview">Activities</gui> overview by
+        clicking <gui>Activities</gui> at the top left of the screen</p>
         <p if:test="platform:gnome-classic">Click the
-        <gui xref="shell-introduction#desktop">Applications</gui> menu at the
+        <gui xref="shell-introduction#activities">Applications</gui> menu at the
         top left of the screen and choose the <gui>Activities Overview</gui> item
         from the menu.</p></item>
       <item>
@@ -55,7 +56,7 @@
     </steps>
   </p>
   <p if:test="platform:endless">
-    On the Endless OS Desktop right-click the application icon and select <gui>Add to
+    On the Desktop right-click the application icon and select <gui>Add to
     Favorites</gui>.
   </p>
 
@@ -64,7 +65,7 @@
 
   <note style="tip" if:test="platform:gnome-classic"><p>Favorite applications
     also appear in the <gui>Favorites</gui> section of the
-    <gui xref="shell-introduction#desktop">Applications</gui> menu.</p>
+    <gui xref="shell-introduction#activities">Applications</gui> menu.</p>
   </note>
 
 </page>
