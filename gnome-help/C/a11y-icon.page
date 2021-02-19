@@ -57,7 +57,7 @@
   <p>To access this menu using the keyboard rather than the mouse, press
   <keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq> to move the
   keyboard focus to the taskbar. A blue line will appear underneath the
-  <gui>Endless</gui> button — this tells you which item on the taskbar is
+  <gui>Endless button</gui> — this tells you which item on the taskbar is
   selected. Use the arrow keys on the keyboard to move the white line under the
   accessibility menu icon and then press <key>Enter</key> to open it. You
   can use the up and down arrow keys to select items in the menu. Press
