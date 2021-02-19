@@ -8,7 +8,10 @@
 
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
 
-    <desc>Share your desktop, files, or media.</desc>
+    <desc>
+      <link xref="sharing-desktop">Desktop sharing</link>,
+      <link xref="files-share">Share files by email</link>,
+    </desc>
 
     <credit type="author">
       <name>Ekaterina Gerasimova</name>

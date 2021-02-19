@@ -402,7 +402,6 @@ HELP_FILES = \
 	sharing-bluetooth.page \
 	sharing-desktop.page \
 	sharing-displayname.page \
-	sharing-media.page \
 	sharing-personal.page \
 	shell-apps-favorites.page \
 	shell-apps-open.page \
