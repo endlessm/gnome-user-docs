@@ -39,8 +39,7 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>A visual overview of your desktop, the taskbar, and the
-    <gui>Desktop</gui>.</desc>
+    <desc>A visual overview of the <gui>Desktop</gui> and taskbar.</desc>
   </info>
 
   <title>Visual overview of the Endless OS Desktop</title>
