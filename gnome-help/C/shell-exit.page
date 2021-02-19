@@ -74,12 +74,17 @@
   <p>To <gui>Log Out</gui>, click the user menu on the right side of the taskbar,
   expand <gui>Power Off / Log Out</gui>, and select <gui>Log Out</gui>.</p>
 
-  <note if:test="!platform:gnome-classic">
+  <note if:test="!platform:gnome-classic !platform:endless">
     <p>The <gui>Log Out</gui> and <gui>Switch User</gui> entries only appear in
     the menu if you have more than one user account on your system.</p>
   </note>
 
   <note if:test="platform:gnome-classic">
+    <p>The <gui>Switch User</gui> entry only appears in the menu if you have
+    more than one user account on your system.</p>
+  </note>
+
+  <note if:test="platform:endless">
     <p>The <gui>Switch User</gui> entry only appears in the menu if you have
     more than one user account on your system.</p>
   </note>
