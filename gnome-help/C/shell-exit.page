@@ -47,12 +47,12 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>Learn how to leave your user account, by logging out, powering
-    off, and so on.</desc>
+    <desc>Learn how to leave your user account, by logging out, switching
+    users, and so on.</desc>
     <!-- Should this be a guide which links to other topics? -->
   </info>
 
-  <title>Log out, suspend or power off</title>
+  <title>Log out, power off or switch users</title>
 
 <comment>
   <cite date="2012-02-19">shaunm</cite>
@@ -64,12 +64,17 @@
   it (to save power), or leave it powered on and log out.</p>
 
 <section id="logout">
-  <title>Log out</title>
+  <title>Log out or switch users</title>
 
-  <p>To let other users use your computer, you need to log out.</p>
+  <p>To let other users use your computer, you can either log out, or leave
+  yourself logged in and just switch users. If you switch users, all of
+  your applications will continue running, and everything will be where you
+  left it when you log back in.</p>
 
-  <p>To <gui>Log Out</gui>, click the user menu on the right side of the taskbar,
-  expand <gui>Power Off / Log Out</gui>, and select <gui>Log Out</gui>.</p>
+  <p>To <gui>Log Out</gui> or <gui>Switch User</gui>, click the
+  <link xref="shell-introduction#usermenu">user menu</link> on the right
+  side of the taskbar, expand <gui>Power Off / Log Out</gui>, and then
+  choose the correct option.</p>
 
   <note if:test="!platform:gnome-classic !platform:endless">
     <p>The <gui>Log Out</gui> and <gui>Switch User</gui> entries only appear in
@@ -77,6 +82,11 @@
   </note>
 
   <note if:test="platform:gnome-classic">
+    <p>The <gui>Switch User</gui> entry only appears in the menu if you have
+    more than one user account on your system.</p>
+  </note>
+
+  <note if:test="platform:endless">
     <p>The <gui>Switch User</gui> entry only appears in the menu if you have
     more than one user account on your system.</p>
   </note>
@@ -99,6 +109,10 @@
 
   <p>To lock your screen, click the user menu on the right side of the
   taskbar and select <gui>Lock</gui> from the menu.</p>
+
+  <p>When your screen is locked, other users can log in to their own accounts
+  by clicking <gui>Log in as another user</gui> at the bottom right of the login
+  screen. You can switch back to your desktop when they are finished.</p>
 
 </section>
 

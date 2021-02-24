@@ -42,7 +42,9 @@
   <key>Esc</key> or <key>Enter</key>.
   This will reveal the login screen, where you can enter your password to
   unlock. Alternatively, just start typing your password and the login screen
-  will be automatically shown as you type.</p>
+  will be automatically shown as you type. You can also switch users at the
+  bottom right of the login screen if your system is configured for more than
+  one.</p>
 
   <p>To hide notifications from the lock screen, see
   <link xref="shell-notifications#lock-screen-notifications"/>.</p>
