@@ -30,7 +30,7 @@
 <section id="mute">
   <title>Make sure that the sound is not muted</title>
 
-  <p>Open the <gui xref="shell-introduction#systemmenu">system menu</gui> and make sure that
+  <p>Open the <gui xref="shell-introduction#usermenu">user menu</gui> and make sure that
   the sound is not muted or turned down.</p>
 
   <p>Some laptops have mute switches or keys on their keyboards — try pressing

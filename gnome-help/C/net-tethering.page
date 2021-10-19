@@ -40,7 +40,7 @@
     </item>
     <item>
     <p>When the setting is activated on the phone, the connection will show up
-    as <gui>Ethernet Connected</gui> in the system menu and
+    as <gui>Ethernet Connected</gui> in the user menu and
     <gui>USB ethernet</gui> in the network panel.</p>
     </item>
   </steps>
