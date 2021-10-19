@@ -26,7 +26,7 @@
   <title>Set default favorite applications</title>
 
   <p>Favorite applications are those visible on the GNOME Shell
-  <link href="help:gnome-help/shell-introduction#activities">dash</link>.
+  <link href="help:gnome-help/shell-introduction#activities">taskbar</link>.
   You can use <sys its:translate="no">dconf</sys> to set favorite applications
   for one user, or to set the same favorite applications
   for all users. For both cases, you must first edit the

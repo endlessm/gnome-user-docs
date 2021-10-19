@@ -23,7 +23,7 @@
 
   <p>Like other desktops, the system uses windows to display your running
   applications. Using both the <gui xref="shell-introduction#desktop">Desktop</gui>
-  and the <em>dash</em>, you can launch new applications and control active windows.</p>
+  and the <em>taskbar</em>, you can launch new applications and control active windows.</p>
 
   <comment>
     <cite date="2014-09-22">David King</cite>

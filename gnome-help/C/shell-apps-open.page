@@ -63,7 +63,7 @@ icon to choose a window to focus or get new window. Mention middle-click?</p>
       of icons at the bottom of the <gui>Desktop</gui>.
       Click one of these to start the corresponding application.</p>
       <p>If you have applications that you use very frequently, you can
-      <link xref="shell-apps-favorites">add them to the dash</link>
+      <link xref="shell-apps-favorites">add them to the taskbar</link>
       yourself.</p>
     </item>
     <item>
