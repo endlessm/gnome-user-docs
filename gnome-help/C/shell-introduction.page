@@ -171,11 +171,21 @@ like "Application windows" by using if:when and if:else ? -->
   You can add the application to your favorite list by right-clicking on the application.
   Your favorite applications stay in the taskbar even when they’re not running, 
   so you can access them quickly.</p>
+
+  <p if:test="platform:endless">There are multiple pages of applications on the
+  desktop. Click the right and left arrows by the icon grid to switch between them, or use your
+  mouse’s scroll wheel. The dot indicator below the icon grid shows which page is currently in view.</p>
   
+  <p if:test="platform:endless">You can also switch between pages of applications by
+  swiping left and right with two fingers.</p>
+
   <list style="compact">
     <item>
       <p><link xref="shell-apps-open">Learn more about starting
       applications.</link></p>
+    </item>
+    <item>
+      <p><link xref="touchscreen-gestures">Learn more about touchscreen gestures.</link></p>
     </item>
   </list>
 
