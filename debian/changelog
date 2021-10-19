@@ -1,3 +1,10 @@
+gnome-user-docs (3.38.8-1endless0) eos; urgency=medium
+
+  * New upstream release
+  * Rebase downstream patches (T32547)
+
+ -- Philip Withnall <pwithnall@endlessos.org>  Tue, 19 Oct 2021 15:48:00 +0100
+
 gnome-user-docs (3.38.2-1endless1) unstable; urgency=medium
 
   * debian/rules: Do not replace "install:" links with "apt:" links
