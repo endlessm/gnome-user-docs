@@ -61,7 +61,7 @@
 
   <note style = "tip">
     <p>You can turn off your Wi-Fi connection from the
-    <gui xref="shell-introduction#systemmenu">system menu</gui> by clicking on 
+    <gui xref="shell-introduction#usermenu">user menu</gui> by clicking on 
     the connection name and choosing <gui>Turn Off</gui>.</p>
   </note>
 
