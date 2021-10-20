@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+
+[gnome-user-docs.app]
+source_file = gnome-help/gnome-help.pot
+source_lang = en
+file_filter = gnome-help/<lang>/<lang>.po
+type = PO
+
