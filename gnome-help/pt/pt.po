@@ -194,10 +194,10 @@ msgstr ""
 #: C/net-findip.page:51 C/net-findip.page:80 C/net-manual.page:41 C/sharing-desktop.page:62
 #: C/sharing-desktop.page:154 C/shell-notifications.page:90 C/shell-notifications.page:126 C/wacom-stylus.page:36
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Settings</"
+"Go to the Desktop and start typing <gui>Settings</"
 "gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a escrever "
+"Vá para a Área de Trabalho e comece a escrever "
 "<gui>Definições</gui>."
 
 #. (itstool) path: item/p
@@ -236,11 +236,11 @@ msgstr "Ative e desative rapidamente as teclas de repercussão"
 #: C/a11y-bouncekeys.page:68
 msgid ""
 "You can turn bounce keys on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on the "
-"top bar and selecting <gui>Bounce Keys</gui>. The accessibility icon is visible when one or more settings have "
+"taskbar and selecting <gui>Bounce Keys</gui>. The accessibility icon is visible when one or more settings have "
 "been enabled from the <gui>Accessibility</gui> panel."
 msgstr ""
 "Pode ativar e desativar as teclas de repercussão ao clicar no <link xref=\"a11y-icon\">ícone de "
-"acessibilidade</link> na barra superior e selecionando <gui>Teclas de repercussão</gui>. O ícone de "
+"acessibilidade</link> na barra de tarefas e selecionando <gui>Teclas de repercussão</gui>. O ícone de "
 "acessibilidade fica visível quando uma ou mais definições de <gui>Acessibilidade</gui> forem ativadas."
 
 #. (itstool) path: page/p
@@ -315,10 +315,10 @@ msgstr ""
 #: C/a11y-mag.page:42 C/a11y-right-click.page:48 C/a11y-screen-reader.page:47 C/a11y-visualalert.page:48
 #: C/mouse-doubleclick.page:48 C/mouse-mousekeys.page:48
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing "
+"Go to the Desktop and start typing "
 "<gui>Accessibility</gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+"Vá para a Área de Trabalho e comece a digitar "
 "<gui>Acessibilidade</gui>."
 
 #. (itstool) path: item/p
@@ -341,10 +341,10 @@ msgstr "Ative e desative rapidamente o alto contraste"
 #: C/a11y-contrast.page:58
 msgid ""
 "You can turn high contrast on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on "
-"the top bar and selecting <gui>High Contrast</gui>."
+"the taskbar and selecting <gui>High Contrast</gui>."
 msgstr ""
 "Você pode ativar e desativar rapidamente o alto contraste clicando no <link xref=\"a11y-icon\">ícone de "
-"acessibilidade</link> na barra superior e selecionando <gui>Alto contraste</gui>."
+"acessibilidade</link> na barra de tarefas e selecionando <gui>Alto contraste</gui>."
 
 #. (itstool) path: info/desc
 #: C/a11y-dwellclick.page:36
@@ -467,10 +467,10 @@ msgstr "Na seção <gui>Visão</gui>, alterne <gui>Texto grande</gui> para ligad
 #: C/a11y-font-size.page:53
 msgid ""
 "Alternatively, you can quickly change the text size by clicking the <link xref=\"a11y-icon\">accessibility "
-"icon</link> on the top bar and selecting <gui>Large Text</gui>."
+"icon</link> on the taskbar and selecting <gui>Large Text</gui>."
 msgstr ""
 "Alternativamente, você pode rapidamente alterar o tamanho do texto clicando no <link xref=\"a11y-icon\">ícone "
-"de acessibilidade</link> na barra superior e selecionando <gui>Texto grande</gui>."
+"de acessibilidade</link> na barra de tarefas e selecionando <gui>Texto grande</gui>."
 
 #. (itstool) path: note/p
 #: C/a11y-font-size.page:58
@@ -493,8 +493,8 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/a11y-icon.page:21
-msgid "The accessibility menu is the icon on the top bar that looks like a person."
-msgstr "O menu de acessibilidade é o ícone na barra superior que se parece com uma pessoa."
+msgid "The accessibility menu is the icon on the taskbar that looks like a person."
+msgstr "O menu de acessibilidade é o ícone na barra de tarefas que se parece com uma pessoa."
 
 #. (itstool) path: page/title
 #: C/a11y-icon.page:25
@@ -505,15 +505,15 @@ msgstr "Localizando o menu de acessibilidade"
 #: C/a11y-icon.page:27
 msgid ""
 "The <em>accessibility menu</em> is where you can turn on some of the accessibility settings. You can find this "
-"menu by clicking the icon which looks like a person surrounded by a circle on the top bar."
+"menu by clicking the icon which looks like a person surrounded by a circle on the taskbar."
 msgstr ""
 "O <em>menu de acessibilidade</em> é onde você pode ativar algumas configurações de acessibilidade. Você pode "
-"localizar este menu clicando no ícone que se parece com uma pessoa rodeada por um círculo na barra superior."
+"localizar este menu clicando no ícone que se parece com uma pessoa rodeada por um círculo na barra de tarefas."
 
 #. (itstool) path: figure/desc
 #: C/a11y-icon.page:32
-msgid "The accessibility menu can be found on the top bar."
-msgstr "O menu de acessibilidade pode ser encontrado na barra superior."
+msgid "The accessibility menu can be found on the taskbar."
+msgstr "O menu de acessibilidade pode ser encontrado na barra de tarefas."
 
 #. (itstool) path: page/p
 #: C/a11y-icon.page:36
@@ -532,15 +532,15 @@ msgstr "Alterne <gui>Sempre mostrar o menu de acessibilidade</gui> para ligado."
 #: C/a11y-icon.page:53
 msgid ""
 "To access this menu using the keyboard rather than the mouse, press <keyseq><key>Ctrl</key><key>Alt</"
-"key><key>Tab</key></keyseq> to move the keyboard focus to the top bar. A white line will appear underneath the "
-"<gui>Activities</gui> button — this tells you which item on the top bar is selected. Use the arrow keys on the "
+"key><key>Tab</key></keyseq> to move the keyboard focus to the taskbar. A white line will appear underneath the "
+"<gui>Activities</gui> button — this tells you which item on the taskbar is selected. Use the arrow keys on the "
 "keyboard to move the white line under the accessibility menu icon and then press <key>Enter</key> to open it. "
 "You can use the up and down arrow keys to select items in the menu. Press <key>Enter</key> to toggle the "
 "selected item."
 msgstr ""
 "Para acessar este menu usando o teclado em vez do mouse, pressione <keyseq><key>Ctrl</key><key>Alt</"
-"key><key>Tab</key></keyseq> para mover o foco para a barra superior. Uma linha branca aparecerá embaixo do "
-"botão <gui>Atividades</gui> — isso indica qual item na barra superior está selecionado. Use as setas do "
+"key><key>Tab</key></keyseq> para mover o foco para a barra de tarefas. Uma linha branca aparecerá embaixo do "
+"botão <gui>Atividades</gui> — isso indica qual item na barra de tarefas está selecionado. Use as setas do "
 "teclado para movimentar a linha branca até o ícone de menu de acessibilidade e, então, pressione <key>Enter</"
 "key> para abri-lo. Você pode usar as setas cima e baixo para selecionar itens no menu. Pressione <key>Enter</"
 "key> para alternar o estado do item selecionado."
@@ -589,10 +589,10 @@ msgstr ""
 #: C/a11y-mag.page:68
 msgid ""
 "You can quickly turn zoom on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on the "
-"top bar and selecting <gui>Zoom</gui>."
+"taskbar and selecting <gui>Zoom</gui>."
 msgstr ""
 "Você pode ativar e desativar rapidamente o ampliador clicando no <link xref=\"a11y-icon\">ícone de "
-"acessibilidade</link> na barra superior e selecionando <gui>Ampliador</gui>."
+"acessibilidade</link> na barra de tarefas e selecionando <gui>Ampliador</gui>."
 
 #. (itstool) path: page/p
 #: C/a11y-mag.page:73
@@ -648,12 +648,12 @@ msgstr "Acessibilidade"
 #: C/a11y.page:36
 msgid ""
 "The system includes assistive technologies to support users with various impairments and special needs, and to "
-"interact with common assistive devices. An accessibility menu can be added to the top bar, giving easier "
+"interact with common assistive devices. An accessibility menu can be added to the taskbar, giving easier "
 "access to many of the accessibility features."
 msgstr ""
 "O sistema inclui tecnologias assistivas para dar suporte a usuários com variadas deficiências ou necessidades "
 "especiais, e para interagir com dispositivos assistivos comuns. Um menu de acessibilidade pode ser adicionado "
-"à barra superior, dando acesso mais fácil a muitas funcionalidades de acessibilidade."
+"à barra de tarefas, dando acesso mais fácil a muitas funcionalidades de acessibilidade."
 
 #. (itstool) path: section/title
 #: C/a11y.page:42
@@ -842,10 +842,10 @@ msgstr "Ative e desative rapidamente o leitor de tela"
 #: C/a11y-screen-reader.page:61
 msgid ""
 "You can turn Screen Reader on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</link> in "
-"the top bar and selecting <gui>Screen Reader</gui>."
+"the taskbar and selecting <gui>Screen Reader</gui>."
 msgstr ""
 "Você pode ativar e desativar rapidamente o leitor de tela clicando no <link xref=\"a11y-icon\">ícone de "
-"acessibilidade</link> na barra superior e selecionando <gui>Leitor de tela</gui>."
+"acessibilidade</link> na barra de tarefas e selecionando <gui>Leitor de tela</gui>."
 
 #. (itstool) path: info/desc
 #: C/a11y-slowkeys.page:36
@@ -894,11 +894,11 @@ msgstr ""
 #: C/a11y-slowkeys.page:75
 msgid ""
 "You can also turn slow keys on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on "
-"the top bar and selecting <gui>Slow Keys</gui>. The accessibility icon is visible when one or more settings "
+"the taskbar and selecting <gui>Slow Keys</gui>. The accessibility icon is visible when one or more settings "
 "have been enabled from the <gui>Accessibility</gui> panel."
 msgstr ""
 "Você pode ativar e desativar as teclas lentar clicando no <link xref=\"a11y-icon\">ícone de acessibilidade</"
-"link> na barra superior e selecionando <gui>Teclas lentas</gui>. O ícone de acessibilidade fica visível quando "
+"link> na barra de tarefas e selecionando <gui>Teclas lentas</gui>. O ícone de acessibilidade fica visível quando "
 "uma ou mais configurações de <gui>Acessibilidade</gui> foram habilitadas."
 
 #. (itstool) path: page/p
@@ -977,11 +977,11 @@ msgstr ""
 #: C/a11y-stickykeys.page:78
 msgid ""
 "You can also turn sticky keys on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</link> on "
-"the top bar and selecting <gui>Sticky Keys</gui>. The accessibility icon is visible when one or more settings "
+"the taskbar and selecting <gui>Sticky Keys</gui>. The accessibility icon is visible when one or more settings "
 "have been enabled from the <gui>Accessibility</gui> panel."
 msgstr ""
 "Você pode ativar ou desativar as teclas de aderência clicando no <link xref=\"a11y-icon\">ícone de "
-"acessibilidade</link> na barra superior e selecionando <gui>Teclas de aderência</gui>. O ícone de "
+"acessibilidade</link> na barra de tarefas e selecionando <gui>Teclas de aderência</gui>. O ícone de "
 "acessibilidade fica visível quando uma ou mais configurações de <gui>Acessibilidade</gui> foram habilitadas."
 
 #. (itstool) path: page/p
@@ -1076,10 +1076,10 @@ msgstr "Selecione se você deseja que a tela inteira ou apenas o título da jane
 #: C/a11y-visualalert.page:67
 msgid ""
 "You can quickly turn visual alerts on and off by clicking the <link xref=\"a11y-icon\">accessibility icon</"
-"link> on the top bar and selecting <gui>Visual Alerts</gui>."
+"link> on the taskbar and selecting <gui>Visual Alerts</gui>."
 msgstr ""
 "Você pode (des)ativar rapidamente os alertas visuais clicando no <link xref=\"a11y-icon\">ícone de "
-"acessibilidade</link> na barra superior e selecionando <gui>Alertas visuais</gui>."
+"acessibilidade</link> na barra de tarefas e selecionando <gui>Alertas visuais</gui>."
 
 #. (itstool) path: info/desc
 #: C/about-this-guide.page:8
@@ -1227,10 +1227,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/accounts-add.page:47 C/accounts-disable-service.page:38 C/accounts-remove.page:52
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Online "
+"Go to the Desktop and start typing <gui>Online "
 "Accounts</gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar <gui>Contas "
+"Vá para a Área de Trabalho e comece a digitar <gui>Contas "
 "on-line</gui>."
 
 #. (itstool) path: item/p
@@ -1262,10 +1262,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/accounts-add.page:66
 msgid ""
-"If you have entered your credentials correctly, you will be prompted to allow GNOME access to your online "
+"If you have entered your credentials correctly, you will be prompted to allow Endless OS access to your online "
 "account. Authorize access to continue."
 msgstr ""
-"Se você digitou suas credenciais corretamente, você será solicitado a permitir acesso do GNOME a sua conta on-"
+"Se você digitou suas credenciais corretamente, você será solicitado a permitir acesso do Endless OS a sua conta on-"
 "line. Autorize acesso para continuar."
 
 #. (itstool) path: item/p
@@ -1289,11 +1289,11 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/accounts-add.page:82
 msgid ""
-"Many online services provide an authorization token which GNOME stores instead of your password. If you remove "
+"Many online services provide an authorization token which Endless OS stores instead of your password. If you remove "
 "an account, you should also revoke that certificate in the online service. See <link xref=\"accounts-remove\"/"
 "> for more information."
 msgstr ""
-"Muitos serviços on-line fornecem um token de autorização, o que o GNOME armazena ao invés de sua senha. Se "
+"Muitos serviços on-line fornecem um token de autorização, o que o Endless OS armazena ao invés de sua senha. Se "
 "você remover uma conta, você também deveria revogar aquele certificado no serviço on-line. Veja <link xref="
 "\"accounts-remove\"/> para mais informação."
 
@@ -1417,13 +1417,13 @@ msgstr "Você pode remover uma conta on-line que você não deseja mais usar."
 #. (itstool) path: note/p
 #: C/accounts-remove.page:39
 msgid ""
-"Many online services provide an authorization token which GNOME stores instead of your password. If you remove "
+"Many online services provide an authorization token which Endless OS stores instead of your password. If you remove "
 "an account, you should also revoke that certificate in the online service. This will ensure that no other "
-"application or website can connect to that service using the authorization for GNOME."
+"application or website can connect to that service using the authorization for Endless OS."
 msgstr ""
-"Muitos serviços on-line fornecem um token de autorização, o que o GNOME armazena ao invés de sua senha. Se "
+"Muitos serviços on-line fornecem um token de autorização, o que o Endless OS armazena ao invés de sua senha. Se "
 "você remover uma conta, você também deveria revogar aquele certificado no serviço on-line. Isso garante que "
-"nenhum outro aplicativo ou site pode ligar-se àquele serviço usando a autorização do GNOME."
+"nenhum outro aplicativo ou site pode ligar-se àquele serviço usando a autorização do Endless OS."
 
 #. (itstool) path: note/p
 #: C/accounts-remove.page:45
@@ -2346,10 +2346,10 @@ msgstr ""
 #: C/bluetooth-connect-device.page:58 C/bluetooth-remove-connection.page:54 C/bluetooth-send-file.page:59
 #: C/bluetooth-turn-on-off.page:60 C/sharing-bluetooth.page:41
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing "
+"Go to the Desktop and start typing "
 "<gui>Bluetooth</gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+"Vá para a Área de Trabalho e comece a digitar "
 "<gui>Bluetooth</gui>."
 
 #. (itstool) path: item/p
@@ -2424,8 +2424,8 @@ msgstr "Feche o painel assim que tiver alterado as configurações."
 
 #. (itstool) path: media/p
 #: C/bluetooth-connect-device.page:103
-msgid "The Bluetooth icon on the top bar"
-msgstr "O ícone Bluetooth na barra superior"
+msgid "The Bluetooth icon on the taskbar"
+msgstr "O ícone Bluetooth na barra de tarefas"
 
 #. (itstool) path: page/p
 #: C/bluetooth-connect-device.page:105
@@ -2787,9 +2787,9 @@ msgstr "Para ligar ou desligar o Bluetooth:"
 #: C/bluetooth-turn-on-off.page:79 C/net-mobile.page:49 C/net-wireless-adhoc.page:52
 #: C/net-wireless-connect.page:37 C/net-wireless-hidden.page:40
 msgid ""
-"Open the <gui xref=\"shell-introduction#systemmenu\">system menu</gui> from the right side of the top bar."
+"Open the <gui xref=\"shell-introduction#systemmenu\">system menu</gui> from the right side of the taskbar."
 msgstr ""
-"Abra o <gui xref=\"shell-introduction#systemmenu\">menu do sistema</gui> no lado direito da barra superior."
+"Abra o <gui xref=\"shell-introduction#systemmenu\">menu do sistema</gui> no lado direito da barra de tarefas."
 
 #. (itstool) path: item/p
 #: C/bluetooth-turn-on-off.page:83
@@ -2904,8 +2904,8 @@ msgstr "Para ver seus compromissos:"
 
 #. (itstool) path: item/p
 #: C/clock-calendar.page:49
-msgid "Click on the clock on the top bar."
-msgstr "Clique no relógio na barra superior."
+msgid "Click on the clock on the taskbar."
+msgstr "Clique no relógio na barra de tarefas."
 
 #. (itstool) path: item/p
 #: C/clock-calendar.page:52
@@ -2964,9 +2964,9 @@ msgstr "Alterando a data e a hora"
 
 #. (itstool) path: page/p
 #: C/clock-set.page:33
-msgid "If the date and time displayed on the top bar are incorrect or in the wrong format, you can change them:"
+msgid "If the date and time displayed on the taskbar are incorrect or in the wrong format, you can change them:"
 msgstr ""
-"Se a data e a hora exibidas na barra superior estiver incorreta, ou em um formato errado, você pode alterá-las:"
+"Se a data e a hora exibidas na barra de tarefas estiver incorreta, ou em um formato errado, você pode alterá-las:"
 
 #. (itstool) path: item/p
 #: C/clock-set.page:45 C/clock-timezone.page:50
@@ -3075,8 +3075,8 @@ msgstr "Para adicionar um relógio mundial:"
 
 #. (itstool) path: item/p
 #: C/clock-world.page:39
-msgid "Click the clock on the top bar."
-msgstr "Clique no relógio na barra superior."
+msgid "Click the clock on the taskbar."
+msgstr "Clique no relógio na barra de tarefas."
 
 #. (itstool) path: item/p
 #: C/clock-world.page:42
@@ -4655,8 +4655,8 @@ msgstr "No panorama de <gui>Atividades</gui>, comece digitando o nome do contato
 
 #. (itstool) path: item/p
 #: C/contacts-search.page:41
-msgid "Matching contacts will appear in the overview instead of the usual list of applications."
-msgstr "O contato correspondente vai aparecer no panorama em vez da lista de aplicativos."
+msgid "Matching contacts will appear in the desktop instead of the usual list of applications."
+msgstr "O contato correspondente vai aparecer na Área de Trabalho em vez da lista de aplicativos."
 
 #. (itstool) path: item/p
 #: C/contacts-search.page:45
@@ -5634,10 +5634,10 @@ msgstr "Para definir o tempo de apagamento da tela:"
 #: C/display-blank.page:41 C/display-brightness.page:69 C/power-autobrightness.page:33
 #: C/power-autosuspend.page:33 C/power-status.page:31 C/power-whydim.page:51 C/power-wireless.page:32
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Power</"
+"Go to the Desktop and start typing <gui>Power</"
 "gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+"Vá para a Área de Trabalho e comece a digitar "
 "<gui>Energia</gui>."
 
 #. (itstool) path: item/p
@@ -5687,11 +5687,11 @@ msgstr ""
 #: C/display-brightness.page:53
 msgid ""
 "To change the brightness of your screen, click the <gui xref=\"shell-introduction#systemmenu\">system menu</"
-"gui> on the right side of the top bar and adjust the screen brightness slider to the value you want to use. "
+"gui> on the right side of the taskbar and adjust the screen brightness slider to the value you want to use. "
 "The change should take effect immediately."
 msgstr ""
 "Para alterar o brilho de sua tela, clique no ícone de <gui xref=\"shell-introduction#systemmenu\">sistema de "
-"menu</gui> no lado direito da barra superior e ajuste o controle deslizante de brilho da tela para usar o "
+"menu</gui> no lado direito da barra de tarefas e ajuste o controle deslizante de brilho da tela para usar o "
 "valor desejado. A alteração deve fazer efeito imediatamente."
 
 #. (itstool) path: note/p
@@ -5767,10 +5767,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:90 C/display-night-light.page:32 C/look-resolution.page:58
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Displays</"
+"Go to the Desktop and start typing <gui>Displays</"
 "gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar <gui>Telas</"
+"Vá para a Área de Trabalho e comece a digitar <gui>Telas</"
 "gui>."
 
 #. (itstool) path: item/p
@@ -5800,10 +5800,10 @@ msgstr "Clique em <gui>Tela primária</gui> para escolher sua tela primária."
 #. (itstool) path: note/p
 #: C/display-dual-monitors.page:108
 msgid ""
-"The primary display is the one with the <link xref=\"shell-introduction\">top bar</link>, and where the "
+"The primary display is the one with the <link xref=\"shell-introduction\">taskbar</link>, and where the "
 "<gui>Activities</gui> overview is shown."
 msgstr ""
-"A tela primária é aquela com a <link xref=\"shell-introduction\">barra superior</link> e onde o panorama de "
+"A tela primária é aquela com a <link xref=\"shell-introduction\">barra de tarefas</link> e onde o panorama de "
 "<gui>Atividades</gui> é mostrado."
 
 #. (itstool) path: item/p
@@ -5926,10 +5926,10 @@ msgstr "Use o controle deslizante para ajustar <gui>Temperatura de cor</gui> par
 #. (itstool) path: note/p
 #: C/display-night-light.page:52
 msgid ""
-"The <link xref=\"shell-introduction\">top bar</link> shows when <gui>Night Light</gui> is active. It can be "
+"The <link xref=\"shell-introduction\">taskbar</link> shows when <gui>Night Light</gui> is active. It can be "
 "temporarily disabled from the system menu."
 msgstr ""
-"A <link xref=\"shell-introduction\">barra superior</link> mostra quando a <gui>Luz noturna</gui> está ativa. "
+"A <link xref=\"shell-introduction\">barra de tarefas</link> mostra quando a <gui>Luz noturna</gui> está ativa. "
 "Ela pode ser desabilitada temporariamente a partir do menu do sistema."
 
 #. (itstool) path: credit/name
@@ -5972,10 +5972,10 @@ msgstr "Para decidir que aplicativos deveriam ser executados quando você pluga 
 #. (itstool) path: item/p
 #: C/files-autorun.page:53 C/net-default-email.page:41
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Details</"
+"Go to the Desktop and start typing <gui>Details</"
 "gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+"Vá para a Área de Trabalho e comece a digitar "
 "<gui>Detalhes</gui>."
 
 #. (itstool) path: item/p
@@ -6377,11 +6377,11 @@ msgstr "Abra o gerenciador de arquivos e vá para a pasta que contenha o arquivo
 #. (itstool) path: item/p
 #: C/files-copy.page:74
 msgid ""
-"Click <gui>Files</gui> in the top bar, select <gui>New Window</gui> (or press <keyseq><key>Ctrl</key><key>N</"
+"Click <gui>Files</gui> in the taskbar, select <gui>New Window</gui> (or press <keyseq><key>Ctrl</key><key>N</"
 "key></keyseq>) to open a second window. In the new window, navigate to the folder where you want to move or "
 "copy the file."
 msgstr ""
-"Clique em <gui>Arquivos</gui> na barra superior, selecione <gui>Nova janela</gui> (ou pressione "
+"Clique em <gui>Arquivos</gui> na barra de tarefas, selecione <gui>Nova janela</gui> (ou pressione "
 "<keyseq><key>Ctrl</key><key>N</key></keyseq>) para abrir uma segunda janela. Lá, navegue até a pasta para a "
 "qual você queira mover ou copiar o arquivo."
 
@@ -6930,10 +6930,10 @@ msgstr "Para restaurar um arquivo da lixeira:"
 #. (itstool) path: item/p
 #: C/files-recover.page:36
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <app>Files</"
+"Go to the Desktop and start typing <app>Files</"
 "app>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+"Vá para a Área de Trabalho e comece a digitar "
 "<app>Arquivos</app>."
 
 #. (itstool) path: item/p
@@ -7359,10 +7359,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/files-search.page:122
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Search</"
+"Go to the Desktop and start typing <gui>Search</"
 "gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+"Vá para a Área de Trabalho e comece a digitar "
 "<gui>Pesquisa</gui>."
 
 #. (itstool) path: item/p
@@ -7973,13 +7973,13 @@ msgstr "O que é GNOME Clássico?"
 msgid ""
 "<em>GNOME Classic</em> is a feature for users who prefer a more traditional desktop experience. While "
 "<em>GNOME Classic</em> is based on <em>GNOME 3</em> technologies, it provides a number of changes to the user "
-"interface, such as the <gui>Applications</gui> and <gui>Places</gui> menus on the top bar, and a window list "
+"interface, such as the <gui>Applications</gui> and <gui>Places</gui> menus on the taskbar, and a window list "
 "at the bottom of the screen."
 msgstr ""
 "O <em>GNOME Clássico</em> é um recurso para usuários que preferem uma experiência de ambiente mais "
 "tradicional. Enquanto o <em>GNOME Clássico</em> é baseado nas tecnologias do <em>GNOME 3</em>, ele fornece "
 "várias alterações na interface do usuário, tais como os menus <gui>Aplicativos</gui> e <gui>Locais</gui> na "
-"barra superior e uma lista de janelas na parte inferior da janela."
+"barra de tarefas e uma lista de janelas na parte inferior da janela."
 
 #. (itstool) path: when/p
 #: C/gnome-classic.page:39
@@ -7987,21 +7987,21 @@ msgid ""
 "<em>GNOME Classic</em> is a feature for users who prefer a more traditional desktop experience. While "
 "<em>GNOME Classic</em> is based on <em>GNOME 3</em> technologies, it provides a number of changes to the user "
 "interface, such as the <gui xref=\"shell-introduction#activities\">Applications</gui> and <gui>Places</gui> "
-"menus on the top bar, and a window list at the bottom of the screen."
+"menus on the taskbar, and a window list at the bottom of the screen."
 msgstr ""
 "O <em>GNOME Clássico</em> é um recurso para usuários que preferem uma experiência de ambiente mais "
 "tradicional. Enquanto o <em>GNOME Clássico</em> é baseado nas tecnologias do <em>GNOME 3</em>, ele fornece "
 "várias alterações na interface do usuário, tais como os menus <gui xref=\"shell-introduction#activities"
-"\">Aplicativos</gui> e <gui>Locais</gui> na barra superior e uma lista de janelas na parte inferior da janela."
+"\">Aplicativos</gui> e <gui>Locais</gui> na barra de tarefas e uma lista de janelas na parte inferior da janela."
 
 #. (itstool) path: page/p
 #: C/gnome-classic.page:48
 msgid ""
-"You can use the <gui>Applications</gui> menu on the top bar to launch applications. The <gui xref=\"shell-"
+"You can use the <gui>Applications</gui> menu on the taskbar to launch applications. The <gui xref=\"shell-"
 "introduction#activities\">Activities</gui> overview is available by selecting the <gui>Activities Overview</"
 "gui> item from the menu."
 msgstr ""
-"Você pode usar o menu <gui>Aplicativos</gui> na barra superior para iniciar aplicativos. O panorama de <gui "
+"Você pode usar o menu <gui>Aplicativos</gui> na barra de tarefas para iniciar aplicativos. O panorama de <gui "
 "xref=\"shell-introduction#activities\">Atividades</gui> está disponível ao selecionar o item <gui>Panorama de "
 "atividades</gui> no menu."
 
@@ -8064,7 +8064,7 @@ msgstr "Para alternar do <em>GNOME</em> para <em>GNOME Clássico</em>:"
 #. (itstool) path: item/p
 #: C/gnome-classic.page:82 C/gnome-classic.page:107
 msgid ""
-"Save any open work, and then log out. Click the system menu on the right side of the top bar, click your name "
+"Save any open work, and then log out. Click the system menu on the right side of the taskbar, click your name "
 "and then choose the right option."
 msgstr ""
 "Salve qualquer trabalho aberto e encerre sua sessão. Clique no menu do sistema no lado direito da barra "
@@ -8114,30 +8114,30 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/gnome-version.page:16
-msgid "How to determine which version of GNOME is running."
-msgstr "Como determinar qual versão do GNOME está sendo usada."
+msgid "How to determine which version of Endless OS is running."
+msgstr "Como determinar qual versão do Endless OS está sendo usada."
 
 #. (itstool) path: page/title
 #: C/gnome-version.page:19
-msgid "Determine which version of GNOME is running"
-msgstr "Determinando qual versão do GNOME está sendo usada"
+msgid "Determine which version of Endless OS is running"
+msgstr "Determinando qual versão do Endless OS está sendo usada"
 
 #. (itstool) path: page/p
 #: C/gnome-version.page:21
 msgid ""
-"You can determine the version of GNOME that is running on your system by going to the <gui>Details/About</gui> "
+"You can determine the version of Endless OS that is running on your system by going to the <gui>Details/About</gui> "
 "panel in <gui>Settings</gui>."
 msgstr ""
-"Você pode determinar a versão do GNOME em seu sistema indo no painel <gui>Detalhes/Sobre</gui> em "
+"Você pode determinar a versão do Endless OS em seu sistema indo no painel <gui>Detalhes/Sobre</gui> em "
 "<gui>Configurações</gui>."
 
 #. (itstool) path: item/p
 #: C/gnome-version.page:26
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>About</"
+"Go to the Desktop and start typing <gui>About</"
 "gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar <gui>Sobre</"
+"Vá para a Área de Trabalho e comece a digitar <gui>Sobre</"
 "gui>."
 
 #. (itstool) path: item/p
@@ -8152,7 +8152,7 @@ msgid ""
 "version."
 msgstr ""
 "Uma janela aparecerá mostrando informação sobre seu sistema, incluindo o nome da sua distribuição e a versão "
-"do GNOME."
+"do Endless OS."
 
 #. (itstool) path: info/desc
 #: C/hardware-auth.page:13
@@ -8204,12 +8204,12 @@ msgid ""
 "Open <app>Files</app> from the <gui xref=\"shell-introduction#activities\">Activities</gui> overview. Does the "
 "inserted card appear in the left sidebar? Sometimes the card appears in this list but is not mounted; click it "
 "once to mount. (If the sidebar is not visible, press <key>F9</key> or click <gui style=\"menu\">Files</gui> in "
-"the top bar and select the <gui style=\"menuitem\">Sidebar</gui>.)"
+"the taskbar and select the <gui style=\"menuitem\">Sidebar</gui>.)"
 msgstr ""
 "Abra <app>Arquivos</app> pelo panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui>. O "
 "cartão inserido aparece na barra lateral da esquerda? Algumas vezes, o cartão aparece nessa lista, mas não "
 "está montado; clique nele uma vez para montar. (Se a barra lateral não está visível, pressione <key>F9</key> "
-"ou clique em <gui style=\"menu\">Arquivos</gui> na barra superior e selecione o <gui style=\"menuitem\">Barra "
+"ou clique em <gui style=\"menu\">Arquivos</gui> na barra de tarefas e selecione o <gui style=\"menuitem\">Barra "
 "lateral</gui>.)"
 
 #. (itstool) path: item/p
@@ -8383,7 +8383,7 @@ msgid ""
 "on the GNOME IRC server from other GNOME users and developers."
 msgstr ""
 "IRC significa Internet Relay Chat. É um sistema de mensageiria multi-usuário em tempo real. Você pode obter "
-"ajuda ou conselho no servidor IRC do GNOME de outros usuários e desenvolvedores do GNOME."
+"ajuda ou conselho no servidor IRC do GNOME de outros usuários e desenvolvedores do Endless OS."
 
 #. (itstool) path: page/p
 #: C/help-irc.page:25
@@ -8763,13 +8763,13 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/keyboard-layouts.page:109
 msgid ""
-"The top bar will display a short identifier for the current layout, such as <gui>en</gui> for the standard "
+"The taskbar will display a short identifier for the current layout, such as <gui>en</gui> for the standard "
 "English layout. Click the layout indicator and select the layout you want to use from the menu. If the "
 "selected language has any extra settings, they will be shown below the list of available layouts. This gives "
 "you a quick overview of your settings. You can also open an image with the current keyboard layout for "
 "reference."
 msgstr ""
-"A barra superior vai exibir um pequeno identificador para a disposição atual, como <gui>en</gui> para a "
+"A barra de tarefas vai exibir um pequeno identificador para a disposição atual, como <gui>en</gui> para a "
 "disposição em inglês padrão. Clique no indicador de disposição e selecione a disposição que você desejar usar "
 "do menu. Se o idioma selecionado possui algumas definições extras, estas serão mostradas embaixo da lista de "
 "disposições disponíveis. Isso permite que você tenha uma visão geral das suas definições. Você também pode "
@@ -8974,8 +8974,8 @@ msgstr "<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>F10</key></key
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:124
-msgid "Open the application menu on the top bar."
-msgstr "Abre o aplicativo de menu na barra superior."
+msgid "Open the application menu on the taskbar."
+msgstr "Abre o aplicativo de menu na barra de tarefas."
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:127
@@ -10225,10 +10225,10 @@ msgstr "Para alterar a imagem usada como plano de fundo:"
 #. (itstool) path: item/p
 #: C/look-background.page:64
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing "
+"Go to the Desktop and start typing "
 "<gui>Background</gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar <gui>Plano "
+"Vá para a Área de Trabalho e comece a digitar <gui>Plano "
 "de fundo</gui>."
 
 #. (itstool) path: item/p
@@ -10652,10 +10652,10 @@ msgstr ""
 #: C/mouse-lefthanded.page:44 C/mouse-sensitivity.page:46 C/mouse-touchpad-click.page:53
 #: C/mouse-touchpad-click.page:112 C/mouse-touchpad-click.page:148
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Mouse "
+"Go to the Desktop and start typing <gui>Mouse "
 "&amp; Touchpad</gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar <gui>Mouse "
+"Vá para a Área de Trabalho e comece a digitar <gui>Mouse "
 "&amp; touchpad</gui>."
 
 #. (itstool) path: item/p
@@ -11709,7 +11709,7 @@ msgstr "Conectar a um servidor de arquivos"
 #. (itstool) path: item/p
 #: C/nautilus-connect.page:61
 msgid "In the file manager, click <gui>Other Locations</gui> in the sidebar."
-msgstr "No gerenciador de arquivos, clique em <gui>Outros locais</gui> na barra superior."
+msgstr "No gerenciador de arquivos, clique em <gui>Outros locais</gui> na barra de tarefas."
 
 #. (itstool) path: item/p
 #: C/nautilus-connect.page:64
@@ -12846,10 +12846,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-default-browser.page:41
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <input>Default "
+"Go to the Desktop and start typing <input>Default "
 "Applications</input>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+"Vá para a Área de Trabalho e comece a digitar "
 "<gui>Aplicativos padrão</gui>."
 
 #. (itstool) path: item/p
@@ -13302,10 +13302,10 @@ msgstr "Para dar a seu computador um endereço IP fixo (ou estático):"
 #: C/net-fixed-ip-address.page:49 C/net-macaddress.page:49 C/net-othersconnect.page:46 C/net-othersedit.page:66
 #: C/net-proxy.page:64 C/net-vpn-connect.page:62
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Network</"
+"Go to the Desktop and start typing <gui>Network</"
 "gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar <gui>Rede</"
+"Vá para a Área de Trabalho e comece a digitar <gui>Rede</"
 "gui>."
 
 #. (itstool) path: item/p
@@ -13497,11 +13497,11 @@ msgstr "Para uma conexão <gui>Wi-Fi</gui>, o botão <_:media-1/> estará locali
 #: C/net-manual.page:83
 msgid ""
 "Click <gui>Apply</gui>. If you are not connected to the network, open the <gui xref=\"shell-"
-"introduction#systemmenu\">system menu</gui> from the right side of the top bar and connect. Test the network "
+"introduction#systemmenu\">system menu</gui> from the right side of the taskbar and connect. Test the network "
 "settings by trying to visit a website or look at shared files on the network, for example."
 msgstr ""
 "Clique em <gui>Aplicar</gui>. Se você não está conectado à rede, abra o <gui xref=\"shell-"
-"introduction#systemmenu\">menu do sistema</gui> no lado direito da barra superior e conecte-se. Teste as "
+"introduction#systemmenu\">menu do sistema</gui> no lado direito da barra de tarefas e conecte-se. Teste as "
 "configurações de rede tentando visitar um site ou procurar por arquivos de compartilhados na rede, por exemplo."
 
 #. (itstool) path: info/desc
@@ -13993,10 +13993,10 @@ msgstr "<em style=\"strong\">Sinal fraco de conexão sem fio</em>"
 #. (itstool) path: item/p
 #: C/net-slow.page:60
 msgid ""
-"If you are connected to the internet by wireless (Wi-Fi), check the network icon on the top bar to see if you "
+"If you are connected to the internet by wireless (Wi-Fi), check the network icon on the taskbar to see if you "
 "have good wireless signal. If not, the internet may be slow because you don’t have a very strong signal."
 msgstr ""
-"Se você está conectado à Internet por meio de sem fio (Wi-Fi), verifique se o ícone da rede na barra superior "
+"Se você está conectado à Internet por meio de sem fio (Wi-Fi), verifique se o ícone da rede na barra de tarefas "
 "para ver se você tem um bom sinal de rede sem fio. Se não, a internet pode ficar lenta porque você não tem um "
 "sinal muito forte."
 
@@ -14116,12 +14116,12 @@ msgstr ""
 #: C/net-vpn-connect.page:83
 msgid ""
 "When you have finished setting up the VPN, open the <gui xref=\"shell-introduction#systemmenu\">system menu</"
-"gui> from the right side of the top bar, click <gui>VPN off</gui> and select <gui>Connect</gui>. You may need "
+"gui> from the right side of the taskbar, click <gui>VPN off</gui> and select <gui>Connect</gui>. You may need "
 "to enter a password for the connection before it is established. Once the connection is made, you will see a "
-"lock shaped icon in the top bar."
+"lock shaped icon in the taskbar."
 msgstr ""
 "Quando você tiver finalizado a configuração da VPN, abra o <gui xref=\"shell-introduction#systemmenu\">menu do "
-"sistema</gui> no lado direito da barra superior, clique em <gui>VPN desligada</gui> e selecione <gui>Conectar</"
+"sistema</gui> no lado direito da barra de tarefas, clique em <gui>VPN desligada</gui> e selecione <gui>Conectar</"
 "gui>. Você pode precisar informar uma senha para a conexão antes de estabelecê-la. Assim que a conexão estiver "
 "estabelecida, você verá um ícone com formato de trava na barra de ferramentas."
 
@@ -14140,10 +14140,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-vpn-connect.page:98
 msgid ""
-"To disconnect from the VPN, click the system menu on the top bar and click <gui>Turn Off</gui> under the name "
+"To disconnect from the VPN, click the system menu on the taskbar and click <gui>Turn Off</gui> under the name "
 "of your VPN connection."
 msgstr ""
-"Para desconectar de um VPN, clique no menu do sistema na barra superior e clique <gui>Desligar</gui> sob o "
+"Para desconectar de um VPN, clique no menu do sistema na barra de tarefas e clique <gui>Desligar</gui> sob o "
 "nome de sua conexão VPN."
 
 #. (itstool) path: info/desc
@@ -14214,11 +14214,11 @@ msgstr "Conectando a rede com fio (Ethernet)"
 #: C/net-wired-connect.page:33
 msgid ""
 "To set up most wired network connections, all you need to do is plug in a network cable. The wired network "
-"icon (<_:media-1/>) is displayed on the top bar with three dots while the connection is being established. The "
+"icon (<_:media-1/>) is displayed on the taskbar with three dots while the connection is being established. The "
 "dots disappear when you are connected."
 msgstr ""
 "Para configurar a maioria das conexões de rede com fio, tudo que você precisa fazer é conectar um cabo de "
-"rede. O ícone de rede com fio (<_:media-1/>) é exibido na barra superior com três pontos enquanto a conexão "
+"rede. O ícone de rede com fio (<_:media-1/>) é exibido na barra de tarefas com três pontos enquanto a conexão "
 "está sendo estabelecida. Os três pontos desaparecem quando você estiver conectado."
 
 #. (itstool) path: page/p
@@ -14368,10 +14368,10 @@ msgstr "Para desligar o modo avião:"
 #. (itstool) path: item/p
 #: C/net-wireless-airplane.page:50 C/net-wrongnetwork.page:41 C/power-nowireless.page:50
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Wi-Fi</"
+"Go to the Desktop and start typing <gui>Wi-Fi</"
 "gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar <gui>Wi-Fi</"
+"Vá para a Área de Trabalho e comece a digitar <gui>Wi-Fi</"
 "gui>."
 
 #. (itstool) path: item/p
@@ -14518,7 +14518,7 @@ msgstr "Por que minha conexão sem fio fica desconectando?"
 msgid ""
 "You may find that you have been disconnected from a wireless network even though you wanted to stay connected. "
 "Your computer will normally try to reconnect to the network as soon as this happens (the network icon on the "
-"top bar will display three dots if it is trying to reconnect), but it can be annoying, especially if you were "
+"taskbar will display three dots if it is trying to reconnect), but it can be annoying, especially if you were "
 "using the internet at the time."
 msgstr ""
 "Você pode descobrir que você foi desconectado de uma rede sem fio ainda que você quisesse se manter conectado. "
@@ -14547,10 +14547,10 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/net-wireless-disconnecting.page:46
 msgid ""
-"The network icon on the top bar displays how strong your wireless signal is. If the signal looks low, try "
+"The network icon on the taskbar displays how strong your wireless signal is. If the signal looks low, try "
 "moving closer to the wireless base station."
 msgstr ""
-"O ícone de rede na barra superior exibe o quão forte seu sinal sem fio está. Se o sinal parece estar fraco, "
+"O ícone de rede na barra de tarefas exibe o quão forte seu sinal sem fio está. Se o sinal parece estar fraco, "
 "tente mover para mais perto da estação base de rede sem fio."
 
 #. (itstool) path: section/title
@@ -15404,12 +15404,12 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-wireless-troubleshooting-initial-check.page:54
 msgid ""
-"Open the <gui xref=\"shell-introduction#systemmenu\">system menu</gui> from the right side of the top bar and "
+"Open the <gui xref=\"shell-introduction#systemmenu\">system menu</gui> from the right side of the taskbar and "
 "select the Wi-Fi network, then select <gui>Wi-Fi Settings</gui>. Make sure that the <gui>Wi-Fi</gui> switch is "
 "set to on. You should also check that <link xref=\"net-wireless-airplane\">Airplane Mode</link> is <em>not</"
 "em> switched on."
 msgstr ""
-"Abra o <gui xref=\"shell-introduction#systemmenu\">menu do sistema</gui> no lado direito da barra superior e "
+"Abra o <gui xref=\"shell-introduction#systemmenu\">menu do sistema</gui> no lado direito da barra de tarefas e "
 "selecione a rede Wi-Fi. Em seguida, selecione <gui>Configurações de Wi-Fi</gui>. Certifique-se de que <gui>Wi-"
 "Fi</gui> esteja ligado. Você também deveria se certificar de que o <link xref=\"net-wireless-airplane\">Modo "
 "avião</link> <em>não</em> está ligado."
@@ -16142,10 +16142,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/power-closelid.page:79 C/shell-apps-auto-start.page:48 C/tips-specialchars.page:77
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Tweaks</"
+"Go to the Desktop and start typing <gui>Tweaks</"
 "gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+"Vá para a Área de Trabalho e comece a digitar "
 "<gui>Ajustes</gui>."
 
 #. (itstool) path: item/p
@@ -17230,10 +17230,10 @@ msgstr "Como cancelar um trabalho de impressão:"
 #: C/printing-cancel-job.page:46 C/printing-cancel-job.page:86 C/printing-name-location.page:48
 #: C/printing-name-location.page:76 C/printing-setup-default-printer.page:50 C/printing-setup.page:76
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Printers</"
+"Go to the Desktop and start typing <gui>Printers</"
 "gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+"Vá para a Área de Trabalho e comece a digitar "
 "<gui>Impressoras</gui>."
 
 #. (itstool) path: item/p
@@ -18104,10 +18104,10 @@ msgstr "Desligar rastreamento de histórico de arquivos"
 #: C/privacy-history-recent-off.page:41 C/privacy-history-recent-off.page:64 C/privacy-location.page:34
 #: C/privacy-purge.page:51 C/privacy-screen-lock.page:55 C/session-screenlocks.page:47
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Privacy</"
+"Go to the Desktop and start typing <gui>Privacy</"
 "gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+"Vá para a Área de Trabalho e comece a digitar "
 "<gui>Privacidade</gui>."
 
 #. (itstool) path: item/p
@@ -18592,10 +18592,10 @@ msgstr ""
 #: C/session-fingerprint.page:62 C/user-add.page:47 C/user-admin-change.page:42 C/user-autologin.page:33
 #: C/user-changepassword.page:70 C/user-changepicture.page:46 C/user-delete.page:53
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Users</"
+"Go to the Desktop and start typing <gui>Users</"
 "gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+"Vá para a Área de Trabalho e comece a digitar "
 "<gui>Usuários</gui>."
 
 #. (itstool) path: item/p
@@ -18692,10 +18692,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/session-formats.page:36 C/session-language.page:49
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Region "
+"Go to the Desktop and start typing <gui>Region "
 "&amp; Language</gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar <gui>Região "
+"Vá para a Área de Trabalho e comece a digitar <gui>Região "
 "&amp; idioma</gui>."
 
 #. (itstool) path: item/p
@@ -19101,10 +19101,10 @@ msgstr "Alterando o nome de exibição do seu computador:"
 #. (itstool) path: item/p
 #: C/sharing-displayname.page:32 C/sharing-media.page:56 C/sharing-personal.page:65
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Sharing</"
+"Go to the Desktop and start typing <gui>Sharing</"
 "gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+"Vá para a Área de Trabalho e comece a digitar "
 "<gui>Compartilhamento</gui>."
 
 #. (itstool) path: item/p
@@ -19368,10 +19368,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-apps-favorites.page:39
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview by clicking <gui>Activities</"
+"Go to the Desktop by clicking <gui>Activities</"
 "gui> at the top left of the screen"
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> clicando em <gui>Atividades</"
+"Vá para a Área de Trabalho clicando em <gui>Atividades</"
 "gui> no canto superior esquerdo da tela"
 
 #. (itstool) path: item/p
@@ -19595,10 +19595,10 @@ msgstr ""
 #: C/shell-exit.page:70
 msgid ""
 "To <gui>Log Out</gui> or <gui>Switch User</gui>, click the <link xref=\"shell-introduction#systemmenu\">system "
-"menu</link> on the right side of the top bar, click your name and then choose the correct option."
+"menu</link> on the right side of the taskbar, click your name and then choose the correct option."
 msgstr ""
 "Para <gui>Encerrar sessão</gui> ou <gui>Alternar usuário</gui>, clique no <link xref=\"shell-"
-"introduction#systemmenu\">menu do sistema</link> no lado direito da barra superior, clique no seu nome e, "
+"introduction#systemmenu\">menu do sistema</link> no lado direito da barra de tarefas, clique no seu nome e, "
 "então, escolha a opção correta."
 
 #. (itstool) path: note/p
@@ -19640,10 +19640,10 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/shell-exit.page:100
 msgid ""
-"To lock your screen, click the system menu on the right side of the top bar and select <gui>Lock</gui> from "
+"To lock your screen, click the system menu on the right side of the taskbar and select <gui>Lock</gui> from "
 "the menu."
 msgstr ""
-"Para bloquear sua tela, clique no menu do sistema no lado direito da barra superior e selecione <gui>Bloquear</"
+"Para bloquear sua tela, clique no menu do sistema no lado direito da barra de tarefas e selecione <gui>Bloquear</"
 "gui> a partir do menu."
 
 #. (itstool) path: section/p
@@ -19676,10 +19676,10 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/shell-exit.page:123
 msgid ""
-"To suspend your computer manually, click the system menu on the right side of the top bar, expand <gui>Power "
+"To suspend your computer manually, click the system menu on the right side of the taskbar, expand <gui>Power "
 "Off / Log Out</gui>, and select <gui>Suspend</gui>."
 msgstr ""
-"Para suspender o computador manualmente, clique no menu do sistema no lado direito da barra superior, expanda "
+"Para suspender o computador manualmente, clique no menu do sistema no lado direito da barra de tarefas, expanda "
 "<gui>Desligar / Terminar sessão</gui> e selecione <gui>Suspender</gui>."
 
 #. (itstool) path: section/title
@@ -19691,11 +19691,11 @@ msgstr "Desligar ou reiniciar"
 #: C/shell-exit.page:136
 msgid ""
 "If you want to power off your computer entirely, or do a full restart, click the system menu on the right side "
-"of the top bar, expand <gui>Power Off / Log Out</gui>, and select <gui>Power Off…</gui>. A dialog will open "
+"of the taskbar, expand <gui>Power Off / Log Out</gui>, and select <gui>Power Off…</gui>. A dialog will open "
 "offering you the options to either <gui>Restart</gui> or <gui>Power Off</gui>."
 msgstr ""
 "Se você deseja desligar por inteiro o seu computador, ou fazer uma reinicialização completa, clique no menu do "
-"sistema no lado direito da barra superior, expanda <gui>Desligar / encerrar sessão</gui> e selecione "
+"sistema no lado direito da barra de tarefas, expanda <gui>Desligar / encerrar sessão</gui> e selecione "
 "<gui>Desligar…</gui>. Um diálogo vai abrir oferecendo a você opções para <gui>Reiniciar</gui> ou "
 "<gui>Desligar</gui>."
 
@@ -19722,8 +19722,8 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/shell-introduction.page:37
-msgid "A visual overview of your desktop, the top bar, and the <gui>Activities</gui> overview."
-msgstr "Uma visão geral da sua área de trabalho, a barra superior e o panorama de <gui>Atividades</gui>."
+msgid "A visual overview of your desktop, the taskbar, and the <gui>Activities</gui> overview."
+msgstr "Uma visão geral da sua área de trabalho, a barra de tarefas e o panorama de <gui>Atividades</gui>."
 
 #. (itstool) path: page/title
 #: C/shell-introduction.page:41
@@ -19739,7 +19739,7 @@ msgid ""
 msgstr ""
 "O GNOME 3 possui uma interface com o usuário completamente reimaginada, projetada para ficar fora do seu "
 "caminho, diminuir as distrações e lhe ajudar a fazer as coisas. Quando você o acessa pela primeira vez, você "
-"verá uma área de trabalho vazia e a barra superior."
+"verá uma área de trabalho vazia e a barra de tarefas."
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -19753,8 +19753,8 @@ msgstr "external ref='figures/shell-top-bar.png' md5='678a4b4d96d4cd07bbb9d956a1
 
 #. (itstool) path: media/p
 #: C/shell-introduction.page:50 C/shell-introduction.page:55
-msgid "GNOME Shell top bar"
-msgstr "A barra superior do GNOME shell"
+msgid "GNOME Shell taskbar"
+msgstr "A barra de tarefas do GNOME shell"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -19769,12 +19769,12 @@ msgstr "external ref='figures/shell-top-bar-classic.png' md5='5cabe311c0336576ba
 #. (itstool) path: page/p
 #: C/shell-introduction.page:60
 msgid ""
-"The top bar provides access to your windows and applications, your calendar and appointments, and <link xref="
+"The taskbar provides access to your windows and applications, your calendar and appointments, and <link xref="
 "\"status-icons\">system properties</link> like sound, networking, and power. In the system menu in the top "
 "bar, you can change the volume or screen brightness, edit your <gui>Wi-Fi</gui> connection details, check your "
 "battery status, log out or switch users, and turn off your computer."
 msgstr ""
-"A barra superior lhe oferece acesso a suas janelas e seus aplicativos, a sua agenda e compromissos e a <link "
+"A barra de tarefas lhe oferece acesso a suas janelas e seus aplicativos, a sua agenda e compromissos e a <link "
 "xref=\"status-icons\">propriedades do sistema</link>, como som, rede e energia. No menu do sistema na barra "
 "superior, você pode alterar o volume ou brilho da tela, editar os detalhes da sua conexão <gui>Wi-Fi</gui>, "
 "verificar o status da sua bateria, sair da sessão ou trocar de usuário ou desligar seu computador."
@@ -19944,12 +19944,12 @@ msgstr "Relógio, agenda, compromissos e notificações"
 #. (itstool) path: section/p
 #: C/shell-introduction.page:170
 msgid ""
-"Click the clock on the top bar to see the current date, a month-by-month calendar, a list of your upcoming "
+"Click the clock on the taskbar to see the current date, a month-by-month calendar, a list of your upcoming "
 "appointments and new notifications. You can also open the calendar by pressing <keyseq><key>Super</key><key>M</"
 "key></keyseq>. You can access the date and time settings and open your full calendar application directly from "
 "the menu."
 msgstr ""
-"Clique no relógio no meio da barra superior para ver a data atual, uma agenda mensal e uma lista dos "
+"Clique no relógio no meio da barra de tarefas para ver a data atual, uma agenda mensal e uma lista dos "
 "compromissos futuros. Você também pode abrir o calendário pressionando <keyseq><key>Super</key><key>M</key></"
 "keyseq>. Você pode acessar as configurações de data e hora e abrir seu aplicativo de calendário a partir do "
 "menu."
@@ -20176,11 +20176,11 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:86
 msgid ""
-"Give keyboard focus to the top bar. In the <gui>Activities</gui> overview, switch keyboard focus between the "
-"top bar, dash, windows overview, applications list, and search field. Use the arrow keys to navigate."
+"Give keyboard focus to the taskbar. In the <gui>Activities</gui> overview, switch keyboard focus between the "
+"taskbar, dash, windows overview, applications list, and search field. Use the arrow keys to navigate."
 msgstr ""
-"Dá ao teclado o foco na barra superior. No panorama de <gui>Atividades</gui>, alterna o foco do teclado entre "
-"a barra superior, o dash, o panorama de janelas, a lista de aplicativos e o campo de pesquisa. Use as teclas "
+"Dá ao teclado o foco na barra de tarefas. No panorama de <gui>Atividades</gui>, alterna o foco do teclado entre "
+"a barra de tarefas, o dash, o panorama de janelas, a lista de aplicativos e o campo de pesquisa. Use as teclas "
 "de setas para navegar."
 
 #. (itstool) path: td/p
@@ -21021,8 +21021,8 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:58 C/shell-workspaces-switch.page:33
-msgid "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview."
-msgstr "Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui>."
+msgid "Go to the Desktop."
+msgstr "Vá para a Área de Trabalho."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:62
@@ -21300,10 +21300,10 @@ msgstr ""
 #: C/sound-alert.page:42 C/sound-nosound.page:51 C/sound-nosound.page:92 C/sound-usemic.page:55
 #: C/sound-usespeakers.page:60 C/sound-volume.page:61
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Sound</"
+"Go to the Desktop and start typing <gui>Sound</"
 "gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar <gui>Som</"
+"Vá para a Área de Trabalho e comece a digitar <gui>Som</"
 "gui>."
 
 #. (itstool) path: item/p
@@ -21763,11 +21763,11 @@ msgstr "Alterando o volume do som"
 #: C/sound-volume.page:34
 msgid ""
 "To change the sound volume, open the <gui xref=\"shell-introduction#systemmenu\">system menu</gui> from the "
-"right side of the top bar and move the volume slider left or right. You can completely turn off sound by "
+"right side of the taskbar and move the volume slider left or right. You can completely turn off sound by "
 "dragging the slider to the left."
 msgstr ""
 "Para alterar o volume do som, abra o <gui xref=\"shell-introduction#systemmenu\">menu do sistema</gui> no lado "
-"direito na barra superior e mova o controle deslizante de volume para esquerda ou direita. Você pode desligar "
+"direito na barra de tarefas e mova o controle deslizante de volume para esquerda ou direita. Você pode desligar "
 "completamente arrastando-o completamente para a esquerda."
 
 #. (itstool) path: page/p
@@ -21839,13 +21839,13 @@ msgstr "Monica Kochofar"
 
 #. (itstool) path: info/desc
 #: C/status-icons.page:20
-msgid "Explains the meanings of the icons located on the right of the top bar."
-msgstr "Explica o significado dos ícones localizados à direita na barra superior."
+msgid "Explains the meanings of the icons located on the right of the taskbar."
+msgstr "Explica o significado dos ícones localizados à direita na barra de tarefas."
 
 #. (itstool) path: page/title
 #: C/status-icons.page:23
-msgid "What do the icons in the top bar mean?"
-msgstr "O que os ícones na barra superior significam?"
+msgid "What do the icons in the taskbar mean?"
+msgstr "O que os ícones na barra de tarefas significam?"
 
 #. (itstool) path: page/p
 #: C/status-icons.page:24
@@ -22333,7 +22333,7 @@ msgstr "Disposições de teclado"
 #: C/tips-specialchars.page:145
 msgid ""
 "You can make your keyboard behave like the keyboard for another language, regardless of the letters printed on "
-"the keys. You can even easily switch between different keyboard layouts using an icon in the top bar. To learn "
+"the keys. You can even easily switch between different keyboard layouts using an icon in the taskbar. To learn "
 "how, see <link xref=\"keyboard-layouts\"/>."
 msgstr ""
 "Você pode fazer seu teclado se comportar como um de outro idioma, independentemente das letras impressas nas "
@@ -23559,10 +23559,10 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/wacom-left-handed.page:35 C/wacom-mode.page:33 C/wacom-multi-monitor.page:42
 msgid ""
-"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Wacom "
+"Go to the Desktop and start typing <gui>Wacom "
 "Tablet</gui>."
 msgstr ""
-"Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar <gui>Tablet "
+"Vá para a Área de Trabalho e comece a digitar <gui>Tablet "
 "Wacom</gui>."
 
 #. (itstool) path: item/p
@@ -23904,10 +23904,10 @@ msgstr "Tablet Wacom Graphics"
 #~ msgstr "Clique em <gui>Acessibilidade</gui> na barra lateral para abrir o painel."
 
 #~ msgid ""
-#~ "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing "
+#~ "Go to the Desktop and start typing "
 #~ "<gui>Universal Access</gui>."
 #~ msgstr ""
-#~ "Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+#~ "Vá para a Área de Trabalho e comece a digitar "
 #~ "<gui>Acessibilidade</gui>."
 
 #~ msgid "Click on <gui>Universal Access</gui> to open the panel."
@@ -24225,8 +24225,8 @@ msgstr "Tablet Wacom Graphics"
 #~ msgid "This option is enabled by default when <gui>Screen Sharing</gui> is <gui>ON</gui>."
 #~ msgstr "Essa opção é habilitada por padrão quando <gui>Compartilhamento de tela</gui> está em <key>❙</key>."
 
-#~ msgid "GNOME shell top bar"
-#~ msgstr "A barra superior do GNOME shell"
+#~ msgid "GNOME shell taskbar"
+#~ msgstr "A barra de tarefas do GNOME shell"
 
 #~ msgid "You and your computer"
 #~ msgstr "Você e seu computador"
@@ -24277,10 +24277,10 @@ msgstr "Tablet Wacom Graphics"
 #~ "notificação</link>, o que permite a você acesso as suas notificações."
 
 #~ msgid ""
-#~ "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview, then open the "
+#~ "Go to the Desktop, then open the "
 #~ "<app>Settings</app>."
 #~ msgstr ""
-#~ "Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e, então, abra as "
+#~ "Vá para a Área de Trabalho e, então, abra as "
 #~ "<app>Configurações</app>."
 
 #~ msgid "Click <gui>Keyboard</gui>."
@@ -24301,10 +24301,10 @@ msgstr "Tablet Wacom Graphics"
 #~ msgstr "teclado"
 
 #~ msgid ""
-#~ "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing "
+#~ "Go to the Desktop and start typing "
 #~ "<gui>Keyboard</gui>."
 #~ msgstr ""
-#~ "Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+#~ "Vá para a Área de Trabalho e comece a digitar "
 #~ "<gui>Teclado</gui>."
 
 #~ msgid "Click on <gui>Keyboard</gui> to open the panel."
@@ -24468,10 +24468,10 @@ msgstr "Tablet Wacom Graphics"
 #~ "sem precisar digitar uma senha"
 
 #~ msgid ""
-#~ "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Date "
+#~ "Go to the Desktop and start typing <gui>Date "
 #~ "&amp; Time</gui>."
 #~ msgstr ""
-#~ "Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+#~ "Vá para a Área de Trabalho e comece a digitar "
 #~ "<gui>Data &amp; hora</gui>."
 
 #~ msgid ""
@@ -24496,11 +24496,11 @@ msgstr "Tablet Wacom Graphics"
 #~ msgstr "Clique em <gui>Plano de fundo</gui> para abrir o painel."
 
 #~ msgid ""
-#~ "To solve this, open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start "
+#~ "To solve this, Go to the Desktop and start "
 #~ "typing <gui>Displays</gui>. Click on <gui>Displays</gui> to open the panel. Try some of the "
 #~ "<gui>Resolution</gui> options and set the one that makes the screen look better."
 #~ msgstr ""
-#~ "Para resolver isso, abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e "
+#~ "Para resolver isso, Vá para a Área de Trabalho e "
 #~ "comece a digitar <gui>Telas</gui>. Clique em <gui>Telas</gui> para abrir o painel. Experimente algumas "
 #~ "opções de <gui>Resolução</gui> e ajuste para aquela que fizer sua tela parecer melhor."
 
@@ -24544,10 +24544,10 @@ msgstr "Tablet Wacom Graphics"
 #~ "as setas."
 
 #~ msgid ""
-#~ "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> overview and start typing <gui>Color</"
+#~ "Go to the Desktop and start typing <gui>Color</"
 #~ "gui>."
 #~ msgstr ""
-#~ "Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+#~ "Vá para a Área de Trabalho e comece a digitar "
 #~ "<gui>Cor</gui>."
 
 #~ msgid "Click on <gui>Color</gui> to open the panel and select your scanner."
@@ -24588,7 +24588,7 @@ msgstr "Tablet Wacom Graphics"
 
 #~ msgid "Click the Bluetooth icon in the <gui>menu bar</gui> and select <gui>Bluetooth Settings</gui>."
 #~ msgstr ""
-#~ "Clique no ícone Bluetooth na <gui>barra superior</gui> e selecione <gui>Configurações de Bluetooth</gui>."
+#~ "Clique no ícone Bluetooth na <gui>barra de tarefas</gui> e selecione <gui>Configurações de Bluetooth</gui>."
 
 #~ msgid "Select <gui>Bluetooth Settings</gui> to open the panel."
 #~ msgstr "Selecione <gui>Configurações de Bluetooth</gui> para abrir o painel."
@@ -24747,7 +24747,7 @@ msgstr "Tablet Wacom Graphics"
 
 #~ msgid ""
 #~ "If you frequently need to delete files trash (for example, if you often work with sensitive data), you can "
-#~ "remove the delete confirmation. Click <gui>Files</gui> in the top bar, select <gui>Preferences</gui> and "
+#~ "remove the delete confirmation. Click <gui>Files</gui> in the taskbar, select <gui>Preferences</gui> and "
 #~ "click the <gui>Behavior</gui> tab. Select <gui>Ask before emptying the Trash or deleting files</gui>."
 #~ msgstr ""
 #~ "Se você precisa frequentemente excluir arquivos sem usar a lixeira (por exemplo, se você costuma trabalhar "
@@ -24820,7 +24820,7 @@ msgstr "Tablet Wacom Graphics"
 #~ "Open the <gui xref=\"shell-introduction#yourname\">Activities</gui> overview and start typing <gui>Network</"
 #~ "gui>."
 #~ msgstr ""
-#~ "Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar "
+#~ "Vá para a Área de Trabalho e comece a digitar "
 #~ "<gui>Rede</gui>."
 
 #~ msgid ""
@@ -25030,7 +25030,7 @@ msgstr "Tablet Wacom Graphics"
 #~ "To prevent GNOME from accessing the online account, you should revoke the access through the account's "
 #~ "website or similar service."
 #~ msgstr ""
-#~ "Para evitar que o GNOME acesse a conta on-line, você deve revogar o acesso por meio do site da conta ou por "
+#~ "Para evitar que o Endless OS acesse a conta on-line, você deve revogar o acesso por meio do site da conta ou por "
 #~ "serviço similar."
 
 #~ msgid "Which applications take advantage of online accounts?"
@@ -25118,9 +25118,9 @@ msgstr "Tablet Wacom Graphics"
 #~ "Isso só funcionará se você tiver uma conta cadastrada no <app>Evolution</app>. Caso contrário, uma janela "
 #~ "aparecerá com os passos necessários para adicionar sua primeira conta."
 
-#~ msgid "Click on the clock in the middle of the top bar and select <gui>Date &amp; Time Settings</gui>."
+#~ msgid "Click on the clock in the middle of the taskbar and select <gui>Date &amp; Time Settings</gui>."
 #~ msgstr ""
-#~ "Clique no relógio que se encontra no meio da barra superior e selecione <gui>Configurações de data &amp; "
+#~ "Clique no relógio que se encontra no meio da barra de tarefas e selecione <gui>Configurações de data &amp; "
 #~ "hora</gui>."
 
 #~ msgid ""
@@ -25242,12 +25242,12 @@ msgstr "Tablet Wacom Graphics"
 #~ "<em>GNOME Classic</em> is a feature for users who prefer a more traditional desktop experience. While "
 #~ "<em>GNOME Classic</em> is based on <em>GNOME 3</em> technologies, it provides a number of changes to the "
 #~ "user interface, such as the <gui xref=\"shell-terminology\">Applications</gui> and <gui xref=\"shell-"
-#~ "terminology\">Places</gui> menus on the top bar, and a window list at the bottom of the screen."
+#~ "terminology\">Places</gui> menus on the taskbar, and a window list at the bottom of the screen."
 #~ msgstr ""
 #~ "O <em>GNOME Clássico</em> é um recurso para usuários que preferem uma experiência de ambiente mais "
 #~ "tradicional. Enquanto o <em>GNOME Clássico</em> é baseado nas tecnologias do <em>GNOME 3</em>, ele fornece "
 #~ "várias alterações na interface do usuário, tais como os menus <gui xref=\"shell-terminology\">Aplicativos</"
-#~ "gui> e <gui xref=\"shell-terminology\">Locais</gui> na barra superior e uma lista de janelas na parte "
+#~ "gui> e <gui xref=\"shell-terminology\">Locais</gui> na barra de tarefas e uma lista de janelas na parte "
 #~ "inferior da janela."
 
 #~ msgid "Change keyboard shortcuts"
@@ -25409,9 +25409,9 @@ msgstr "Tablet Wacom Graphics"
 #~ "Ao excluir um item usando a opção de menu <gui>Excluir</gui>, não será usada a lixeira. O item é removido "
 #~ "do sistema permanentemente. Não tem como recuperar o item excluído."
 
-#~ msgid "Click on <gui>Files</gui> in the top bar and pick <gui>Bookmarks</gui> from the app menu."
+#~ msgid "Click on <gui>Files</gui> in the taskbar and pick <gui>Bookmarks</gui> from the app menu."
 #~ msgstr ""
-#~ "Clique em <gui>Arquivos</gui> na barra superior e selecione <gui>Marcadores</gui> do menu de aplicativo."
+#~ "Clique em <gui>Arquivos</gui> na barra de tarefas e selecione <gui>Marcadores</gui> do menu de aplicativo."
 
 #, fuzzy
 #~| msgid ""
@@ -25463,7 +25463,7 @@ msgstr "Tablet Wacom Graphics"
 #~ "Por padrão, novas pastas são mostradas na visão de ícone. Se você preferir a visão de lista, você pode "
 #~ "defini-la aqui como a padrão. Alternativamente, você pode selecionar uma visão diferente para cada pasta na "
 #~ "medida em que você acessa, clicando nos botões <gui style=\"button\">Ver itens como um lista</gui> ou <gui "
-#~ "style=\"button\">Ver itens como uma grade de ícones</gui> na barra superior."
+#~ "style=\"button\">Ver itens como uma grade de ícones</gui> na barra de tarefas."
 
 #~ msgid "Show hidden and backup files"
 #~ msgstr "Mostrar arquivos ocultos e de backup"
@@ -25480,7 +25480,7 @@ msgstr "Tablet Wacom Graphics"
 #~ "<_:media-1/> menu in the toolbar."
 #~ msgstr ""
 #~ "Você também mostrar arquivos ocultos em um janela individual selecionando <gui>Mostrar arquivos ocultos</"
-#~ "gui>, a partir do menu <_:media-1/> na barra superior."
+#~ "gui>, a partir do menu <_:media-1/> na barra de tarefas."
 
 #~ msgid "Icon view defaults"
 #~ msgstr "Padrões da visão em ícones"
@@ -25496,7 +25496,7 @@ msgstr "Tablet Wacom Graphics"
 #~ msgstr ""
 #~ "Você pode fazer com que os ícones e texto fiquem maiores ou menores por padrão em uma visão de ícones "
 #~ "usando esta opção. Você também pode alterar esta configuração em uma pasta individual clicando no botão <_:"
-#~ "media-1/> na barra superior ou selecionando <gui>Ampliar</gui>, <gui>Reduzir</gui> ou <gui>Tamanho normal</"
+#~ "media-1/> na barra de tarefas ou selecionando <gui>Ampliar</gui>, <gui>Reduzir</gui> ou <gui>Tamanho normal</"
 #~ "gui>. Se você frequentemente usa um nível de ampliação maior ou menor, você pode definir o padrão com esta "
 #~ "opção."
 
@@ -25611,12 +25611,12 @@ msgstr "Tablet Wacom Graphics"
 
 #, fuzzy
 #~| msgid ""
-#~| "Click the system status area on the top bar, select <gui>Wi-Fi</gui>, then click <gui>Select Network</gui>."
+#~| "Click the system status area on the taskbar, select <gui>Wi-Fi</gui>, then click <gui>Select Network</gui>."
 #~ msgid ""
-#~ "Click the system status area on the top bar, select <gui>Mobile Broadband</gui>, then click <gui>Connect</"
+#~ "Click the system status area on the taskbar, select <gui>Mobile Broadband</gui>, then click <gui>Connect</"
 #~ "gui>."
 #~ msgstr ""
-#~ "Clique na área de status do sistema na barra superior, selecione <gui>Wi-Fi</gui> e, então, clique em  "
+#~ "Clique na área de status do sistema na barra de tarefas, selecione <gui>Wi-Fi</gui> e, então, clique em  "
 #~ "<gui>Selecione a rede</gui>."
 
 #~ msgid ""
@@ -25629,13 +25629,13 @@ msgstr "Tablet Wacom Graphics"
 #~ msgid "Click on <gui>Network</gui> to open the control center."
 #~ msgstr "Clique em <gui>Rede</gui> para abrir o centro de controle."
 
-#~ msgid "Click the system status area on the top bar and select <gui>Wi-Fi</gui>."
-#~ msgstr "Clique na área de status do sistema na barra superior e selecione <gui>Wi-Fi</gui>."
+#~ msgid "Click the system status area on the taskbar and select <gui>Wi-Fi</gui>."
+#~ msgstr "Clique na área de status do sistema na barra de tarefas e selecione <gui>Wi-Fi</gui>."
 
 #~ msgid ""
-#~ "Click the system status area on the top bar, select <gui>Wi-Fi</gui>, then click <gui>Select Network</gui>."
+#~ "Click the system status area on the taskbar, select <gui>Wi-Fi</gui>, then click <gui>Select Network</gui>."
 #~ msgstr ""
-#~ "Clique na área de status do sistema na barra superior, selecione <gui>Wi-Fi</gui> e, então, clique em  "
+#~ "Clique na área de status do sistema na barra de tarefas, selecione <gui>Wi-Fi</gui> e, então, clique em  "
 #~ "<gui>Selecione a rede</gui>."
 
 #~ msgid "Run the following command:"
@@ -25670,10 +25670,10 @@ msgstr "Tablet Wacom Graphics"
 #~ msgstr "Você será questionado se deseja instalar a extensão. Pressione <gui style=\"button\">Instalar</gui>."
 
 #~ msgid ""
-#~ "The button will now be added to the system menu on the right side of the top bar and can be pressed to "
+#~ "The button will now be added to the system menu on the right side of the taskbar and can be pressed to "
 #~ "hibernate your computer."
 #~ msgstr ""
-#~ "O botão agora vai ser adicionado ao menu do sistema no lado direito da barra superior e pode ser "
+#~ "O botão agora vai ser adicionado ao menu do sistema no lado direito da barra de tarefas e pode ser "
 #~ "pressionado para hibernar seu computador."
 
 #~ msgid "Print folded booklets"
@@ -25799,8 +25799,8 @@ msgstr "Tablet Wacom Graphics"
 #~ msgid "An overview of terms used to describe different parts of the desktop."
 #~ msgstr "Uma visão geral dos termos usados para descrever partes diferentes da sua área de trabalho."
 
-#~ msgid "Activities, dash, top bar… What are they?"
-#~ msgstr "Atividades, dash, barra superior… O que são essas coisas?"
+#~ msgid "Activities, dash, taskbar… What are they?"
+#~ msgstr "Atividades, dash, barra de tarefas… O que são essas coisas?"
 
 #~ msgid ""
 #~ "The <em><gui>Activities</gui> overview</em> is the screen that is displayed when you click <gui>Activities</"
@@ -25824,7 +25824,7 @@ msgstr "Tablet Wacom Graphics"
 #~ "applications organized into categories. The <em>activities overview</em> is available by selecting the "
 #~ "<gui>Activities Overview</gui> item from the menu."
 #~ msgstr ""
-#~ "Você pode encontrar o menu <gui>Aplicativos</gui> da barra superior da tela. Isso dá a você acesso a "
+#~ "Você pode encontrar o menu <gui>Aplicativos</gui> da barra de tarefas da tela. Isso dá a você acesso a "
 #~ "aplicativos organizados por categorias. O <em>panorama de atividades</em> está disponível ao selecionar o "
 #~ "item <gui>Panorama de atividades</gui> no menu."
 
@@ -25885,8 +25885,8 @@ msgstr "Tablet Wacom Graphics"
 #~ "<key>Tab</key>, um <em>alternador de janelas</em> aparece. Ele mostra os aplicativos que estão atualmente "
 #~ "abertos."
 
-#~ msgid "Top bar"
-#~ msgstr "Barra superior"
+#~ msgid "taskbar"
+#~ msgstr "barra de tarefas"
 
 #~ msgid ""
 #~ "The <em>window list</em> is the bar at the very bottom of the screen, which shows buttons for all your open "
@@ -25946,7 +25946,7 @@ msgstr "Tablet Wacom Graphics"
 #, fuzzy
 #~| msgid ""
 #~| "Some applications have volume controls in their main windows. If your application has one of these, use "
-#~| "that to change the volume. Otherwise, click the sound icon on the top bar and select <gui>Sound Settings</"
+#~| "that to change the volume. Otherwise, click the sound icon on the taskbar and select <gui>Sound Settings</"
 #~| "gui>. Go to the <gui>Applications</gui> tab and change the volume of the application there."
 #~ msgid ""
 #~ "Some applications have volume controls in their main windows. If your application has one of these, use "
@@ -25955,7 +25955,7 @@ msgstr "Tablet Wacom Graphics"
 #~ "there."
 #~ msgstr ""
 #~ "Alguns aplicativos têm controles de volume nas suas janelas principais. Se seu aplicativo tem um desses, "
-#~ "use-o para alterar o volume. Do contrário, clique no ícone de som na barra superior e selecione "
+#~ "use-o para alterar o volume. Do contrário, clique no ícone de som na barra de tarefas e selecione "
 #~ "<gui>Preferências de som</gui>. Vá para a aba <gui>Aplicativos</gui> e altere o volume do aplicativo lá."
 
 #~ msgid "camera icon"
@@ -25973,8 +25973,8 @@ msgstr "Tablet Wacom Graphics"
 #~ msgid "Open the <app>Online Accounts</app> settings from the <gui>Activities</gui> overview."
 #~ msgstr "Abra as configurações de <app>Contas on-line</app> no panorama de <gui>Atividades</gui>."
 
-#~ msgid "Click the system status area of the top bar."
-#~ msgstr "Clique na área de status do sistema na barra superior."
+#~ msgid "Click the system status area of the taskbar."
+#~ msgstr "Clique na área de status do sistema na barra de tarefas."
 
 #~ msgid ""
 #~ "A panel specific to the external device appears when the connection successfully completes. It may display "
@@ -26048,12 +26048,12 @@ msgstr "Tablet Wacom Graphics"
 #~ msgstr "Dê à unidade um nome e clique em <gui>Formatar</gui> para começar o esvaziamento da unidade."
 
 #~ msgid ""
-#~ "The monitor with the <link xref=\"shell-introduction\">top bar</link> is the main monitor. To change which "
-#~ "monitor is treated as \"main\", click on the top bar and drag it over to the monitor which you want to set "
+#~ "The monitor with the <link xref=\"shell-introduction\">taskbar</link> is the main monitor. To change which "
+#~ "monitor is treated as \"main\", click on the taskbar and drag it over to the monitor which you want to set "
 #~ "as the \"main\" monitor."
 #~ msgstr ""
-#~ "O monitor com a <link xref=\"shell-introduction\">barra superior</link> é o monitor principal. Para alterar "
-#~ "qual monitor é tratado como \"principal\", clique na barra superior e arraste-a para o monitor que você "
+#~ "O monitor com a <link xref=\"shell-introduction\">barra de tarefas</link> é o monitor principal. Para alterar "
+#~ "qual monitor é tratado como \"principal\", clique na barra de tarefas e arraste-a para o monitor que você "
 #~ "quer que seja o monitor \"principal\"."
 
 #~ msgid "From the <gui>Activities</gui> overview, open <app>Files</app>."
@@ -26144,9 +26144,9 @@ msgstr "Tablet Wacom Graphics"
 #~ msgid "- : No permission."
 #~ msgstr "- : Nenhuma permissão."
 
-#~ msgid "Click the <gui>network icon</gui> on the <gui>top bar</gui> and select <gui>Network Settings</gui>."
+#~ msgid "Click the <gui>network icon</gui> on the <gui>taskbar</gui> and select <gui>Network Settings</gui>."
 #~ msgstr ""
-#~ "Clique no <gui>ícone de rede</gui> na <gui>barra superior</gui> e selecione <gui>Configurações do rede</"
+#~ "Clique no <gui>ícone de rede</gui> na <gui>barra de tarefas</gui> e selecione <gui>Configurações do rede</"
 #~ "gui>."
 
 #~ msgid ""
@@ -26166,8 +26166,8 @@ msgstr "Tablet Wacom Graphics"
 #~ msgid "In the <gui>Pages per side</gui> menu, select <gui>2</gui>."
 #~ msgstr "No menu <gui>Páginas por lado</gui>, selecione <gui>2</gui>."
 
-#~ msgid "Click your name on the top bar and select <gui>Settings</gui>."
-#~ msgstr "Clique em seu nome na barra superior e selecione <gui>Configurações</gui>."
+#~ msgid "Click your name on the taskbar and select <gui>Settings</gui>."
+#~ msgstr "Clique em seu nome na barra de tarefas e selecione <gui>Configurações</gui>."
 
 #~ msgid "Click <guiseq><gui>File</gui><gui>Print</gui></guiseq>"
 #~ msgstr "Clique em <guiseq><gui>Arquivo</gui><gui>Imprimir</gui></guiseq>"
@@ -26208,8 +26208,8 @@ msgstr "Tablet Wacom Graphics"
 #~ msgid "From the <gui>Activities</gui> overview:"
 #~ msgstr "Do panorama de <gui>Atividades</gui>:"
 
-#~ msgid "Click the sound icon on the top bar and select <gui>Sound Settings</gui>."
-#~ msgstr "Clique no ícone de som na barra superior e selecione <gui>Configurações de som</gui>."
+#~ msgid "Click the sound icon on the taskbar and select <gui>Sound Settings</gui>."
+#~ msgstr "Clique no ícone de som na barra de tarefas e selecione <gui>Configurações de som</gui>."
 
 # Mantive a expressão original, pois "aplay -l" não retorna texto em Português.
 #~ msgid ""
@@ -26237,7 +26237,7 @@ msgstr "Tablet Wacom Graphics"
 #~ "\"bluetooth-turn-on-off\"/>."
 
 #~ msgid "Click the Bluetooth icon in the menu bar and select <gui>Set Up New Device</gui>."
-#~ msgstr "Clique no ícone do Bluetooth na barra superior e selecione <gui>Configurar um novo dispositivo</gui>."
+#~ msgstr "Clique no ícone do Bluetooth na barra de tarefas e selecione <gui>Configurar um novo dispositivo</gui>."
 
 #~ msgid ""
 #~ "Click <key>+</key> below the <gui>Devices</gui> list. The <gui>Bluetooth New Device Setup</gui> panel will "
@@ -26289,7 +26289,7 @@ msgstr "Tablet Wacom Graphics"
 
 #~ msgid "Click the Bluetooth icon in the menu bar and select <gui>Send Files to Device</gui>."
 #~ msgstr ""
-#~ "Clique no ícone Bluetooth na barra superior e selecione <gui>Enviar arquivos para o dispositivo</gui>."
+#~ "Clique no ícone Bluetooth na barra de tarefas e selecione <gui>Enviar arquivos para o dispositivo</gui>."
 
 #~ msgid ""
 #~ "In the <gui>Devices</gui> list, select the device to which to send the files to and click <gui>Send Files..."
@@ -26617,8 +26617,8 @@ msgstr "Tablet Wacom Graphics"
 #~ "Os documentos e as coleções são apresentadas no formato de <gui>Grade</gui> por padrão. Para ver no formato "
 #~ "de <gui>Lista</gui>:"
 
-#~ msgid "Go to the top bar and click <app>Documents</app> to display the app menu."
-#~ msgstr "Vá na barra superior e clique em <app>Documentos</app> para exibir o menu do aplicativo."
+#~ msgid "Go to the taskbar and click <app>Documents</app> to display the app menu."
+#~ msgstr "Vá na barra de tarefas e clique em <app>Documentos</app> para exibir o menu do aplicativo."
 
 #~ msgid ""
 #~ "List view has columns displaying the document type and date modified, and whether it's stored locally, or "
@@ -27050,8 +27050,8 @@ msgstr "Tablet Wacom Graphics"
 #~ msgid "<keyseq><key>Ctrl</key><key>Alt</key><key>L</key></keyseq>"
 #~ msgstr "<keyseq><key>Ctrl</key><key>Alt</key><key>L</key></keyseq>"
 
-#~ msgid "Click the network icon on the top bar and select <gui>Network Settings</gui>."
-#~ msgstr "Clique no ícone de rede na barra superior e selecione <gui>Configurações de rede</gui>."
+#~ msgid "Click the network icon on the taskbar and select <gui>Network Settings</gui>."
+#~ msgstr "Clique no ícone de rede na barra de tarefas e selecione <gui>Configurações de rede</gui>."
 
 #~ msgid ""
 #~ "Click <gui>Add</gui> and type the <em>IP address</em>, <em>network mask</em> and <em>default gateway IP "
@@ -27071,8 +27071,8 @@ msgstr "Tablet Wacom Graphics"
 #~ msgid "Select <gui>Wireless</gui> on the left."
 #~ msgstr "Selecione <gui>Sem fio</gui> à esquerda."
 
-#~ msgid "Click on the network icon on the top bar and click the name of the network you want to connect to."
-#~ msgstr "Clique no ícone de rede na barra superior e depois no nome da rede a que você queira se conectar."
+#~ msgid "Click on the network icon on the taskbar and click the name of the network you want to connect to."
+#~ msgstr "Clique no ícone de rede na barra de tarefas e depois no nome da rede a que você queira se conectar."
 
 #~ msgid "Learn what the options on the wireless connection editing screen mean."
 #~ msgstr "Aprenda o que significam as opções da tela de edição de conexão sem fio."
@@ -27268,8 +27268,8 @@ msgstr "Tablet Wacom Graphics"
 #~ msgid "Select <gui>Wireless</gui> from the list on the left."
 #~ msgstr "Selecione <gui>Sem fio</gui> na lista à esquerda."
 
-#~ msgid "Click the Bluetooth icon on the top bar and select <gui>Set up a New Device</gui>."
-#~ msgstr "Clique com o botão direito na barra superior e selecione <gui>Configurar um novo dispositivo</gui>."
+#~ msgid "Click the Bluetooth icon on the taskbar and select <gui>Set up a New Device</gui>."
+#~ msgstr "Clique com o botão direito na barra de tarefas e selecione <gui>Configurar um novo dispositivo</gui>."
 
 #~ msgid "Send files using the Bluetooth icon"
 #~ msgstr "Enviar arquivos usando o ícone Bluetooth"
@@ -27297,10 +27297,10 @@ msgstr "Tablet Wacom Graphics"
 #~ msgstr "Enviar arquivos a partir das configurações de Bluetooth"
 
 #~ msgid "Click the Bluetooth icon in the menu bar and select <gui>Bluetooth Settings</gui>."
-#~ msgstr "Clique no ícone Bluetooth na barra superior e selecione <gui>Configurações de Bluetooth</gui>."
+#~ msgstr "Clique no ícone Bluetooth na barra de tarefas e selecione <gui>Configurações de Bluetooth</gui>."
 
-#~ msgid "Click the Bluetooth icon on the top bar and select <gui>Bluetooth Settings</gui>."
-#~ msgstr "Clique no ícone Bluetooth na barra superior e selecione <gui>Configurações de Bluetooth</gui>."
+#~ msgid "Click the Bluetooth icon on the taskbar and select <gui>Bluetooth Settings</gui>."
+#~ msgstr "Clique no ícone Bluetooth na barra de tarefas e selecione <gui>Configurações de Bluetooth</gui>."
 
 #~ msgid ""
 #~ "Select the device to send files to from the list on the left. The list only shows devices you've already "
@@ -27329,10 +27329,10 @@ msgstr "Tablet Wacom Graphics"
 #~ "não acontecer, basta clicar em <gui>Detectar monitores</gui>."
 
 #~ msgid ""
-#~ "Press <keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq> to give keyboard focus to the top bar."
+#~ "Press <keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq> to give keyboard focus to the taskbar."
 #~ msgstr ""
 #~ "Pressione <keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq> para mudar o foco do teclado para a "
-#~ "barra superior."
+#~ "barra de tarefas."
 
 #~ msgid ""
 #~ "Use the right and left arrow keys to select the <link xref=\"a11y-icon\">universal access menu</link>, then "
@@ -27455,10 +27455,10 @@ msgstr "Tablet Wacom Graphics"
 #~ msgstr "Abra o aplicativo <app>Arquivos</app> no panorama de <gui>Atividades</gui>."
 
 #~ msgid ""
-#~ "Click your name on the top bar, then click the picture next to your name to open the <gui>User Accounts</"
+#~ "Click your name on the taskbar, then click the picture next to your name to open the <gui>User Accounts</"
 #~ "gui> window."
 #~ msgstr ""
-#~ "Clique no seu nome na barra superior e, então, clique na imagem ao lado do seu nome para abrir a janela "
+#~ "Clique no seu nome na barra de tarefas e, então, clique na imagem ao lado do seu nome para abrir a janela "
 #~ "<gui>Contas de usuários</gui>."
 
 #~ msgid ""
@@ -27578,8 +27578,8 @@ msgstr "Tablet Wacom Graphics"
 #~ "muito preciso na internet, para que você não tenha que fazer isso manualmente. Isso só funciona se estiver "
 #~ "conectado à Internet."
 
-#~ msgid "Click on the clock in the middle of the top bar."
-#~ msgstr "Clique no relógio no meio da barra superior."
+#~ msgid "Click on the clock in the middle of the taskbar."
+#~ msgstr "Clique no relógio no meio da barra de tarefas."
 
 #~ msgid "Select <gui>Date and Time Settings</gui>."
 #~ msgstr "Selecione <gui>Configurações de data e hora</gui>."
@@ -27605,11 +27605,11 @@ msgstr "Tablet Wacom Graphics"
 #~ "gui>."
 
 #~ msgid ""
-#~ "The monitor with the top bar is the main monitor. To change which monitor is \"main\", click on the top bar "
+#~ "The monitor with the taskbar is the main monitor. To change which monitor is \"main\", click on the taskbar "
 #~ "and drag it over to the monitor you want to set as the \"main\" monitor."
 #~ msgstr ""
-#~ "O monitor com a barra superior é o monitor principal. Para alterar qual monitor é \"principal\", clique na "
-#~ "barra superior e arraste-a até o monitor que você quer definir como monitor \"principal\"."
+#~ "O monitor com a barra de tarefas é o monitor principal. Para alterar qual monitor é \"principal\", clique na "
+#~ "barra de tarefas e arraste-a até o monitor que você quer definir como monitor \"principal\"."
 
 #~ msgid "If you would like both monitors to display the same content, check the <gui>Mirror displays</gui> box."
 #~ msgstr "Se você quiser que ambos monitores exibam o mesmo conteúdo, marque a caixa <gui>Espelhar telas</gui>."
@@ -27658,9 +27658,9 @@ msgstr "Tablet Wacom Graphics"
 #~ msgid "Open <gui>Background</gui>."
 #~ msgstr "Abra <gui>Plano de fundo</gui>."
 
-#~ msgid "Click your name on the top bar and click <gui>Settings</gui>. Open <gui>Displays</gui>."
+#~ msgid "Click your name on the taskbar and click <gui>Settings</gui>. Open <gui>Displays</gui>."
 #~ msgstr ""
-#~ "Clique no seu nome na barra superior e clique em <gui>Configurações do sistema</gui>. Abra <gui>Monitores</"
+#~ "Clique no seu nome na barra de tarefas e clique em <gui>Configurações do sistema</gui>. Abra <gui>Monitores</"
 #~ "gui>."
 
 #~ msgid "Content sticks to fingers"
