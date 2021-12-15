@@ -16,7 +16,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2021-11-10 04:12+0000\n"
+"POT-Creation-Date: 2021-12-15 04:13+0000\n"
 "PO-Revision-Date: 2021-11-05 14:21+0000\n"
 "Last-Translator: Will Thompson <wjt@endlessos.org>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/endless-os/gnome-user-docs/language/pt_BR/)\n"
@@ -300,10 +300,10 @@ msgstr "Ative e desative rapidamente as teclas de repercussão"
 #. (itstool) path: note/p
 #: C/a11y-bouncekeys.page:67
 msgid ""
-"You can turn bounce keys on and off by clicking the <link xref=\"a11y-"
-"icon\">accessibility icon</link> on the taskbar and selecting <gui>Bounce "
-"Keys</gui>. The accessibility icon is visible when one or more settings have"
-" been enabled from the <gui>Accessibility</gui> panel."
+"You can turn bounce keys on and off by clicking the <link "
+"xref=\"a11y-icon\">accessibility icon</link> on the taskbar and selecting "
+"<gui>Bounce Keys</gui>. The accessibility icon is visible when one or more "
+"settings have been enabled from the <gui>Accessibility</gui> panel."
 msgstr "Você pode ativar e desativar as teclas de repercussão clicando no <link xref=\"a11y-icon\">ícone de acessibilidade</link> na barra de tarefas e selecionando <gui>Teclas de repercussão</gui>. O ícone de acessibilidade fica visível quando uma ou mais configurações de <gui>Acessibilidade</gui> forem habilitadas."
 
 #. (itstool) path: page/p
@@ -394,9 +394,9 @@ msgstr "Ative e desative rapidamente o alto contraste"
 #. (itstool) path: note/p
 #: C/a11y-contrast.page:58
 msgid ""
-"You can turn high contrast on and off by clicking the <link xref=\"a11y-"
-"icon\">accessibility icon</link> on the taskbar and selecting <gui>High "
-"Contrast</gui>."
+"You can turn high contrast on and off by clicking the <link "
+"xref=\"a11y-icon\">accessibility icon</link> on the taskbar and selecting "
+"<gui>High Contrast</gui>."
 msgstr "Você pode ativar e desativar rapidamente o alto contraste clicando no <link xref=\"a11y-icon\">ícone de acessibilidade</link> na barra de tarefas e selecionando <gui>Alto contraste</gui>."
 
 #. (itstool) path: info/desc
@@ -601,8 +601,8 @@ msgstr "Ampliando uma área da tela"
 #. (itstool) path: page/p
 #: C/a11y-mag.page:35
 msgid ""
-"Magnifying the screen is different than just enlarging the <link xref"
-"=\"a11y-font-size\">text size</link>. This feature is like having a "
+"Magnifying the screen is different than just enlarging the <link "
+"xref=\"a11y-font-size\">text size</link>. This feature is like having a "
 "magnifying glass, allowing you to move around by zooming in on parts of the "
 "screen."
 msgstr "Ampliar a tela é diferente de simplesmente aumentar o <link xref=\"a11y-font-size\">tamanho do texto</link>. Este recurso é como ter uma lupa de aumento, que permite que você a mova para ampliar partes da tela."
@@ -630,8 +630,8 @@ msgstr "Você agora pode mover pela área da tela. Movendo o mouse para os canto
 #. (itstool) path: note/p
 #: C/a11y-mag.page:68
 msgid ""
-"You can quickly turn zoom on and off by clicking the <link xref=\"a11y-"
-"icon\">accessibility icon</link> on the taskbar and selecting "
+"You can quickly turn zoom on and off by clicking the <link "
+"xref=\"a11y-icon\">accessibility icon</link> on the taskbar and selecting "
 "<gui>Zoom</gui>."
 msgstr "Você pode ativar e desativar rapidamente o ampliador clicando no <link xref=\"a11y-icon\">ícone de acessibilidade</link> na barra de tarefas e selecionando <gui>Ampliador</gui>."
 
@@ -667,8 +667,9 @@ msgstr "Você pode ativar o vídeo invertido ou <gui>Preto no branco</gui> e aju
 msgid ""
 "<link xref=\"a11y#vision\">Seeing</link>, <link "
 "xref=\"a11y#sound\">hearing</link>, <link "
-"xref=\"a11y#mobility\">mobility</link>, <link xref=\"a11y-"
-"braille\">braille</link>, <link xref=\"a11y-mag\">screen magnifier</link>…"
+"xref=\"a11y#mobility\">mobility</link>, <link "
+"xref=\"a11y-braille\">braille</link>, <link xref=\"a11y-mag\">screen "
+"magnifier</link>…"
 msgstr "<link xref=\"a11y#vision\">Visão</link>, <link xref=\"a11y#sound\">audição</link>, <link xref=\"a11y#mobility\">mobilidade</link>, <link xref=\"a11y-braille\">braille</link>, <link xref=\"a11y-mag\">ampliador de tela</link>…"
 
 #. (itstool) path: page/title
@@ -859,9 +860,9 @@ msgstr "Ative e desative rapidamente o leitor de tela"
 #. (itstool) path: note/p
 #: C/a11y-screen-reader.page:61
 msgid ""
-"You can turn Screen Reader on and off by clicking the <link xref=\"a11y-"
-"icon\">accessibility icon</link> in the taskbar and selecting <gui>Screen "
-"Reader</gui>."
+"You can turn Screen Reader on and off by clicking the <link "
+"xref=\"a11y-icon\">accessibility icon</link> in the taskbar and selecting "
+"<gui>Screen Reader</gui>."
 msgstr "Você pode ativar e desativar rapidamente o leitor de tela clicando no <link xref=\"a11y-icon\">ícone de acessibilidade</link> na barra de tarefas e selecionando <gui>Leitor de tela</gui>."
 
 #. (itstool) path: info/desc
@@ -908,10 +909,10 @@ msgstr "Alterne <gui>Habilitar por teclado</gui> para ativar ou desativar as tec
 #. (itstool) path: note/p
 #: C/a11y-slowkeys.page:75
 msgid ""
-"You can also turn slow keys on and off by clicking the <link xref=\"a11y-"
-"icon\">accessibility icon</link> on the taskbar and selecting <gui>Slow "
-"Keys</gui>. The accessibility icon is visible when one or more settings have"
-" been enabled from the <gui>Accessibility</gui> panel."
+"You can also turn slow keys on and off by clicking the <link "
+"xref=\"a11y-icon\">accessibility icon</link> on the taskbar and selecting "
+"<gui>Slow Keys</gui>. The accessibility icon is visible when one or more "
+"settings have been enabled from the <gui>Accessibility</gui> panel."
 msgstr "Você pode ativar e desativar as teclas lentar clicando no <link xref=\"a11y-icon\">ícone de acessibilidade</link> na barra de tarefas e selecionando <gui>Teclas lentas</gui>. O ícone de acessibilidade fica visível quando uma ou mais configurações de <gui>Acessibilidade</gui> foram habilitadas."
 
 #. (itstool) path: page/p
@@ -981,10 +982,10 @@ msgstr "Alterne <gui>Habilitar por teclado</gui> para ativar e desativar as tecl
 #. (itstool) path: note/p
 #: C/a11y-stickykeys.page:78
 msgid ""
-"You can also turn sticky keys on and off by clicking the <link xref=\"a11y-"
-"icon\">accessibility icon</link> on the taskbar and selecting <gui>Sticky "
-"Keys</gui>. The accessibility icon is visible when one or more settings have"
-" been enabled from the <gui>Accessibility</gui> panel."
+"You can also turn sticky keys on and off by clicking the <link "
+"xref=\"a11y-icon\">accessibility icon</link> on the taskbar and selecting "
+"<gui>Sticky Keys</gui>. The accessibility icon is visible when one or more "
+"settings have been enabled from the <gui>Accessibility</gui> panel."
 msgstr "Você pode ativar ou desativar as teclas de aderência clicando no <link xref=\"a11y-icon\">ícone de acessibilidade</link> na barra de tarefas e selecionando <gui>Teclas de aderência</gui>. O ícone de acessibilidade fica visível quando uma ou mais configurações de <gui>Acessibilidade</gui> foram habilitadas."
 
 #. (itstool) path: page/p
@@ -1070,8 +1071,8 @@ msgstr "Selecione se você deseja que a tela inteira ou apenas o título da jane
 #. (itstool) path: note/p
 #: C/a11y-visualalert.page:67
 msgid ""
-"You can quickly turn visual alerts on and off by clicking the <link xref"
-"=\"a11y-icon\">accessibility icon</link> on the taskbar and selecting "
+"You can quickly turn visual alerts on and off by clicking the <link "
+"xref=\"a11y-icon\">accessibility icon</link> on the taskbar and selecting "
 "<gui>Visual Alerts</gui>."
 msgstr "Você pode (des)ativar rapidamente os alertas visuais clicando no <link xref=\"a11y-icon\">ícone de acessibilidade</link> na barra de tarefas e selecionando <gui>Alertas visuais</gui>."
 
@@ -1443,9 +1444,9 @@ msgstr "Clique em <gui>Remover</gui> no diálogo de confirmação."
 #. (itstool) path: note/p
 #: C/accounts-remove.page:75
 msgid ""
-"Instead of deleting the account completely, it is possible to <link xref"
-"=\"accounts-disable-service\">restrict the services</link> accessed by your "
-"desktop."
+"Instead of deleting the account completely, it is possible to <link "
+"xref=\"accounts-disable-service\">restrict the services</link> accessed by "
+"your desktop."
 msgstr "Ao invés de excluir a conta completamente, é possível <link xref=\"accounts-disable-service\">restringir os serviços</link> acessados pelo seu computador."
 
 #. (itstool) path: credit/years
@@ -1639,9 +1640,9 @@ msgstr "Veja <link xref=\"accounts-which-application\"/> para informação sobre
 #. (itstool) path: info/desc
 #: C/accounts.page:19
 msgid ""
-"<link xref=\"accounts-add\">Add an online account</link>, <link xref"
-"=\"accounts-remove\">Remove an account</link>, <link xref=\"accounts-which-"
-"application\">Learn about services</link>…"
+"<link xref=\"accounts-add\">Add an online account</link>, <link "
+"xref=\"accounts-remove\">Remove an account</link>, <link xref=\"accounts-"
+"which-application\">Learn about services</link>…"
 msgstr "<link xref=\"accounts-add\">Adicione uma conta on-line</link>, <link xref=\"accounts-remove\">Exclua uma conta</link>, <link xref=\"accounts-which-application\">Aprenda sobre os serviços</link>…"
 
 #. (itstool) path: page/title
@@ -1882,8 +1883,8 @@ msgstr "Se você perdeu ou excluiu algum arquivo seu, mas tem uma cópia de segu
 #: C/backup-restore.page:28
 msgid ""
 "If you want to restore your backup from a device such as external hard "
-"drive, USB drive or another computer on the network, you can <link xref"
-"=\"files-copy\">copy them</link> back to your computer."
+"drive, USB drive or another computer on the network, you can <link "
+"xref=\"files-copy\">copy them</link> back to your computer."
 msgstr "Se você quiser restaurar sua cópia de segurança de um dispositivo como uma unidade de disco externa, uma unidade USB ou um outro computador na rede, você pode <link xref=\"files-copy\">copiá-los</link> de volta a seu computador."
 
 #. (itstool) path: item/p
@@ -2187,9 +2188,9 @@ msgstr "A melhor forma de fazer cópia de segurança é fazê-las regularmente, 
 #. (itstool) path: info/desc
 #: C/bluetooth.page:22
 msgid ""
-"<link xref=\"bluetooth-connect-device\">Connect</link>, <link xref"
-"=\"bluetooth-send-file\">send files</link>, <link xref=\"bluetooth-turn-on-"
-"off\">turn on and off</link>…"
+"<link xref=\"bluetooth-connect-device\">Connect</link>, <link "
+"xref=\"bluetooth-send-file\">send files</link>, <link xref=\"bluetooth-turn-"
+"on-off\">turn on and off</link>…"
 msgstr "<link xref=\"bluetooth-connect-device\">Conectar</link>, <link xref=\"bluetooth-send-file\">enviar arquivos</link>, <link xref=\"bluetooth-turn-on-off\">ligar/desligar</link>…"
 
 #. (itstool) path: page/title
@@ -3837,8 +3838,8 @@ msgid ""
 "Using models such as a CIE 1931 chromaticity diagram is a huge "
 "simplification of the human visual system, and real gamuts are expressed as "
 "3D hulls, rather than 2D projections. A 2D projection of a 3D shape can "
-"sometimes be misleading, so if you want to see the 3D hull, use the <code"
-">gcm-viewer</code> application."
+"sometimes be misleading, so if you want to see the 3D hull, use the "
+"<code>gcm-viewer</code> application."
 msgstr "Usar modelos como um diagrama de cromaticidade CIE de 1931 é uma enorme simplificação da visão humana e gama de cores reais são expressas por cascos tridimensionais em vez de projeções 2D. Essas projeções bidimensionais de uma forma 3D às vezes são enganosas. Assim, se quiser ver o casco 3D, use o aplicativo <code>gcm-viewer</code>."
 
 #. (itstool) path: figure/desc
@@ -5738,9 +5739,10 @@ msgstr "No gerenciador de arquivos, dê um clique duplo em qualquer pasta para v
 #. (itstool) path: section/p
 #: C/files-browse.page:71
 msgid ""
-"When looking through the files in a folder, you can quickly <link xref"
-"=\"files-preview\">preview each file</link> by pressing the space bar to be "
-"sure you have the right file before opening it, copying it, or deleting it."
+"When looking through the files in a folder, you can quickly <link "
+"xref=\"files-preview\">preview each file</link> by pressing the space bar to"
+" be sure you have the right file before opening it, copying it, or deleting "
+"it."
 msgstr "Ao buscar por arquivos em uma pasta, você pode <link xref=\"files-preview\">fazer uma pré-visualização de um arquivo</link> rapidamente, pressionando a barra de espaço: isso assegura que você está com o arquivo certo antes de abri-lo, copiá-lo ou excluí-lo."
 
 #. (itstool) path: section/p
@@ -5921,8 +5923,9 @@ msgstr "Você pode forçar o arquivo a ser copiado se mantiver pressionada a tec
 msgid ""
 "You cannot copy or move a file into a folder that is <em>read-only</em>. "
 "Some folders are read-only to prevent you from making changes to their "
-"contents. You can change things from being read-only by <link xref"
-"=\"nautilus-file-properties-permissions\">changing file permissions </link>."
+"contents. You can change things from being read-only by <link "
+"xref=\"nautilus-file-properties-permissions\">changing file permissions "
+"</link>."
 msgstr "Você não pode copiar ou mover um arquivo para uma pasta que seja de <em>somente-leitura</em>. Algumas pastas são assim para impedir que você faça alterações em seu conteúdo. Você pode alterar as coisas para deixarem de ser de somente-leitura <link xref=\"nautilus-file-properties-permissions\">alterando as permissões de arquivo</link>."
 
 #. (itstool) path: info/desc
@@ -6642,8 +6645,8 @@ msgstr "A opção para renomear está acinzentada"
 msgid ""
 "If <gui>Rename</gui> is grayed out, you do not have permission to rename the"
 " file. You should use caution with renaming such files, as renaming some "
-"protected files may cause your system to become unstable. See <link xref"
-"=\"nautilus-file-properties-permissions\"/> for more information."
+"protected files may cause your system to become unstable. See <link "
+"xref=\"nautilus-file-properties-permissions\"/> for more information."
 msgstr "Se <gui>Renomear</gui> estiver acinzentado, você não tem permissão para renomear o arquivo. Você deveria ter cuidado ao renomear tais arquivos, pois renomear alguns arquivos protegidos pode causar instabilidade no seu sistema. Veja <link xref=\"nautilus-file-properties-permissions\"/> para mais informações."
 
 #. (itstool) path: info/desc
@@ -7926,8 +7929,8 @@ msgid ""
 "The fastest way to change to another layout is by using the <gui>Input "
 "Source</gui> <gui>Keyboard Shortcuts</gui>. These shortcuts open the "
 "<gui>Input Source</gui> chooser where you can move forward and backward. By "
-"default, you can switch to the next input source with <keyseq><key xref"
-"=\"keyboard-key-super\">Super</key><key>Space</key></keyseq> and to the "
+"default, you can switch to the next input source with <keyseq><key "
+"xref=\"keyboard-key-super\">Super</key><key>Space</key></keyseq> and to the "
 "previous one with "
 "<keyseq><key>Shift</key><key>Super</key><key>Space</key></keyseq>. You can "
 "change these shortcuts in the <gui>Keyboard</gui> settings."
@@ -8391,8 +8394,8 @@ msgstr "bandeira"
 #: C/keyboard-osk.page:77
 msgid ""
 "Press the <gui style=\"button\"><_:media-1/></gui> button to change your "
-"settings for <link xref=\"session-language\">Language</link> or <link xref"
-"=\"keyboard-layouts\">Input Sources</link>."
+"settings for <link xref=\"session-language\">Language</link> or <link "
+"xref=\"keyboard-layouts\">Input Sources</link>."
 msgstr "Pressione o botão <gui style=\"button\"><_:media-1/></gui> para alterar suas configurações para <link xref=\"session-language\">Idioma</link> ou <link xref=\"keyboard-layouts\">Fontes de entrada</link>."
 
 #. (itstool) path: info/desc
@@ -9175,8 +9178,8 @@ msgstr "Se você desejar alterar o comando que está associado com um atalho de 
 #. (itstool) path: info/desc
 #: C/keyboard.page:11
 msgid ""
-"<link xref=\"keyboard-layouts\">Keyboard layouts</link>, <link xref"
-"=\"keyboard-cursor-blink\">cursor blinking</link>, <link "
+"<link xref=\"keyboard-layouts\">Keyboard layouts</link>, <link "
+"xref=\"keyboard-cursor-blink\">cursor blinking</link>, <link "
 "xref=\"a11y#mobility\">keyboard accessibility</link>…"
 msgstr "<link xref=\"keyboard-layouts\">Disposições de teclado</link>, <link xref=\"keyboard-cursor-blink\">cursor intermitente</link>, <link xref=\"a11y#mobility\">acessibilidade no teclado</link>…"
 
@@ -9380,9 +9383,9 @@ msgstr "desbloqueio de rotação"
 #: C/look-resolution.page:89
 msgid ""
 "If your device rotates the screen automatically, you can lock the current "
-"rotation using the <_:media-1/> button at the bottom of the <gui xref"
-"=\"shell-introduction#systemmenu\">system menu</gui>. To unlock, press the "
-"<_:media-2/> button"
+"rotation using the <_:media-1/> button at the bottom of the <gui "
+"xref=\"shell-introduction#systemmenu\">system menu</gui>. To unlock, press "
+"the <_:media-2/> button"
 msgstr "Se o dispositivo girar a tela automaticamente, você poderá bloquear a rotação atual usando o botão <_:media-1/> na parte inferior do <gui xref=\"shell-introduction#systemmenu\">menu do sistema</gui>. Para desbloquear, pressione o botão <_:media-2/>"
 
 #. (itstool) path: section/title
@@ -9530,9 +9533,9 @@ msgstr "Vídeos e câmeras de vídeo"
 #. (itstool) path: info/desc
 #: C/more-help.page:18
 msgid ""
-"<link xref=\"about-this-guide\">Tips on using this guide</link>, <link xref"
-"=\"get-involved\">help improve this guide</link>, <link xref=\"help-mailing-"
-"list\">mailing list</link>, <link xref=\"help-irc\">IRC</link>…"
+"<link xref=\"about-this-guide\">Tips on using this guide</link>, <link "
+"xref=\"get-involved\">help improve this guide</link>, <link xref=\"help-"
+"mailing-list\">mailing list</link>, <link xref=\"help-irc\">IRC</link>…"
 msgstr "<link xref=\"about-this-guide\">Dicas de como usar este guia</link>, <link xref=\"get-involved\">ajuda a melhorar este guia</link>, <link xref=\"help-mailing-list\">lista de discussão</link>, <link xref=\"help-irc\">IRC</link>…"
 
 #. (itstool) path: page/title
@@ -10019,8 +10022,8 @@ msgstr "Se o seu mouse tiver suporte a multitoque, execute o clique com botão d
 #. (itstool) path: item/p
 #: C/mouse-touchpad-click.page:91
 msgid ""
-"If your touchpad supports multi-finger taps, <link xref=\"mouse-middleclick"
-"\">middle-click</link> by tapping with three fingers at once."
+"If your touchpad supports multi-finger taps, <link xref=\"mouse-"
+"middleclick\">middle-click</link> by tapping with three fingers at once."
 msgstr "Se o seu touchpad tem suporte a multitoque, execute o <link xref=\"mouse-middleclick\">clique com botão do meio</link> tocando com três dedos de uma só vez."
 
 #. (itstool) path: note/p
@@ -10253,9 +10256,9 @@ msgstr ""
 #: C/music-player-ipodtransfer.page:21
 msgid ""
 "You also need to wait for the songs to finish copying to the iPod before you"
-" unplug it. Before unplugging the iPod, make sure you choose to <link xref"
-"=\"files-removedrive\">safely remove it</link>. This will make sure that all"
-" of the songs have been copied across properly."
+" unplug it. Before unplugging the iPod, make sure you choose to <link "
+"xref=\"files-removedrive\">safely remove it</link>. This will make sure that"
+" all of the songs have been copied across properly."
 msgstr "Você também precisa esperar as músicas acabarem de copiar para o iPod antes de desconectá-lo. Antes de desconectar o iPod, certifique-se de que você <link xref=\"files-removedrive\">removeu com segurança</link>. Isso garantirá que todas as músicas sejam copiadas apropriadamente."
 
 #. (itstool) path: page/p
@@ -11733,8 +11736,8 @@ msgstr "O Projeto de Documentação do GNOME"
 #. (itstool) path: info/desc
 #: C/net-email.page:25
 msgid ""
-"<link xref=\"net-default-email\">Default email apps</link>, <link xref"
-"=\"net-email-virus\">Should I scan for viruses?</link>…"
+"<link xref=\"net-default-email\">Default email apps</link>, <link "
+"xref=\"net-email-virus\">Should I scan for viruses?</link>…"
 msgstr "<link xref=\"net-default-email\">Aplicativos padrões de e-mail</link>, <link xref=\"net-email-virus\">Eu deveria verificar por vírus?</link>…"
 
 #. (itstool) path: page/title
@@ -13531,10 +13534,10 @@ msgstr "Network controller: Intel Corporation PRO/Wireless 3945ABG [Golan] Netwo
 #: C/net-wireless-troubleshooting-hardware-check.page:84
 #: C/net-wireless-troubleshooting-hardware-check.page:117
 msgid ""
-"If you found your wireless adapter in the list, proceed to the <link xref"
-"=\"net-wireless-troubleshooting-device-drivers\">Device Drivers step</link>."
-" If you didn’t find anything related to your wireless adapter, see <link "
-"xref=\"#not-recognized\">the instructions below</link>."
+"If you found your wireless adapter in the list, proceed to the <link "
+"xref=\"net-wireless-troubleshooting-device-drivers\">Device Drivers "
+"step</link>. If you didn’t find anything related to your wireless adapter, "
+"see <link xref=\"#not-recognized\">the instructions below</link>."
 msgstr "Se você localizou seu adaptador de rede sem fio na lista, continue com a etapa de <link xref=\"net-wireless-troubleshooting-device-drivers\">Drivers de dispositivos</link>. Se você não localizou qualquer dos termos relacionados a seu adaptador de rede sem fio, veja <link xref=\"#not-recognized\">as instruções abaixo</link>."
 
 #. (itstool) path: section/title
@@ -13931,9 +13934,9 @@ msgstr "Usando <em>alguma</em> criptografia é sempre melhor que nenhuma, mas WE
 #. (itstool) path: info/desc
 #: C/net-wireless.page:15
 msgid ""
-"<link xref=\"net-wireless-connect\">Connect to Wi-Fi</link>, <link xref"
-"=\"net-wireless-hidden\">hidden networks</link>, <link xref=\"net-wireless-"
-"disconnecting\">Wi-Fi disconnecting</link>…"
+"<link xref=\"net-wireless-connect\">Connect to Wi-Fi</link>, <link "
+"xref=\"net-wireless-hidden\">hidden networks</link>, <link xref=\"net-"
+"wireless-disconnecting\">Wi-Fi disconnecting</link>…"
 msgstr "<link xref=\"net-wireless-connect\">Conectar-se a Wi-Fi</link>, <link xref=\"net-wireless-hidden\">redes ocultas</link>, <link xref=\"net-wireless-disconnecting\">desconectando</link>…"
 
 #. (itstool) path: page/title
@@ -14388,8 +14391,8 @@ msgstr "Por que meu computador desliga quando fecho a tampa?"
 #. (itstool) path: page/p
 #: C/power-closelid.page:37
 msgid ""
-"When you close the lid of your laptop, your computer will <link xref"
-"=\"power-suspend\"><em>suspend</em></link> in order to save power. This "
+"When you close the lid of your laptop, your computer will <link "
+"xref=\"power-suspend\"><em>suspend</em></link> in order to save power. This "
 "means that the computer is not actually turned off — it has just gone to "
 "sleep. You can resume it by opening the lid. If it does not resume, try "
 "clicking the mouse or pressing a key. If that still does not work, press the"
@@ -15022,9 +15025,9 @@ msgstr "<link xref=\"session-language\">Idioma</link>, <link xref=\"session-form
 #. (itstool) path: info/desc
 #: C/prefs-sharing.page:20
 msgid ""
-"<link xref=\"sharing-bluetooth\">Bluetooth sharing</link>, <link xref"
-"=\"sharing-personal\">Personal file sharing</link>, <link xref=\"sharing-"
-"desktop\">Screen sharing</link>,"
+"<link xref=\"sharing-bluetooth\">Bluetooth sharing</link>, <link "
+"xref=\"sharing-personal\">Personal file sharing</link>, <link "
+"xref=\"sharing-desktop\">Screen sharing</link>,"
 msgstr ""
 
 #. (itstool) path: page/title
@@ -15049,8 +15052,8 @@ msgstr "Configurações"
 #: C/prefs.page:14
 msgid ""
 "<link xref=\"keyboard\">Keyboard</link>, <link xref=\"mouse\">mouse &amp; "
-"touchpad</link>, <link xref=\"prefs-display\">display</link>, <link xref"
-"=\"prefs-language\">languages</link>, <link xref=\"user-accounts\">user "
+"touchpad</link>, <link xref=\"prefs-display\">display</link>, <link "
+"xref=\"prefs-language\">languages</link>, <link xref=\"user-accounts\">user "
 "accounts</link>…"
 msgstr "<link xref=\"keyboard\">Teclado</link>, <link xref=\"mouse\">mouse &amp; touchpad</link>, <link xref=\"prefs-display\">monitor</link>, <link xref=\"prefs-language\">idiomas</link>, <link xref=\"user-accounts\">contas de usuários</link>…"
 
@@ -15115,8 +15118,8 @@ msgstr "A disponibilidade dessas opções podem depender do tipo da impressora q
 #. (itstool) path: info/desc
 #: C/printing-booklet-duplex.page:23
 msgid ""
-"Print folded booklets (like a book or pamphlet) from a PDF using normal A4"
-"/Letter-size paper."
+"Print folded booklets (like a book or pamphlet) from a PDF using normal "
+"A4/Letter-size paper."
 msgstr "Imprima folhetos dobrados (como um livro ou panfleto) de um PDF usando papel A4/Carta de tamanho normal."
 
 #. (itstool) path: page/title
@@ -16455,8 +16458,8 @@ msgid ""
 "your lock screen. This is convenient, for example, to see if you have any "
 "email without unlocking your screen. If you’re concerned about other people "
 "seeing these notifications, switch <gui>Show Notifications on Lock "
-"Screen</gui> off. For further notification settings, refer to <link xref"
-"=\"shell-notifications\"/>."
+"Screen</gui> off. For further notification settings, refer to <link "
+"xref=\"shell-notifications\"/>."
 msgstr "Aplicativos podem apresentar notificações a você que também são exibidas em sua tela de bloqueio. Isso é conveniente, por exemplo, para ver se você tem algum e-mail sem desbloquear sua tela. Se você está preocupado com outras pessoas verem essas notificações, desative <gui>Mostrar notificações na tela de bloqueio</gui>. Para mais configurações de notificação, confira <link xref=\"shell-notifications\"/>."
 
 #. (itstool) path: page/p
@@ -17257,8 +17260,8 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/shell-apps-favorites.page:37
 msgid ""
-"<steps> <item> <p if:test=\"!platform:gnome-classic\">Open the <gui xref"
-"=\"shell-introduction#overview\">Activities</gui> overview by clicking "
+"<steps> <item> <p if:test=\"!platform:gnome-classic\">Open the <gui "
+"xref=\"shell-introduction#overview\">Activities</gui> overview by clicking "
 "<gui>Activities</gui> at the top left of the screen</p> <p "
 "if:test=\"platform:gnome-classic\">Click the <gui xref=\"shell-"
 "introduction#activities\">Applications</gui> menu at the top left of the "
@@ -17315,8 +17318,8 @@ msgstr ""
 msgid ""
 "You can start applications from the <gui xref=\"shell-"
 "introduction#desktop\">Applications</gui> menu at the top left of the "
-"screen, or you can use the <gui>Desktop</gui> by pressing the <key xref"
-"=\"keyboard-key-super\">Super</key> key."
+"screen, or you can use the <gui>Desktop</gui> by pressing the <key "
+"xref=\"keyboard-key-super\">Super</key> key."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -17346,8 +17349,8 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:57
 msgid ""
-"If you have applications that you use very frequently, you can <link xref"
-"=\"shell-apps-favorites\">add them to the taskbar</link> yourself."
+"If you have applications that you use very frequently, you can <link "
+"xref=\"shell-apps-favorites\">add them to the taskbar</link> yourself."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -17432,9 +17435,9 @@ msgstr "Para permitir que outros usuários usem o seu computador, você pode enc
 #. (itstool) path: section/p
 #: C/shell-exit.page:74
 msgid ""
-"To <gui>Log Out</gui> or <gui>Switch User</gui>, click the <link xref"
-"=\"shell-introduction#usermenu\">user menu</link> on the right side of the "
-"taskbar, expand <gui>Power Off / Log Out</gui>, and select the correct "
+"To <gui>Log Out</gui> or <gui>Switch User</gui>, click the <link "
+"xref=\"shell-introduction#usermenu\">user menu</link> on the right side of "
+"the taskbar, expand <gui>Power Off / Log Out</gui>, and select the correct "
 "option."
 msgstr ""
 
@@ -18505,10 +18508,10 @@ msgstr ""
 #: C/shell-windows-lost.page:33
 msgid ""
 "Press <keyseq><key xref=\"keyboard-key-"
-"super\">Super</key><key>Tab</key></keyseq> to display the <link xref"
-"=\"shell-windows-switching\">window switcher</link>. Continue to hold down "
-"the <key>Super</key> key and press <key>Tab</key> to cycle through the open "
-"windows, or <keyseq><key>Shift</key><key>Tab</key> </keyseq> to cycle "
+"super\">Super</key><key>Tab</key></keyseq> to display the <link "
+"xref=\"shell-windows-switching\">window switcher</link>. Continue to hold "
+"down the <key>Super</key> key and press <key>Tab</key> to cycle through the "
+"open windows, or <keyseq><key>Shift</key><key>Tab</key> </keyseq> to cycle "
 "backwards."
 msgstr "Pressione <keyseq><key xref=\"keyboard-key-super\">Super</key><key>Tab</key></keyseq> para exibir o <link xref=\"shell-windows-switching\">alternador de janela</link>. Continue a segurar a tecla <key>Super</key> e pressione <key>Tab</key> para alternar entre as janelas abertas, ou <keyseq><key>Shift</key><key>Tab</key></keyseq> para alternar no sentido contrário."
 
@@ -19699,8 +19702,8 @@ msgstr "Para escolher um método de entrada, clique com o botão do meio do mous
 #. (itstool) path: info/desc
 #: C/tips.page:12
 msgid ""
-"<link xref=\"tips-specialchars\">Special characters</link>, <link xref"
-"=\"mouse-middleclick\">middle click shortcuts</link>…"
+"<link xref=\"tips-specialchars\">Special characters</link>, <link "
+"xref=\"mouse-middleclick\">middle click shortcuts</link>…"
 msgstr "<link xref=\"tips-specialchars\">Caracteres especiais</link>, <link xref=\"mouse-middleclick\">atalhos com clique do meio</link>…"
 
 #. (itstool) path: page/title
