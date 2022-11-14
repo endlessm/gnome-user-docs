@@ -2,3 +2,10 @@
 
 %:
 	dh $@
+
+execute_before_dh_install:
+	# modify install links (https://bugs.debian.org/938994)
+	for d in $(CURDIR)/debian/gnome-user-docs/usr/share/help/*/gnome-help; do \
+		cd $$d; \
+		sed -i 's/action="install:/href="apt:/' *.page; \
+	done

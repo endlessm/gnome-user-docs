@@ -6,12 +6,12 @@ Source: gnome-user-docs
 Section: doc
 Priority: optional
 Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
-Uploaders: Jeremy Bicha <jbicha@debian.org>, Laurent Bigonville <bigon@debian.org>
+Uploaders: Gunnar Hjalmarsson <gunnarhj@debian.org>, Jeremy Bicha <jbicha@debian.org>, Laurent Bigonville <bigon@debian.org>
 Build-Depends: debhelper-compat (= 13),
                dh-sequence-gnome
 Build-Depends-Indep: yelp-tools,
                      pkg-config
-Standards-Version: 4.5.0
+Standards-Version: 4.6.0
 Rules-Requires-Root: no
 Vcs-Browser: https://salsa.debian.org/gnome-team/gnome-user-docs
 Vcs-Git: https://salsa.debian.org/gnome-team/gnome-user-docs.git
@@ -20,21 +20,7 @@ Homepage: https://help.gnome.org/users/
 Package: gnome-user-docs
 Architecture: all
 Depends: ${misc:Depends},
-         yelp (>= 3)
-Breaks: gnome-user-guide (<< 3.25.90)
-Replaces: gnome-user-guide (<< 3.25.90)
-Description: GNOME user docs
+         yelp
+Description: GNOME Help
  Documentation for using the GNOME desktop environment and its components.
  It covers usage and setup of the core GNOME programs.
-
-Package: gnome-user-guide
-Section: oldlibs
-Architecture: all
-Depends: ${misc:Depends},
-         gnome-user-docs
-Description: GNOME user's guide (transitional package)
- Documentation for using the GNOME desktop environment and its components.
- It covers usage and setup of the core GNOME programs.
- .
- This package is here to ensure smooth upgrades. It can be removed when
- you see fit.

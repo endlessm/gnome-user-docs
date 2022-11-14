@@ -1,0 +1,21 @@
+Description: Drop experimental style for prefs.page
+ Tiles without images show up as black boxes which gives a buggy
+ impression. Better reverse to the old style for now.
+ .
+ Discussed with upstream:
+ https://mail.gnome.org/archives/gnome-doc-list/2021-July/msg00000.html
+ But let's disagree with Shaun on this detail.
+Author: Gunnar Hjalmarsson <gunnarhj@debian.org>
+Forwarded: not-needed
+
+--- a/gnome-help/C/prefs.page
++++ b/gnome-help/C/prefs.page
+@@ -19,7 +19,7 @@
+   </info>
+ 
+ <title>User &amp; system settings</title>
+-<links type="topic" style="experimental-gnome-tiles toronto"/>
++<links type="topic" style="2column"/>
+ 
+ <comment>
+ <cite date="2012-02-19">shaunm</cite>
