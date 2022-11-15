@@ -55,8 +55,9 @@
       </item>
     </steps>
   </p>
+  <p></p>
   <p if:test="platform:endless">
-    On the Desktop right-click the application icon and select <gui>Add to
+    Right-click the application icon and select <gui>Add to
     Favorites</gui>.
   </p>
 
