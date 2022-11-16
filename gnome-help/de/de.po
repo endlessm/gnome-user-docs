@@ -12,7 +12,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2022-05-25 03:12+0000\n"
+"POT-Creation-Date: 2022-11-16 04:12+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Wolfgang Stöggl <c72578@yahoo.de>, 2016\n"
 "Language-Team: German (http://www.transifex.com/endless-os/gnome-user-docs/language/de/)\n"
@@ -11622,8 +11622,9 @@ msgid ""
 msgstr "Wenn Sie in einer Anwendung auf einen Weblink klicken, wird automatisch ein Webbrowser mit dieser Seite geöffnet. Falls mehrere Browser installiert sind, dann könnte eventuell der falsche Browser geöffnet werden. Um den gewünschten Browser zu öffnen, ändern Sie die Standardeinstellung für den Webbrowser:"
 
 #. (itstool) path: item/p
-#: C/net-default-browser.page:41 C/net-default-email.page:42
-msgid "Go to the Desktop and start typing <gui>Default Applications</gui>."
+#: C/net-default-browser.page:41
+msgid ""
+"Go to the Desktop and start typing <input>Default Applications</input>."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -11668,6 +11669,11 @@ msgid ""
 " one mail application installed, the wrong mail application might open up. "
 "You can fix this by changing which one is the default email application:"
 msgstr "Wenn Sie auf einen Knopf oder Verweis klicken, um eine neue E-Mail zu verfassen (zum Beispiel in einer Textverarbeitung), so wird Ihre vorgegebene E-Mail-Anwendung mit einer noch leeren Nachricht geöffnet, und ist sofort bereit zum Schreiben. Falls mehrere E-Mail-Anwendungen installiert sind, dann könnte die falsche Anwendung geöffnet werden. Sie können dies folgendermaßen einstellen:"
+
+#. (itstool) path: item/p
+#: C/net-default-email.page:42
+msgid "Go to the Desktop and start typing <gui>Default Applications</gui>."
+msgstr ""
 
 #. (itstool) path: item/p
 #: C/net-default-email.page:46
@@ -16681,7 +16687,7 @@ msgstr "Falls Ihr Finger zu trocken ist, könnte dies Probleme bei der Registrie
 #. (itstool) path: section/p
 #. (itstool) path: page/p
 #: C/session-fingerprint.page:57 C/user-changepassword.page:65
-#: C/user-changepicture.page:40
+#: C/user-changepicture.page:41
 msgid ""
 "You need <link xref=\"user-admin-explain\">administrator privileges</link> "
 "to edit user accounts other than your own."
@@ -16690,7 +16696,7 @@ msgstr "Sie benötigen <link xref=\"user-admin-explain\">Systemverwalterrechte</
 #. (itstool) path: item/p
 #: C/session-fingerprint.page:62 C/user-add.page:47
 #: C/user-admin-change.page:42 C/user-autologin.page:33
-#: C/user-changepassword.page:70 C/user-changepicture.page:45
+#: C/user-changepassword.page:70 C/user-changepicture.page:46
 #: C/user-delete.page:53
 msgid "Go to the Desktop and start typing <gui>Users</gui>."
 msgstr ""
@@ -17270,21 +17276,20 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-apps-favorites.page:58
+#: C/shell-apps-favorites.page:59
 msgid ""
-"On the Desktop right-click the application icon and select <gui>Add to "
-"Favorites</gui>."
+"Right-click the application icon and select <gui>Add to Favorites</gui>."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-apps-favorites.page:63
+#: C/shell-apps-favorites.page:64
 msgid ""
 "To remove an application icon from the taskbar, right-click the application "
 "icon and select <gui>Remove from Favorites</gui>."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-apps-favorites.page:66
+#: C/shell-apps-favorites.page:67
 msgid ""
 "Favorite applications also appear in the <gui>Favorites</gui> section of the"
 " <gui xref=\"shell-introduction#activities\">Applications</gui> menu."
@@ -20065,7 +20070,7 @@ msgstr "Sie müssen über <link xref=\"user-admin-explain\">Systemverwalterrecht
 
 #. (itstool) path: item/p
 #: C/user-admin-change.page:46 C/user-autologin.page:37
-#: C/user-changepassword.page:74 C/user-changepicture.page:49
+#: C/user-changepassword.page:74 C/user-changepicture.page:50
 #: C/user-delete.page:57
 msgid "Click <gui>Users</gui> to open the panel."
 msgstr "Klicken Sie auf <gui>Benutzer</gui>, um das Panel zu öffnen."
@@ -20384,11 +20389,11 @@ msgstr "Ändern des Fotos für den Anmeldebildschirm"
 msgid ""
 "When you log in or switch users, you will see a list of users with their "
 "login photos. You can change your photo to a stock image or an image of your"
-" own."
+" own. You can even take a new login photo with your webcam."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:52
+#: C/user-changepicture.page:53
 msgid ""
 "If you want to edit a user other than yourself, press <gui "
 "style=\"button\">Unlock</gui> in the top right corner and type in your "
@@ -20396,7 +20401,7 @@ msgid ""
 msgstr "Wenn Sie einen anderen Benutzer (nicht Sie selbst) bearbeiten wollen, klicken Sie auf <gui style=\"button\">Entsperren</gui> in der oberen rechten Ecke und geben Sie Ihr Passwort ein, wenn Sie darum gebeten werden."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:57
+#: C/user-changepicture.page:58
 msgid ""
 "Click the picture next to your name. A drop-down gallery will be shown with "
 "some stock login photos. If you like one of them, click it to use it for "
@@ -20404,14 +20409,14 @@ msgid ""
 msgstr "Klicken Sie auf das Bild links neben Ihrem Namen. Eine Galerie wird ausgeklappt, in der einige Repertoirebilder angezeigt werden. Gefällt Ihnen eines davon, können Sie es für sich selbst verwenden."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:62
+#: C/user-changepicture.page:63
 msgid ""
 "If you would rather use a picture you already have on your computer, click "
 "<gui>Select a file…</gui>."
 msgstr "Falls Sie lieber ein Bild verwenden wollen, dass bereits auf Ihrem Rechner vorhanden ist, klicken Sie auf <gui>Eine Datei wählen …</gui>."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:66
+#: C/user-changepicture.page:67
 msgid ""
 "If you have a webcam, you can take a new login photo right now by clicking "
 "<gui>Take a picture…</gui>. Take your picture, then move and resize the "

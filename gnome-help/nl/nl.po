@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2022-05-25 03:12+0000\n"
+"POT-Creation-Date: 2022-11-16 04:12+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Hannie Dumoleyn <hannie@ubuntu-nl.org>, 2017-2018\n"
 "Language-Team: Dutch (http://www.transifex.com/endless-os/gnome-user-docs/language/nl/)\n"
@@ -11617,8 +11617,9 @@ msgid ""
 msgstr "Wanneer u in een toepassing op een link naar een webpagina klikt, dan zal automatisch een webbrowser met die pagina worden geopend. Als u echter meer dan één browser geïnstalleerd heeft, dan kan het zijn dat de pagina niet in de webbrowser van uw voorkeur wordt geopend. U kunt hier iets aan doen door de standaard webbrowser te wijzigen:"
 
 #. (itstool) path: item/p
-#: C/net-default-browser.page:41 C/net-default-email.page:42
-msgid "Go to the Desktop and start typing <gui>Default Applications</gui>."
+#: C/net-default-browser.page:41
+msgid ""
+"Go to the Desktop and start typing <input>Default Applications</input>."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -11663,6 +11664,11 @@ msgid ""
 " one mail application installed, the wrong mail application might open up. "
 "You can fix this by changing which one is the default email application:"
 msgstr "Wanneer u op een knop of link klikt om een nieuwe e-mail te verzenden (bijvoorbeeld in uw tekstverwerker), dan wordt uw standaard e-mailprogramma geopend met een leeg bericht, klaar voor u om een e-mailbericht te schrijven. Heeft u echter meer dan één e-mailprogramma geïnstalleerd, dan kan het zijn dat het verkeerde e-mailprogramma geopend wordt. Dit kunt u oplossen door uw standaard e-mailprogramma te wijzigen:"
+
+#. (itstool) path: item/p
+#: C/net-default-email.page:42
+msgid "Go to the Desktop and start typing <gui>Default Applications</gui>."
+msgstr ""
 
 #. (itstool) path: item/p
 #: C/net-default-email.page:46
@@ -16676,7 +16682,7 @@ msgstr "Als uw vinger te droog is, dan kan het moeilijk zijn een vingerafdruk te
 #. (itstool) path: section/p
 #. (itstool) path: page/p
 #: C/session-fingerprint.page:57 C/user-changepassword.page:65
-#: C/user-changepicture.page:40
+#: C/user-changepicture.page:41
 msgid ""
 "You need <link xref=\"user-admin-explain\">administrator privileges</link> "
 "to edit user accounts other than your own."
@@ -16685,7 +16691,7 @@ msgstr "Om andere gebruikersaccounts dan de uwe te bewerken dient u <link xref=\
 #. (itstool) path: item/p
 #: C/session-fingerprint.page:62 C/user-add.page:47
 #: C/user-admin-change.page:42 C/user-autologin.page:33
-#: C/user-changepassword.page:70 C/user-changepicture.page:45
+#: C/user-changepassword.page:70 C/user-changepicture.page:46
 #: C/user-delete.page:53
 msgid "Go to the Desktop and start typing <gui>Users</gui>."
 msgstr ""
@@ -17265,21 +17271,20 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-apps-favorites.page:58
+#: C/shell-apps-favorites.page:59
 msgid ""
-"On the Desktop right-click the application icon and select <gui>Add to "
-"Favorites</gui>."
+"Right-click the application icon and select <gui>Add to Favorites</gui>."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-apps-favorites.page:63
+#: C/shell-apps-favorites.page:64
 msgid ""
 "To remove an application icon from the taskbar, right-click the application "
 "icon and select <gui>Remove from Favorites</gui>."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-apps-favorites.page:66
+#: C/shell-apps-favorites.page:67
 msgid ""
 "Favorite applications also appear in the <gui>Favorites</gui> section of the"
 " <gui xref=\"shell-introduction#activities\">Applications</gui> menu."
@@ -20060,7 +20065,7 @@ msgstr "Om een accounttype te wijzigen dient u <link xref=\"user-admin-explain\"
 
 #. (itstool) path: item/p
 #: C/user-admin-change.page:46 C/user-autologin.page:37
-#: C/user-changepassword.page:74 C/user-changepicture.page:49
+#: C/user-changepassword.page:74 C/user-changepicture.page:50
 #: C/user-delete.page:57
 msgid "Click <gui>Users</gui> to open the panel."
 msgstr "Klik op <gui>Gebruikersaccounts</gui> om het paneel te openen."
@@ -20379,11 +20384,11 @@ msgstr "De foto op uw aanmeldscherm wijzigen"
 msgid ""
 "When you log in or switch users, you will see a list of users with their "
 "login photos. You can change your photo to a stock image or an image of your"
-" own."
+" own. You can even take a new login photo with your webcam."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:52
+#: C/user-changepicture.page:53
 msgid ""
 "If you want to edit a user other than yourself, press <gui "
 "style=\"button\">Unlock</gui> in the top right corner and type in your "
@@ -20391,7 +20396,7 @@ msgid ""
 msgstr "Als u een andere gebruiker dan uzelf wilt bewerken: klik op <gui style=\"button\">Ontgrendelen</gui> rechtsboven in de hoek en voer uw wachtwoord in wanneer daar om gevraagd wordt."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:57
+#: C/user-changepicture.page:58
 msgid ""
 "Click the picture next to your name. A drop-down gallery will be shown with "
 "some stock login photos. If you like one of them, click it to use it for "
@@ -20399,14 +20404,14 @@ msgid ""
 msgstr "Klik op de afbeelding naast uw naam en er zal een overzicht getoond worden met standaard meegeleverde aanmeldfoto's. Wanneer een afbeelding u bevalt, klik er dan op om deze te gebruiken."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:62
+#: C/user-changepicture.page:63
 msgid ""
 "If you would rather use a picture you already have on your computer, click "
 "<gui>Select a file…</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:66
+#: C/user-changepicture.page:67
 msgid ""
 "If you have a webcam, you can take a new login photo right now by clicking "
 "<gui>Take a picture…</gui>. Take your picture, then move and resize the "

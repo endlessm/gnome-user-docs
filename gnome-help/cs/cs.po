@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2022-05-25 03:12+0000\n"
+"POT-Creation-Date: 2022-11-16 04:12+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>, 2014-2021\n"
 "Language-Team: Czech (http://www.transifex.com/endless-os/gnome-user-docs/language/cs/)\n"
@@ -11615,8 +11615,9 @@ msgid ""
 msgstr "Když kliknete v nějaké aplikaci na odkaz vedoucí na www, webový prohlížeč automaticky otevře danou webovou stránku. Pokud ale máte nainstalováno více prohlížečů, může se otevřít v jiném, než chcete. Napravit to můžete změnou výchozího webového prohlížeče:"
 
 #. (itstool) path: item/p
-#: C/net-default-browser.page:41 C/net-default-email.page:42
-msgid "Go to the Desktop and start typing <gui>Default Applications</gui>."
+#: C/net-default-browser.page:41
+msgid ""
+"Go to the Desktop and start typing <input>Default Applications</input>."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -11661,6 +11662,11 @@ msgid ""
 " one mail application installed, the wrong mail application might open up. "
 "You can fix this by changing which one is the default email application:"
 msgstr "Když kliknete na tlačítko nebo odkaz, abyste poslali nový e-mail (například v textovém procesoru), otevře se výchozí poštovní aplikace s prázdnou zprávou, do které můžete začít psát. Pokud ale máte nainstalováno více poštovních aplikací, může se otevřít zrovna ta nesprávná. Napravit to můžete změnou toho, která z těchto aplikací má být výchozí pro poštu:"
+
+#. (itstool) path: item/p
+#: C/net-default-email.page:42
+msgid "Go to the Desktop and start typing <gui>Default Applications</gui>."
+msgstr ""
 
 #. (itstool) path: item/p
 #: C/net-default-email.page:46
@@ -16674,7 +16680,7 @@ msgstr "V případě, že máte příliš suchou pokožku na prstech, můžete m
 #. (itstool) path: section/p
 #. (itstool) path: page/p
 #: C/session-fingerprint.page:57 C/user-changepassword.page:65
-#: C/user-changepicture.page:40
+#: C/user-changepicture.page:41
 msgid ""
 "You need <link xref=\"user-admin-explain\">administrator privileges</link> "
 "to edit user accounts other than your own."
@@ -16683,7 +16689,7 @@ msgstr "Abyste mohli měnit jiný, než svůj, uživatelský účet, potřebujet
 #. (itstool) path: item/p
 #: C/session-fingerprint.page:62 C/user-add.page:47
 #: C/user-admin-change.page:42 C/user-autologin.page:33
-#: C/user-changepassword.page:70 C/user-changepicture.page:45
+#: C/user-changepassword.page:70 C/user-changepicture.page:46
 #: C/user-delete.page:53
 msgid "Go to the Desktop and start typing <gui>Users</gui>."
 msgstr ""
@@ -17263,21 +17269,20 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-apps-favorites.page:58
+#: C/shell-apps-favorites.page:59
 msgid ""
-"On the Desktop right-click the application icon and select <gui>Add to "
-"Favorites</gui>."
+"Right-click the application icon and select <gui>Add to Favorites</gui>."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-apps-favorites.page:63
+#: C/shell-apps-favorites.page:64
 msgid ""
 "To remove an application icon from the taskbar, right-click the application "
 "icon and select <gui>Remove from Favorites</gui>."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/shell-apps-favorites.page:66
+#: C/shell-apps-favorites.page:67
 msgid ""
 "Favorite applications also appear in the <gui>Favorites</gui> section of the"
 " <gui xref=\"shell-introduction#activities\">Applications</gui> menu."
@@ -20058,7 +20063,7 @@ msgstr "Abyste mohli změnit typ účtu, potřebujete <link xref=\"user-admin-ex
 
 #. (itstool) path: item/p
 #: C/user-admin-change.page:46 C/user-autologin.page:37
-#: C/user-changepassword.page:74 C/user-changepicture.page:49
+#: C/user-changepassword.page:74 C/user-changepicture.page:50
 #: C/user-delete.page:57
 msgid "Click <gui>Users</gui> to open the panel."
 msgstr "Kliknutím na <gui>Uživatelé</gui> otevřete příslušný panel."
@@ -20377,11 +20382,11 @@ msgstr "Změna vaší fotografie na přihlašovací obrazovce"
 msgid ""
 "When you log in or switch users, you will see a list of users with their "
 "login photos. You can change your photo to a stock image or an image of your"
-" own."
+" own. You can even take a new login photo with your webcam."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:52
+#: C/user-changepicture.page:53
 msgid ""
 "If you want to edit a user other than yourself, press <gui "
 "style=\"button\">Unlock</gui> in the top right corner and type in your "
@@ -20389,7 +20394,7 @@ msgid ""
 msgstr "Pokud chcete upravovat jiný účet, než svůj, zmáčkněte <gui style=\"button\">Odemknout</gui> v pravém horním rohu a po vyzvání napište své heslo."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:57
+#: C/user-changepicture.page:58
 msgid ""
 "Click the picture next to your name. A drop-down gallery will be shown with "
 "some stock login photos. If you like one of them, click it to use it for "
@@ -20397,14 +20402,14 @@ msgid ""
 msgstr "Klikněte na obrázek vedle svého jména. Rozbalí se galerie se standardními přihlašovacími obrázky. Jestli pro sebe chcete některý z nich, stačí na něj kliknout."
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:62
+#: C/user-changepicture.page:63
 msgid ""
 "If you would rather use a picture you already have on your computer, click "
 "<gui>Select a file…</gui>."
 msgstr "Pokud byste raději použili obrázek, který již máte v počítači, klikněte na <gui>Vybrat soubor…</gui>"
 
 #. (itstool) path: item/p
-#: C/user-changepicture.page:66
+#: C/user-changepicture.page:67
 msgid ""
 "If you have a webcam, you can take a new login photo right now by clicking "
 "<gui>Take a picture…</gui>. Take your picture, then move and resize the "
