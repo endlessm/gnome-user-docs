@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs gnome-41\n"
-"POT-Creation-Date: 2022-02-12 17:11+0000\n"
+"POT-Creation-Date: 2022-12-07 16:54-0700\n"
 "PO-Revision-Date: 2022-03-04 08:07+0100\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>\n"
 "Language-Team: čeština <gnome-cs-list@gnome.org>\n"
@@ -9224,8 +9224,8 @@ msgid ""
 "You need to have the <sys>gnome-shell-extensions</sys> package installed to "
 "make GNOME Classic available."
 msgstr ""
-"Aby bylo GNOME klasické dostupné, musíte mít nainstalovaný balíček <sys>gnome-"
-"shell-extensions</sys>"
+"Aby bylo GNOME klasické dostupné, musíte mít nainstalovaný balíček "
+"<sys>gnome-shell-extensions</sys>"
 
 #. (itstool) path: note/p
 #. Translators: Ubuntu only string
@@ -9234,8 +9234,8 @@ msgid ""
 "<link style=\"button\" action=\"install:gnome-shell-extensions\">Install "
 "<sys>gnome-shell-extensions</sys></link>"
 msgstr ""
-"<link style=\"button\" action=\"install:gnome-shell-extensions\">Nainstalovat "
-"<sys>gnome-shell-extensions</sys></link>"
+"<link style=\"button\" action=\"install:gnome-shell-extensions"
+"\">Nainstalovat <sys>gnome-shell-extensions</sys></link>"
 
 #. (itstool) path: steps/title
 #: C/gnome-classic.page:90

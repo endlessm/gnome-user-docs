@@ -16,7 +16,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs master\n"
-"POT-Creation-Date: 2021-11-03 20:18+0000\n"
+"POT-Creation-Date: 2022-12-07 16:54-0700\n"
 "PO-Revision-Date: 2021-11-06 21:55+0100\n"
 "Last-Translator: Charles Monzat <charles.monzat@free.fr>\n"
 "Language-Team: GNOME French Team <gnomefr@traduc.org>\n"
@@ -3577,10 +3577,6 @@ msgstr ""
 #. whatever you like once you have updated your copy of the file.
 #: C/clock-calendar.page:67 C/shell-introduction.page:161
 #, fuzzy
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/shell-appmenu-shell.png' "
-#| "md5='0e67fd6e4579b0329dbbe561ff0040ef'"
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-appts.png' md5='798eb0c8f0e980bf3bd5b32b456f0ae1'"
@@ -3601,10 +3597,6 @@ msgstr "Horloge, agenda et rendez-vous"
 #. whatever you like once you have updated your copy of the file.
 #: C/clock-calendar.page:72 C/shell-introduction.page:166
 #, fuzzy
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/shell-appts-classic.png' "
-#| "md5='0fa78df255677505ce2cdd5b06e81bbb'"
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-appts-classic.png' "
@@ -7016,7 +7008,6 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/display-night-light.page:41
-#| msgid "Click <gui>Night Light</gui> in the top bar to open the settings."
 msgid "Click <gui>Night Light</gui> in the header bar to open the settings."
 msgstr ""
 "Cliquez sur <gui>Mode nuit</gui> dans la barre d’en-tête pour accéder aux "
@@ -9581,13 +9572,32 @@ msgstr ""
 "extensions. Sur quelques distributions Linux, ces extensions peuvent ne pas "
 "être disponibles, ou ne pas être installées par défaut."
 
-#. (itstool) path: steps/title
+#. (itstool) path: note/p
+#. Translators: Ubuntu only string
 #: C/gnome-classic.page:83
+msgid ""
+"You need to have the <sys>gnome-shell-extensions</sys> package installed to "
+"make GNOME Classic available."
+msgstr ""
+
+#. (itstool) path: note/p
+#. Translators: Ubuntu only string
+#: C/gnome-classic.page:85
+#, fuzzy
+msgid ""
+"<link style=\"button\" action=\"install:gnome-shell-extensions\">Install "
+"<sys>gnome-shell-extensions</sys></link>"
+msgstr ""
+"<link style=\"button\" action=\"install:gnome-tweaks\">Installer "
+"<app>Ajustements</app></link>"
+
+#. (itstool) path: steps/title
+#: C/gnome-classic.page:90
 msgid "To switch from <em>GNOME</em> to <em>GNOME Classic</em>:"
 msgstr "Pour passer de <em>GNOME</em> à <em>GNOME Classique</em> :"
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:85
+#: C/gnome-classic.page:92
 msgid ""
 "Save any open work, and then log out. Click the system menu on the right "
 "side of the top bar and then choose the right option."
@@ -9597,7 +9607,7 @@ msgstr ""
 "choisissez l’option adéquate."
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:89 C/gnome-classic.page:117
+#: C/gnome-classic.page:96 C/gnome-classic.page:124
 msgid ""
 "A confirmation message will appear. Select <gui>Log Out</gui> to confirm."
 msgstr ""
@@ -9605,12 +9615,12 @@ msgstr ""
 "gui> pour confirmer."
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:93 C/gnome-classic.page:121
+#: C/gnome-classic.page:100 C/gnome-classic.page:128
 msgid "At the login screen, select your name from the list."
 msgstr "À l’écran de connexion, sélectionnez votre nom dans la liste."
 
 #. (itstool) path: media/span
-#: C/gnome-classic.page:96 C/net-findip.page:65 C/net-findip.page:91
+#: C/gnome-classic.page:103 C/net-findip.page:65 C/net-findip.page:91
 #: C/net-fixed-ip-address.page:58 C/net-fixed-ip-address.page:61
 #: C/net-macaddress.page:62 C/net-manual.page:55 C/net-manual.page:59
 #: C/net-othersconnect.page:57 C/net-othersedit.page:77
@@ -9621,32 +9631,32 @@ msgid "settings"
 msgstr "paramètres"
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:96
+#: C/gnome-classic.page:103
 msgid "Click the <_:media-1/> button in the bottom right corner."
 msgstr "Cliquez sur le bouton <_:media-1/> situé dans le coin inférieur droit."
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:100
+#: C/gnome-classic.page:107
 msgid "Select <gui>GNOME Classic</gui> from the list."
 msgstr "Sélectionnez <gui>GNOME Classique</gui> dans la liste."
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:103 C/gnome-classic.page:130
+#: C/gnome-classic.page:110 C/gnome-classic.page:137
 msgid "Enter your password in the password entry box."
 msgstr "Saisissez votre mot de passe dans le champ adéquat."
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:106 C/gnome-classic.page:133
+#: C/gnome-classic.page:113 C/gnome-classic.page:140
 msgid "Press <key>Enter</key>."
 msgstr "Appuyez sur <key>Entrée</key>."
 
 #. (itstool) path: steps/title
-#: C/gnome-classic.page:111
+#: C/gnome-classic.page:118
 msgid "To switch from <em>GNOME Classic</em> to <em>GNOME</em>:"
 msgstr "Pour passer de <em>GNOME Classique</em> à <em>GNOME</em> :"
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:113
+#: C/gnome-classic.page:120
 msgid ""
 "Save any open work, and then log out. Click the system menu on the right "
 "side of the top bar, click your name and then choose the right option."
@@ -9656,12 +9666,12 @@ msgstr ""
 "votre nom et choisissez l’option adéquate."
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:124
+#: C/gnome-classic.page:131
 msgid "Click the options icon in the bottom right corner."
 msgstr "Cliquez sur l’icône des options située dans le coin inférieur droit."
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:127
+#: C/gnome-classic.page:134
 msgid "Select <gui>GNOME</gui> from the list."
 msgstr "Sélectionnez <gui>GNOME</gui> dans la liste."
 
@@ -10471,10 +10481,6 @@ msgstr ""
 #. whatever you like once you have updated your copy of the file.
 #: C/keyboard-layouts.page:124
 #, fuzzy
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/input-methods-switcher.png' "
-#| "md5='2ee80298080e748428543267cb499806'"
 msgctxt "_"
 msgid ""
 "external ref='figures/input-methods-switcher.png' "
@@ -23561,10 +23567,6 @@ msgstr ""
 #. whatever you like once you have updated your copy of the file.
 #: C/shell-introduction.page:50
 #, fuzzy
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/shell-top-bar.png' "
-#| "md5='c1eb78ab31aae0accc432677e42681f0'"
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-top-bar.png' "
@@ -23742,10 +23744,6 @@ msgstr "Menu de l’application"
 #. whatever you like once you have updated your copy of the file.
 #: C/shell-introduction.page:132
 #, fuzzy
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/shell-appmenu-shell.png' "
-#| "md5='0e67fd6e4579b0329dbbe561ff0040ef'"
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-appmenu-shell.png' "
@@ -23856,10 +23854,6 @@ msgstr "Menu système"
 #. whatever you like once you have updated your copy of the file.
 #: C/shell-introduction.page:198
 #, fuzzy
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/shell-exit.png' "
-#| "md5='33519aabac7189e55d1bd090732d469a'"
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit.png' md5='a3171c814105408ba7757112562eac3f'"
@@ -23878,10 +23872,6 @@ msgstr "Menu utilisateur"
 #. whatever you like once you have updated your copy of the file.
 #: C/shell-introduction.page:203
 #, fuzzy
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/shell-exit-classic.png' "
-#| "md5='a85e35932532eea59fd6be6cc66ec0d3'"
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-classic.png' "
@@ -25457,10 +25447,6 @@ msgstr "Il y a toujours au minimum un espace de travail."
 #. whatever you like once you have updated your copy of the file.
 #: C/shell-workspaces.page:83
 #, fuzzy
-#| msgctxt "_"
-#| msgid ""
-#| "external ref='figures/shell-workspaces.png' "
-#| "md5='5a7e511449e645bf69111c82868f4db8'"
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-workspaces.png' "

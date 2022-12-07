@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs master\n"
-"POT-Creation-Date: 2021-04-08 19:19+0000\n"
+"POT-Creation-Date: 2022-12-07 16:54-0700\n"
 "PO-Revision-Date: 2021-04-11 00:28+0300\n"
 "Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Turkish <tr@li.org>\n"
@@ -44,7 +44,7 @@ msgstr ""
 #: C/accounts-add.page:28 C/accounts-remove.page:23 C/bluetooth.page:16
 #: C/bluetooth-connect-device.page:29 C/bluetooth-turn-on-off.page:21
 #: C/bluetooth-visibility.page:17 C/clock.page:13 C/disk.page:9
-#: C/display-brightness.page:23 C/files-browse.page:20 C/files-delete.page:19
+#: C/display-brightness.page:24 C/files-browse.page:20 C/files-delete.page:19
 #: C/files-lost.page:18 C/files-open.page:17 C/files-preview.page:16
 #: C/files-removedrive.page:9 C/files-rename.page:17 C/files-search.page:21
 #: C/files-select.page:9 C/files-share.page:16 C/files.page:16
@@ -56,15 +56,15 @@ msgstr ""
 #: C/mouse-problem-notmoving.page:17 C/mouse-sensitivity.page:25
 #: C/mouse-touchpad-click.page:22 C/mouse-wakeup.page:17
 #: C/nautilus-behavior.page:20 C/nautilus-connect.page:15
-#: C/nautilus-display.page:13 C/nautilus-file-properties-basic.page:16
+#: C/nautilus-display.page:14 C/nautilus-file-properties-basic.page:16
 #: C/nautilus-file-properties-permissions.page:24 C/nautilus-prefs.page:8
-#: C/nautilus-preview.page:13 C/nautilus-views.page:17 C/net-findip.page:16
+#: C/nautilus-preview.page:14 C/nautilus-views.page:17 C/net-findip.page:16
 #: C/net-macaddress.page:14 C/net-wireless-adhoc.page:19
 #: C/net-wrongnetwork.page:12 C/net.page:12 C/prefs-display.page:9
 #: C/prefs-language.page:9 C/prefs.page:11 C/printing-setup.page:28
 #: C/privacy-purge.page:26 C/privacy-screen-lock.page:20
 #: C/screen-shot-record.page:18 C/session-formats.page:16
-#: C/session-language.page:19 C/shell-exit.page:20 C/shell-introduction.page:19
+#: C/session-language.page:19 C/shell-exit.page:20 C/shell-introduction.page:20
 #: C/shell-keyboard-shortcuts.page:19 C/shell-windows-maximize.page:14
 #: C/shell-windows-states.page:13 C/shell-windows-tiled.page:13
 #: C/sound-alert.page:12 C/sound-usemic.page:12 C/sound-usespeakers.page:13
@@ -83,7 +83,7 @@ msgstr "Shaun McCance"
 #: C/hardware-problems-graphics.page:9 C/look-display-fuzzy.page:23
 #: C/mouse-doubleclick.page:17 C/mouse-lefthanded.page:16
 #: C/mouse-mousekeys.page:17 C/mouse-problem-notmoving.page:13
-#: C/mouse-sensitivity.page:17 C/nautilus-list.page:17
+#: C/mouse-sensitivity.page:17 C/nautilus-list.page:18
 #: C/net-default-browser.page:15 C/net-default-email.page:15
 #: C/net-email-virus.page:15 C/net-manual.page:17 C/net-othersconnect.page:15
 #: C/net-othersedit.page:15 C/net-proxy.page:19 C/net-slow.page:13
@@ -91,7 +91,7 @@ msgstr "Shaun McCance"
 #: C/net-wireless-noconnection.page:14
 #: C/net-wireless-troubleshooting-device-drivers.page:18
 #: C/net-wrongnetwork.page:16 C/power-batteryestimate.page:22
-#: C/power-batterylife.page:24 C/power-batteryoptimal.page:18
+#: C/power-batterylife.page:25 C/power-batteryoptimal.page:18
 #: C/power-batterywindows.page:22 C/power-othercountry.page:18
 #: C/printing-2sided.page:13 C/printing-cancel-job.page:14
 #: C/printing-differentsize.page:13 C/printing-envelopes.page:13
@@ -115,12 +115,12 @@ msgstr "Phil Bull"
 #: C/clock-world.page:14 C/color-assignprofiles.page:20
 #: C/color-calibrate-scanner.page:22 C/color-calibrate-screen.page:21
 #: C/color-howtoimport.page:20 C/color-testing.page:23
-#: C/contacts-add-remove.page:19 C/contacts.page:13 C/contacts-connect.page:16
-#: C/contacts-edit-details.page:20 C/contacts-link-unlink.page:19
-#: C/contacts-search.page:18 C/contacts-setup.page:16 C/disk-benchmark.page:22
-#: C/disk-capacity.page:16 C/disk-check.page:17 C/display-blank.page:23
-#: C/display-brightness.page:31 C/display-dual-monitors.page:19
-#: C/display-night-light.page:13 C/files-autorun.page:22 C/files-browse.page:28
+#: C/contacts-add-remove.page:19 C/contacts.page:13 C/contacts-connect.page:17
+#: C/contacts-edit-details.page:21 C/contacts-link-unlink.page:20
+#: C/contacts-search.page:18 C/contacts-setup.page:17 C/disk-benchmark.page:22
+#: C/disk-capacity.page:16 C/disk-check.page:17 C/display-blank.page:24
+#: C/display-brightness.page:32 C/display-dual-monitors.page:19
+#: C/display-night-light.page:14 C/files-autorun.page:22 C/files-browse.page:28
 #: C/files-copy.page:22 C/files-delete.page:27 C/files-disc-write.page:13
 #: C/files-hidden.page:18 C/files-lost.page:22 C/files-removedrive.page:17
 #: C/files-rename.page:25 C/files-search.page:25 C/files-share.page:20
@@ -134,9 +134,9 @@ msgstr "Phil Bull"
 #: C/mouse-mousekeys.page:25 C/mouse-sensitivity.page:29
 #: C/mouse-touchpad-click.page:26 C/mouse-wakeup.page:22 C/mouse.page:23
 #: C/nautilus-behavior.page:24 C/nautilus-bookmarks-edit.page:17
-#: C/nautilus-connect.page:19 C/nautilus-display.page:17
-#: C/nautilus-file-properties-permissions.page:28 C/nautilus-list.page:21
-#: C/nautilus-preview.page:17 C/nautilus-views.page:21
+#: C/nautilus-connect.page:19 C/nautilus-display.page:18
+#: C/nautilus-file-properties-permissions.page:28 C/nautilus-list.page:22
+#: C/nautilus-preview.page:18 C/nautilus-views.page:21
 #: C/net-default-browser.page:19 C/net-default-email.page:19
 #: C/net-email.page:19 C/net-findip.page:24 C/net-fixed-ip-address.page:26
 #: C/net-macaddress.page:22 C/net-manual.page:21 C/net-mobile.page:20
@@ -145,12 +145,12 @@ msgstr "Phil Bull"
 #: C/net-wired-connect.page:18 C/net-wireless-adhoc.page:23
 #: C/net-wireless-airplane.page:20 C/net-wireless-connect.page:22
 #: C/net-wireless-hidden.page:19 C/net-wireless.page:22
-#: C/power-autobrightness.page:13 C/power-autosuspend.page:14
-#: C/power-batteryestimate.page:30 C/power-batterylife.page:32
+#: C/power-autobrightness.page:14 C/power-autosuspend.page:15
+#: C/power-batteryestimate.page:30 C/power-batterylife.page:33
 #: C/power-batteryslow.page:18 C/power-batterywindows.page:26
 #: C/power-lowpower.page:25 C/power-nowireless.page:26
 #: C/power-percentage.page:15 C/power-profile.page:13 C/power-status.page:15
-#: C/power-whydim.page:22 C/power-wireless.page:15 C/power.page:17
+#: C/power-whydim.page:23 C/power-wireless.page:16 C/power.page:17
 #: C/prefs-display.page:13 C/prefs-language.page:13 C/prefs-sharing.page:13
 #: C/printing-setup.page:32 C/privacy.page:23
 #: C/privacy-history-recent-off.page:22 C/privacy-location.page:14
@@ -160,9 +160,9 @@ msgstr "Phil Bull"
 #: C/sharing-bluetooth.page:18 C/sharing-desktop.page:20
 #: C/sharing-displayname.page:13 C/sharing-media.page:17
 #: C/sharing-personal.page:17 C/shell-apps-favorites.page:18
-#: C/shell-apps-open.page:18 C/shell-exit.page:40 C/shell-introduction.page:23
+#: C/shell-apps-open.page:18 C/shell-exit.page:40 C/shell-introduction.page:24
 #: C/shell-keyboard-shortcuts.page:24 C/shell-lockscreen.page:14
-#: C/shell-notifications.page:17 C/shell-windows-lost.page:18
+#: C/shell-notifications.page:18 C/shell-windows-lost.page:18
 #: C/shell-workspaces-movewindow.page:21 C/sound-alert.page:16
 #: C/sound-nosound.page:15 C/sound-usemic.page:16 C/sound-usespeakers.page:17
 #: C/sound-volume.page:19 C/tips-specialchars.page:20
@@ -185,30 +185,30 @@ msgstr "Michael Hill"
 #: C/color-assignprofiles.page:24 C/color-calibrate-scanner.page:26
 #: C/color-calibrate-screen.page:25 C/color-howtoimport.page:24
 #: C/color-notifications.page:18 C/color-testing.page:19
-#: C/contacts-add-remove.page:23 C/contacts-connect.page:21
-#: C/contacts-edit-details.page:24 C/contacts-link-unlink.page:23
-#: C/contacts-search.page:22 C/display-brightness.page:27
-#: C/display-brightness.page:35 C/display-dual-monitors.page:23
+#: C/contacts-add-remove.page:23 C/contacts-connect.page:22
+#: C/contacts-edit-details.page:25 C/contacts-link-unlink.page:24
+#: C/contacts-search.page:22 C/display-brightness.page:28
+#: C/display-brightness.page:36 C/display-dual-monitors.page:23
 #: C/keyboard-key-menu.page:19 C/keyboard-key-super.page:19
 #: C/keyboard-layouts.page:33 C/keyboard-nav.page:28 C/keyboard-osk.page:28
 #: C/keyboard-shortcuts-set.page:35 C/look-background.page:45
 #: C/look-resolution.page:34 C/mouse-lefthanded.page:28
 #: C/mouse-middleclick.page:26 C/mouse-mousekeys.page:29
-#: C/mouse-touchpad-click.page:30 C/mouse.page:18 C/nautilus-list.page:25
+#: C/mouse-touchpad-click.page:30 C/mouse.page:18 C/nautilus-list.page:26
 #: C/nautilus-views.page:25 C/net-default-browser.page:23
 #: C/net-default-email.page:23 C/net-findip.page:28
 #: C/net-fixed-ip-address.page:21 C/net-macaddress.page:26
 #: C/net-othersconnect.page:23 C/net-othersedit.page:23 C/net-proxy.page:31
 #: C/net-vpn-connect.page:24 C/net-wireless-airplane.page:25
 #: C/net-wireless-hidden.page:23 C/net.page:16 C/power-batteryestimate.page:26
-#: C/power-batterylife.page:28 C/power-batteryoptimal.page:22
+#: C/power-batterylife.page:29 C/power-batteryoptimal.page:22
 #: C/power-closelid.page:21 C/power-lowpower.page:17 C/power-nowireless.page:22
-#: C/power-suspendfail.page:20 C/power-suspend.page:18 C/power-whydim.page:26
+#: C/power-suspendfail.page:20 C/power-suspend.page:18 C/power-whydim.page:27
 #: C/printing-setup-default-printer.page:29 C/printing-to-file.page:13
 #: C/session-fingerprint.page:24 C/session-screenlocks.page:26
 #: C/sharing.page:14 C/sharing-desktop.page:16 C/shell-exit.page:32
-#: C/shell-introduction.page:27 C/shell-keyboard-shortcuts.page:28
-#: C/shell-notifications.page:21 C/shell-overview.page:19 C/sound-alert.page:20
+#: C/shell-introduction.page:28 C/shell-keyboard-shortcuts.page:28
+#: C/shell-notifications.page:22 C/shell-overview.page:19 C/sound-alert.page:20
 #: C/sound-usemic.page:20 C/sound-usespeakers.page:21
 #: C/tips-specialchars.page:24 C/user-add.page:27 C/user-admin-change.page:20
 #: C/user-admin-explain.page:19 C/user-admin-problems.page:22
@@ -247,8 +247,8 @@ msgstr ""
 #: C/keyboard-repeat-keys.page:51 C/keyboard-shortcuts-set.page:68
 #: C/look-display-fuzzy.page:47 C/net-findip.page:51 C/net-findip.page:80
 #: C/net-manual.page:41 C/sharing-desktop.page:62 C/sharing-desktop.page:154
-#: C/shell-notifications.page:90 C/shell-notifications.page:126
-#: C/tips-specialchars.page:69 C/wacom-stylus.page:36
+#: C/shell-notifications.page:94 C/shell-notifications.page:130
+#: C/tips-specialchars.page:86 C/wacom-stylus.page:36
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Settings</gui>."
@@ -264,8 +264,8 @@ msgstr ""
 #: C/keyboard-repeat-keys.page:55 C/keyboard-shortcuts-set.page:72
 #: C/look-display-fuzzy.page:51 C/net-findip.page:55 C/net-findip.page:84
 #: C/net-manual.page:45 C/sharing-desktop.page:66 C/sharing-desktop.page:158
-#: C/shell-notifications.page:94 C/shell-notifications.page:130
-#: C/tips-specialchars.page:73 C/wacom-stylus.page:40
+#: C/shell-notifications.page:98 C/shell-notifications.page:134
+#: C/tips-specialchars.page:90 C/wacom-stylus.page:40
 msgid "Click on <gui>Settings</gui>."
 msgstr ""
 
@@ -733,7 +733,7 @@ msgstr ""
 
 #. (itstool) path: credit/years
 #: C/a11y-right-click.page:22 C/accounts-whyadd.page:15 C/contacts.page:15
-#: C/contacts-connect.page:18 C/contacts-setup.page:18
+#: C/contacts-connect.page:19 C/contacts-setup.page:19
 #: C/files-removedrive.page:19 C/keyboard-layouts.page:18
 #: C/keyboard-nav.page:25 C/mouse-wakeup.page:24 C/screen-shot-record.page:20
 #: C/shell-keyboard-shortcuts.page:21 C/shell-lockscreen.page:16
@@ -1085,7 +1085,7 @@ msgstr ""
 #: C/clock-calendar.page:17 C/clock-set.page:17 C/clock-timezone.page:17
 #: C/disk-benchmark.page:14 C/disk-capacity.page:8 C/disk-check.page:9
 #: C/disk-format.page:9 C/disk-partitions.page:9 C/disk-repair.page:9
-#: C/disk-resize.page:9 C/display-brightness.page:15 C/files-autorun.page:18
+#: C/disk-resize.page:9 C/display-brightness.page:16 C/files-autorun.page:18
 #: C/files-lost.page:14 C/files-recover.page:14 C/files-rename.page:13
 #: C/files-search.page:17 C/gnome-classic.page:15 C/hardware-cardreader.page:14
 #: C/hardware-driver.page:11 C/keyboard-key-super.page:15
@@ -1100,13 +1100,13 @@ msgstr ""
 #: C/net-wireless-troubleshooting-hardware-info.page:18
 #: C/net-wireless-troubleshooting-initial-check.page:19
 #: C/net-wireless-troubleshooting.page:18 C/net-wireless-wepwpa.page:14
-#: C/power-batteryestimate.page:18 C/power-batterylife.page:20
+#: C/power-batteryestimate.page:18 C/power-batterylife.page:21
 #: C/power-batteryoptimal.page:14 C/power-batteryslow.page:14
 #: C/power-batterywindows.page:18 C/power-closelid.page:17
 #: C/power-constantfan.page:14 C/power-hotcomputer.page:14
 #: C/power-lowpower.page:13 C/power-nowireless.page:18
 #: C/power-othercountry.page:14 C/power-suspendfail.page:16
-#: C/power-suspend.page:14 C/power-whydim.page:18 C/power-willnotturnon.page:14
+#: C/power-suspend.page:14 C/power-whydim.page:19 C/power-willnotturnon.page:14
 #: C/printing-streaks.page:14 C/session-fingerprint.page:15
 #: C/session-language.page:15 C/session-screenlocks.page:18
 #: C/shell-apps-favorites.page:14 C/shell-apps-open.page:14
@@ -1164,8 +1164,8 @@ msgstr ""
 msgid ""
 "The guide is constantly being improved. Although we attempt to provide you "
 "with a comprehensive set of helpful information, we know we can’t answer all "
-"of your questions here. We will keep adding more information to make things "
-"more helpful."
+"of your questions here. If you need more assistance, you can check with your "
+"distribution’s support team."
 msgstr ""
 
 #. (itstool) path: credit/name
@@ -1192,7 +1192,7 @@ msgstr "Jim Campbell"
 #: C/bluetooth-remove-connection.page:27 C/bluetooth-remove-connection.page:32
 #: C/bluetooth-send-file.page:33 C/bluetooth-turn-on-off.page:27
 #: C/bluetooth-turn-on-off.page:32 C/bluetooth-visibility.page:23
-#: C/bluetooth-visibility.page:28 C/nautilus-list.page:27
+#: C/bluetooth-visibility.page:28 C/nautilus-list.page:28
 #: C/net-fixed-ip-address.page:23 C/printing-setup-default-printer.page:31
 #: C/privacy-location.page:16 C/session-fingerprint.page:31
 #: C/sharing-bluetooth.page:20 C/sharing-displayname.page:15
@@ -1204,75 +1204,91 @@ msgstr "2014"
 #: C/bluetooth-remove-connection.page:37 C/bluetooth-send-file.page:38
 #: C/bluetooth-turn-on-off.page:37 C/bluetooth-visibility.page:33
 #: C/clock-world.page:16 C/gnome-version.page:11 C/mouse-middleclick.page:28
-#: C/mouse.page:20 C/nautilus-list.page:32 C/net-wired-connect.page:20
+#: C/mouse.page:20 C/nautilus-list.page:33 C/net-wired-connect.page:20
 #: C/net-wireless-airplane.page:22 C/net-wireless-airplane.page:27
 #: C/net.page:18 C/privacy-purge.page:28 C/screen-shot-record.page:29
 #: C/shell-overview.page:21 C/wacom-multi-monitor.page:24
 msgid "2015"
 msgstr "2015"
 
+#. (itstool) path: credit/name
+#: C/accounts-add.page:33 C/accounts-disable-service.page:17
+#: C/accounts-provider-not-available.page:21 C/accounts-remove.page:28
+#: C/backup-how.page:24 C/bluetooth.page:20
+msgid "Klein Kravis"
+msgstr ""
+
+#. (itstool) path: credit/years
+#: C/accounts-add.page:35 C/accounts-disable-service.page:19
+#: C/accounts-provider-not-available.page:23 C/accounts-remove.page:30
+#: C/backup-how.page:26 C/contacts-add-remove.page:29
+#: C/contacts-connect.page:30 C/contacts-edit-details.page:32
+#: C/contacts-link-unlink.page:31 C/contacts-setup.page:31
+msgid "2020"
+msgstr "2020"
+
 #. (itstool) path: info/desc
-#: C/accounts-add.page:35
+#: C/accounts-add.page:40
 msgid ""
-"Allow applications to access your accounts online for photos, contacts, "
+"Allow applications to access your accounts online for files, contacts, "
 "calendars, and more."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/accounts-add.page:39
+#: C/accounts-add.page:44
 msgid "Add an account"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/accounts-add.page:41
+#: C/accounts-add.page:46
 msgid ""
-"Adding an account will help link your online accounts with your GNOME "
-"desktop. Thus, your email program, chat program and other related "
-"applications will be set up for you."
+"Adding an account will help link your online accounts with your desktop. "
+"Thus, your email client, calendar and other related applications will be set "
+"up for you."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:47 C/accounts-disable-service.page:38
-#: C/accounts-remove.page:52
+#: C/accounts-add.page:52 C/accounts-disable-service.page:42
+#: C/accounts-remove.page:57
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Online Accounts</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:51 C/accounts-disable-service.page:42
-#: C/accounts-remove.page:56
+#: C/accounts-add.page:56 C/accounts-disable-service.page:46
+#: C/accounts-remove.page:61
 msgid "Click on <gui>Online Accounts</gui> to open the panel."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:54
+#: C/accounts-add.page:59
 msgid "Select an account from the list on the right."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:57
-msgid "Select the type of account which you want to add."
+#: C/accounts-add.page:62
+msgid "Select the type of account you want to add."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:60
+#: C/accounts-add.page:65
 msgid ""
 "A small website window or dialog will open where you can enter your online "
 "account credentials. For example, if you are setting up a Google account, "
-"enter your Google username and password. Some providers allow you to create "
-"a new account from the login dialog."
+"enter your email address and password. Some providers allow you to create a "
+"new account from the login dialog."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:66
+#: C/accounts-add.page:71
 msgid ""
 "If you have entered your credentials correctly, you will be prompted to "
 "allow GNOME access to your online account. Authorize access to continue."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-add.page:71
+#: C/accounts-add.page:76
 msgid ""
 "All services that are offered by an account provider will be enabled by "
 "default. <link xref=\"accounts-disable-service\">Switch</link> individual "
@@ -1280,7 +1296,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/accounts-add.page:77
+#: C/accounts-add.page:82
 msgid ""
 "After you have added accounts, applications can use those accounts for the "
 "services you have chosen to allow. See <link xref=\"accounts-disable-service"
@@ -1288,7 +1304,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/accounts-add.page:82
+#: C/accounts-add.page:87
 msgid ""
 "Many online services provide an authorization token which GNOME stores "
 "instead of your password. If you remove an account, you should also revoke "
@@ -1297,7 +1313,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/accounts-disable-service.page:19
+#: C/accounts-disable-service.page:23
 msgid ""
 "Some online accounts can be used to access multiple services (like calendar "
 "and email). You can control which of these services can be used by "
@@ -1305,35 +1321,35 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/accounts-disable-service.page:24
+#: C/accounts-disable-service.page:28
 msgid "Control which online services an account can be used to access"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/accounts-disable-service.page:26
+#: C/accounts-disable-service.page:30
 msgid ""
 "Some types of online account providers allow you to access several services "
 "with the same user account. For example, Google accounts provide access to "
-"calendar, email, contacts and chat. You may want to use your account for "
-"some services, but not others. For example, you may want to use your Google "
-"account for email but not chat if you have a different online account that "
-"you use for chat."
+"calendar, email, and contacts. You may want to use your account for some "
+"services, but not others. For example, you may want to use your Google "
+"account for email but not calendar if you have a different online account "
+"that you use for calendar."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/accounts-disable-service.page:33
+#: C/accounts-disable-service.page:37
 msgid ""
 "You can disable some of the services that are provided by each online "
 "account:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-disable-service.page:45
+#: C/accounts-disable-service.page:49
 msgid "Select the account which you want to change from the list on the right."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-disable-service.page:49
+#: C/accounts-disable-service.page:53
 msgid ""
 "A list of services that are available with this account will be shown under "
 "<gui>Use for</gui>. See <link xref=\"accounts-which-application\"/> to see "
@@ -1341,12 +1357,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-disable-service.page:54
+#: C/accounts-disable-service.page:58
 msgid "Switch off any of the services that you do not want to use."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/accounts-disable-service.page:58
+#: C/accounts-disable-service.page:62
 msgid ""
 "Once a service has been disabled for an account, applications on your "
 "computer will not be able to use the account to connect to that service any "
@@ -1354,7 +1370,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/accounts-disable-service.page:62
+#: C/accounts-disable-service.page:66
 msgid ""
 "To turn on a service that you disabled, just go back to the <gui>Online "
 "Accounts</gui> panel and switch it on."
@@ -1368,24 +1384,24 @@ msgid "Baptiste Mille-Mathias"
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/accounts-provider-not-available.page:23
-msgid "What if an online service provider is not listed?"
+#: C/accounts-provider-not-available.page:28
+msgid "What if an online service is not listed?"
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/accounts-provider-not-available.page:26
+#: C/accounts-provider-not-available.page:31
 msgid "Why is my account type not on the list?"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/accounts-provider-not-available.page:28
+#: C/accounts-provider-not-available.page:33
 msgid ""
-"Support for your favorite online service provider needs someone to develop "
-"it. Only the account types that are listed are currently supported."
+"Support for your favorite online service needs someone to develop it. Only "
+"the account types that are listed are currently supported."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/accounts-provider-not-available.page:32
+#: C/accounts-provider-not-available.page:37
 msgid ""
 "If you are interested in adding support for other services, contact the "
 "developers on the <link href=\"https://gitlab.gnome.org/GNOME/gnome-online-"
@@ -1393,32 +1409,32 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/accounts-remove.page:30
+#: C/accounts-remove.page:35
 msgid "Remove access to an online service provider from your applications."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/accounts-remove.page:34
+#: C/accounts-remove.page:39
 msgid "Remove an account"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/accounts-remove.page:36
-msgid "You can remove an online account which you no longer wish to use."
+#: C/accounts-remove.page:41
+msgid "You can remove an online account which you no longer want to use."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/accounts-remove.page:39
+#: C/accounts-remove.page:44
 msgid ""
-"Many online services provide an authorization token which GNOME stores "
-"instead of your password. If you remove an account, you should also revoke "
-"that certificate in the online service. This will ensure that no other "
-"application or website can connect to that service using the authorization "
-"for GNOME."
+"Many online services provide an authorization token which your desktop "
+"stores instead of your password. If you remove an account, you should also "
+"revoke that certificate in the online service. This will ensure that no "
+"other application or website can connect to that service using the "
+"authorization for your desktop."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/accounts-remove.page:45
+#: C/accounts-remove.page:50
 msgid ""
 "How to revoke the authorization depends on the service provider. Check your "
 "settings on the provider’s website for authorized or connected apps or "
@@ -1426,22 +1442,22 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-remove.page:59
+#: C/accounts-remove.page:64
 msgid "Select the account which you wish to remove."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-remove.page:62
+#: C/accounts-remove.page:67
 msgid "Click the <gui>-</gui> button in the lower-left corner of the window."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/accounts-remove.page:66
+#: C/accounts-remove.page:71
 msgid "Click <gui>Remove</gui> in the confirmation dialog."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/accounts-remove.page:71
+#: C/accounts-remove.page:76
 msgid ""
 "Instead of deleting the account completely, it is possible to <link xref="
 "\"accounts-disable-service\">restrict the services</link> accessed by your "
@@ -1456,7 +1472,7 @@ msgstr "2012, 2013"
 #. (itstool) path: credit/name
 #: C/accounts-which-application.page:23 C/keyboard-shortcuts-set.page:39
 #: C/look-background.page:33 C/session-language.page:23 C/shell-exit.page:24
-#: C/shell-introduction.page:31 C/shell-workspaces-movewindow.page:25
+#: C/shell-introduction.page:32 C/shell-workspaces-movewindow.page:25
 #: C/shell-workspaces-switch.page:19 C/shell-workspaces.page:20
 #: C/tips-specialchars.page:28
 msgid "Andre Klapper"
@@ -1673,8 +1689,8 @@ msgstr ""
 #: C/files-rename.page:29 C/files-search.page:29 C/files-templates.page:21
 #: C/files-tilde.page:22 C/nautilus-behavior.page:32
 #: C/nautilus-bookmarks-edit.page:21 C/nautilus-connect.page:23
-#: C/nautilus-display.page:21 C/nautilus-file-properties-basic.page:20
-#: C/nautilus-list.page:30 C/nautilus-preview.page:21 C/nautilus-views.page:29
+#: C/nautilus-display.page:22 C/nautilus-file-properties-basic.page:20
+#: C/nautilus-list.page:31 C/nautilus-preview.page:22 C/nautilus-views.page:29
 #: C/net-mobile.page:24 C/screen-shot-record.page:27
 #: C/sharing-bluetooth.page:23
 msgid "David King"
@@ -1728,7 +1744,7 @@ msgstr ""
 #. (itstool) path: credit/name
 #: C/backup-frequency.page:12 C/backup-how.page:12 C/backup-restore.page:11
 #: C/backup-thinkabout.page:14 C/backup-what.page:16 C/backup-where.page:16
-#: C/contacts-edit-details.page:16 C/contacts-link-unlink.page:15
+#: C/contacts-edit-details.page:17 C/contacts-link-unlink.page:16
 #: C/contacts-search.page:14 C/display-dual-monitors.page:15
 #: C/files-browse.page:16 C/files-copy.page:18 C/get-involved.page:12
 #: C/help-mailing-list.page:13 C/more-help.page:10 C/mouse-middleclick.page:14
@@ -1799,19 +1815,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/backup-how.page:26
+#: C/backup-how.page:31
 msgid ""
-"Use Déjà Dup (or some other backup application) to make copies of your "
-"valuable files and settings to protect against loss."
+"Use Déjà Dup (or another backup application) to make copies of your valuable "
+"files and settings to protect against loss."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/backup-how.page:30
+#: C/backup-how.page:35
 msgid "How to back up"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/backup-how.page:32
+#: C/backup-how.page:37
 msgid ""
 "The easiest way of backing up your files and settings is to let a backup "
 "application manage the backup process for you. A number of different backup "
@@ -1819,24 +1835,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/backup-how.page:36
+#: C/backup-how.page:41
 msgid ""
 "The help for your chosen backup application will walk you through setting "
 "your preferences for the backup, as well as how to restore your data."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/backup-how.page:39
+#: C/backup-how.page:44
 msgid ""
 "An alternative option is to <link xref=\"files-copy\">copy your files</link> "
-"to a safe location, such as an external hard drive, another computer on the "
-"network, or a USB drive. Your <link xref=\"backup-thinkabout\">personal "
+"to a safe location, such as an external hard drive, an online storage "
+"service, or a USB drive. Your <link xref=\"backup-thinkabout\">personal "
 "files</link> and settings are usually in your Home folder, so you can copy "
 "them from there."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/backup-how.page:44
+#: C/backup-how.page:49
 msgid ""
 "The amount of data you can back up is limited by the size of the storage "
 "device. If you have the room on your backup device, it is best to back up "
@@ -1844,14 +1860,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/backup-how.page:49
+#: C/backup-how.page:54
 msgid ""
-"Files that are already backed up somewhere else, such as to a CD, DVD, or "
+"Files that are already backed up somewhere else, such as to a USB drive, or "
 "other removable media."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/backup-how.page:51
+#: C/backup-how.page:56
 msgid ""
 "Files that you can recreate easily. For example, if you are a programmer, "
 "you do not have to back up the files that get produced when you compile your "
@@ -1859,7 +1875,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/backup-how.page:55
+#: C/backup-how.page:60
 msgid ""
 "Any files in the Trash folder. Your Trash folder can be found in <file>~/."
 "local/share/Trash</file>."
@@ -2188,34 +2204,34 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/bluetooth.page:22
+#: C/bluetooth.page:25
 msgid ""
 "Connect to devices over Bluetooth to transfer files or use wireless audio."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/bluetooth.page:26
+#: C/bluetooth.page:29
 msgid "Bluetooth"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/bluetooth.page:28
+#: C/bluetooth.page:31
 msgid ""
 "Bluetooth is a wireless protocol that allows you to connect many different "
 "types of devices to your computer. Bluetooth is commonly used for headsets "
-"and input devices like mice and keyboards. You can also use Bluetooth to "
+"and other devices like mice and keyboards. You can also use Bluetooth to "
 "<link xref=\"bluetooth-send-file\">send files between devices</link>, such "
 "as from your computer to your cell phone."
 msgstr ""
 
 #. (itstool) path: info/title
-#: C/bluetooth.page:50
+#: C/bluetooth.page:53
 msgctxt "link"
 msgid "Bluetooth problems"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/bluetooth.page:53 C/color.page:30 C/power.page:49
+#: C/bluetooth.page:56 C/color.page:30 C/power.page:49
 msgid "Problems"
 msgstr ""
 
@@ -2311,7 +2327,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/bluetooth-connect-device.page:92
 msgid ""
-"To edit the device, click on it in the <gui>Device</gui> list. You will see "
+"To edit the device, click on it in the <gui>Devices</gui> list. You will see "
 "a panel specific to the device. It may display additional options applicable "
 "to the type of device to which you are connecting."
 msgstr ""
@@ -2380,8 +2396,8 @@ msgstr ""
 msgid ""
 "Those devices use “cable-pairing” as well. Plug the joypads in via USB with "
 "the <gui>Bluetooth Settings</gui> opened, and Bluetooth turned on. You will "
-"get asked whether to set those joypads up without needing to press the PS "
-"button. Unplug them and press the PS button to use them over Bluetooth."
+"get asked whether to set those joypads up without needing to press the “PS” "
+"button. Unplug them and press the “PS” button to use them over Bluetooth."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -2418,6 +2434,20 @@ msgid ""
 "note that some software wants direct access to the remotes, and, in those "
 "cases, you should not set them up in the Bluetooth panel. Refer to the "
 "application’s manual for instructions."
+msgstr ""
+
+#. (itstool) path: item/title
+#: C/bluetooth-device-specific-pairing.page:57
+msgid "ION iCade"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/bluetooth-device-specific-pairing.page:58
+msgid ""
+"Hold down the bottom 4 buttons and the top white button to start the pairing "
+"process. When the pairing instructions appear, make sure to use only the "
+"cardinal directions to input the code, followed by any of the 2 white "
+"buttons to the far right of the arcade stick to confirm."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -2793,7 +2823,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/clock-calendar.page:67 C/shell-introduction.page:160
+#: C/clock-calendar.page:67 C/shell-introduction.page:161
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-appts.png' md5='798eb0c8f0e980bf3bd5b32b456f0ae1'"
@@ -2802,7 +2832,7 @@ msgstr ""
 
 #. (itstool) path: media/p
 #: C/clock-calendar.page:68 C/clock-calendar.page:73
-#: C/shell-introduction.page:166
+#: C/shell-introduction.page:167
 msgid "Clock, calendar, and appointments"
 msgstr ""
 
@@ -2811,7 +2841,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/clock-calendar.page:72 C/shell-introduction.page:165
+#: C/clock-calendar.page:72 C/shell-introduction.page:166
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-appts-classic.png' "
@@ -2999,7 +3029,7 @@ msgstr ""
 #: C/color-calibrate-camera.page:14 C/color-calibrate-printer.page:13
 #: C/color-calibrate-scanner.page:18 C/color-calibrate-screen.page:17
 #: C/color-calibrationcharacterization.page:12
-#: C/color-calibrationdevices.page:12 C/color-calibrationtargets.page:12
+#: C/color-calibrationdevices.page:13 C/color-calibrationtargets.page:12
 #: C/color-canshareprofiles.page:11 C/color-gettingprofiles.page:13
 #: C/color-howtoimport.page:16 C/color-missingvcgt.page:11
 #: C/color-notifications.page:14 C/color-notspecifiededid.page:11
@@ -3352,115 +3382,21 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/color-calibrationdevices.page:9
+#: C/color-calibrationdevices.page:10
 msgid "We support a large number of calibration devices."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/color-calibrationdevices.page:19
+#: C/color-calibrationdevices.page:20
 msgid "What color measuring instruments are supported?"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/color-calibrationdevices.page:21
+#: C/color-calibrationdevices.page:22
 msgid ""
 "The system relies on the Argyll color management system to support color "
-"instruments. Thus the following display measuring instruments are supported:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/color-calibrationdevices.page:28
-msgid "Gretag-Macbeth i1 Pro (spectrometer)"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/color-calibrationdevices.page:29
-msgid "Gretag-Macbeth i1 Monitor (spectrometer)"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/color-calibrationdevices.page:30
-msgid "Gretag-Macbeth i1 Display 1, 2 or LT (colorimeter)"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/color-calibrationdevices.page:31
-msgid "X-Rite i1 Display Pro (colorimeter)"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/color-calibrationdevices.page:32
-msgid "X-Rite ColorMunki Design or Photo (spectrometer)"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/color-calibrationdevices.page:33
-msgid "X-Rite ColorMunki Create (colorimeter)"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/color-calibrationdevices.page:34
-msgid "X-Rite ColorMunki Display (colorimeter)"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/color-calibrationdevices.page:35
-msgid "Pantone Huey (colorimeter)"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/color-calibrationdevices.page:36
-msgid "MonacoOPTIX (colorimeter)"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/color-calibrationdevices.page:37
-msgid "ColorVision Spyder 2 and 3 (colorimeter)"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/color-calibrationdevices.page:38
-msgid "Colorimètre HCFR (colorimeter)"
-msgstr ""
-
-#. (itstool) path: note/p
-#: C/color-calibrationdevices.page:42
-msgid ""
-"The Pantone Huey is currently the cheapest and best supported hardware in "
-"Linux."
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/color-calibrationdevices.page:45
-msgid ""
-"Thanks to Argyll there’s also a number of spot and strip reading reflective "
-"spectrometers supported to help you calibrating and characterizing your "
-"printers:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/color-calibrationdevices.page:52
-msgid "X-Rite DTP20 “Pulse” (“swipe” type reflective spectrometer)"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/color-calibrationdevices.page:53
-msgid "X-Rite DTP22 Digital Swatchbook (spot type reflective spectrometer)"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/color-calibrationdevices.page:54
-msgid "X-Rite DTP41 (spot and strip reading reflective spectrometer)"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/color-calibrationdevices.page:55
-msgid "X-Rite DTP41T (spot and strip reading reflective spectrometer)"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/color-calibrationdevices.page:56
-msgid "X-Rite DTP51 (spot reading reflective spectrometer)"
+"instruments. A list of supported measuring instruments can be found at <link "
+"href=\"https://www.argyllcms.com/doc/instruments.html\"/>."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -3725,15 +3661,6 @@ msgstr ""
 msgid ""
 "To set the policy for display and printer devices, you specify the maximum "
 "age of the profile in days:"
-msgstr ""
-
-#. (itstool) path: page/screen
-#: C/color-notifications.page:46
-#, no-wrap
-msgid ""
-"\n"
-"<output style=\"prompt\">$ </output><input>gsettings set org.gnome.settings-daemon.plugins.color recalibrate-printer-threshold 180</input>\n"
-"<output style=\"prompt\">$ </output><input>gsettings set org.gnome.settings-daemon.plugins.color recalibrate-display-threshold 90</input>\n"
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -4137,14 +4064,11 @@ msgid "Lucie Hankey"
 msgstr "Lucie Hankey"
 
 #. (itstool) path: credit/name
-#: C/contacts-add-remove.page:27
+#: C/contacts-add-remove.page:27 C/contacts-connect.page:28
+#: C/contacts-edit-details.page:30 C/contacts-link-unlink.page:29
+#: C/contacts-setup.page:29
 msgid "Pranali Deshmukh"
 msgstr "Pranali Deshmukh"
-
-#. (itstool) path: credit/years
-#: C/contacts-add-remove.page:29
-msgid "2020"
-msgstr "2020"
 
 #. (itstool) path: info/desc
 #: C/contacts-add-remove.page:34
@@ -4195,8 +4119,8 @@ msgid "To remove a contact:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/contacts-add-remove.page:63 C/contacts-connect.page:37
-#: C/contacts-edit-details.page:40
+#: C/contacts-add-remove.page:63 C/contacts-connect.page:44
+#: C/contacts-edit-details.page:47
 msgid "Select the contact from your contact list."
 msgstr ""
 
@@ -4209,6 +4133,13 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/contacts-add-remove.page:69
 msgid "Press <gui style=\"menu item\">Delete</gui> option to remove contact."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/contacts-add-remove.page:72
+msgid ""
+"To remove one or more contacts, check the boxes next to the contacts you "
+"want to delete and press <gui style=\"button\">Remove</gui>."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -4224,77 +4155,88 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: credit/years
-#: C/contacts-connect.page:23
+#: C/contacts-connect.page:24
 msgid "2013-2014"
 msgstr "2013-2014"
 
 #. (itstool) path: info/desc
-#: C/contacts-connect.page:28
+#: C/contacts-connect.page:35
 msgid "Email, chat with, or phone a contact."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/contacts-connect.page:31
+#: C/contacts-connect.page:38
 msgid "Connect with your contact"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/contacts-connect.page:33
+#: C/contacts-connect.page:40
 msgid "To email, chat with or phone someone in <app>Contacts</app>:"
 msgstr ""
 
-#. (itstool) path: item/p
-#: C/contacts-connect.page:40
-msgid ""
-"Press on the button of the <em>detail</em> that you want to use. For "
-"example, to email your contact, press the button next the contact’s email "
-"address."
+#. (itstool) path: media/span
+#: C/contacts-connect.page:50
+msgid "mail"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/contacts-connect.page:45
+#: C/contacts-connect.page:47
+msgid ""
+"Press the button corresponding to the <em>detail</em> that you want to use. "
+"For example, to email your contact, press the <_:media-1/> button next to "
+"the contact’s email address."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/contacts-connect.page:54
 msgid ""
 "The corresponding application will be launched using the contact’s details."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/contacts-connect.page:51
+#: C/contacts-connect.page:60
 msgid ""
 "If there is no available application for the detail that you wish to use, "
 "you will not be able to select it."
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/contacts-edit-details.page:30
+#: C/contacts-edit-details.page:37
 msgid "Edit the information for each contact."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/contacts-edit-details.page:33
+#: C/contacts-edit-details.page:40
 msgid "Edit contact details"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/contacts-edit-details.page:35
+#: C/contacts-edit-details.page:42
 msgid ""
 "Editing contact details helps you keep the information in your address book "
 "up to date and complete."
 msgstr ""
 
-#. (itstool) path: item/p
-#: C/contacts-edit-details.page:43
-msgid ""
-"Press the menu button in the top-right corner of the window and select <gui "
-"style=\"button\">Edit</gui>."
+#. (itstool) path: media/span
+#: C/contacts-edit-details.page:51 C/contacts-edit-details.page:61
+#: C/contacts-link-unlink.page:77
+msgid "view more"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/contacts-edit-details.page:47
+#: C/contacts-edit-details.page:50
+msgid ""
+"Press the <_:media-1/> button in the top-right corner of the window and "
+"select <gui style=\"menuitem\">Edit</gui>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/contacts-edit-details.page:56
 msgid "Edit the contact details."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/contacts-edit-details.page:48
+#: C/contacts-edit-details.page:57
 msgid ""
 "To add a <em>detail</em> such as a new phone number or email address, just "
 "fill in the details on the next empty field of the type (phone number, "
@@ -4302,34 +4244,34 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/contacts-edit-details.page:52
+#: C/contacts-edit-details.page:61
 msgid ""
-"Press the bottommost button to expand available options, revealing fields "
-"like <gui>Website</gui> and <gui>Birthday</gui>."
+"Press the <_:media-1/> option at the bottom to expand available options, "
+"revealing fields like <gui>Website</gui> and <gui>Birthday</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/contacts-edit-details.page:57 C/contacts-link-unlink.page:83
+#: C/contacts-edit-details.page:67
 msgid "Press <gui style=\"button\">Done</gui> to finish editing the contact."
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/contacts-link-unlink.page:29
+#: C/contacts-link-unlink.page:36
 msgid "Combine information for a contact from multiple sources."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/contacts-link-unlink.page:32
+#: C/contacts-link-unlink.page:39
 msgid "Link and unlink contacts"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/contacts-link-unlink.page:35
+#: C/contacts-link-unlink.page:42
 msgid "Link contacts"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/contacts-link-unlink.page:37
+#: C/contacts-link-unlink.page:44
 msgid ""
 "You can combine duplicate contacts from your local address book and online "
 "accounts into one <app>Contacts</app> entry. This feature helps you keep "
@@ -4337,63 +4279,51 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/contacts-link-unlink.page:43
+#: C/contacts-link-unlink.page:50
 msgid ""
 "Enable <em>selection mode</em> by pressing the tick button above the contact "
 "list."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/contacts-link-unlink.page:47
+#: C/contacts-link-unlink.page:54
 msgid ""
 "A checkbox will appear next to each contact. Tick the checkboxes next to the "
 "contacts that you want to merge."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/contacts-link-unlink.page:51
+#: C/contacts-link-unlink.page:58
 msgid "Press <gui style=\"button\">Link</gui> to link the selected contacts."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/contacts-link-unlink.page:59
+#: C/contacts-link-unlink.page:66
 msgid "Unlink contacts"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/contacts-link-unlink.page:61
+#: C/contacts-link-unlink.page:68
 msgid ""
 "You may want to unlink contacts if you accidentally linked contacts which "
 "should not be linked."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/contacts-link-unlink.page:66
+#: C/contacts-link-unlink.page:73
 msgid "Select the contact you wish to unlink from your list of contacts."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/contacts-link-unlink.page:69
-msgid ""
-"Press <gui style=\"button\">Edit</gui> in the top-right corner of "
-"<app>Contacts</app>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/contacts-link-unlink.page:73
-msgid "Press <gui style=\"button\">Linked Accounts</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
 #: C/contacts-link-unlink.page:76
+msgid "Press <_:media-1/> in the top-right corner of <app>Contacts</app>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/contacts-link-unlink.page:81
 msgid ""
 "Press <gui style=\"button\">Unlink</gui> to unlink the entry from the "
 "contact."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/contacts-link-unlink.page:80
-msgid "Close the window once you have finished unlinking the entries."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -4447,54 +4377,59 @@ msgid "Start typing the name of the contact."
 msgstr ""
 
 #. (itstool) path: credit/name
-#: C/contacts-setup.page:22
+#: C/contacts-setup.page:23
 msgid "Paul Cutler"
 msgstr "Paul Cutler"
 
 #. (itstool) path: credit/years
-#: C/contacts-setup.page:24
+#: C/contacts-setup.page:25
 msgid "2017"
 msgstr "2017"
 
 #. (itstool) path: info/desc
-#: C/contacts-setup.page:29
+#: C/contacts-setup.page:36
 msgid "Store your contacts in a local address book or in an online account."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/contacts-setup.page:32
+#: C/contacts-setup.page:39
 msgid "Starting Contacts for the first time"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/contacts-setup.page:34
+#: C/contacts-setup.page:41
 msgid ""
 "When you run <app>Contacts</app> for the first time, the <gui>Select Address "
 "Book</gui> window opens."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/contacts-setup.page:37
+#: C/contacts-setup.page:44
 msgid ""
 "If you have <link xref=\"accounts\">online accounts</link> configured, they "
 "are listed with <gui>Local Address Book</gui>. Select an item from the list "
-"and click <gui style=\"button\">Done</gui>. All new contacts you create will "
-"be saved to the address book you choose. You are also able to view and edit "
-"contacts in other address books."
+"and press <gui style=\"button\">Done</gui>."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/contacts-setup.page:43
+#: C/contacts-setup.page:48
 msgid ""
-"If you have no online accounts configured, click <gui style=\"button"
+"All new contacts you create will be saved to the address book you choose. "
+"You are also able to view, edit and delete contacts in other address books."
+msgstr ""
+
+#. (itstool) path: page/p
+#: C/contacts-setup.page:51
+msgid ""
+"If you have no online accounts configured, press <gui style=\"button"
 "\">Online Accounts</gui> to begin the setup. If you do not wish to set up "
-"online accounts at this time, click <gui style=\"button\">Local Address "
+"online accounts at this time, press <gui style=\"button\">Local Address "
 "Book</gui>."
 msgstr ""
 
 #. (itstool) path: credit/name
 #: C/disk-benchmark.page:18 C/disk-capacity.page:12 C/disk-check.page:13
-#: C/display-brightness.page:19 C/keyboard-cursor-blink.page:19
+#: C/display-brightness.page:20 C/keyboard-cursor-blink.page:19
 #: C/keyboard-repeat-keys.page:19 C/look-background.page:25
 #: C/look-display-fuzzy.page:19 C/look-resolution.page:22
 msgid "Natalia Ruz Leiva"
@@ -4543,7 +4478,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/disk-benchmark.page:59
 msgid ""
-"Click <gui>Start Benchmarking</gui> to test how fast data can be read from "
+"Click <gui>Start Benchmarking…</gui> to test how fast data can be read from "
 "the disk. <link xref=\"user-admin-explain\">Administrative privileges</link> "
 "may be required. Enter your password, or the password for the requested "
 "administrator account."
@@ -4625,12 +4560,12 @@ msgstr ""
 #: C/disk-capacity.page:50
 msgid ""
 "Click one of the items in the list to view a detailed summary of the usage "
-"for that item. Click the menu button, and then <gui>Scan Folder…</gui> or "
-"<gui>Scan Remote Folder…</gui> to scan a different location."
+"for that item. Click the menu button, and then <gui>Scan Folder…</gui> to "
+"scan a different location."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/disk-capacity.page:56
+#: C/disk-capacity.page:55
 msgid ""
 "The information is displayed according to <gui>Folder</gui>, <gui>Size</"
 "gui>, <gui>Contents</gui> and when the data was last <gui>Modified</gui>. "
@@ -4639,26 +4574,26 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/disk-capacity.page:65
+#: C/disk-capacity.page:64
 msgid "Check with System Monitor"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/disk-capacity.page:67
+#: C/disk-capacity.page:66
 msgid ""
 "To check the free disk space and disk capacity with <app>System Monitor</"
 "app>:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/disk-capacity.page:71
+#: C/disk-capacity.page:70
 msgid ""
 "Open the <app>System Monitor</app> application from the <gui>Activities</"
 "gui> overview."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/disk-capacity.page:75
+#: C/disk-capacity.page:74
 msgid ""
 "Select the <gui>File Systems</gui> tab to view the system’s partitions and "
 "disk space usage. The information is displayed according to <gui>Total</"
@@ -4666,24 +4601,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/disk-capacity.page:83
+#: C/disk-capacity.page:82
 msgid "Check with Usage"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/disk-capacity.page:85
+#: C/disk-capacity.page:84
 msgid "To check the free disk space and disk capacity with <app>Usage</app>:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/disk-capacity.page:89
+#: C/disk-capacity.page:88
 msgid ""
 "Open the <app>Usage</app> application from the <gui>Activities</gui> "
 "overview."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/disk-capacity.page:93
+#: C/disk-capacity.page:92
 msgid ""
 "Select <gui>Storage</gui> tab to view the system’s total <gui>Used</gui> and "
 "<gui>Available</gui> disk space, as well as the used by the <gui>Operating "
@@ -4691,29 +4626,29 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/disk-capacity.page:100
+#: C/disk-capacity.page:99
 msgid ""
 "Disk space can be freed from user’s directories and its subdirectories by "
 "checking the box next to the directory name."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/disk-capacity.page:107
+#: C/disk-capacity.page:106
 msgid "What if the disk is too full?"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/disk-capacity.page:109
+#: C/disk-capacity.page:108
 msgid "If the disk is too full you should:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/disk-capacity.page:113
+#: C/disk-capacity.page:112
 msgid "Delete files that aren’t important or that you won’t use anymore."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/disk-capacity.page:116
+#: C/disk-capacity.page:115
 msgid ""
 "Make <link xref=\"backup-why\">backups</link> of the important files that "
 "you won’t need for a while and delete them from the hard drive."
@@ -5265,63 +5200,62 @@ msgid "Disks &amp; storage"
 msgstr ""
 
 #. (itstool) path: credit/name
-#: C/display-blank.page:19 C/get-involved.page:16 C/gnome-classic.page:19
+#: C/display-blank.page:20 C/get-involved.page:16 C/gnome-classic.page:19
 #: C/gnome-version.page:9 C/net-wrongnetwork.page:20 C/power-closelid.page:25
 #: C/power-lowpower.page:21 C/printing-booklet-duplex.page:17
 #: C/printing-booklet-singlesided.page:17 C/shell-apps-auto-start.page:18
-#: C/shell-notifications.page:26 C/translate.page:20
+#: C/shell-notifications.page:27 C/translate.page:20
 msgid "Petr Kovar"
 msgstr "Petr Kovar"
 
 #. (itstool) path: info/desc
-#: C/display-blank.page:30
+#: C/display-blank.page:31
 msgid "Change the screen blanking time to save power."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/display-blank.page:33
+#: C/display-blank.page:34
 msgid "Set screen blanking time"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/display-blank.page:35
+#: C/display-blank.page:36
 msgid ""
 "To save power, you can adjust the time before the screen blanks when left "
 "idle. You can also disable the blanking completely."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/display-blank.page:39
+#: C/display-blank.page:40
 msgid "To set the screen blanking time:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/display-blank.page:41 C/display-brightness.page:66
-#: C/power-autobrightness.page:33 C/power-autosuspend.page:32
-#: C/power-percentage.page:37 C/power-profile.page:50 C/power-status.page:32
-#: C/power-whydim.page:51 C/power-wireless.page:33
+#: C/display-blank.page:42 C/power-autobrightness.page:34
+#: C/power-autosuspend.page:33 C/power-percentage.page:37
+#: C/power-profile.page:50 C/power-status.page:32 C/power-whydim.page:52
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Power</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/display-blank.page:45 C/display-brightness.page:70
-#: C/power-autobrightness.page:37 C/power-autosuspend.page:36
-#: C/power-percentage.page:41 C/power-profile.page:54 C/power-whydim.page:55
-#: C/power-wireless.page:37
+#: C/display-blank.page:46 C/power-autobrightness.page:38
+#: C/power-autosuspend.page:37 C/power-percentage.page:41
+#: C/power-profile.page:54 C/power-whydim.page:56
 msgid "Click <gui>Power</gui> to open the panel."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/display-blank.page:48
+#: C/display-blank.page:49
 msgid ""
-"Use the <gui>Blank screen</gui> drop-down list under <gui>Power Saving</gui> "
-"to set the time until the screen blanks, or disable the blanking completely."
+"Use the <gui>Screen Blank</gui> drop-down list under <gui>Power Saving "
+"Options</gui> to set the time until the screen blanks, or disable the "
+"blanking completely."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/display-blank.page:55
+#: C/display-blank.page:56
 msgid ""
 "When your computer is left idle, the screen will automatically lock itself "
 "for security reasons. To change this behavior, see <link xref=\"session-"
@@ -5329,24 +5263,24 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/display-brightness.page:41
+#: C/display-brightness.page:42
 msgid "Change the screen brightness to make it more readable in bright light."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/display-brightness.page:45
+#: C/display-brightness.page:46
 msgid "Set screen brightness"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/display-brightness.page:47
+#: C/display-brightness.page:48
 msgid ""
 "Depending on your hardware, you can change the brightness of your screen to "
 "save power or to make the screen more readable in bright light."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/display-brightness.page:50
+#: C/display-brightness.page:51
 msgid ""
 "To change the brightness of your screen, click the <gui xref=\"shell-"
 "introduction#systemmenu\">system menu</gui> on the right side of the top bar "
@@ -5355,43 +5289,23 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/display-brightness.page:56
+#: C/display-brightness.page:57
 msgid ""
 "Many laptop keyboards have special keys to adjust the brightness. These "
 "often have a picture that looks like the sun. Hold down the <key>Fn</key> "
 "key to use these keys."
 msgstr ""
 
-#. (itstool) path: page/p
-#: C/display-brightness.page:61
-msgid ""
-"You can also adjust the screen brightness by using the <gui>Power</gui> "
-"panel."
-msgstr ""
-
-#. (itstool) path: steps/title
-#: C/display-brightness.page:64
-msgid "To set the screen brightness using the Power panel:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/display-brightness.page:73
-msgid ""
-"In the <gui>Power Saving</gui> section, adjust the <gui>Screen brightness</"
-"gui> slider to the value you want to use. The change should take effect "
-"immediately."
-msgstr ""
-
 #. (itstool) path: note/p
-#: C/display-brightness.page:80
+#: C/display-brightness.page:63
 msgid ""
 "If your computer features an integrated light sensor, the screen brightness "
-"will automatically be adjusted for you. You can disable automatic screen "
-"brightness in the <gui>Power</gui> panel."
+"will automatically be adjusted for you. For more information, see <link xref="
+"\"power-autobrightness\"/>."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/display-brightness.page:85
+#: C/display-brightness.page:68
 msgid ""
 "If it is possible to set the brightness of your screen, you can also have "
 "the screen dim automatically to save power. For more information, see <link "
@@ -5422,7 +5336,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/display-dual-monitors.page:90 C/display-night-light.page:33
+#: C/display-dual-monitors.page:90 C/display-night-light.page:34
 #: C/look-resolution.page:58
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
@@ -5430,7 +5344,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/display-dual-monitors.page:94 C/display-night-light.page:37
+#: C/display-dual-monitors.page:94 C/display-night-light.page:38
 #: C/look-resolution.page:62
 msgid "Click <gui>Displays</gui> to open the panel."
 msgstr ""
@@ -5530,23 +5444,23 @@ msgid "Drag the screens to the desired relative positions."
 msgstr ""
 
 #. (itstool) path: credit/years
-#: C/display-night-light.page:15
+#: C/display-night-light.page:16
 msgid "2018"
 msgstr "2018"
 
 #. (itstool) path: info/desc
-#: C/display-night-light.page:20
+#: C/display-night-light.page:21
 msgid ""
 "Night Light changes the color of your displays according to the time of day."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/display-night-light.page:24
+#: C/display-night-light.page:25
 msgid "Adjust the color temperature of your screen"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/display-night-light.page:26
+#: C/display-night-light.page:27
 msgid ""
 "A computer monitor emits blue light which contributes to sleeplessness and "
 "eye strain after dark. <gui>Night Light</gui> changes the color of your "
@@ -5555,32 +5469,32 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/display-night-light.page:40
-msgid "Click <gui>Night Light</gui> in the top bar to open the settings."
+#: C/display-night-light.page:41
+msgid "Click <gui>Night Light</gui> in the header bar to open the settings."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/display-night-light.page:43
+#: C/display-night-light.page:44
 msgid "Ensure the <gui>Night Light</gui> switch is set to on."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/display-night-light.page:46
+#: C/display-night-light.page:47
 msgid ""
 "Under <gui>Schedule</gui>, select <gui>Sunset to Sunrise</gui> to make the "
 "screen color follow the sunset and sunrise times for your location. Select "
-"<gui>Manual</gui> to set the <gui>Times</gui> to a custom schedule."
+"<gui>Manual Schedule</gui> to set the <gui>Times</gui> to a custom schedule."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/display-night-light.page:51
+#: C/display-night-light.page:52
 msgid ""
 "Use the slider to adjust the <gui>Color Temperature</gui> to be more warm or "
 "less warm."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/display-night-light.page:56
+#: C/display-night-light.page:57
 msgid ""
 "The <link xref=\"shell-introduction\">top bar</link> shows when <gui>Night "
 "Light</gui> is active. It can be temporarily disabled from the system menu."
@@ -6026,10 +5940,10 @@ msgstr ""
 #: C/files-delete.page:42
 msgid ""
 "If you do not want a file or folder any more, you can delete it. When you "
-"delete an item it is moved to the <gui>Trash</gui> folder, where it is "
-"stored until you empty the trash. You can <link xref=\"files-recover"
-"\">restore items</link> in the <gui>Trash</gui> folder to their original "
-"location if you decide you need them, or if they were accidentally deleted."
+"delete an item it is moved to the <gui>Trash</gui>, where it is stored until "
+"you empty the trash. You can <link xref=\"files-recover\">restore items</"
+"link> in the <gui>Trash</gui> to their original location if you decide you "
+"need them, or if they were accidentally deleted."
 msgstr ""
 
 #. (itstool) path: steps/title
@@ -7126,7 +7040,7 @@ msgstr ""
 #. (itstool) path: item/title
 #. (itstool) path: title/gui
 #. (itstool) path: td/p
-#: C/files-sort.page:83 C/nautilus-list.page:55 C/net-firewall-ports.page:38
+#: C/files-sort.page:83 C/nautilus-list.page:49 C/net-firewall-ports.page:38
 msgid "Name"
 msgstr ""
 
@@ -7138,7 +7052,7 @@ msgstr ""
 #. (itstool) path: item/title
 #. (itstool) path: title/gui
 #: C/files-sort.page:87 C/nautilus-file-properties-basic.page:76
-#: C/nautilus-list.page:62
+#: C/nautilus-list.page:56
 msgid "Size"
 msgstr ""
 
@@ -7151,7 +7065,7 @@ msgstr ""
 
 #. (itstool) path: item/title
 #. (itstool) path: title/gui
-#: C/files-sort.page:92 C/nautilus-list.page:67
+#: C/files-sort.page:92 C/nautilus-list.page:61
 msgid "Type"
 msgstr ""
 
@@ -7427,21 +7341,21 @@ msgstr ""
 #: C/gnome-classic.page:33
 msgid ""
 "<em>GNOME Classic</em> is a feature for users who prefer a more traditional "
-"desktop experience. While <em>GNOME Classic</em> is based on <em>GNOME 3</"
-"em> technologies, it provides a number of changes to the user interface, "
-"such as the <gui>Applications</gui> and <gui>Places</gui> menus on the top "
-"bar, and a window list at the bottom of the screen."
+"desktop experience. While <em>GNOME Classic</em> is based on modern GNOME "
+"technologies, it provides a number of changes to the user interface, such as "
+"the <gui>Applications</gui> and <gui>Places</gui> menus on the top bar, and "
+"a window list at the bottom of the screen."
 msgstr ""
 
 #. (itstool) path: when/p
 #: C/gnome-classic.page:41
 msgid ""
 "<em>GNOME Classic</em> is a feature for users who prefer a more traditional "
-"desktop experience. While <em>GNOME Classic</em> is based on <em>GNOME 3</"
-"em> technologies, it provides a number of changes to the user interface, "
-"such as the <gui xref=\"shell-introduction#activities\">Applications</gui> "
-"and <gui>Places</gui> menus on the top bar, and a window list at the bottom "
-"of the screen."
+"desktop experience. While <em>GNOME Classic</em> is based on modern GNOME "
+"technologies, it provides a number of changes to the user interface, such as "
+"the <gui xref=\"shell-introduction#activities\">Applications</gui> and "
+"<gui>Places</gui> menus on the top bar, and a window list at the bottom of "
+"the screen."
 msgstr ""
 
 #. (itstool) path: page/p
@@ -7458,7 +7372,7 @@ msgstr ""
 
 #. (itstool) path: section/p
 #. (itstool) path: when/p
-#: C/gnome-classic.page:56 C/shell-introduction.page:271
+#: C/gnome-classic.page:56 C/shell-introduction.page:272
 msgid ""
 "The window list at the bottom of the screen provides access to all your open "
 "windows and applications and lets you quickly minimize and restore them."
@@ -7502,31 +7416,47 @@ msgid ""
 "available or installed by default."
 msgstr ""
 
-#. (itstool) path: steps/title
+#. (itstool) path: note/p
+#. Translators: Ubuntu only string
 #: C/gnome-classic.page:83
+msgid ""
+"You need to have the <sys>gnome-shell-extensions</sys> package installed to "
+"make GNOME Classic available."
+msgstr ""
+
+#. (itstool) path: note/p
+#. Translators: Ubuntu only string
+#: C/gnome-classic.page:85
+msgid ""
+"<link style=\"button\" action=\"install:gnome-shell-extensions\">Install "
+"<sys>gnome-shell-extensions</sys></link>"
+msgstr ""
+
+#. (itstool) path: steps/title
+#: C/gnome-classic.page:90
 msgid "To switch from <em>GNOME</em> to <em>GNOME Classic</em>:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:85
+#: C/gnome-classic.page:92
 msgid ""
 "Save any open work, and then log out. Click the system menu on the right "
 "side of the top bar and then choose the right option."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:89 C/gnome-classic.page:117
+#: C/gnome-classic.page:96 C/gnome-classic.page:124
 msgid ""
 "A confirmation message will appear. Select <gui>Log Out</gui> to confirm."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:93 C/gnome-classic.page:121
+#: C/gnome-classic.page:100 C/gnome-classic.page:128
 msgid "At the login screen, select your name from the list."
 msgstr ""
 
 #. (itstool) path: media/span
-#: C/gnome-classic.page:96 C/net-findip.page:65 C/net-findip.page:91
+#: C/gnome-classic.page:103 C/net-findip.page:65 C/net-findip.page:91
 #: C/net-fixed-ip-address.page:58 C/net-fixed-ip-address.page:61
 #: C/net-macaddress.page:62 C/net-manual.page:55 C/net-manual.page:59
 #: C/net-othersconnect.page:57 C/net-othersedit.page:77
@@ -7537,44 +7467,44 @@ msgid "settings"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:96
+#: C/gnome-classic.page:103
 msgid "Click the <_:media-1/> button in the bottom right corner."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:100
+#: C/gnome-classic.page:107
 msgid "Select <gui>GNOME Classic</gui> from the list."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:103 C/gnome-classic.page:130
+#: C/gnome-classic.page:110 C/gnome-classic.page:137
 msgid "Enter your password in the password entry box."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:106 C/gnome-classic.page:133
+#: C/gnome-classic.page:113 C/gnome-classic.page:140
 msgid "Press <key>Enter</key>."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/gnome-classic.page:111
+#: C/gnome-classic.page:118
 msgid "To switch from <em>GNOME Classic</em> to <em>GNOME</em>:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:113
+#: C/gnome-classic.page:120
 msgid ""
 "Save any open work, and then log out. Click the system menu on the right "
 "side of the top bar, click your name and then choose the right option."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:124
+#: C/gnome-classic.page:131
 msgid "Click the options icon in the bottom right corner."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:127
+#: C/gnome-classic.page:134
 msgid "Select <gui>GNOME</gui> from the list."
 msgstr ""
 
@@ -7887,7 +7817,7 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/index.page:7
-msgid "A guide for GNOME 3 desktop users."
+msgid "A guide for GNOME desktop users."
 msgstr ""
 
 #. (itstool) path: info/title
@@ -7972,7 +7902,7 @@ msgid ""
 "The <key>Menu</key> key, also known as the <em>Application</em> key, is a "
 "key found on some Windows-oriented keyboards. This key is usually on the "
 "bottom-right of the keyboard, next to the <key>Ctrl</key> key, but it can be "
-"placed in a different location by keyboard manufacturers. Its is usually "
+"placed in a different location by keyboard manufacturers. It is usually "
 "depicted as a cursor hovering above a menu: <_:media-1/>."
 msgstr ""
 
@@ -8041,7 +7971,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/keyboard-key-super.page:55 C/keyboard-layouts.page:61
-#: C/keyboard-shortcuts-set.page:75 C/tips-specialchars.page:76
+#: C/keyboard-shortcuts-set.page:75 C/tips-specialchars.page:93
 msgid "Click <gui>Keyboard</gui> in the sidebar to open the panel."
 msgstr ""
 
@@ -8646,8 +8576,8 @@ msgid ""
 "You can press the <gui style=\"button\"><_:media-1/></gui> button to hide "
 "the keyboard temporarily. The keyboard will show again automatically when "
 "you next press on something where you can use it. On a touchscreen, you can "
-"also pull up the touchscreen by <link xref=\"touchscreen-gestures\">dragging "
-"up from the bottom edge</link>."
+"also pull up the keyboard by <link xref=\"touchscreen-gestures\">dragging up "
+"from the bottom edge</link>."
 msgstr ""
 
 #. (itstool) path: media/span
@@ -10119,7 +10049,7 @@ msgstr ""
 
 #. (itstool) path: credit/years
 #: C/mouse-mousekeys.page:31 C/mouse-touchpad-click.page:32
-#: C/shell-notifications.page:23
+#: C/shell-notifications.page:24
 msgid "2013, 2015"
 msgstr ""
 
@@ -10756,8 +10686,8 @@ msgstr ""
 msgid ""
 "You can control whether you single-click or double-click files, how "
 "executable text files are handled, and the trash behavior. Click the menu "
-"button in the top-right corner of the window and select <gui>Preferences</"
-"gui>, and select the <gui>Behavior</gui> tab."
+"button in the top-right corner of the window, select <gui>Preferences</gui>, "
+"then go to the <gui>General</gui> section."
 msgstr ""
 
 #. (itstool) path: section/title
@@ -10767,16 +10697,11 @@ msgstr ""
 
 #. (itstool) path: item/title
 #: C/nautilus-behavior.page:48
-msgid "<gui>Single click to open items</gui>"
-msgstr ""
-
-#. (itstool) path: item/title
-#: C/nautilus-behavior.page:49
-msgid "<gui>Double click to open items</gui>"
+msgid "<gui>Action to Open Items</gui>"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-behavior.page:50
+#: C/nautilus-behavior.page:49
 msgid ""
 "By default, clicking selects files and double-clicking opens them. You can "
 "instead choose to have files and folders open when you click on them once. "
@@ -10785,12 +10710,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/nautilus-behavior.page:59
+#: C/nautilus-behavior.page:58
 msgid "Executable text files"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/nautilus-behavior.page:60
+#: C/nautilus-behavior.page:59
 msgid ""
 "An executable text file is a file that contains a program that you can run "
 "(execute). The <link xref=\"nautilus-file-properties-permissions\">file "
@@ -10801,34 +10726,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/nautilus-behavior.page:67
-msgid "When you open an executable text file, you can select from:"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/nautilus-behavior.page:71
-msgid "<gui>Run executable text files when they are opened</gui>"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/nautilus-behavior.page:74
-msgid "<gui>View executable text files when they are opened</gui>"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/nautilus-behavior.page:77
-msgid "<gui>Ask each time</gui>"
-msgstr ""
-
-#. (itstool) path: section/p
-#: C/nautilus-behavior.page:81
-msgid ""
-"If <gui>Ask each time</gui> is selected, a dialog will pop up asking if you "
-"wish to run or view the selected text file."
-msgstr ""
-
-#. (itstool) path: section/p
-#: C/nautilus-behavior.page:91
+#: C/nautilus-behavior.page:73
 msgid ""
 "Executable text files are also called <em>scripts</em>. All scripts in the "
 "<file>~/.local/share/nautilus/scripts</file> folder will appear in the "
@@ -10838,51 +10736,27 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-behavior.page:99
+#: C/nautilus-behavior.page:81
 msgid "Navigate to the desired folder."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-behavior.page:102
+#: C/nautilus-behavior.page:84
 msgid "Select the desired file."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-behavior.page:105
+#: C/nautilus-behavior.page:87
 msgid ""
 "Right click on the file to open the context menu and select the desired "
 "script to execute from the <gui style=\"menuitem\">Scripts</gui> menu."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/nautilus-behavior.page:111
+#: C/nautilus-behavior.page:93
 msgid ""
 "A script will not be passed any parameters when executed from a remote "
 "folder such as a folder showing web or <sys>ftp</sys> content."
-msgstr ""
-
-#. (itstool) path: info/title
-#: C/nautilus-behavior.page:120
-msgctxt "link"
-msgid "File manager trash preferences"
-msgstr ""
-
-#. (itstool) path: section/title
-#: C/nautilus-behavior.page:122
-msgid "Trash"
-msgstr ""
-
-#. (itstool) path: item/title
-#: C/nautilus-behavior.page:126
-msgid "<gui>Ask before emptying the Trash</gui>"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/nautilus-behavior.page:127
-msgid ""
-"This option is selected by default. When emptying the trash, a message will "
-"be displayed confirming that you would like to empty the trash or delete "
-"files."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -11268,25 +11142,25 @@ msgid "<sys>nfs://servername/path</sys>"
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/nautilus-display.page:27
+#: C/nautilus-display.page:28
 msgid "Control icon captions used in the file manager."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/nautilus-display.page:31
+#: C/nautilus-display.page:32
 msgid "File manager display preferences"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/nautilus-display.page:33
+#: C/nautilus-display.page:34
 msgid ""
 "You can control how the file manager displays captions under icons. Click "
-"the menu button in the top-right corner of the window and select "
-"<gui>Preferences</gui>, then select the <gui>Views</gui> tab."
+"the menu button in the top-right corner of the window, select "
+"<gui>Preferences</gui>, then go to the <gui>Icon View Captions</gui> section."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/nautilus-display.page:38
+#: C/nautilus-display.page:39
 msgid "Icon captions"
 msgstr ""
 
@@ -11295,7 +11169,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/nautilus-display.page:41
+#: C/nautilus-display.page:42
 msgctxt "_"
 msgid ""
 "external ref='figures/nautilus-icons.png' "
@@ -11303,12 +11177,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: media/p
-#: C/nautilus-display.page:42
+#: C/nautilus-display.page:43
 msgid "File manager icons with captions"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/nautilus-display.page:44
+#: C/nautilus-display.page:45
 msgid ""
 "When you use icon view, you can choose to have extra information about files "
 "and folders displayed in a caption under each icon. This is useful, for "
@@ -11317,7 +11191,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/nautilus-display.page:48
+#: C/nautilus-display.page:49
 msgid ""
 "You can zoom in a folder by clicking the view options button in the toolbar "
 "and choosing a zoom level with the slider. As you zoom in, the file manager "
@@ -11327,7 +11201,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/nautilus-display.page:54
+#: C/nautilus-display.page:55
 msgid ""
 "The information you can show in icon captions is the same as the columns you "
 "can use in list view. See <link xref=\"nautilus-list\"/> for more "
@@ -11335,18 +11209,18 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/nautilus-display.page:61
+#: C/nautilus-display.page:62
 msgid "List View"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/nautilus-display.page:63
+#: C/nautilus-display.page:64
 msgid ""
-"When viewing files as a list, you can <gui>Allow folders to be expanded</"
-"gui>. This shows expanders on each directory in the file list, so that the "
-"contents of several folders can be shown at once. This is useful if the "
-"folder structure is relevant, such as if your music files are organized with "
-"a folder per artist, and a subfolder per album."
+"When viewing files as a list, you can display <gui>Expandable Folders in "
+"List View</gui>. This shows expanders on each directory in the file list, so "
+"that the contents of several folders can be shown at once. This is useful if "
+"the folder structure is relevant, such as if your music files are organized "
+"with a folder per artist, and a subfolder per album."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -11492,7 +11366,7 @@ msgstr ""
 
 #. (itstool) path: item/title
 #. (itstool) path: title/gui
-#: C/nautilus-file-properties-basic.page:99 C/nautilus-list.page:140
+#: C/nautilus-file-properties-basic.page:99 C/nautilus-list.page:134
 msgid "Accessed"
 msgstr ""
 
@@ -11503,7 +11377,7 @@ msgstr ""
 
 #. (itstool) path: item/title
 #. (itstool) path: title/gui
-#: C/nautilus-file-properties-basic.page:104 C/nautilus-list.page:72
+#: C/nautilus-file-properties-basic.page:104 C/nautilus-list.page:66
 msgid "Modified"
 msgstr ""
 
@@ -11570,18 +11444,17 @@ msgstr ""
 msgid ""
 "If the file is a program, such as a script, you must select <gui>Allow "
 "executing file as program</gui> to run it. Even with this option selected, "
-"the file manager may still open the file in an application or ask you what "
-"to do. See <link xref=\"nautilus-behavior#executable\"/> for more "
-"information."
+"the file manager will still open the file in an application. See <link xref="
+"\"nautilus-behavior#executable\"/> for more information."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/nautilus-file-properties-permissions.page:69
+#: C/nautilus-file-properties-permissions.page:68
 msgid "Folders"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/nautilus-file-properties-permissions.page:70
+#: C/nautilus-file-properties-permissions.page:69
 msgid ""
 "You can set permissions on folders for the owner, group, and other users. "
 "See the details of file permissions above for an explanation of owners, "
@@ -11589,42 +11462,42 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/nautilus-file-properties-permissions.page:73
+#: C/nautilus-file-properties-permissions.page:72
 msgid ""
 "The permissions you can set for a folder are different from those you can "
 "set for a file."
 msgstr ""
 
 #. (itstool) path: title/gui
-#: C/nautilus-file-properties-permissions.page:77
+#: C/nautilus-file-properties-permissions.page:76
 msgctxt "permission"
 msgid "None"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-file-properties-permissions.page:78
+#: C/nautilus-file-properties-permissions.page:77
 msgid "The user will not even be able to see what files are in the folder."
 msgstr ""
 
 #. (itstool) path: title/gui
-#: C/nautilus-file-properties-permissions.page:82
+#: C/nautilus-file-properties-permissions.page:81
 msgid "List files only"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-file-properties-permissions.page:83
+#: C/nautilus-file-properties-permissions.page:82
 msgid ""
 "The user will be able to see what files are in the folder, but will not be "
 "able to open, create, or delete files."
 msgstr ""
 
 #. (itstool) path: title/gui
-#: C/nautilus-file-properties-permissions.page:87
+#: C/nautilus-file-properties-permissions.page:86
 msgid "Access files"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-file-properties-permissions.page:88
+#: C/nautilus-file-properties-permissions.page:87
 msgid ""
 "The user will be able to open files in the folder (provided they have "
 "permission to do so on the particular file), but will not be able to create "
@@ -11632,19 +11505,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: title/gui
-#: C/nautilus-file-properties-permissions.page:93
+#: C/nautilus-file-properties-permissions.page:92
 msgid "Create and delete files"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-file-properties-permissions.page:94
+#: C/nautilus-file-properties-permissions.page:93
 msgid ""
 "The user will have full access to the folder, including opening, creating, "
 "and deleting files."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/nautilus-file-properties-permissions.page:99
+#: C/nautilus-file-properties-permissions.page:98
 msgid ""
 "You can also quickly set the file permissions for all the files in the "
 "folder by clicking <gui>Change Permissions for Enclosed Files</gui>. Use the "
@@ -11654,78 +11527,69 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/nautilus-list.page:37
+#: C/nautilus-list.page:38
 msgid "Control what information is displayed in columns in list view."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/nautilus-list.page:40
+#: C/nautilus-list.page:41
 msgid "Files list columns preferences"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/nautilus-list.page:42
+#: C/nautilus-list.page:43
 msgid ""
-"There are eleven columns of information that you can display in the "
-"<gui>Files</gui> list view. Click the menu button in the top-right corner of "
-"the window, select <gui>Preferences</gui> and choose the <gui>List Columns</"
-"gui> tab to select which columns will be visible."
-msgstr ""
-
-#. (itstool) path: note/p
-#: C/nautilus-list.page:48
-msgid ""
-"Use the <gui>Move Up</gui> and <gui>Move Down</gui> buttons to choose the "
-"order in which the selected columns will appear. Click <gui>Reset to "
-"Default</gui> to undo any changes and return to the default columns."
+"There are several columns of information that you can display in the "
+"<gui>Files</gui> list view. Right-click a column header and select or "
+"deselect which columns should be visible."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:56
+#: C/nautilus-list.page:50
 msgid "The name of folders and files."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/nautilus-list.page:58
+#: C/nautilus-list.page:52
 msgid "The <gui>Name</gui> column cannot be hidden."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:63
+#: C/nautilus-list.page:57
 msgid ""
 "The size of a folder is given as the number of items contained in the "
 "folder. The size of a file is given as bytes, KB, or MB."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:68
+#: C/nautilus-list.page:62
 msgid ""
 "Displayed as folder, or file type such as PDF document, JPEG image, MP3 "
 "audio, and more."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:73
+#: C/nautilus-list.page:67
 msgid "Gives the date of the last time the file was modified."
 msgstr ""
 
 #. (itstool) path: title/gui
-#: C/nautilus-list.page:76
+#: C/nautilus-list.page:70
 msgid "Owner"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:77
+#: C/nautilus-list.page:71
 msgid "The name of the user the folder or file is owned by."
 msgstr ""
 
 #. (itstool) path: title/gui
-#: C/nautilus-list.page:80
+#: C/nautilus-list.page:74
 msgid "Group"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:81
+#: C/nautilus-list.page:75
 msgid ""
 "The group the file is owned by. Each user is normally in their own group, "
 "but it is possible to have many users in one group. For example, a "
@@ -11733,18 +11597,18 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: title/gui
-#: C/nautilus-list.page:86
+#: C/nautilus-list.page:80
 msgid "Permissions"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:87
+#: C/nautilus-list.page:81
 msgid ""
 "Displays the file access permissions. For example, <gui>drwxrw-r--</gui>"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:91
+#: C/nautilus-list.page:85
 msgid ""
 "The first character is the file type. <gui>-</gui> means regular file and "
 "<gui>d</gui> means directory (folder). In rare cases, other characters can "
@@ -11752,85 +11616,85 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:96
+#: C/nautilus-list.page:90
 msgid ""
 "The next three characters <gui>rwx</gui> specify permissions for the user "
 "who owns the file."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:100
+#: C/nautilus-list.page:94
 msgid ""
 "The next three <gui>rw-</gui> specify permissions for all members of the "
 "group that owns the file."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:104
+#: C/nautilus-list.page:98
 msgid ""
 "The last three characters in the column <gui>r--</gui> specify permissions "
 "for all other users on the system."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:108
+#: C/nautilus-list.page:102
 msgid "Each permission has the following meanings:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:111
+#: C/nautilus-list.page:105
 msgid "<gui>r</gui>: readable, meaning that you can open the file or folder"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:115
+#: C/nautilus-list.page:109
 msgid "<gui>w</gui>: writable, meaning that you can save changes to it"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:118
+#: C/nautilus-list.page:112
 msgid ""
 "<gui>x</gui>: executable, meaning that you can run it if it is a program or "
 "script file, or you can access subfolders and files if it is a folder"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:123
+#: C/nautilus-list.page:117
 msgid "<gui>-</gui>: permission not set"
 msgstr ""
 
 #. (itstool) path: title/gui
-#: C/nautilus-list.page:128
+#: C/nautilus-list.page:122
 msgid "MIME Type"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:129
+#: C/nautilus-list.page:123
 msgid "Displays the MIME type of the item."
 msgstr ""
 
 #. (itstool) path: title/gui
-#: C/nautilus-list.page:132
+#: C/nautilus-list.page:126
 msgid "Location"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:133
+#: C/nautilus-list.page:127
 msgid "The path to the location of the file."
 msgstr ""
 
 #. (itstool) path: title/gui
-#: C/nautilus-list.page:136
+#: C/nautilus-list.page:130
 msgid "Modified — Time"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:137
+#: C/nautilus-list.page:131
 msgid "Gives the date and time of the last time the file was modified."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-list.page:141
+#: C/nautilus-list.page:135
 msgid "Gives the date or time of the last time the file was modified."
 msgstr ""
 
@@ -11851,56 +11715,49 @@ msgid "File manager preferences"
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/nautilus-preview.page:27
+#: C/nautilus-preview.page:28
 msgid "Control when thumbnails are used for files."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/nautilus-preview.page:30
+#: C/nautilus-preview.page:31
 msgid "File manager preview preferences"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/nautilus-preview.page:32
+#: C/nautilus-preview.page:33
 msgid ""
 "The file manager creates thumbnails to preview image, video, and text files. "
 "Thumbnail previews can be slow for large files or over networks, so you can "
 "control when previews are made. Click the menu button in the top-right of "
-"the window, select <gui>Preferences</gui>, then select the <gui>Search &amp; "
-"Preview</gui> tab."
+"the window, select <gui>Preferences</gui>, then go to the <gui>Performance</"
+"gui> section."
 msgstr ""
 
 #. (itstool) path: item/title
-#: C/nautilus-preview.page:40
-msgid "<gui>Files</gui>"
+#: C/nautilus-preview.page:41
+msgid "<gui>Show Thumbnails</gui>"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-preview.page:41
+#: C/nautilus-preview.page:42
 msgid ""
-"By default, all previews are done for <gui>Files on this computer only</"
-"gui>, those on your computer or connected external drives. You can set this "
-"feature to <gui>All Files</gui> or <gui>Never</gui>. The file manager can "
+"By default, all previews are done for <gui>On this computer only</gui>, "
+"those on your computer or connected external drives. You can set this "
+"feature to <gui>All files</gui> or <gui>Never</gui>. The file manager can "
 "<link xref=\"nautilus-connect\">browse files on other computers</link> over "
 "a local area network or the internet. If you often browse files over a local "
 "area network, and the network has high bandwidth, you may want to set the "
-"preview option to <gui>All Files</gui>."
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/nautilus-preview.page:49
-msgid ""
-"In addition, you can use the <gui>Only for files smaller than</gui> setting "
-"to limit the size of files previewed."
+"preview option to <gui>All files</gui>."
 msgstr ""
 
 #. (itstool) path: item/title
-#: C/nautilus-preview.page:53
-msgid "<gui>File count</gui>"
+#: C/nautilus-preview.page:52
+msgid "<gui>Count Number of Files in Folders</gui>"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-preview.page:54
+#: C/nautilus-preview.page:53
 msgid ""
 "If you show file sizes in <link xref=\"nautilus-list\">list view columns</"
 "link> or <link xref=\"nautilus-display#icon-captions\">icon captions</link>, "
@@ -11910,7 +11767,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/nautilus-preview.page:59
+#: C/nautilus-preview.page:58
 msgid ""
 "You can turn this feature on or off, or turn it on only for files on your "
 "computer and local external drives."
@@ -12291,13 +12148,15 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/net-firewall-on-off.page:35
 msgid ""
-"Your system should be equipped with a <em>firewall</em> that allows it to "
-"block programs from being accessed by other people on the internet or your "
-"network. This helps to keep your computer secure."
+"GNOME does not come with a firewall, so for support beyond this document "
+"check with your distribution’s support team or your organization’s IT "
+"department. Your computer should be equipped with a <em>firewall</em> that "
+"allows it to block programs from being accessed by other people on the "
+"internet or your network. This helps to keep your computer secure."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/net-firewall-on-off.page:39
+#: C/net-firewall-on-off.page:41
 msgid ""
 "Many applications can use your network connection. For instance, you can "
 "share files or let someone view your desktop remotely when connected to a "
@@ -12306,7 +12165,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/net-firewall-on-off.page:44
+#: C/net-firewall-on-off.page:46
 msgid ""
 "Each program that provides network services uses a specific <em>network "
 "port</em>. To enable other computers on the network to access a service, you "
@@ -12314,7 +12173,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-firewall-on-off.page:51
+#: C/net-firewall-on-off.page:53
 msgid ""
 "Go to <gui>Activities</gui> in the top left corner of the screen and start "
 "your firewall application. You may need to install a firewall manager "
@@ -12322,7 +12181,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-firewall-on-off.page:56
+#: C/net-firewall-on-off.page:58
 msgid ""
 "Open or disable the port for your network service, depending on whether you "
 "want people to be able to access it or not. Which port you need to change "
@@ -12330,7 +12189,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-firewall-on-off.page:62
+#: C/net-firewall-on-off.page:64
 msgid ""
 "Save or apply the changes, following any additional instructions given by "
 "the firewall tool."
@@ -13345,19 +13204,26 @@ msgid ""
 "disappear when you are connected."
 msgstr ""
 
+#. (itstool) path: media/p
+#: C/net-wired-connect.page:42
+msgid "Diagram of an Ethernet cable"
+msgstr ""
+
 #. (itstool) path: page/p
-#: C/net-wired-connect.page:41
+#: C/net-wired-connect.page:45
 msgid ""
 "If this does not happen, you should first of all make sure that your network "
 "cable is plugged in. One end of the cable should be plugged into the "
 "rectangular Ethernet (network) port on your computer, and the other end "
 "should be plugged into a switch, router, network wall socket or similar "
-"(depending on the network setup you have). Sometimes, a light beside the "
-"Ethernet port will indicate that it is plugged in and active."
+"(depending on the network setup you have). The Ethernet port is often on the "
+"side of a laptop, or near the top of the back of a desktop computer. "
+"Sometimes, a light beside the Ethernet port will indicate that it is plugged "
+"in and active."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/net-wired-connect.page:49
+#: C/net-wired-connect.page:54
 msgid ""
 "You cannot plug one computer directly into another one with a network cable "
 "(at least, not without some extra setting-up). To connect two computers, you "
@@ -13365,7 +13231,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/net-wired-connect.page:55
+#: C/net-wired-connect.page:60
 msgid ""
 "If you are still not connected, your network may not support automatic setup "
 "(DHCP). In this case you will have to <link xref=\"net-manual\">configure it "
@@ -13542,14 +13408,13 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:51
 msgid ""
-"If the name of the network is not in the list, try clicking <gui>More</gui> "
-"to see if the network is further down the list. If you still do not see the "
-"network, you may be out of range, or the network <link xref=\"net-wireless-"
-"hidden\">might be hidden</link>."
+"If the name of the network is not shown, scroll down the list. If you still "
+"do not see the network, you may be out of range, or the network <link xref="
+"\"net-wireless-hidden\">might be hidden</link>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-wireless-connect.page:57
+#: C/net-wireless-connect.page:56
 msgid ""
 "If the network is protected by a password (<link xref=\"net-wireless-wepwpa"
 "\">encryption key</link>), enter the password when prompted and click "
@@ -13557,7 +13422,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-wireless-connect.page:60
+#: C/net-wireless-connect.page:59
 msgid ""
 "If you do not know the key, it may be written on the underside of the "
 "wireless router or base station, or in its instruction manual, or you may "
@@ -13565,7 +13430,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/net-wireless-connect.page:65
+#: C/net-wireless-connect.page:64
 msgid ""
 "The network icon will change appearance as the computer attempts to connect "
 "to the network."
@@ -13573,7 +13438,7 @@ msgstr ""
 
 #. (itstool) path: when/p
 #. (itstool) path: choose/p
-#: C/net-wireless-connect.page:71 C/net-wireless-connect.page:77
+#: C/net-wireless-connect.page:70 C/net-wireless-connect.page:76
 msgid ""
 "If the connection is successful, the icon will change to a dot with several "
 "curved bars above it (<_:media-1/>). More bars indicate a stronger "
@@ -13582,7 +13447,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/net-wireless-connect.page:86
+#: C/net-wireless-connect.page:85
 msgid ""
 "If the connection is not successful, you may be asked for your password "
 "again or it might just tell you that the connection has been disconnected. "
@@ -13593,7 +13458,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/net-wireless-connect.page:93
+#: C/net-wireless-connect.page:92
 msgid ""
 "A stronger connection to a wireless network does not necessarily mean that "
 "you have a faster internet connection, or that you will have faster download "
@@ -14619,23 +14484,23 @@ msgid "Networking, web &amp; email"
 msgstr ""
 
 #. (itstool) path: credit/years
-#: C/power-autobrightness.page:15 C/power-autosuspend.page:16
-#: C/power-status.page:17 C/power-wireless.page:17
+#: C/power-autobrightness.page:16 C/power-autosuspend.page:17
+#: C/power-status.page:17 C/power-wireless.page:18
 msgid "2016"
 msgstr "2016"
 
 #. (itstool) path: info/desc
-#: C/power-autobrightness.page:20
+#: C/power-autobrightness.page:21
 msgid "Automatically control screen brightness to reduce battery use."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/power-autobrightness.page:23
+#: C/power-autobrightness.page:24
 msgid "Enable automatic brightness"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/power-autobrightness.page:25
+#: C/power-autobrightness.page:26
 msgid ""
 "If your computer has an integrated light sensor, it can be used to "
 "automatically control screen brightness. This ensures that the screen is "
@@ -14644,49 +14509,50 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/power-autobrightness.page:40
+#: C/power-autobrightness.page:41
 msgid ""
-"In the <gui>Power Saving</gui> section, ensure that the <gui>Automatic "
-"brightness</gui> switch is set to on."
+"In the <gui>Power Saving Options</gui> section, ensure that the "
+"<gui>Automatic Screen Brightness</gui> switch is set to on."
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/power-autobrightness.page:46
+#: C/power-autobrightness.page:47
 msgid "To disable automatic screen brightness, switch it to off."
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/power-autosuspend.page:21
+#: C/power-autosuspend.page:22
 msgid "Configure your computer to suspend automatically."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/power-autosuspend.page:24
+#: C/power-autosuspend.page:25
 msgid "Set up automatic suspend"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/power-autosuspend.page:26
+#: C/power-autosuspend.page:27
 msgid ""
 "You can configure your computer to automatically suspend when idle. "
 "Different intervals can be specified for running on battery or plugged in."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/power-autosuspend.page:39
+#: C/power-autosuspend.page:40
 msgid ""
-"In the <gui>Power Saving</gui> section, click <gui>Automatic suspend</gui>."
+"In the <gui>Power Saving Options</gui> section, click <gui>Automatic "
+"Suspend</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/power-autosuspend.page:43
+#: C/power-autosuspend.page:44
 msgid ""
 "Choose <gui>On Battery Power</gui> or <gui>Plugged In</gui>, set the switch "
 "to on, and select a <gui>Delay</gui>. Both options can be configured."
 msgstr ""
 
 #. (itstool) path: note/p
-#: C/power-autosuspend.page:48
+#: C/power-autosuspend.page:49
 msgid ""
 "On a desktop computer, there is one option labeled <gui>When Idle</gui>."
 msgstr ""
@@ -14757,29 +14623,29 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/power-batterylife.page:38
+#: C/power-batterylife.page:39
 msgid "Tips to reduce the power consumption of your computer."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/power-batterylife.page:41
+#: C/power-batterylife.page:42
 msgid "Use less power and improve battery life"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/power-batterylife.page:43
+#: C/power-batterylife.page:44
 msgid ""
 "Computers can use a lot of power. By using some simple energy-saving "
 "strategies, you can reduce your energy bill and help the environment."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/power-batterylife.page:47
+#: C/power-batterylife.page:48
 msgid "General tips"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/power-batterylife.page:51
+#: C/power-batterylife.page:52
 msgid ""
 "<link xref=\"shell-exit#suspend\">Suspend your computer</link> when you are "
 "not using it. This significantly reduces the amount of power it uses, and it "
@@ -14787,7 +14653,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/power-batterylife.page:56
+#: C/power-batterylife.page:57
 msgid ""
 "<link xref=\"shell-exit#shutdown\">Turn off</link> the computer when you "
 "will not be using it for longer periods. Some people worry that turning off "
@@ -14796,31 +14662,36 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/power-batterylife.page:62
+#: C/power-batterylife.page:63
 msgid ""
 "Use the <gui>Power</gui> panel in <app>Settings</app> to change your power "
 "settings. There are a number of options that will help to save power: you "
 "can <link xref=\"display-blank\">automatically blank the screen</link> after "
-"a certain time, reduce the <link xref=\"display-brightness\">screen "
-"brightness</link>, and have the computer <link xref=\"power-autosuspend"
-"\">automatically suspend</link> if you have not used it for a certain period "
-"of time."
+"a certain time, enable the <gui>Automatic <link xref=\"power-profile\">Power "
+"Saver</link></gui> mode when the battery is low, and have the computer <link "
+"xref=\"power-autosuspend\">automatically suspend</link> if you have not used "
+"it for a certain period of time."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/power-batterylife.page:71
+#: C/power-batterylife.page:72
+msgid "Reduce the <link xref=\"display-brightness\">screen brightness</link>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/power-batterylife.page:75
 msgid ""
 "Turn off any external devices (like printers and scanners) when you are not "
 "using them."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/power-batterylife.page:79
+#: C/power-batterylife.page:83
 msgid "Laptops, netbooks, and other devices with batteries"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/power-batterylife.page:83
+#: C/power-batterylife.page:87
 msgid ""
 "Reduce the <link xref=\"display-brightness\">screen brightness</link>. "
 "Powering the screen accounts for a significant fraction of a laptop power "
@@ -14828,22 +14699,22 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/power-batterylife.page:86
+#: C/power-batterylife.page:90
 msgid ""
 "Most laptops have buttons on the keyboard (or a keyboard shortcut) that you "
 "can use to reduce the brightness."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/power-batterylife.page:90
+#: C/power-batterylife.page:94
 msgid ""
-"If you do not need an Internet connection for a little while, turn off the "
-"wireless or Bluetooth cards. These devices work by broadcasting radio waves, "
-"which takes quite a bit of power."
+"If you do not need an Internet connection for a little while, <link xref="
+"\"power-wireless\">turn off the wireless or Bluetooth cards</link>. These "
+"devices work by broadcasting radio waves, which takes quite a bit of power."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/power-batterylife.page:93
+#: C/power-batterylife.page:97
 msgid ""
 "Some computers have a physical switch that can be used to turn it off, "
 "whereas others have a keyboard shortcut that you can use instead. You can "
@@ -14851,19 +14722,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/power-batterylife.page:102
+#: C/power-batterylife.page:106
 msgid "More advanced tips"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/power-batterylife.page:106
+#: C/power-batterylife.page:110
 msgid ""
 "Reduce the number of tasks that are running in the background. Computers use "
 "more power when they have more work to do."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/power-batterylife.page:108
+#: C/power-batterylife.page:112
 msgid ""
 "Most of your running applications do very little when you are not actively "
 "using them. However, applications that frequently grab data from the "
@@ -15340,12 +15211,12 @@ msgid "Show the battery status as a percentage"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/power-percentage.page:27
+#: C/power-percentage.page:27 C/power-status.page:62
 msgid ""
 "The <link xref=\"status-icons#batteryicons\">status icon</link> in the top "
 "bar shows the charge level of the main internal battery, and whether it is "
-"currently charging or not. In addition, the charge can be displayed as a "
-"percentage."
+"currently charging or not. It can also display the charge as a <link xref="
+"\"power-percentage\">percentage</link>."
 msgstr ""
 
 #. (itstool) path: steps/title
@@ -15380,7 +15251,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/power-profile.page:30
 msgid ""
-"<gui>Balanced Power</gui>: Standard performance and power usage. This is the "
+"<gui>Balanced</gui>: Standard performance and power usage. This is the "
 "default setting."
 msgstr ""
 
@@ -15447,15 +15318,6 @@ msgstr ""
 #: C/power-status.page:59
 msgid ""
 "The <gui>Devices</gui> section displays the status of connected devices."
-msgstr ""
-
-#. (itstool) path: page/p
-#: C/power-status.page:62
-msgid ""
-"The <link xref=\"status-icons#batteryicons\">status icon</link> in the top "
-"bar shows the charge level of the main internal battery, and whether it is "
-"currently charging or not. It can also display the charge as a <link xref="
-"\"power-percentage\">percentage</link>."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -15596,17 +15458,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/power-whydim.page:32
+#: C/power-whydim.page:33
 msgid "The screen will dim when the computer is idle in order to save power."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/power-whydim.page:35
+#: C/power-whydim.page:36
 msgid "Why does my screen go dim after a while?"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/power-whydim.page:43
+#: C/power-whydim.page:44
 msgid ""
 "If it is possible to set the brightness of your screen, it will dim when the "
 "computer is idle in order to save power. When you start using the computer "
@@ -15614,15 +15476,15 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/power-whydim.page:47
+#: C/power-whydim.page:48
 msgid "To stop the screen from dimming itself:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/power-whydim.page:58
+#: C/power-whydim.page:59
 msgid ""
-"Switch the <gui>Dim Screen When Inactive</gui> switch to off in the "
-"<gui>Power Saving</gui> section."
+"Switch the <gui>Dim Screen</gui> switch to off in the <gui>Power Saving "
+"Options</gui> section."
 msgstr ""
 
 #. (itstool) path: info/desc
@@ -15709,30 +15571,47 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/power-wireless.page:22
+#: C/power-wireless.page:23
 msgid ""
 "Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery "
 "use."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/power-wireless.page:25
+#: C/power-wireless.page:26
 msgid "Switch off unused wireless technologies"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/power-wireless.page:27
+#: C/power-wireless.page:28
 msgid ""
 "You can reduce battery use by switching off bluetooth, wi-fi or mobile "
 "broadband when they are not in use."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/power-wireless.page:40
+#: C/power-wireless.page:34
+#, fuzzy
 msgid ""
-"The <gui>Power Saving</gui> section contains switches for <gui>Wi-Fi</gui> "
-"and <gui>Bluetooth</gui>. Switch the unused services to off. Re-enable when "
-"needed by switching to on."
+"Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
+"overview and start typing <gui>Wi-Fi</gui> or <gui>Bluetooth</gui>, "
+"respectively."
+msgstr ""
+"<app>Ekran Görüntüsü</app>’nü <gui xref=\"shell-introduction#activities"
+"\">Etkinlikler</gui> genel görünümünden açın."
+
+#. (itstool) path: item/p
+#: C/power-wireless.page:38
+msgid ""
+"Click <gui>Wi-Fi</gui> to open the panel, or <gui>Bluetooth</gui>, "
+"respectively."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/power-wireless.page:41
+msgid ""
+"In the header bar, switch the unused services to off. Re-enable when needed "
+"by switching to on."
 msgstr ""
 
 #. (itstool) path: credit/name
@@ -16471,7 +16350,7 @@ msgstr ""
 
 #. (itstool) path: item/p
 #: C/printing-name-location.page:71 C/printing-name-location.page:106
-#: C/tips-specialchars.page:89
+#: C/tips-specialchars.page:106
 msgid "Close the dialog."
 msgstr ""
 
@@ -17278,11 +17157,11 @@ msgstr ""
 # Hata bildirimi yapıldı: https://gitlab.gnome.org/GNOME/gnome-user-docs/-/merge_requests/116
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:55
+#, fuzzy
 msgid ""
 "In the <app>Screenshot</app> window, select whether to grab the whole "
 "screen, the current window, or an area of the screen. Set a delay if you "
-"need to select a window or otherwise set up your desktop for the screenshot. "
-"Then choose any effects you want."
+"need to select a window or otherwise set up your desktop for the screenshot."
 msgstr ""
 "<app>Ekran Görüntüsü</app> penceresinde, tüm ekranı mı, geçerli pencereyi mi "
 "yoksa ekranın bir alanını mı yakalayacağınızı seçin. Pencere seçmeniz "
@@ -17810,13 +17689,15 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:50
 msgid ""
-"You must have the <app>Vino</app> package installed for <gui>Screen Sharing</"
-"gui> to be visible."
+"You must have the <app>GNOME Remote Desktop</app> package installed for "
+"<gui>Screen Sharing</gui> to be visible."
 msgstr ""
 
 #. (itstool) path: when/p
 #: C/sharing-desktop.page:55
-msgid "<link action=\"install:vino\" style=\"button\">Install Vino</link>"
+msgid ""
+"<link action=\"install:gnome-remote-desktop\" style=\"button\">Install GNOME "
+"Remote Desktop</link>"
 msgstr ""
 
 #. (itstool) path: item/p
@@ -17825,9 +17706,9 @@ msgid "Click on <gui>Sharing</gui> in the sidebar to open the panel."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/sharing-desktop.page:72
+#: C/sharing-desktop.page:72 C/sharing-media.page:63 C/sharing-personal.page:72
 msgid ""
-"If the <gui>Sharing</gui> switch at the top-right of the window is set to "
+"If the <gui>Sharing</gui> switch in the top-right of the window is set to "
 "off, switch it to on."
 msgstr ""
 
@@ -18018,13 +17899,6 @@ msgstr ""
 #. (itstool) path: when/p
 #: C/sharing-media.page:49
 msgid "<link action=\"install:rygel\" style=\"button\">Install Rygel</link>"
-msgstr ""
-
-#. (itstool) path: item/p
-#: C/sharing-media.page:63 C/sharing-personal.page:72
-msgid ""
-"If the <gui>Sharing</gui> switch in the top-right of the window is set to "
-"off, switch it to on."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -18529,23 +18403,23 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/shell-introduction.page:37
+#: C/shell-introduction.page:38
 msgid ""
 "A visual overview of your desktop, the top bar, and the <gui>Activities</"
 "gui> overview."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/shell-introduction.page:41
+#: C/shell-introduction.page:42
 msgid "Visual overview of GNOME"
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-introduction.page:43
+#: C/shell-introduction.page:44
 msgid ""
-"GNOME 3 features a completely reimagined user interface designed to stay out "
-"of your way, minimize distractions, and help you get things done. When you "
-"first log in, you will see an empty desktop and the top bar."
+"GNOME features a user interface designed to stay out of your way, minimize "
+"distractions, and help you get things done. When you first log in, you will "
+"see the <gui>Activities</gui> overview and the top bar."
 msgstr ""
 
 #. (itstool) path: when/media
@@ -18553,7 +18427,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:49
+#: C/shell-introduction.page:50
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-top-bar.png' "
@@ -18561,7 +18435,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: media/p
-#: C/shell-introduction.page:50 C/shell-introduction.page:55
+#: C/shell-introduction.page:51 C/shell-introduction.page:56
 msgid "GNOME Shell top bar"
 msgstr ""
 
@@ -18570,7 +18444,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:54
+#: C/shell-introduction.page:55
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-top-bar-classic.png' "
@@ -18578,7 +18452,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: page/p
-#: C/shell-introduction.page:60
+#: C/shell-introduction.page:61
 msgid ""
 "The top bar provides access to your windows and applications, your calendar "
 "and appointments, and <link xref=\"status-icons\">system properties</link> "
@@ -18589,12 +18463,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:72
+#: C/shell-introduction.page:73
 msgid "<gui>Activities</gui> overview"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:74
+#: C/shell-introduction.page:75
 msgid ""
 "When you start GNOME, you automatically enter the <gui>Activities</gui> "
 "overview. The overview allows you to access your windows and applications. "
@@ -18603,7 +18477,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:79
+#: C/shell-introduction.page:80
 msgid ""
 "To access the overview at any time, click the <gui>Activities</gui> button, "
 "or just move your mouse pointer to the top-left hot corner. You can also "
@@ -18611,7 +18485,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:84
+#: C/shell-introduction.page:85
 msgid ""
 "To access your windows and applications, click the button at the bottom left "
 "of the screen in the window list. You can also press the <key xref="
@@ -18620,7 +18494,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:92
+#: C/shell-introduction.page:93
 msgid ""
 "At the bottom of the overview, you will find the <em>dash</em>. The dash "
 "shows you your favorite and running applications. Click any icon in the dash "
@@ -18630,7 +18504,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:98
+#: C/shell-introduction.page:99
 msgid ""
 "Right-clicking the icon displays a menu that allows you to pick any window "
 "in a running application, or to open a new window. You can also click the "
@@ -18638,14 +18512,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:102
+#: C/shell-introduction.page:103
 msgid ""
 "When you enter the overview, you will initially be in the windows overview. "
 "This shows you live thumbnails of all the windows on the current workspace."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:106
+#: C/shell-introduction.page:107
 msgid ""
 "Click the grid button (which has nine dots) in the dash to display the "
 "applications overview. This shows you all the applications installed on your "
@@ -18657,19 +18531,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:115
+#: C/shell-introduction.page:116
 msgid ""
 "<link xref=\"shell-apps-open\">Learn more about starting applications.</link>"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:119
+#: C/shell-introduction.page:120
 msgid ""
 "<link xref=\"shell-windows\">Learn more about windows and workspaces.</link>"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:127
+#: C/shell-introduction.page:128
 msgid "Application menu"
 msgstr ""
 
@@ -18678,7 +18552,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:131
+#: C/shell-introduction.page:132
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-appmenu-shell.png' "
@@ -18686,12 +18560,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: media/p
-#: C/shell-introduction.page:132 C/shell-introduction.page:143
+#: C/shell-introduction.page:133 C/shell-introduction.page:144
 msgid "App Menu of <app>Terminal</app>"
 msgstr ""
 
 #. (itstool) path: when/p
-#: C/shell-introduction.page:134
+#: C/shell-introduction.page:135
 msgid ""
 "Application menu, located beside the <gui>Activities</gui> button, shows the "
 "name of the active application alongside with its icon and provides quick "
@@ -18703,7 +18577,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:142
+#: C/shell-introduction.page:143
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-appmenu-classic.png' "
@@ -18711,7 +18585,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: when/p
-#: C/shell-introduction.page:145
+#: C/shell-introduction.page:146
 msgid ""
 "Application menu, located next to the <gui>Applications</gui> and "
 "<gui>Places</gui> menus, shows the name of the active application alongside "
@@ -18721,17 +18595,17 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:156
+#: C/shell-introduction.page:157
 msgid "Clock, calendar &amp; appointments"
 msgstr ""
 
 #. (itstool) path: media/p
-#: C/shell-introduction.page:161
+#: C/shell-introduction.page:162
 msgid "Clock, calendar, appointments and notifications"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:171
+#: C/shell-introduction.page:172
 msgid ""
 "Click the clock on the top bar to see the current date, a month-by-month "
 "calendar, a list of your upcoming appointments and new notifications. You "
@@ -18741,21 +18615,21 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:180
+#: C/shell-introduction.page:181
 msgid ""
 "<link xref=\"clock-calendar\">Learn more about the calendar and appointments."
 "</link>"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:184
+#: C/shell-introduction.page:185
 msgid ""
 "<link xref=\"shell-notifications\">Learn more about notifications and the "
 "notification list.</link>"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:193
+#: C/shell-introduction.page:194
 msgid "System menu"
 msgstr ""
 
@@ -18764,14 +18638,14 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:197
+#: C/shell-introduction.page:198
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit.png' md5='a3171c814105408ba7757112562eac3f'"
 msgstr ""
 
 #. (itstool) path: media/p
-#: C/shell-introduction.page:198 C/shell-introduction.page:203
+#: C/shell-introduction.page:199 C/shell-introduction.page:204
 msgid "User menu"
 msgstr ""
 
@@ -18780,7 +18654,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:202
+#: C/shell-introduction.page:203
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-classic.png' "
@@ -18788,14 +18662,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:208
+#: C/shell-introduction.page:209
 msgid ""
 "Click the system menu in the top-right corner to manage your system settings "
 "and your computer."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:219
+#: C/shell-introduction.page:220
 msgid ""
 "When you leave your computer, you can lock your screen to prevent other "
 "people from using it. You can also quickly switch users without logging out "
@@ -18807,19 +18681,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:229
+#: C/shell-introduction.page:230
 msgid ""
 "<link xref=\"shell-exit\">Learn more about switching users, logging out, and "
 "turning off your computer.</link>"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-introduction.page:236
+#: C/shell-introduction.page:237
 msgid "Lock Screen"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-introduction.page:238
+#: C/shell-introduction.page:239
 msgid ""
 "When you lock your screen, or it locks automatically, the lock screen is "
 "displayed. In addition to protecting your desktop while you’re away from "
@@ -18828,19 +18702,19 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:245
+#: C/shell-introduction.page:246
 msgid ""
 "<link xref=\"shell-lockscreen\">Learn more about the lock screen.</link>"
 msgstr ""
 
 #. (itstool) path: section/title
 #. (itstool) path: media/p
-#: C/shell-introduction.page:253 C/shell-introduction.page:269
+#: C/shell-introduction.page:254 C/shell-introduction.page:270
 msgid "Window List"
 msgstr ""
 
 #. (itstool) path: when/p
-#: C/shell-introduction.page:257
+#: C/shell-introduction.page:258
 msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus "
@@ -18848,7 +18722,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-introduction.page:262
+#: C/shell-introduction.page:263
 msgid ""
 "<link xref=\"shell-windows-switching\">Learn more about switching windows.</"
 "link>"
@@ -18859,7 +18733,7 @@ msgstr ""
 #. the file changes, the md5 hash will change to let you know you need to
 #. update your localized copy. The msgstr is not used at all. Set it to
 #. whatever you like once you have updated your copy of the file.
-#: C/shell-introduction.page:268
+#: C/shell-introduction.page:269
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-window-list-classic.png' "
@@ -18867,7 +18741,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: when/p
-#: C/shell-introduction.page:274
+#: C/shell-introduction.page:275
 msgid ""
 "At the right-hand side of the window list, GNOME displays the four "
 "workspaces. To switch to a different workspace, select the workspace you "
@@ -19191,36 +19065,36 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: credit/name
-#: C/shell-notifications.page:13
+#: C/shell-notifications.page:14
 msgid "Marina Zhurakhinskaya"
 msgstr ""
 
 #. (itstool) path: info/desc
-#: C/shell-notifications.page:32
+#: C/shell-notifications.page:33
 msgid ""
 "Messages drop down from the top of the screen telling you when certain "
 "events happen."
 msgstr ""
 
 #. (itstool) path: page/title
-#: C/shell-notifications.page:35
+#: C/shell-notifications.page:36
 msgid "Notifications and the notification list"
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:38
+#: C/shell-notifications.page:39
 msgid "What is a notification?"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:40
+#: C/shell-notifications.page:41
 msgid ""
 "If an application or a system component wants to get your attention, a "
 "notification will be shown at the top of the screen, or on your lock screen."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:43
+#: C/shell-notifications.page:44
 msgid ""
 "For example, if you get a new chat message or a new email, you will get a "
 "notification informing you. Chat notifications are given special treatment, "
@@ -19229,14 +19103,14 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:51
+#: C/shell-notifications.page:52
 msgid ""
 "Other notifications have selectable option buttons. To close one of these "
 "notifications without selecting one of its options, click the close button."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:55
+#: C/shell-notifications.page:56
 msgid ""
 "Clicking the close button on some notifications dismisses them. Others, like "
 "Rhythmbox or your chat application, will stay hidden in the notification "
@@ -19244,12 +19118,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:63
+#: C/shell-notifications.page:64
 msgid "The notification list"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:65
+#: C/shell-notifications.page:66
 msgid ""
 "The notification list gives you a way to get back to your notifications when "
 "it is convenient for you. It appears when you click on the clock, or press "
@@ -19259,7 +19133,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:72
+#: C/shell-notifications.page:73
 msgid ""
 "You can view a notification by clicking on it in the list. You can close the "
 "notification list by pressing <keyseq><key>Super</key><key>V</key></keyseq> "
@@ -19267,35 +19141,42 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:76
+#: C/shell-notifications.page:77
 msgid ""
 "Click the <gui>Clear List</gui> button to empty the list of notifications."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:83
+#: C/shell-notifications.page:84
 msgid "Hiding notifications"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:85
+#: C/shell-notifications.page:86
 msgid ""
 "If you are working on something and do not want to be bothered, you can "
 "switch off notifications."
 msgstr ""
 
+#. (itstool) path: section/p
+#: C/shell-notifications.page:89
+msgid ""
+"You can hide all notifications by opening the notification list and "
+"switching <gui>Do Not Disturb</gui> to on at the bottom. Alternatively:"
+msgstr ""
+
 #. (itstool) path: item/p
-#: C/shell-notifications.page:97 C/shell-notifications.page:133
+#: C/shell-notifications.page:101 C/shell-notifications.page:137
 msgid "Click on <gui>Notifications</gui> in the sidebar to open the panel."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-notifications.page:100
-msgid "Switch <gui>Notification Popups</gui> to off."
+#: C/shell-notifications.page:104
+msgid "Switch <gui>Do Not Disturb</gui> to off."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:104
+#: C/shell-notifications.page:108
 msgid ""
 "When switched off, most notifications will not pop up at the top of the "
 "screen. Notifications will still be available in the notification list when "
@@ -19305,31 +19186,31 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:111
+#: C/shell-notifications.page:115
 msgid ""
 "You can also disable or re-enable notifications for individual applications "
 "from the <gui>Notifications</gui> panel."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/shell-notifications.page:118
+#: C/shell-notifications.page:122
 msgid "Hiding lock screen notifications"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/shell-notifications.page:120
+#: C/shell-notifications.page:124
 msgid ""
 "When your screen is locked, notifications appear on the lock screen. You can "
 "configure the lock screen to hide these notifications for privacy reasons."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/shell-notifications.page:124
+#: C/shell-notifications.page:128
 msgid "To switch off notifications when your screen is locked:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/shell-notifications.page:135
+#: C/shell-notifications.page:139
 msgid "Switch <gui>Lock Screen Notifications</gui> to off."
 msgstr ""
 
@@ -20489,7 +20370,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/sound-volume.page:65
 msgid ""
-"Under <gui>Volume Levels</gui>, change the volume of the application listed "
+"Under <gui>Volume Levels</gui>, change the volume of the applications listed "
 "there. The button at the end of the volume slider toggles <gui>Mute</gui> on "
 "and off."
 msgstr ""
@@ -20855,7 +20736,7 @@ msgstr ""
 #: C/tips-specialchars.page:34
 msgid ""
 "Type characters not found on your keyboard, including foreign alphabets, "
-"mathematical symbols, and dingbats."
+"mathematical symbols, emoji, and dingbats."
 msgstr ""
 
 #. (itstool) path: page/title
@@ -20896,11 +20777,38 @@ msgstr ""
 
 #. (itstool) path: section/title
 #: C/tips-specialchars.page:58
+msgid "Emoji"
+msgstr ""
+
+#. (itstool) path: steps/title
+#: C/tips-specialchars.page:60
+msgid "Insert emoji"
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/tips-specialchars.page:62
+msgid "Press <keyseq><key>Ctrl</key><key>;</key></keyseq>."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/tips-specialchars.page:65
+msgid ""
+"Browse the categories at the bottom of the dialog or start typing a "
+"description in the search field."
+msgstr ""
+
+#. (itstool) path: item/p
+#: C/tips-specialchars.page:69
+msgid "Select an emoji to insert."
+msgstr ""
+
+#. (itstool) path: section/title
+#: C/tips-specialchars.page:75
 msgid "Compose key"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/tips-specialchars.page:59
+#: C/tips-specialchars.page:76
 msgid ""
 "A compose key is a special key that allows you to press multiple keys in a "
 "row to get a special character. For example, to type the accented letter "
@@ -20909,69 +20817,69 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/tips-specialchars.page:63
+#: C/tips-specialchars.page:80
 msgid ""
 "Keyboards don’t have specific compose keys. Instead, you can define one of "
 "the existing keys on your keyboard as a compose key."
 msgstr ""
 
 #. (itstool) path: steps/title
-#: C/tips-specialchars.page:67
+#: C/tips-specialchars.page:84
 msgid "Define a compose key"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/tips-specialchars.page:79
+#: C/tips-specialchars.page:96
 msgid ""
 "In the <gui>Type Special Characters</gui> section, click <gui>Compose Key</"
 "gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/tips-specialchars.page:82
+#: C/tips-specialchars.page:99
 msgid "Turn the switch on for the <gui>Compose Key</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/tips-specialchars.page:85
+#: C/tips-specialchars.page:102
 msgid "Tick the checkbox of the key that you want to set as the Compose key."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/tips-specialchars.page:93
+#: C/tips-specialchars.page:110
 msgid "You can type many common characters using the compose key, for example:"
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/tips-specialchars.page:97
+#: C/tips-specialchars.page:114
 msgid ""
 "Press <key>compose</key> then <key>'</key> then a letter to place an acute "
 "accent over that letter, such as <em>é</em>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/tips-specialchars.page:99
+#: C/tips-specialchars.page:116
 msgid ""
 "Press <key>compose</key> then <key>`</key> (back tick) then a letter to "
 "place a grave accent over that letter, such as <em>è</em>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/tips-specialchars.page:102
+#: C/tips-specialchars.page:119
 msgid ""
 "Press <key>compose</key> then <key>\"</key> then a letter to place an umlaut "
 "over that letter, such as <em>ë</em>."
 msgstr ""
 
 #. (itstool) path: item/p
-#: C/tips-specialchars.page:104
+#: C/tips-specialchars.page:121
 msgid ""
 "Press <key>compose</key> then <key>-</key> then a letter to place a macron "
 "over that letter, such as <em>ē</em>."
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/tips-specialchars.page:107
+#: C/tips-specialchars.page:124
 msgid ""
 "For more compose key sequences, see <link href=\"https://en.wikipedia.org/"
 "wiki/Compose_key#Common_compose_combinations\">the compose key page on "
@@ -20979,12 +20887,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/tips-specialchars.page:113
+#: C/tips-specialchars.page:130
 msgid "Code points"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/tips-specialchars.page:115
+#: C/tips-specialchars.page:132
 msgid ""
 "You can enter any Unicode character using only your keyboard with the "
 "numeric code point of the character. Every character is identified by a four-"
@@ -20994,7 +20902,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/tips-specialchars.page:121
+#: C/tips-specialchars.page:138
 msgid ""
 "To enter a character by its code point, press <keyseq><key>Ctrl</"
 "key><key>Shift</key><key>U</key></keyseq>, then type the four-character code "
@@ -21004,12 +20912,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/tips-specialchars.page:131
+#: C/tips-specialchars.page:148
 msgid "Keyboard layouts"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/tips-specialchars.page:132
+#: C/tips-specialchars.page:149
 msgid ""
 "You can make your keyboard behave like the keyboard for another language, "
 "regardless of the letters printed on the keys. You can even easily switch "
@@ -21018,12 +20926,12 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/tips-specialchars.page:139
+#: C/tips-specialchars.page:156
 msgid "Input methods"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/tips-specialchars.page:141
+#: C/tips-specialchars.page:158
 msgid ""
 "An Input Method expands the previous methods by allowing to enter characters "
 "not only with keyboard but also any input devices. For instance you could "
@@ -21032,7 +20940,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/tips-specialchars.page:146
+#: C/tips-specialchars.page:163
 msgid ""
 "To choose an input method, right-click over a text widget, and in the menu "
 "<gui>Input Method</gui>, choose an input method you want to use. There is no "
@@ -21986,19 +21894,17 @@ msgid ""
 "prevents you from copying DVDs, but it also prevents you from playing them "
 "unless you have extra software to handle the copy protection. This software "
 "is available from a number of Linux distributions, but cannot be legally "
-"used in all countries. You can buy a commercial DVD decoder that can handle "
-"copy protection from <link href=\"https://fluendo.com/en/products/multimedia/"
-"oneplay-dvd-player/\">Fluendo</link>. It works with Linux and should be "
-"legal to use in all countries."
+"used in all countries. Please contact your Linux distribution for more "
+"information."
 msgstr ""
 
 #. (itstool) path: section/title
-#: C/video-dvd.page:55
+#: C/video-dvd.page:52
 msgid "Checking the DVD region"
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/video-dvd.page:57
+#: C/video-dvd.page:54
 msgid ""
 "DVDs have a <em>region code</em>, which tells you in which region of the "
 "world they are allowed to be played. If the region of your computer’s DVD "
@@ -22008,7 +21914,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/video-dvd.page:63
+#: C/video-dvd.page:60
 msgid ""
 "It is often possible to change the region used by your DVD player, but it "
 "can only be done a few times before it locks into one region permanently. To "
@@ -22017,7 +21923,7 @@ msgid ""
 msgstr ""
 
 #. (itstool) path: section/p
-#: C/video-dvd.page:68
+#: C/video-dvd.page:65
 msgid ""
 "You can find <link href=\"https://en.wikipedia.org/wiki/DVD_region_code"
 "\">more information about DVD region codes on Wikipedia</link>."
@@ -22105,20 +22011,21 @@ msgstr ""
 
 #. (itstool) path: info/desc
 #: C/wacom-left-handed.page:24
-msgid "Switch the Wacom tablet to <gui>Left-Handed Orientation</gui>."
+msgid ""
+"Switch the Wacom tablet between left-handed and right-handed orientation."
 msgstr ""
 
 #. (itstool) path: page/title
 #: C/wacom-left-handed.page:27
-msgid "Use the tablet left-handed"
+msgid "Use the tablet with your left or your right hand"
 msgstr ""
 
 #. (itstool) path: page/p
 #: C/wacom-left-handed.page:29
 msgid ""
 "Some tablets have hardware buttons on one side. The tablet can be rotated "
-"180 degrees to position these buttons for left-handed people. To switch the "
-"orientation to left-handed:"
+"180 degrees to position these buttons. By default, the orientation is for "
+"right-handed people. To switch the orientation to left-handed:"
 msgstr ""
 
 #. (itstool) path: item/p
@@ -22168,7 +22075,7 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/wacom-mode.page:29
 msgid ""
-"<gui>Tracking Mode</gui> determines how the pointer is mapped to the screen."
+"<gui>Tracking Mode</gui> determines how the stylus is mapped to the screen."
 msgstr ""
 
 #. (itstool) path: item/p
@@ -22189,9 +22096,9 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/wacom-mode.page:52
 msgid ""
-"In <em>relative</em> mode, if you lift the pointer off the tablet and put it "
-"down in a different position, the cursor on the screen doesn’t move. This is "
-"the way a mouse operates."
+"In <em>relative</em> mode, if you lift the stylus off the tablet and put it "
+"down in a different position, the pointer on the screen doesn’t move. This "
+"is the way a mouse operates."
 msgstr ""
 
 #. (itstool) path: info/desc

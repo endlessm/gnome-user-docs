@@ -18,7 +18,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-help.master\n"
-"POT-Creation-Date: 2021-11-15 10:40+0000\n"
+"POT-Creation-Date: 2022-12-07 16:54-0700\n"
 "PO-Revision-Date: 2021-11-16 15:53+0100\n"
 "Last-Translator: Daniel Mustieles García <daniel.mustieles@gmail.com>\n"
 "Language-Team: Spanish - Spain <gnome-es-list@gnome.org>\n"
@@ -9408,13 +9408,32 @@ msgstr ""
 "de GNOME Shell instaladas. Algunas distribuciones de Linux pueden no tener "
 "esas extensiones disponibles o instaladas de manera predeterminada."
 
-#. (itstool) path: steps/title
+#. (itstool) path: note/p
+#. Translators: Ubuntu only string
 #: C/gnome-classic.page:83
+msgid ""
+"You need to have the <sys>gnome-shell-extensions</sys> package installed to "
+"make GNOME Classic available."
+msgstr ""
+
+#. (itstool) path: note/p
+#. Translators: Ubuntu only string
+#: C/gnome-classic.page:85
+#, fuzzy
+msgid ""
+"<link style=\"button\" action=\"install:gnome-shell-extensions\">Install "
+"<sys>gnome-shell-extensions</sys></link>"
+msgstr ""
+"<link style=\"button\" action=\"install:gnome-tweak-tool\">Instalar "
+"<app>Retoques</app></link>"
+
+#. (itstool) path: steps/title
+#: C/gnome-classic.page:90
 msgid "To switch from <em>GNOME</em> to <em>GNOME Classic</em>:"
 msgstr "Para cambiar de <em>GNOME</em> a <em>GNOME clásico</em>:"
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:85
+#: C/gnome-classic.page:92
 msgid ""
 "Save any open work, and then log out. Click the system menu on the right "
 "side of the top bar and then choose the right option."
@@ -9424,7 +9443,7 @@ msgstr ""
 "apropiada."
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:89 C/gnome-classic.page:117
+#: C/gnome-classic.page:96 C/gnome-classic.page:124
 msgid ""
 "A confirmation message will appear. Select <gui>Log Out</gui> to confirm."
 msgstr ""
@@ -9432,14 +9451,14 @@ msgstr ""
 "para confirmar."
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:93 C/gnome-classic.page:121
+#: C/gnome-classic.page:100 C/gnome-classic.page:128
 msgid "At the login screen, select your name from the list."
 msgstr ""
 "En la pantalla de inicio de sesión, seleccione su nombre de usuario de la "
 "lista."
 
 #. (itstool) path: media/span
-#: C/gnome-classic.page:96 C/net-findip.page:65 C/net-findip.page:91
+#: C/gnome-classic.page:103 C/net-findip.page:65 C/net-findip.page:91
 #: C/net-fixed-ip-address.page:58 C/net-fixed-ip-address.page:61
 #: C/net-macaddress.page:62 C/net-manual.page:55 C/net-manual.page:59
 #: C/net-othersconnect.page:57 C/net-othersedit.page:77
@@ -9450,32 +9469,32 @@ msgid "settings"
 msgstr "configuración"
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:96
+#: C/gnome-classic.page:103
 msgid "Click the <_:media-1/> button in the bottom right corner."
 msgstr "Pulse el botón <_:media-1/> en la esquina inferior derecha."
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:100
+#: C/gnome-classic.page:107
 msgid "Select <gui>GNOME Classic</gui> from the list."
 msgstr "Seleccione <gui>GNOME clásico</gui> en la lista."
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:103 C/gnome-classic.page:130
+#: C/gnome-classic.page:110 C/gnome-classic.page:137
 msgid "Enter your password in the password entry box."
 msgstr "Introduzca su contraseña en la caja de entrada de la contraseña."
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:106 C/gnome-classic.page:133
+#: C/gnome-classic.page:113 C/gnome-classic.page:140
 msgid "Press <key>Enter</key>."
 msgstr "Pulse <key>Intro</key>."
 
 #. (itstool) path: steps/title
-#: C/gnome-classic.page:111
+#: C/gnome-classic.page:118
 msgid "To switch from <em>GNOME Classic</em> to <em>GNOME</em>:"
 msgstr "Para cambiar de <em>GNOME clásico</em> a <em>GNOME</em>:"
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:113
+#: C/gnome-classic.page:120
 msgid ""
 "Save any open work, and then log out. Click the system menu on the right "
 "side of the top bar, click your name and then choose the right option."
@@ -9485,12 +9504,12 @@ msgstr ""
 "nombre y seleccione la opción apropiada."
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:124
+#: C/gnome-classic.page:131
 msgid "Click the options icon in the bottom right corner."
 msgstr "Pulse el icono de opciones en la esquina inferior derecha."
 
 #. (itstool) path: item/p
-#: C/gnome-classic.page:127
+#: C/gnome-classic.page:134
 msgid "Select <gui>GNOME</gui> from the list."
 msgstr "Seleccione <gui>GNOME</gui> en la lista."
 
@@ -11879,9 +11898,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/look-background.page:68
 #, fuzzy
-#| msgid ""
-#| "Click <gui>Background</gui> to open the panel. The current selections for "
-#| "Background and Lock Screen are shown at the top."
 msgid ""
 "Click <gui>Background</gui> to open the panel. The currently selected "
 "wallpaper is shown at the top."
@@ -11911,10 +11927,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/look-background.page:83
 #, fuzzy
-#| msgid ""
-#| "Click <gui>Add Picture...</gui> to use one of your own photos from your "
-#| "<file>Pictures</file> folder. Most photo management applications store "
-#| "photos there."
 msgid ""
 "Click <gui>Add Picture…</gui> to use one of your own photos. By default, the "
 "<file>Pictures</file> folder will be opened, since most photo management "
@@ -11932,12 +11944,6 @@ msgstr "La configuración se aplicará inmediatamente."
 #. (itstool) path: note/p
 #: C/look-background.page:92
 #, fuzzy
-#| msgid ""
-#| "If you would like to use an image that is not in your <file>Pictures</"
-#| "file> folder, right-click on the image file in <app>Files</app> and "
-#| "select <gui>Set as Wallpaper</gui>, or open the image file in <app>Image "
-#| "Viewer</app>, click the menu button in the titlebar and select <gui>Set "
-#| "as Wallpaper</gui>. This will affect only the desktop background."
 msgid ""
 "For another way to set one of your own photos as the background, right-click "
 "on the image file in <app>Files</app> and select <gui>Set as Wallpaper</"
@@ -12846,9 +12852,6 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/mouse-touchpad-click.page:47
 #, fuzzy
-#| msgid ""
-#| "<link xref=\"touchscreen-gestures\">Touchscreen gestures</link> are "
-#| "covered separately."
 msgid ""
 "<link xref=\"touchscreen-gestures\">Touchpad gestures</link> are covered "
 "separately."
@@ -13181,9 +13184,6 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/music-cantplay-drm.page:25
 #, fuzzy
-#| msgid ""
-#| "You can learn more about DRM from the <link href=\"http://www.eff.org/"
-#| "issues/drm\">Electronic Frontier Foundation</link>."
 msgid ""
 "You can learn more about DRM from the <link href=\"https://www.eff.org/"
 "issues/drm\">Electronic Frontier Foundation</link>."
@@ -13331,11 +13331,6 @@ msgstr "Preferencias de comportamiento del gestor de archivos"
 #. (itstool) path: page/p
 #: C/nautilus-behavior.page:39
 #, fuzzy
-#| msgid ""
-#| "You can control whether you single-click or double-click files, how "
-#| "executable text files are handled, and the trash behavior. Click the menu "
-#| "button in the top-right corner of the window and select <gui>Preferences</"
-#| "gui>, and select the <gui>Behavior</gui> tab."
 msgid ""
 "You can control whether you single-click or double-click files, how "
 "executable text files are handled, and the trash behavior. Click the menu "
@@ -13355,7 +13350,6 @@ msgstr "Comportamiento"
 #. (itstool) path: item/title
 #: C/nautilus-behavior.page:48
 #, fuzzy
-#| msgid "<gui>Single click to open items</gui>"
 msgid "<gui>Action to Open Items</gui>"
 msgstr "<gui>Una sola pulsación para abrir elementos</gui>"
 
@@ -13920,10 +13914,6 @@ msgstr "Preferencias de la vista del gestor de archivos"
 #. (itstool) path: page/p
 #: C/nautilus-display.page:34
 #, fuzzy
-#| msgid ""
-#| "You can control how the file manager displays captions under icons. Click "
-#| "the menu button in the top-right corner of the window and select "
-#| "<gui>Preferences</gui>, then select the <gui>Views</gui> tab."
 msgid ""
 "You can control how the file manager displays captions under icons. Click "
 "the menu button in the top-right corner of the window, select "
@@ -14005,12 +13995,6 @@ msgstr "Vista de lista"
 #. (itstool) path: section/p
 #: C/nautilus-display.page:64
 #, fuzzy
-#| msgid ""
-#| "When viewing files as a list, you can <gui>Allow folders to be expanded</"
-#| "gui>. This shows expanders on each directory in the file list, so that "
-#| "the contents of several folders can be shown at once. This is useful if "
-#| "the folder structure is relevant, such as if your music files are "
-#| "organized with a folder per artist, and a subfolder per album."
 msgid ""
 "When viewing files as a list, you can display <gui>Expandable Folders in "
 "List View</gui>. This shows expanders on each directory in the file list, so "
@@ -14311,12 +14295,6 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/nautilus-file-properties-permissions.page:61
 #, fuzzy
-#| msgid ""
-#| "If the file is a program, such as a script, you must select <gui>Allow "
-#| "executing file as program</gui> to run it. Even with this option "
-#| "selected, the file manager may still open the file in an application or "
-#| "ask you what to do. See <link xref=\"nautilus-behavior#executable\"/> for "
-#| "more information."
 msgid ""
 "If the file is a program, such as a script, you must select <gui>Allow "
 "executing file as program</gui> to run it. Even with this option selected, "
@@ -14441,11 +14419,6 @@ msgstr "Preferencias de las columnas en la lista de archivos"
 #. (itstool) path: page/p
 #: C/nautilus-list.page:43
 #, fuzzy
-#| msgid ""
-#| "There are eleven columns of information that you can display in the "
-#| "<gui>Files</gui> list view. Click the menu button in the top-right corner "
-#| "of the window, select <gui>Preferences</gui> and choose the <gui>List "
-#| "Columns</gui> tab to select which columns will be visible."
 msgid ""
 "There are several columns of information that you can display in the "
 "<gui>Files</gui> list view. Right-click a column header and select or "
@@ -14662,12 +14635,6 @@ msgstr "Preferencias de la vista previa del gestor de archivos"
 #. (itstool) path: page/p
 #: C/nautilus-preview.page:33
 #, fuzzy
-#| msgid ""
-#| "The file manager creates thumbnails to preview image, video, and text "
-#| "files. Thumbnail previews can be slow for large files or over networks, "
-#| "so you can control when previews are made. Click the menu button in the "
-#| "top-right of the window, select <gui>Preferences</gui>, then select the "
-#| "<gui>Search &amp; Preview</gui> tab."
 msgid ""
 "The file manager creates thumbnails to preview image, video, and text files. "
 "Thumbnail previews can be slow for large files or over networks, so you can "
@@ -14685,21 +14652,12 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/nautilus-preview.page:41
 #, fuzzy
-#| msgid "<gui>Files</gui>"
 msgid "<gui>Show Thumbnails</gui>"
 msgstr "<gui>Archivos</gui>"
 
 #. (itstool) path: item/p
 #: C/nautilus-preview.page:42
 #, fuzzy
-#| msgid ""
-#| "By default, all previews are done for <gui>Files on this computer only</"
-#| "gui>, those on your computer or connected external drives. You can set "
-#| "this feature to <gui>All Files</gui> or <gui>Never</gui>. The file "
-#| "manager can <link xref=\"nautilus-connect\">browse files on other "
-#| "computers</link> over a local area network or the internet. If you often "
-#| "browse files over a local area network, and the network has high "
-#| "bandwidth, you may want to set the preview option to <gui>All Files</gui>."
 msgid ""
 "By default, all previews are done for <gui>On this computer only</gui>, "
 "those on your computer or connected external drives. You can set this "
@@ -14927,9 +14885,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-default-browser.page:41
 #, fuzzy
-#| msgid ""
-#| "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
-#| "overview and start typing <gui>Details</gui>."
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <input>Default Applications</input>."
@@ -14967,9 +14922,6 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/net-default-email.page:29
 #, fuzzy
-#| msgid ""
-#| "Change the default email client by going to <gui>Details</gui> in "
-#| "<gui>Settings</gui>."
 msgid ""
 "Change the default email client by going to <gui>Default Applications</gui> "
 "in <gui>Settings</gui>."
@@ -15002,9 +14954,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-default-email.page:42
 #, fuzzy
-#| msgid ""
-#| "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
-#| "overview and start typing <gui>Details</gui>."
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Default Applications</gui>."
@@ -15015,7 +14964,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-default-email.page:46
 #, fuzzy
-#| msgid "Click the <gui>Startup Applications</gui> tab."
 msgid "Click <gui>Default Applications</gui>."
 msgstr "Pulse la pestaña <gui>Aplicaciones al inicio</gui>."
 
@@ -15138,7 +15086,6 @@ msgstr ""
 #. (itstool) path: steps/title
 #: C/net-findip.page:49
 #, fuzzy
-#| msgid "Find your wired connection's internal (network) IP address"
 msgid "Find your wired connection’s internal (network) IP address"
 msgstr "Buscar su dirección IP interna  de la conexión (de red) cableada"
 
@@ -15176,7 +15123,6 @@ msgstr ""
 #. (itstool) path: steps/title
 #: C/net-findip.page:78
 #, fuzzy
-#| msgid "Find your wireless connection's internal (network) IP address"
 msgid "Find your wireless connection’s internal (network) IP address"
 msgstr "Buscar su dirección IP interna  de la conexión (de red) inalámbrica"
 
@@ -15239,10 +15185,6 @@ msgstr "Activar y bloquear el acceso al cortafuegos"
 #. (itstool) path: page/p
 #: C/net-firewall-on-off.page:35
 #, fuzzy
-#| msgid ""
-#| "Your system should be equipped with a <em>firewall</em> that allows it to "
-#| "block programs from being accessed by other people on the internet or "
-#| "your network. This helps to keep your computer secure."
 msgid ""
 "GNOME does not come with a firewall, so for support beyond this document "
 "check with your distribution’s support team or your organization’s IT "
@@ -15281,10 +15223,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-firewall-on-off.page:53
 #, fuzzy
-#| msgid ""
-#| "Go to <gui>Activities</gui> in the top left corner of the screen and "
-#| "start your firewall application. You may need to install a firewall "
-#| "manager yourself if you can’t find one (for example, Firestarter or GUFW)."
 msgid ""
 "Go to <gui>Activities</gui> in the top left corner of the screen and start "
 "your firewall application. You may need to install a firewall manager "
@@ -15787,9 +15725,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-mobile.page:53
 #, fuzzy
-#| msgid ""
-#| "Select <gui><_:media-1/> Mobile Broadband Off</gui>. The <gui>Mobile "
-#| "Broadband</gui> section of the menu will expand."
 msgid ""
 "Select <gui>Mobile Broadband Off</gui>. The <gui>Mobile Broadband</gui> "
 "section of the menu will expand."
@@ -16601,13 +16536,6 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/net-wired-connect.page:45
 #, fuzzy
-#| msgid ""
-#| "If this does not happen, you should first of all make sure that your "
-#| "network cable is plugged in. One end of the cable should be plugged into "
-#| "the rectangular Ethernet (network) port on your computer, and the other "
-#| "end should be plugged into a switch, router, network wall socket or "
-#| "similar (depending on the network setup you have). Sometimes, a light "
-#| "beside the Ethernet port will indicate that it is plugged in and active."
 msgid ""
 "If this does not happen, you should first of all make sure that your network "
 "cable is plugged in. One end of the cable should be plugged into the "
@@ -16650,7 +16578,6 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/net-wired.page:11
 #, fuzzy
-#| msgid "Create a connection with a fixed IP address"
 msgid "Use a wired internet connection and set a static IP address."
 msgstr "Crear una conexión con una dirección IP fija"
 
@@ -16689,10 +16616,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-wireless-adhoc.page:56
 #, fuzzy
-#| msgid ""
-#| "Select <gui><_:media-1/> Wi-Fi Not Connected</gui> or the name of the "
-#| "wireless network to which you are already connected. The Wi-Fi section of "
-#| "the menu will expand."
 msgid ""
 "Select <gui>Wi-Fi Not Connected</gui> or the name of the wireless network to "
 "which you are already connected. The Wi-Fi section of the menu will expand."
@@ -16840,9 +16763,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:42 C/net-wireless-hidden.page:44
 #, fuzzy
-#| msgid ""
-#| "Select <gui><_:media-1/> Wi-Fi Not Connected</gui>. The Wi-Fi section of "
-#| "the menu will expand."
 msgid ""
 "Select <gui>Wi-Fi Not Connected</gui>. The Wi-Fi section of the menu will "
 "expand."
@@ -16865,11 +16785,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:51
 #, fuzzy
-#| msgid ""
-#| "If the name of the network is not in the list, try clicking <gui>More</"
-#| "gui> to see if the network is further down the list. If you still do not "
-#| "see the network, you may be out of range, or the network <link xref=\"net-"
-#| "wireless-hidden\">might be hidden</link>."
 msgid ""
 "If the name of the network is not shown, scroll down the list. If you still "
 "do not see the network, you may be out of range, or the network <link xref="
@@ -17511,18 +17426,6 @@ msgstr "Usar los controladores de Windows para su adaptador."
 #. (itstool) path: item/p
 #: C/net-wireless-troubleshooting-device-drivers.page:72
 #, fuzzy
-#| msgid ""
-#| "In general, you cannot use a device driver designed for one operating "
-#| "system (like Windows) on another operating system (like Linux). This is "
-#| "because they have different ways of handling devices. For wireless "
-#| "adapters, however, you can install a compatibility layer called "
-#| "<em>NDISwrapper</em> which lets you use some Windows wireless drivers on "
-#| "Linux. This is useful because wireless adapters almost always have "
-#| "Windows drivers available for them, whereas Linux drivers are sometimes "
-#| "not available. You can learn more about how to use NDISwrapper <link href="
-#| "\"http://sourceforge.net/apps/mediawiki/ndiswrapper/index.php?"
-#| "title=Main_Page\">here</link>. Note that not all wireless drivers can be "
-#| "used through NDISwrapper."
 msgid ""
 "In general, you cannot use a device driver designed for one operating system "
 "(like Windows) on another operating system (like Linux). This is because "
@@ -18356,9 +18259,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/power-autobrightness.page:41
 #, fuzzy
-#| msgid ""
-#| "In the <gui>Power Saving</gui> section, ensure that the <gui>Automatic "
-#| "brightness</gui> switch is set to on."
 msgid ""
 "In the <gui>Power Saving Options</gui> section, ensure that the "
 "<gui>Automatic Screen Brightness</gui> switch is set to on."
@@ -18394,9 +18294,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/power-autosuspend.page:40
 #, fuzzy
-#| msgid ""
-#| "In the <gui>Suspend &amp; Power Button</gui> section, click "
-#| "<gui>Automatic suspend</gui>."
 msgid ""
 "In the <gui>Power Saving Options</gui> section, click <gui>Automatic "
 "Suspend</gui>."
@@ -18566,14 +18463,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/power-batterylife.page:63
 #, fuzzy
-#| msgid ""
-#| "Use the <gui>Power</gui> panel in <app>Settings</app> to change your "
-#| "power settings. There are a number of options that will help to save "
-#| "power: you can <link xref=\"display-blank\">automatically blank the "
-#| "screen</link> after a certain time, reduce the <link xref=\"display-"
-#| "brightness\">screen brightness</link>, and have the computer <link xref="
-#| "\"power-autosuspend\">automatically suspend</link> if you have not used "
-#| "it for a certain period of time."
 msgid ""
 "Use the <gui>Power</gui> panel in <app>Settings</app> to change your power "
 "settings. There are a number of options that will help to save power: you "
@@ -18594,10 +18483,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/power-batterylife.page:72
 #, fuzzy
-#| msgid ""
-#| "Reduce the <link xref=\"display-brightness\">screen brightness</link>. "
-#| "Powering the screen accounts for a significant fraction of a laptop power "
-#| "consumption."
 msgid "Reduce the <link xref=\"display-brightness\">screen brightness</link>."
 msgstr ""
 "Reducir el <link xref=\"display-brightness\">brillo de la pantalla</link>; "
@@ -18641,10 +18526,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/power-batterylife.page:94
 #, fuzzy
-#| msgid ""
-#| "If you do not need an Internet connection for a little while, turn off "
-#| "the wireless or Bluetooth cards. These devices work by broadcasting radio "
-#| "waves, which takes quite a bit of power."
 msgid ""
 "If you do not need an Internet connection for a little while, <link xref="
 "\"power-wireless\">turn off the wireless or Bluetooth cards</link>. These "
@@ -19121,14 +19002,6 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/power-hotcomputer.page:49
 #, fuzzy
-#| msgid ""
-#| "Some people are concerned about the health risks of using hot laptops. "
-#| "There are suggestions that prolonged use of a hot laptop on your lap "
-#| "might possibly reduce (male) fertility, and there are reports of minor "
-#| "burns being suffered too (in extreme cases). If you are concerned about "
-#| "these potential problems, you may wish to consult a medical practitioner "
-#| "for advice. Of course, you can simply choose not to rest the laptop on "
-#| "your lap."
 msgid ""
 "Some people are concerned about the health risks of using hot laptops. There "
 "are suggestions that prolonged use of a hot laptop on your lap might "
@@ -19362,9 +19235,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/power-percentage.page:44
 #, fuzzy
-#| msgid ""
-#| "In the <gui>Suspend &amp; Power Button</gui> section, click "
-#| "<gui>Automatic suspend</gui>."
 msgid ""
 "In the <gui>Suspend &amp; Power Button</gui> section, set <gui>Show Battery "
 "Percentage</gui> to on."
@@ -19422,7 +19292,6 @@ msgstr "Para elegir un perfil de energía:"
 #. (itstool) path: item/p
 #: C/power-profile.page:57
 #, fuzzy
-#| msgid "In the <gui>Disc Name</gui> field, type a name for the disc."
 msgid "In the <gui>Power Mode</gui> section, choose one of the profiles."
 msgstr ""
 "En el campo <gui>Nombre del disco</gui> teclee un nombre para el disco."
@@ -19445,9 +19314,6 @@ msgstr "Mostrar el estado de la batería y de los dispositivos conectados"
 #. (itstool) path: item/p
 #: C/power-status.page:36
 #, fuzzy
-#| msgid ""
-#| "Click <gui>Power</gui> to open the panel. The status of known devices is "
-#| "displayed."
 msgid ""
 "Click <gui>Power</gui> to open the panel. The status of <gui>Batteries</gui> "
 "and known <gui>Devices</gui> is displayed."
@@ -19689,9 +19555,6 @@ msgstr "Puede evitar que la pantalla se oscurezca:"
 #. (itstool) path: item/p
 #: C/power-whydim.page:59
 #, fuzzy
-#| msgid ""
-#| "Switch the <gui>Dim Screen When Inactive</gui> switch to off in the "
-#| "<gui>Power Saving</gui> section."
 msgid ""
 "Switch the <gui>Dim Screen</gui> switch to off in the <gui>Power Saving "
 "Options</gui> section."
@@ -19832,9 +19695,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/power-wireless.page:34
 #, fuzzy
-#| msgid ""
-#| "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
-#| "overview and start typing <gui>Bluetooth</gui>."
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Wi-Fi</gui> or <gui>Bluetooth</gui>, "
@@ -19846,7 +19706,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/power-wireless.page:38
 #, fuzzy
-#| msgid "Click on <gui>Wi-Fi</gui> to open the panel."
 msgid ""
 "Click <gui>Wi-Fi</gui> to open the panel, or <gui>Bluetooth</gui>, "
 "respectively."
@@ -19855,10 +19714,6 @@ msgstr "Pulse en <gui>Inalámbrica</gui> para abrir el panel."
 #. (itstool) path: item/p
 #: C/power-wireless.page:41
 #, fuzzy
-#| msgid ""
-#| "The <gui>Power Saving</gui> section contains switches for <gui>Wi-Fi</"
-#| "gui>, <gui>Mobile broadband</gui>, and <gui>Bluetooth</gui>. Switch the "
-#| "unused services to off. Re-enable when needed by switching to on."
 msgid ""
 "In the header bar, switch the unused services to off. Re-enable when needed "
 "by switching to on."
@@ -20722,9 +20577,6 @@ msgstr "Si quiere cambiar el nombre de una impresora, siga estos pasos:"
 #: C/printing-name-location.page:56 C/printing-name-location.page:91
 #: C/printing-setup-default-printer.page:58 C/printing-setup.page:83
 #, fuzzy
-#| msgid ""
-#| "Press <gui style=\"button\">Unlock</gui> in the top right corner and type "
-#| "in your password when prompted."
 msgid ""
 "Depending on your system, you may have to press <gui style=\"button"
 "\">Unlock</gui> in the top right corner and type in your password when "
@@ -20742,7 +20594,6 @@ msgstr "Pulse el botón <_:media-1/> que está junto a la impresora."
 #. (itstool) path: item/p
 #: C/printing-name-location.page:65 C/printing-name-location.page:100
 #, fuzzy
-#| msgid "Press <gui style=\"button\">Linked Accounts</gui>."
 msgid "Select <gui style=\"menuitem\">Printer Details</gui>."
 msgstr "Pulse en <gui style=\"button\">Cuentas enlazadas</gui>."
 
@@ -20996,7 +20847,6 @@ msgstr "Pulse <gui>Impresoras</gui>."
 #. (itstool) path: item/p
 #: C/printing-setup-default-printer.page:67
 #, fuzzy
-#| msgid "Select the <gui>Default printer</gui> checkbox."
 msgid ""
 "Select the <gui style=\"menuitem\">Use Printer by Default</gui> checkbox."
 msgstr "Seleccione la casilla <gui>Impresora predeterminada</gui>."
@@ -21393,23 +21243,18 @@ msgstr ""
 #: C/privacy-history-recent-off.page:46 C/privacy-history-recent-off.page:69
 #: C/privacy-purge.page:56
 #, fuzzy
-#| msgid "Click on <gui>Region &amp; Language</gui> to open the panel."
 msgid "Click on <gui>File History &amp; Trash</gui> to open the panel."
 msgstr "Pulse en <gui>Región e idioma</gui> para abrir el panel."
 
 #. (itstool) path: item/p
 #: C/privacy-history-recent-off.page:49
 #, fuzzy
-#| msgid "Switch the <gui>Repeat Keys</gui> switch to off."
 msgid "Switch the <gui>File History</gui> switch to off."
 msgstr "Desactive la <gui>Repetición de teclas</gui>."
 
 #. (itstool) path: item/p
 #: C/privacy-history-recent-off.page:50
 #, fuzzy
-#| msgid ""
-#| "To re-enable this feature, switch the <gui>Recently Used</gui> switch to "
-#| "on."
 msgid ""
 "To re-enable this feature, switch the <gui>File History</gui> switch to on."
 msgstr ""
@@ -21419,9 +21264,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/privacy-history-recent-off.page:54 C/privacy-history-recent-off.page:80
 #, fuzzy
-#| msgid ""
-#| "Use the <gui>Clear Recent History</gui> button to purge the history "
-#| "immediately."
 msgid ""
 "Use the <gui>Clear History…</gui> button to purge the history immediately."
 msgstr ""
@@ -21446,9 +21288,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/privacy-history-recent-off.page:65 C/privacy-purge.page:52
 #, fuzzy
-#| msgid ""
-#| "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
-#| "overview and start typing <gui>Region &amp; Language</gui>."
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>File History &amp; Trash</gui>."
@@ -21459,17 +21298,12 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/privacy-history-recent-off.page:72
 #, fuzzy
-#| msgid "Ensure the <gui>Recently Used</gui> switch is set to on."
 msgid "Ensure the <gui>File History</gui> switch is set to on."
 msgstr "Asegúrese de que <gui>Usados recientemente</gui> está activado."
 
 #. (itstool) path: item/p
 #: C/privacy-history-recent-off.page:75
 #, fuzzy
-#| msgid ""
-#| "Select the length of time to <gui>Retain History</gui>. Choose from "
-#| "options <gui>1 day</gui>, <gui>7 days</gui>, <gui>30 days</gui>, or "
-#| "<gui>Forever</gui>."
 msgid ""
 "Under <gui>File History Duration</gui>, select how long to retain your file "
 "history. Choose from options <gui>1 day</gui>, <gui>7 days</gui>, <gui>30 "
@@ -21512,9 +21346,6 @@ msgstr "Desactivar las características de geolocalización de su escritorio"
 #. (itstool) path: item/p
 #: C/privacy-location.page:35
 #, fuzzy
-#| msgid ""
-#| "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
-#| "overview and start typing <gui>Printers</gui>."
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Location Services</gui>."
@@ -21525,7 +21356,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/privacy-location.page:39
 #, fuzzy
-#| msgid "Click on <gui>Users</gui> to open the panel."
 msgid "Click on <gui>Location Services</gui> to open the panel."
 msgstr "Pulse en <gui>Usuarios</gui> para abrir el panel."
 
@@ -21588,9 +21418,6 @@ msgstr "Vaciar automáticamente la papelera y limpiar los archivos temporales"
 #. (itstool) path: item/p
 #: C/privacy-purge.page:59
 #, fuzzy
-#| msgid ""
-#| "Switch one or both of the <gui>Automatically empty Trash</gui> or "
-#| "<gui>Automatically purge Temporary Files</gui> switches to on."
 msgid ""
 "Switch on one or both of <gui>Automatically Delete Trash Content</gui> or "
 "<gui>Automatically Delete Temporary Files</gui>."
@@ -21601,9 +21428,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/privacy-purge.page:63
 #, fuzzy
-#| msgid ""
-#| "Set how often you would like your <em>Trash</em> and <em>Temporary Files</"
-#| "em> to be purged by changing the <gui>Purge After</gui> value."
 msgid ""
 "Set how often you would like your <em>Trash</em> and <em>Temporary Files</"
 "em> to be purged by changing the <gui>Automatically Delete Period</gui> "
@@ -21616,9 +21440,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/privacy-purge.page:68
 #, fuzzy
-#| msgid ""
-#| "Use the <gui>Empty Trash</gui> or <gui>Purge Temporary Files</gui> "
-#| "buttons to perform these actions immediately."
 msgid ""
 "Use the <gui>Empty Trash…</gui> or <gui>Delete Temporary Files…</gui> "
 "buttons to perform these actions immediately."
@@ -21688,9 +21509,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/privacy-screen-lock.page:56 C/session-screenlocks.page:48
 #, fuzzy
-#| msgid ""
-#| "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
-#| "overview and start typing <gui>Search</gui>."
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Screen Lock</gui>."
@@ -21706,9 +21524,6 @@ msgstr "Pulse en <gui>Bloq Pant</gui> para abrir el panel."
 #. (itstool) path: item/p
 #: C/privacy-screen-lock.page:63
 #, fuzzy
-#| msgid ""
-#| "Make sure <gui>Automatic Screen Lock</gui> is switched on, then select a "
-#| "length of time from the drop-down list."
 msgid ""
 "Make sure <gui>Automatic Screen Lock</gui> is switched on, then select a "
 "length of time from the <gui>Automatic Screen Lock Delay</gui> drop-down "
@@ -21720,12 +21535,6 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/privacy-screen-lock.page:69
 #, fuzzy
-#| msgid ""
-#| "Applications can present notifications to you that are still displayed on "
-#| "your lock screen. This is convenient, for example, to see if you have any "
-#| "email without unlocking your screen. If you’re concerned about other "
-#| "people seeing these notifications, switch <gui>Show Notifications</gui> "
-#| "off."
 msgid ""
 "Applications can present notifications to you that are still displayed on "
 "your lock screen. This is convenient, for example, to see if you have any "
@@ -21798,11 +21607,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:55
 #, fuzzy
-#| msgid ""
-#| "In the <app>Screenshot</app> window, select whether to grab the whole "
-#| "screen, the current window, or an area of the screen. Set a delay if you "
-#| "need to select a window or otherwise set up your desktop for the "
-#| "screenshot. Then choose any effects you want."
 msgid ""
 "In the <app>Screenshot</app> window, select whether to grab the whole "
 "screen, the current window, or an area of the screen. Set a delay if you "
@@ -21821,9 +21625,6 @@ msgstr "Pulse <gui>Capturar pantalla</gui>."
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:62
 #, fuzzy
-#| msgid ""
-#| "If you selected <gui>Select area to grab</gui>, the pointer changes into "
-#| "a crosshair. Click and drag the area you want for the screenshot."
 msgid ""
 "If you selected <gui>Selection</gui>, the pointer changes into a crosshair. "
 "Click and drag the area you want for the screenshot."
@@ -21876,9 +21677,6 @@ msgstr "<key>Imp Pant</key> para hacer una captura de pantalla del escritorio."
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:87
 #, fuzzy
-#| msgid ""
-#| "<keyseq><key>Alt</key><key>Prt Scrn</key></keyseq> to take a screenshot "
-#| "of a window."
 msgid ""
 "<keyseq><key>Alt</key><key>Print Screen</key></keyseq> to take a screenshot "
 "of a window."
@@ -21889,9 +21687,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:91
 #, fuzzy
-#| msgid ""
-#| "<keyseq><key>Shift</key><key>Prt Scrn</key></keyseq> to take a screenshot "
-#| "of an area you select."
 msgid ""
 "<keyseq><key>Shift</key><key>Print Screen</key></keyseq> to take a "
 "screenshot of an area you select."
@@ -22201,10 +21996,6 @@ msgstr "Pulse <gui style=\"button\">Hecho</gui> para guardar."
 #. (itstool) path: item/p
 #: C/session-formats.page:54 C/session-language.page:70
 #, fuzzy
-#| msgid ""
-#| "Respond to the prompt, <gui>Your session needs to be restarted for "
-#| "changes to take effect</gui> by clicking <gui style=\"button\">Restart "
-#| "Now</gui>, or click <gui style=\"button\">×</gui> to restart later."
 msgid ""
 "Your session needs to be restarted for changes to take effect. Either click "
 "<gui style=\"button\">Restart…</gui>, or manually log back in later."
@@ -22305,9 +22096,6 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/session-screenlocks.page:32
 #, fuzzy
-#| msgid ""
-#| "Change how long to wait before locking the screen in the <gui>Privacy</"
-#| "gui> settings."
 msgid ""
 "Change how long to wait before locking the screen in the <gui>Screen Lock</"
 "gui> settings."
@@ -22345,9 +22133,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/session-screenlocks.page:56
 #, fuzzy
-#| msgid ""
-#| "If <gui>Automatic Screen Lock</gui> is on, you can change the value in "
-#| "the <gui>Lock screen after blank for</gui> drop-down list."
 msgid ""
 "If <gui>Automatic Screen Lock</gui> is on, you can change the value in the "
 "<gui>Automatic Screen Lock Delay</gui> drop-down list."
@@ -22450,9 +22235,6 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:50
 #, fuzzy
-#| msgid ""
-#| "You must have the <app>Vino</app> package installed for <gui>Screen "
-#| "Sharing</gui> to be visible."
 msgid ""
 "You must have the <app>GNOME Remote Desktop</app> package installed for "
 "<gui>Screen Sharing</gui> to be visible."
@@ -22463,9 +22245,6 @@ msgstr ""
 #. (itstool) path: when/p
 #: C/sharing-desktop.page:55
 #, fuzzy
-#| msgid ""
-#| "<link action=\"install:gnome-user-share\" style=\"button\">Install gnome-"
-#| "user-share</link>"
 msgid ""
 "<link action=\"install:gnome-remote-desktop\" style=\"button\">Install GNOME "
 "Remote Desktop</link>"
@@ -23086,10 +22865,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:63
 #, fuzzy
-#| msgid ""
-#| "Some applications have icons in the <em>dash</em>, the vertical strip of "
-#| "icons on the left-hand side of the <gui>Activities</gui> overview. Click "
-#| "one of these to start the corresponding application."
 msgid ""
 "Some applications have icons in the <em>dash</em>, the horizontal strip of "
 "icons at the bottom of the <gui>Activities</gui> overview. Click one of "
@@ -23111,12 +22886,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:71
 #, fuzzy
-#| msgid ""
-#| "Click the grid button at the bottom of the dash. You will see the "
-#| "frequently used applications if the <gui style=\"button\">Frequent</gui> "
-#| "view is enabled. If you want to run a new application, press the <gui "
-#| "style=\"button\">All</gui> button at the bottom to view all the "
-#| "applications. Press on the application to start it."
 msgid ""
 "Click the grid button (which has nine dots) in the dash. You will see the "
 "first page of all installed applications. To see more applications, press "
@@ -23132,11 +22901,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:77
 #, fuzzy
-#| msgid ""
-#| "You can launch an application in a separate <link xref=\"shell-workspaces"
-#| "\">workspace</link> by dragging its icon from the dash, and dropping it "
-#| "onto one of the workspaces on the right-hand side of the screen. The "
-#| "application will open in the chosen workspace."
 msgid ""
 "You can launch an application in a separate <link xref=\"shell-workspaces"
 "\">workspace</link> by dragging its icon from the dash, and dropping it onto "
@@ -23150,10 +22914,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:81
 #, fuzzy
-#| msgid ""
-#| "You can launch an application in a <em>new</em> workspace by dragging its "
-#| "icon to the empty workspace at the bottom of the workspace switcher, or "
-#| "to the small gap between two workspaces."
 msgid ""
 "You can launch an application in a <em>new</em> workspace by dragging its "
 "icon to an empty workspace, or to the small gap between two workspaces."
@@ -23251,10 +23011,6 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/shell-exit.page:70
 #, fuzzy
-#| msgid ""
-#| "To <gui>Log Out</gui> or <gui>Switch User</gui>, click the <link xref="
-#| "\"shell-introduction#systemmenu\">system menu</link> on the right side of "
-#| "the top bar, click your name and then choose the correct option."
 msgid ""
 "To <gui>Log Out</gui> or <gui>Switch User</gui>, click the <link xref="
 "\"shell-introduction#systemmenu\">system menu</link> on the right side of "
@@ -23365,12 +23121,6 @@ msgstr "Apagar o reiniciar"
 #. (itstool) path: section/p
 #: C/shell-exit.page:136
 #, fuzzy
-#| msgid ""
-#| "If you want to power off your computer entirely, or do a full restart, "
-#| "click the system menu on the right side of the top bar, expand <gui>Power "
-#| "Off / Log Out</gui>, and select <gui>Power Off…</gui>. A dialog will open "
-#| "offering you the options to either <gui>Restart</gui> or <gui>Power Off</"
-#| "gui>."
 msgid ""
 "If you want to power off your computer entirely, or do a full restart, click "
 "the system menu on the right side of the top bar, expand <gui>Power Off / "
@@ -23421,10 +23171,6 @@ msgstr "Resumen visual de GNOME"
 #. (itstool) path: page/p
 #: C/shell-introduction.page:44
 #, fuzzy
-#| msgid ""
-#| "GNOME 3 features a completely reimagined user interface designed to stay "
-#| "out of your way, minimize distractions, and help you get things done. "
-#| "When you first log in, you will see an empty desktop and the top bar."
 msgid ""
 "GNOME features a user interface designed to stay out of your way, minimize "
 "distractions, and help you get things done. When you first log in, you will "
@@ -23493,13 +23239,6 @@ msgstr "Vista de <gui>Actividades</gui>"
 #. (itstool) path: section/p
 #: C/shell-introduction.page:75
 #, fuzzy
-#| msgid ""
-#| "To access your windows and applications, click the <gui>Activities</gui> "
-#| "button, or just move your mouse pointer to the top-left hot corner. You "
-#| "can also press the <key xref=\"keyboard-key-super\">Super</key> key on "
-#| "your keyboard. You can see your windows and applications in the overview. "
-#| "You can also just start typing to search your applications, files, "
-#| "folders, and the web."
 msgid ""
 "When you start GNOME, you automatically enter the <gui>Activities</gui> "
 "overview. The overview allows you to access your windows and applications. "
@@ -23516,13 +23255,6 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/shell-introduction.page:80
 #, fuzzy
-#| msgid ""
-#| "To access your windows and applications, click the <gui>Activities</gui> "
-#| "button, or just move your mouse pointer to the top-left hot corner. You "
-#| "can also press the <key xref=\"keyboard-key-super\">Super</key> key on "
-#| "your keyboard. You can see your windows and applications in the overview. "
-#| "You can also just start typing to search your applications, files, "
-#| "folders, and the web."
 msgid ""
 "To access the overview at any time, click the <gui>Activities</gui> button, "
 "or just move your mouse pointer to the top-left hot corner. You can also "
@@ -23551,13 +23283,6 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/shell-introduction.page:93
 #, fuzzy
-#| msgid ""
-#| "On the left of the overview, you will find the <em>dash</em>. The dash "
-#| "shows you your favorite and running applications. Click any icon in the "
-#| "dash to open that application; if the application is already running, it "
-#| "will have a small dot below its icon. Clicking its icon will bring up the "
-#| "most recently used window. You can also drag the icon to the overview, or "
-#| "onto any workspace on the right."
 msgid ""
 "At the bottom of the overview, you will find the <em>dash</em>. The dash "
 "shows you your favorite and running applications. Click any icon in the dash "
@@ -23597,14 +23322,6 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/shell-introduction.page:107
 #, fuzzy
-#| msgid ""
-#| "Click the grid button at the bottom of the dash to display the "
-#| "applications overview. This shows you all the applications installed on "
-#| "your computer. Click any application to run it, or drag an application to "
-#| "the overview or onto a workspace thumbnail. You can also drag an "
-#| "application onto the dash to make it a favorite. Your favorite "
-#| "applications stay in the dash even when they’re not running, so you can "
-#| "access them quickly."
 msgid ""
 "Click the grid button (which has nine dots) in the dash to display the "
 "applications overview. This shows you all the applications installed on your "
@@ -24401,7 +24118,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-notifications.page:104
 #, fuzzy
-#| msgid "Switch <gui>Notification Popups</gui> to off."
 msgid "Switch <gui>Do Not Disturb</gui> to off."
 msgstr "Desactive la opción <gui>Notificaciones emergentes</gui>."
 
@@ -24522,10 +24238,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-windows-lost.page:42
 #, fuzzy
-#| msgid ""
-#| "Click different workspaces in the <link xref=\"shell-workspaces"
-#| "\">workspace selector</link> at the right-hand side of the screen to try "
-#| "to find your window, or"
 msgid ""
 "Click different workspaces in the <link xref=\"shell-workspaces\">workspace "
 "selector</link> to try to find your window, or"
@@ -25005,7 +24717,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:62
 #, fuzzy
-#| msgid "Click and drag the window toward the right of the screen."
 msgid ""
 "Click and drag the window to the workspace partially displayed on the side "
 "of the screen."
@@ -25014,10 +24725,6 @@ msgstr "Pulse y arrastre la ventana a la derecha de la pantalla."
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:66
 #, fuzzy
-#| msgid ""
-#| "Drop the window onto an empty workspace. This workspace now contains the "
-#| "window you have dropped, and a new empty workspace appears at the bottom "
-#| "of the <em>workspace selector</em>."
 msgid ""
 "If more than one workspace is already in use, you can also drop the window "
 "onto one of the non-adjacent workspaces in the <em xref=\"shell-workspaces"
@@ -25049,10 +24756,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:84
 #, fuzzy
-#| msgid ""
-#| "Press <keyseq><key>Super</key><key>Shift</key><key>Page Up</key></keyseq> "
-#| "to move the window to a workspace which is above the current workspace on "
-#| "the <em>workspace selector</em>."
 msgid ""
 "Press <keyseq><key>Super</key><key>Shift</key><key>Page Up</key></keyseq> to "
 "move the window to a workspace left of the current workspace on the "
@@ -25065,10 +24768,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:87
 #, fuzzy
-#| msgid ""
-#| "Press <keyseq><key>Super</key><key>Shift</key><key>Page Down</key></"
-#| "keyseq> to move the window to a workspace which is below the current "
-#| "workspace on the <em>workspace selector</em>."
 msgid ""
 "Press <keyseq><key>Super</key><key>Shift</key><key>Page Down</key></keyseq> "
 "to move the window to a workspace right of the current workspace on the "
@@ -25131,10 +24830,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-workspaces-switch.page:43
 #, fuzzy
-#| msgid ""
-#| "Click on a workspace in the <link xref=\"shell-workspaces\">workspace "
-#| "selector</link> on the right side of the screen to view the open windows "
-#| "on that workspace."
 msgid ""
 "If more than one workspace is being used, then you can also click on the "
 "<link xref=\"shell-workspaces\">workspace selector</link> between the search "
@@ -25152,11 +24847,6 @@ msgstr "Pulse en el área de trabajo para activarla."
 #. (itstool) path: item/p
 #: C/shell-workspaces-switch.page:55
 #, fuzzy
-#| msgid ""
-#| "Press <keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</"
-#| "key></keyseq> or <keyseq><key>Ctrl</key><key>Alt</key><key>Up</key></"
-#| "keyseq> to move to the workspace shown above the current workspace in the "
-#| "workspace selector."
 msgid ""
 "Press <keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</"
 "key></keyseq> or <keyseq><key>Ctrl</key><key>Alt</key><key>Up</key></keyseq> "
@@ -25182,10 +24872,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-workspaces-switch.page:65
 #, fuzzy
-#| msgid ""
-#| "Press <keyseq><key>Super</key><key>Page Down</key></keyseq> or "
-#| "<keyseq><key>Ctrl</key><key>Alt</key><key>Down</key></keyseq> to move to "
-#| "the workspace shown below the current workspace in the workspace selector."
 msgid ""
 "Press <keyseq><key>Super</key><key>Page Down</key></keyseq> or "
 "<keyseq><key>Ctrl</key><key>Alt</key><key>Down</key></keyseq> to move to the "
@@ -25264,9 +24950,6 @@ msgstr "Usando áreas de trabajo:"
 #. (itstool) path: item/p
 #: C/shell-workspaces.page:50
 #, fuzzy
-#| msgid ""
-#| "In the <gui xref=\"shell-introduction#activities\">Activities</gui> "
-#| "overview, move your cursor to the right-most side of the screen."
 msgid ""
 "In the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview, you can horizontally navigate between the workspaces."
@@ -25305,11 +24988,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/shell-workspaces.page:66
 #, fuzzy
-#| msgid ""
-#| "To add a workspace, drag and drop a window from an existing workspace "
-#| "onto the empty workspace in the workspace selector. This workspace now "
-#| "contains the window you have dropped, and a new empty workspace will "
-#| "appear below it."
 msgid ""
 "To add a workspace, drag and drop a window from an existing workspace onto "
 "the empty workspace in the workspace selector. This workspace now contains "
@@ -25420,10 +25098,6 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/sound-alert.page:51
 #, fuzzy
-#| msgid ""
-#| "Use the volume slider for <gui>System Sounds</gui>in the <gui>Volume "
-#| "Levels</gui> section to set the volume of the alert sound. This will not "
-#| "affect the volume of your music, movies, or other sound files."
 msgid ""
 "Use the volume slider for <gui>System Sounds</gui> in the <gui>Volume "
 "Levels</gui> section to set the volume of the alert sound. This will not "
@@ -25598,9 +25272,6 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/sound-nosound.page:44
 #, fuzzy
-#| msgid ""
-#| "Also, you can check the <gui>Applications</gui> tab in the <gui>Sound</"
-#| "gui> GUI:"
 msgid "Also, you can check the volume slider in the <gui>Sound</gui> panel:"
 msgstr ""
 "También puede revisar la pestaña <gui>Aplicaciones</gui> en la interfaz de "
@@ -25609,8 +25280,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/sound-nosound.page:54
 #, fuzzy
-#| msgid ""
-#| "Under <gui>Volume Levels</gui>, check that your application is not muted."
 msgid ""
 "Under <gui>Volume Levels</gui>, check that your application is not muted. "
 "The button at the end of the volume slider toggles <gui>Mute</gui> on and "
@@ -25835,9 +25504,6 @@ msgstr "Seleccione el dispositivo de entrada de sonido predeterminado"
 #. (itstool) path: item/p
 #: C/sound-usemic.page:59
 #, fuzzy
-#| msgid ""
-#| "In the <gui>Input</gui> tab, select the device that you want to use. The "
-#| "input level indicator should respond when you speak."
 msgid ""
 "In the <gui>Input</gui> section, select the device that you want to use. The "
 "input level indicator should respond when you speak."
@@ -25926,8 +25592,6 @@ msgstr "Seleccione el dispositivo de entrada de sonido predeterminado"
 #. (itstool) path: item/p
 #: C/sound-usespeakers.page:64
 #, fuzzy
-#| msgid ""
-#| "In the <gui>Output</gui> tab, select the device that you want to use."
 msgid ""
 "In the <gui>Output</gui> section, select the device that you want to use."
 msgstr ""
@@ -25936,9 +25600,6 @@ msgstr ""
 #. (itstool) path: page/p
 #: C/sound-usespeakers.page:69
 #, fuzzy
-#| msgid ""
-#| "Use the <gui style=\"button\">Test Speakers</gui> button to check that "
-#| "all speakers are working and are connected to the correct socket."
 msgid ""
 "Use the <gui style=\"button\">Test</gui> button to check that all speakers "
 "are working and are connected to the correct socket."
@@ -26029,9 +25690,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/sound-volume.page:65
 #, fuzzy
-#| msgid ""
-#| "Under <gui>Volume Levels</gui>, change the volume of the application "
-#| "listed there."
 msgid ""
 "Under <gui>Volume Levels</gui>, change the volume of the applications listed "
 "there. The button at the end of the volume slider toggles <gui>Mute</gui> on "
@@ -26073,10 +25731,6 @@ msgstr "¿Qué significan los iconos de la barra superior?"
 #. (itstool) path: page/p
 #: C/status-icons.page:65
 #, fuzzy
-#| msgid ""
-#| "This section explains the meaning of icons located on the top right "
-#| "corner of the screen. More specifically, the different variations of the "
-#| "icons provided by the system are described."
 msgid ""
 "This page explains the meaning of icons located on the top right corner of "
 "the screen. More specifically, the different variations of the icons "
@@ -26094,7 +25748,6 @@ msgstr "Iconos de accesibilidad"
 #. (itstool) path: td/p
 #: C/status-icons.page:83
 #, fuzzy
-#| msgid "Leads to a menu that turns on accessibility settings."
 msgid "Allows you to quickly toggle various accessibility settings."
 msgstr ""
 "Lleva a un menú que activa las distintas configuraciones de accesibilidad."
@@ -26122,7 +25775,6 @@ msgstr "Iconos de sonido"
 #. (itstool) path: td/p
 #: C/status-icons.page:118
 #, fuzzy
-#| msgid "Use different speakers or headphones"
 msgid "Indicates the volume of the speakers or headphones."
 msgstr "Usar altavoces o auriculares diferentes"
 
@@ -26154,7 +25806,6 @@ msgstr "Iconos de batería"
 #. (itstool) path: td/p
 #: C/status-icons.page:174
 #, fuzzy
-#| msgid "Check that the battery of the mouse is charged."
 msgid "Indicates the battery level while the battery is charging."
 msgstr "Compruebe que la batería del ratón está cargada"
 
@@ -26235,7 +25886,6 @@ msgstr "Conectando con una red inalámbrica."
 #. (itstool) path: td/p
 #: C/status-icons.page:310
 #, fuzzy
-#| msgid "Connected to a wireless network."
 msgid "Indicates the strength of a wireless network connection."
 msgstr "Conectado a una red inalámbrica."
 
@@ -26284,7 +25934,6 @@ msgstr "Conectando a una red móvil."
 #. (itstool) path: td/p
 #: C/status-icons.page:388
 #, fuzzy
-#| msgid "Acquiring a cellular network connection."
 msgid "Indicates the strength of a cellular network connection."
 msgstr "Obteniendo conexión de red móvil."
 
@@ -26420,16 +26069,12 @@ msgstr ""
 #. (itstool) path: p/link
 #: C/status-icons.page:588
 #, fuzzy
-#| msgid "Screenshots and screencasts"
 msgid "Learn more about screenshots and screencasts."
 msgstr "Capturas de pantalla y grabaciones de vídeo"
 
 #. (itstool) path: info/desc
 #: C/tips-specialchars.page:34
 #, fuzzy
-#| msgid ""
-#| "Type characters not found on your keyboard, including foreign alphabets, "
-#| "mathematical symbols, and dingbats."
 msgid ""
 "Type characters not found on your keyboard, including foreign alphabets, "
 "mathematical symbols, emoji, and dingbats."
@@ -26493,7 +26138,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/tips-specialchars.page:62
 #, fuzzy
-#| msgid "<keyseq><key>Ctrl</key><key>A</key></keyseq>"
 msgid "Press <keyseq><key>Ctrl</key><key>;</key></keyseq>."
 msgstr "<keyseq><key>Ctrl</key><key>A</key></keyseq>"
 
@@ -26507,7 +26151,6 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/tips-specialchars.page:69
 #, fuzzy
-#| msgid "Select all text or items in a list."
 msgid "Select an emoji to insert."
 msgstr "Seleccionar todo el texto o todos los elementos en una lista."
 
@@ -26546,9 +26189,6 @@ msgstr "Definir una tecla de composición"
 #. (itstool) path: item/p
 #: C/tips-specialchars.page:96
 #, fuzzy
-#| msgid ""
-#| "In the <gui>Suspend &amp; Power Button</gui> section, click "
-#| "<gui>Automatic suspend</gui>."
 msgid ""
 "In the <gui>Type Special Characters</gui> section, click <gui>Compose Key</"
 "gui>."
@@ -26613,10 +26253,6 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/tips-specialchars.page:124
 #, fuzzy
-#| msgid ""
-#| "For more compose key sequences, see <link href=\"http://en.wikipedia.org/"
-#| "wiki/Compose_key#Common_compose_combinations\">the compose key page on "
-#| "Wikipedia</link>."
 msgid ""
 "For more compose key sequences, see <link href=\"https://en.wikipedia.org/"
 "wiki/Compose_key#Common_compose_combinations\">the compose key page on "
@@ -26725,23 +26361,18 @@ msgstr "Trucos y consejos"
 #. (itstool) path: info/desc
 #: C/touchscreen-gestures.page:28
 #, fuzzy
-#| msgid "Manipulate your desktop using gestures on your touchscreen."
 msgid "Manipulate your desktop using gestures on your touchpad or touchscreen."
 msgstr "Manejar el escritorio usando gestos en su pantalla táctil."
 
 #. (itstool) path: page/title
 #: C/touchscreen-gestures.page:31
 #, fuzzy
-#| msgid "Mouse, Touchpad &amp; Touchscreen"
 msgid "Use gestures on touchpads and touchscreens"
 msgstr "Ratón, panel táctil y pantalla táctil"
 
 #. (itstool) path: page/p
 #: C/touchscreen-gestures.page:33
 #, fuzzy
-#| msgid ""
-#| "Multitouch gestures can be used on touchscreens for system navigation, as "
-#| "well as in applications."
 msgid ""
 "Multitouch gestures can be used on touchpads and touchscreens for system "
 "navigation, as well as in applications."
@@ -26768,7 +26399,6 @@ msgstr "Gestos del sistema"
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:46
 #, fuzzy
-#| msgid "<em>Open the Activities Overview</em>"
 msgid "<em>Open the Activities Overview and Applications View</em>"
 msgstr "<em>Abrir la vista de Actividades</em>"
 
@@ -26958,7 +26588,6 @@ msgstr "Usuarios"
 #. (itstool) path: info/desc
 #: C/user-accounts.page:21
 #, fuzzy
-#| msgid "Change who has administrative privileges"
 msgid ""
 "Add and remove user accounts. Change passwords. Set administrative "
 "privileges."
@@ -27913,15 +27542,6 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/video-dvd.page:43
 #, fuzzy
-#| msgid ""
-#| "DVDs are also <em>copy-protected</em> using a system called CSS. This "
-#| "prevents you from copying DVDs, but it also prevents you from playing "
-#| "them unless you have extra software to handle the copy protection. This "
-#| "software is available from a number of Linux distributions, but cannot be "
-#| "legally used in all countries. You can buy a commercial DVD decoder that "
-#| "can handle copy protection from <link href=\"https://fluendo.com/en/"
-#| "products/multimedia/oneplay-dvd-player/\">Fluendo</link>. It works with "
-#| "Linux and should be legal to use in all countries."
 msgid ""
 "DVDs are also <em>copy-protected</em> using a system called CSS. This "
 "prevents you from copying DVDs, but it also prevents you from playing them "
@@ -28099,7 +27719,6 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/wacom-left-handed.page:24
 #, fuzzy
-#| msgid "Switch the Wacom tablet to <gui>Left-Handed Orientation</gui>."
 msgid ""
 "Switch the Wacom tablet between left-handed and right-handed orientation."
 msgstr "Cambiar la tableta Wacom a <gui>Orientación para zurdos</gui>."
@@ -28107,17 +27726,12 @@ msgstr "Cambiar la tableta Wacom a <gui>Orientación para zurdos</gui>."
 #. (itstool) path: page/title
 #: C/wacom-left-handed.page:27
 #, fuzzy
-#| msgid "Use the tablet left-handed"
 msgid "Use the tablet with your left or your right hand"
 msgstr "Use su tableta para zurdos"
 
 #. (itstool) path: page/p
 #: C/wacom-left-handed.page:29
 #, fuzzy
-#| msgid ""
-#| "Some tablets have hardware buttons on one side. The tablet can be rotated "
-#| "180 degrees to position these buttons for left-handed people. To switch "
-#| "the orientation to left-handed:"
 msgid ""
 "Some tablets have hardware buttons on one side. The tablet can be rotated "
 "180 degrees to position these buttons. By default, the orientation is for "
@@ -28179,9 +27793,6 @@ msgstr "Establecer el modo de seguimiento de la tableta Wacom"
 #. (itstool) path: page/p
 #: C/wacom-mode.page:29
 #, fuzzy
-#| msgid ""
-#| "<gui>Tracking Mode</gui> determines how the pointer is mapped to the "
-#| "screen."
 msgid ""
 "<gui>Tracking Mode</gui> determines how the stylus is mapped to the screen."
 msgstr ""
@@ -28211,10 +27822,6 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/wacom-mode.page:52
 #, fuzzy
-#| msgid ""
-#| "In <em>relative</em> mode, if you lift the pointer off the tablet and put "
-#| "it down in a different position, the cursor on the screen doesn’t move. "
-#| "This is the way a mouse operates."
 msgid ""
 "In <em>relative</em> mode, if you lift the stylus off the tablet and put it "
 "down in a different position, the pointer on the screen doesn’t move. This "
