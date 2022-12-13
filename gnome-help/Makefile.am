@@ -86,6 +86,7 @@ HELP_MEDIA = \
 	figures/shell-appmenu-classic.png \
 	figures/shell-appmenu-shell.png \
 	figures/shell-appts-classic.png \
+	figures/shell-appts-endless.png \
 	figures/shell-appts.png \
 	figures/shell-exit-classic.png \
 	figures/shell-exit.png \
