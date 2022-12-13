@@ -26,11 +26,7 @@
 
   <title>Read screen aloud</title>
 
-  <p>The <app>Orca</app> screen reader can speak the user interface. Depending
-  on how you installed your system, you might not have Orca installed. If not,
-  install Orca first.</p>
-
-  <p if:test="action:install"><link style="button" action="install:orca">Install Orca</link></p>
+  <p>The <app>Orca</app> screen reader can speak the user interface.</p>
   
   <p>To start <app>Orca</app> using the keyboard:</p>
   
@@ -44,8 +40,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Accessibility</gui>.</p>
+      <p>Go to the Desktop and start typing <gui>Accessibility</gui>.</p>
     </item>
     <item>
       <p>Click <gui>Accessibility</gui> to open the panel.</p>

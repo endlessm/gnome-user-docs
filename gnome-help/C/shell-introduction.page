@@ -15,6 +15,7 @@
     <revision pkgversion="3.33.3" date="2019-07-19" status="review"/>
     <revision pkgversion="3.35.91" date="2020-07-19" status="review"/>
     <revision version="gnome:40" date="2021-06-16" status="review"/>
+    <revision version="gnome:41" date="2022-12-12" status="review"/>
 
     <credit type="author">
       <name>Shaun McCance</name>
@@ -39,21 +40,32 @@
     <gui>Activities</gui> overview.</desc>
   </info>
 
-  <title>Visual overview of GNOME</title>
+  <title>Visual overview of Endless</title>
 
-  <p>GNOME features a user interface designed to stay out of your way, minimize
-  distractions, and help you get things done. When you first log in, you will
-  see the <gui>Activities</gui> overview and the top bar.</p>
+  <if:choose>
+    <if:when test="!platform:endless">
+      <p>GNOME 3 features a completely reimagined user interface designed to
+      stay out of your way, minimize distractions, and help you get things done.
+      When you first log in, you will see an empty desktop and the taskbar.</p>
+    </if:when>
+
+    <if:when test="platform:endless">
+      <p>Endless features a completely reimagined user interface designed to
+      stay out of your way, minimize distractions, and help you get things done.
+      When you first log in, you will see the desktop with the list of pre-installed 
+      applications and the taskbar.</p>
+    </if:when>
+  </if:choose>
 
 <if:choose>
-  <if:when test="!platform:gnome-classic">
+  <if:when test="!platform:gnome-classic !platform:endless">
     <media type="image" src="figures/shell-top-bar.png" width="600" if:test="!target:mobile">
       <p>GNOME Shell top bar</p>
     </media>
   </if:when>
-  <if:when test="platform:gnome-classic">
-    <media type="image" src="figures/shell-top-bar-classic.png" width="500" if:test="!target:mobile">
-      <p>GNOME Shell top bar</p>
+  <if:when test="platform:endless">
+    <media type="image" src="figures/endless-desktop.png" width="600" if:test="!target:mobile">
+      <p>Endless Desktop</p>
     </media>
   </if:when>
 </if:choose>
@@ -70,7 +82,7 @@
 <!-- TODO: Replace "Activities overview" title for classic mode with something
 like "Application windows" by using if:when and if:else ? -->
 <section id="activities">
-  <title><gui>Activities</gui> overview</title>
+  <title>Overview</title>
 
   <p if:test="!platform:gnome-classic">When you start GNOME, you automatically
   enter the <gui>Activities</gui> overview. The overview allows you to access
