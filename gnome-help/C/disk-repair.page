@@ -9,8 +9,13 @@
       <name>GNOME Documentation Project</name>
       <email>gnome-doc-list@gnome.org</email>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <revision pkgversion="3.25.90" date="2017-08-17" status="review"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <desc>Check if a filesystem is damaged and bring it back into a usable
           state.</desc>
@@ -30,7 +35,7 @@
 <steps>
   <title>Check if a filesystem is damaged</title>
   <item>
-    <p>Open <app>Disks</app> from the <gui>Activities</gui> overview.</p>
+    <p>Open <app>Disks</app> from the <gui>Desktop</gui>.</p>
   </item>
   <item>
     <p>Select the disk containing the filesystem in question from the list of
@@ -73,7 +78,7 @@
 <steps>
   <title>Repair a filesystem</title>
   <item>
-    <p>Open <app>Disks</app> from the <gui>Activities</gui> overview.</p>
+    <p>Open <app>Disks</app> from the <gui>Desktop</gui>.</p>
   </item>
   <item>
     <p>Select the disk containing the filesystem in question from the list

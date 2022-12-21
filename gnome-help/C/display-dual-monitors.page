@@ -10,6 +10,7 @@
     <revision pkgversion="3.9.92" date="2013-09-23" status="review"/>
     <revision pkgversion="3.28" date="2018-07-28" status="review"/>
     <revision pkgversion="3.34" date="2019-11-12" status="review"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <credit type="author">
       <name>Tiffany Antopolski</name>
@@ -22,6 +23,10 @@
     <credit type="editor">
       <name>Ekaterina Gerasimova</name>
       <email>kittykat3756@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -39,8 +44,8 @@
     <tt:tt its:translate="yes" xmlns:tt="http://www.w3.org/ns/ttml">
       <tt:body>
         <tt:div begin="1s" end="3s">
-          <tt:p>Type <input>displays</input> in the <gui>Activities</gui>
-          overview to open the <gui>Displays</gui> settings.</tt:p>
+          <tt:p>Type <input>displays</input> in the <gui>Desktop</gui> to open 
+          the <gui>Displays</gui> settings.</tt:p>
         </tt:div>
         <tt:div begin="3s" end="9s">
           <tt:p>Click on the image of the monitor you would like to activate or
@@ -87,8 +92,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Displays</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Displays</gui>.</p>
     </item>
     <item>
       <p>Click <gui>Displays</gui> to open the panel.</p>
@@ -107,7 +111,7 @@
       <note>
         <p>The primary display is the one with the
         <link xref="shell-introduction">top bar</link>, and where the
-        <gui>Activities</gui> overview is shown.</p>
+        <gui>Desktop</gui> is shown.</p>
       </note>
     </item>
     <item>

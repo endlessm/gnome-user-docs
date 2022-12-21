@@ -12,6 +12,7 @@
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
     <revision pkgversion="3.29" date="2018-08-20" status="review"/>
     <revision pkgversion="3.33" date="2019-07-20" status="candidate"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <credit type="author">
       <name>Phil Bull</name>
@@ -30,6 +31,10 @@
       <email>kittykat3756@gmail.com</email>
       <years>2013, 2015</years>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
     
@@ -45,8 +50,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Accessibility</gui>.</p>
+      <p>Go to the <gui>desktop</gui> and start typing <gui>Accessibility</gui>.</p>
       <p>You can access the <gui>Activities</gui> overview by pressing on it,
       by moving your mouse pointer against the top-left corner of the screen,
       by using <keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq>

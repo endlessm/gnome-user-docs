@@ -9,8 +9,13 @@
       <name>GNOME Documentation Project</name>
       <email>gnome-doc-list@gnome.org</email>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <revision pkgversion="3.25.90" date="2017-08-17" status="review"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <desc>Shrink or grow a filesystem and its partition.</desc>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -31,7 +36,7 @@
 <steps>
   <title>Resize a filesystem/partition</title>
   <item>
-    <p>Open <app>Disks</app> from the <gui>Activities</gui> overview.</p>
+    <p>Open <app>Disks</app> from the <gui>Desktop</gui>.</p>
   </item>
   <item>
     <p>Select the disk containing the filesystem in question from the list

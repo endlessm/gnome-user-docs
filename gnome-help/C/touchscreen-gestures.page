@@ -8,6 +8,7 @@
     <link type="guide" xref="mouse" group="#last"/>
 
     <revision pkgversion="3.33" date="2019-07-20" status="candidate"/>
+    <revision version="Gnome:41" date="2022-12-16" status="review"/>
 
     <!--
     For 41: https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/121
@@ -21,6 +22,10 @@
     <credit type="author">
       <name>Shaun McCance</name>
       <email>shaunm@gnome.org</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -62,6 +67,12 @@
     <td><p><em>Bring up the on-screen keyboard</em></p>
     <p>On a touchscreen, drag up from the bottom edge to bring up the
     <link xref="keyboard-osk">on-screen keyboard</link>, if the on-screen keyboard is enabled.</p></td>
+  </tr>
+  </tr>
+  <tr xml:id="systemmenu">
+    <td><p><media type="image" src="figures/right-edge-drag-down.svg" width="256" its:translate="no"/></p></td>
+    <td><p><em>Bring down the system menu</em></p>
+    <p>Slide down from the top right edge.</p></td>
   </tr>
 </table>
 

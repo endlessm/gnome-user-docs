@@ -12,6 +12,7 @@
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
     <revision pkgversion="3.29" date="2018-08-20" status="review"/>
     <revision pkgversion="3.33" date="2019-07-20" status="candidate"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <!--
     For 41: https://gitlab.gnome.org/GNOME/gnome-user-docs/-/issues/121
@@ -30,6 +31,10 @@
       <name>Ekaterina Gerasimova</name>
       <email>kittykat3756@gmail.com</email>
       <years>2013, 2015</years>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -89,8 +94,7 @@
   <steps>
     <title>Enable Tap to Click</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
+      <p>Go to the <gui>desktop</gui> and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Mouse &amp; Touchpad</gui> to open the panel.</p>
@@ -130,8 +134,7 @@
   <steps>
     <title>Enable Two-finger Scrolling</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
+      <p>Go to the <gui>desktop</gui> and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Mouse &amp; Touchpad</gui> to open the panel.</p>
@@ -154,8 +157,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
+      <p>Go to the <gui>desktop</gui> and start typing <gui>Mouse &amp; Touchpad</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Mouse &amp; Touchpad</gui> to open the panel.</p>

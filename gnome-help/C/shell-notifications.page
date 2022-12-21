@@ -91,8 +91,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Settings</gui>.</p>
+      <p>Go to the Desktop and start typing <gui>Settings</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Settings</gui>.</p>
@@ -101,7 +100,7 @@
       <p>Click on <gui>Notifications</gui> in the sidebar to open the panel.</p>
     </item>
     <item>
-      <p>Switch <gui>Do Not Disturb</gui> to off.</p>
+      <p>Switch <gui>Do Not Disturb</gui> to on.</p>
     </item>
   </steps>
 
@@ -127,8 +126,7 @@
   <steps>
     <title>To switch off notifications when your screen is locked:</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Settings</gui>.</p>
+      <p>Go to the Desktop and start typing <gui>Settings</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Settings</gui>.</p>

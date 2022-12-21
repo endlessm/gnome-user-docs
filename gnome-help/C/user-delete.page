@@ -12,6 +12,7 @@
     <revision pkgversion="3.10" date="2013-11-01" status="review"/>
     <revision pkgversion="3.13.92" date="2014-09-22" status="candidate"/>
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
+    <revision version="Gnome:41" date="2022-12-16" status="status"/>
 
     <credit type="author">
       <name>Tiffany Antopolski</name>
@@ -33,6 +34,10 @@
       <name>Ekaterina Gerasimova</name>
       <email>kittykat3756@gmail.com</email>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -50,8 +55,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Users</gui>.</p>
+      <p>Go to the Desktop and start typing <gui>Users</gui>.</p>
     </item>
     <item>
       <p>Click <gui>Users</gui> to open the panel.</p>
@@ -62,8 +66,8 @@
     </item>
     <item>
       <p>Select the user that you want to delete and press the
-      <gui style="button">-</gui> button, below the list of accounts on the
-      left, to delete that user account.</p>
+      <gui style="button">Remove User...</gui> button, above the list of accounts on the
+      right, to delete that user account.</p>
     </item>
     <item>
       <p>Each user has their own home folder for their files and settings. You

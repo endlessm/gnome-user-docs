@@ -6,6 +6,7 @@
     <link type="guide" xref="sound-broken"/>
 
     <revision version="gnome:40" date="2021-02-26" status="candidate"/>
+    <revision version="Gnome:41" date="2022-12-16" status="review"/>
 
     <credit type="author">
       <name>GNOME Documentation Project</name>
@@ -14,6 +15,10 @@
     <credit type="editor">
       <name>Michael Hill</name>
       <email>mdhillca@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -86,8 +91,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui>
-      overview and start typing <gui>Sound</gui>.</p>
+      <p>Go to the Desktop and start typing <gui>Sound</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Sound</gui> to open the panel.</p>
@@ -114,7 +118,7 @@
   card you have:</p>
   <steps>
     <item>
-      <p>Go to the <gui>Activities</gui> overview and open a Terminal.</p>
+      <p>Go to the Desktop and open a Terminal.</p>
     </item>
     <item>
       <p>Run <cmd>lspci</cmd> as <link xref="user-admin-explain">superuser</link>;

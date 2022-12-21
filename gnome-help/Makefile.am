@@ -53,6 +53,7 @@ HELP_MEDIA = \
 	figures/edit-find-symbolic.svg \
 	figures/emblem-system-symbolic.svg \
 	figures/emoji-flags-symbolic.svg \
+    figures/endless-desktop.png \
 	figures/gnome.svg \
 	figures/go-down-symbolic.svg \
 	figures/input-keyboard-symbolic.png \
@@ -89,12 +90,17 @@ HELP_MEDIA = \
 	figures/shell-appts-endless.png \
 	figures/shell-appts.png \
 	figures/shell-exit-classic.png \
+	figures/shell-exit-endless.png \
 	figures/shell-exit.png \
+	figures/shell-favorites-endless.png \
 	figures/shell-top-bar-classic.png \
+	figures/shell-top-bar-endless.png \
 	figures/shell-top-bar.png \
 	figures/shell-window-list-classic.png \
+	figures/shell-window-list-endless.png \
 	figures/shell-workspaces.png \
 	figures/system-run-symbolic.svg \
+	figures/system-settings-menu-endless.png \
 	figures/tile-a11y.svg \
 	figures/tile-files.svg \
 	figures/tile-hardware.svg \
@@ -254,7 +260,6 @@ HELP_FILES = \
 	files-tilde.page \
 	files.page \
 	get-involved.page \
-	gnome-classic.page \
 	gnome-version.page \
 	hardware-auth.page \
 	hardware-cardreader.page \
@@ -307,8 +312,6 @@ HELP_FILES = \
 	net-email-virus.page \
 	net-email.page \
 	net-findip.page \
-	net-firewall-on-off.page \
-	net-firewall-ports.page \
 	net-fixed-ip-address.page \
 	net-general.page \
 	net-macaddress.page \
@@ -400,7 +403,6 @@ HELP_FILES = \
 	sharing-displayname.page \
 	sharing-media.page \
 	sharing-personal.page \
-	shell-apps-auto-start.page \
 	shell-apps-favorites.page \
 	shell-apps-open.page \
 	shell-exit.page \

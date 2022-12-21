@@ -10,12 +10,17 @@
     <revision pkgversion="3.13.92" date="2014-09-20" status="final"/>
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
     <revision pkgversion="3.33.3" date="2019-07-21" status="final"/>
+    <revision version="gnome:41" date="2022-12-13" status="review"/>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
     <credit type="author">
       <name>Phil Bull</name>
       <email>philbull@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <desc>The accessibility menu is the icon on the top bar that looks like
@@ -38,7 +43,7 @@
 
   <steps>
     <item>
-      <p>Go to the Dekstop and start typing <gui>Accessibility</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Accessibility</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Accessibility</gui> to open the panel.</p>

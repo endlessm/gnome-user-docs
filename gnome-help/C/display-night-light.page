@@ -9,11 +9,17 @@
     <revision pkgversion="3.34" date="2019-11-11" status="review"/>
     <revision pkgversion="3.38.2" date="2021-03-06" status="review"/>
     <revision pkgversion="40.1" date="2021-06-09" status="review"/>
+    <revision version="Gnome:41" date="2022-12-16" status="review"/>
 
     <credit type="author copyright">
       <name>Michael Hill</name>
       <email>mdhillca@gmail.com</email>
       <years>2018</years>
+    </credit>
+    <credit type="author copyright">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+      <years>2022</years>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -31,8 +37,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui>
-      overview and start typing <gui>Displays</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Displays</gui>.</p>
     </item>
     <item>
       <p>Click <gui>Displays</gui> to open the panel.</p>

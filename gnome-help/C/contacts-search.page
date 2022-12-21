@@ -9,6 +9,7 @@
     <revision pkgversion="3.5.5" date="2012-08-13" status="review"/>
     <revision pkgversion="3.12" date="2014-02-26" status="final"/>
     <revision pkgversion="3.18" date="2015-09-28" status="review"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <credit type="author">
       <name>Tiffany Antopolski</name>
@@ -22,6 +23,10 @@
       <name>Ekaterina Gerasimova</name>
       <email>kittykat3756@gmail.com</email>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -34,11 +39,10 @@
 
   <steps>
     <item>
-      <p>In the <gui>Activities</gui> overview, start typing the name of the
-      contact.</p>
+      <p>On the <gui>Desktop</gui>, start typing the name of the contact.</p>
     </item>
     <item>
-      <p>Matching contacts will appear in the overview instead of the usual list
+      <p>Matching contacts will appear in the desktop instead of the usual list
       of applications.</p>
     </item>
     <item>

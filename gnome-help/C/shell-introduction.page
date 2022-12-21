@@ -33,6 +33,10 @@
       <name>Andre Klapper</name>
       <email>ak-47@gmx.net</email>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -40,7 +44,7 @@
     <gui>Activities</gui> overview.</desc>
   </info>
 
-  <title>Visual overview of Endless</title>
+  <title>Visual overview of the Endless OS Desktop</title>
 
   <if:choose>
     <if:when test="!platform:endless">
@@ -50,10 +54,14 @@
     </if:when>
 
     <if:when test="platform:endless">
-      <p>Endless features a completely reimagined user interface designed to
+      <note style="tip">
+        <p>Endless OS is a Linux based operating system which provides a simplified and 
+        streamlined user experience using a customized desktop environment forked from GNOME 4.</p>
+      </note>
+      <p>Endless OS features a completely reimagined user interface designed to
       stay out of your way, minimize distractions, and help you get things done.
       When you first log in, you will see the desktop with the list of pre-installed 
-      applications and the taskbar.</p>
+      applications and the dash.</p>
     </if:when>
   </if:choose>
 
@@ -65,7 +73,7 @@
   </if:when>
   <if:when test="platform:endless">
     <media type="image" src="figures/endless-desktop.png" width="600" if:test="!target:mobile">
-      <p>Endless Desktop</p>
+      <p>Endless OS Desktop</p>
     </media>
   </if:when>
 </if:choose>
@@ -76,6 +84,10 @@
   and power. In the system menu in the top bar, you can change the volume or
   screen brightness, edit your <gui>Wi-Fi</gui> connection details, check your
   battery status, log out or switch users, and turn off your computer.</p>
+    
+  <p>If you have a screen that supports vertical or horizontal rotation, you can also
+  quickly rotate the screen from the system menu. If your screen does not support rotation,
+  you will not see the button.</p>
 
 <links type="section"/>
 
@@ -84,44 +96,61 @@ like "Application windows" by using if:when and if:else ? -->
 <section id="activities">
   <title>Overview</title>
 
-  <p if:test="!platform:gnome-classic">When you start GNOME, you automatically
-  enter the <gui>Activities</gui> overview. The overview allows you to access
-  your windows and applications. In the overview, you can also just start
-  typing to search your applications, files, folders, and the web.</p>
+  <p if:test="!platform:gnome-classic">When you start Endless, you automatically
+  enter the Desktop. The Desktop allows you to access your windows and applications. 
+  On the Desktop, you can also just start typing to search your applications, files, 
+  folders, and the web.</p>
 
-  <p if:test="!platform:gnome-classic">To access the overview at any time,
+  <p if:test="!platform:gnome-classic">To access the Activities overview at any time,
   click the <gui>Activities</gui> button, or just move your mouse pointer to
   the top-left hot corner. You can also press the
   <key xref="keyboard-key-super">Super</key> key on your keyboard.</p>
 
-  <p if:test="platform:gnome-classic">To access your windows and applications,
+  <p if:test="platform:!gnome-classic, !platform:endless">To access your windows and applications,
   click the button at the bottom left of the screen in the window list. You can
   also press the <key xref="keyboard-key-super">Super</key> key to see an
   overview with live thumbnails of all the windows on the current workspace.</p>
 
-  <media type="image" its:translate="no" src="figures/shell-activities-dash.png" height="65" style="floatend floatright" if:test="!target:mobile, !platform:gnome-classic">
+  <media type="image" src="figures/shell-top-bar-endless.png" width="800" if:test="!target:mobile, !platform:gnome-classic">
     <p>Activities button and Dash</p>
   </media>
-  <p if:test="!platform:gnome-classic">At the bottom of the overview, you will find the <em>dash</em>. The dash
-  shows you your favorite and running applications. Click any icon in the
-  dash to open that application; if the application is already running, it will
-  have a small dot below its icon. Clicking its icon will bring up the most
-  recently used window. You can also drag the icon onto a workspace.</p>
+    
+  <p if:test="platform:!gnome-classic, platform:endless">At the bottom of the 
+  desktop, you will find the <em>dash</em>. The dash shows you your favorite and 
+  running applications. Click any icon in the dash to open that application; if 
+  the application is already running, it will have a small dot below its icon. 
+  Clicking its icon will bring up the most recently used window. You can also 
+  drag the icon onto a workspace.</p>
 
-  <p if:test="!platform:gnome-classic">Right-clicking the icon displays a menu that allows you to pick any window
-  in a running application, or to open a new window. You can also click the
+  <p if:test="platform:!gnome-classic, platform:endless">Right-clicking the 
+  icon displays a menu that allows you to pick any window in a running 
+  application, or to open a new window. You can also click the
   icon while holding down <key>Ctrl</key> to open a new window.</p>
+    
+  <p if:test="platform:!gnome-classic, platform:endless">Right-clicking the 
+  icon displays a menu that allows you to add/remove the application to/from 
+  your favorites or in case the application is already running the menu 
+  displays an option to quit the application.</p>
 
-  <p if:test="!platform:gnome-classic">When you enter the overview, you will initially be in the windows
-  overview. This shows you live thumbnails of all the windows on the current
-  workspace.</p>
+  <p if:test="platform:!gnome-classic, platform:endless">When you enter select 
+  the Activities button in the top left, you will initially see the windows overview. 
+  This shows you live thumbnails of all the windows on the current workspace.</p>
+    
+  <media type="image" src="figures/shell-favorites-endless.png" heigth="50" if:test="!target:mobile, !platform:gnome-classic">
+    <p>Activities button and Dash</p>
+  </media>
+    
+  <p if:test="platform:!gnome-classic, platform:endless">Click the grid button (which has nine dots) in the 
+  dash to display the windows overview. This shows you all the applications currently open in the workspace. 
+  You can also drag an application onto the dash to make it a favorite. Your favorite applications stay in 
+  the dash even when they’re not running, so you can access them quickly.</p>
+    
+  <p if:test="platform:endless">There are multiple pages of applications on the
+  desktop. Click the right and left arrows by the icon grid to switch between them, or use your
+  mouse’s scroll wheel. The dot indicator below the icon grid shows which page is currently in view.</p>
 
-  <p if:test="!platform:gnome-classic">Click the grid button (which has nine dots) in the dash to display the
-  applications overview. This shows you all the applications installed on your
-  computer. Click any application to run it, or drag an application to the
-  onto a workspace shown above the installed applications. You can also drag an application onto
-  the dash to make it a favorite. Your favorite applications stay in the dash
-  even when they’re not running, so you can access them quickly.</p>
+  <p if:test="platform:endless">You can also switch between pages of applications by
+  swiping left and right with two fingers.</p>
 
   <list style="compact">
     <item>
@@ -129,8 +158,7 @@ like "Application windows" by using if:when and if:else ? -->
       applications.</link></p>
     </item>
     <item>
-      <p><link xref="shell-windows">Learn more about windows and
-      workspaces.</link></p>
+      <p><link xref="touchscreen-gestures">Learn more about touchscreen gestures.</link></p>
     </item>
   </list>
 
@@ -139,7 +167,7 @@ like "Application windows" by using if:when and if:else ? -->
 <section id="appmenu">
   <title>Application menu</title>
   <if:choose>
-    <if:when test="!platform:gnome-classic">
+    <if:when test="!platform:gnome-classic platform:endless">
       <media type="image" src="figures/shell-appmenu-shell.png" width="250"
       style="floatend floatright" if:test="!target:mobile">
         <p>App Menu of <app>Terminal</app></p>
@@ -169,13 +197,18 @@ like "Application windows" by using if:when and if:else ? -->
   <title>Clock, calendar &amp; appointments</title>
 
 <if:choose>
-  <if:when test="!platform:gnome-classic">
+  <if:when test="!platform:gnome-classic !platform:endless">
     <media type="image" src="figures/shell-appts.png" width="250" style="floatend floatright" if:test="!target:mobile">
       <p>Clock, calendar, appointments and notifications</p>
     </media>
   </if:when>
   <if:when test="platform:gnome-classic">
     <media type="image" src="figures/shell-appts-classic.png" width="250" style="floatend floatright" if:test="!target:mobile">
+      <p>Clock, calendar, and appointments</p>
+    </media>
+  </if:when>
+  <if:when test="platform:endless">
+    <media type="image" src="figures/shell-appts-endless.png" width="250" style="floatend floatright" if:test="!target:mobile">
       <p>Clock, calendar, and appointments</p>
     </media>
   </if:when>
@@ -201,12 +234,11 @@ like "Application windows" by using if:when and if:else ? -->
 
 </section>
 
-
-<section id="systemmenu">
-  <title>System menu</title>
+<section id="usermenu">
+  <title>User menu</title>
 
 <if:choose>
-  <if:when test="!platform:gnome-classic">
+  <if:when test="!platform:gnome-classic !platform:endless">
     <media type="image" src="figures/shell-exit.png" width="250" style="floatend floatright" if:test="!target:mobile">
       <p>User menu</p>
     </media>
@@ -216,9 +248,14 @@ like "Application windows" by using if:when and if:else ? -->
       <p>User menu</p>
     </media>
   </if:when>
+  <if:when test="platform:endless">
+    <media type="image" src="figures/shell-exit-endless.png" width="250" style="floatend floatright" if:test="!target:mobile">
+      <p>User menu</p>
+    </media>
+  </if:when>
 </if:choose>
 
-  <p>Click the system menu in the top-right corner to manage your system
+  <p>Click the User menu in the top-right corner to manage your system
   settings and your computer.</p>
 
 <!-- TODO: Update for 3.36 UI option "Do Not Disturb" in calendar dropdown:
@@ -266,7 +303,7 @@ messages will be presented, such as when your battery is critically low.</p>
   <title>Window List</title>
 
 <if:choose>
-  <if:when test="!platform:gnome-classic">
+  <if:when test="!platform:gnome-classic !platform:endless">
     <p>GNOME features a different approach to switching windows than a
     permanently visible window list found in other desktop environments. This
     lets you focus on the task at hand without distractions.</p>
@@ -287,6 +324,14 @@ messages will be presented, such as when your battery is critically low.</p>
     <p>At the right-hand side of the window list, GNOME displays the four
     workspaces. To switch to a different workspace, select the workspace you
     want to use.</p>
+  </if:when>
+  <if:when test="platform:endless">
+    <media type="image" src="figures/shell-window-list-endless.png" width="400" if:test="!target:mobile">
+      <p>Window List</p>
+    </media>
+    <p>The window list at the bottom of the screen provides access to all your
+    open windows and applications and lets you quickly minimize and restore
+    them.</p>
   </if:when>
 </if:choose>
 

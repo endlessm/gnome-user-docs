@@ -11,6 +11,7 @@
     <revision pkgversion="3.10" date="2013-11-01" status="review"/>
     <revision pkgversion="3.13.92" date="2014-09-22" status="review"/>
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
+    <revision version="Gnome:41" date="2022-12-16" status="review"/>
 
     <credit type="author">
       <name>GNOME Documentation Project</name>
@@ -19,6 +20,10 @@
     <credit type="editor">
       <name>Ekaterina Gerasimova</name>
       <email>kittykat3756@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -39,8 +44,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Users</gui>.</p>
+      <p>Go to the Desktop and start typing <gui>Users</gui>.</p>
     </item>
     <item>
       <p>Click <gui>Users</gui> to open the panel.</p>
@@ -53,8 +57,8 @@
       <p>Select the user whose privileges you want to change.</p>
     </item>
     <item>
-      <p>Click the label <gui>Standard</gui> next to <gui>Account Type</gui>
-      and select <gui>Administrator</gui>.</p>
+      <p>Toggle the switch next to the <gui>Administrator</gui> label within 
+      the <gui>Account Settings</gui> section.</p>
     </item>
     <item>
       <p>The user’s privileges will be changed when they next log in.</p>

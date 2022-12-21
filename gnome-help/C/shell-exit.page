@@ -15,6 +15,7 @@
     <revision pkgversion="3.24.2" date="2017-06-11" status="candidate" />
     <revision pkgversion="3.33" date="2019-07-17" status="candidate" />
     <revision pkgversion="3.36.1" date="2020-04-18" status="review"/>
+    <revision version="Gnome:41" date="2022-12-16" status="review"/>
 
     <credit type="author">
       <name>Shaun McCance</name>
@@ -39,6 +40,10 @@
     <credit type="editor">
       <name>Michael Hill</name>
       <email>mdhillca@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.com</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -71,7 +76,7 @@
   <link xref="shell-introduction#systemmenu">system menu</link> on the right
   side of the top bar, expand <gui>Power Off / Log Out</gui>, and select the correct option.</p>
 
-  <note if:test="!platform:gnome-classic">
+  <note if:test="!platform:gnome-classic !platform:endless">
     <p>The <gui>Log Out</gui> and <gui>Switch User</gui> entries only appear in
     the menu if you have more than one user account on your system.</p>
   </note>
@@ -81,6 +86,12 @@
     more than one user account on your system.</p>
   </note>
 
+  <note if:test="platform:endless">
+    <p>The <gui>Switch User</gui> entry only appears in the menu if you have
+    more than one user account on your system.</p>
+  </note>
+
+    
 </section>
 
 <section id="lock-screen">
@@ -97,7 +108,7 @@
   password to log back in. If you don’t lock your screen, it will lock
   automatically after a certain amount of time.</p>
 
-  <p>To lock your screen, click the system menu on the right side of the top
+  <p>To lock your screen, click the User menu on the right side of the top
   bar and select <gui>Lock</gui> from the menu.</p>
 
   <p>When your screen is locked, other users can log in to their own accounts
@@ -120,7 +131,7 @@
   computer’s functions. A very small amount of power is still used during
   suspend.</p>
 
-  <p>To suspend your computer manually, click the system menu on the right side
+  <p>To suspend your computer manually, click the User menu on the right side
   of the top bar, expand <gui>Power Off / Log Out</gui>, and select
   <gui>Suspend</gui>.</p>
 
@@ -134,7 +145,7 @@
   <title>Power off or restart</title>
 
   <p>If you want to power off your computer entirely, or do a full restart,
-  click the system menu on the right side of the top bar, expand <gui>Power Off
+  click the User menu on the right side of the top bar, expand <gui>Power Off
   / Log Out</gui>, and select either <gui>Restart…</gui> or <gui>Power Off…</gui>.</p>
 
   <p>If there are other users logged in, you may not be allowed to power off or
