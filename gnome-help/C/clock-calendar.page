@@ -12,6 +12,7 @@
     <revision pkgversion="3.10" date="2013-11-04" status="review"/>
     <revision pkgversion="3.16" date="2015-03-02" status="outdated"/>
     <revision pkgversion="3.18" date="2015-09-28" status="review"/>
+    <revision version="Gnome:41" date="2022-12-16" status="review"/>
 
     <credit type="author">
       <name>GNOME Documentation Project</name>
@@ -24,6 +25,10 @@
     <credit type="editor">
       <name>Ekaterina Gerasimova</name>
       <email>kittykat3756@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -63,13 +68,13 @@
   </steps>
 
  <if:choose>
- <if:when test="!platform:gnome-classic">
- <media type="image" src="figures/shell-appts.png" width="500">
+ <if:when test="platform:gnome-classic !platform:endless">
+ <media type="image" src="figures/shell-appts-classic.png" width="373" height="250">
   <p>Clock, calendar, and appointments</p>
  </media>
  </if:when>
- <if:when test="platform:gnome-classic">
- <media type="image" src="figures/shell-appts-classic.png" width="373" height="250">
+ <if:when test="platform:endless">
+ <media type="image" src="figures/shell-appts-endless.png" >
   <p>Clock, calendar, and appointments</p>
  </media>
  </if:when>

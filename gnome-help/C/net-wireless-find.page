@@ -12,10 +12,15 @@
     <revision pkgversion="3.10" date="2013-11-10" status="review"/>
     <revision pkgversion="3.12" date="2014-03-10" status="review"/>
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
+    <revision version="Gnome:41" date="2022-12-16" status="review"/>
 
     <credit type="author">
       <name>GNOME Documentation Project</name>
       <email>gnome-doc-list@gnome.org</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>

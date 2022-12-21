@@ -23,6 +23,10 @@
       <name>Michael Hill</name>
       <email>mdhillca@gmail.com</email>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <desc>Get on the internet — wirelessly.</desc>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>

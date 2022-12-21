@@ -15,6 +15,7 @@
     <revision pkgversion="3.24.2" date="2017-06-11" status="candidate" />
     <revision pkgversion="3.33" date="2019-07-17" status="candidate" />
     <revision pkgversion="3.36.1" date="2020-04-18" status="review"/>
+    <revision version="Gnome:41" date="2022-12-16" status="review"/>
 
     <credit type="author">
       <name>Shaun McCance</name>
@@ -39,6 +40,10 @@
     <credit type="editor">
       <name>Michael Hill</name>
       <email>mdhillca@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.com</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -88,7 +93,7 @@
     </media>
   button, and select the correct option.</p>
 
-  <note if:test="!platform:gnome-classic">
+  <note if:test="!platform:gnome-classic !platform:endless">
     <p>The <gui>Log Out</gui> and <gui>Switch User</gui> entries only appear in
     the menu if you have more than one user account on your system.</p>
   </note>
@@ -98,6 +103,12 @@
     more than one user account on your system.</p>
   </note>
 
+  <note if:test="platform:endless">
+    <p>The <gui>Switch User</gui> entry only appears in the menu if you have
+    more than one user account on your system.</p>
+  </note>
+
+    
 </section>
 
 <section id="lock-screen">

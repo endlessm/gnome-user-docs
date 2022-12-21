@@ -12,6 +12,11 @@
       <email>mdhillca@gmail.com</email>
       <years>2018</years>
     </credit>
+    <credit type="author copyright">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+      <years>2022</years>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -28,8 +33,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui>
-      overview and start typing <gui>Displays</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Displays</gui>.</p>
     </item>
     <item>
       <p>Click <gui>Displays</gui> to open the panel.</p>

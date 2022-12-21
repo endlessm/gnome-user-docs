@@ -9,8 +9,13 @@
       <name>GNOME Documentation Project</name>
       <email>gnome-doc-list@gnome.org</email>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <revision pkgversion="3.4.0" date="2012-02-19" status="review"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <desc>Understand what volumes and partitions are and use the disk utility
     to manage them.</desc>
@@ -42,7 +47,7 @@
 
 <steps>
   <item>
-    <p>Open the <gui>Activities</gui> overview and start <app>Disks</app>.</p>
+    <p>Go to the desktop and start <app>Disks</app>.</p>
   </item>
   <item>
     <p>In the list of storage devices on the left, you will find hard disks,

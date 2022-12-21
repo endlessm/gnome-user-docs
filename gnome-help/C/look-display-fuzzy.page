@@ -30,6 +30,10 @@
       <name>Shobha Tyagi</name>
       <email>tyagishobha@gmail.com</email>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -43,8 +47,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui>
-      overview and start typing <gui>Displays</gui>.</p>
+      <p>Go to the <gui>desktop</gui> and start typing <gui>Settings</gui>.</p>
     </item>
     <item>
       <p>Click <gui>Displays</gui> to open the panel.</p>
