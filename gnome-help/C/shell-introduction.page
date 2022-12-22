@@ -47,20 +47,15 @@
   <title>Visual overview of the Endless OS Desktop</title>
 
   <if:choose>
-    <if:when test="!platform:endless">
-      <p>GNOME 3 features a completely reimagined user interface designed to
-      stay out of your way, minimize distractions, and help you get things done.
-      When you first log in, you will see an empty desktop and the taskbar.</p>
-    </if:when>
 
     <if:when test="platform:endless">
       <note style="tip">
         <p>Endless OS is a Linux based operating system which provides a simplified and 
-        streamlined user experience using a customized desktop environment forked from GNOME 4.</p>
+        streamlined user experience using a customized <gui>desktop</gui> environment forked from GNOME 4.</p>
       </note>
       <p>Endless OS features a completely reimagined user interface designed to
       stay out of your way, minimize distractions, and help you get things done.
-      When you first log in, you will see the desktop with the list of pre-installed 
+      When you first log in, you will see the <gui>desktop</gui> with the list of pre-installed 
       applications and the dash.</p>
     </if:when>
   </if:choose>
@@ -97,8 +92,8 @@ like "Application windows" by using if:when and if:else ? -->
   <title>Overview</title>
 
   <p if:test="!platform:gnome-classic">When you start Endless, you automatically
-  enter the Desktop. The Desktop allows you to access your windows and applications. 
-  On the Desktop, you can also just start typing to search your applications, files, 
+  enter the <gui>desktop</gui>. The <gui>desktop</gui> allows you to access your windows and applications. 
+  On the <gui>desktop</gui>, you can also just start typing to search your applications, files, 
   folders, and the web.</p>
 
   <p if:test="!platform:gnome-classic">To access the Activities overview at any time,
@@ -116,7 +111,7 @@ like "Application windows" by using if:when and if:else ? -->
   </media>
     
   <p if:test="platform:!gnome-classic, platform:endless">At the bottom of the 
-  desktop, you will find the <em>dash</em>. The dash shows you your favorite and 
+  <gui>desktop</gui>, you will find the <em>dash</em>. The dash shows you your favorite and 
   running applications. Click any icon in the dash to open that application; if 
   the application is already running, it will have a small dot below its icon. 
   Clicking its icon will bring up the most recently used window. You can also 
@@ -146,7 +141,7 @@ like "Application windows" by using if:when and if:else ? -->
   the dash even when they’re not running, so you can access them quickly.</p>
     
   <p if:test="platform:endless">There are multiple pages of applications on the
-  desktop. Click the right and left arrows by the icon grid to switch between them, or use your
+  <gui>desktop</gui>. Click the right and left arrows by the icon grid to switch between them, or use your
   mouse’s scroll wheel. The dot indicator below the icon grid shows which page is currently in view.</p>
 
   <p if:test="platform:endless">You can also switch between pages of applications by
@@ -286,7 +281,7 @@ messages will be presented, such as when your battery is critically low.</p>
   <title>Lock Screen</title>
 
   <p>When you lock your screen, or it locks automatically, the lock screen is
-  displayed. In addition to protecting your desktop while you’re away from your
+  displayed. In addition to protecting your <gui>desktop</gui> while you’re away from your
   computer, the lock screen displays the date and time. It also shows
   information about your battery and network status.</p>
 
@@ -305,7 +300,7 @@ messages will be presented, such as when your battery is critically low.</p>
 <if:choose>
   <if:when test="!platform:gnome-classic !platform:endless">
     <p>GNOME features a different approach to switching windows than a
-    permanently visible window list found in other desktop environments. This
+    permanently visible window list found in other <gui>desktop</gui> environments. This
     lets you focus on the task at hand without distractions.</p>
     <list style="compact">
       <item>

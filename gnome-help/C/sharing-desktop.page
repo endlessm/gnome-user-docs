@@ -45,7 +45,7 @@
     <p>Networks section added without explanatory details.</p>
   </comment>
 
-  <p>You can let other people view and control your desktop from another
+  <p>You can let other people view and control your <gui>desktop</gui> from another
   computer with a desktop viewing application. Configure <gui>Screen
   Sharing</gui> to allow others to access your desktop and set the security
   preferences.</p>
@@ -63,7 +63,7 @@
 
   <steps>
     <item>
-      <p>Go to the Desktop and start typing <gui>Settings</gui>.</p>
+      <p>Go to the <gui>desktop</gui> and start typing <gui>Settings</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Settings</gui>.</p>
@@ -83,12 +83,12 @@
       <p>Select <gui>Screen Sharing</gui>.</p>
     </item>
     <item>
-      <p>To let others view your desktop, switch the <gui>Screen Sharing</gui>
+      <p>To let others view your <gui>desktop</gui>, switch the <gui>Screen Sharing</gui>
       switch to on. This means that other people will be able to attempt to
       connect to your computer and view what’s on your screen.</p>
     </item>
     <item>
-      <p>To let others interact with your desktop, ensure that <gui>Allow
+      <p>To let others interact with your <gui>desktop</gui>, ensure that <gui>Allow
       connections to control the screen</gui> is checked. This may allow the
       other person to move your mouse, run applications, and browse files on
       your computer, depending on the security settings which you are currently
@@ -106,7 +106,7 @@
     <item>
       <title>New connections must ask for access</title>
       <p>If you want to be able to choose whether to allow someone to access
-      your desktop, enable <gui>New connections must ask for access</gui>.  If
+      your <gui>desktop</gui>, enable <gui>New connections must ask for access</gui>.  If
       you disable this option, you will not be asked whether you want to allow
       someone to connect to your computer.</p>
       <note style="tip">
@@ -116,8 +116,8 @@
     <item>
       <title>Require a Password</title>
       <p>To require other people to use a password when connecting to your
-      desktop, enable <gui>Require a Password</gui>. If you do not use this
-      option, anyone can attempt to view your desktop.</p>
+      <gui>desktop</gui>, enable <gui>Require a Password</gui>. If you do not use this
+      option, anyone can attempt to view your <gui>desktop</gui>.</p>
       <note style="tip">
         <p>This option is disabled by default, but you should enable it and set
         a secure password.</p>
@@ -128,7 +128,7 @@
       <title>Allow access to your desktop over the Internet</title>
       <p>If your router supports UPnP Internet Gateway Device Protocol and it
       is enabled, you can allow other people who are not on your local network
-      to view your desktop. To allow this, select <gui>Automatically configure
+      to view your <gui>desktop</gui>. To allow this, select <gui>Automatically configure
       UPnP router to open and forward ports</gui>. Alternatively, you can
       configure your router manually.</p>
       <note style="tip">
@@ -144,7 +144,7 @@
 
   <p>The <gui>Networks</gui> section lists the networks to which you are
   currently connected. Use the switch next to each to choose where your
-  desktop can be shared.</p>
+  <gui>desktop</gui> can be shared.</p>
   </section>
 
   <section id="disconnect">
@@ -154,8 +154,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Settings</gui>.</p>
+      <p>Go to the <gui>desktop</gui> and start typing <gui>Settings</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Settings</gui>.</p>

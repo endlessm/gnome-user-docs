@@ -10,6 +10,7 @@
     <revision pkgversion="3.8.0" version="0.3" date="2013-03-13" status="candidate"/>
     <revision pkgversion="3.13.92" date="2014-09-22" status="candidate"/>
     <revision pkgversion="3.38.4" date="2021-03-11" status="candidate"/>
+    <revision version="Gnome:41" date="2022-12-21" status="review"/>
 
     <credit type="author">
       <name>GNOME Documentation Project</name>
@@ -27,6 +28,10 @@
       <name>Michael Hill</name>
       <email>mdhillca@gmail.com</email>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -42,13 +47,12 @@
     to document software installation.</p>
   </comment>
 
-  <p>You can use your desktop and applications in any of dozens of languages,
+  <p>You can use your <gui>desktop</gui> and applications in any of dozens of languages,
   provided you have the proper language packs installed on your computer.</p>
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Region &amp; Language</gui>.</p>
+      <p>Go to the <gui>desktop</gui> and start typing <gui>Region &amp; Language</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Region &amp; Language</gui> to open the panel.</p>

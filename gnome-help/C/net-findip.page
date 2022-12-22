@@ -11,6 +11,7 @@
     <revision pkgversion="3.10" date="2013-10-30" status="review"/>
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
     <revision pkgversion="3.37.3" date="2020-08-05" status="final"/>
+    <revision version="Gnome:41" date="2022-12-21" status="review"/>
 
     <credit type="author">
       <name>Shaun McCance</name>
@@ -32,6 +33,10 @@
       <name>Rafael Fontenelle</name>
       <email>rafaelff@gnome.org</email>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -48,8 +53,7 @@
   <steps>
     <title>Find your wired connection’s internal (network) IP address</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Settings</gui>.</p>
+      <p>Go to the <gui>desktop</gui> and start typing <gui>Settings</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Settings</gui>.</p>
@@ -77,8 +81,7 @@
   <steps>
     <title>Find your wireless connection’s internal (network) IP address</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Settings</gui>.</p>
+      <p>Go to the <gui>desktop</gui> and start typing <gui>Settings</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Settings</gui>.</p>

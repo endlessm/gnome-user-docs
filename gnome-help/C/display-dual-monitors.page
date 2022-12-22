@@ -44,7 +44,7 @@
     <tt:tt its:translate="yes" xmlns:tt="http://www.w3.org/ns/ttml">
       <tt:body>
         <tt:div begin="1s" end="3s">
-          <tt:p>Type <input>displays</input> in the <gui>Desktop</gui> to open 
+          <tt:p>Type <input>displays</input> in the <gui>desktop</gui> to open 
           the <gui>Displays</gui> settings.</tt:p>
         </tt:div>
         <tt:div begin="3s" end="9s">
@@ -92,7 +92,7 @@
 
   <steps>
     <item>
-      <p>Go to the desktop and start typing <gui>Displays</gui>.</p>
+      <p>Go to the <gui>desktop</gui> and start typing <gui>Displays</gui>.</p>
     </item>
     <item>
       <p>Click <gui>Displays</gui> to open the panel.</p>

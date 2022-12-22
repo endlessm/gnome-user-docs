@@ -9,6 +9,7 @@
     <revision pkgversion="3.8.0" date="2013-04-23" status="review"/>
     <revision pkgversion="3.13.92" date="2014-09-22" status="review"/>
     <revision version="gnome:40" date="2021-02-24" status="review"/>
+    <revision version="Gnome:41" date="2022-12-21" status="review"/>
 
     <credit type="author">
       <name>GNOME Documentation Project</name>
@@ -17,6 +18,10 @@
     <credit type="editor">
       <name>Michael Hill</name>
       <email>mdhillca@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>

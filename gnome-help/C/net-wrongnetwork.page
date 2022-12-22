@@ -7,6 +7,8 @@
     <link type="guide" xref="net-wireless"/>
     <link type="guide" xref="net-problem"/>
     <link type="seealso" xref="net-wireless-connect"/>
+    
+    <revision version="Gnome:41" date="2022-12-21" status="review"/>
 
     <credit type="author">
       <name>Shaun McCance</name>
@@ -19,6 +21,10 @@
     <credit type="editor">
       <name>Petr Kovar</name>
       <email>pknbe@volny.cz</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -38,8 +44,7 @@
   <steps>
     <title>To forget a wireless connection:</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui>
-      overview and start typing <gui>Wi-Fi</gui>.</p>
+      <p>Go to the <gui>desktop</gui> and start typing <gui>Wi-Fi</gui>.</p>
     </item>
     <item>
       <p>Find the network that you <em>do not</em> want it to keep connecting to.</p>
