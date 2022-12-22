@@ -50,7 +50,7 @@
     instead of your password. If you remove an account, you should also revoke
     that certificate in the online service. This will ensure that no other
     application or website can connect to that service using the authorization
-    for your Desktop.</p>
+    for your desktop.</p>
 
     <p>How to revoke the authorization depends on the service provider. Check
     your settings on the provider’s website for authorized or connected apps
