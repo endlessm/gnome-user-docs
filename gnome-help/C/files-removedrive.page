@@ -45,7 +45,7 @@
   <steps>
     <title>To eject a removable device:</title>
     <item>
-      <p>From the desktop open <app>Files</app>.</p>
+      <p>From the <gui>desktop</gui> open <app>Files</app>.</p>
     </item>
     <item>
       <p>Locate the device in the sidebar. It should have a small eject icon

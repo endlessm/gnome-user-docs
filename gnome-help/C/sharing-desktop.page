@@ -67,7 +67,7 @@
 
   <steps>
     <item>
-      <p>Go to the Desktop and start typing <gui>Settings</gui>.</p>
+      <p>Go to the <gui>desktop</gui> and start typing <gui>Settings</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Sharing</gui> to open the panel.</p>
@@ -126,7 +126,7 @@
       <title>Allow access to your desktop over the Internet</title>
       <p>If your router supports UPnP Internet Gateway Device Protocol and it
       is enabled, you can allow other people who are not on your local network
-      to view your desktop. To allow this, select <gui>Automatically configure
+      to view your <gui>desktop</gui>. To allow this, select <gui>Automatically configure
       UPnP router to open and forward ports</gui>. Alternatively, you can
       configure your router manually.</p>
       <note style="tip">

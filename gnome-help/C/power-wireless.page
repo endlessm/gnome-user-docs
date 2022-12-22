@@ -11,11 +11,16 @@
     <revision pkgversion="3.33.3" date="2019-07-21" status="candidate"/>
     <revision version="gnome:40" date="2021-03-21" status="candidate"/>
     <revision version="gnome:41" date="2021-09-08" status="candidate"/>
+    <revision version="Gnome:41" date="2022-12-21" status="review"/>
 
     <credit type="author copyright">
       <name>Michael Hill</name>
       <email>mdhillca@gmail.com</email>
       <years>2016</years>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -31,8 +36,7 @@
   <steps>
 
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui>
-      overview and start typing <gui>Wi-Fi</gui> or <gui>Bluetooth</gui>, respectively.</p>
+      <p>Go to the <gui>desktop</gui> and start typing <gui>Wi-Fi</gui> or <gui>Bluetooth</gui>, respectively.</p>
     </item>
     <item>
       <p>Click <gui>Wi-Fi</gui> to open the panel, or <gui>Bluetooth</gui>, respectively.</p>

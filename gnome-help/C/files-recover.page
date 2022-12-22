@@ -38,7 +38,7 @@
   <steps>
     <title>To restore a file from the Trash:</title>
     <item>
-      <p>Go to the desktop and start typing <app>Files</app>.</p>
+      <p>Go to the <gui>desktop</gui> and start typing <app>Files</app>.</p>
     </item>
     <item>
       <p>Click on <app>Files</app> to open the file manager.</p>

@@ -10,6 +10,7 @@
     <revision pkgversion="3.10" date="2013-10-30" status="review"/>
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
     <revision pkgversion="3.36" date="2020-06-24" status="review"/>
+    <revision version="Gnome:41" date="2022-12-21" status="review"/>
 
     <credit type="author">
       <name>Phil Bull</name>
@@ -22,6 +23,10 @@
     <credit type="editor">
       <name>Ekaterina Gerasimova</name>
       <email>kittykat3756@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -38,8 +43,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <input>Default Applications</input>.</p>
+      <p>Go to the <gui>desktop</gui> and start typing <input>Default Applications</input>.</p>
     </item>
     <item>
       <p>Click on <gui>Default Applications</gui> to open the panel.</p>

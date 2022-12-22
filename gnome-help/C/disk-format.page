@@ -34,7 +34,7 @@
 <steps>
   <title>Format a removable disk</title>
   <item>
-    <p>Open <app>Disks</app> from the <gui>Desktop</gui>.</p>
+    <p>Open <app>Disks</app> from the <gui>desktop</gui>.</p>
   </item>
   <item>
     <p>Select the disk you want to wipe from the list of storage devices on the

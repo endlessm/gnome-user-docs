@@ -26,6 +26,10 @@
       <name>Ekaterina Gerasimova</name>
       <email>kittykat3756@gmail.com</email>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -35,7 +39,7 @@
 <title>Useful keyboard shortcuts</title>
 
 <p>This page provides an overview of keyboard shortcuts that can help you
-use your desktop and applications more efficiently. If you cannot use a
+use your <gui>desktop</gui> and applications more efficiently. If you cannot use a
 mouse or pointing device at all, see <link xref="keyboard-nav"/> for more
 information on navigating user interfaces with only the keyboard.</p>
 
@@ -46,7 +50,7 @@ information on navigating user interfaces with only the keyboard.</p>
       <keyseq><key>Alt</key><key>F1</key></keyseq> or the</p>
       <p><key xref="keyboard-key-super">Super</key> key
     </p></td>
-    <td><p>Switch between the <gui>Activities</gui> overview and desktop. In
+    <td><p>Switch between the <gui>Activities</gui> overview and <gui>desktop</gui>. In
     the overview, start typing to instantly search your applications, contacts,
     and documents.</p></td>
   </tr>

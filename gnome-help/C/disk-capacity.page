@@ -72,7 +72,7 @@
 
 <steps>
  <item>
-  <p>Open the <app>System Monitor</app> application from the <gui>Desktop</gui>.</p>
+  <p>Open the <app>System Monitor</app> application from the <gui>desktop</gui>.</p>
  </item>
  <item>
   <p>Select the <gui>File Systems</gui> tab to view the system’s partitions and

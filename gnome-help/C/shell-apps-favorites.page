@@ -43,9 +43,7 @@
   <p if:test="!platform:endless">
     <steps>
       <item>
-        <p if:test="!platform:gnome-classic">Open the
-        <gui xref="shell-introduction#overview">Activities</gui> overview by
-        clicking <gui>Activities</gui> at the top left of the screen</p>
+        <p if:test="!platform:gnome-classic">Go to the <gui>desktop</gui>.</p>
         <p if:test="platform:gnome-classic">Click the
         <gui xref="shell-introduction#activities">Applications</gui> menu at the
         top left of the screen and choose the <gui>Activities Overview</gui> item
@@ -62,7 +60,7 @@
     </steps>
   </p>
   <p if:test="platform:endless">
-    On the Desktop right-click the application icon and select <gui>Add to
+    On the <gui>desktop</gui> right-click the application icon and select <gui>Add to
     Favorites</gui>.
   </p>
 
