@@ -44,7 +44,7 @@
     <gui>Activities</gui> overview.</desc>
   </info>
 
-  <title>Visual overview of the Endless OS Desktop</title>
+  <title id="desktop">Visual overview of the Endless OS Desktop</title>
 
   <if:choose>
 
