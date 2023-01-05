@@ -100,7 +100,7 @@ like "Application windows" by using if:when and if:else ? -->
   the top-left hot corner. You can also press the
   <key xref="keyboard-key-super">Super</key> key on your keyboard.</p>
 
-  <p if:test="platform:!gnome-classic, !platform:endless">To access your windows and applications,
+  <p if:test="platform:gnome-classic">To access your windows and applications,
   click the button at the bottom left of the screen in the window list. You can
   also press the <key xref="keyboard-key-super">Super</key> key to see an
   overview with live thumbnails of all the windows on the current workspace.</p>
