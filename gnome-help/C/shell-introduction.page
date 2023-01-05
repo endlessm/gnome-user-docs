@@ -50,8 +50,7 @@
 
     <if:when test="platform:endless">
       <note style="tip">
-        <p>Endless OS is a Linux based operating system which provides a simplified and 
-        streamlined user experience using a customized <gui>desktop</gui> environment forked from GNOME 4.</p>
+        <p>The Endless OS desktop is a customized version of a desktop called “GNOME”. You will see the terms “Endless OS” and “GNOME” used interchangeably in this documentation.</p>
       </note>
       <p>Endless OS features a completely reimagined user interface designed to
       stay out of your way, minimize distractions, and help you get things done.
