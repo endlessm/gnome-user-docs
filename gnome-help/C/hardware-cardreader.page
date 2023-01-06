@@ -45,7 +45,7 @@ do not force it.)</p>
 </item>
 
 <item>
-  <p>Open <app>Files</app> from the <gui>desktop</gui>. Does the inserted card appear in the left 
+  <p>Open <app>Files</app> from the desktop. Does the inserted card appear in the left 
   sidebar? Sometimes the card appears in this list but is not mounted; click it once to mount. 
   (If the sidebar is not visible, press <key>F9</key> or click <gui style="menu">Files</gui> in the 
   top bar and select the <gui style="menuitem">Sidebar</gui>.)</p>

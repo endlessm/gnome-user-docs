@@ -39,10 +39,10 @@
 
   <steps>
     <item>
-      <p>On the <gui>desktop</gui>, start typing the name of the contact.</p>
+      <p>On the desktop, start typing the name of the contact.</p>
     </item>
     <item>
-      <p>Matching contacts will appear in the <gui>desktop</gui> instead of the usual list
+      <p>Matching contacts will appear in the desktop instead of the usual list
       of applications.</p>
     </item>
     <item>

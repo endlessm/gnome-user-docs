@@ -46,7 +46,7 @@
  <title>Check your disk’s health using the Disks application</title>
 
   <item>
-    <p>Open <app>Disks</app> from the <gui>desktop</gui>.</p>
+    <p>Open <app>Disks</app> from the desktop.</p>
   </item>
   <item>
     <p>Select the disk you want to check from the list of storage devices on

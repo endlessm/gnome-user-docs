@@ -35,7 +35,7 @@
 <steps>
   <title>Check if a filesystem is damaged</title>
   <item>
-    <p>Open <app>Disks</app> from the <gui>desktop</gui>.</p>
+    <p>Open <app>Disks</app> from the desktop.</p>
   </item>
   <item>
     <p>Select the disk containing the filesystem in question from the list of
@@ -78,7 +78,7 @@
 <steps>
   <title>Repair a filesystem</title>
   <item>
-    <p>Open <app>Disks</app> from the <gui>desktop</gui>.</p>
+    <p>Open <app>Disks</app> from the desktop.</p>
   </item>
   <item>
     <p>Select the disk containing the filesystem in question from the list
