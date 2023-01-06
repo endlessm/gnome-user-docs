@@ -8,6 +8,7 @@
     <revision pkgversion="3.6.1" date="2012-11-10" status="review"/>
     <revision pkgversion="3.13.92" date="2014-09-22" status="review"/>
     <revision pkgversion="3.14.0" date="2015-01-14" status="review"/>
+    <revision version="Gnome:41" date="2022-12-21" status="review"/>
 
     <credit type="author copyright">
       <name>Tiffany Antopolski</name>
@@ -27,6 +28,10 @@
       <name>David King</name>
       <email>amigadave@amigadave.com</email>
       <years>2015</years>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -48,8 +53,7 @@
 
   <steps>
     <item>
-      <p>Open <app>Screenshot</app> from the
-      <gui xref="shell-introduction#activities">Activities</gui> overview.</p>
+      <p>Open <app>Screenshot</app> from the desktop.</p>
     </item>
     <item>
       <p>In the <app>Screenshot</app> window, select whether to grab the whole

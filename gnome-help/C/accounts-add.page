@@ -10,6 +10,7 @@
     <revision pkgversion="3.13.92" date="2013-09-20" status="candidate"/>
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
     <revision pkgversion="3.33.3" date="2019-07-21" status="final"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <credit type="author">
       <name>Jim Campbell</name>
@@ -34,6 +35,10 @@
       <email>kleinkravis44@outlook.com</email>
       <years>2020</years>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -43,14 +48,13 @@
 
   <title>Add an account</title>
 
-  <p>Adding an account will help link your online accounts with your
-desktop. Thus, your email client, calendar and other related
-  applications will be set up for you.</p>
+  <p>Adding an account will help link your online accounts with your desktop. 
+  Thus, your email client, calendar and other related applications will be set 
+  up for you.</p>
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Online Accounts</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Online Accounts</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Online Accounts</gui> to open the panel.</p>
@@ -84,7 +88,7 @@ desktop. Thus, your email client, calendar and other related
   for information on controlling which services to allow.</p>
 
   <note style="tip">
-    <p>Many online services provide an authorization token which GNOME stores
+    <p>Many online services provide an authorization token which Endless OS stores
     instead of your password. If you remove an account, you should also revoke
     that certificate in the online service. See <link xref="accounts-remove"/>
     for more information.</p>

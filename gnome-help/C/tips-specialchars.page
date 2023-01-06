@@ -11,6 +11,7 @@
     <revision pkgversion="3.10" date="2013-11-01" status="review"/>
     <revision pkgversion="3.26" date="2017-11-27" status="review"/>
     <revision version="gnome:40" date="2021-03-02" status="review"/>
+    <revision version="gnome:41" date="2022-12-19" status="review"/>
 
     <credit type="author">
       <name>Shaun McCance</name>
@@ -27,6 +28,10 @@
     <credit type="editor">
       <name>Andre Klapper</name>
       <email>ak-47@gmx.net</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -50,7 +55,7 @@
     characters, including emoji, by browsing character categories or searching
     for keywords.</p>
 
-    <p>You can launch <app>Characters</app> from the Activities overview.</p>
+    <p>You can launch <app>Characters</app> from the desktop.</p>
 
   </section>
 
@@ -71,7 +76,7 @@
     </steps>
   </section>
 
-  <section id="compose">
+<section id="compose">
     <title>Compose key</title>
     <p>A compose key is a special key that allows you to press multiple keys
     in a row to get a special character. For example, to type the accented
@@ -83,8 +88,7 @@
     <steps>
       <title>Define a compose key</title>
       <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Settings</gui>.</p>
+      <p>Open the dekstop and start typing <gui>Settings</gui>.</p>
       </item>
       <item>
         <p>Click on <gui>Settings</gui>.</p>

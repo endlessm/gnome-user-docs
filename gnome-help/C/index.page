@@ -4,16 +4,16 @@
       type="guide" id="index">
 
 <info>
-    <desc>A guide for GNOME desktop users.</desc>
+    <desc>A guide for Endless OS Desktop users.</desc>
 
-    <title type='link'>GNOME Help</title>
-    <title type='text'>GNOME Help</title>
+    <title type='link'>Endless OS Desktop</title>
+    <title type='text'>Endless OS Desktop</title>
     <title role="trail" type="link">Help</title>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 </info>
 
-<title>GNOME Help</title>
+<title>Endless OS Desktop Help</title>
 
 <links type="topic" groups="gs"/>
 

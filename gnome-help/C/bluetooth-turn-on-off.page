@@ -12,6 +12,7 @@
     <revision pkgversion="3.13" date="2014-09-21" status="candidate"/>
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
     <revision pkgversion="3.33.3" date="2019-07-19" status="candidate"/>
+    <revision version="Gnome:41" date="2022-12-16" status="review"/>
 
     <credit type="author">
       <name>Jim Campbell</name>
@@ -36,6 +37,11 @@
       <email>amigadave@amigadave.com</email>
       <years>2015</years>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+      <years>2022</years>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -57,8 +63,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Bluetooth</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Bluetooth</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Bluetooth</gui> to open the panel.</p>

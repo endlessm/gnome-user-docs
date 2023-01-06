@@ -13,6 +13,7 @@
     <revision pkgversion="3.28" date="2018-07-19" status="review"/>
     <revision pkgversion="3.33" date="2019-07-19" status="candidate"/>
     <revision pkgversion="3.34" date="2019-11-12" status="review"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <credit type="author">
       <name>GNOME Documentation Project</name>
@@ -33,6 +34,10 @@
     <credit type="editor">
       <name>Ekaterina Gerasimova</name>
       <email>kittykat3756@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -55,8 +60,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Displays</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Displays</gui>.</p>
     </item>
     <item>
       <p>Click <gui>Displays</gui> to open the panel.</p>

@@ -34,8 +34,7 @@
 
   <list>
     <item>
-      <p>Open <app>Files</app> from the
-      <gui xref="shell-introduction#activities">Activities</gui> overview.</p>
+      <p>Open <app>Files</app> from the desktop.</p>
     </item>
     <item>
       <p>Right-click on the video file and select <gui>Properties</gui>.</p>

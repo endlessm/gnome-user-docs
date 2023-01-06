@@ -11,6 +11,7 @@
     <revision pkgversion="3.13.92" date="2014-09-20" status="review"/>
     <revision pkgversion="3.18" date="2015-09-28" status="review"/>
     <revision pkgversion="3.38" date="2020-10-16" status="review"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <credit type="author">
       <name>Tiffany Antopolski</name>
@@ -31,6 +32,10 @@
     <credit type="editor">
       <name>David King</name>
       <email>amigadave@amigadave.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -53,10 +58,9 @@ your computer. You can also use it to manage files on storage devices (like
 external hard disks), on <link xref="nautilus-connect">file servers</link>, and
 on network shares.</p>
 
-<p>To start the file manager, open <app>Files</app> in the
-<gui xref="shell-introduction#activities">Activities</gui> overview. You can also search
-for files and folders through the overview in the same way you would
-<link xref="shell-apps-open">search for applications</link>.
+<p>To start the file manager, open <app>Files</app> in the desktop. 
+You can also search for files and folders through the desktop in the 
+same way you would <link xref="shell-apps-open">search for applications</link>.
 </p>
 
 <section id="files-view-folder-contents">

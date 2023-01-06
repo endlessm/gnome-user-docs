@@ -15,6 +15,7 @@
     <revision pkgversion="3.33.3" date="2019-07-21" status="final"/>
     <revision pkgversion="3.38.1" date="2020-11-22" status="final"/>
     <revision pkgversion="3.38.4" date="2020-03-07" status="final"/>
+    <revision version="Gnome:41" date="2022-12-21" status="review"/>
 
     <credit type="author">
       <name>Shaun McCance</name>
@@ -28,6 +29,10 @@
       <name>Jim Campbell</name>
       <email>jwcampbell@gmail.com</email>
       <years>2013</years>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -53,8 +58,7 @@
     <title>To set the length of time before your screen locks
     automatically:</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Screen Lock</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Screen Lock</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Screen Lock</gui> to open the panel.</p>

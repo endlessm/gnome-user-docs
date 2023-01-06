@@ -11,6 +11,7 @@
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
     <revision pkgversion="3.24" date="2017-03-26" status="final"/>
     <revision pkgversion="3.33" date="2019-07-17" status="candidate"/>
+    <revision version="Gnome:41" date="2022-12-16" status="review"/>
 
     <credit type="author">
       <name>GNOME Documentation Project</name>
@@ -25,6 +26,10 @@
       <name>Ekaterina Gerasimova</name>
       <email>kittykat3756@gmail.com</email>
       <years>2015</years>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <desc>Open Network Settings and switch Airplane Mode to on.</desc>
@@ -47,8 +52,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Wi-Fi</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Wi-Fi</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Wi-Fi</gui> to open the panel.</p>

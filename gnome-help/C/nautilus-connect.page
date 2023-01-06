@@ -10,6 +10,7 @@
     <revision pkgversion="3.12" date="2014-03-23" status="candidate"/>
     <revision pkgversion="3.14" date="2014-10-12" status="candidate"/>
     <revision pkgversion="3.18" date="2015-09-29" status="candidate"/>
+    <revision version="Gnome:41" date="2022-12-21" status="review"/>
 
     <credit type="author">
       <name>Shaun McCance</name>
@@ -22,6 +23,10 @@
     <credit type="editor">
       <name>David King</name>
       <email>amigadave@amigadave.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -48,7 +53,7 @@ files on the internet, or to share files with other people on
 your local network.</p>
 
 <p>To browse files over the network, open the <app>Files</app>
-application from the <gui>Activities</gui> overview, and click
+application from the desktop, and click
 <gui>Other Locations</gui> in the sidebar. The file manager
 will find any computers on your local area network that advertise
 their ability to serve files. If you want to connect to a server

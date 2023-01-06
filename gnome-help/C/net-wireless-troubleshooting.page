@@ -10,6 +10,7 @@
 
     <revision pkgversion="3.10" date="2013-11-10" status="review"/>
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
+    <revision version="Gnome:41" date="2022-12-21" status="review"/>
 
     <credit type="author">
       <name>Contributors to the Ubuntu documentation wiki</name>
@@ -17,6 +18,10 @@
     <credit type="author">
       <name>GNOME Documentation Project</name>
       <email>gnome-doc-list@gnome.org</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -58,8 +63,8 @@
   <note>
     <title>Using the command line</title>
     <p>Some of the instructions in this guide ask you to type commands into the
-    <em>command line</em> (Terminal). You can find the <app>Terminal</app> application in
-    the <gui>Activities</gui> overview.</p>
+    <em>command line</em> (Terminal). You can find the <app>Terminal</app> application on
+    the desktop.</p>
     <p>If you are not familiar with using a command line, don’t worry — this
     guide will direct you at each step. All you need to remember is that
     commands are case-sensitive (so you must type them <em>exactly</em> as they

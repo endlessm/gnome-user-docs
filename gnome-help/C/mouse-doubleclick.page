@@ -12,6 +12,7 @@
     <revision pkgversion="3.20" date="20156-06-15" status="final"/>
     <revision pkgversion="3.29" date="2018-08-20" status="review"/>
     <revision pkgversion="3.33" date="2019-07-20" status="candidate"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <credit type="author">
       <name>Phil Bull</name>
@@ -29,6 +30,10 @@
       <name>Shobha Tyagi</name>
       <email>tyagishobha@gmail.com</email>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -45,8 +50,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Accessibility</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Accessibility</gui>.</p>
     </item>
     <item>
       <p>Click <gui>Accessibility</gui> to open the panel.</p>

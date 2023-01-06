@@ -27,7 +27,8 @@
 
   <steps>
     <item>
-      <p>Click your name on the top bar and select <gui>Settings</gui>.</p>
+      <p>Open the <gui>system menu</gui> on the right side of the top bar and 
+      select <gui>Settings</gui>.</p>
     </item>
     <item>
       <p>Open <gui>Mouse &amp; Touchpad</gui> and select the <gui>Mouse</gui>

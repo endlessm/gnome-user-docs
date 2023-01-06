@@ -11,11 +11,16 @@
     <revision pkgversion="3.13.92" date="2014-09-22" status="review" />
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
     <revision pkgversion="3.33.3" date="2019-07-21" status="final"/>
+    <revision version="Gnome:41" date="2022-12-21" status="review"/>
 
     <credit type="author copyright">
       <name>Ekaterina Gerasimova</name>
       <email>kittykat3756@gmail.com</email>
       <years>2013</years>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -30,8 +35,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Users</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Users</gui>.</p>
     </item>
     <item>
       <p>Click <gui>Users</gui> to open the panel.</p>

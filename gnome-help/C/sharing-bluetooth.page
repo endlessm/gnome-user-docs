@@ -13,6 +13,7 @@
     <revision pkgversion="3.12" date="2014-03-08" status="candidate"/>
     <revision pkgversion="3.14" date="2014-10-13" status="candidate"/>
     <revision pkgversion="3.18" date="2015-09-29" status="final"/>
+    <revision version="Gnome:41" date="2022-12-21" status="review"/>
 
     <credit type="author">
       <name>Michael Hill</name>
@@ -23,6 +24,10 @@
       <name>David King</name>
       <email>davidk@gnome.org</email>
       <years>2014-2015</years>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -38,8 +43,7 @@
   <steps>
     <title>Allow files to be shared into your <file>Downloads</file> folder</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Bluetooth</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Bluetooth</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Bluetooth</gui> to open the panel.</p>
