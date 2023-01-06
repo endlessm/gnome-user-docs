@@ -65,9 +65,11 @@
       type in your password when prompted.</p>
     </item>
     <item>
-      <p>Select the user that you want to delete and press the
-      <gui style="button">Remove User...</gui> button, above the list of accounts on the
-      right, to delete that user account.</p>
+      <p>Select the user that you want to delete.</p>
+    </item>
+    <item>
+      <p>Scroll to the bottom of the window and press the 
+      <gui style="button">Remove User...</gui> button to delete that user account.</p>
     </item>
     <item>
       <p>Each user has their own home folder for their files and settings. You
