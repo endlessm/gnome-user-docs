@@ -54,7 +54,7 @@
   <steps>
     <title>Select a default audio input device</title>
     <item>
-      <p>Go to the <gui>desktop</gui> and start typing <gui>Sound</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Sound</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Sound</gui> to open the panel.</p>

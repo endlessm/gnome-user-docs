@@ -60,7 +60,7 @@
     <title>Search</title>
     <item>
       <p>Open the <app>Files</app> application from the 
-      <gui>desktop</gui>.</p>
+      desktop.</p>
     </item>
     <item>
       <p>If you know the files you want are under a particular folder, go to
@@ -125,7 +125,7 @@ searched:</p>
 
   <steps>
     <item>
-      <p>Go to the <gui>desktop</gui> and start typing <gui>Search</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Search</gui>.</p>
     </item>
     <item>
       <p>Select <guiseq><gui>Settings</gui><gui>Search</gui></guiseq> from the

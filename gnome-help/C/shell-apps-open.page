@@ -30,7 +30,7 @@
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
-    <desc>Launch apps from the <gui>Desktop</gui>.</desc>
+    <desc>Launch apps from the desktop.</desc>
   </info>
 
   <title>Start applications</title>
@@ -43,16 +43,16 @@ to overview in list item below, not just workspace thumbnail.) Right-click
 icon to choose a window to focus or get new window. Mention middle-click?</p>
 </comment>
 
-  <p if:test="!platform:gnome-classic">If you are not on the <gui>desktop</gui>, select 
+  <p if:test="!platform:gnome-classic">If you are not on the desktop, select 
   the <gui>Applications</gui> button on the left side of the top bar to return 
-  to the <gui>desktop</gui>. This is where you can find all of your applications. You can 
+  to the desktop. This is where you can find all of your applications. You can 
   also open the desktop by pressing the <key xref="keyboard-key-super">Super</key> + 
   <key>A</key> keys. To open the activities overview press the 
   <key xref="keyboard-key-super">Super</key> key.</p>
   
   <p if:test="platform:gnome-classic">You can start applications from the
   <gui xref="shell-introduction#activities">Applications</gui> menu at the top
-  left of the screen, or you can use the <gui>desktop</gui> by pressing the 
+  left of the screen, or you can use the desktop by pressing the 
   <key xref="keyboard-key-super">Super</key> key.</p>
 
   <p>There are several ways of opening an application once you’re on the Dekstop</p>
@@ -74,7 +74,7 @@ icon to choose a window to focus or get new window. Mention middle-click?</p>
     </item>
     <item>
       <p>Click the grid button (which has nine dots) in the dash.
-      You will see the first page of the <gui>desktop</gui>. To see more applications, 
+      You will see the first page of the desktop. To see more applications, 
       press the dots at the bottom, above the dash, to view other applications 
       or move your mouse cursor to the right-most side of the screen and select 
       the arrow button that appears. Press on the application to start it.</p>
