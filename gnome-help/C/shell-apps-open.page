@@ -46,8 +46,9 @@ icon to choose a window to focus or get new window. Mention middle-click?</p>
   <p if:test="!platform:gnome-classic">If you are not on the <gui>desktop</gui>, select 
   the <gui>Applications</gui> button on the left side of the top bar to return 
   to the <gui>desktop</gui>. This is where you can find all of your applications. You can 
-  also open the <gui>desktop</gui> by pressing the <key xref="keyboard-key-super">Super</key> 
-  key.</p>
+  also open the desktop by pressing the <key xref="keyboard-key-super">Super</key> + 
+  <key>A</key> keys. To open the activities overview press the 
+  <key xref="keyboard-key-super">Super</key> key.</p>
   
   <p if:test="platform:gnome-classic">You can start applications from the
   <gui xref="shell-introduction#activities">Applications</gui> menu at the top

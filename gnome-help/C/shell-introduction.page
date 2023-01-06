@@ -101,7 +101,7 @@ like "Application windows" by using if:when and if:else ? -->
   <key xref="keyboard-key-super">Super</key> key on your keyboard.</p>
 
   <p if:test="platform:gnome-classic">To access your windows and applications,
-  click the button at the bottom left of the screen in the window list. You can
+  click the button at the bottom left of the screen in the dash. You can
   also press the <key xref="keyboard-key-super">Super</key> key to see an
   overview with live thumbnails of all the windows on the current workspace.</p>
 
@@ -228,28 +228,28 @@ like "Application windows" by using if:when and if:else ? -->
 
 </section>
 
-<section id="usermenu">
-  <title>User menu</title>
+<section id="systemmenu">
+  <title>System menu</title>
 
 <if:choose>
   <if:when test="!platform:gnome-classic !platform:endless">
     <media type="image" src="figures/shell-exit.png" width="250" style="floatend floatright" if:test="!target:mobile">
-      <p>User menu</p>
+      <p>System menu</p>
     </media>
   </if:when>
   <if:when test="platform:gnome-classic">
     <media type="image" src="figures/shell-exit-classic.png" width="250" style="floatend floatright" if:test="!target:mobile">
-      <p>User menu</p>
+      <p>System menu</p>
     </media>
   </if:when>
   <if:when test="platform:endless">
     <media type="image" src="figures/shell-exit-endless.png" width="250" style="floatend floatright" if:test="!target:mobile">
-      <p>User menu</p>
+      <p>System menu</p>
     </media>
   </if:when>
 </if:choose>
 
-  <p>Click the User menu in the top-right corner to manage your system
+  <p>Click the System menu in the top-right corner to manage your system
   settings and your computer.</p>
 
   <p>When you leave your computer, you can lock your screen to prevent other
@@ -286,12 +286,12 @@ like "Application windows" by using if:when and if:else ? -->
 </section>
 
 <section id="window-list">
-  <title>Window List</title>
+  <title>Dash</title>
 
 <if:choose>
   <if:when test="!platform:gnome-classic !platform:endless">
     <p>GNOME features a different approach to switching windows than a
-    permanently visible window list found in other <gui>desktop</gui> environments. This
+    permanently visible dash found in other <gui>desktop</gui> environments. This
     lets you focus on the task at hand without distractions.</p>
     <list style="compact">
       <item>
@@ -302,20 +302,19 @@ like "Application windows" by using if:when and if:else ? -->
   </if:when>
   <if:when test="platform:gnome-classic">
     <media type="image" src="figures/shell-window-list-classic.png" width="800" if:test="!target:mobile">
-      <p>Window List</p>
+      <p>Dash</p>
     </media>
     <p>The window list at the bottom of the screen provides access to all your
     open windows and applications and lets you quickly minimize and restore
     them.</p>
-    <p>At the right-hand side of the window list, GNOME displays the four
-    workspaces. To switch to a different workspace, select the workspace you
-    want to use.</p>
+    <p>On the top of the dash, GNOME displays the four workspaces. To switch to a different workspace, 
+    select the workspace you want to use.</p>
   </if:when>
   <if:when test="platform:endless">
     <media type="image" src="figures/shell-window-list-endless.png" width="400" if:test="!target:mobile">
-      <p>Window List</p>
+      <p>Dash</p>
     </media>
-    <p>The window list at the bottom of the screen provides access to all your
+    <p>The dash at the bottom of the screen provides access to all your
     open windows and applications and lets you quickly minimize and restore
     them.</p>
   </if:when>
