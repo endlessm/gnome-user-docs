@@ -90,7 +90,7 @@ like "Application windows" by using if:when and if:else ? -->
 <section id="activities">
   <title>Overview</title>
 
-  <p if:test="!platform:gnome-classic">When you start Endless, you automatically
+  <p if:test="!platform:gnome-classic">When you start Endless OS, you automatically
   enter the <gui>desktop</gui>. The <gui>desktop</gui> allows you to access your windows and applications. 
   On the <gui>desktop</gui>, you can also just start typing to search your applications, files, 
   folders, and the web.</p>
