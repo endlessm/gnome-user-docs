@@ -68,7 +68,6 @@
     <p>On a touchscreen, drag up from the bottom edge to bring up the
     <link xref="keyboard-osk">on-screen keyboard</link>, if the on-screen keyboard is enabled.</p></td>
   </tr>
-  </tr>
   <tr xml:id="systemmenu">
     <td><p><media type="image" src="figures/right-edge-drag-down.svg" width="256" its:translate="no"/></p></td>
     <td><p><em>Bring down the system menu</em></p>
