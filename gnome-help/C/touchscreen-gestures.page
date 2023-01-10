@@ -69,7 +69,7 @@
     <link xref="keyboard-osk">on-screen keyboard</link>, if the on-screen keyboard is enabled.</p></td>
   </tr>
   <tr xml:id="systemmenu">
-    <td><p><media type="image" src="figures/right-edge-drag-down.svg" width="256" its:translate="no"/></p></td>
+    <td><p><media type="image" src="figures/system-settings-menu-endless.png" width="256" its:translate="no"/></p></td>
     <td><p><em>Bring down the system menu</em></p>
     <p>Slide down from the top right edge.</p></td>
   </tr>
