@@ -53,7 +53,7 @@ HELP_MEDIA = \
 	figures/edit-find-symbolic.svg \
 	figures/emblem-system-symbolic.svg \
 	figures/emoji-flags-symbolic.svg \
-    figures/endless-desktop.png \
+	figures/endless-desktop.png \
 	figures/gnome.svg \
 	figures/go-down-symbolic.svg \
 	figures/input-keyboard-symbolic.png \
