@@ -33,8 +33,7 @@
   <title>Read screen in Braille</title>
 
   <p>The <app>Orca</app> screen reader can display the user interface on a
-  refreshable Braille display. Depending on how you installed your system, you
-  might not have Orca installed. If not, install Orca first.</p>
+  refreshable Braille display.</p>
 
   <p>Refer to the <link href="help:orca">Orca Help</link> for
   more information.</p>
