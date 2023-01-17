@@ -32,8 +32,8 @@
 <title>Media card reader problems</title>
 
 <p>Many computers contain readers for SD, MMC, SM, MS, CF, and other storage media
-cards. These should be automatically detected and <link xref="disk-partitions">mounted</link>. 
-Here are some troubleshooting steps if they are not:</p>
+cards. These should be automatically detected and <link xref="disk-partitions">mounted</link>. Here are some
+troubleshooting steps if they are not:</p>
 
 <steps>
 <item>
@@ -45,9 +45,9 @@ do not force it.)</p>
 </item>
 
 <item>
-  <p>Open <app>Files</app> from the desktop. Does the inserted card appear in the left 
-  sidebar? Sometimes the card appears in this list but is not mounted; click it once to mount. 
-  (If the sidebar is not visible, press <key>F9</key> or click <gui style="menu">Files</gui> in the 
+  <p>Open <app>Files</app> from the desktop. Does the inserted card appear in the left
+  sidebar? Sometimes the card appears in this list but is not mounted; click it once to mount.
+  (If the sidebar is not visible, press <key>F9</key> or click <gui style="menu">Files</gui> in the
   top bar and select the <gui style="menuitem">Sidebar</gui>.)</p>
 </item>
 
