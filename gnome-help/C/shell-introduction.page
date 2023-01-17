@@ -54,7 +54,7 @@
       </note>
       <p>Endless OS features a completely reimagined user interface designed to
       stay out of your way, minimize distractions, and help you get things done.
-      When you first log in, you will see the desktop with the list of pre-installed 
+      When you first log in, you will see the desktop with the list of pre-installed
       applications and the dash.</p>
     </if:when>
   </if:choose>
@@ -78,7 +78,7 @@
   and power. In the system menu in the top bar, you can change the volume or
   screen brightness, edit your <gui>Wi-Fi</gui> connection details, check your
   battery status, log out or switch users, and turn off your computer.</p>
-    
+
   <p>If you have a screen that supports vertical or horizontal rotation, you can also
   quickly rotate the screen from the system menu. If your screen does not support rotation,
   you will not see the button.</p>
@@ -91,8 +91,8 @@ like "Application windows" by using if:when and if:else ? -->
   <title>Overview</title>
 
   <p if:test="!platform:gnome-classic">When you start Endless OS, you automatically
-  enter the desktop. The desktop allows you to access your windows and applications. 
-  On the desktop, you can also just start typing to search your applications, files, 
+  enter the desktop. The desktop allows you to access your windows and applications.
+  On the desktop, you can also just start typing to search your applications, files,
   folders, and the web.</p>
 
   <p if:test="!platform:gnome-classic">To access the Activities overview at any time,
@@ -108,37 +108,37 @@ like "Application windows" by using if:when and if:else ? -->
   <media type="image" src="figures/shell-top-bar-endless.png" width="800" if:test="!target:mobile, !platform:gnome-classic">
     <p>Activities button and Dash</p>
   </media>
-    
-  <p if:test="platform:!gnome-classic, platform:endless">At the bottom of the 
-  desktop, you will find the <em>dash</em>. The dash shows you your favorite and 
-  running applications. Click any icon in the dash to open that application; if 
-  the application is already running, it will have a small dot below its icon. 
-  Clicking its icon will bring up the most recently used window. You can also 
+
+  <p if:test="platform:!gnome-classic, platform:endless">At the bottom of the
+  desktop, you will find the <em>dash</em>. The dash shows you your favorite and
+  running applications. Click any icon in the dash to open that application; if
+  the application is already running, it will have a small dot below its icon.
+  Clicking its icon will bring up the most recently used window. You can also
   drag the icon onto a workspace.</p>
 
-  <p if:test="platform:!gnome-classic, platform:endless">Right-clicking the 
-  icon displays a menu that allows you to pick any window in a running 
+  <p if:test="platform:!gnome-classic, platform:endless">Right-clicking the
+  icon displays a menu that allows you to pick any window in a running
   application, or to open a new window. You can also click the
   icon while holding down <key>Ctrl</key> to open a new window.</p>
-    
-  <p if:test="platform:!gnome-classic, platform:endless">Right-clicking the 
-  icon displays a menu that allows you to add/remove the application to/from 
-  your favorites or in case the application is already running the menu 
+
+  <p if:test="platform:!gnome-classic, platform:endless">Right-clicking the
+  icon displays a menu that allows you to add/remove the application to/from
+  your favorites or in case the application is already running the menu
   displays an option to quit the application.</p>
 
-  <p if:test="platform:!gnome-classic, platform:endless">When you enter select 
-  the Activities button in the top left, you will initially see the windows overview. 
+  <p if:test="platform:!gnome-classic, platform:endless">When you enter select
+  the Activities button in the top left, you will initially see the windows overview.
   This shows you live thumbnails of all the windows on the current workspace.</p>
-    
+
   <media type="image" src="figures/shell-favorites-endless.png" heigth="50" if:test="!target:mobile, !platform:gnome-classic">
     <p>Activities button and Dash</p>
   </media>
-    
-  <p if:test="platform:!gnome-classic, platform:endless">Click the grid button (which has nine dots) in the 
-  dash to display the windows overview. This shows you all the applications currently open in the workspace. 
-  You can also drag an application onto the dash to make it a favorite. Your favorite applications stay in 
+
+  <p if:test="platform:!gnome-classic, platform:endless">Click the grid button (which has nine dots) in the
+  dash to display the windows overview. This shows you all the applications currently open in the workspace.
+  You can also drag an application onto the dash to make it a favorite. Your favorite applications stay in
   the dash even when they’re not running, so you can access them quickly.</p>
-    
+
   <p if:test="platform:endless">There are multiple pages of applications on the
   desktop. Click the right and left arrows by the icon grid to switch between them, or use your
   mouse’s scroll wheel. The dot indicator below the icon grid shows which page is currently in view.</p>
@@ -263,9 +263,9 @@ messages will be presented, such as when your battery is critically low.</p>
   <p>When you leave your computer, you can lock your screen to prevent other
   people from using it. You can also quickly switch users without logging out
   completely to give somebody else access to the computer, or you can
-  suspend or power off the computer from the menu. If you have a screen 
-  that supports vertical or horizontal rotation, you can quickly rotate the 
-  screen from the system menu. If your screen does not support rotation, 
+  suspend or power off the computer from the menu. If you have a screen
+  that supports vertical or horizontal rotation, you can quickly rotate the
+  screen from the system menu. If your screen does not support rotation,
   you will not see the button.</p>
 
   <list style="compact">
@@ -315,7 +315,7 @@ messages will be presented, such as when your battery is critically low.</p>
     <p>The window list at the bottom of the screen provides access to all your
     open windows and applications and lets you quickly minimize and restore
     them.</p>
-    <p>On the top of the dash, GNOME displays the four workspaces. To switch to a different workspace, 
+    <p>On the top of the dash, GNOME displays the four workspaces. To switch to a different workspace,
     select the workspace you want to use.</p>
   </if:when>
   <if:when test="platform:endless">
