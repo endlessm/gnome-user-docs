@@ -44,7 +44,7 @@
     <tt:tt its:translate="yes" xmlns:tt="http://www.w3.org/ns/ttml">
       <tt:body>
         <tt:div begin="1s" end="3s">
-          <tt:p>Type <input>displays</input> in the desktop to open 
+          <tt:p>Type <input>displays</input> in the desktop to open
           the <gui>Displays</gui> settings.</tt:p>
         </tt:div>
         <tt:div begin="3s" end="9s">

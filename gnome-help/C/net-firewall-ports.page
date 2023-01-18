@@ -27,8 +27,8 @@
   <title>Commonly-used network ports</title>
 
   <p>This is a list of network ports commonly used by applications that provide
-   network services, like file sharing or remote desktop viewing. There are thousands 
-   of ports in use, so this table isn’t complete.</p>
+  network services, like file sharing or remote desktop viewing. There are thousands
+  of ports in use, so this table isn’t complete.</p>
 
   <table shade="rows" frame="top">
     <thead>
