@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2023-01-19 17:02+0000\n"
+"POT-Creation-Date: 2023-01-24 15:36+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Hannie Dumoleyn <hannie@ubuntu-nl.org>, 2017-2018\n"
 "Language-Team: Dutch (http://www.transifex.com/endless-os/gnome-user-docs/language/nl/)\n"
@@ -18047,9 +18047,9 @@ msgstr ""
 #. (itstool) path: section/p
 #: C/shell-introduction.page:129
 msgid ""
-"When you enter select the Activities button in the top left, you will "
-"initially see the windows overview. This shows you live thumbnails of all "
-"the windows on the current workspace."
+"When you click on the Activities button in the top left, you will initially "
+"see the windows overview. This shows you live thumbnails of all the windows "
+"on the current workspace."
 msgstr ""
 
 #. (itstool) path: section/media
@@ -20440,7 +20440,7 @@ msgstr "Een samensteltoets definiëren"
 
 #. (itstool) path: item/p
 #: C/tips-specialchars.page:91
-msgid "Open the dekstop and start typing <gui>Settings</gui>."
+msgid "Open the desktop and start typing <gui>Settings</gui>."
 msgstr ""
 
 #. (itstool) path: item/p
