@@ -10,6 +10,7 @@
 # Francisco Molinero <paco@byasl.com>, 2011
 # goizueta <goizueta@endlessm.com>, 2014
 # goizueta <goizueta@endlessm.com>, 2014
+# João Paulo Rechi Vita, 2023
 # Joaquín Ignacio Aramendía <samsagax@gmail.com>, 2011
 # Joel Gil León <joel@endlessm.com>, 2014-2015
 # Jorge González <jorgegonz@svn.gnome.org>, 2011
@@ -24,9 +25,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2023-01-19 17:02+0000\n"
+"POT-Creation-Date: 2023-01-19 22:34+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
-"Last-Translator: Daniel Mustieles García <daniel.mustieles@gmail.com>, 2021\n"
+"Last-Translator: João Paulo Rechi Vita, 2023\n"
 "Language-Team: Spanish (http://www.transifex.com/endless-os/gnome-user-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -296,7 +297,7 @@ msgstr "Ekaterina Gerasimova"
 #: C/user-delete.page:38 C/wacom-left-handed.page:23 C/wacom-mode.page:23
 #: C/wacom-multi-monitor.page:28 C/wacom-stylus.page:22
 msgid "Michael Dryden"
-msgstr ""
+msgstr "Michael Dryden"
 
 #. (itstool) path: info/desc
 #: C/a11y-bouncekeys.page:41
@@ -330,7 +331,7 @@ msgstr "Active el <em>rechazo de teclas</em> para ignorar las pulsaciones de tec
 #: C/shell-notifications.page:99 C/shell-notifications.page:134
 #: C/wacom-stylus.page:41
 msgid "Go to the desktop and start typing <gui>Settings</gui>."
-msgstr ""
+msgstr "Vaya al escritorio y empiece a escribir <gui>Configuración</gui>."
 
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:56 C/a11y-slowkeys.page:59 C/a11y-stickykeys.page:62

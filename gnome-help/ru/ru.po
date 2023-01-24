@@ -8,12 +8,13 @@
 # Yuri Myasoedov <omerta13@yandex.ru>, 2012
 # Yuri Myasoedov <ymyasoedov@yandex.ru>, 2012,2015
 # Alexandre Prokoudine <alexandre.prokoudine@gmail.com>, 2011
+# Виктор, 2023
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2023-01-19 17:02+0000\n"
+"POT-Creation-Date: 2023-01-19 22:34+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
-"Last-Translator: Ser82-png <sw@atrus.ru>, 2022\n"
+"Last-Translator: Виктор, 2023\n"
 "Language-Team: Russian (http://www.transifex.com/endless-os/gnome-user-docs/language/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,7 +35,7 @@ msgstr "Данное руководство распространяется п�
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Александр Прокудин <alexandre.prokoudine@gmail.com>, 2011\nАлексей Кабанов <ak099@mail.ru>, 2011-2012\nСтанислав Соловей <whats_up@tut.by>, 2013-2014\nЮлия Дронова <juliette.tux@gmail.com>, 2013-2014\nЮрий Мясоедов <ymyasoedov@yandex.ru>, 2015\nSer82-png <sw@atrus.ru>, 2022"
+msgstr "Александр Прокудин <alexandre.prokoudine@gmail.com>, 2011\nАлексей Кабанов <ak099@mail.ru>, 2011-2012\nСтанислав Соловей <whats_up@tut.by>, 2013-2014\nЮлия Дронова <juliette.tux@gmail.com>, 2013-2014\nЮрий Мясоедов <ymyasoedov@yandex.ru>, 2015\nSer82-png <sw@atrus.ru>, 2022\nViktorOn github.com/ViktorOn, 2023"
 
 #. (itstool) path: credit/name
 #: C/a11y-bouncekeys.page:21 C/a11y-braille.page:17 C/a11y-contrast.page:19
@@ -283,7 +284,7 @@ msgstr "Екатерина Герасимова (Ekaterina Gerasimova)"
 #: C/user-delete.page:38 C/wacom-left-handed.page:23 C/wacom-mode.page:23
 #: C/wacom-multi-monitor.page:28 C/wacom-stylus.page:22
 msgid "Michael Dryden"
-msgstr ""
+msgstr "Майкл Драйден (Michael Dryden)"
 
 #. (itstool) path: info/desc
 #: C/a11y-bouncekeys.page:41
@@ -350,7 +351,7 @@ msgstr "Нажмите <gui>Помощник ввода (AccessX)</gui> в ра�
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:66
 msgid "Switch the <gui>Bounce Keys</gui> switch to on."
-msgstr "Измените переключатель <gui>Отскакивающие клавиши</gui> в положение <gui>Включено</gui>."
+msgstr "Измените переключатель <gui>Отскакивающие клавиши</gui> в положение Включено."
 
 #. (itstool) path: note/title
 #: C/a11y-bouncekeys.page:71
@@ -379,7 +380,7 @@ msgstr "Используйте ползунок <gui>Задержка приня
 #. (itstool) path: credit/name
 #: C/a11y-braille.page:21 C/a11y-screen-reader.page:20
 msgid "Jana Heves"
-msgstr "Jana Heves"
+msgstr "Яна Хевеш (Jana Heves)"
 
 #. (itstool) path: info/desc
 #: C/a11y-braille.page:29
@@ -437,7 +438,7 @@ msgstr ""
 #: C/a11y-contrast.page:52 C/a11y-font-size.page:49 C/a11y-icon.page:49
 #: C/a11y-mag.page:50 C/a11y-visualalert.page:56
 msgid "Click on <gui>Accessibility</gui> to open the panel."
-msgstr "Щёлкните <gui>Специальные возможности</gui>, чтобы открыть этот раздел настроек."
+msgstr "Нажмите <gui>Специальные возможности</gui>, чтобы открыть эту панель."
 
 #. (itstool) path: item/p
 #: C/a11y-contrast.page:55
@@ -590,7 +591,7 @@ msgstr "Во многих приложениях можно в любое вре
 #. (itstool) path: page/p
 #: C/a11y-font-size.page:67
 msgid "<gui>Large Text</gui> will scale the text by 1.2 times."
-msgstr ""
+msgstr "<gui>Крупный текст</gui> масштабирует текст в 1,2 раза."
 
 #. (itstool) path: info/desc
 #: C/a11y-icon.page:26
@@ -1271,7 +1272,7 @@ msgstr "2015"
 #: C/accounts-provider-not-available.page:21 C/accounts-remove.page:29
 #: C/backup-how.page:24 C/bluetooth.page:20
 msgid "Klein Kravis"
-msgstr "Klein Kravis"
+msgstr "Клейн Кравис (Klein Kravis)"
 
 #. (itstool) path: credit/years
 #: C/accounts-add.page:36 C/accounts-disable-service.page:20
@@ -1565,19 +1566,19 @@ msgid ""
 "The Calendar service allows you to view, add, and edit events in an online "
 "calendar. It is used by applications like <app>Calendar</app>, "
 "<app>Evolution</app>, and <app>California</app>."
-msgstr "Служба календаря позволяет просматривать, добавлять и редактировать события в онлайн-календаре. Она используется такими приложениями, как <app>Календарь</app>, <app>Evolution</app> и <app>California</app>."
+msgstr "Служба «Календарь» позволяет просматривать, добавлять и редактировать события в онлайн-календаре. Она используется такими приложениями, как <app>Календарь</app>, <app>Evolution</app> и <app>California</app>."
 
 #. (itstool) path: item/title
 #: C/accounts-which-application.page:56
 msgid "Chat"
-msgstr "Chat"
+msgstr "Чат"
 
 #. (itstool) path: item/p
 #: C/accounts-which-application.page:57
 msgid ""
 "The Chat service allows you to chat with your contacts on popular instant "
 "messaging platforms. It is used by the <app>Empathy</app> application."
-msgstr "Служба общения позволяет вам общаться с вашими контактами на популярных платформах обмена мгновенными сообщениями. Она используется приложением <app>Empathy</app>."
+msgstr "Служба чата позволяет вам общаться с вашими контактами на популярных платформах обмена мгновенными сообщениями. Она используется приложением <app>Empathy</app>."
 
 #. (itstool) path: item/title
 #. (itstool) path: page/title
@@ -1625,7 +1626,7 @@ msgstr "Служба «Файлы» добавляет удалённое мес
 #. (itstool) path: item/title
 #: C/accounts-which-application.page:86
 msgid "Mail"
-msgstr "Mail"
+msgstr "Почта"
 
 #. (itstool) path: item/p
 #: C/accounts-which-application.page:87
@@ -1810,7 +1811,7 @@ msgstr "Если вы регулярно выполняете резервное
 #: C/printing-booklet.page:13 C/screen-shot-record.page:14 C/translate.page:11
 #: C/user-delete.page:18 C/user-goodpassword.page:21
 msgid "Tiffany Antopolski"
-msgstr "Tiffany Antopolski"
+msgstr "Тиффани Антопольски (Tiffany Antopolski)"
 
 #. (itstool) path: info/desc
 #: C/backup-frequency.page:22
@@ -2704,7 +2705,7 @@ msgstr "Владельцу принимающего устройства обы�
 #: C/bluetooth-turn-on-off.page:43 C/display-night-light.page:22
 #: C/shell-apps-favorites.page:30
 msgid "2022"
-msgstr ""
+msgstr "2022"
 
 #. (itstool) path: info/desc
 #: C/bluetooth-turn-on-off.page:48
@@ -2768,7 +2769,7 @@ msgstr "Выберите <gui>Выключить</gui>."
 msgid ""
 "Your computer is <link xref=\"bluetooth-visibility\">visible</link> as long "
 "as the <gui>Bluetooth</gui> panel is open."
-msgstr "Компьютер остаётся <link xref=\"bluetooth-visibility\">видимым</link> пока открыта панель <gui>Bluetooth</gui>."
+msgstr "Компьютер остаётся <link xref=\"bluetooth-visibility\">видимым</link>, пока открыта панель <gui>Bluetooth</gui>."
 
 #. (itstool) path: info/desc
 #: C/bluetooth-visibility.page:38
@@ -2838,7 +2839,7 @@ msgid ""
 "This requires you to use your calendar from <app>Evolution</app> or the "
 "<app>Calendar</app>, or for you to have an online account set up which "
 "<gui>Calendar</gui> supports."
-msgstr "Для этого необходимо использовать календарь из приложения <app>Evolution</app> или нужно иметь сетевую учётную запись с поддержкой <gui>Календаря</gui>."
+msgstr "Для этого необходимо использовать календарь из приложения <app>Evolution</app> или <app>Календарь</app>, или чтобы у вас была настроена учётная запись в сети, которую поддерживает <gui>Календарь</gui>."
 
 #. (itstool) path: note/p
 #: C/clock-calendar.page:46
@@ -2941,7 +2942,7 @@ msgstr "При включённом параметре <gui>Автоматиче
 #. (itstool) path: item/p
 #: C/clock-set.page:57
 msgid "Click <gui>Date &amp; Time</gui>, then adjust the time and date."
-msgstr "Щёлкните пункт <gui>Дата и время</gui>, а затем настройте эти параметры."
+msgstr "Нажмите <gui>Дата и время</gui>, а затем настройте их."
 
 #. (itstool) path: item/p
 #: C/clock-set.page:60
@@ -3028,7 +3029,7 @@ msgstr "Чтобы добавить мировые часы:"
 #. (itstool) path: item/p
 #: C/clock-world.page:44
 msgid "Click the clock on the top bar."
-msgstr "Щёлкните на часы в верхней панели."
+msgstr "Нажмите на часы в верхней панели."
 
 #. (itstool) path: item/p
 #: C/clock-world.page:47
@@ -3096,7 +3097,7 @@ msgstr "Дата и время"
 #: C/color-whatisspace.page:12 C/color-why-calibrate.page:11
 #: C/color-whyimportant.page:11
 msgid "Richard Hughes"
-msgstr "Richard Hughes"
+msgstr "Ричард Хьюгз (Richard Hughes)"
 
 #. (itstool) path: info/title
 #: C/color.page:14
@@ -3122,7 +3123,7 @@ msgstr "Цветовые профили"
 #. (itstool) path: section/title
 #: C/color.page:26
 msgid "Calibration"
-msgstr "Калибровка и профилирование"
+msgstr "Калибровка"
 
 #. (itstool) path: info/desc
 #: C/color-assignprofiles.page:35
@@ -7373,12 +7374,12 @@ msgstr "Вы можете отправить <link href=\"mailto:gnome-doc-list@
 #. (itstool) path: info/desc
 #: C/gnome-version.page:21
 msgid "How to determine which version of Endless OS is running."
-msgstr ""
+msgstr "Как определить, какая версия Endless OS используется."
 
 #. (itstool) path: page/title
 #: C/gnome-version.page:24
 msgid "Determine which version of Endless OS is running"
-msgstr ""
+msgstr "Определите, какая версия Endless OS используется"
 
 #. (itstool) path: page/p
 #: C/gnome-version.page:26
@@ -17976,7 +17977,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/shell-introduction.page:91
 msgid "Overview"
-msgstr ""
+msgstr "Обзор"
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:93
