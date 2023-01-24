@@ -3,7 +3,7 @@
 # Enrico Nicoletto <liverig@gmail.com>, 2013,2021
 # Isaac Ferreira Filho <isaacmob@riseup.net>, 2018
 # Ivan G. Gonçalves <i@endlessm.com>, 2015-2016
-# João Paulo Rechi Vita, 2023
+# João Paulo Rechi Vita <jprvita@endlessos.org>, 2023
 # João Santana <joaosantana@outlook.com>, 2013
 # Leandro Stanger <leandrostanger@hotmail.com>, 2023
 # Mariana Barbosa <mariana@endlessm.com>, 2017
@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
 "POT-Creation-Date: 2023-01-24 15:36+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
-"Last-Translator: João Paulo Rechi Vita, 2023\n"
+"Last-Translator: João Paulo Rechi Vita <jprvita@endlessos.org>, 2023\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/endless-os/gnome-user-docs/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18061,7 +18061,7 @@ msgid ""
 "When you click on the Activities button in the top left, you will initially "
 "see the windows overview. This shows you live thumbnails of all the windows "
 "on the current workspace."
-msgstr ""
+msgstr "Quando você clica em Atividades na parte superior esquerda, você inicialmente estará no panorama de janelas. Ele lhe mostra miniaturas ao vivo de todas as janelas do seu espaço de trabalho atual."
 
 #. (itstool) path: section/media
 #. This is a reference to an external file such as an image or video. When
@@ -20452,7 +20452,7 @@ msgstr "Definir uma tecla de composição"
 #. (itstool) path: item/p
 #: C/tips-specialchars.page:91
 msgid "Open the desktop and start typing <gui>Settings</gui>."
-msgstr ""
+msgstr "Abra a área de trabalho e comece a digitar <gui>Configurações</gui>."
 
 #. (itstool) path: item/p
 #: C/tips-specialchars.page:100
