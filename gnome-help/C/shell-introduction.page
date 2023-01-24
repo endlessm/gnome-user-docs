@@ -126,7 +126,7 @@ like "Application windows" by using if:when and if:else ? -->
   your favorites or in case the application is already running the menu
   displays an option to quit the application.</p>
 
-  <p if:test="platform:!gnome-classic, platform:endless">When you enter select
+  <p if:test="platform:!gnome-classic, platform:endless">When you click on
   the Activities button in the top left, you will initially see the windows overview.
   This shows you live thumbnails of all the windows on the current workspace.</p>
 
