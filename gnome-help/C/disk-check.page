@@ -17,9 +17,14 @@
       <name>Michael Hill</name>
       <email>mdhillca@gmail.com</email>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <revision pkgversion="3.4.0" date="2012-02-19" status="review"/>
     <revision pkgversion="3.13.91" date="2014-09-05" status="review"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <desc>Test your hard disk for problems to make sure that it’s healthy.</desc>
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -41,7 +46,7 @@
  <title>Check your disk’s health using the Disks application</title>
 
   <item>
-    <p>Open <app>Disks</app> from the <gui>Activities</gui> overview.</p>
+    <p>Open <app>Disks</app> from the desktop.</p>
   </item>
   <item>
     <p>Select the disk you want to check from the list of storage devices on

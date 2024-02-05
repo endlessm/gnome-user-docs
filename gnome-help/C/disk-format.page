@@ -9,10 +9,15 @@
       <name>GNOME Documentation Project</name>
       <email>gnome-doc-list@gnome.org</email>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <revision pkgversion="3.4.0" date="2012-02-19" status="review"/>
     <revision pkgversion="3.13.91" date="2014-09-05" status="review"/>
     <revision pkgversion="3.37.2" date="2020-08-13" status="review"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <desc>Remove all of the files and folders from an external hard disk or USB
     flash drive by formatting it.</desc>
@@ -29,7 +34,7 @@
 <steps>
   <title>Format a removable disk</title>
   <item>
-    <p>Open <app>Disks</app> from the <gui>Activities</gui> overview.</p>
+    <p>Open <app>Disks</app> from the desktop.</p>
   </item>
   <item>
     <p>Select the disk you want to wipe from the list of storage devices on the

@@ -20,9 +20,14 @@
       <name>Rafael Fontenelle</name>
       <email>rafaelff@gnome.org</email>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <revision pkgversion="3.4.3" date="2012-06-15" status="review"/>
     <revision pkgversion="3.13.91" date="2014-09-05" status="review"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <desc>Use <gui>Disk Usage Analyzer</gui>, <gui>System Monitor</gui>, or
     <gui>Usage</gui> to check space and capacity.</desc>
@@ -42,8 +47,8 @@
 
   <list>
     <item>
-      <p>Open <app>Disk Usage Analyzer</app> from the <gui>Activities</gui>
-      overview. The window will display a list of file locations together with
+      <p>Open <app>Disk Usage Analyzer</app> from the desktop.
+      The window will display a list of file locations together with
       the usage and capacity of each.</p>
     </item>
     <item>
@@ -67,8 +72,7 @@
 
 <steps>
  <item>
-  <p>Open the <app>System Monitor</app> application from the <gui>Activities</gui>
-  overview.</p>
+  <p>Open the <app>System Monitor</app> application from the desktop.</p>
  </item>
  <item>
   <p>Select the <gui>File Systems</gui> tab to view the system’s partitions and
@@ -85,8 +89,7 @@
 
 <steps>
   <item>
-    <p>Open the <app>Usage</app> application from the <gui>Activities</gui>
-    overview.</p>
+    <p>Open the <app>Usage</app> application from the desktop.</p>
   </item>
   <item>
     <p>Select <gui>Storage</gui> tab to view the system’s total <gui>Used</gui>
