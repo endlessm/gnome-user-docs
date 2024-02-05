@@ -11,6 +11,7 @@
     <revision pkgversion="3.13.92" date="2013-09-20" status="final"/>
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
     <revision pkgversion="3.33.3" date="2019-07-21" status="final"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -25,6 +26,10 @@
     <credit type="editor">
       <name>Ekaterina Gerasimova</name>
       <email>kittykat3756@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <desc>Make windows and buttons on the screen more (or less) vivid, so
@@ -41,8 +46,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Accessibility</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Accessibility</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Accessibility</gui> to open the panel.</p>

@@ -12,6 +12,7 @@
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
     <revision pkgversion="3.26" date="2017-08-04" status="candidate"/>
     <revision pkgversion="3.33.3" date="2019-07-21" status="candidate"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -27,6 +28,10 @@
       <name>Ekaterina Gerasimova</name>
       <email>kittykat3756@gmail.com</email>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <desc>Use larger fonts to make text easier to read.</desc>
   </info>
@@ -38,8 +43,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Accessibility</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Accessibility</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Accessibility</gui> to open the panel.</p>
@@ -60,7 +64,6 @@
     size, press <keyseq><key>Ctrl</key><key>-</key></keyseq>.</p>
   </note>
 
-  <p><gui>Large Text</gui> will scale the text by 1.2 times. You can use
-  <app>Tweaks</app> to make text size bigger or smaller.</p>
+  <p><gui>Large Text</gui> will scale the text by 1.2 times.</p>
 
 </page>
