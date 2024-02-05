@@ -108,6 +108,7 @@ HELP_MEDIA = \
 	figures/system-lock-screen-symbolic.svg \
 	figures/system-run-symbolic.svg \
 	figures/system-shutdown-symbolic.svg \
+	figures/system-settings-menu-endless.png \
 	figures/tile-a11y.svg \
 	figures/tile-files.svg \
 	figures/tile-hardware.svg \
