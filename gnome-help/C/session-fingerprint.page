@@ -10,6 +10,7 @@
     <revision pkgversion="3.10" date="2013-11-03" status="review"/>
     <revision pkgversion="3.12" date="2014-06-16" status="final"/>
     <revision pkgversion="3.13.92" date="2014-09-22" status="final"/>
+    <revision version="Gnome:41" date="2022-12-21" status="review"/>
 
     <credit type="author">
       <name>GNOME Documentation Project</name>
@@ -29,6 +30,10 @@
       <name>Jim Campbell</name>
       <email>jcampbell@gnome.org</email>
       <years>2014</years>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -59,8 +64,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Users</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Users</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Users</gui> to open the panel.</p>
