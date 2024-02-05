@@ -30,6 +30,10 @@
       <email>amigadave@amigadave.com</email>
       <years>2015</years>
     </credit>
+    <credit type="editor">
+      <name>Dylan McCall</name>
+      <email>dylan@endlessos.org</email>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -58,10 +62,13 @@
 
   <steps>
     <item>
-      <p>Press the <key>Print</key> key or launch <app>Take a Screenshot</app>
-      from the <gui xref="shell-introduction#activities">Activities</gui>
-      overview.</p>
-    </item>
+      <p>Press the <key>Print</key> key, or click the
+      <link xref="shell-introduction#systemmenu">system menu</link> on the
+      right side side of the top bar and click the
+        <media type="image" its:translate="no" src="figures/camera-photo-symbolic.svg">
+          Screenshot
+        </media>
+      button.</p>
     <item>
       <p>The screenshot overlay presents you with handles to select the area to
       capture, and
@@ -122,9 +129,13 @@
 
   <steps>
     <item>
-      <p>Press the <key>Print</key> key or launch <app>Take a Screenshot</app>
-      from the <gui xref="shell-introduction#activities">Activities</gui>
-      overview.</p>
+      <p>Press the <key>Print</key> key, or click the
+      <link xref="shell-introduction#systemmenu">system menu</link> on the
+      right side side of the top bar and click the
+        <media type="image" its:translate="no" src="figures/camera-photo-symbolic.svg">
+          Screenshot
+        </media>
+      button.</p>
     </item>
     <item>
       <p>Click
