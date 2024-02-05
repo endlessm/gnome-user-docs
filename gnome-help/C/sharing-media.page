@@ -12,10 +12,15 @@
     <revision pkgversion="3.14" date="2014-10-13" status="candidate"/>
     <revision pkgversion="3.18" date="2015-09-28" status="review"/>
     <revision pkgversion="3.33.3" date="2019-07-21" status="review"/>
+    <revision version="Gnome:41" date="2022-12-21" status="review"/>
 
     <credit type="author">
       <name>Michael Hill</name>
       <email>mdhillca@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -53,8 +58,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Sharing</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Sharing</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Sharing</gui> to open the panel.</p>
