@@ -14,6 +14,10 @@
       <email>mdhillca@gmail.com</email>
       <years>2012</years>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
@@ -24,8 +28,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui>
-      overview and start typing <gui>Wacom Tablet</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Wacom Tablet</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Wacom Tablet</gui> to open the panel.</p>
