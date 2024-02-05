@@ -55,6 +55,7 @@ HELP_MEDIA = \
 	figures/edit-find-symbolic.svg \
 	figures/emblem-system-symbolic.svg \
 	figures/emoji-flags-symbolic.svg \
+	figures/endless-desktop.png \
 	figures/gnome.svg \
 	figures/go-down-symbolic.svg \
 	figures/input-keyboard-symbolic.png \
@@ -90,14 +91,19 @@ HELP_MEDIA = \
 	figures/shell-appmenu-classic.png \
 	figures/shell-appmenu-shell.png \
 	figures/shell-appts-classic.png \
+	figures/shell-appts-endless.png \
 	figures/shell-appts.png \
 	figures/shell-exit-classic.png \
 	figures/shell-exit-classic-expanded.png \
 	figures/shell-exit-expanded.png \
+	figures/shell-exit-endless.png \
 	figures/shell-exit.png \
+	figures/shell-favorites-endless.png \
 	figures/shell-top-bar-classic.png \
+	figures/shell-top-bar-endless.png \
 	figures/shell-top-bar.png \
 	figures/shell-window-list-classic.png \
+	figures/shell-window-list-endless.png \
 	figures/shell-workspaces.png \
 	figures/system-lock-screen-symbolic.svg \
 	figures/system-run-symbolic.svg \
@@ -403,7 +409,6 @@ HELP_FILES = \
 	sharing-displayname.page \
 	sharing-media.page \
 	sharing-personal.page \
-	shell-apps-auto-start.page \
 	shell-apps-favorites.page \
 	shell-apps-open.page \
 	shell-exit.page \
