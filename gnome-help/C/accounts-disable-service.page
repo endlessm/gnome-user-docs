@@ -8,16 +8,22 @@
     <revision pkgversion="3.5.5" date="2012-08-14" status="review"/>
     <revision pkgversion="3.13.92" date="2013-09-20" status="candidate"/>
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <credit type="author">
       <name>Phil Bull</name>
       <email>philbull@gmail.com</email>
     </credit>
-<credit type="editor">
+    <credit type="editor">
       <name>Klein Kravis</name>
       <email>kleinkravis44@outlook.com</email>
       <years>2020</years>
     </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
+    </credit>
+
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
 
     <desc>Some online accounts can be used to access multiple services (like
@@ -39,8 +45,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> overview and
-      start typing <gui>Online Accounts</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Online Accounts</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Online Accounts</gui> to open the panel.</p>
