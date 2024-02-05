@@ -12,6 +12,7 @@
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
     <revision pkgversion="3.28" date="2018-03-28" status="review"/>
     <revision pkgversion="3.33.3" date="2018-03-28" status="review"/>
+    <revision version="Gnome:41" date="2022-12-16" status="review"/>
 
     <credit type="author">
       <name>Phil Bull</name>
@@ -20,6 +21,10 @@
     <credit type="editor">
       <name>Michael Hill</name>
       <email>mdhillca@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <desc>You may have to enter network settings if they don’t get assigned
@@ -38,8 +43,7 @@
   <steps>
     <title>To manually set your network settings:</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui>
-      overview and start typing <gui>Settings</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Settings</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Settings</gui>.</p>

@@ -311,7 +311,6 @@ HELP_FILES = \
 	net-email-virus.page \
 	net-email.page \
 	net-findip.page \
-	net-firewall-on-off.page \
 	net-firewall-ports.page \
 	net-fixed-ip-address.page \
 	net-general.page \

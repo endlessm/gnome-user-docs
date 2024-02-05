@@ -5,13 +5,17 @@
 
   <info>
     <link type="guide" xref="net-general"/>
-
     <revision pkgversion="3.4.0" date="2012-02-21" status="final"/>
     <revision pkgversion="3.18" date="2015-09-28" status="final"/>
+    <revision version="gnome:41" date="2022-12-14" status="review"/>
 
     <credit type="author">
       <name>Steven Richards</name>
       <email>steven.richardspc@gmail.com</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -75,8 +79,7 @@
       <p>Make sure you are only running necessary remote-access services.
       Having SSH or VNC running can be useful, but also leaves your computer
       open to intrusion if not secured properly. Consider using a
-      <link xref="net-firewall-on-off">firewall</link> to help protect your
-      computer from intrusion.</p>
+      firewall to help protect your computer from intrusion.</p>
     </item>
   </list>
 
