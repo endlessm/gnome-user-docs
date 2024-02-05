@@ -12,6 +12,7 @@
     <revision pkgversion="3.18" date="2015-09-29" status="final"/>
     <revision pkgversion="3.34" date="2019-07-20" status="draft"/>
     <revision pkgversion="3.36" date="2020-04-18" status="draft"/>
+    <revision version="Gnome:41" date="2022-12-20" status="review"/>
 
     <credit type="author">
       <name>GNOME Documentation Project</name>
@@ -32,6 +33,10 @@
     <credit type="editor">
       <name>Jim Campbell</name>
       <email>jcampbell@gnome.org</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -54,8 +59,7 @@
   <steps>
     <title>Search</title>
     <item>
-      <p>Open the <app>Files</app> application from the
-      <gui xref="shell-introduction#activities">Activities</gui> overview.</p>
+      <p>Open the <app>Files</app> application from the desktop.</p>
     </item>
     <item>
       <p>If you know the files you want are under a particular folder, go to
@@ -120,8 +124,7 @@ searched:</p>
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui>
-      overview and start typing <gui>Search</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Search</gui>.</p>
     </item>
     <item>
       <p>Select <guiseq><gui>Settings</gui><gui>Search</gui></guiseq> from the
