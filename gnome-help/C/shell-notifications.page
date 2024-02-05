@@ -9,6 +9,7 @@
 
     <revision pkgversion="3.33.3" date="2019-07-21" status="review"/>
     <revision pkgversion="40" date="2021-09-10" status="review"/>
+    <revision version="Gnome:41" date="2022-12-21" status="review"/>
 
     <credit type="author">
       <name>Marina Zhurakhinskaya</name>
@@ -26,6 +27,10 @@
     <credit type="editor">
       <name>Petr Kovar</name>
       <email>pknbe@volny.cz</email>
+    </credit>
+    <credit type="editor">
+      <name>Michael Dryden</name>
+      <email>michael@endlessos.org</email>
     </credit>
 
     <include href="legal.xml" xmlns="http://www.w3.org/2001/XInclude"/>
@@ -91,8 +96,7 @@
 
   <steps>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Settings</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Settings</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Settings</gui>.</p>
@@ -101,7 +105,7 @@
       <p>Click on <gui>Notifications</gui> in the sidebar to open the panel.</p>
     </item>
     <item>
-      <p>Switch <gui>Do Not Disturb</gui> to off.</p>
+      <p>Switch <gui>Do Not Disturb</gui> to on.</p>
     </item>
   </steps>
 
@@ -127,8 +131,7 @@
   <steps>
     <title>To switch off notifications when your screen is locked:</title>
     <item>
-      <p>Open the <gui xref="shell-introduction#activities">Activities</gui> 
-      overview and start typing <gui>Settings</gui>.</p>
+      <p>Go to the desktop and start typing <gui>Settings</gui>.</p>
     </item>
     <item>
       <p>Click on <gui>Settings</gui>.</p>

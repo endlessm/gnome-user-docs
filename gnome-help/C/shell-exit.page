@@ -63,6 +63,11 @@
   <title>Log out or switch users</title>
 
   <if:choose>
+    <if:when test="platform:endless">
+      <media type="image" src="figures/shell-exit-expanded-endless.png" width="250" style="floatend floatright" if:test="!target:mobile">
+        <p>User menu</p>
+      </media>
+    </if:when>
     <if:when test="!platform:gnome-classic">
       <media type="image" src="figures/shell-exit-expanded.png" width="250" style="floatend floatright" if:test="!target:mobile">
         <p>User menu</p>
