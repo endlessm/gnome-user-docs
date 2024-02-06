@@ -1,3 +1,28 @@
+gnome-user-docs (43.0-2endless0) unstable; urgency=medium
+
+  * Add Endless-specific customizations
+
+ -- Dylan McCall <dylan@endlessos.org>  Tue, 06 Feb 2024 14:58:13 -0800
+
+gnome-user-docs (43.0-2) unstable; urgency=medium
+
+  * Add-missing-figures.patch
+
+ -- Gunnar Hjalmarsson <gunnarhj@debian.org>  Sat, 15 Apr 2023 23:54:03 +0200
+
+gnome-user-docs (43.0-1) unstable; urgency=medium
+
+  * New upstream release
+  * debian/docs: README -> README.md
+
+ -- Jeremy Bicha <jbicha@ubuntu.com>  Mon, 19 Sep 2022 10:37:05 -0400
+
+gnome-user-docs (42.0-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jeremy Bicha <jbicha@ubuntu.com>  Mon, 21 Mar 2022 09:44:05 -0400
+
 gnome-user-docs (41.5-1) unstable; urgency=medium
 
   * New upstream release
