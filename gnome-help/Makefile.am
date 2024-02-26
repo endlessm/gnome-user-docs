@@ -84,6 +84,8 @@ HELP_MEDIA = \
 	figures/network-wireless-disabled-symbolic.svg \
 	figures/preferences-desktop-accessibility-symbolic.svg \
 	figures/printing-select.png \
+	figures/ps-button.svg \
+	figures/ps-create.svg \
 	figures/rotation-allowed-symbolic.svg \
 	figures/rotation-locked-symbolic.svg \
 	figures/screenshot-tool.png \
