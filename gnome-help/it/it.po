@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Milo Casagrande <milo@ubuntu.com>, 2012-2013\n"
 "Language-Team: Italian (http://app.transifex.com/endless-os/gnome-user-docs/language/it/)\n"
@@ -2086,7 +2086,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "La maggior parte degli utenti non modifica le impostazioni di sistema definite in fase d'installazione del sistema operativo, ma nel caso in cui queste siano state modificate oppure si utilizzi il computer come un server, allora è utile eseguirne il backup."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -11897,12 +11897,12 @@ msgstr ""
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "È necessario specificare l'esatta porta per abilitare o bloccare l'accesso alla rete di un programma usando il firewall."
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "Porte di rete comunemente usate"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11915,34 +11915,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "Porta"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "Descrizione"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS, Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "Consente ai sistemi di trovarne altri e descrive quali servizi vengono offerti, senza dover specificare manualmente i dettagli."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11954,27 +11954,27 @@ msgstr "Stampa"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "Consente di inviare lavori di stampa a una stampante di rete."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "Consente di condividere la propria stampante in rete con altre persone."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "Presenza"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
@@ -11986,34 +11986,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "Desktop remoto"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "Consente la condivisione del desktop in modo che altre persone possano visualizzarlo o per ricevere assistenza remota."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "Condivisione di musica (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "Consente di condividere la propria libreria musicale con altre persone in rete."
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -18039,7 +18039,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "Menù utente"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18589,7 +18589,7 @@ msgstr ""
 #: C/shell-introduction.page:294 C/shell-introduction.page:299
 #: C/shell-introduction.page:318
 msgid "Dash"
-msgstr ""
+msgstr "Dash"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When

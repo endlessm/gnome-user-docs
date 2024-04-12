@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: ΔΗΜΗΤΡΗΣ ΣΠΙΓΓΟΣ <dmtrs32@gmail.com>, 2013\n"
 "Language-Team: Greek (http://app.transifex.com/endless-os/gnome-user-docs/language/el/)\n"
@@ -2089,7 +2089,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "Τα περισσότερα άτομα δεν αλλάζουν ποτέ τις ρυθμίσεις του συστήματος που δημιουργούνται κατά την εγκατάσταση. Εάν προσαρμόζετε τις ρυθμίσεις του συστήματός σας για κάποιο λόγο, ή εάν χρησιμοποιείτε τον υπολογιστή σας ως διακομιστή, τότε μπορεί να θέλετε να δημιουργήσετε αντίγραφα ασφαλείας αυτών των ρυθμίσεων."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -11900,12 +11900,12 @@ msgstr ""
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "Χρειάζεται να ορίσετε τη σωστή δικτυακή θύρα για ενεργοποίηση/απενεργοποίηση της πρόσβασης δικτύου για ένα πρόγραμμα με το τείχους προστασίας σας."
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "Κοινές χρησιμοποιούμενες θύρες δικτύου"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11918,34 +11918,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "Θύρα"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "Περιγραφή"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS, Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "Επιτρέπει στα συστήματα να επικοινωνούν μεταξύ τους και περιγράφει ποιες υπηρεσίες προσφέρουν, χωρίς να πρέπει να ορίσετε τις λεπτομέρειες χειροκίνητα."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11957,27 +11957,27 @@ msgstr "Εκτύπωση"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "Επιτρέπει την αποστολή εργασιών εκτύπωσης σε έναν εκτυπωτή μέσω δικτύου."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "Επιτρέπει την κοινή χρήση του εκτυπωτή σας με άλλα άτομα μέσω δικτύου."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "Διαθεσιμότητα"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
@@ -11989,34 +11989,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "Απομακρυσμένη επιφάνεια εργασίας"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "Επιτρέπει την κοινή χρήση της επιφάνειας εργασίας σας έτσι ώστε άλλα άτομα να το προβάλουν ή να παρέχουν απομακρυσμένη βοήθεια."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "Κοινή χρήση μουσικής (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "Επιτρέπει να μοιράζετε τη μουσική σας βιβλιοθήκη με άλλους στο δίκτυό σας."
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -18042,7 +18042,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "Μενού χρήστη"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18547,7 +18547,7 @@ msgstr ""
 msgid ""
 "Click the system menu in the top-right corner to manage your system settings"
 " and your computer."
-msgstr ""
+msgstr "Κάντε κλικ στο μενού συστήματος στην πάνω δεξιά γωνία για να διαχειριστείτε τις ρυθμίσεις του συστήματός και του υπολογιστή σας."
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:260
@@ -18619,7 +18619,7 @@ msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus"
 " on the task at hand without distractions."
-msgstr ""
+msgstr "Το GNOME χρησιμοποιεί μια διαφορετική προσέγγιση για την εναλλαγή παραθύρων από μια μόνιμα ορατή λίστα παραθύρων που βρίσκεται σε άλλα περιβάλλοντα επιφάνειας εργασίας. Αυτό σας επιτρέπει να συγκεντρωθείτε στην εργασία σας χωρίς αποσπάσεις."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:311
@@ -22004,7 +22004,7 @@ msgstr ""
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Wacom Tablet</gui>."
-msgstr ""
+msgstr "Ανοίξτε την επισκόπηση <gui xref=\"shell-introduction#activities\">Δραστηριότητες</gui> και αρχίστε να πληκτρολογείτε <gui>Wacom Tablet</gui>."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:39

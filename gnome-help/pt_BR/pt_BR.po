@@ -18,9 +18,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
-"Last-Translator: João Paulo Rechi Vita <jprvita@endlessos.org>, 2023\n"
+"Last-Translator: Enrico Nicoletto <liverig@gmail.com>, 2013,2021\n"
 "Language-Team: Portuguese (Brazil) (http://app.transifex.com/endless-os/gnome-user-docs/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -41,7 +41,7 @@ msgstr "Este trabalho está licenciado sob uma licença <_:link-1/>."
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Rodolfo Ribeiro Gomes <rodolforg@gmail.com>, 2011, 2012.\nEnrico Nicoletto <liverig@gmail.com>, 2013, 2021.\nJoão Santana <joaosantana@outlook.com>, 2013.\nIsaac Ferreira Filho <isaacmob@riseup.net>, 2018.\nRafael Fontenelle <rafaelff@gnome.org>, 2012-2021."
+msgstr "Rodolfo Ribeiro Gomes <rodolforg@gmail.com>, 2011, 2012.\nEnrico Nicoletto <liverig@gmail.com>, 2013, 2021.\nJoão Santana <joaosantana@outlook.com>, 2013.\nIsaac Ferreira Filho <isaacmob@riseup.net>, 2018.\nRafael Fontenelle <rafaelff@gnome.org>, 2012-2022."
 
 #. (itstool) path: credit/name
 #: C/a11y-bouncekeys.page:21 C/a11y-braille.page:17 C/a11y-contrast.page:19
@@ -2098,7 +2098,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "A maioria das pessoas nunca mudam as configurações do sistema que são criadas durante a instalação. Se você realmente personaliza suas configurações do sistema por alguma razão, ou se você usa seu computador com servidor, então você pode querer fazer backup dessas configurações."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -11909,12 +11909,12 @@ msgstr ""
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "Você precisa especificar a porta de rede correta para habilitar/desabilitar o acesso a rede para um programa com seu firewall."
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "Portas de rede comumente usadas"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11927,34 +11927,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "Porta"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "Descrição"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS, Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "Permite que sistemas localizem uns aos outros e descreve quais serviços eles oferecem, sem ter que especificar os detalhes manualmente."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11966,66 +11966,66 @@ msgstr "Imprimindo"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "Permite que você envie trabalhos de impressão para uma impressora pela rede."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "Permite que você compartilhe sua impressora com outras pessoas pela rede."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "Presença"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
 msgid ""
 "Allows you to advertise your instant messaging status to other people on the"
 " network, such as “online” or “busy”."
-msgstr ""
+msgstr "Permite que você anuncie seu estado de mensagem instantânea a outras pessoas na rede, como “conectado” ou “ocupado”."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "Área de trabalho remota"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "Permite que você compartilhe sua área de trabalho de forma que outras pessoas possam vê-la ou fornecer assistência remota."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "Compartilhamento de músicas (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "Permite que você compartilhe sua biblioteca de músicas com outros na sua rede."
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -18051,7 +18051,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "Menu do usuário"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18266,7 +18266,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-top-bar-classic.png' "
 "md5='8eecf39f87d7cda9ee060a108114a624'"
-msgstr ""
+msgstr "external ref='figures/shell-top-bar-classic.png' md5='5cabe311c0336576ba9272365ae03e79'"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:79
@@ -18556,7 +18556,7 @@ msgstr ""
 msgid ""
 "Click the system menu in the top-right corner to manage your system settings"
 " and your computer."
-msgstr ""
+msgstr "Clique no seu nome no canto superior direito para gerenciar as configurações do seu sistema e seu computador."
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:260
@@ -18628,7 +18628,7 @@ msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus"
 " on the task at hand without distractions."
-msgstr ""
+msgstr "O GNOME possui uma abordagem diferente para alternância de janelas em vez da lista de janelas permanentemente visíveis, encontrada em outros ambientes de área de trabalho. Isso permite que você se concentre na tarefa atual sem distrações."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:311
@@ -22013,7 +22013,7 @@ msgstr ""
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Wacom Tablet</gui>."
-msgstr ""
+msgstr "Abra o panorama de <gui xref=\"shell-introduction#activities\">Atividades</gui> e comece a digitar <gui>Tablet Wacom</gui>."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:39

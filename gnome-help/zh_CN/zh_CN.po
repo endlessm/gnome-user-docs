@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Wylmer Wang, 2013\n"
 "Language-Team: Chinese (China) (http://app.transifex.com/endless-os/gnome-user-docs/language/zh_CN/)\n"
@@ -2094,7 +2094,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "大多数人从不更改安装期间创建的设置。如果您确实定制了您的系统或者将计算机作为服务器使用，您可能希望备份这些设置。"
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -11905,12 +11905,12 @@ msgstr ""
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "您需要在防火墙中，为一个程序指定正确的网络端口来启用/禁用网络访问。"
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "常用网络端口"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11923,34 +11923,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "端口"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS、Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "允许系统相互发现对方，并描述它们提供的服务，您无需手动指定详情。"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11962,27 +11962,27 @@ msgstr "打印"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "允许您通过网络向打印机发送打印作业。"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "允许您通过网络与其他人共享打印机。"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "状态"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
@@ -11994,34 +11994,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "远程桌面"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "允许您共享桌面，以便其他人可以查看或提供远程协助。"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "共享音乐(DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "允许您与网络上的其他人共享您的音乐库。"
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -18047,7 +18047,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "用户菜单"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18597,7 +18597,7 @@ msgstr "<link xref=\"shell-lockscreen\">了解更多锁定屏幕相关内容。<
 #: C/shell-introduction.page:294 C/shell-introduction.page:299
 #: C/shell-introduction.page:318
 msgid "Dash"
-msgstr ""
+msgstr "Dash"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When

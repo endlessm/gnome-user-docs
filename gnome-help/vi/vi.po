@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Roddy Shuler <roddy@stanfordalumni.org>, 2017\n"
 "Language-Team: Vietnamese (http://app.transifex.com/endless-os/gnome-user-docs/language/vi/)\n"
@@ -2085,7 +2085,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "Hầu hết mọi người không bao giờ thay đổi thiết lập sau khi cài đặt. Nếu bạn thay đổi vì lí do nào đó, hoặc bạn dùng máy tính như máy chủ, bạn có thể muốn sao lưu các thiết lập này."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -11901,7 +11901,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "Cổng mạng thường dùng"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11914,34 +11914,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "Cổng"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "Mô tả"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS, Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "Cho phép hệ thống tìm thấy nhau, mô tả những dịch vụ có thể dùng mà không cần cấu hình gì."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11953,27 +11953,27 @@ msgstr "In ấn"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "Cho phép gửi tác vụ in đến máy in qua mạng."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "Cho phép chia sẻ máy in với người khác qua mạng."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "Hiện diện"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
@@ -11985,34 +11985,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "Màn hình làm việc từ xa"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "Cho phép xem chung màn hình máy tính hoặc hỗ trợ từ xa."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "Chia sẻ nhạc (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "Cho phép chia sẻ nhạc với máy khác trên mạng."
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -18038,7 +18038,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "Trình đơn người dùng"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18588,7 +18588,7 @@ msgstr ""
 #: C/shell-introduction.page:294 C/shell-introduction.page:299
 #: C/shell-introduction.page:318
 msgid "Dash"
-msgstr ""
+msgstr "Neo ứng dụng"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When

@@ -1,15 +1,17 @@
 # 
 # Translators:
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2011
-# Hannie Dumoleyn <hannie@ubuntu-nl.org>, 2017-2018
+# Hannie Dumoleyn <hannie@ubuntu-nl.org>, 2017-2018,2021
 # Justin van Steijn <justin50@live.nl>, 2016
+# Justin van Steijn <jvs@fsfe.org>, 2016
+# Nathan Follens <nfollens@gnome.org>, 2022
 # Redmar <redmar@ubuntu.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
-"Last-Translator: Hannie Dumoleyn <hannie@ubuntu-nl.org>, 2017-2018\n"
+"Last-Translator: Nathan Follens <nfollens@gnome.org>, 2022\n"
 "Language-Team: Dutch (http://app.transifex.com/endless-os/gnome-user-docs/language/nl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,7 +22,7 @@ msgstr ""
 #. (itstool) path: p/link
 #: C/legal.xml:3
 msgid "Creative Commons Attribution-ShareAlike 3.0 Unported License"
-msgstr "Creative Commons Attribution-ShareAlike 3.0 Unported License"
+msgstr "Creative Commons Naamsvermelding-GelijkDelen 3.0 Unported Licentie"
 
 #. (itstool) path: license/p
 #: C/legal.xml:3
@@ -30,7 +32,7 @@ msgstr "Dit werk is uitgebracht onder een <_:link-1/>."
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Justin van Steijn <justin50@live.nl>, 2016\nHannie Dumoleyn <hannie@ubuntu-nl.org>, 2017\nMeer info over Gnome-NL http://nl.gnome.org/\n\nLaunchpad Contributions:\n  Arnoud Imron https://launchpad.net/~imron-arnoud\n  Balaam's Miracle https://launchpad.net/~balaam-balaamsmiracle\n  BasH https://launchpad.net/~bshkp\n  Doug Smythies https://launchpad.net/~dsmythies\n  Geoffrey De Belie https://launchpad.net/~computergeoffrey\n  Gunnar Hjalmarsson https://launchpad.net/~gunnarhj\n  Hannie Dumoleyn https://launchpad.net/~lafeber-dumoleyn\n  Harmen H https://launchpad.net/~harmenh\n  Jeremy Bicha https://launchpad.net/~jbicha\n  Joost Florijn https://launchpad.net/~j-o-o-s-t-deactivatedaccount\n  Kevin Godby https://launchpad.net/~godbyk\n  Matthew East https://launchpad.net/~mdke\n  Prince22 https://launchpad.net/~s-c-prince\n  Rachid https://launchpad.net/~rachidbm\n  Redmar https://launchpad.net/~redmar\n  Robin-cominotto https://launchpad.net/~robin-cominotto\n  RobinJ https://launchpad.net/~robinj\n  Silke https://launchpad.net/~silexh\n  Soul-Sing https://launchpad.net/~soulzing\n  Stefan de Vries https://launchpad.net/~fermata\n  Timo https://launchpad.net/~timo.diedering\n  asphyxia https://launchpad.net/~robin4mailbox\n  ivo glasius https://launchpad.net/~ivo-glasius\n  rob https://launchpad.net/~rvdb"
+msgstr "Justin van Steijn <jvs@fsfe.org>, 2016\nHannie Dumoleyn <hannie@ubuntu-nl.org>, 2017\nNathan Follens <nfollens@gnome.org>, 2022\n\nMeer info over Gnome-NL http://nl.gnome.org/\n\nLaunchpad-bijdragen:\n  Arnoud Imron https://launchpad.net/~imron-arnoud\n  Balaam’s Miracle https://launchpad.net/~balaam-balaamsmiracle\n  BasH https://launchpad.net/~bshkp\n  Doug Smythies https://launchpad.net/~dsmythies\n  Geoffrey De Belie https://launchpad.net/~computergeoffrey\n  Gunnar Hjalmarsson https://launchpad.net/~gunnarhj\n  Hannie Dumoleyn https://launchpad.net/~lafeber-dumoleyn\n  Harmen H https://launchpad.net/~harmenh\n  Jeremy Bicha https://launchpad.net/~jbicha\n  Joost Florijn https://launchpad.net/~j-o-o-s-t-deactivatedaccount\n  Kevin Godby https://launchpad.net/~godbyk\n  Matthew East https://launchpad.net/~mdke\n  Prince22 https://launchpad.net/~s-c-prince\n  Rachid https://launchpad.net/~rachidbm\n  Redmar https://launchpad.net/~redmar\n  Robin-cominotto https://launchpad.net/~robin-cominotto\n  RobinJ https://launchpad.net/~robinj\n  Silke https://launchpad.net/~silexh\n  Soul-Sing https://launchpad.net/~soulzing\n  Stefan de Vries https://launchpad.net/~fermata\n  Timo https://launchpad.net/~timo.diedering\n  asphyxia https://launchpad.net/~robin4mailbox\n  ivo glasius https://launchpad.net/~ivo-glasius\n  rob https://launchpad.net/~rvdb"
 
 #. (itstool) path: credit/name
 #: C/a11y-bouncekeys.page:21 C/a11y-braille.page:17 C/a11y-contrast.page:19
@@ -323,14 +325,14 @@ msgstr ""
 #: C/sharing-desktop.page:73 C/shell-notifications.page:102
 #: C/shell-notifications.page:137 C/tips-specialchars.page:94
 msgid "Click on <gui>Settings</gui>."
-msgstr ""
+msgstr "Klik op <gui>Instellingen</gui>."
 
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:59 C/a11y-slowkeys.page:62 C/a11y-stickykeys.page:65
 #: C/keyboard-cursor-blink.page:59 C/keyboard-osk.page:61
 #: C/keyboard-repeat-keys.page:62
 msgid "Click <gui>Accessibility</gui> in the sidebar to open the panel."
-msgstr ""
+msgstr "Klik op <gui>Universele toegang</gui> in de zijbalk om het paneel te openen."
 
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:62 C/a11y-slowkeys.page:65 C/a11y-stickykeys.page:68
@@ -341,7 +343,7 @@ msgstr "Druk op <gui>Typ-assistent (AccessX)</gui> onder het kopje <gui>Typen</g
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:66
 msgid "Switch the <gui>Bounce Keys</gui> switch to on."
-msgstr ""
+msgstr "Zet <gui>Springende toetsen</gui> aan."
 
 #. (itstool) path: note/title
 #: C/a11y-bouncekeys.page:71
@@ -355,7 +357,7 @@ msgid ""
 "xref=\"a11y-icon\">accessibility icon</link> on the top bar and selecting "
 "<gui>Bounce Keys</gui>. The accessibility icon is visible when one or more "
 "settings have been enabled from the <gui>Accessibility</gui> panel."
-msgstr ""
+msgstr "U kunt springende toetsen aan- en uitzetten door te klikken op het <link xref=\"a11y-icon\">toegankelijkheidspictogram</link> in de bovenbalk en <gui>Springende toetsen</gui> te selecteren. Het toegankelijkheidspictogram is zichtbaar als één of meer instellingen in <gui>Universele toegang</gui> ingeschakeld zijn."
 
 #. (itstool) path: page/p
 #: C/a11y-bouncekeys.page:79
@@ -428,14 +430,14 @@ msgstr ""
 #: C/a11y-contrast.page:52 C/a11y-font-size.page:49 C/a11y-icon.page:49
 #: C/a11y-mag.page:50 C/a11y-visualalert.page:56
 msgid "Click on <gui>Accessibility</gui> to open the panel."
-msgstr ""
+msgstr "Klik op <gui>Toegankelijkheid</gui> om het paneel te openen."
 
 #. (itstool) path: item/p
 #: C/a11y-contrast.page:55
 msgid ""
 "Switch the <gui>High Contrast</gui> switch in the <gui>Seeing</gui> section "
 "to on."
-msgstr ""
+msgstr "Zet <gui>Hoog contrast</gui> <gui>AAN</gui> onder het kopje <gui>Zicht</gui>."
 
 #. (itstool) path: note/title
 #: C/a11y-contrast.page:61
@@ -448,7 +450,7 @@ msgid ""
 "You can turn high contrast on and off by clicking the <link "
 "xref=\"a11y-icon\">accessibility icon</link> on the top bar and selecting "
 "<gui>High Contrast</gui>."
-msgstr "U kunt hoog contrast aan- en uitzetten door te klikken op het <link xref=\"a11y-icon\">toegankelijkheidspictogram</link> in de bovenbalk en <gui>Hoog contrast</gui> te selecteren. "
+msgstr "U kunt hoog contrast aan- en uitzetten door te klikken op het <link xref=\"a11y-icon\">toegankelijkheidspictogram</link> in de bovenbalk en <gui>Hoog contrast</gui> te selecteren."
 
 #. (itstool) path: info/desc
 #: C/a11y-dwellclick.page:41
@@ -484,7 +486,7 @@ msgstr "Wanneer <gui>ZweefKlik</gui> is ingeschakeld kunt u de muisaanwijzer bov
 #: C/a11y-screen-reader.page:51 C/mouse-doubleclick.page:56
 #: C/mouse-mousekeys.page:61
 msgid "Click <gui>Accessibility</gui> to open the panel."
-msgstr ""
+msgstr "Klik op <gui>Toegankelijkheid</gui> om het paneel te openen."
 
 #. (itstool) path: item/p
 #: C/a11y-dwellclick.page:64 C/a11y-right-click.page:59
@@ -496,7 +498,7 @@ msgstr "Druk op <gui>Typ-assistent</gui> onder het kopje <gui>Aanwijzen &amp; kl
 #. (itstool) path: item/p
 #: C/a11y-dwellclick.page:68
 msgid "Switch <gui>Hover Click</gui> to on."
-msgstr ""
+msgstr "Schakel <gui>ZweefKlik</gui> in."
 
 #. (itstool) path: page/p
 #: C/a11y-dwellclick.page:72
@@ -685,7 +687,7 @@ msgid ""
 "You can change the magnification factor, the mouse tracking, and the "
 "position of the magnified view on the screen. Adjust these in the "
 "<gui>Magnifier</gui> tab of the <gui>Zoom Options</gui> window."
-msgstr "U kunt de vergrotingsfactor, het volgen van de muis, en de positie van de vergrote weergave op het scherm wijzigen. Pas deze aan in het tabblad van het <gui>Vergrootglas</gui> van het <gui>Zoomopties</gui>-venster."
+msgstr "U kunt de vergrotingsfactor, het volgen van de muis, en de positie van de vergrote weergave op het scherm wijzigen. Pas deze aan in het tabblad van het <gui>Vergrootglas</gui> van het <gui>Zoomopties</gui> venster."
 
 #. (itstool) path: page/p
 #: C/a11y-mag.page:81
@@ -693,7 +695,7 @@ msgid ""
 "You can activate crosshairs to help you find the mouse or touchpad pointer. "
 "Switch them on and adjust their length, color, and thickness in the "
 "<gui>Crosshairs</gui> tab of the <gui>Zoom</gui> settings window."
-msgstr "U kunt een draadkruis aanzetten om u te helpen bij het vinden van de muis of touchpad-cursor. U kunt het aanzetten en de lengte, kleur en dikte aanpassen in het <gui>Draadkruis</gui>-tabblad van het <gui>Zoom</gui>instellingen-venster."
+msgstr "U kunt een draadkruis aanzetten om u te helpen bij het vinden van de muis of touchpad-cursor. U kunt het aanzetten en de lengte, kleur en dikte aanpassen in het tabblad <gui>Draadkruis</gui> van het <gui>Zoom</gui> instellingenvenster."
 
 #. (itstool) path: page/p
 #: C/a11y-mag.page:85
@@ -711,14 +713,14 @@ msgstr "U kunt overschakelen naar inverse video of <gui>Wit op zwart</gui>, en d
 msgid ""
 "Use assistive technologies to help with special needs for vision, hearing, "
 "and mobility."
-msgstr ""
+msgstr "Gebruik toegankelijkheidstechnologie om u te helpen met speciale behoeften voor zicht, gehoor en mobiliteit."
 
 #. (itstool) path: page/title
 #. (itstool) path: table/title
 #. (itstool) path: links/title
 #: C/a11y.page:31 C/keyboard-shortcuts-set.page:99 C/keyboard.page:36
 msgid "Accessibility"
-msgstr ""
+msgstr "Toegankelijkheid"
 
 #. (itstool) path: page/p
 #: C/a11y.page:33
@@ -1116,7 +1118,7 @@ msgid ""
 "You can quickly turn visual alerts on and off by clicking the <link "
 "xref=\"a11y-icon\">accessibility icon</link> on the top bar and selecting "
 "<gui>Visual Alerts</gui>."
-msgstr "U kunt Visuele alertering ook snel in- en uitschakelen door te klikken op het <link xref=\"a11y-icon\">toegankelijkheidspictogram</link> in de bovenbalk en <gui>Visuele alterteringen</gui> te selecteren. "
+msgstr "U kunt Visuele alertering ook snel in- en uitschakelen door te klikken op het <link xref=\"a11y-icon\">toegankelijkheidspictogram</link> in de bovenbalk en <gui>Visuele alerteringen</gui> te selecteren."
 
 #. (itstool) path: info/desc
 #: C/about-this-guide.page:8
@@ -1186,7 +1188,7 @@ msgid ""
 "The guide is sorted into small, task-oriented topics — not chapters. This "
 "means that you don’t need to skim through an entire manual to find the "
 "answer to your questions."
-msgstr "Deze handleiding is verdeeld in kleine taakgerichte onderwerpen  —  niet in hoofdstukken. Dit betekent dat u niet de hele handleiding hoeft door te spitten om antwoorden op uw vragen te krijgen."
+msgstr "Deze handleiding is verdeeld in kleine taakgerichte onderwerpen — niet in hoofdstukken. Dit betekent dat u niet de hele handleiding hoeft door te spitten om antwoorden op uw vragen te krijgen."
 
 #. (itstool) path: item/p
 #: C/about-this-guide.page:26
@@ -1211,7 +1213,7 @@ msgid ""
 "with a comprehensive set of helpful information, we know we can’t answer all"
 " of your questions here. If you need more assistance, you can check with "
 "your distribution’s support team."
-msgstr ""
+msgstr "Deze handleiding wordt continu verbeterd. Ook al hebben we geprobeerd om u een volledige verzameling nuttige informatie te bieden, we weten dat we hier nooit al uw vragen kunnen beantwoorden. Als u verdere hulp nodig hebt kunt u contact opnemen met het ondersteuningsteam van uw distributie."
 
 #. (itstool) path: credit/name
 #: C/accounts-add.page:16 C/bluetooth-connect-device.page:22
@@ -1261,7 +1263,7 @@ msgstr "2015"
 #: C/accounts-provider-not-available.page:21 C/accounts-remove.page:29
 #: C/backup-how.page:24 C/bluetooth.page:20
 msgid "Klein Kravis"
-msgstr ""
+msgstr "Klein Kravis"
 
 #. (itstool) path: credit/years
 #: C/accounts-add.page:36 C/accounts-disable-service.page:20
@@ -1270,7 +1272,7 @@ msgstr ""
 #: C/contacts-connect.page:30 C/contacts-edit-details.page:32
 #: C/contacts-link-unlink.page:31 C/contacts-setup.page:31
 msgid "2020"
-msgstr ""
+msgstr "2020"
 
 #. (itstool) path: info/desc
 #: C/accounts-add.page:45
@@ -1312,7 +1314,7 @@ msgstr "Selecteer uit de lijst aan de rechterkant een account."
 #. (itstool) path: item/p
 #: C/accounts-add.page:66
 msgid "Select the type of account you want to add."
-msgstr ""
+msgstr "Selecteer het soort account dat u wilt toevoegen."
 
 #. (itstool) path: item/p
 #: C/accounts-add.page:69
@@ -1681,7 +1683,7 @@ msgstr "Accounts"
 #. (itstool) path: info/desc
 #: C/accounts.page:20
 msgid "Connect to your accounts with various online services."
-msgstr ""
+msgstr "Verbind met uw accounts bij verschillende onlinediensten."
 
 #. (itstool) path: page/title
 #: C/accounts.page:23
@@ -2045,7 +2047,7 @@ msgid ""
 "Your priority should be to back up your <link xref=\"backup-"
 "thinkabout\">most important files</link> as well as those that are difficult"
 " to recreate. For example, ranked from most important to least important:"
-msgstr "U zou prioriteit moeten geven aan het maken van reservekopieën van uw  <link xref=\"backup-thinkabout\">belangrijkste bestanden</link>, evenals bestanden die moeilijk opnieuw aan te maken zijn. Een voorbeeld van belangrijkst tot minst belangrijk:"
+msgstr "U zou prioriteit moeten geven aan het maken van reservekopieën van uw <link xref=\"backup-thinkabout\">belangrijkste bestanden</link>, evenals bestanden die moeilijk opnieuw aan te maken zijn. Een voorbeeld van belangrijkst tot minst belangrijk:"
 
 #. (itstool) path: item/title
 #: C/backup-what.page:39
@@ -2087,7 +2089,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "De meeste mensen wijzigen nooit de instellingen die tijdens de installatie werden aangemaakt. Als u wel uw systeem aanpast, of als u een server gebruikt, wilt u deze instellingen mogelijk bewaren."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -2131,7 +2133,7 @@ msgid ""
 "maximum security, you shouldn’t keep the backup in the same building as your"
 " computer. If there is a fire or theft, both copies of the data could be "
 "lost if they are kept together."
-msgstr ""
+msgstr "U dient reservekopieën van uw bestanden op een andere plek dan uw computer op te slaan — bijvoorbeeld op een externe harde schijf. Op die manier zal de reservekopie nog steeds intact zijn als de computer crasht. Voor maximale veiligheid moet u de reservekopie niet bewaren in hetzelfde gebouw als waar uw computer zich bevindt. In geval van brand of diefstal kunnen zowel het origineel als de kopie van de gegevens verloren gaan als ze bij elkaar bewaard worden."
 
 #. (itstool) path: page/p
 #: C/backup-where.page:35
@@ -2228,7 +2230,7 @@ msgstr "U kunt het beste regelmatig reservekopieën maken van uw bestanden, de k
 #: C/bluetooth.page:25
 msgid ""
 "Connect to devices over Bluetooth to transfer files or use wireless audio."
-msgstr ""
+msgstr "Maak verbinding met apparaten via Bluetooth om bestanden over te zetten of draadloze audio te gebruiken."
 
 #. (itstool) path: page/title
 #: C/bluetooth.page:29
@@ -2371,7 +2373,7 @@ msgstr "Wanneer één of meer Bluetooth-apparaten verbonden zijn, zal het Blueto
 #. (itstool) path: credit/name
 #: C/bluetooth-device-specific-pairing.page:10
 msgid "Bastien Nocera"
-msgstr ""
+msgstr "Bastien Nocera"
 
 #. (itstool) path: info/desc
 #: C/bluetooth-device-specific-pairing.page:16
@@ -2381,7 +2383,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/bluetooth-device-specific-pairing.page:19
 msgid "Pairing instructions for specific devices"
-msgstr ""
+msgstr "Koppelinstructies voor specifieke apparaten"
 
 #. (itstool) path: page/p
 #: C/bluetooth-device-specific-pairing.page:21
@@ -2389,7 +2391,7 @@ msgid ""
 "Even if you manage to source the manual for a device, it might not contain "
 "enough information to make pairing possible. Here are details for a few "
 "common devices."
-msgstr ""
+msgstr "Zelfs als u de handleiding voor een apparaat kunt terugvinden bevat deze misschien niet genoeg informatie om koppelen mogelijk te maken. Hier vindt u informatie voor enkele veelvoorkomende apparaten."
 
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:27
@@ -2407,7 +2409,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:34
 msgid "PlayStation 4 joypads"
-msgstr ""
+msgstr "PlayStation 4-controllers"
 
 #. (itstool) path: item/p
 #: C/bluetooth-device-specific-pairing.page:35
@@ -2430,7 +2432,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:47
 msgid "PlayStation 3 joypads"
-msgstr ""
+msgstr "PlayStation 3-controllers"
 
 #. (itstool) path: item/p
 #: C/bluetooth-device-specific-pairing.page:48
@@ -2444,7 +2446,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:56
 msgid "PlayStation 3 BD Remote Control"
-msgstr ""
+msgstr "PlayStation 3 BD-afstandsbediening"
 
 #. (itstool) path: item/p
 #: C/bluetooth-device-specific-pairing.page:57
@@ -2456,7 +2458,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:61
 msgid "Nintendo Wii and Wii U Remotes"
-msgstr ""
+msgstr "Nintendo Wii- en Wii U-controllers"
 
 #. (itstool) path: item/p
 #: C/bluetooth-device-specific-pairing.page:62
@@ -2472,7 +2474,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:70
 msgid "ION iCade"
-msgstr ""
+msgstr "ION iCade"
 
 #. (itstool) path: item/p
 #: C/bluetooth-device-specific-pairing.page:71
@@ -2500,7 +2502,7 @@ msgstr "Ik kan mijn Bluetooth-apparaat niet aansluiten"
 msgid ""
 "There are a number of reasons why you may not be able to connect to a "
 "Bluetooth device, such as a phone or headset."
-msgstr "Er zijn meerdere redenen waarom u een Bluetooth-apparaat (zoals een telefoon of koptelefoon) niet kunt aansluiten:"
+msgstr "Er zijn meerdere redenen waarom u een Bluetooth-apparaat (zoals een telefoon of koptelefoon) niet kunt aansluiten."
 
 #. (itstool) path: item/title
 #: C/bluetooth-problem-connecting.page:43
@@ -2607,7 +2609,7 @@ msgstr ""
 msgid ""
 "You can <link xref=\"bluetooth-connect-device\">reconnect a Bluetooth "
 "device</link> later if desired."
-msgstr "U kunt desgewenst later <link xref=\"bluetooth-connect-device\"> opnieuw met een  Bluetooth-apparaat verbinden</link>."
+msgstr "U kunt desgewenst later <link xref=\"bluetooth-connect-device\"> opnieuw met een Bluetooth-apparaat verbinden</link>."
 
 #. (itstool) path: info/desc
 #: C/bluetooth-send-file.page:48
@@ -2913,7 +2915,7 @@ msgstr "Als de in de bovenbalk weergegeven datum en tijd onjuist zijn of in de v
 #. (itstool) path: item/p
 #: C/clock-set.page:49 C/clock-timezone.page:53
 msgid "Click <gui>Date &amp; Time</gui> in the sidebar to open the panel."
-msgstr ""
+msgstr "Klik op <gui>Datum &amp; tijd</gui> in de zijbalk om het paneel te openen."
 
 #. (itstool) path: item/p
 #: C/clock-set.page:52
@@ -2960,7 +2962,7 @@ msgid ""
 "zone should update automatically if you have an internet connection and the "
 "<link xref=\"privacy-location\">location services feature</link> is enabled."
 " To update your time zone manually, set this to off."
-msgstr ""
+msgstr "Als <gui>Automatische tijdzone</gui> ingeschakeld is, dan moet uw tijdzone automatisch bijgewerkt worden als u een internetverbinding hebt en de <link xref=\"privacy-location\">locatiedienstfunctie</link> ingeschakeld is. Om de tijdzone handmatig bij te werken dient u dit uit te schakelen."
 
 #. (itstool) path: item/p
 #: C/clock-timezone.page:63
@@ -3013,14 +3015,14 @@ msgstr "Om een wereldklok toe te voegen:"
 #. (itstool) path: item/p
 #: C/clock-world.page:39
 msgid "Click the clock on the top bar."
-msgstr ""
+msgstr "Klik op de klok in de bovenbalk."
 
 #. (itstool) path: item/p
 #: C/clock-world.page:42
 msgid ""
 "Click the <gui>Add world clocks…</gui> button under the calendar to launch "
 "<app>Clocks</app>."
-msgstr ""
+msgstr "Klik op <gui>Wereldklokken toevoegen…</gui> onder de agenda om <app>Klok</app> te starten."
 
 #. (itstool) path: note/p
 #: C/clock-world.page:46
@@ -3056,12 +3058,12 @@ msgstr "Druk op <gui style=\"button\">Toevoegen</gui> om het toevoegen van de st
 msgid ""
 "Refer to the <link href=\"help:gnome-clocks\">Clocks Help</link> for more of"
 " the capabilities of <app>Clocks</app>."
-msgstr "Raadpleeg <link href=\"help:gnome-clocks\">Klok Hulp</link> voor meer mogelijkheden van  <app>Klokken</app>."
+msgstr "Raadpleeg de <link href=\"help:gnome-clocks\">Hulp voor Klok</link> voor meer mogelijkheden van <app>Klok</app>."
 
 #. (itstool) path: info/desc
 #: C/clock.page:19
 msgid "Use clocks and timezones, and keep track of appointments."
-msgstr ""
+msgstr "Gebruik klokken en tijdzones, en hou afspraken bij."
 
 #. (itstool) path: page/title
 #: C/clock.page:22
@@ -3087,12 +3089,12 @@ msgstr "Richard Hughes"
 #: C/color.page:14
 msgctxt "link:trail"
 msgid "Color"
-msgstr ""
+msgstr "Kleur"
 
 #. (itstool) path: info/desc
 #: C/color.page:15
 msgid "Calibrate color profiles on monitors, printers, and other devices."
-msgstr ""
+msgstr "Kalibreer kleurprofielen op beeldschermen, printers en andere apparaten."
 
 #. (itstool) path: page/title
 #: C/color.page:19
@@ -3114,7 +3116,7 @@ msgstr "Kalibratie"
 msgid ""
 "Look in <guiseq><gui>Settings</gui><gui>Color</gui></guiseq> to add a color "
 "profile for your screen."
-msgstr " Ga in <guiseq><gui>Instellingen</gui><gui>Kleur</gui></guiseq> om een kleurprofiel voor uw scherm toe te voegen."
+msgstr "Ga naar <guiseq><gui>Instellingen</gui><gui>Kleur</gui></guiseq> om een kleurprofiel voor uw scherm toe te voegen."
 
 #. (itstool) path: page/title
 #: C/color-assignprofiles.page:38
@@ -3168,7 +3170,7 @@ msgid ""
 "is no extra information to allow the profile to be chosen automatically. An "
 "example of this automatic selection would be if one profile was created for "
 "glossy paper and another plain paper."
-msgstr "Elk apparaat kan meerdere profielen toegewezen krijgen, maar slechts één profiel kan het <em>standaard</em> profiel zijn. Het standaard profiel wordt gebruikt wanneer er geen extra informatie is om het profiel automatisch te laten kiezen. Een voorbeeld van deze automatische selectie is als er één profiel aangemaakt is voor glanspapier en een ander voor  gewoon papier."
+msgstr "Elk apparaat kan meerdere profielen toegewezen krijgen, maar slechts één profiel kan het <em>standaard</em>profiel zijn. Het standaardprofiel wordt gebruikt wanneer er geen extra informatie is om het profiel automatisch te laten kiezen. Een voorbeeld van deze automatische selectie is als er één profiel aangemaakt is voor glanspapier en een ander voor gewoon papier."
 
 #. (itstool) path: page/p
 #: C/color-assignprofiles.page:75
@@ -3268,7 +3270,7 @@ msgstr "Kalibreren van uw scanner is belangrijk om kleuren nauwkeurig vast te le
 #. (itstool) path: page/title
 #: C/color-calibrate-scanner.page:40
 msgid "How do I calibrate my scanner?"
-msgstr "Hoe kalibreer ik mijn scanner"
+msgstr "Hoe kalibreer ik mijn scanner?"
 
 #. (itstool) path: page/p
 #: C/color-calibrate-scanner.page:47
@@ -3292,7 +3294,7 @@ msgstr "Scan uw kalibratiedoel en sla het op als niet-ingepakt TIFF-bestand."
 #. (itstool) path: item/p
 #: C/color-calibrate-scanner.page:69
 msgid "Select your scanner."
-msgstr ""
+msgstr "Selecteer uw scanner."
 
 #. (itstool) path: item/p
 #: C/color-calibrate-scanner.page:72 C/color-calibrate-screen.page:67
@@ -3340,7 +3342,7 @@ msgstr "Zorg ervoor dat uw kalibratieappraat met uw computer is verbonden."
 #. (itstool) path: item/p
 #: C/color-calibrate-screen.page:64
 msgid "Select your screen."
-msgstr ""
+msgstr "Selecteer uw scherm."
 
 #. (itstool) path: page/p
 #: C/color-calibrate-screen.page:72
@@ -3441,7 +3443,7 @@ msgid ""
 "The system relies on the Argyll color management system to support color "
 "instruments. A list of supported measuring instruments can be found at <link"
 " href=\"https://www.argyllcms.com/doc/instruments.html\"/>."
-msgstr ""
+msgstr "Het systeem gebruikt Argyll-kleurbeheer om kleurinstrumenten te ondersteunen. Een lijst met ondersteunde instrumenten voor het meten van beeldschermen is te vinden op <link href=\"https://www.argyllcms.com/doc/instruments.html\"/>."
 
 #. (itstool) path: info/desc
 #: C/color-calibrationtargets.page:9
@@ -3607,7 +3609,7 @@ msgstr "Kleurprofielen kunnen geïmporteerd worden door ze te openen."
 #. (itstool) path: page/title
 #: C/color-howtoimport.page:38
 msgid "How do I import color profiles?"
-msgstr "Hoe importeer ik  kleurprofielen?"
+msgstr "Hoe importeer ik kleurprofielen?"
 
 #. (itstool) path: page/p
 #: C/color-howtoimport.page:40
@@ -3621,12 +3623,12 @@ msgstr "U kunt een kleurprofiel importeren door te dubbelklikken op een <file>.I
 msgid ""
 "Alternatively you can manage your color profiles through the "
 "<gui>Color</gui> panel."
-msgstr "U kunt ook uw kleurprofielen beheren via het paneel <gui>Kleur</gui>"
+msgstr "U kunt ook uw kleurprofielen beheren via het paneel <gui>Kleur</gui>."
 
 #. (itstool) path: item/p
 #: C/color-howtoimport.page:57
 msgid "Select your device."
-msgstr ""
+msgstr "Selecteer uw apparaat."
 
 #. (itstool) path: page/p
 #: C/color-howtoimport.page:68
@@ -3728,7 +3730,7 @@ msgid ""
 "only gives us a snapshot of the available colors the monitor was capable of "
 "displaying when it was manufactured, and does not contain much other "
 "information for color correction."
-msgstr "Het standaard kleurprofiel dat voor elke monitor gebruikt wordt, wordt automatisch gegenereerd op basis van de monitor <link href=\"https://en.wikipedia.org/wiki/Extended_Display_Identification_Data\"> EDID</link> dat op een geheugenchip in de monitor is opgeslagen. De EDID geeft ons slechts een momentopname van welke kleuren de monitor kon weergeven toen deze werd gefabriceerd, en bevat niet veel andere informatie over  kleurcorrectie."
+msgstr "Het standaardkleurprofiel dat voor elke monitor gebruikt wordt, wordt automatisch gegenereerd op basis van de <link href=\"https://en.wikipedia.org/wiki/Extended_Display_Identification_Data\">EDID</link> van de monitor, die op een geheugenchip in de monitor is opgeslagen. De EDID geeft ons slechts een momentopname van welke kleuren de monitor kon weergeven toen deze werd gefabriceerd, en bevat niet veel andere informatie over kleurcorrectie."
 
 #. (itstool) path: note/p
 #: C/color-notspecifiededid.page:29
@@ -3796,7 +3798,7 @@ msgid ""
 "<gui>Color</gui> panel, then select the profile that you were using before "
 "you tried one of the test profiles and press <gui>Enable</gui> to use it "
 "again."
-msgstr "Om terug te gaan naar uw vorige profiel kiest u het apparaat in het <gui>Kleur</gui>-venster en vervolgens het profiel dat u gebruikte voordat u een van de testprofielen probeerde; klik  op <gui>Inschakelen</gui> om het weer te gebruiken."
+msgstr "Om terug te gaan naar uw vorige profiel kiest u het apparaat in het <gui>Kleur</gui>-venster en vervolgens het profiel dat u gebruikte voordat u een van de testprofielen probeerde; klik op <gui>Inschakelen</gui> om het weer te gebruiken."
 
 #. (itstool) path: page/p
 #: C/color-testing.page:97
@@ -3845,7 +3847,7 @@ msgid ""
 "when this is achieved the system is said to have an <em>end-to-end color-"
 "managed workflow</em>. With this kind of workflow you can be sure that "
 "colors are not being lost or modified."
-msgstr "Elk apparaat dat met kleuren werkt zou zijn eigen ICC-profiel moeten hebben en wanneer dit  bereikt is wordt gezegd dat het systeem een <em>end-to-end color-managed workflow</em> heeft."
+msgstr "Elk apparaat dat met kleuren werkt zou zijn eigen ICC-profiel moeten hebben en wanneer dit bereikt is wordt gezegd dat het systeem een <em>end-to-end color-managed workflow</em> heeft. Met deze soort workflow bent u ervan verzekerd dat er geen kleuren verloren gaan of gewijzigd zijn."
 
 #. (itstool) path: info/desc
 #: C/color-whatisspace.page:9
@@ -3916,7 +3918,7 @@ msgid ""
 "ProPhoto is the largest space available and is frequently used for document "
 "archival. It can encode nearly the whole range of colors detected by the "
 "human eye, and even encode colors that the eye cannot detect!"
-msgstr "PhoPhoto is het grootste beschikbare palet en wordt vaak gebruikt voor het archiveren van documenten. Het kan bijna het volledige bereik dat het menselijke oog detecteert coderen, en zelfs kleuren die niet door het oog kunnen worden waargenomen."
+msgstr "PhoPhoto is het grootste beschikbare palet en wordt vaak gebruikt voor het archiveren van documenten. Het kan bijna het volledige bereik dat het menselijke oog detecteert coderen, en zelfs kleuren die niet door het oog kunnen worden waargenomen!"
 
 #. (itstool) path: page/p
 #: C/color-whatisspace.page:73
@@ -3934,7 +3936,7 @@ msgid ""
 "color, and for some colors this is a big problem. It turns out that key "
 "colors, like skin colors are very important, and even small errors will make"
 " untrained viewers notice that something in a photograph looks wrong."
-msgstr "Grotere stappen betekent een grotere fout tussen de opgenomen kleur en de opgeslagen kleur, en voor sommige kleuren is dit een groot probleem. Het blijkt dat grondkleuren, net als huidskleuren, erg belangrijk zijn, en zelfs bij kleine fouten zullen  ongetrainde kijkers merken dat er iets mis is met de foto."
+msgstr "Grotere stappen betekent een grotere fout tussen de opgenomen kleur en de opgeslagen kleur, en voor sommige kleuren is dit een groot probleem. Het blijkt dat grondkleuren, net als huidskleuren, erg belangrijk zijn, en zelfs bij kleine fouten zullen ongetrainde kijkers merken dat er iets mis is met de foto."
 
 #. (itstool) path: page/p
 #: C/color-whatisspace.page:86
@@ -4046,7 +4048,7 @@ msgstr "U ziet dat het wit niet ‘echt wit’ is en het zwart van de ogen is nu
 #. (itstool) path: figure/desc
 #: C/color-whyimportant.page:50
 msgid "This is what the user sees when printing on a typical inkjet printer"
-msgstr "Dit is wat de gebruiker te zien krijgt bij het afdrukken op een inkjet printer"
+msgstr "Dit is wat de gebruiker te zien krijgt bij het afdrukken op een inkjetprinter"
 
 #. (itstool) path: page/p
 #: C/color-whyimportant.page:54
@@ -4103,7 +4105,7 @@ msgid ""
 "might want to match the color exactly, which is important if you’re trying "
 "to print a custom mug with the Red Hat logo that <em>has</em> to be the "
 "exact Red Hat Red."
-msgstr "Voor foto's is het zinvol om het volledige kleurenspectrum van een apparaat te gebruiken, om in staat te zijn vloeiende veranderingen aan te brengen in de kleuren. Voor andere afbeeldingen wilt u de kleuren misschien exact overeen laten komen, wat belangrijk is als u op een mok het Red Hat-logo wilt printen,  dat precies het goede Red Hat-rood<em>moet</em> zijn."
+msgstr "Voor foto's is het zinvol om het volledige kleurenspectrum van een apparaat te gebruiken, om in staat te zijn vloeiende veranderingen aan te brengen in de kleuren. Voor andere afbeeldingen wilt u de kleuren misschien exact overeen laten komen, wat belangrijk is als u op een mok het Red Hat-logo wilt printen, dat precies het goede Red Hat-rood<em>moet</em> zijn."
 
 #. (itstool) path: credit/name
 #: C/contacts-add-remove.page:15
@@ -4115,7 +4117,7 @@ msgstr "Lucie Hankey"
 #: C/contacts-edit-details.page:30 C/contacts-link-unlink.page:29
 #: C/contacts-setup.page:29
 msgid "Pranali Deshmukh"
-msgstr ""
+msgstr "Pranali Deshmukh"
 
 #. (itstool) path: info/desc
 #: C/contacts-add-remove.page:34
@@ -4169,7 +4171,7 @@ msgstr "Een contact verwijderen:"
 #: C/contacts-add-remove.page:63 C/contacts-connect.page:44
 #: C/contacts-edit-details.page:47
 msgid "Select the contact from your contact list."
-msgstr "Kies een contactpersoon uit uw contactenlijst"
+msgstr "Kies een contactpersoon uit uw contactenlijst."
 
 #. (itstool) path: item/p
 #: C/contacts-add-remove.page:66
@@ -4275,7 +4277,7 @@ msgstr ""
 msgid ""
 "Press the <_:media-1/> button in the top-right corner of the window and "
 "select <gui style=\"menuitem\">Edit</gui>."
-msgstr ""
+msgstr "Druk op <_:media-1/> in de rechterbovenhoek van het venster en selecteer <gui style=\"menuitem\">Bewerken</gui>."
 
 #. (itstool) path: item/p
 #: C/contacts-edit-details.page:56
@@ -4365,7 +4367,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/contacts-link-unlink.page:76
 msgid "Press <_:media-1/> in the top-right corner of <app>Contacts</app>."
-msgstr ""
+msgstr "Druk op <_:media-1/> in de rechterbovenhoek van <app>Contacten</app>."
 
 #. (itstool) path: item/p
 #: C/contacts-link-unlink.page:81
@@ -4561,7 +4563,7 @@ msgstr "Onderaan de grafiek worden waarden weergegeven voor de minimale, maximal
 #. (itstool) path: credit/name
 #: C/disk-capacity.page:20 C/net-findip.page:30
 msgid "Rafael Fontenelle"
-msgstr ""
+msgstr "Rafael Fontenelle"
 
 #. (itstool) path: info/desc
 #: C/disk-capacity.page:32
@@ -4617,7 +4619,7 @@ msgid ""
 "<gui>Size</gui>, <gui>Contents</gui> and when the data was last "
 "<gui>Modified</gui>. See more details in <link "
 "href=\"help:baobab\"><app>Disk Usage Analyzer</app></link>."
-msgstr "De informatie wordt weergegeven naar <gui>Map</gui>, <gui>Grootte</gui>, <gui>Inhoud</gui> en wanneer de gegevens voor het laatst zijn <gui>Gewijzigd</gui>.  Ga voor meer informatie naar <link href=\"help:baobab\"><app>Schijfgebruik</app></link>."
+msgstr "De informatie wordt weergegeven naar <gui>Map</gui>, <gui>Grootte</gui>, <gui>Inhoud</gui> en wanneer de gegevens voor het laatst zijn <gui>Gewijzigd</gui>. Ga voor meer informatie naar <link href=\"help:baobab\"><app>Schijfgebruik</app></link>."
 
 #. (itstool) path: section/title
 #: C/disk-capacity.page:69
@@ -4647,7 +4649,7 @@ msgstr "Selecteer het tabblad <gui>Bestandssystemen</gui> om de partities van he
 #. (itstool) path: section/title
 #: C/disk-capacity.page:86
 msgid "Check with Usage"
-msgstr ""
+msgstr "Controleren met Schijfgebruik"
 
 #. (itstool) path: section/p
 #: C/disk-capacity.page:88
@@ -4837,7 +4839,7 @@ msgstr ""
 msgid ""
 "In the window that pops up, choose a file system <gui>Type</gui> for the "
 "disk."
-msgstr "Kies een bestandssysteem voor de schijf  in het <gui>Type</gui>-veld in het venster dat verschijnt."
+msgstr "Kies een bestandssysteem voor de schijf in het <gui>Type</gui>-veld in het venster dat verschijnt."
 
 #. (itstool) path: item/p
 #: C/disk-format.page:55
@@ -4854,7 +4856,7 @@ msgid ""
 "Give the disk a name and click <gui>Next</gui> to continue and show a "
 "confirmation window. Check the details carefully, and click "
 "<gui>Format</gui> to wipe the disk."
-msgstr ""
+msgstr "Geef de schijf een naam en klik op <gui>Volgende</gui> om door te gaan en een bevestigingsvenster te tonen. Lees de details nauwkeurig en klik op <gui>Formatteren</gui> om de schijf leeg te maken."
 
 #. (itstool) path: item/p
 #: C/disk-format.page:66
@@ -4979,7 +4981,7 @@ msgstr "Eén primaire partitie moet informatie bevatten die gebruikt wordt door 
 #: C/disk-repair.page:20
 msgid ""
 "Check if a filesystem is damaged and bring it back into a usable state."
-msgstr "Controleer of een bestandssysteem beschadigd is en  breng het terug in een bruikbare staat."
+msgstr "Controleer of een bestandssysteem beschadigd is en breng het terug in een bruikbare staat."
 
 #. (itstool) path: page/title
 #: C/disk-repair.page:25
@@ -5225,7 +5227,7 @@ msgstr "Nadat de benodigde aanpassings- en reparatieacties voltooid zijn, kan he
 #: C/disk.page:15
 msgctxt "link:trail"
 msgid "Disks"
-msgstr ""
+msgstr "Schijven"
 
 #. (itstool) path: info/desc
 #: C/disk.page:16
@@ -5380,7 +5382,7 @@ msgstr ""
 #: C/display-dual-monitors.page:95 C/display-night-light.page:39
 #: C/look-display-fuzzy.page:53 C/look-resolution.page:61
 msgid "Click <gui>Displays</gui> to open the panel."
-msgstr ""
+msgstr "Klik op <gui>Schermen</gui> om het paneel te openen."
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:98
@@ -5413,7 +5415,7 @@ msgstr ""
 msgid ""
 "Click on each monitor in the list and select the orientation, resolution or "
 "scale, and refresh rate."
-msgstr ""
+msgstr "Klik op elk beeldscherm in de lijst en selecteer de oriëntatie, resolutie of schaal en verversingsfrequentie."
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:119 C/look-resolution.page:72
@@ -5460,7 +5462,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/display-dual-monitors.page:147
 msgid "Adding more than one monitor"
-msgstr ""
+msgstr "Meer dan een beeldscherm toevoegen"
 
 #. (itstool) path: section/p
 #: C/display-dual-monitors.page:148
@@ -5472,23 +5474,23 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:152
 msgid "Press the button for the display that you would like to configure."
-msgstr ""
+msgstr "Klik op de knop voor het scherm dat u wilt configureren."
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:156
 msgid "Drag the screens to the desired relative positions."
-msgstr ""
+msgstr "Versleep de schermen naar de gewenste relatieve posities."
 
 #. (itstool) path: credit/years
 #: C/display-night-light.page:13
 msgid "2018"
-msgstr ""
+msgstr "2018"
 
 #. (itstool) path: info/desc
 #: C/display-night-light.page:23
 msgid ""
 "Night Light changes the color of your displays according to the time of day."
-msgstr ""
+msgstr "Het nachtlicht past de kleur van uw beeldschermen aan naargelang het uur van de dag."
 
 #. (itstool) path: page/title
 #: C/display-night-light.page:27
@@ -5507,12 +5509,12 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/display-night-light.page:42
 msgid "Click <gui>Night Light</gui> to open the settings."
-msgstr ""
+msgstr "Klik op <gui>Nachtlicht</gui> om de instellingen te openen."
 
 #. (itstool) path: item/p
 #: C/display-night-light.page:45
 msgid "Ensure the <gui>Night Light</gui> switch is set to on."
-msgstr ""
+msgstr "Zorg ervoor dat <gui>Nachtlicht</gui> ingeschakeld is."
 
 #. (itstool) path: item/p
 #: C/display-night-light.page:48
@@ -5778,7 +5780,7 @@ msgid ""
 "xref=\"files-preview\">preview each file</link> by pressing the space bar to"
 " be sure you have the right file before opening it, copying it, or deleting "
 "it."
-msgstr "Wanneer u de bestanden in een map bekijkt, dan kunt u snel  <link xref=\"files-preview\">een voorbeeld van elk bestand bekijken</link> door op de spatiebalk te drukken; hierdoor bent u zeker dat u het juiste bestand heeft voordat u het opent, kopieert of verwijdert."
+msgstr "Wanneer u de bestanden in een map bekijkt, dan kunt u snel <link xref=\"files-preview\">een voorbeeld van elk bestand bekijken</link> door op de spatiebalk te drukken; hierdoor bent u zeker dat u het juiste bestand heeft voordat u het opent, kopieert of verwijdert."
 
 #. (itstool) path: section/p
 #: C/files-browse.page:80
@@ -5856,7 +5858,7 @@ msgstr "Bestanden kopiëren en plakken"
 #. (itstool) path: item/p
 #: C/files-copy.page:48
 msgid "Select the file you want to copy by clicking on it once."
-msgstr "Selecteer het bestand dat u wilt kopiëren door er één keer op te  klikken."
+msgstr "Selecteer het bestand dat u wilt kopiëren door er één keer op te klikken."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:49
@@ -5999,7 +6001,7 @@ msgstr "Selecteer het item dat u naar de prullenbak wilt verplaatsen door er é�
 msgid ""
 "Press <key>Delete</key> on your keyboard. Alternatively, drag the item to "
 "the <gui>Trash</gui> in the sidebar."
-msgstr "Druk de  <key>Delete</key>-toets op het toetsenbord. U kunt het item ook naar de <gui>Prullenbak</gui> in de zijbalk slepen."
+msgstr "Druk op <key>Delete</key> op het toetsenbord. U kunt het item ook naar de <gui>Prullenbak</gui> in de zijbalk slepen."
 
 #. (itstool) path: page/p
 #: C/files-delete.page:56
@@ -6008,7 +6010,7 @@ msgid ""
 "to <gui>Undo</gui> the deletion. The <gui>Undo</gui> button will appear for "
 "a few seconds. If you select <gui>Undo</gui>, the file will be restored to "
 "its original location."
-msgstr "Het  bestand zal naar de prullenbak worden verplaatst, en u krijgt de keuze voor het <gui>ongedaan maken</gui> van de verwijdering. De knop <gui>Ongedaan maken</gui> zal enkele seconden te zien zijn. Als u <gui>Ongedaan maken</gui> kiest, dan zal het bestand naar de oorspronkelijke locatie teruggezet worden."
+msgstr "Het bestand zal naar de prullenbak worden verplaatst, en u krijgt de keuze voor het <gui>ongedaan maken</gui> van de verwijdering. De knop <gui>Ongedaan maken</gui> zal enkele seconden te zien zijn. Als u <gui>Ongedaan maken</gui> kiest, dan zal het bestand naar de oorspronkelijke locatie teruggezet worden."
 
 #. (itstool) path: page/p
 #: C/files-delete.page:61
@@ -6291,7 +6293,7 @@ msgid ""
 "applications by clicking <gui>Find New Applications</gui>. The file manager "
 "will search online for packages containing applications that are known to "
 "handle files of that type."
-msgstr "Als u nog steeds niet de gewenste toepassing kunt vinden, dan kunt u naar meer toepassingen zoeken door te klikken op  <gui>Nieuwe toepassingen zoeken</gui>. Bestandsbeheer zal online zoeken naar pakketten met toepassingen die om kunnen gaan met bestanden van dat type."
+msgstr "Als u nog steeds niet de gewenste toepassing kunt vinden, dan kunt u naar meer toepassingen zoeken door te klikken op <gui>Nieuwe toepassingen zoeken</gui>. Bestandsbeheer zal online zoeken naar pakketten met toepassingen die om kunnen gaan met bestanden van dat type."
 
 #. (itstool) path: section/title
 #: C/files-open.page:47
@@ -6345,7 +6347,7 @@ msgstr "Als <gui>Andere toepassingen</gui> een toepassing bevat die u soms wilt 
 msgid ""
 "This changes the default application not just for the selected file, but for"
 " all files with the same type."
-msgstr "Dit verandert de standaardtoepassing niet alleen voor het geselecteerde bestand, maar voor alle bestanden met  hetzelfde type."
+msgstr "Dit verandert de standaardtoepassing niet alleen voor het geselecteerde bestand, maar voor alle bestanden met hetzelfde type."
 
 #. (itstool) path: info/desc
 #: C/files-preview.page:26
@@ -6406,7 +6408,7 @@ msgstr "Wanneer u bestanden verwijdert worden ze normaal gesproken naar de Prull
 #. (itstool) path: page/title
 #: C/files-recover.page:33
 msgid "Recover a file from the Trash"
-msgstr "Een bestand dat u verwijderd heeft terughalen."
+msgstr "Een verwijderd bestand terughalen"
 
 #. (itstool) path: page/p
 #: C/files-recover.page:35
@@ -6436,7 +6438,7 @@ msgid ""
 "Click <gui>Trash</gui> in the sidebar. If you do not see the sidebar, press "
 "the menu button in the top-right corner of the window and select "
 "<gui>Sidebar</gui>."
-msgstr ""
+msgstr "Klik in de zijbalk op <gui>Prullenbak</gui>. Als de zijbalk niet zichtbaar is klikt u in de rechterbovenhoek van het venster op de menuknop en selecteert u <gui>Zijbalk</gui>."
 
 #. (itstool) path: item/p
 #: C/files-recover.page:52
@@ -6690,7 +6692,7 @@ msgstr "Als <gui>Hernoemen</gui> grijs is, dan heeft u geen toestemming om het b
 #: C/files-search.page:44
 msgctxt "link:trail"
 msgid "Search"
-msgstr ""
+msgstr "Zoeken"
 
 #. (itstool) path: info/desc
 #: C/files-search.page:45
@@ -6902,7 +6904,7 @@ msgid ""
 "If you have an OpenDocument Text file, a PDF file, and an image that all "
 "have the same base name <file>Invoice</file>, select all three with the "
 "pattern"
-msgstr "Als u een OpenDocument-tekstbestand, een PDF-bestand en een afbeelding heeft die allemaal dezelfde basisnaam <file>Factuur</file> hebben, selecteer ze dan alle drie met het filter."
+msgstr "Als u een OpenDocument-tekstbestand, een PDF-bestand en een afbeelding hebt die allemaal dezelfde basisnaam <file>Factuur</file> hebben, selecteer ze dan alle drie met het patroon"
 
 #. (itstool) path: example/p
 #: C/files-select.page:42
@@ -7139,7 +7141,7 @@ msgstr "Snel documenten aanmaken op basis van aangepaste bestandssjablonen."
 #. (itstool) path: page/title
 #: C/files-templates.page:30
 msgid "Templates for commonly-used document types"
-msgstr "Sjablonen voor veelgebruikte documenttypes."
+msgstr "Sjablonen voor veelgebruikte documenttypes"
 
 #. (itstool) path: page/p
 #: C/files-templates.page:32
@@ -7288,12 +7290,12 @@ msgstr "Hoe en waar u problemen kunt rapporteren met deze hulp-onderwerpen."
 #. (itstool) path: page/title
 #: C/get-involved.page:22
 msgid "Participate to improve this guide"
-msgstr "Doe mee om deze handleiding te verbeteren."
+msgstr "Doe mee om deze handleiding te verbeteren"
 
 #. (itstool) path: section/title
 #: C/get-involved.page:26
 msgid "Submit an issue"
-msgstr ""
+msgstr "Meld een probleem"
 
 #. (itstool) path: section/p
 #: C/get-involved.page:28
@@ -7396,7 +7398,7 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/hardware-auth.page:13
 msgid "Use hardware devices to authenticate instead of passwords."
-msgstr ""
+msgstr "Gebruik hardwareapparaten om u aan te melden in plaats van wachtwoorden."
 
 #. (itstool) path: page/title
 #: C/hardware-auth.page:18
@@ -7406,7 +7408,7 @@ msgstr "Vingerafdruk &amp; smartcards"
 #. (itstool) path: info/desc
 #: C/hardware-cardreader.page:29
 msgid "Troubleshoot media card readers."
-msgstr ""
+msgstr "Problemen met mediakaartlezers oplossen."
 
 #. (itstool) path: page/title
 #: C/hardware-cardreader.page:32
@@ -7555,7 +7557,7 @@ msgstr "Hardware"
 msgid ""
 "Configure hardware and diagnose problems, including printers, displays, "
 "disks, and more."
-msgstr ""
+msgstr "Configureer hardware en los problemen op, inclusief printers, beeldschermen, schijven, en meer."
 
 #. (itstool) path: page/title
 #: C/hardware.page:22
@@ -7633,7 +7635,7 @@ msgid ""
 "Please note the <link "
 "href=\"https://wiki.gnome.org/Foundation/CodeOfConduct\">GNOME code of "
 "conduct</link> applies when you chat on IRC."
-msgstr "houd er rekening mee dat de <link href=\"https://wiki.gnome.org/Foundation/CodeOfConduct\">GNOME code of conduct</link> van toepassing is wanneer u chat op IRC."
+msgstr "Houd er rekening mee dat de <link href=\"https://wiki.gnome.org/Foundation/CodeOfConduct\">GNOME code of conduct</link> van toepassing is wanneer u chat op IRC."
 
 #. (itstool) path: info/desc
 #: C/help-mailing-list.page:23
@@ -7690,7 +7692,7 @@ msgstr ""
 #: C/index.page:11
 msgctxt "link:trail"
 msgid "Help"
-msgstr ""
+msgstr "Hulp"
 
 #. (itstool) path: page/title
 #: C/index.page:16
@@ -7840,7 +7842,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/keyboard-key-super.page:65
 msgid "Select the <gui>System</gui> category."
-msgstr ""
+msgstr "Selecteer de categorie <gui>Systeem</gui>."
 
 #. (itstool) path: item/p
 #: C/keyboard-key-super.page:68
@@ -7987,7 +7989,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/input-methods-switcher.png' "
 "md5='1393ed6c6d43813439ddd74bac2707bb'"
-msgstr ""
+msgstr "@"
 
 #. (itstool) path: info/desc
 #: C/keyboard-nav.page:34
@@ -8024,12 +8026,12 @@ msgstr "Door de gebruikersinterface navigeren"
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:61
 msgid "<key>Tab</key> and"
-msgstr ""
+msgstr "<key>Tab</key> en"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:62
 msgid "<keyseq><key>Ctrl</key><key>Tab</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Ctrl</key><key>Tab</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:65
@@ -8164,12 +8166,12 @@ msgstr "Open het toepassingsmenu in de bovenbalk."
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:127
 msgid "<keyseq><key>Shift</key><key>F10</key></keyseq> or"
-msgstr ""
+msgstr "<keyseq><key>Shift</key><key>F10</key></keyseq> of"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:128
 msgid "<key xref=\"keyboard-key-menu\">Menu</key>"
-msgstr ""
+msgstr "<key xref=\"keyboard-key-menu\">Menu</key>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:130
@@ -8193,7 +8195,7 @@ msgstr "Het snelmenu voor de huidige map tonen in bestandsbeheer, alsof u met re
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:140
 msgid "<keyseq><key>Ctrl</key><key>PageUp</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Ctrl</key><key>PageUp</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:141 C/shell-keyboard-shortcuts.page:98
@@ -8204,7 +8206,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:142
 msgid "<keyseq><key>Ctrl</key><key>PageDown</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Ctrl</key><key>PageDown</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:143
@@ -8245,7 +8247,7 @@ msgstr "Door alle geopende vensters op een werkblad navigeren."
 #: C/keyboard-nav.page:177 C/keyboard-shortcuts-set.page:375
 #: C/shell-keyboard-shortcuts.page:133
 msgid "<keyseq><key>Super</key><key>V</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Super</key><key>V</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:178
@@ -8407,7 +8409,7 @@ msgstr "Het schermtoetsenbord wordt automatisch ingeschakeld als u een aanraaksc
 #. (itstool) path: item/p
 #: C/keyboard-osk.page:64
 msgid "Switch on <gui>Screen Keyboard</gui> in the <gui>Typing</gui> section."
-msgstr "Schakel het <gui>Schermtoetsenbord</gui> in onder het kopje <gui>Typen</gui>"
+msgstr "Schakel het <gui>Schermtoetsenbord</gui> in onder het kopje <gui>Typen</gui>."
 
 #. (itstool) path: page/p
 #: C/keyboard-osk.page:69
@@ -8451,7 +8453,7 @@ msgid ""
 "Press the <gui style=\"button\"><_:media-1/></gui> button to change your "
 "settings for <link xref=\"session-language\">Language</link> or <link "
 "xref=\"keyboard-layouts\">Input Sources</link>."
-msgstr ""
+msgstr "Druk op <gui style=\"button\"><_:media-1/></gui> om uw instellingen voor <link xref=\"session-language\">Taal</link> of <link xref=\"keyboard-layouts\">Invoerbronnen</link> te wijzigen."
 
 #. (itstool) path: info/desc
 #: C/keyboard-repeat-keys.page:42
@@ -8511,7 +8513,7 @@ msgstr "Wijzigen van de toets of toetsen die ingedrukt moeten worden voor een sn
 #. (itstool) path: item/p
 #: C/keyboard-shortcuts-set.page:80
 msgid "Select the desired category, or enter a search term."
-msgstr ""
+msgstr "Selecteer de gewenste categorie of voer een zoekopdracht in."
 
 #. (itstool) path: item/p
 #: C/keyboard-shortcuts-set.page:83
@@ -8672,7 +8674,7 @@ msgstr "<_:media-1/> of <key>Search</key>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:161
 msgid "Settings"
-msgstr ""
+msgstr "Instellingen"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:162
@@ -8692,7 +8694,7 @@ msgstr "Alle normale vensters verbergen"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:174
 msgid "Move to workspace on the left"
-msgstr ""
+msgstr "Verplaatsen naar werkblad aan linkerkant"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:175 C/shell-keyboard-shortcuts.page:96
@@ -8702,7 +8704,7 @@ msgstr "<keyseq><key>Super</key><key>Page Up</key></keyseq>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:178
 msgid "Move to workspace on the right"
-msgstr ""
+msgstr "Verplaatsen naar werkblad aan rechterkant"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:179 C/shell-keyboard-shortcuts.page:99
@@ -8712,44 +8714,44 @@ msgstr "<keyseq><key>Super</key><key>Page Down</key></keyseq>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:182
 msgid "Move window one monitor down"
-msgstr ""
+msgstr "Venster één monitor naar beneden verplaatsen"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:183
 msgid ""
 "<keyseq><key>Shift</key><key xref=\"keyboard-key-"
 "super\">Super</key><key>↓</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Shift</key><key xref=\"keyboard-key-super\">Super</key><key>↓</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:186
 msgid "Move window one monitor to the left"
-msgstr ""
+msgstr "Venster één monitor naar links verplaatsen"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:187 C/shell-keyboard-shortcuts.page:117
 msgid "<keyseq><key>Shift</key><key>Super</key><key>←</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Shift</key><key>Super</key><key>←</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:190
 msgid "Move window one monitor to the right"
-msgstr ""
+msgstr "Venster één monitor naar rechts verplaatsen"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:191 C/shell-keyboard-shortcuts.page:121
 msgid "<keyseq><key>Shift</key><key>Super</key><key>→</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Shift</key><key>Super</key><key>→</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:194
 msgid "Move window one monitor up"
-msgstr ""
+msgstr "Venster één monitor naar boven verplaatsen"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:195
 msgid "<keyseq><key>Shift</key><key>Super</key><key>↑</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Shift</key><key>Super</key><key>↑</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:198
@@ -8759,7 +8761,7 @@ msgstr "Venster één werkblad naar links verplaatsen"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:199
 msgid "<keyseq><key>Shift</key><key>Super</key> <key>Page Up</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Shift</key><key>Super</key> <key>Page Up</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:203
@@ -8774,12 +8776,12 @@ msgstr "<keyseq><key>Shift</key><key>Super</key><key>Page Down</key></keyseq>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:207
 msgid "Move window to last workspace"
-msgstr ""
+msgstr "Venster verplaatsen naar laatste werkblad"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:208
 msgid "<keyseq><key>Shift</key><key>Super</key><key>End</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Shift</key><key>Super</key><key>End</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:212
@@ -8789,7 +8791,7 @@ msgstr "Venster verplaatsen naar werkblad 1"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:213
 msgid "<keyseq><key>Shift</key><key>Super</key><key>Home</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Shift</key><key>Super</key><key>Home</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:217
@@ -8839,12 +8841,12 @@ msgstr "<keyseq><key>Ctrl</key><key>Alt</key><key>Esc</key></keyseq>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:241
 msgid "Switch to last workspace"
-msgstr ""
+msgstr "Overschakelen naar laatste werkblad"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:242
 msgid "<keyseq><key>Super</key><key>End</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Super</key><key>End</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:245
@@ -8854,7 +8856,7 @@ msgstr "Naar werkblad 1 schakelen"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:246
 msgid "<keyseq><key>Super</key><key>Home</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Super</key><key>Home</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:249
@@ -8899,7 +8901,7 @@ msgstr "Schermafdrukken"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:281
 msgid "Save a screenshot of a window"
-msgstr ""
+msgstr "Een schermafdruk van een venster opslaan"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:282 C/screen-shot-record.page:207
@@ -8910,7 +8912,7 @@ msgstr "<keyseq><key>Alt</key><key>Print</key></keyseq>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:285
 msgid "Save a screenshot of the entire screen"
-msgstr ""
+msgstr "Een schermafdruk van het hele scherm opslaan"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:286 C/screen-shot-record.page:211
@@ -9122,7 +9124,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:378
 msgid "Show the overview"
-msgstr ""
+msgstr "Het overzicht tonen"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:379
@@ -9284,7 +9286,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/keyboard-shortcuts-set.page:482
 msgid "Select <gui>Custom Shortcuts</gui>."
-msgstr ""
+msgstr "Selecteer <gui>Aangepaste sneltoetsen</gui>."
 
 #. (itstool) path: item/p
 #: C/keyboard-shortcuts-set.page:485
@@ -9338,7 +9340,7 @@ msgstr ""
 msgid ""
 "Select international keyboard layouts and use keyboard accessibility "
 "features."
-msgstr ""
+msgstr "Selecteer internationale toetsenbordindelingen en gebruik toegankelijkheidsfuncties voor het toetsenbord."
 
 #. (itstool) path: page/title
 #: C/keyboard.page:29
@@ -9359,17 +9361,17 @@ msgstr "April Gonzales"
 #. (itstool) path: credit/name
 #: C/look-background.page:45
 msgid "Ivan Stanton"
-msgstr ""
+msgstr "Ivan Stanton"
 
 #. (itstool) path: info/desc
 #: C/look-background.page:55
 msgid "Choose a style and set a background."
-msgstr ""
+msgstr "Kies een stijl en stel een achtergrond in."
 
 #. (itstool) path: page/title
 #: C/look-background.page:58
 msgid "Change the appearance of your desktop"
-msgstr ""
+msgstr "De weergave van uw bureaublad wijzigen"
 
 #. (itstool) path: page/p
 #: C/look-background.page:60
@@ -9377,51 +9379,51 @@ msgid ""
 "You can change the look of things that appear on the screen by setting the "
 "style preference to light or dark. You can choose an image or wallpaper as "
 "your desktop background."
-msgstr ""
+msgstr "U kunt de weergave van de dingen die op uw scherm verschijnen wijzigen door uw stijlvoorkeur in te stellen op licht of donker. U kunt een afbeelding als bureaubladachtergrond instellen."
 
 #. (itstool) path: section/title
 #: C/look-background.page:65
 msgid "Light or Dark Style"
-msgstr ""
+msgstr "Lichte of donkere stijl"
 
 #. (itstool) path: section/p
 #: C/look-background.page:66
 msgid "To switch between light and dark desktop styles:"
-msgstr ""
+msgstr "Om tussen de lichte en de donkere bureaubladstijl te wisselen:"
 
 #. (itstool) path: item/p
 #: C/look-background.page:70
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Appearance</gui>."
-msgstr ""
+msgstr "Open het <gui xref=\"shell-introduction#activities\">Activiteiten</gui>-overzicht en typ <gui>Weergave</gui>."
 
 #. (itstool) path: item/p
 #: C/look-background.page:74
 msgid ""
 "Click <gui>Appearance</gui> to open the panel. The currently selected style "
 "is shown at the top surrounded by a blue border."
-msgstr ""
+msgstr "Klik op <gui>Weergave</gui> om het paneel te openen. De huidige geselecteerde stijl wordt bovenaan weergegeven, omgeven door een blauwe rand."
 
 #. (itstool) path: item/p
 #: C/look-background.page:78
 msgid "Click to choose <gui>Light</gui> or <gui>Dark</gui>."
-msgstr ""
+msgstr "Klik om te kiezen tussen <gui>Licht</gui> of <gui>Donker</gui>."
 
 #. (itstool) path: item/p
 #: C/look-background.page:81
 msgid "The setting is applied immediately."
-msgstr ""
+msgstr "De instelling wordt onmiddellijk toegepast."
 
 #. (itstool) path: section/title
 #: C/look-background.page:88
 msgid "Background"
-msgstr ""
+msgstr "Achtergrond"
 
 #. (itstool) path: section/p
 #: C/look-background.page:89
 msgid "To change the image used for your background:"
-msgstr ""
+msgstr "Om de afbeelding die als achtergrond gebruikt wordt te wijzigen:"
 
 #. (itstool) path: item/p
 #: C/look-background.page:93
@@ -9433,17 +9435,17 @@ msgstr ""
 msgid ""
 "Click <gui>Appearance</gui> to open the panel. The currently selected "
 "wallpaper is shown at the top in the preview for the current style."
-msgstr ""
+msgstr "Klik op <gui>Weergave</gui> om het paneel te openen. De huidig geselecteerde achtergrond wordt bovenaan weergegeven in het voorbeeld voor de huidige stijl."
 
 #. (itstool) path: item/p
 #: C/look-background.page:100
 msgid "There are two ways to change the image used for your backgrounds:"
-msgstr ""
+msgstr "Er zijn twee manieren om de afbeelding die als achtergrond gebruikt wordt te wijzigen:"
 
 #. (itstool) path: item/p
 #: C/look-background.page:103
 msgid "Click one of the background images which are shipped with the system."
-msgstr ""
+msgstr "Klik op een van de achtergrondafbeeldingen die met het systeem meegeleverd werden."
 
 #. (itstool) path: note/p
 #: C/look-background.page:106
@@ -9503,7 +9505,7 @@ msgstr ""
 msgid ""
 "Try some of the <gui>Resolution</gui> options and select the one that makes "
 "the screen look better."
-msgstr ""
+msgstr "Probeer een aantal van de <gui>Resolutie</gui>-opties en selecteer die die het scherm er beter laten uitzien."
 
 #. (itstool) path: section/title
 #: C/look-display-fuzzy.page:62
@@ -9543,7 +9545,7 @@ msgstr "De resolutie en de oriëntatie (rotatie) van het scherm wijzigen."
 #. (itstool) path: page/title
 #: C/look-resolution.page:44
 msgid "Change the resolution or orientation of the screen"
-msgstr ""
+msgstr "De resolutie of de oriëntatie van het scherm wijzigen"
 
 #. (itstool) path: page/p
 #: C/look-resolution.page:46
@@ -9564,12 +9566,12 @@ msgstr "Als u meerdere beeldschermen heeft, en ze niet gespiegeld zijn, dan kunt
 #. (itstool) path: item/p
 #: C/look-resolution.page:69
 msgid "Select the orientation, resolution or scale, and refresh rate."
-msgstr ""
+msgstr "Selecteer de oriëntatie, resolutie of schaal en verversingsfrequentie.."
 
 #. (itstool) path: section/title
 #: C/look-resolution.page:80
 msgid "Orientation"
-msgstr ""
+msgstr "Oriëntatie"
 
 #. (itstool) path: section/p
 #: C/look-resolution.page:82
@@ -9642,19 +9644,19 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/look-resolution.page:125
 msgid "Refresh Rate"
-msgstr ""
+msgstr "Verversingsfrequentie"
 
 #. (itstool) path: section/p
 #: C/look-resolution.page:127
 msgid ""
 "The refresh rate is the number of times per second the screen image is "
 "drawn, or refreshed."
-msgstr ""
+msgstr "De verversingsfrequentie is het aantal keer per seconde dat het scherm getekend of ververst wordt."
 
 #. (itstool) path: section/title
 #: C/look-resolution.page:132
 msgid "Scale"
-msgstr ""
+msgstr "Schaal"
 
 #. (itstool) path: section/p
 #: C/look-resolution.page:134
@@ -9668,19 +9670,19 @@ msgstr ""
 #: C/media.page:20
 msgctxt "link:trail"
 msgid "Media"
-msgstr ""
+msgstr "Media"
 
 #. (itstool) path: info/desc
 #: C/media.page:21
 msgid ""
 "Manage your sound devices, use your media files, connect to external "
 "devices, and more."
-msgstr ""
+msgstr "Beheer uw geluidsapparaten, gebruik uw mediabestanden, maak verbinding met externe apparaten, en meer."
 
 #. (itstool) path: page/title
 #: C/media.page:27
 msgid "Sound and media"
-msgstr ""
+msgstr "Geluid en media"
 
 #. (itstool) path: info/title
 #: C/media.page:31
@@ -9705,7 +9707,7 @@ msgstr "Geluid"
 msgid ""
 "Adjust the volume for different apps, and configure different speakers and "
 "microphones."
-msgstr ""
+msgstr "Pas het volume voor verschillende toepassingen aan en stel verschillende luidsprekers in microfoons in."
 
 #. (itstool) path: section/title
 #: C/media.page:38
@@ -9716,18 +9718,18 @@ msgstr "Basisgeluid"
 #: C/media.page:42
 msgctxt "link"
 msgid "Music, video &amp; devices"
-msgstr ""
+msgstr "Muziek, video &amp; apparaten"
 
 #. (itstool) path: section/title
 #: C/media.page:43
 msgid "Music, video &amp; devices"
-msgstr ""
+msgstr "Muziek, video &amp; apparaten"
 
 #. (itstool) path: info/desc
 #: C/more-help.page:19
 msgid ""
 "Get tips on using this guide, and connect with the community for more help."
-msgstr ""
+msgstr "Krijg tips voor het gebruik van deze handleiding en kom in contact met de gemeenschap voor meer hulp."
 
 #. (itstool) path: page/title
 #: C/more-help.page:26
@@ -10333,7 +10335,7 @@ msgstr "Draadloze en optische muizen, alsook touchpads op laptops, moeten soms �
 #: C/mouse.page:29
 msgctxt "link:trail"
 msgid "Mouse"
-msgstr ""
+msgstr "Muis"
 
 #. (itstool) path: info/desc
 #: C/mouse.page:30
@@ -11465,7 +11467,7 @@ msgstr "Geeft de datum of tijd van de laatste keer dat het bestand werd gewijzig
 #: C/nautilus-prefs.page:11
 msgctxt "link:trail"
 msgid "Preferences"
-msgstr ""
+msgstr "Voorkeuren"
 
 #. (itstool) path: info/desc
 #: C/nautilus-prefs.page:12
@@ -11517,7 +11519,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/nautilus-preview.page:52
 msgid "<gui>Count Number of Files in Folders</gui>"
-msgstr ""
+msgstr "<gui>Aantal bestanden in mappen tellen</gui>"
 
 #. (itstool) path: item/p
 #: C/nautilus-preview.page:53
@@ -11645,12 +11647,12 @@ msgstr "Het Ubuntu-documentatieteam"
 #. (itstool) path: info/desc
 #: C/net-browser.page:17
 msgid "Change your default web browser."
-msgstr ""
+msgstr "Wijzig uw standaardwebbrowser."
 
 #. (itstool) path: page/title
 #: C/net-browser.page:20
 msgid "Web browsers"
-msgstr ""
+msgstr "Webbrowsers"
 
 #. (itstool) path: info/desc
 #: C/net-default-browser.page:34
@@ -11682,7 +11684,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-default-browser.page:49
 msgid "Click on <gui>Default Applications</gui> to open the panel."
-msgstr ""
+msgstr "Klik op <gui>Standaardtoepassingen</gui> om het paneel te openen."
 
 #. (itstool) path: item/p
 #: C/net-default-browser.page:52
@@ -11705,7 +11707,7 @@ msgstr "Het kan zijn dat, wanneer u een andere webbrowser kiest om te openen, u 
 msgid ""
 "Change the default email client by going to <gui>Default Applications</gui> "
 "in <gui>Settings</gui>."
-msgstr ""
+msgstr "Wijzig de standaard-e-mailclient door in de <gui>Instellingen</gui> naar <gui>Standaardtoepassingen</gui>  te gaan."
 
 #. (itstool) path: page/title
 #: C/net-default-email.page:37
@@ -11730,7 +11732,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-default-email.page:50
 msgid "Click <gui>Default Applications</gui>."
-msgstr ""
+msgstr "Klik op <gui>Standaardtoepassingen</gui>."
 
 #. (itstool) path: item/p
 #: C/net-default-email.page:53
@@ -11791,12 +11793,12 @@ msgstr "Gnome-documentatieproject"
 #: C/net-email.page:25
 msgctxt "link:trail"
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #. (itstool) path: info/desc
 #: C/net-email.page:26
 msgid "Set your default app and stay safe with email."
-msgstr ""
+msgstr "Stel uw standaardtoepassing in en e-mail op een veilige manier."
 
 #. (itstool) path: page/title
 #: C/net-email.page:29
@@ -11872,7 +11874,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/net-findip.page:98
 msgid "Find your external (internet) IP address"
-msgstr "Uw externe (internet) IP-adres achterhalen:"
+msgstr "Uw externe IP-adres (internet) achterhalen"
 
 #. (itstool) path: item/p
 #: C/net-findip.page:101
@@ -11898,12 +11900,12 @@ msgstr ""
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "U dient de juiste netwerkpoort op te geven om netwerktoegang voor een programma met uw firewall in- of uit te schakelen."
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "Veelgebruikte netwerkpoorten"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11916,34 +11918,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "Poort"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "Beschrijving"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS, Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "Geeft systemen de mogelijkheid om elkaar te vinden, en beschrijft welke diensten zij aanbieden, zonder dat u zelf de informatie hoeft in te voeren."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11955,66 +11957,66 @@ msgstr "Afdrukken"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "Hiermee kunt u afdrukopdrachten naar een printer op het netwerk versturen."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "Hiermee kunt u uw printer met andere mensen op het netwerk delen."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "Aanwezigheid"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
 msgid ""
 "Allows you to advertise your instant messaging status to other people on the"
 " network, such as “online” or “busy”."
-msgstr ""
+msgstr "Hiermee wijzigt u uw chat-status, bedoeld voor andere mensen op het netwerk, zoals ‘online’ of ‘bezet’."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "Bureaublad op afstand"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "Hiermee kunt u uw bureaublad delen zodat andere mensen het kunnen bekijken of u op afstand kunnen helpen."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "Muziek delen (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "Hiermee kunt u uw muziekcollectie met anderen op uw netwerk delen."
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -12109,7 +12111,7 @@ msgstr "Klik op <gui>Toepassen</gui>. De netwerkverbinding moet nu een vast IP-a
 msgid ""
 "Learn about IP address, internet proxies, and how to stay safe on the "
 "internet."
-msgstr ""
+msgstr "Kom meer te weten over IP-adressen, internetproxy’s en hoe u veilig kunt zijn op het internet."
 
 #. (itstool) path: page/title
 #: C/net-general.page:26
@@ -12223,7 +12225,7 @@ msgstr "Zorg ervoor dat uw draadloze kaart is ingeschakeld of dat een netwerkkab
 #. (itstool) path: item/p
 #: C/net-manual.page:58
 msgid "Click the <_:media-1/> button."
-msgstr ""
+msgstr "Klik op <_:media-1/>."
 
 #. (itstool) path: note/p
 #: C/net-manual.page:62
@@ -12608,12 +12610,12 @@ msgstr ""
 #: C/net-security.page:17
 msgctxt "link:trail"
 msgid "Security"
-msgstr ""
+msgstr "Beveiliging"
 
 #. (itstool) path: info/desc
 #: C/net-security.page:18
 msgid "Understand firewalls, viruses, and other internet security topics."
-msgstr ""
+msgstr "Kom meer te weten over firewalls, virussen en andere onderwerpen die met veiligheid op het internet te maken hebben."
 
 #. (itstool) path: page/title
 #: C/net-security.page:21
@@ -12903,7 +12905,7 @@ msgstr "Voor het opzetten van de meeste bekabelde netwerkverbindingen hoeft er a
 #. (itstool) path: media/p
 #: C/net-wired-connect.page:42
 msgid "Diagram of an Ethernet cable"
-msgstr ""
+msgstr "Diagram van een ethernetkabel"
 
 #. (itstool) path: page/p
 #: C/net-wired-connect.page:45
@@ -12942,7 +12944,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/net-wired.page:19
 msgid "Wired networking"
-msgstr ""
+msgstr "Bekabeld netwerk"
 
 #. (itstool) path: info/desc
 #: C/net-wireless-adhoc.page:27
@@ -13006,7 +13008,7 @@ msgstr "Een netwerknaam (SSID) en beveiligingssleutel worden automatisch gegener
 msgid ""
 "You can also connect to the wireless network by scanning the QR Code on your"
 " phone or tablet using the built-in camera app or a QR code scanner."
-msgstr ""
+msgstr "U kunt ook verbinding maken met het draadloze netwerk door de QR-code in te scannen op uw telefoon of tablet met de ingebouwde camera-app of een QR-codelezer."
 
 #. (itstool) path: info/desc
 #: C/net-wireless-airplane.page:35
@@ -13048,7 +13050,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-wireless-airplane.page:58 C/power-nowireless.page:58
 msgid "Click on <gui>Wi-Fi</gui> to open the panel."
-msgstr ""
+msgstr "Klik op <gui>Wifi</gui> om het paneel te openen."
 
 #. (itstool) path: item/p
 #: C/net-wireless-airplane.page:61
@@ -13420,7 +13422,7 @@ msgid ""
 "Passwords are case-sensitive (it matters whether they have capital or lower-"
 "case letters), so check that you didn’t get the case of one of the letters "
 "wrong."
-msgstr " Wachtwoorden zijn hoofdlettergevoelig (het maakt uit of ze hoofdletters of kleine letters bevatten); controleer dus op de juiste invoer van hoofdletters en kleine letters."
+msgstr "Wachtwoorden zijn hoofdlettergevoelig (het maakt uit of ze hoofdletters of kleine letters bevatten); controleer dus op de juiste invoer van hoofdletters en kleine letters."
 
 #. (itstool) path: item/p
 #: C/net-wireless-noconnection.page:33
@@ -13777,7 +13779,7 @@ msgstr "Start uw computer <em>zonder</em> draadloos netwerk-adapter."
 #. (itstool) path: item/p
 #: C/net-wireless-troubleshooting-hardware-check.page:140
 msgid "Open a Terminal and type the following, then press <key>Enter</key>:"
-msgstr "Open een terminalvenster, typ het volgende in en druk daarna op <key>Enter</key>."
+msgstr "Open een terminalvenster, typ het volgende in en druk daarna op <key>Enter</key>:"
 
 #. (itstool) path: item/code
 #: C/net-wireless-troubleshooting-hardware-check.page:142
@@ -14025,7 +14027,7 @@ msgstr "We zullen de volgende stappen doorlopen om uw computer te verbinden met 
 #. (itstool) path: item/p
 #: C/net-wireless-troubleshooting.page:43
 msgid "Performing an initial check"
-msgstr "Uitvoeren van een initiële controle."
+msgstr "Uitvoeren van een initiële controle"
 
 #. (itstool) path: item/p
 #: C/net-wireless-troubleshooting.page:46
@@ -14096,7 +14098,7 @@ msgid ""
 "you are viewing, for example. WEP stands for <em>Wired Equivalent "
 "Privacy</em>, and WPA stands for <em>Wireless Protected Access</em>. WPA2 is"
 " the second version of the WPA standard."
-msgstr " WEP en WPA (samen met WPA2) zijn namen van verschillende encryptiehulpmiddelen om uw draadloze verbinding te beveiligen. Encryptie versleutelt de netwerkverbinding zodat niemand kan ‘afluisteren’ en kan zien naar welke webpagina's u kijkt bijvoorbeeld. WEP staat voor <em>Wired Equivalent Privacy</em>, and WPA staat voor <em>Wireless Protected Access</em>. WPA2 is de tweede versie van de WPA-standaard."
+msgstr "WEP en WPA (samen met WPA2) zijn namen van verschillende versleutelingshulpmiddelen om uw draadloze verbinding te beveiligen. Versleuteling beveiligt de netwerkverbinding zodat niemand u kan ‘afluisteren’ en kan zien naar welke webpagina’s u bijvoorbeeld kijkt. WEP staat voor <em>Wired Equivalent Privacy</em> en WPA staat voor <em>Wireless Protected Access</em>. WPA2 is de tweede versie van de WPA-standaard."
 
 #. (itstool) path: page/p
 #: C/net-wireless-wepwpa.page:32
@@ -14113,23 +14115,23 @@ msgstr "Het gebruik van <em>enige</em> versleuteling is altijd beter dan geen, m
 msgid ""
 "Connect to wireless networks, including hidden networks and networks created"
 " from phone tethering."
-msgstr ""
+msgstr "Maak verbinding met draadloze netwerken, inclusief verborgen netwerken en hotspots."
 
 #. (itstool) path: page/title
 #: C/net-wireless.page:30
 msgid "Wireless networking"
-msgstr ""
+msgstr "Draadloos netwerk"
 
 #. (itstool) path: info/desc
 #: C/net-wrongnetwork.page:32
 msgid ""
 "Edit your connection settings, and remove the unwanted connection option."
-msgstr ""
+msgstr "Bewerk uw verbindingsinstellingen, en verwijder het ongewenste netwerk."
 
 #. (itstool) path: page/title
 #: C/net-wrongnetwork.page:37
 msgid "My computer connects to the wrong network"
-msgstr ""
+msgstr "Mijn computer maakt verbinding met het verkeerde netwerk"
 
 #. (itstool) path: page/p
 #: C/net-wrongnetwork.page:39
@@ -14143,7 +14145,7 @@ msgstr ""
 #. (itstool) path: steps/title
 #: C/net-wrongnetwork.page:45
 msgid "To forget a wireless connection:"
-msgstr ""
+msgstr "Om een draadloze verbinding te vergeten:"
 
 #. (itstool) path: item/p
 #: C/net-wrongnetwork.page:50
@@ -14168,25 +14170,25 @@ msgstr ""
 msgid ""
 "If you later want to connect to the network that your computer just forgot, "
 "follow the steps in <link xref=\"net-wireless-connect\"/>."
-msgstr ""
+msgstr "Als u later verbinding wilt maken met het netwerk dat uw computer zojuist heeft vergeten, volg dan de stappen in <link xref=\"net-wireless-connect\"/>."
 
 #. (itstool) path: info/title
 #: C/net.page:21
 msgctxt "link:trail"
 msgid "Networking"
-msgstr ""
+msgstr "Netwerken"
 
 #. (itstool) path: info/desc
 #: C/net.page:22
 msgid ""
 "Connect to wireless and wired networks. Stay safe with a VPN. Create a "
 "wireless hotspot."
-msgstr ""
+msgstr "Maak verbinding met draadloze en bekabelde netwerken. Hou het veilig met een VPN. Maak een draadloze hotspot aan."
 
 #. (itstool) path: page/title
 #: C/net.page:29
 msgid "Networking, web &amp; email"
-msgstr "Netwerk, web &amp; "
+msgstr "Netwerk, web &amp; e-mail"
 
 #. (itstool) path: credit/years
 #: C/power-autobrightness.page:17 C/power-autosuspend.page:18
@@ -14837,12 +14839,12 @@ msgstr "Wees voorzichtig bij het wisselen van stroomkabels of het gebruik van re
 #. (itstool) path: credit/years
 #: C/power-percentage.page:17 C/power-profile.page:15 C/status-icons.page:55
 msgid "2021"
-msgstr ""
+msgstr "2021"
 
 #. (itstool) path: info/desc
 #: C/power-percentage.page:22
 msgid "Display the battery percentage in the top bar."
-msgstr ""
+msgstr "Geef het accupercentage in de bovenbalk weer."
 
 #. (itstool) path: page/title
 #: C/power-percentage.page:25
@@ -14861,7 +14863,7 @@ msgstr ""
 #. (itstool) path: steps/title
 #: C/power-percentage.page:34
 msgid "Display the battery percentage in the top bar"
-msgstr ""
+msgstr "Het accupercentage in de bovenbalk weergeven"
 
 #. (itstool) path: item/p
 #: C/power-percentage.page:37 C/power-profile.page:50
@@ -14885,14 +14887,14 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/power-profile.page:23
 msgid "Choose a power profile"
-msgstr ""
+msgstr "Kies een energieprofiel"
 
 #. (itstool) path: page/p
 #: C/power-profile.page:25
 msgid ""
 "You can manage power usage by choosing a <gui>Power Mode</gui>. There are "
 "three possible profiles:"
-msgstr ""
+msgstr "U kunt uw energieverbruik beheren door een <gui>Energiemodus</gui> te kiezen. Er zijn drie mogelijke profielen:"
 
 #. (itstool) path: item/p
 #: C/power-profile.page:30
@@ -15265,7 +15267,7 @@ msgstr "Natalia Ruz"
 #: C/power.page:23
 msgctxt "link:trail"
 msgid "Power"
-msgstr ""
+msgstr "Energie"
 
 #. (itstool) path: info/desc
 #: C/power.page:24
@@ -15302,7 +15304,7 @@ msgstr "Problemen met stroom en accu's oplossen."
 #: C/prefs-display.page:19
 msgid ""
 "Set your background, configure monitors, and manage color temperatures."
-msgstr ""
+msgstr "Stel uw achtergrond in, configureer beeldschermen en beheer kleurtemperaturen."
 
 #. (itstool) path: page/title
 #: C/prefs-display.page:25
@@ -15312,14 +15314,14 @@ msgstr "Weergave &amp; scherm"
 #. (itstool) path: info/desc
 #: C/prefs-language.page:17
 msgid "Set your preferred languages, regions, formats, and keyboard layouts."
-msgstr ""
+msgstr "Stel uw voorkeurstalen, -regio’s, -formaten en -toetsenbordindelingen in."
 
 #. (itstool) path: info/desc
 #: C/prefs-sharing.page:20
 msgid ""
 "Share your screen, or share media and other files over a local network or "
 "Bluetooth."
-msgstr ""
+msgstr "Deel uw scherm of deel media en andere bestanden via een lokaal netwerk of Bluetooth."
 
 #. (itstool) path: page/title
 #: C/prefs-sharing.page:24
@@ -15342,7 +15344,7 @@ msgstr "Instellingen"
 #. (itstool) path: info/desc
 #: C/prefs.page:15
 msgid "From hardware control to privacy settings, make GNOME work for you."
-msgstr ""
+msgstr "Laat Gnome het werk voor u doen, of het nu om hardwarebesturing of privacyinstellingen gaat."
 
 #. (itstool) path: page/title
 #: C/prefs.page:21
@@ -15498,7 +15500,7 @@ msgstr "n, 1, 2, n-1, n-2, 3, 4, n-3, n-4, 5, 6, n-5, n-6, 7, 8, n-7, n-8, 9, 10
 #. (itstool) path: note/p
 #: C/printing-booklet-duplex.page:64 C/printing-booklet-singlesided.page:59
 msgid "Examples:"
-msgstr "Voorbeelden: "
+msgstr "Voorbeelden:"
 
 #. (itstool) path: item/p
 #. (itstool) path: note/p
@@ -15656,14 +15658,14 @@ msgstr "Een afdruktaak in de wacht annuleren en hem uit de wachtrij verwijderen.
 #. (itstool) path: page/title
 #: C/printing-cancel-job.page:37
 msgid "Cancel, pause or release a print job"
-msgstr "Een printopdracht annuleren, pauzeren, of  vrijgeven"
+msgstr "Een afdrukopdracht annuleren, pauzeren, of vrijgeven"
 
 #. (itstool) path: page/p
 #: C/printing-cancel-job.page:39
 msgid ""
 "You can cancel a pending print job and remove it from the queue in the "
 "printer settings."
-msgstr "U kunt een wachtende printopdracht annuleren, en het in de printerinstellingen uit de wachtrij verwijderen."
+msgstr "U kunt een wachtende afdrukopdracht annuleren en deze in de printerinstellingen uit de wachtrij verwijderen."
 
 #. (itstool) path: section/title
 #: C/printing-cancel-job.page:43
@@ -15675,12 +15677,12 @@ msgstr "Een afdruktaak annuleren"
 msgid ""
 "If you accidentally started printing a document, you can cancel the print so"
 " that you do not need to waste any ink or paper."
-msgstr "Als u per ongeluk een document bent beginnen te printen, dan kunt u de printopdracht annuleren zodat u geen inkt of papier hoeft te verspillen."
+msgstr "Als u per ongeluk een document bent beginnen te printen, dan kunt u de afdrukopdracht annuleren zodat u geen inkt of papier hoeft te verspillen."
 
 #. (itstool) path: steps/title
 #: C/printing-cancel-job.page:49
 msgid "How to cancel a print job:"
-msgstr "Een printopdracht annuleren:"
+msgstr "Een afdrukopdracht annuleren:"
 
 #. (itstool) path: item/p
 #: C/printing-cancel-job.page:51 C/printing-cancel-job.page:90
@@ -15705,14 +15707,14 @@ msgstr "Klik de <gui>Taken weergeven</gui>-knop aan de rechterkant van het <gui>
 #. (itstool) path: item/p
 #: C/printing-cancel-job.page:61
 msgid "Cancel the print job by clicking the stop button."
-msgstr "Annuleer de printopdracht door op de stopknop te klikken."
+msgstr "Annuleer de afdrukopdracht door op de stopknop te klikken."
 
 #. (itstool) path: section/p
 #: C/printing-cancel-job.page:65
 msgid ""
 "If this does not cancel the print job like you expected, try holding down "
 "the <em>cancel</em> button on your printer."
-msgstr "Als dit de printopdracht niet annuleert zoals u had verwacht, probeer dan de knop <em>Annuleren</em> van de printer ingedrukt te houden."
+msgstr "Als dit de afdrukopdracht niet annuleert zoals u had verwacht, probeer dan de knop <em>Annuleren</em> van de printer ingedrukt te houden."
 
 #. (itstool) path: section/p
 #: C/printing-cancel-job.page:68
@@ -15735,14 +15737,14 @@ msgstr "Pas wel op dat u de printer niet beschadigt bij het verwijderen van het 
 #. (itstool) path: section/title
 #: C/printing-cancel-job.page:83
 msgid "Pause and release a print job"
-msgstr "Een printopdracht pauzeren en vrijgeven."
+msgstr "Een afdrukopdracht pauzeren en vrijgeven"
 
 #. (itstool) path: section/p
 #: C/printing-cancel-job.page:85
 msgid ""
 "If you want to pause or release a print job, you can do so by going to the "
 "jobs dialog in the printer settings and click the appropriate button."
-msgstr "Als u een printopdracht wil pauzeren of vrijgeven, dan kunt u dat doen door in de printerinstellingen naar de taken-dialoog te gaan en de juiste knop te klikken."
+msgstr "Als u een afdrukopdracht wilt pauzeren of vrijgeven, dan kunt u dat doen door in de printerinstellingen naar de taken-dialoog te gaan en op de juiste knop te klikken."
 
 #. (itstool) path: item/p
 #: C/printing-cancel-job.page:96
@@ -15750,7 +15752,7 @@ msgid ""
 "Click the <gui>Show Jobs</gui> button on the right-hand side of the "
 "<gui>Printers</gui> dialog and either pause or release the print job based "
 "on your needs."
-msgstr "Klik de <gui>Taken weergeven</gui>-knop aan de rechterkant van het <gui>Printers</gui>-dialoogvenster en pauzeer de printopdracht of geef deze vrij, afhankelijk van wat u wenst."
+msgstr "Klik de <gui>Taken weergeven</gui>-knop aan de rechterkant van het <gui>Printers</gui>-dialoogvenster en pauzeer de afdrukopdracht of geef deze vrij, afhankelijk van wat u wenst."
 
 #. (itstool) path: info/desc
 #: C/printing-differentsize.page:27
@@ -15855,7 +15857,7 @@ msgid ""
 "<gui>Paper size</gui> to an envelope size (for example, <gui>C5</gui>). The "
 "pack of envelopes will say what size they are; most envelopes come in "
 "standard sizes."
-msgstr "Ten eerste dat uw printer weet wat de grootte van de envelop is. Druk op <keyseq><key>Ctrl</key><key>P</key></keyseq> om het afdrukvenster te openen, ga naar het tabblad <gui>Pagina-instellingen</gui> en selecteer ‘Envelop’ in het keuzemenu <gui>Papiersoort</gui>, als het mogelijk is. Indien dit niet mogelijk is, kijk dan of u in het keuzemenu <gui>Papiergrootte</gui>kunt kiezen voor een envelopgrootte  (b.v. <gui>C5</gui>). Op de envelopverpakking kunt u de grootte terugvinden; de meeste enveloppen hebben standaardgroottes."
+msgstr "Ten eerste dat uw printer weet wat de grootte van de envelop is. Druk op <keyseq><key>Ctrl</key><key>P</key></keyseq> om het afdrukvenster te openen, ga naar het tabblad <gui>Pagina-instellingen</gui> en selecteer ‘Envelop’ in het keuzemenu <gui>Papiersoort</gui>, als het mogelijk is. Indien dit niet mogelijk is, kijk dan of u in het keuzemenu <gui>Papiergrootte</gui>kunt kiezen voor een envelopgrootte (bv. <gui>C5</gui>). Op de envelopverpakking kunt u de grootte terugvinden; de meeste enveloppen hebben standaardgroottes."
 
 #. (itstool) path: section/p
 #: C/printing-envelopes.page:46
@@ -15925,7 +15927,7 @@ msgid ""
 "href=\"http://libinklevel.sourceforge.net/#supported\">list of supported "
 "models</link>. Another ink levels application for Epson and some other "
 "printers is <app>mtink</app>."
-msgstr "U kunt ook een toepassing installeren om het inktniveau te controleren en  in de gaten houden. <app>Inkblot</app> toont de inktstatus voor vele HP, Epson en Canon-printers. Controleer of uw printer voorkomt in de <link href=\"http://libinklevel.sourceforge.net./#supported\">lijst met ondersteunde modellen</link>. Een andere toepassing voor het inktniveaubeheer van Epson en sommige andere printers is <app>mktink</app>."
+msgstr "U kunt ook een toepassing installeren om het inktniveau te controleren en in de gaten houden. <app>Inkblot</app> toont de inktstatus voor vele HP, Epson en Canon-printers. Controleer of uw printer voorkomt in de <link href=\"http://libinklevel.sourceforge.net./#supported\">lijst met ondersteunde modellen</link>. Een andere toepassing voor het inktniveaubeheer van Epson en sommige andere printers is <app>mktink</app>."
 
 #. (itstool) path: page/p
 #: C/printing-inklevel.page:47
@@ -15980,17 +15982,17 @@ msgstr ""
 #: C/printing-name-location.page:65 C/printing-name-location.page:99
 #: C/printing-setup-default-printer.page:67
 msgid "Click the <_:media-1/> button next to the printer."
-msgstr ""
+msgstr "Klik op <_:media-1/> naast de printer."
 
 #. (itstool) path: item/p
 #: C/printing-name-location.page:69 C/printing-name-location.page:103
 msgid "Select <gui style=\"menuitem\">Printer Details</gui>."
-msgstr ""
+msgstr "Selecteer <gui style=\"menuitem\">Details van de printer</gui>."
 
 #. (itstool) path: item/p
 #: C/printing-name-location.page:72
 msgid "Enter a new name for the printer in the <gui>Name</gui> field."
-msgstr ""
+msgstr "Voer een nieuwe naam in voor de printer in het veld <gui>Naam</gui>."
 
 #. (itstool) path: item/p
 #: C/printing-name-location.page:75 C/printing-name-location.page:109
@@ -16052,7 +16054,7 @@ msgstr "Druk op <keyseq><key>Ctrl</key><key>P</key></keyseq> om het Afdrukdialoo
 msgid ""
 "In the <gui>General</gui> tab, under <gui>Copies</gui>, check "
 "<gui>Reverse</gui>. The last page will be printed first, and so on."
-msgstr "Plaats in het tabblad <gui>Algemeen</gui> van het venster Afdrukken onder <em>Kopieën</em> een vinkje bij <gui>Omgekeerde volgorde</gui>.  De laatste pagina zal als eerste worden afgedrukt, enzovoort."
+msgstr "Plaats in het tabblad <gui>Algemeen</gui> van het venster Afdrukken onder <em>Kopieën</em> een vinkje bij <gui>Omgekeerde volgorde</gui>. De laatste pagina zal als eerste worden afgedrukt, enzovoort."
 
 #. (itstool) path: section/title
 #: C/printing-order.page:50
@@ -16150,7 +16152,7 @@ msgstr "Typ in het tekstvak de paginanummers die u wilt afdrukken, gescheiden do
 msgid ""
 "For example, if you enter “1,3,5-7” in the <gui>Pages</gui> text box, pages "
 "1,3,5,6 and 7 will be printed."
-msgstr ""
+msgstr "Een voorbeeld: als u ‘1,3,5-7’ in het tekstvak <gui>Pagina’s</gui> invoert, dan zullen de pagina’s 1, 3, 5, 6 en 7 afgedrukt worden."
 
 #. (itstool) path: note/media
 #. This is a reference to an external file such as an image or video. When
@@ -16162,7 +16164,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/printing-select.png' "
 "md5='2eceabe52b26c4ee06fac1ce2a79459c'"
-msgstr ""
+msgstr "@"
 
 #. (itstool) path: info/desc
 #: C/printing-setup-default-printer.page:41
@@ -16196,7 +16198,7 @@ msgstr "Klik op <gui>Printers</gui>."
 #. (itstool) path: item/p
 #: C/printing-setup-default-printer.page:71
 msgid "Select the <gui style=\"menuitem\">Use Printer by Default</gui> checkbox."
-msgstr ""
+msgstr "Vink <gui style=\"menuitem\">Printer standaard gebruiken</gui> aan."
 
 #. (itstool) path: page/p
 #: C/printing-setup-default-printer.page:75
@@ -16243,7 +16245,7 @@ msgid ""
 "Connect the printer to your system via the appropriate cable. You may see "
 "activity on the screen as the system searches for drivers, and you may be "
 "asked to authenticate to install them."
-msgstr "Sluit de kabel van de printer aan op uw systeem. Het kan zijn dat u activiteit ziet op het scherm terwijl het systeem zoekt naar stuurprogramma's, en mogelijk wordt u gevraagd om  authenticatie om die te installeren."
+msgstr "Sluit de kabel van de printer aan op uw systeem. Het kan zijn dat u activiteit ziet op het scherm terwijl het systeem zoekt naar stuurprogramma's, en mogelijk wordt u gevraagd om authenticatie om die te installeren."
 
 #. (itstool) path: item/p
 #: C/printing-setup.page:70
@@ -16258,12 +16260,12 @@ msgstr "Zodra het systeem klaar is met het installeren van de nieuwe printer zal
 msgid ""
 "If your printer was not set up automatically, you can add it in the printer "
 "settings:"
-msgstr "Als uw printer niet automatisch werd ingesteld, dan kunt u hem toevoegen bij de printerinstellingen."
+msgstr "Als uw printer niet automatisch werd ingesteld, dan kunt u hem toevoegen bij de printerinstellingen:"
 
 #. (itstool) path: item/p
 #: C/printing-setup.page:92
 msgid "Press the <gui style=\"button\">Add…</gui> button."
-msgstr ""
+msgstr "Druk op <gui style=\"button\">Toevoegen…</gui>."
 
 #. (itstool) path: item/p
 #: C/printing-setup.page:95
@@ -16278,7 +16280,7 @@ msgid ""
 "If your printer is not discovered automatically, but you know its network "
 "address, enter it into the text field at the bottom of the dialog and then "
 "press <gui style=\"button\">Add</gui>"
-msgstr ""
+msgstr "Als uw printer niet automatisch ontdekt wordt, maar u kunt zijn netwerkadres, voer dit dan in in het tekstveld onderaan het dialoogvenster en druk op <gui style=\"button\">Toevoegen</gui>"
 
 #. (itstool) path: page/p
 #: C/printing-setup.page:105
@@ -16404,7 +16406,7 @@ msgid ""
 "To change the default filename and where the file is saved to, click the "
 "filename below the printer selection. Click <gui "
 "style=\"button\">Select</gui> once you have finished choosing."
-msgstr "Om de standaard bestandsnaam en waar het bestand opgeslagen wordt te wijzigen klikt u op de bestandsnaam onder de printerkeuze. Klik na uw keuze op <gui style=\"button\">Selecteren</gui>"
+msgstr "Om de standaardbestandsnaam en waar het bestand opgeslagen wordt te wijzigen klikt u op de bestandsnaam onder de printerkeuze. Klik na uw keuze op <gui style=\"button\">Selecteren</gui>."
 
 #. (itstool) path: item/p
 #: C/printing-to-file.page:48
@@ -16468,7 +16470,7 @@ msgstr "Printerproblemen"
 msgid ""
 "Lock your screen, remove temporary files, and control access to devices like"
 " cameras and microphones."
-msgstr ""
+msgstr "Vergrendel uw scherm, verwijder tijdelijke bestanden en beheer toegang tot apparaten zoals camera’s en microfoons."
 
 #. (itstool) path: page/title
 #: C/privacy.page:33
@@ -16769,7 +16771,7 @@ msgstr "Schermafdrukken en schermfilms"
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:47
 msgid "Capture all or part of your screen as an image"
-msgstr ""
+msgstr "Een deel van of heel uw scherm opslaan als afbeelding"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:48
@@ -16779,7 +16781,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:49
 msgid "Save a video of your screen activity"
-msgstr ""
+msgstr "Een video van uw schermactiviteit opslaan"
 
 #. (itstool) path: page/media
 #. This is a reference to an external file such as an image or video. When
@@ -16826,7 +16828,7 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/screen-shot-record.page:79
 msgid "Click the pointer button to include the pointer in the screenshot."
-msgstr ""
+msgstr "Klik op de muisaanwijzerknop om de muisaanwijzer in de schermafdruk op te nemen."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:83
@@ -16858,7 +16860,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:103
 msgid "Where do they go?"
-msgstr ""
+msgstr "Waar gaan ze naartoe?"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:107
@@ -16874,7 +16876,7 @@ msgstr ""
 msgid ""
 "The image is also saved in the clipboard, so you can immediately paste it "
 "into an image-editing application or share it on social media."
-msgstr ""
+msgstr "De afbeelding wordt ook op het klembord opgeslagen, zodat u ze onmiddellijk in een afbeeldingsbewerker kunt plakken, of kunt delen op sociale media."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:117
@@ -16903,7 +16905,7 @@ msgstr ""
 #. (itstool) path: note/p
 #: C/screen-shot-record.page:146
 msgid "Click the pointer button to include the pointer in the screencast."
-msgstr ""
+msgstr "Klik op de muisaanwijzerknop om de muisaanwijzer in de schermopname op te nemen."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:150
@@ -16947,7 +16949,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:177
 msgid "<key>S</key>"
-msgstr ""
+msgstr "<key>S</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:178
@@ -16957,7 +16959,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:181
 msgid "<key>C</key>"
-msgstr ""
+msgstr "<key>C</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:182
@@ -16967,7 +16969,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:185
 msgid "<key>W</key>"
-msgstr ""
+msgstr "<key>W</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:186
@@ -16977,7 +16979,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:189
 msgid "<key>P</key>"
-msgstr ""
+msgstr "<key>P</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:190
@@ -16987,7 +16989,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:193
 msgid "<key>V</key>"
-msgstr ""
+msgstr "<key>V</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:194
@@ -16997,7 +16999,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:197
 msgid "<key>Enter</key>"
-msgstr ""
+msgstr "<key>Enter</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:198
@@ -17025,7 +17027,7 @@ msgstr ""
 #: C/screen-shot-record.page:215 C/shell-keyboard-shortcuts.page:181
 msgid ""
 "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:216
@@ -17254,7 +17256,7 @@ msgstr "Selecteer uw gewenste regio en taal. Als uw regio en taal er niet bij st
 #. (itstool) path: item/p
 #: C/session-language.page:71
 msgid "Click <gui style=\"button\">Select</gui> to save."
-msgstr ""
+msgstr "Klik op <gui style=\"button\">Selecteren</gui> om op te slaan."
 
 #. (itstool) path: page/p
 #: C/session-language.page:79
@@ -17320,7 +17322,7 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/sharing.page:11
 msgid "Share your desktop, files, or media."
-msgstr ""
+msgstr "Deel uw bureaublad, bestanden of media."
 
 #. (itstool) path: page/title
 #: C/sharing.page:21
@@ -17425,7 +17427,7 @@ msgid ""
 "If the text below <gui>Computer Name</gui> allows you to edit it, you can "
 "<link xref=\"sharing-displayname\">change</link> the name your computer "
 "displays on the network."
-msgstr "Als u de tekst onder <gui>Computernaam</gui>kunt bewerken, dan kunt u de naam van uw computer zoals die getoond wordt in het netwerk <link xref=\"sharing-displayname\">wijzigen</link>"
+msgstr "Als u de tekst onder <gui>Computernaam</gui>kunt bewerken, dan kunt u de naam van uw computer zoals die getoond wordt in het netwerk <link xref=\"sharing-displayname\">wijzigen</link>."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:90
@@ -17464,17 +17466,17 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:112
 msgid "User Name"
-msgstr ""
+msgstr "Gebruikersnaam"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:113 C/sharing-desktop.page:117
 msgid "Use the suggested value or enter your own."
-msgstr ""
+msgstr "Gebruik de voorgestelde waarde of voer uw eigen waarde in."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:116
 msgid "Password"
-msgstr ""
+msgstr "Wachtwoord"
 
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:119
@@ -17486,7 +17488,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:124
 msgid "Verify Encryption"
-msgstr ""
+msgstr "Versleuteling verifiëren"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:125
@@ -17499,7 +17501,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:148
 msgid "Connecting"
-msgstr ""
+msgstr "Verbinden"
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:150
@@ -17522,7 +17524,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:162
 msgid "Clients"
-msgstr ""
+msgstr "Cliënten"
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:164
@@ -17534,7 +17536,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:168
 msgid "From Linux:"
-msgstr ""
+msgstr "Vanuit GNU/Linux:"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:170
@@ -17557,19 +17559,19 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:183
 msgid "From Microsoft Windows:"
-msgstr ""
+msgstr "Vanuit Microsoft Windows:"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:185
 msgid ""
 "<app>mstsc</app> is the built-in Windows client. Default settings are "
 "recommended."
-msgstr ""
+msgstr "<app>mstsc</app> is de ingebouwde cliënt voor Windows. Standaardinstellingen worden aanbevolen."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:191
 msgid "From Linux, Windows, or macOS:"
-msgstr ""
+msgstr "Vanuit GNU/Linux, Windows of macOS:"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:193
@@ -17578,7 +17580,7 @@ msgid ""
 "as a <link "
 "href=\"https://flathub.org/apps/details/com.thincast.client\">flatpak</link>."
 " Default settings are recommended."
-msgstr ""
+msgstr "<app>Thincast</app> is een propriëtaire cliënt. De Linux-versie is beschikbaar als <link href=\"https://flathub.org/apps/details/com.thincast.client\">flatpak</link>. Standaardinstellingen worden aanbevolen."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:203
@@ -17608,12 +17610,12 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:222
 msgid "Advanced Topics"
-msgstr ""
+msgstr "Geavanceerde onderwerpen"
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:226
 msgid "Command line configuration"
-msgstr ""
+msgstr "Opdrachtregelconfiguratie"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:227
@@ -17625,7 +17627,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:232
 msgid "H.264"
-msgstr ""
+msgstr "H.264"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:233
@@ -18040,7 +18042,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "Gebruikersmenu"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18255,7 +18257,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-top-bar-classic.png' "
 "md5='8eecf39f87d7cda9ee060a108114a624'"
-msgstr ""
+msgstr "@"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:79
@@ -18545,7 +18547,7 @@ msgstr ""
 msgid ""
 "Click the system menu in the top-right corner to manage your system settings"
 " and your computer."
-msgstr ""
+msgstr "Klik op het systeemmenu in de rechterbovenhoek om de systeeminstellingen en uw computer te beheren."
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:260
@@ -18617,7 +18619,7 @@ msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus"
 " on the task at hand without distractions."
-msgstr ""
+msgstr "Gnome heeft een andere benadering voor het wisselen van vensters dan een lijst met vensters die permanent zichtbaar is, zoals bij andere bureaubladomgevingen. Hierdoor kunt u zich concentreren op de taak waar u mee bezig bent zonder afgeleid te worden."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:311
@@ -18636,7 +18638,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-window-list-classic.png' "
 "md5='a1a9c3d05c87a8e4028b1f16d79380ed'"
-msgstr ""
+msgstr "@"
 
 #. (itstool) path: when/p
 #: C/shell-introduction.page:320
@@ -18679,12 +18681,12 @@ msgstr "Omgaan met het bureaublad"
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:45
 msgid "<keyseq><key>Alt</key><key>F1</key></keyseq> or the"
-msgstr ""
+msgstr "<keyseq><key>Alt</key><key>F1</key></keyseq> of"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:47
 msgid "<key xref=\"keyboard-key-super\">Super</key> key"
-msgstr ""
+msgstr "<key xref=\"keyboard-key-super\">Super</key>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:49
@@ -18764,7 +18766,7 @@ msgstr "<link xref=\"shell-workspaces-switch\">Wisselen van werkblad</link>."
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:107
 msgid "<keyseq><key>Shift</key><key>Super</key><key>Page Up</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Shift</key><key>Super</key><key>Page Up</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:108
@@ -18878,7 +18880,7 @@ msgstr "Schermafdrukken maken"
 msgid ""
 "<link xref=\"screen-shot-record#screenshot\">Launch the screenshot "
 "tool.</link>"
-msgstr ""
+msgstr "<link xref=\"screen-shot-record#screenshot\">Het schermafdrukhulpmiddel openen.</link>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:172
@@ -18892,14 +18894,14 @@ msgstr "<link xref=\"screen-shot-record#screenshot\">Schermafdruk van een venste
 msgid ""
 "<link xref=\"screen-shot-record#screenshot\">Take a screenshot of the entire"
 " screen.</link>."
-msgstr ""
+msgstr "<link xref=\"screen-shot-record#screenshot\">Een schermafdruk van het hele scherm maken.</link>."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:182
 msgid ""
 "<link xref=\"screen-shot-record#screencast\">Start and stop screencast "
 "recording.</link>"
-msgstr ""
+msgstr "<link xref=\"screen-shot-record#screencast\">Scherm opnemen starten en stoppen.</link>"
 
 #. (itstool) path: info/desc
 #: C/shell-lockscreen.page:21
@@ -18909,7 +18911,7 @@ msgstr "Het decoratieve en functionele vergrendelde scherm geeft nuttige informa
 #. (itstool) path: page/title
 #: C/shell-lockscreen.page:25
 msgid "The lock screen"
-msgstr ""
+msgstr "Het vergrendelscherm"
 
 #. (itstool) path: page/p
 #: C/shell-lockscreen.page:27
@@ -18927,7 +18929,7 @@ msgstr "datum en tijd, en bepaalde meldingen"
 #. (itstool) path: item/p
 #: C/shell-lockscreen.page:35
 msgid "battery and network status"
-msgstr "Batterij- en netwerkstatus"
+msgstr "accu- en netwerkstatus"
 
 #. (itstool) path: page/p
 #: C/shell-lockscreen.page:41
@@ -19180,14 +19182,14 @@ msgid ""
 "down the <key>Super</key> key and press <key>Tab</key> to cycle through the "
 "open windows, or <keyseq><key>Shift</key><key>Tab</key> </keyseq> to cycle "
 "backwards."
-msgstr "Druk op <keyseq><key xref=\"keyboard-key-super\">Super</key><key>Tab</key></keyseq> om de <link xref=\"shell-windows-switching\">vensterwisselaar</link> weer te geven. Blijf de <key>Super</key>-toets ingedrukt houden en druk op de <key>Tab</key>-toets om door de geopende vensters te  navigeren, of <keyseq><key>Shift</key><key>Tab</key> </keyseq> om achteruit te navigeren."
+msgstr "Druk op <keyseq><key xref=\"keyboard-key-super\">Super</key><key>Tab</key></keyseq> om de <link xref=\"shell-windows-switching\">vensterwisselaar</link> weer te geven. Blijf de <key>Super</key>-toets ingedrukt houden en druk op de <key>Tab</key>-toets om door de geopende vensters te navigeren, of <keyseq><key>Shift</key><key>Tab</key> </keyseq> om achteruit te navigeren."
 
 #. (itstool) path: item/p
 #: C/shell-windows-lost.page:70
 msgid ""
 "If an application has multiple open windows, hold down <key>Super</key> and "
 "press <key>`</key> (or the key above <key>Tab</key>) to step through them."
-msgstr "Als een toepassing meerdere geopende vensters heeft,  dan houdt u <key>Super</key> ingedrukt en drukt u op <key>`</key> (of de toets boven <key>Tab</key>) om er doorheen te bladeren."
+msgstr "Als een toepassing meerdere geopende vensters heeft, dan houdt u <key>Super</key> ingedrukt en drukt u op <key>`</key> (of de toets boven <key>Tab</key>) om erdoorheen te bladeren."
 
 #. (itstool) path: info/desc
 #: C/shell-windows-maximize.page:20
@@ -19363,7 +19365,7 @@ msgid ""
 "applications with multiple windows pop down as you click through. Hold down "
 "<key xref=\"keyboard-key-super\">Super</key> and press <key>`</key> (or the "
 "key above <key>Tab</key>) to step through the list."
-msgstr "Vensters in de vensterwisselaar zijn gegroepeerd per toepassing. Voorbeelden van toepassingen met meerdere vensters verschijnen terwijl u doorklikt. Houd  <key xref=\"keyboard-key-super\">Super</key> ingedrukt en druk op <key>`</key> (of de toets boven de <key>Tab</key>-toets) om door de lijst te lopen."
+msgstr "Vensters in de vensterwisselaar zijn gegroepeerd per toepassing. Voorbeelden van toepassingen met meerdere vensters verschijnen terwijl u doorklikt. Houd <key xref=\"keyboard-key-super\">Super</key> ingedrukt en druk op <key>`</key> (of de toets boven de <key>Tab</key>-toets) om door de lijst te lopen."
 
 #. (itstool) path: page/p
 #: C/shell-windows-switching.page:72
@@ -19759,7 +19761,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-workspaces.png' "
 "md5='b82b93733ba3b043c4e8f506ad9293ed'"
-msgstr ""
+msgstr "@"
 
 #. (itstool) path: media/p
 #: C/shell-workspaces.page:84
@@ -19903,7 +19905,7 @@ msgstr "U kunt <cmd>lspci</cmd> in de <app>Terminal</app> uitvoeren om meer info
 msgid ""
 "Check that the sound is not muted, that cables are plugged in properly, and "
 "that the sound card is detected."
-msgstr " Zorg ervoor dat Dempen niet is aangevinkt, de kabels op de juiste manier zijn aangesloten en dat de geluidskaart gedetecteerd is."
+msgstr "Zorg ervoor dat ‘Dempen’ niet is aangevinkt, dat de kabels op de juiste manier zijn aangesloten en dat de geluidskaart gedetecteerd is."
 
 #. (itstool) path: page/title
 #: C/sound-nosound.page:30
@@ -19920,7 +19922,7 @@ msgstr "Als u geen geluid hoort op uw computer, bijvoorbeeld bij het afspelen va
 #. (itstool) path: section/title
 #: C/sound-nosound.page:36
 msgid "Make sure that the sound is not muted"
-msgstr "Zorg ervoor dat het geluid niet gedempt is."
+msgstr "Zorg ervoor dat het geluid niet gedempt is"
 
 #. (itstool) path: section/p
 #: C/sound-nosound.page:38
@@ -19961,7 +19963,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/sound-nosound.page:67
 msgid "Check that the speakers are turned on and connected properly"
-msgstr "Controleer of de luidsprekers op de juiste manier verbonden en ingeschakeld zijn."
+msgstr "Controleer of de luidsprekers op de juiste manier verbonden en ingeschakeld zijn"
 
 #. (itstool) path: section/p
 #: C/sound-nosound.page:68
@@ -20304,7 +20306,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/status-icons.page:71
 msgid "Accessibility icons"
-msgstr ""
+msgstr "Toegankelijkheidspictogrammen"
 
 #. (itstool) path: td/p
 #: C/status-icons.page:83
@@ -20319,7 +20321,7 @@ msgstr ""
 #. (itstool) path: p/link
 #: C/status-icons.page:99
 msgid "Learn more about accessibility."
-msgstr ""
+msgstr "Kom meer te weten over toegankelijkheid."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:100
@@ -20329,7 +20331,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/status-icons.page:106
 msgid "Audio icons"
-msgstr ""
+msgstr "Audiopictogrammen"
 
 #. (itstool) path: td/p
 #: C/status-icons.page:118
@@ -20339,123 +20341,123 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/status-icons.page:129
 msgid "The speakers or headphones are muted."
-msgstr ""
+msgstr "De luidsprekers of hoofdtelefoon zijn gedempt."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:140
 msgid "Indicates the sensitivity of the microphone."
-msgstr ""
+msgstr "Wijst de gevoeligheid van de microfoon aan."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:151
 msgid "The microphone is muted."
-msgstr ""
+msgstr "De microfoon is gedempt."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:156
 msgid "Learn more about sound volume."
-msgstr ""
+msgstr "Kom meer te weten over het geluidsvolume."
 
 #. (itstool) path: section/title
 #: C/status-icons.page:162
 msgid "Battery icons"
-msgstr ""
+msgstr "Accupictogrammen"
 
 #. (itstool) path: td/p
 #: C/status-icons.page:174
 msgid "Indicates the battery level while the battery is charging."
-msgstr ""
+msgstr "Wijst het accuniveau aan terwijl de accu opgeladen wordt."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:185
 msgid "The battery is fully charged and charging."
-msgstr ""
+msgstr "De accu is volledig opgeladen en wordt opgeladen."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:196
 msgid "Indicates the battery level while the battery is not charging."
-msgstr ""
+msgstr "Wijst het accuniveau aan terwijl de accu niet opgeladen wordt."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:207
 msgid "The battery is fully charged and not charging."
-msgstr ""
+msgstr "De accu is volledig opgeladen en wordt niet opgeladen."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:218
 msgid "Power icon displayed on systems without a battery."
-msgstr ""
+msgstr "Het energiepictogram dat weergegeven wordt op systemen zonder accu."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:223
 msgid "Learn more about battery status."
-msgstr ""
+msgstr "Kom meer te weten over de accustatus."
 
 #. (itstool) path: section/title
 #: C/status-icons.page:229
 msgid "Bluetooth icons"
-msgstr ""
+msgstr "Bluetooth-pictogrammen"
 
 #. (itstool) path: td/p
 #: C/status-icons.page:241
 msgid "Airplane mode is on. Bluetooth is disabled when airplane mode is on."
-msgstr ""
+msgstr "De vliegtuigstand is ingeschakeld. Bluetooth is uitgeschakeld wanneer de vliegtuigstand ingeschakeld is."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:252
 msgid ""
 "A Bluetooth device is paired and in use. This icon is only shown when there "
 "is an active device, not just whenever Bluetooth is enabled."
-msgstr ""
+msgstr "Er is een Bluetooth-apparaat gekoppeld en in gebruik. Dit pictogram wordt enkel weergegeven wanneer er ook echt een apparaat actief is, niet alleen maar als Bluetooth ingeschakeld is."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:259 C/status-icons.page:351 C/status-icons.page:417
 msgid "Learn more about airplane mode."
-msgstr ""
+msgstr "Kom meer te weten over de vliegtuigstand."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:260
 msgid "Learn more about Bluetooth."
-msgstr ""
+msgstr "Kom meer te weten over Bluetooth."
 
 #. (itstool) path: section/title
 #: C/status-icons.page:275
 msgid "Networking icons"
-msgstr ""
+msgstr "Netwerkpictogrammen"
 
 #. (itstool) path: table/title
 #: C/status-icons.page:278
 msgid "Wireless (Wi-Fi) connections"
-msgstr ""
+msgstr "Draadloze verbindingen (wifi)"
 
 #. (itstool) path: td/p
 #: C/status-icons.page:288
 msgid ""
 "Airplane mode is on. Wireless networking is disabled when airplane mode is "
 "on."
-msgstr ""
+msgstr "De vliegtuigstand is ingeschakeld. Draadloze netwerken zijn uitgeschakeld wanneer de vliegtuigstand ingeschakeld is."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:299
 msgid "Connecting to a wireless network."
-msgstr ""
+msgstr "Verbinding maken met een draadloos netwerk."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:310
 msgid "Indicates the strength of a wireless network connection."
-msgstr ""
+msgstr "Wijst de sterkte van een draadlozenetwerkverbinding aan."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:321
 msgid "Connected to a wireless network, but there is no signal."
-msgstr ""
+msgstr "Verbonden met een draadloos netwerk, maar er is geen signaal."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:332
 msgid ""
 "Connected to a wireless network. This icon is only shown if the signal "
 "strength cannot be determined, such as when connecting to ad hoc networks."
-msgstr ""
+msgstr "Verbonden met een draadloos netwerk. Dit pictogram wordt enkel weergeven als de signaalsterkte niet bepaald kan worden, zoals wanneer u verbonden bent met een ad-hocnetwerk."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:344
@@ -20463,39 +20465,39 @@ msgid ""
 "Connected to a wireless network, but there is no route to the internet. This"
 " could be due to a misconfiguration of your network, or it could be due to "
 "an outage with your internet service provider."
-msgstr ""
+msgstr "Verbonden met een draadloos netwerk, maar er is geen weg naar het internet. Dit kan liggen aan een verkeerde configuratie in uw netwerk, of aan een probleem bij uw internetleverancier."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:352
 msgid "Learn more about wireless networking."
-msgstr ""
+msgstr "Kom meer te weten over draadloze netwerken."
 
 #. (itstool) path: table/title
 #: C/status-icons.page:356
 msgid "Cellular networking (mobile broadband)"
-msgstr ""
+msgstr "Mobiele verbindingen (mobiel breedband)"
 
 #. (itstool) path: td/p
 #: C/status-icons.page:366
 msgid ""
 "Airplane mode is on. Cellular networking is disabled when airplane mode is "
 "on."
-msgstr ""
+msgstr "De vliegtuigstand is ingeschakeld. Mobiele netwerken zijn uitgeschakeld wanneer de vliegtuigstand ingeschakeld is."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:377
 msgid "Connecting to a cellular network."
-msgstr ""
+msgstr "Verbinding maken met een mobiel netwerk."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:388
 msgid "Indicates the strength of a cellular network connection."
-msgstr ""
+msgstr "Wijst de sterkte van een mobielenetwerkverbinding aan."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:399
 msgid "Connected to a cellular network, but there is no signal."
-msgstr ""
+msgstr "Verbonden met een mobiel netwerk, maar er is geen signaal."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:410
@@ -20504,22 +20506,22 @@ msgid ""
 "strength cannot be determined, such as when connecting over Bluetooth. If "
 "the signal strength can be determined, a signal strength icon is shown "
 "instead."
-msgstr ""
+msgstr "Verbonden met een mobiel netwerk. Dit pictogram wordt enkel weergegeven als de signaalsterkte niet bepaald kan worden, zoals wanneer u verbonden bent via Bluetooth. Als de signaalsterkte wel bepaald kan worden, wordt er in de plaats een signaalsterktepictogram weergegeven."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:418
 msgid "Learn more about cellular networking."
-msgstr ""
+msgstr "Kom meer te weten over mobiele netwerken."
 
 #. (itstool) path: table/title
 #: C/status-icons.page:422
 msgid "Wired connections"
-msgstr ""
+msgstr "Bekabelde verbindingen"
 
 #. (itstool) path: td/p
 #: C/status-icons.page:432
 msgid "Connecting to a wired connection."
-msgstr ""
+msgstr "Verbinding maken met een bekabeld netwerk."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:443
@@ -20537,37 +20539,37 @@ msgid ""
 "Connected to a wired network, but there is no route to the internet. This "
 "could be due to a misconfiguration of your network, or it could be due to an"
 " outage with your internet service provider."
-msgstr ""
+msgstr "Verbonden met een bekabeld netwerk, maar er is geen weg naar het internet. Dit kan liggen aan een verkeerde configuratie in uw netwerk, of aan een probleem bij uw internetleverancier."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:472
 msgid "Learn more about wired networking."
-msgstr ""
+msgstr "Kom meer te weten over bekabelde netwerken."
 
 #. (itstool) path: table/title
 #: C/status-icons.page:476
 msgid "VPN (virtual private networking)"
-msgstr ""
+msgstr "VPN (virtueel privénetwerk)"
 
 #. (itstool) path: td/p
 #: C/status-icons.page:486
 msgid "Connecting to a virtual private network."
-msgstr ""
+msgstr "Verbinding maken met een virtueel privénetwerk."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:497
 msgid "Connected to a virtual private network."
-msgstr ""
+msgstr "Verbonden met een virtueel privénetwerk."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:502
 msgid "Learn more about virtual private networks."
-msgstr ""
+msgstr "Kom meer te weten over virtuele privénetwerken."
 
 #. (itstool) path: section/title
 #: C/status-icons.page:509
 msgid "Other icons"
-msgstr ""
+msgstr "Overige pictogrammen"
 
 #. (itstool) path: td/p
 #: C/status-icons.page:520
@@ -20575,56 +20577,56 @@ msgid ""
 "Indicates the keyboard layout or input method currently in use. Click to "
 "select another layout. The keyboard layout menu is only shown if you have "
 "multiple input methods configured."
-msgstr ""
+msgstr "Wijst de actieve toetsenbordindeling of invoermethode aan. Klik om een andere indeling te selecteren. Het toetsenbordindelingsmenu wordt enkel weergegeven als u meerdere invoermethoden ingesteld hebt."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:533
 msgid ""
 "An app is currently accessing your location. You can disable location access"
 " from the menu."
-msgstr ""
+msgstr "Een toepassing heeft momenteel toegang tot uw locatie. U kunt locatietoegang uitschakelen via het menu."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:545
 msgid ""
 "Night light has changed the color temperature of the display to reduce eye "
 "strain. You can temporarily disable night light from the menu."
-msgstr ""
+msgstr "Het nachtlicht heeft de kleurtemperatuur van het scherm veranderd om uw ogen minder vermoeid te laten worden. U kunt het nachtlicht tijdelijk uitschakelen via het menu."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:558
 msgid "You are currently recording a screencast of your entire screen."
-msgstr ""
+msgstr "U neemt momenteel een schermopname van uw hele scherm op."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:569
 msgid "An app is currently sharing the screen or another window."
-msgstr ""
+msgstr "Een toepassing deelt momenteel het scherm of een ander venster."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:580
 msgid "Connecting to a Thunderbolt device, such as a dock."
-msgstr ""
+msgstr "Verbonden met een Thunderbolt-apparaat, zoals een dock."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:585
 msgid "Learn more about keyboard layouts."
-msgstr ""
+msgstr "Kom meer te weten over toetsenbordindelingen."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:586
 msgid "Learn more about privacy and location services."
-msgstr ""
+msgstr "Kom meer te weten over privacy en locatiediensten."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:587
 msgid "Learn more about night light and color temperature."
-msgstr ""
+msgstr "Kom meer te weten over het nachtlicht en de kleurtemperatuur."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:588
 msgid "Learn more about screenshots and screencasts."
-msgstr ""
+msgstr "Kom meer te weten over schermafdrukken en schermopnames."
 
 #. (itstool) path: info/desc
 #: C/tips-specialchars.page:39
@@ -20672,17 +20674,17 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/tips-specialchars.page:63
 msgid "Emoji"
-msgstr ""
+msgstr "Emoji"
 
 #. (itstool) path: steps/title
 #: C/tips-specialchars.page:65
 msgid "Insert emoji"
-msgstr ""
+msgstr "Emoji invoegen"
 
 #. (itstool) path: item/p
 #: C/tips-specialchars.page:67
 msgid "Press <keyseq><key>Ctrl</key><key>;</key></keyseq>."
-msgstr ""
+msgstr "Druk op <keyseq><key>Ctrl</key><key>;</key></keyseq>."
 
 #. (itstool) path: item/p
 #: C/tips-specialchars.page:70
@@ -20694,7 +20696,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/tips-specialchars.page:74
 msgid "Select an emoji to insert."
-msgstr ""
+msgstr "Selecteer een emoji om hem in te voegen."
 
 #. (itstool) path: section/title
 #: C/tips-specialchars.page:80
@@ -20852,7 +20854,7 @@ msgstr "Om een invoermethode te kiezen: klik met rechts op een tekstwidget en ki
 #. (itstool) path: info/desc
 #: C/tips.page:13
 msgid "Get the most out of GNOME with these handy tips."
-msgstr ""
+msgstr "Haal meer uit Gnome met deze handige tips."
 
 #. (itstool) path: page/title
 #: C/tips.page:19
@@ -20893,7 +20895,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:46
 msgid "<em>Open the Activities Overview and Applications View</em>"
-msgstr ""
+msgstr "<em>Het activiteitenoverzicht en de toepassingenweergave openen</em>"
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:47
@@ -20959,7 +20961,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:77
 msgid "Tap on an item."
-msgstr ""
+msgstr "Tik op een item."
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:81
@@ -20969,7 +20971,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:82
 msgid "Press and hold for a second or two."
-msgstr ""
+msgstr "Blijf een tweetal seconden ingedrukt houden."
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:86
@@ -20998,7 +21000,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:98
 msgid "<em>Rotate a photo</em>"
-msgstr ""
+msgstr "<em>Een foto draaien</em>"
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:99
@@ -21066,7 +21068,7 @@ msgstr "Gebruikers"
 msgid ""
 "Add and remove user accounts. Change passwords. Set administrative "
 "privileges."
-msgstr ""
+msgstr "Voeg gebruikersaccounts toe en verwijder ze. Wijzig wachtwoorden. Stel beheersrechten in."
 
 #. (itstool) path: page/title
 #: C/user-accounts.page:25
@@ -21161,7 +21163,7 @@ msgstr "Als u wilt dat de nieuwe gebruiker toegang tot de computer heeft als <li
 msgid ""
 "Administrators can do things like add and delete users, install software and"
 " drivers, and change the date and time."
-msgstr " Beheerders kunnen handelingen verrichten zoals het toevoegen en verwijderen van gebruikers, software en stuurprogramma's installeren en de datum en tijd wijzigen."
+msgstr "Beheerders kunnen handelingen verrichten zoals het toevoegen en verwijderen van gebruikers, software en stuurprogramma’s installeren en de datum en tijd wijzigen."
 
 #. (itstool) path: item/p
 #: C/user-add.page:70
@@ -21242,7 +21244,7 @@ msgstr "Door het toekennen van beheersrechten wordt bepaald wie er belangrijke d
 msgid ""
 "You need <link xref=\"user-admin-explain\">administrator privileges</link> "
 "to change account types."
-msgstr "Om een accounttype te wijzigen dient u <link xref=\"user-admin-explain\">beheerder</link> te zijn. "
+msgstr "Om een accounttype te wijzigen dient u <link xref=\"user-admin-explain\">beheerder</link> te zijn."
 
 #. (itstool) path: item/p
 #: C/user-admin-change.page:51 C/user-autologin.page:42
@@ -21453,7 +21455,7 @@ msgstr "Automatisch inloggen"
 msgid ""
 "You can change your settings so that you are automatically logged in to your"
 " account when you start up your computer:"
-msgstr "U kunt uw instellingen zo wijzigen dat uw account automatisch wordt aangemeld wanneer u uw computer opstart."
+msgstr "U kunt uw instellingen zo wijzigen dat uw account automatisch wordt aangemeld wanneer u uw computer opstart:"
 
 #. (itstool) path: item/p
 #: C/user-autologin.page:49
@@ -22002,7 +22004,7 @@ msgstr ""
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Wacom Tablet</gui>."
-msgstr ""
+msgstr "Open het <gui xref=\"shell-introduction#activities\">Activiteiten</gui>-overzicht en typ <gui>Wacom-tablet</gui>."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:39
@@ -22141,7 +22143,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:45
 msgid "These settings can be adjusted:"
-msgstr ""
+msgstr "Deze instellingen kunnen aangepast worden:"
 
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:47
@@ -22169,7 +22171,7 @@ msgstr ""
 #: C/wacom.page:7
 msgctxt "link:trail"
 msgid "Wacom"
-msgstr ""
+msgstr "Wacom"
 
 #. (itstool) path: info/desc
 #: C/wacom.page:8

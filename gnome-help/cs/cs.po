@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>, 2014-2022\n"
 "Language-Team: Czech (http://app.transifex.com/endless-os/gnome-user-docs/language/cs/)\n"
@@ -2085,7 +2085,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "Většina lidí nikdy nemění systémová nastavení, která se vytvořila při instalaci. Pokud jste si ale tato nastavení z nějakého důvodu přizpůsobili nebo se jedná o server, můžete chtít zálohovat i tato nastavení."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -5411,7 +5411,7 @@ msgstr ""
 msgid ""
 "Click on each monitor in the list and select the orientation, resolution or "
 "scale, and refresh rate."
-msgstr ""
+msgstr "Postupně klikněte na jednotlivé monitory v seznamu a vyberte u nich orientaci, rozlišení nebo škálování a obnovovací frekvenci."
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:119 C/look-resolution.page:72
@@ -5453,7 +5453,7 @@ msgid ""
 "to a docked laptop with the lid closed, the other monitor can be switched "
 "off. In the list, click on the monitor you want to disable, and turn the "
 "switch to off."
-msgstr ""
+msgstr "Pokud potřebujete jen jeden monitor, například externí monitor připojený k notebooku se zavřeným víkem a připojeným do dokovací stanice, můžete ostatní monitory vypnout. V seznamu klikněte na monitor, který chcete vypnout, a přepněte přepínač do polohy vypnuto."
 
 #. (itstool) path: section/title
 #: C/display-dual-monitors.page:147
@@ -5505,7 +5505,7 @@ msgstr "Počítačové monitory vyzařují modré světlo, které může způsob
 #. (itstool) path: item/p
 #: C/display-night-light.page:42
 msgid "Click <gui>Night Light</gui> to open the settings."
-msgstr ""
+msgstr "Kliknutím na <gui>Noční světlo</gui> otevřete nastavení."
 
 #. (itstool) path: item/p
 #: C/display-night-light.page:45
@@ -8940,7 +8940,7 @@ msgstr "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>R</key> </keys
 #. (itstool) path: table/title
 #: C/keyboard-shortcuts-set.page:300
 msgid "Sound and Media"
-msgstr "Zvuk a média"
+msgstr "Zvuk a multimédia"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:302
@@ -9362,12 +9362,12 @@ msgstr "Ivan Stanton"
 #. (itstool) path: info/desc
 #: C/look-background.page:55
 msgid "Choose a style and set a background."
-msgstr ""
+msgstr "Jak vybrat styl a nastavit pozadí."
 
 #. (itstool) path: page/title
 #: C/look-background.page:58
 msgid "Change the appearance of your desktop"
-msgstr ""
+msgstr "Změna vzhledu uživatelského prostředí"
 
 #. (itstool) path: page/p
 #: C/look-background.page:60
@@ -9375,51 +9375,51 @@ msgid ""
 "You can change the look of things that appear on the screen by setting the "
 "style preference to light or dark. You can choose an image or wallpaper as "
 "your desktop background."
-msgstr ""
+msgstr "Nastavením předvolby stylu na světlý nebo tmavý můžete změnit vzhled věcí na obrazovce. Můžete si také vybrat tapetu na pozadí plochy svého uživatelského prostředí."
 
 #. (itstool) path: section/title
 #: C/look-background.page:65
 msgid "Light or Dark Style"
-msgstr ""
+msgstr "Světlý a tmavý styl"
 
 #. (itstool) path: section/p
 #: C/look-background.page:66
 msgid "To switch between light and dark desktop styles:"
-msgstr ""
+msgstr "Když chcete přepnout mezi světlým a tmavým stylem prostředí:"
 
 #. (itstool) path: item/p
 #: C/look-background.page:70
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Appearance</gui>."
-msgstr ""
+msgstr "Otevřete přehled <gui xref=\"shell-introduction#activities\">Činnosti</gui> a začněte psát <gui>Vzhled</gui>."
 
 #. (itstool) path: item/p
 #: C/look-background.page:74
 msgid ""
 "Click <gui>Appearance</gui> to open the panel. The currently selected style "
 "is shown at the top surrounded by a blue border."
-msgstr ""
+msgstr "Kliknutím na <gui>Vzhled</gui> otevřete příslušný panel. V horní části se ukáže aktuálně vybraný styl jako modře orámovaný."
 
 #. (itstool) path: item/p
 #: C/look-background.page:78
 msgid "Click to choose <gui>Light</gui> or <gui>Dark</gui>."
-msgstr ""
+msgstr "Kliknutím vyberte <gui>Světlý</gui> nebo <gui>Tmavý</gui>."
 
 #. (itstool) path: item/p
 #: C/look-background.page:81
 msgid "The setting is applied immediately."
-msgstr ""
+msgstr "Toto nastavení se použije bezprostředně."
 
 #. (itstool) path: section/title
 #: C/look-background.page:88
 msgid "Background"
-msgstr ""
+msgstr "Pozadí"
 
 #. (itstool) path: section/p
 #: C/look-background.page:89
 msgid "To change the image used for your background:"
-msgstr ""
+msgstr "Když chcete změnit obrázek použitý jako pozadí:"
 
 #. (itstool) path: item/p
 #: C/look-background.page:93
@@ -9431,7 +9431,7 @@ msgstr ""
 msgid ""
 "Click <gui>Appearance</gui> to open the panel. The currently selected "
 "wallpaper is shown at the top in the preview for the current style."
-msgstr ""
+msgstr "Kliknutím na <gui>Vzhled</gui> otevřete příslušný panel. V horní části se ukáže aktuálně vybraná tapeta pro aktuální styl."
 
 #. (itstool) path: item/p
 #: C/look-background.page:100
@@ -9461,7 +9461,7 @@ msgstr "Kliknutím na <gui>Přidat obrázek…</gui> můžete použít některou
 #. (itstool) path: item/p
 #: C/look-background.page:118
 msgid "The settings are applied immediately."
-msgstr "Toto nastavení se použije bezprostředně."
+msgstr "Toto nastavení se použijí bezprostředně."
 
 #. (itstool) path: note/p
 #: C/look-background.page:120
@@ -9673,12 +9673,12 @@ msgstr "Multimédia"
 msgid ""
 "Manage your sound devices, use your media files, connect to external "
 "devices, and more."
-msgstr ""
+msgstr "Jak spravovat zvuková zařízení, používat multimediální soubory, jak se připojit k externím multimediálním zařízením apod."
 
 #. (itstool) path: page/title
 #: C/media.page:27
 msgid "Sound and media"
-msgstr ""
+msgstr "Zvuk a multimédia"
 
 #. (itstool) path: info/title
 #: C/media.page:31
@@ -9714,12 +9714,12 @@ msgstr "Základy ke zvuku"
 #: C/media.page:42
 msgctxt "link"
 msgid "Music, video &amp; devices"
-msgstr ""
+msgstr "Hudba, video a zařízení"
 
 #. (itstool) path: section/title
 #: C/media.page:43
 msgid "Music, video &amp; devices"
-msgstr ""
+msgstr "Hudba, video a zařízení"
 
 #. (itstool) path: info/desc
 #: C/more-help.page:19
@@ -11896,12 +11896,12 @@ msgstr ""
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "Abyste na firewallu povolili/zakázali síťový přístup k programu, musíte určit správný síťový port."
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "Běžně používané síťové porty"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11914,34 +11914,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "Popis"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS, Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "Umožňuje systémům se navzájem vyhledat a popsat, které služby nabízejí, aniž byste museli cokoliv ručně nastavovat."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11953,66 +11953,66 @@ msgstr "Tisk"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "Umožňuje posílat tiskové úlohy do tiskárny po síti."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "Umožňuje po síti sdílet tiskárnu s dalšími lidmi."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "Prezence"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
 msgid ""
 "Allows you to advertise your instant messaging status to other people on the"
 " network, such as “online” or “busy”."
-msgstr ""
+msgstr "Umožňuje vám oznamovat svůj stav v rychlé komunikaci ostatním lidem na síti (např. „přítomen“ nebo „zaneprázdněn“)."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "Vzdálená plocha"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "Umožňujte vám sdílet vaši pracovní plochu s jinými lidmi, kteří se na ni mohou dívat nebo ji vzdáleně použít."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "Sdílení hudby (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "Umožňuje sdílet hudební knihovnu s dalšími lidmi v síti."
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -18038,7 +18038,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "Nabídka uživatele"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18253,7 +18253,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-top-bar-classic.png' "
 "md5='8eecf39f87d7cda9ee060a108114a624'"
-msgstr ""
+msgstr "external ref='figures/shell-top-bar-classic.png' md5='8eecf39f87d7cda9ee060a108114a624'"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:79
@@ -18543,7 +18543,7 @@ msgstr ""
 msgid ""
 "Click the system menu in the top-right corner to manage your system settings"
 " and your computer."
-msgstr ""
+msgstr "Klikněte na systémovou nabídku v pravém horním rohu, abyste mohli spravovat systémová nastavení a svůj počítač."
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:260
@@ -18615,7 +18615,7 @@ msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus"
 " on the task at hand without distractions."
-msgstr ""
+msgstr "GNOME mám odlišný přístup k přepínání oken, než je trvale viditelný seznam oken, jaký najdete v jiných pracovních prostředích. Tento nový přístup vám umožní zaměřit se na svůj úkol bez zbytečného rozptylování."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:311
@@ -19811,7 +19811,7 @@ msgid ""
 "Levels</gui> section to set the volume of the alert sound. Click the speaker"
 " button at the end of the slider to mute or unmute the alert sound. This "
 "will not affect the volume of your music, movies, or other sound files."
-msgstr ""
+msgstr "Použijte táhlo hlasitosti pro <gui>Systémové zvuky</gui> v části <gui>Úrovně hlasitosti</gui> k nastavení hlasitosti zvuku upozornění. Kliknutím na tlačítko s ikonou reproduktoru můžete zvuk upozornění zcela vypnout nebo zapnout. Neovlivní to hlasitost ostatních zvuků, jako jsou hudba, filmy apod."
 
 #. (itstool) path: info/desc
 #: C/sound-broken.page:20
@@ -20044,7 +20044,7 @@ msgid ""
 "privileges</link>; either type <cmd>sudo lspci</cmd> and type your password,"
 " or type <cmd>su</cmd>, enter the <em>root</em> (administrative) password, "
 "then type <cmd>lspci</cmd>."
-msgstr ""
+msgstr "Spusťte s <link xref=\"user-admin-explain\">oprávněními správce</link> příkaz <cmd>lspci</cmd>, tzn. buď napsat <cmd>sudo lspci</cmd> a zadat heslo, nebo napsat <cmd>su</cmd>, zadat heslo uživatele <em>root</em> (správce) a pak napsat <cmd>lspci</cmd>."
 
 #. (itstool) path: item/p
 #: C/sound-nosound.page:130
@@ -20219,7 +20219,7 @@ msgid ""
 "If you hover over the volume icon in the top bar or the slider in the system"
 " menu, the volume can be controlled by scrolling the mouse wheel or "
 "touchpad."
-msgstr ""
+msgstr "Když najedete nad ikonu hlasitosti v horní liště, nebo nad táhlo v systémové nabídce, můžete hlasitost ovládat kolečkem myši nebo posuvníkem touchpadu."
 
 #. (itstool) path: page/p
 #: C/sound-volume.page:47
@@ -20264,7 +20264,7 @@ msgid ""
 "Under <gui>Volume Levels</gui>, use the volume slider for each application "
 "to set its volume. Click the speaker button at the end of the slider to mute"
 " or unmute the application."
-msgstr ""
+msgstr "V <gui>Úrovních hlasitosti</gui> změňte hlasitost pomocí táhla u jednotlivých aplikací. Kliknutím na tlačítko s ikonou reporoduktoru vedle táhla se zvuk aplikace celkově vypíná a zapíná."
 
 #. (itstool) path: note/p
 #: C/sound-volume.page:80
@@ -20273,7 +20273,7 @@ msgid ""
 "playing sounds but is not listed, it might not support the feature that lets"
 " you control its volume in this way. In such a case, you cannot change its "
 "volume."
-msgstr ""
+msgstr "Uvedeny jsou jen aplikace, které přehrávají zvuk. V případě, že aplikace přehrává zvuk a není zde uvedena, možná nepodporuje funkci, která umožňuje ovládat hlasitost tímto způsobem. Potom hlasitost měnit nemůžete."
 
 #. (itstool) path: credit/name
 #: C/status-icons.page:48
@@ -21348,7 +21348,7 @@ msgstr "Shrnuto, oprávnění správce vám umožňují v případě potřeby pr
 #. (itstool) path: note/title
 #: C/user-admin-explain.page:67
 msgid "What does “superuser” mean?"
-msgstr ""
+msgstr "Co znamená „superuživatel“?"
 
 #. (itstool) path: note/p
 #: C/user-admin-explain.page:68
@@ -21358,7 +21358,7 @@ msgid ""
 "than normal users. You might see people discussing things like <cmd>su</cmd>"
 " and <cmd>sudo</cmd>; these are programs for temporarily giving you "
 "“superuser” (administrative) privileges."
-msgstr ""
+msgstr "Uživatel s oprávněními správce bývá někdy nazýván <em>superuživatel</em>. Je to jednoduše proto, že má více oprávnění, než normální uživatel. Někdy se na toto téma můžete setkat s věcmi, jako <cmd>su</cmd> a <cmd>sudo</cmd>, což jsou programy, které právě dočasně přidělí „superuživatelská“ (správcovská) oprávnění."
 
 #. (itstool) path: section/title
 #: C/user-admin-explain.page:76
@@ -22000,7 +22000,7 @@ msgstr ""
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Wacom Tablet</gui>."
-msgstr ""
+msgstr "Otevřete přehled <gui xref=\"shell-introduction#activities\">Činnosti</gui> a začněte psát <gui>Grafický tablet</gui>."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:39

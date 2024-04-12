@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Serbian (http://app.transifex.com/endless-os/gnome-user-docs/language/sr/)\n"
@@ -26,7 +26,7 @@ msgstr "Овај рад је издат под дозволом „<_:link-1/>�
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Мирослав Николић <miroslavnikolic@rocketmail.com>; 2012—2021.\n\nhttp://prevod.org — превод на српски језик."
+msgstr "Мирослав Николић <miroslavnikolic@rocketmail.com>; 2012—2022.\n\nhttp://prevod.org — превод на српски језик."
 
 #. (itstool) path: credit/name
 #: C/a11y-bouncekeys.page:21 C/a11y-braille.page:17 C/a11y-contrast.page:19
@@ -2083,7 +2083,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "Већина људи никада не мења подешавања система која су створена за време инсталације. Ако из неког разлога прилагодите подешавања система, или ако користите рачунар као сервер, онда ћете можда желети да направите резерву тих подешавања."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -2390,7 +2390,7 @@ msgstr "Чак и ако успете да нађете упутство за у
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:27
 msgid "PlayStation 5 joypads"
-msgstr ""
+msgstr "Играчке палице за Плејстејшн 5"
 
 #. (itstool) path: item/p
 #: C/bluetooth-device-specific-pairing.page:28
@@ -2398,7 +2398,7 @@ msgid ""
 "Holding the <_:media-1/> button, press the <_:media-2/> button until the "
 "light bar is blinking to make it visible and pair it like any other "
 "Bluetooth device."
-msgstr ""
+msgstr "Држећи дугме „<_:media-1/>“, притисните дугме „<_:media-2/>“ док трепери светлосна трака да је учини видљивом и упари као сваки други Блутут уређај."
 
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:34
@@ -2411,7 +2411,7 @@ msgid ""
 "Using the <_:media-1/> and “Share” button combination to pair the joypad can"
 " also be used to make the joypad visible and pair it like any other "
 "Bluetooth device."
-msgstr ""
+msgstr "Коришћење комбинације дугмади „<_:media-1/>“ и „Дели“ за упаривање играчке палице се може такође користити да се играчка палица учини видљивом и да се упари као било који Блутут уређај."
 
 #. (itstool) path: item/p
 #: C/bluetooth-device-specific-pairing.page:38
@@ -2421,7 +2421,7 @@ msgid ""
 " get asked whether to set those joypads up without needing to press the "
 "<_:media-1/> button. Unplug them and press the <_:media-2/> to use them over"
 " Bluetooth."
-msgstr ""
+msgstr "Ови уређаји могу такође да користе „упаривање-каблом“. Прикључите играчке палице путем УСБ-а са отвореним <gui>Поставкама Блутута</gui>, и укљученим Блутутом. Бићете упитани да ли желите да поставите те играчке палице без потребе да притиснете дугме „<_:media-1/>“. Искључите их и притисните „<_:media-2/>“ да их користите преко Блутута."
 
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:47
@@ -2435,7 +2435,7 @@ msgid ""
 "<gui>Bluetooth Settings</gui> opened, and Bluetooth turned on. After "
 "pressing the <_:media-1/> button, you will get asked whether to set those "
 "joypads up. Unplug them and <_:media-2/> button to use them over Bluetooth."
-msgstr ""
+msgstr "Ови уређаји користе „упаривање-каблом“. Прикључите играчке палице путем УСБ-а са отвореним <gui>Поставкама Блутута</gui>, и укљученим Блутутом. Након што притиснете дугме „<_:media-1/>“, бићете упитани да ли желите да поставите те играчке палице. Искључите их и дугме „<_:media-2/>“ да их користите преко Блутута."
 
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:56
@@ -2463,7 +2463,7 @@ msgid ""
 "note that some software like console emulators will want direct access to "
 "the remotes, and, in those cases, you should not set them up in the "
 "Bluetooth panel. Refer to the application’s manual for instructions."
-msgstr ""
+msgstr "Користите црвено „Sync“ дугме унутар одељка батерије да започнете поступак упаривања. Друге комбинације дугмади неће садржати информације упаривања, тако да ћете морати то да радите увек поново кратким редом. Такође знајте да неки програми желе директан приступ ка даљинским, и у тим случајевима, не треба да их постављате на панелу Блутута. Погледајте упутство програма за инструкцијама."
 
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:70
@@ -2730,7 +2730,7 @@ msgstr "Отворите <gui xref=\"shell-introduction#systemmenu\">избор�
 #. (itstool) path: item/p
 #: C/bluetooth-turn-on-off.page:88
 msgid "Select <gui><_:media-1/> Bluetooth</gui>."
-msgstr ""
+msgstr "Изаберите <gui><_:media-1/> Блутут</gui>."
 
 #. (itstool) path: note/p
 #: C/bluetooth-turn-on-off.page:94
@@ -2875,7 +2875,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-appts.png' "
 "md5='fb704d1404070c80b855e98b77a3a0e0'"
-msgstr ""
+msgstr "external ref='figures/shell-appts.png' md5='fb704d1404070c80b855e98b77a3a0e0'"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -2887,7 +2887,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-appts-classic.png' "
 "md5='ab5a3204968386532475cd6aac34ac14'"
-msgstr ""
+msgstr "external ref='figures/shell-appts-classic.png' md5='ab5a3204968386532475cd6aac34ac14'"
 
 #. (itstool) path: info/desc
 #: C/clock-set.page:32
@@ -5409,7 +5409,7 @@ msgstr ""
 msgid ""
 "Click on each monitor in the list and select the orientation, resolution or "
 "scale, and refresh rate."
-msgstr ""
+msgstr "Кликните на сваки монитор на списку и изаберите окренутост, резолуцију или сразмеру и стопу освежавања."
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:119 C/look-resolution.page:72
@@ -5451,7 +5451,7 @@ msgid ""
 "to a docked laptop with the lid closed, the other monitor can be switched "
 "off. In the list, click on the monitor you want to disable, and turn the "
 "switch to off."
-msgstr ""
+msgstr "Када је потребан само један дисплеј, на пример, спољни монитор повезан на преносни рачунар са спуштеним поклопцем, други монитор се може искључити. На списку, кликните на монитор који желите да искључите, и окрените прекидач на искључено."
 
 #. (itstool) path: section/title
 #: C/display-dual-monitors.page:147
@@ -5503,7 +5503,7 @@ msgstr "Монитор рачунара емитује плаву светлос
 #. (itstool) path: item/p
 #: C/display-night-light.page:42
 msgid "Click <gui>Night Light</gui> to open the settings."
-msgstr ""
+msgstr "Кликните на <gui>Ноћно светло</gui> да отворите поставке."
 
 #. (itstool) path: item/p
 #: C/display-night-light.page:45
@@ -5859,7 +5859,7 @@ msgstr "Изаберите датотеку коју желите да умно�
 msgid ""
 "Right-click and select <gui>Copy</gui>, or press "
 "<keyseq><key>Ctrl</key><key>C</key></keyseq>."
-msgstr ""
+msgstr "Кликните десним тастером миша и изаберите <gui>Умножи</gui>, или притисните <keyseq><key>Ктрл</key><key>Ц</key></keyseq>."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:51
@@ -5873,7 +5873,7 @@ msgid ""
 "Right-click and select <gui>Paste</gui> to finish copying the file, or press"
 " <keyseq><key>Ctrl</key><key>V</key></keyseq>. There will now be a copy of "
 "the file in the original folder and the other folder."
-msgstr ""
+msgstr "Притисните десни тастер и изаберите <gui>Убаци</gui> да завршите са умножавањем датотеке, или притисните <keyseq><key>Ктрл</key><key>В</key></keyseq>. Након овога ће постојати примерак датотеке у изворној фасцикли и у овој другој."
 
 #. (itstool) path: steps/title
 #: C/files-copy.page:60
@@ -5890,7 +5890,7 @@ msgstr "Изаберите датотеку коју желите да прем�
 msgid ""
 "Right-click and select <gui>Cut</gui>, or press "
 "<keyseq><key>Ctrl</key><key>X</key></keyseq>."
-msgstr ""
+msgstr "Кликните десним тастером и изаберите <gui>Исеци</gui>, или притисните <keyseq><key>Ктрл</key><key>Х</key></keyseq>."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:64
@@ -5903,7 +5903,7 @@ msgid ""
 "Right-click and and select <gui>Paste</gui> to finish moving the file, or "
 "press <keyseq><key>Ctrl</key><key>V</key></keyseq>. The file will be taken "
 "out of its original folder and moved to the other folder."
-msgstr ""
+msgstr "Кликните десним тастером и изаберите <gui>Убаци</gui> да завршите са премештањем датотеке, или притисните <keyseq><key>Ктрл</key><key>В</key></keyseq>. Датотека ће бити извађена из изворне фасцикле и премештена у другу фасциклу."
 
 #. (itstool) path: steps/title
 #: C/files-copy.page:72
@@ -5925,7 +5925,7 @@ msgid ""
 "<keyseq><key>Ctrl</key><key>N</key></keyseq>) to open a second window. In "
 "the new window, navigate to the folder where you want to move or copy the "
 "file."
-msgstr ""
+msgstr "Притисните дугме изборника у горњем десном углу прозора и изаберите <gui style=\"menuitem\">Нови прозор</gui> (или притисните <keyseq><key>Ктрл</key><key>Н</key></keyseq>) да отворите други прозор. У новом прозору, идите до фасцикле у коју желите да преместите или умножите датотеку."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:81
@@ -6143,7 +6143,7 @@ msgid ""
 "select <gui style=\"menuitem\">Show Hidden Files</gui>, or press "
 "<keyseq><key>Ctrl</key><key>H</key></keyseq>. You will see all hidden files,"
 " along with regular files that are not hidden."
-msgstr ""
+msgstr "Ако желите да видите све скривене датотеке у фасцикли, идите до те фасцикле и кликните на дугме изборника у горњем десном углу прозора и изаберите <gui style=\"menuitem\">Прикажи скривене датотеке</gui>, или притисните <keyseq><key>Ктрл</key><key>Х</key></keyseq>. Видећете све скривене датотеке, заједно са обичним датотекама које нису скривене."
 
 #. (itstool) path: section/p
 #: C/files-hidden.page:57
@@ -6152,7 +6152,7 @@ msgid ""
 "the top-right corner of the window and switch off <gui "
 "style=\"menuitem\">Show Hidden Files</gui>, or press "
 "<keyseq><key>Ctrl</key><key>H</key></keyseq> again."
-msgstr ""
+msgstr "Да поново сакријете ове датотеке, кликните на дугме изборника у горњем десном углу прозора и изаберите <gui style=\"menuitem\">Прикажи скривене датотеке</gui>, или поново притисните <keyseq><key>Ктрл</key><key>Х</key> </keyseq>."
 
 #. (itstool) path: section/title
 #: C/files-hidden.page:64
@@ -6169,7 +6169,7 @@ msgid ""
 " rename it so that it does not have a <file>.</file> in front of its name. "
 "For example, to unhide a file called <file>.example.txt</file>, you should "
 "rename it to <file>example.txt</file>."
-msgstr ""
+msgstr "Да откријете датотеку, идите у фасциклу која садржи скривену датотеку. Притисните дугме изборника у горњем десном углу прозора и изаберите <gui style=\"menuitem\">Прикажи скривене датотеке</gui>, или притисните <keyseq><key>Ктрл</key><key>H</key></keyseq>. Затим, пронађите скривену датотеку и преименујте је тако да не садржи <file>.</file> на почетку њеног назива. На пример, да откријете датотеку под називом <file>.пример.txt</file>, треба да је преименујете у <file>пример.txt</file>."
 
 #. (itstool) path: section/p
 #: C/files-hidden.page:73
@@ -6178,7 +6178,7 @@ msgid ""
 "top-right corner of the window and switch off <gui style=\"menuitem\">Show "
 "Hidden Files</gui>, or press <keyseq><key>Ctrl</key><key>H</key></keyseq> to"
 " hide any other hidden files again."
-msgstr ""
+msgstr "Када сте преименовали датотеку, можете или да притиснете дугме изборника у горњем десном углу прозора и искључите <gui style=\"menuitem\">Прикажи скривене датотеке</gui>, или притисните <keyseq><key>Ктрл</key><key>Н</key></keyseq> да поново сакријете све остале скривене датотеке."
 
 #. (itstool) path: note/p
 #: C/files-hidden.page:78
@@ -6439,7 +6439,7 @@ msgstr "Кликните на <gui>Смеће</gui> у бочној површи
 msgid ""
 "If your deleted file is there, click on it and select <gui>Restore From "
 "Trash</gui>. It will be restored to the folder from where it was deleted."
-msgstr ""
+msgstr "Ако је ваша обрисана датотека тамо, кликните на њу и изаберите <gui>Врати из смећа</gui>. Након овога датотека ће бити враћена у фасциклу из које је обрисана."
 
 #. (itstool) path: page/p
 #: C/files-recover.page:58
@@ -8895,7 +8895,7 @@ msgstr "Снимци екрана"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:281
 msgid "Save a screenshot of a window"
-msgstr ""
+msgstr "Сачувајте снимак прозора"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:282 C/screen-shot-record.page:207
@@ -8906,7 +8906,7 @@ msgstr "<keyseq><key>Алт</key><key>Штампај</key></keyseq>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:285
 msgid "Save a screenshot of the entire screen"
-msgstr ""
+msgstr "Сачувајте снимак читавог екрана"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:286 C/screen-shot-record.page:211
@@ -8917,7 +8917,7 @@ msgstr "<keyseq><key>Шифт</key><key>Штампај</key></keyseq>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:289
 msgid "Launch the screenshot tool"
-msgstr ""
+msgstr "Покрените алат снимања екрана"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:290 C/shell-keyboard-shortcuts.page:167
@@ -9360,12 +9360,12 @@ msgstr "Иван Стантон"
 #. (itstool) path: info/desc
 #: C/look-background.page:55
 msgid "Choose a style and set a background."
-msgstr ""
+msgstr "Изаберите стил и поставите позадину."
 
 #. (itstool) path: page/title
 #: C/look-background.page:58
 msgid "Change the appearance of your desktop"
-msgstr ""
+msgstr "Измените изглед ваше радне површи"
 
 #. (itstool) path: page/p
 #: C/look-background.page:60
@@ -9373,51 +9373,51 @@ msgid ""
 "You can change the look of things that appear on the screen by setting the "
 "style preference to light or dark. You can choose an image or wallpaper as "
 "your desktop background."
-msgstr ""
+msgstr "Можете изменити изглед ствари које се појављују на екрану постављањем поставке стила на светли или тамни. Можете изарати слику или позадину као позадину ваше радне површи."
 
 #. (itstool) path: section/title
 #: C/look-background.page:65
 msgid "Light or Dark Style"
-msgstr ""
+msgstr "Светли или тамни стил"
 
 #. (itstool) path: section/p
 #: C/look-background.page:66
 msgid "To switch between light and dark desktop styles:"
-msgstr ""
+msgstr "Да се пребацујете између светлог и тамног стила радне површи:"
 
 #. (itstool) path: item/p
 #: C/look-background.page:70
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Appearance</gui>."
-msgstr ""
+msgstr "Отворите преглед <gui xref=\"shell-introduction#activities\">Активности</gui> и почните да куцате <gui>Изглед</gui>."
 
 #. (itstool) path: item/p
 #: C/look-background.page:74
 msgid ""
 "Click <gui>Appearance</gui> to open the panel. The currently selected style "
 "is shown at the top surrounded by a blue border."
-msgstr ""
+msgstr "Кликните на <gui>Изглед</gui> да отворите панел. Тренутно изабрани стил је приказан на врху окружен плавом ивицом."
 
 #. (itstool) path: item/p
 #: C/look-background.page:78
 msgid "Click to choose <gui>Light</gui> or <gui>Dark</gui>."
-msgstr ""
+msgstr "Кликните да изаберете <gui>Светли</gui> или <gui>Тамни</gui>."
 
 #. (itstool) path: item/p
 #: C/look-background.page:81
 msgid "The setting is applied immediately."
-msgstr ""
+msgstr "Подешавање се примењује истог тренутка."
 
 #. (itstool) path: section/title
 #: C/look-background.page:88
 msgid "Background"
-msgstr ""
+msgstr "Позадина"
 
 #. (itstool) path: section/p
 #: C/look-background.page:89
 msgid "To change the image used for your background:"
-msgstr ""
+msgstr "Да измените слику коришћену за вашу позадину:"
 
 #. (itstool) path: item/p
 #: C/look-background.page:93
@@ -9429,7 +9429,7 @@ msgstr ""
 msgid ""
 "Click <gui>Appearance</gui> to open the panel. The currently selected "
 "wallpaper is shown at the top in the preview for the current style."
-msgstr ""
+msgstr "Кликните на <gui>Изглед</gui> да отворите панел. Тренутно изабрана позадина је приказана на врху у претпрегледу за тренутни стил."
 
 #. (itstool) path: item/p
 #: C/look-background.page:100
@@ -9671,12 +9671,12 @@ msgstr "Медији"
 msgid ""
 "Manage your sound devices, use your media files, connect to external "
 "devices, and more."
-msgstr ""
+msgstr "Управљајте вашим уређајима звука, користите ваше медијске датотеке, повежите се на спољне уређаје и још по нешто."
 
 #. (itstool) path: page/title
 #: C/media.page:27
 msgid "Sound and media"
-msgstr ""
+msgstr "Звук и медији"
 
 #. (itstool) path: info/title
 #: C/media.page:31
@@ -9712,12 +9712,12 @@ msgstr "Основни звук"
 #: C/media.page:42
 msgctxt "link"
 msgid "Music, video &amp; devices"
-msgstr ""
+msgstr "Музика, видео и уређаји"
 
 #. (itstool) path: section/title
 #: C/media.page:43
 msgid "Music, video &amp; devices"
-msgstr ""
+msgstr "Музика, видео и уређаји"
 
 #. (itstool) path: info/desc
 #: C/more-help.page:19
@@ -10933,7 +10933,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/nautilus-icons.png' "
 "md5='73fdc7c5671efc4819672db4ee1d1a25'"
-msgstr ""
+msgstr "external ref='figures/nautilus-icons.png' md5='73fdc7c5671efc4819672db4ee1d1a25'"
 
 #. (itstool) path: media/p
 #: C/nautilus-display.page:43
@@ -11853,7 +11853,7 @@ msgstr "подешавања"
 msgid ""
 "Click the <_:media-1/> button next to the active connection for the IP "
 "address and other details."
-msgstr ""
+msgstr "Кликните на дугме <_:media-1/> поред радне везе да видите ИП адресу и друге детаље."
 
 #. (itstool) path: section/title
 #: C/net-findip.page:78
@@ -11887,19 +11887,19 @@ msgstr "Сајт ће вам приказати вашу спољну ИП ад�
 msgid ""
 "Depending on how your computer connects to the internet, the internal and "
 "external addresses may be the same."
-msgstr ""
+msgstr "У зависности како се ваш рачунар повезује на интернет, унутрашња и спољна адреса могу бити исте."
 
 #. (itstool) path: info/desc
 #: C/net-firewall-ports.page:23
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "Морате да одредите прави мрежни прикључак да укључите/искључите мрежни приступ за програм са вашом мрежном баријером."
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "Уопштено коришћени мрежни прикључци"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11912,34 +11912,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "Прикључак"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "Опис"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/удп"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "мДНС, Авахи"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "Омогућава системима да се пронађу, и описује које услуге нуде, а да ви не морате ручно да одређујете појединости."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/удп"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11951,66 +11951,66 @@ msgstr "Штампање"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "Омогућава вам да шаљете послове штампања штампачима на мрежи."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/тцп"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "Омогућава вам да делите штампач са другима на мрежи."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/тцп"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "Присутност"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
 msgid ""
 "Allows you to advertise your instant messaging status to other people on the"
 " network, such as “online” or “busy”."
-msgstr ""
+msgstr "Омогућава вам да обавестите друге на мрежи о вашем стању тренутних порука, као што је „на везу“ или „заузет“."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/тцп"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "Удаљена радна површ"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "Омогућава вам да делите вашу радну површ тако да је други могу прегледати или обезбедити удаљену подршку."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/тцп"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "Дељење музике (ДААП)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "Омогућава вам да делите вашу музичку библиотеку са другима на вашој мрежи."
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -13084,12 +13084,12 @@ msgstr "Ако имате рачунар са бежичном картицом,
 msgid ""
 "Select <gui><_:media-1/> Wi-Fi</gui>. The Wi-Fi section of the menu will "
 "expand."
-msgstr ""
+msgstr "Изаберите <gui><_:media-1/> Бежична мрежа</gui>. Одељак бежичне везе у изборнику ће се раширити."
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:48
 msgid "Click the name of the network you want."
-msgstr ""
+msgstr "Кликните на назив мреже на коју желите да се повежете."
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:49
@@ -16765,17 +16765,17 @@ msgstr "Екран у слици и видеу"
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:47
 msgid "Capture all or part of your screen as an image"
-msgstr ""
+msgstr "Снимите цео или део екрана као слику"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:48
 msgid "Send it as a file or paste it from the clipboard"
-msgstr ""
+msgstr "Пошаљите је као датотеку или је убаците из оставе"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:49
 msgid "Save a video of your screen activity"
-msgstr ""
+msgstr "Сачувајте видео снимак активности вашег екрана"
 
 #. (itstool) path: page/media
 #. This is a reference to an external file such as an image or video. When
@@ -16787,7 +16787,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/screenshot-tool.png' "
 "md5='724f047c5fe39a7d8549b5fbff162260'"
-msgstr ""
+msgstr "external ref='figures/screenshot-tool.png' md5='724f047c5fe39a7d8549b5fbff162260'"
 
 #. (itstool) path: page/p
 #: C/screen-shot-record.page:54
@@ -16817,31 +16817,31 @@ msgstr ""
 msgid ""
 "The screenshot overlay presents you with handles to select the area to "
 "capture, and <_:media-1/> indicates screenshot (still image) mode."
-msgstr ""
+msgstr "Снимак екрана ће вам приказати ручке са којима ћете моћи да изаберете област за снимање, и <_:media-1/> које ће указати на режим (мирне слике) снимка екрана."
 
 #. (itstool) path: note/p
 #: C/screen-shot-record.page:79
 msgid "Click the pointer button to include the pointer in the screenshot."
-msgstr ""
+msgstr "Кликните на дугме показивача да га обухватите у снимак екрана."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:83
 msgid ""
 "Click and drag the area you want for the screenshot using the handles or the"
 " crosshair pointer."
-msgstr ""
+msgstr "Кликните и превуците област коју желите да уснимите користећи ручке или крстасти показивач-"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:87
 msgid "To capture the selected area, click the big round button."
-msgstr ""
+msgstr "Да усликате изабрану област, кликните на велико округло дугме."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:90
 msgid ""
 "To capture the entire screen, click <gui>Screen</gui> and then click the big"
 " round button."
-msgstr ""
+msgstr "Да усликате читав екран, кликните на <gui>Екран</gui> а затим кликните на велико округло дугме."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:94
@@ -16849,12 +16849,12 @@ msgid ""
 "To capture a window, click <gui>Window</gui>. An overview of all the open "
 "windows is displayed with the active window checked. Click to choose a "
 "window and then click the big round button."
-msgstr ""
+msgstr "Да усликате прозор, кликните на <gui>Прозор</gui>. Биће приказан претпреглед свих отворених прозора са означеним радним прозором. Кликните да изаберете прозор и затим кликните на велико округло дугме."
 
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:103
 msgid "Where do they go?"
-msgstr ""
+msgstr "Где ли одлазе (да ми је да знам)?"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:107
@@ -16863,14 +16863,14 @@ msgid ""
 "<file>Pictures/Screenshots</file> folder in your home folder with a file "
 "name that begins with <file>Screenshot</file> and includes the date and time"
 " it was taken."
-msgstr ""
+msgstr "Слика снимка екрана се самостално чува у фасцикли <file>Слике/Снимци екрана</file> у вашој личној фасцикли са називом датотеке који почиње на <file>Снимак-екрана</file> и садржи датум и време њеног снимања."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:113
 msgid ""
 "The image is also saved in the clipboard, so you can immediately paste it "
 "into an image-editing application or share it on social media."
-msgstr ""
+msgstr "Слика такође бива сачувана у остави, тако да је можете одмах убацити у програм за обраду слика или поделити је на друштвеним медијима."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:117
@@ -16879,12 +16879,12 @@ msgid ""
 "<file>Videos/Screencasts</file> folder in your home folder, with a file name"
 " that starts with <file>Screencast</file> and includes the date and time it "
 "was taken."
-msgstr ""
+msgstr "Видео снимак екрана се самостално чува у фасцикли <file>Видео/Видео снимци екрана</file> у вашој личној фасцикли, са називом датотеке који почиње на <file>Видео-снимак-екрана</file> и садржи датум и време прављења снимка."
 
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:127
 msgid "Make a screencast"
-msgstr "Направите снимак екрана"
+msgstr "Направите видео снимак екрана"
 
 #. (itstool) path: section/p
 #: C/screen-shot-record.page:129
@@ -16894,12 +16894,12 @@ msgstr "Можете да направите видео запис онога ш
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:142
 msgid "Click <_:media-1/> to switch to screencast mode."
-msgstr ""
+msgstr "Кликните на <_:media-1/> да се пребаците у режим видео снимања."
 
 #. (itstool) path: note/p
 #: C/screen-shot-record.page:146
 msgid "Click the pointer button to include the pointer in the screencast."
-msgstr ""
+msgstr "Кликните на дугме показивача да га обухватите у видео снимак екрана."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:150
@@ -16907,20 +16907,20 @@ msgid ""
 "Choose <gui>Selection</gui> or <gui>Screen</gui>. For <gui>Selection</gui>, "
 "click and drag the area you want for the screencast using the handles or the"
 " crosshair pointer."
-msgstr ""
+msgstr "Изаберите <gui>Избор</gui> или <gui>Екран</gui>. За <gui>Избор</gui>, кликните и превуците област коју желите у кадру користећи ручке или крстасти показивач."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:155
 msgid ""
 "Click the big round red button to start recording what is on your screen."
-msgstr ""
+msgstr "Кликните на велико црвено дугме да започнете снимање онога што је на екрану."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:157
 msgid ""
 "A red indicator is displayed in the top right corner of the screen when the "
 "recording is in progress, showing the elapsed seconds."
-msgstr ""
+msgstr "Црвени указивач бива приказан у горњем десном углу екрана за време снимања, показујући протекле секунде."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:161
@@ -16928,7 +16928,7 @@ msgid ""
 "Once you have finished, click the red indicator or press "
 "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq> "
 "to stop the recording."
-msgstr ""
+msgstr "Када завршите, кликните на црвени указивач или притисните <keyseq><key>Шифт</key><key>Ктрл</key><key>Алт</key><key>R</key></keyseq> да зауставите снимање."
 
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:170
@@ -16938,95 +16938,95 @@ msgstr "Пречице тастатуре"
 #. (itstool) path: section/p
 #: C/screen-shot-record.page:172
 msgid "Within the screenshot feature, you can use these keyboard shortcuts:"
-msgstr ""
+msgstr "Унутар функција снимања екрана, можете користити ове пречице тастатуре:"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:177
 msgid "<key>S</key>"
-msgstr ""
+msgstr "<key>S</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:178
 msgid "Select area"
-msgstr ""
+msgstr "За бирање области"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:181
 msgid "<key>C</key>"
-msgstr ""
+msgstr "<key>C</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:182
 msgid "Capture screen"
-msgstr ""
+msgstr "За снимање екрана"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:185
 msgid "<key>W</key>"
-msgstr ""
+msgstr "<key>W</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:186
 msgid "Capture window"
-msgstr ""
+msgstr "За снимање прозора"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:189
 msgid "<key>P</key>"
-msgstr ""
+msgstr "<key>P</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:190
 msgid "Toggle between show and hide pointer"
-msgstr ""
+msgstr "За окидање приказивања и скривања показивача"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:193
 msgid "<key>V</key>"
-msgstr ""
+msgstr "<key>V</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:194
 msgid "Toggle between screenshot and screencast"
-msgstr ""
+msgstr "За окидање између прављења слике или видео снимка"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:197
 msgid "<key>Enter</key>"
-msgstr ""
+msgstr "<key>Унеси</key>."
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:198
 msgid ""
 "Capture, also activated by <key>Space</key> or "
 "<keyseq><key>Ctrl</key><key>C</key></keyseq>"
-msgstr ""
+msgstr "За снимање, такође се покреће са <key>Размак</key> или <keyseq><key>Ктрл</key><key>C</key></keyseq>"
 
 #. (itstool) path: section/p
 #: C/screen-shot-record.page:203
 msgid "These shortcuts can be used to bypass the screenshot feature:"
-msgstr ""
+msgstr "Ове пречице се могу користити за заобилажење функције снимка екрана:"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:208
 msgid "Capture the window that currently has focus"
-msgstr ""
+msgstr "За снимање прозора који је тренутно у првом плану"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:212
 msgid "Capture the entire screen"
-msgstr ""
+msgstr "За снимање целог екрана"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:215 C/shell-keyboard-shortcuts.page:181
 msgid ""
 "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Шифт</key><key>Ктрл</key><key>Алт</key><key>R</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:216
 msgid "Start and stop recording a screencast"
-msgstr ""
+msgstr "За покретање и заустављање видео снимања екрана"
 
 #. (itstool) path: info/desc
 #: C/session-fingerprint.page:41
@@ -17380,14 +17380,14 @@ msgid ""
 "You can let other people view and control your desktop from another computer"
 " with a desktop viewing application. Configure <gui>Remote Desktop</gui> to "
 "allow others to access your desktop and set the security preferences."
-msgstr ""
+msgstr "Можете да допустите другима да прегледају и управљају вашом радном површином са другог рачунара са програмом за преглед радне површи. Подесите <gui>Удаљена радна површ</gui> да дозволите другима да приступе вашој радној површи и да подесе поставке безбедности."
 
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:58
 msgid ""
 "You must have the <app>GNOME Remote Desktop</app> package installed for "
 "<gui>Remote Desktop</gui> to be visible."
-msgstr ""
+msgstr "Морате имати инсталран пакет <app>Гномова удаљена радна површ</app> да би <gui>Удаљена радна површ</gui> био видљив."
 
 #. (itstool) path: when/p
 #: C/sharing-desktop.page:63
@@ -17412,7 +17412,7 @@ msgstr "Кликните на <gui>Дељење</gui> да отворите па
 msgid ""
 "If the <gui>Sharing</gui> switch in the top-right of the window is set to "
 "off, click to switch it on."
-msgstr ""
+msgstr "Ако је прекидач <gui>Дељење</gui> у горњем десном углу прозора постављен на искључено, кликните да га пребаците на укључено."
 
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:85 C/sharing-media.page:70
@@ -17426,7 +17426,7 @@ msgstr "Ако вам текст испод <gui>назива рачунара</
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:90
 msgid "Click <gui>Remote Desktop</gui>."
-msgstr ""
+msgstr "Кликните <gui>Удаљена радна површ</gui>."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:93
@@ -17434,7 +17434,7 @@ msgid ""
 "To let others view your desktop, set the <gui>Remote Desktop</gui> switch to"
 " on. This means that other people will be able to attempt to connect to your"
 " computer and view what’s on your screen."
-msgstr ""
+msgstr "Да пустите друге да прегледају вашу радну површ, поставите прекидач <gui>Удаљена радна површ</gui> на укључено. Ово значи да ће неко други бити у могућности да покуша да се повеже на ваш рачунар и да прегледа шта се налази на вашем екрану."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:98
@@ -17443,7 +17443,7 @@ msgid ""
 "switch to on. This may allow the other person to move your mouse, run "
 "applications, and browse files on your computer, depending on the security "
 "settings which you are currently using."
-msgstr ""
+msgstr "Да пустите друге да посредују са вашом радном површи, поставите прекидач <gui>Даљинско управљање</gui> на укључено. Ово може да омогући другој особи да помера вашег миша, покреће програме, и разгледа датотеке на вашем рачунару, у зависности од безбедносних подешавања која тренутно користите."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:106 C/sharing-personal.page:86
@@ -17455,34 +17455,34 @@ msgstr "Безбедност"
 msgid ""
 "The <gui>Authentication</gui> section displays the login credentials to be "
 "used in the client software on the connecting device."
-msgstr ""
+msgstr "Одељак <gui>Потврђивање идентитета</gui> приказује уверења пријављивања која ће се користити у софтверу клијента на уређају за повезивање."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:112
 msgid "User Name"
-msgstr ""
+msgstr "Корисничко име"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:113 C/sharing-desktop.page:117
 msgid "Use the suggested value or enter your own."
-msgstr ""
+msgstr "Користите предложену вредност или унесите коју ви желитте."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:116
 msgid "Password"
-msgstr ""
+msgstr "Лозинка"
 
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:119
 msgid ""
 "Click the button next to each entry if you want to place it in the "
 "clipboard."
-msgstr ""
+msgstr "Кликните на дугме поред сваког уноса ако желите да га ставите у оставу."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:124
 msgid "Verify Encryption"
-msgstr ""
+msgstr "Провера шифровања"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:125
@@ -17490,12 +17490,12 @@ msgid ""
 "Click the <gui>Verify Encryption</gui> button to display the encryption "
 "fingerprint. Compare it with the value displayed by the client when "
 "connecting: they should be identical."
-msgstr ""
+msgstr "Кликните на дугме <gui>Провери шифровање</gui> да прикажете отисак шифровања. Упоредите га са вредношћу коју прикаже клијент приликом повезивања: треба да буду истоветне."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:148
 msgid "Connecting"
-msgstr ""
+msgstr "Повезивање"
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:150
@@ -17505,7 +17505,7 @@ msgid ""
 "computer. Click the button next to each entry if you want to place it in the"
 " clipboard. A connection can also be made using your <link xref=\"net-"
 "findip\">IP address</link>."
-msgstr ""
+msgstr "Одељак <gui>Како да се повежем</gui> приказује <gui>Назив уређаја</gui> и <gui>Адреса удаљене радне површи</gui> који се могу користити на рачунару који се повезује. Кликните на дугме поред сваког уноса ако желите да га ставите у оставу. Веза такође може бити успостављена коришћењем ваше <link xref=\"net-findip\">ИП адресе</link>."
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:155
@@ -17513,24 +17513,24 @@ msgid ""
 "When the other computer is successfully connected to your desktop, you will "
 "see the <gui>Screen is being shared</gui> icon, <_:media-1/> in your system "
 "status area."
-msgstr ""
+msgstr "Када се други рачунар успешно повеже на вашу радну површ, видећете иконицу <gui>Екран је дељен</gui>, <_:media-1/> у области стања вашег система."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:162
 msgid "Clients"
-msgstr ""
+msgstr "Клијенти"
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:164
 msgid ""
 "To connect to your desktop from another computer, the following clients are "
 "known to work."
-msgstr ""
+msgstr "За повезивање на вашу радну површ са другог рачунара, познато је да раде следећи клијенти."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:168
 msgid "From Linux:"
-msgstr ""
+msgstr "Са Линукса:"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:170
@@ -17540,7 +17540,7 @@ msgid ""
 "href=\"https://flathub.org/apps/details/org.remmina.Remmina\">flatpak</link>."
 " Use default settings, particularly <gui>Color depth</gui> 'Automatic' in "
 "the connection profile settings."
-msgstr ""
+msgstr "<app>Ремина</app>, Гтк клијент, је доступна као пакет у већини дистрибуција, и такође као <link href=\"https://flathub.org/apps/details/org.remmina.Remmina\">flatpak</link>. Користите основне поставке, нарочито за <gui>Дубину боје</gui> „Automatic“ у поставкама профила повезивања."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:176
@@ -17548,24 +17548,24 @@ msgid ""
 "<app>xfreerdp</app> is a command line client available as a package in most "
 "distributions. The option <cmd>/network:auto</cmd> should be passed to the "
 "client on the command line."
-msgstr ""
+msgstr "<app>xfreerdp</app> је линијско наредбени клијент доступан као пакет у већини дистрибуција. Опција <cmd>/network:auto</cmd> треба да се проследи клијенту на линији наредби."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:183
 msgid "From Microsoft Windows:"
-msgstr ""
+msgstr "Са Мајкрософт Виндоуза:"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:185
 msgid ""
 "<app>mstsc</app> is the built-in Windows client. Default settings are "
 "recommended."
-msgstr ""
+msgstr "<app>mstsc</app> је уграђени клијент Виндоуза. Препоручују се основне поставке."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:191
 msgid "From Linux, Windows, or macOS:"
-msgstr ""
+msgstr "Са Линукса, Вондоуза или мекОС-а:"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:193
@@ -17574,7 +17574,7 @@ msgid ""
 "as a <link "
 "href=\"https://flathub.org/apps/details/com.thincast.client\">flatpak</link>."
 " Default settings are recommended."
-msgstr ""
+msgstr "<app>Thincast</app> је власнички клијент. Линукс издање је доступно као <link href=\"https://flathub.org/apps/details/com.thincast.client\">flatpak</link>. Препоручују се основне поставке."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:203
@@ -17589,39 +17589,39 @@ msgstr "Да искључите некога ко прегледа вашу ра
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:209
 msgid "Click the system menu on the right side of the top bar."
-msgstr ""
+msgstr "Кликните на изборник система на десној страни на горњој траци."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:212
 msgid "Click <gui>Screen is being shared</gui>."
-msgstr ""
+msgstr "Кликните <gui>Екран се дели</gui>."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:215
 msgid "Click <gui>Turn off</gui>."
-msgstr ""
+msgstr "Кликните <gui>Искључи</gui>."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:222
 msgid "Advanced Topics"
-msgstr ""
+msgstr "Напредне теме"
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:226
 msgid "Command line configuration"
-msgstr ""
+msgstr "Подешавања линије наредби"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:227
 msgid ""
 "The <cmd>grdctl</cmd> utility allows you to configure your host settings in "
 "a console window. For usage details, type <cmd>grdctl --help</cmd>."
-msgstr ""
+msgstr "Помагало <cmd>grdctl</cmd> вам омогућава да подесите ваше поставке домаћина у конзолном прозору. За детаље о коришћењу, укуцајте <cmd>grdctl --help</cmd>."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:232
 msgid "H.264"
-msgstr ""
+msgstr "H.264"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:233
@@ -17630,7 +17630,7 @@ msgid ""
 "Desktop</app> will use H.264 when: the graphics pipeline is used (a "
 "requirement of the protocol), the client supports it, and NVENC (NVIDIA's "
 "encoder) is available."
-msgstr ""
+msgstr "H.264 видео кодирање веома смањује пропусни опсег. <app>Гномова удаљена радна површ</app> ће користити H.264 када се користи графичка линијска спојка (на захтев протокола), када је клијент подржава, и када је „NVENC“ (шифрер NVIDIA-е) доступан."
 
 #. (itstool) path: info/desc
 #: C/sharing-displayname.page:25
@@ -18036,7 +18036,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "Кориснички изборник"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18048,7 +18048,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-expanded.png' "
 "md5='c535fc8ae6c3d7e08609218f816212b9'"
-msgstr ""
+msgstr "external ref='figures/shell-exit-expanded.png' md5='c535fc8ae6c3d7e08609218f816212b9'"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18060,7 +18060,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-classic-expanded.png' "
 "md5='b99a1656d674172295ab3c4f71ee30ed'"
-msgstr ""
+msgstr "external ref='figures/shell-exit-classic-expanded.png' md5='b99a1656d674172295ab3c4f71ee30ed'"
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:83
@@ -18078,7 +18078,7 @@ msgid ""
 "xref=\"shell-introduction#systemmenu\">system menu</link> on the right side "
 "of the top bar, click the <_:media-1/> button, and select the correct "
 "option."
-msgstr ""
+msgstr "Да се <gui>Одјавите</gui> или да <gui>Промените корисника</gui>, кликните на <link xref=\"shell-introduction#systemmenu\">системски изборник</link> на десној страни горње траке, кликните на дугме <_:media-1/>, и изаберите одговарајућу опцију."
 
 #. (itstool) path: note/p
 #: C/shell-exit.page:97
@@ -18115,7 +18115,7 @@ msgstr "Ако оставите ваш рачунар на кратко, тре�
 msgid ""
 "To lock your screen, click the system menu on the right side of the top bar "
 "and click the <_:media-1/> button."
-msgstr ""
+msgstr "Да закључате екран, притисните системски изборник на десној страни горње траке и кликните на дугме <_:media-1/>."
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:129
@@ -18146,7 +18146,7 @@ msgid ""
 "To suspend your computer manually, click the system menu on the right side "
 "of the top bar, click the <_:media-1/> button, and select "
 "<gui>Suspend</gui>."
-msgstr ""
+msgstr "Да ручно обуставите рад вашег рачунара, кликните на системски изборник на десној страни на горњој траци, кликните на дугме <_:media-1/>, и изаберите <gui>Обустави</gui>."
 
 #. (itstool) path: section/title
 #: C/shell-exit.page:163
@@ -18159,7 +18159,7 @@ msgid ""
 "If you want to power off your computer entirely, or do a full restart, click"
 " the system menu on the right side of the top bar, click the <_:media-1/> "
 "button, and select either <gui>Restart…</gui> or <gui>Power Off…</gui>."
-msgstr ""
+msgstr "Ако желите да трајно угасите ваш рачунар, или да га поново покренете, кликните на системски изборник на десној страни горње траке, кликните на дугме <_:media-1/>, и изаберите <gui>Поново покрени…</gui> или <gui>Угаси…</gui>."
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:172
@@ -18234,7 +18234,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-top-bar.png' "
 "md5='db8d3e7c591c3b710eaba0a93e78346b'"
-msgstr ""
+msgstr "external ref='figures/shell-top-bar.png' md5='db8d3e7c591c3b710eaba0a93e78346b'"
 
 #. (itstool) path: media/p
 #: C/shell-introduction.page:69 C/shell-introduction.page:74
@@ -18251,7 +18251,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-top-bar-classic.png' "
 "md5='8eecf39f87d7cda9ee060a108114a624'"
-msgstr ""
+msgstr "external ref='figures/shell-top-bar-classic.png' md5='8eecf39f87d7cda9ee060a108114a624'"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:79
@@ -18447,7 +18447,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-appmenu-classic.png' "
 "md5='2cfa352e0e3c55f82003047ba171fd18'"
-msgstr ""
+msgstr "external ref='figures/shell-appmenu-classic.png' md5='2cfa352e0e3c55f82003047ba171fd18'"
 
 #. (itstool) path: when/p
 #: C/shell-introduction.page:184
@@ -18522,7 +18522,7 @@ msgstr ""
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit.png' md5='61d91e3276304bf59b0f06093b97e838'"
-msgstr ""
+msgstr "external ref='figures/shell-exit.png' md5='61d91e3276304bf59b0f06093b97e838'"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18534,14 +18534,14 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-classic.png' "
 "md5='bc5eebe4cad6677a3552c08e8b3f502d'"
-msgstr ""
+msgstr "external ref='figures/shell-exit-classic.png' md5='bc5eebe4cad6677a3552c08e8b3f502d'"
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:257
 msgid ""
 "Click the system menu in the top-right corner to manage your system settings"
 " and your computer."
-msgstr ""
+msgstr "Кликните на системски изборник у горњем десном углу да управљате системским подешавањима и вашим рачунаром."
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:260
@@ -18613,7 +18613,7 @@ msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus"
 " on the task at hand without distractions."
-msgstr ""
+msgstr "Гнома одликује другачији приступ пребацивања прозора него што је то стално видљив списак прозора који налазимо у другим окружењима радне површи. Ово вам допушта да се усредсредите на задатак на коме радите без ометања."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:311
@@ -18874,7 +18874,7 @@ msgstr "Снимање екрана"
 msgid ""
 "<link xref=\"screen-shot-record#screenshot\">Launch the screenshot "
 "tool.</link>"
-msgstr ""
+msgstr "<link xref=\"screen-shot-record#screenshot\">Покрените алат за снимање екрана.</link>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:172
@@ -18888,7 +18888,7 @@ msgstr "<link xref=\"screen-shot-record#screenshot\">Направите слик
 msgid ""
 "<link xref=\"screen-shot-record#screenshot\">Take a screenshot of the entire"
 " screen.</link>."
-msgstr ""
+msgstr "<link xref=\"screen-shot-record#screenshot\">Направите снимак целог екрана.</link>."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:182
@@ -19809,7 +19809,7 @@ msgid ""
 "Levels</gui> section to set the volume of the alert sound. Click the speaker"
 " button at the end of the slider to mute or unmute the alert sound. This "
 "will not affect the volume of your music, movies, or other sound files."
-msgstr ""
+msgstr "Користите клизач јачине звука за <gui>Звуке система</gui> у одељку <gui>Нивои јачине звука</gui> да подесите јачину звука упозорења. Кликните на дугме звучника на крају клизача да утишате или поништите утишање звука упозорења. Ово неће утицати на јачину звука ваше музике, филмова, или других звучних датотека."
 
 #. (itstool) path: info/desc
 #: C/sound-broken.page:20
@@ -20042,7 +20042,7 @@ msgid ""
 "privileges</link>; either type <cmd>sudo lspci</cmd> and type your password,"
 " or type <cmd>su</cmd>, enter the <em>root</em> (administrative) password, "
 "then type <cmd>lspci</cmd>."
-msgstr ""
+msgstr "Покрените <cmd>lspci</cmd> са <link xref=\"user-admin-explain\">привилегијама администратора</link>; или укуцајте <cmd>sudo lspci</cmd> а затим вашу лозинку, или само <cmd>su</cmd>, затим упишите <em>администраторску</em> лозинку, а након тога укуцајте <cmd>lspci</cmd>."
 
 #. (itstool) path: item/p
 #: C/sound-nosound.page:130
@@ -20217,7 +20217,7 @@ msgid ""
 "If you hover over the volume icon in the top bar or the slider in the system"
 " menu, the volume can be controlled by scrolling the mouse wheel or "
 "touchpad."
-msgstr ""
+msgstr "Ако лебдите изнад иконице јачине звука на горњој траци или изнад клизача у изборнику система, јачином се може управљати премицањем точкића миша или на додирној табли."
 
 #. (itstool) path: page/p
 #: C/sound-volume.page:47
@@ -20262,7 +20262,7 @@ msgid ""
 "Under <gui>Volume Levels</gui>, use the volume slider for each application "
 "to set its volume. Click the speaker button at the end of the slider to mute"
 " or unmute the application."
-msgstr ""
+msgstr "Под <gui>Нивои јачине звука</gui>, користите клизач јачине звука за сваки програм да поставите његову јачину звука. Кликните на дугме звучника на крају клизача да утишате или појачате програм."
 
 #. (itstool) path: note/p
 #: C/sound-volume.page:80
@@ -20271,7 +20271,7 @@ msgid ""
 "playing sounds but is not listed, it might not support the feature that lets"
 " you control its volume in this way. In such a case, you cannot change its "
 "volume."
-msgstr ""
+msgstr "Само програми који тренутно пуштају звук биће на списку. Ако неки програм који пушта звук није на списку, можда не подржава функцију која вам допушта да управљате јачином звука на овај начин. У том случају, нећете моћи да промените његову јачину звука."
 
 #. (itstool) path: credit/name
 #: C/status-icons.page:48
@@ -21142,7 +21142,7 @@ msgstr "Притисните <gui style=\"button\">Откључај</gui> у г�
 msgid ""
 "Press the <gui style=\"button\">+ Add User...</gui> button under <gui>Other "
 "Users</gui> to add a new user account."
-msgstr ""
+msgstr "Притисните дугме <gui style=\"button\">+ Додај корисника</gui> испод <gui>Други корисници</gui>, да додате налог новог корисника."
 
 #. (itstool) path: item/p
 #: C/user-add.page:63
@@ -21179,20 +21179,20 @@ msgid ""
 "themselves on their first login. If you choose to set the password now, you "
 "can press the <gui style=\"button\"><_:media-1/></gui> icon to automatically"
 " generate a random password."
-msgstr ""
+msgstr "Можете изабрати да поставите лозинку за новог корисника, или да оставите да је сам постави приликом свог првог пријављивања. Ако изаберете да сада поставите лозинку, можете да притиснете иконицу за <gui style=\"button\"><_:media-1/></gui> да сами створите насумичну лозинку."
 
 #. (itstool) path: item/p
 #: C/user-add.page:81
 msgid ""
 "To connect the user to a network domain, click <gui>Enterprise Login</gui>."
-msgstr ""
+msgstr "Да повежете корисника на домен мреже, кликните <gui>Пословно пријављивање</gui>."
 
 #. (itstool) path: item/p
 #: C/user-add.page:85
 msgid ""
 "Click <gui>Add</gui>. When the user has been added, <gui>Parental "
 "Controls</gui> and <gui>Language</gui> settings can be adjusted."
-msgstr ""
+msgstr "Кликните <gui>Додај</gui>. Након што је корисник додат, поставке <gui>Родитељска контрола</gui> и <gui>Језик</gui> могу се подеисти "
 
 #. (itstool) path: page/p
 #: C/user-add.page:91
@@ -21252,12 +21252,12 @@ msgstr "Кликните на <gui>Корисници</gui> да отворит�
 msgid ""
 "Under <gui>Other Users</gui>, select the user whose privileges you want to "
 "change."
-msgstr ""
+msgstr "Испод <gui>Други корисници</gui>, изаберите корисника чија овлашћења желите да измените."
 
 #. (itstool) path: item/p
 #: C/user-admin-change.page:62
 msgid "Set the <gui>Administrator</gui> switch to on."
-msgstr ""
+msgstr "Поставите прекидач <gui>Администратор</gui> на укључено."
 
 #. (itstool) path: item/p
 #: C/user-admin-change.page:65
@@ -21346,7 +21346,7 @@ msgstr "Сажето, администраторска овлашћења вам
 #. (itstool) path: note/title
 #: C/user-admin-explain.page:67
 msgid "What does “superuser” mean?"
-msgstr ""
+msgstr "Шта значи „супер корисник“?"
 
 #. (itstool) path: note/p
 #: C/user-admin-explain.page:68
@@ -21356,7 +21356,7 @@ msgid ""
 "than normal users. You might see people discussing things like <cmd>su</cmd>"
 " and <cmd>sudo</cmd>; these are programs for temporarily giving you "
 "“superuser” (administrative) privileges."
-msgstr ""
+msgstr "Корисник са администраторским овлашћењима се понекад назива <em>супер корисником</em>. Једноставно због тога што тај корисник има више овлашћења него обичан корисник. Можете да видите људе који расправљају о стварима као <cmd>su</cmd> и <cmd>sudo</cmd>; то су програми који вам привремено дају овлашћења „супер корисника“ (администратора)."
 
 #. (itstool) path: section/title
 #: C/user-admin-explain.page:76
@@ -21456,7 +21456,7 @@ msgstr "Можете да измените ваша подешавања так�
 msgid ""
 "If it is a different user account that you want to log into automatically, "
 "select the account under <gui>Other Users</gui>."
-msgstr ""
+msgstr "Ако желите да се самостално пријављујете са неког другог корисничког налога, изаберите налог под <gui>Други корисници</gui>."
 
 #. (itstool) path: item/p
 #: C/user-autologin.page:53
@@ -21506,7 +21506,7 @@ msgid ""
 "changing the password for a different user, you will first need to "
 "<gui>Unlock</gui> the panel and select the account under <gui>Other "
 "Users</gui>."
-msgstr ""
+msgstr "Кликните на натпис <gui>·····</gui> поред <gui>лозинке</gui>. Ако мењате лозинку другог корисника, морате као прво да <gui>откључате</gui> панел и да изаберете налог под <gui>Други корисници</gui>."
 
 #. (itstool) path: item/p
 #: C/user-changepassword.page:84
@@ -21572,7 +21572,7 @@ msgid ""
 "If you want to edit a user other than yourself, press <gui "
 "style=\"button\">Unlock</gui> in the top right corner and type in your "
 "password when prompted. Choose the user from <gui>Other Users</gui>."
-msgstr ""
+msgstr "Ако желите да уредите неког другог корисника, притисните <gui style=\"button\">Откључај</gui> у горњем десном углу и укуцајте вашу лозинку. Затим изаберите корисника из <gui>Други корисници</gui>."
 
 #. (itstool) path: item/p
 #: C/user-changepicture.page:62
@@ -21580,7 +21580,7 @@ msgid ""
 "Click the pencil icon next to your name. A drop-down gallery will be shown "
 "with some stock login photos. If you like one of them, click it to use it "
 "for yourself."
-msgstr ""
+msgstr "Кликните на иконицу оловке поред вашег имена. Биће вам приказана галерија са неким ускладиштеним фотографијама за пријаву. Ако вам нека од њих одговара, кликните на њу да је коористите."
 
 #. (itstool) path: item/p
 #: C/user-changepicture.page:67
@@ -21629,14 +21629,14 @@ msgstr "Потребна су вам <link xref=\"user-admin-explain\">адми�
 msgid ""
 "Click on the user account that you want to delete under <gui>Other "
 "Users</gui>."
-msgstr ""
+msgstr "Кликните на кориснички налог који желите да обришете под <gui>Други корисници</gui>."
 
 #. (itstool) path: item/p
 #: C/user-delete.page:69
 msgid ""
 "Press the <gui style=\"button\">Remove User...</gui> button to delete that "
 "user account."
-msgstr ""
+msgstr "Притисните дугме <gui style=\"button\">Уклони корисника...</gui> да обришете тај кориснички налог."
 
 #. (itstool) path: item/p
 #: C/user-delete.page:73
@@ -21970,74 +21970,74 @@ msgid ""
 "If no tablet is detected, you’ll be asked to <gui>Please plug in or turn on "
 "your Wacom tablet</gui>. Click <gui>Bluetooth</gui> in the sidebar to "
 "connect a wireless tablet."
-msgstr ""
+msgstr "Ако таблица није откривена, од вас ће бити затражено да <gui>прикључите или упалите вашу Ваком таблицу</gui>. Кликните на <gui>Блутут</gui> на бочној површи да повежете бежичну таблицу."
 
 #. (itstool) path: item/p
 #: C/wacom-left-handed.page:44
 msgid "Set the <gui>Left-Handed Orientation</gui> switch to on."
-msgstr ""
+msgstr "Поставите прекидач <gui>Леворуко усмерење</gui> на укључено."
 
 #. (itstool) path: info/desc
 #: C/wacom-map-buttons.page:20
 msgid "Assign functions to the hardware buttons on the graphics tablet."
-msgstr ""
+msgstr "Доделите функције хардверским дугмичима на графичкој таблици."
 
 #. (itstool) path: page/title
 #: C/wacom-map-buttons.page:23
 msgid "Map the tablet buttons"
-msgstr ""
+msgstr "Мапирање дугмади таблице"
 
 #. (itstool) path: page/p
 #: C/wacom-map-buttons.page:25
 msgid ""
 "The hardware buttons on a tablet can be configured for various functions."
-msgstr ""
+msgstr "Хардверски дугмићи на таблици се могу подесити за разне функције."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:29
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Wacom Tablet</gui>."
-msgstr ""
+msgstr "Отворите преглед <gui xref=\"shell-introduction#activities\">Активности</gui> и почните да куцате <gui>Ваком таблица</gui>."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:39
 msgid "Click <gui>Map Buttons</gui>."
-msgstr ""
+msgstr "Кликните <gui>Мапирај дугмад</gui>."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:42
 msgid ""
 "An on screen display shows the layout of the tablet's buttons. Press each "
 "button on the tablet and choose one of these functions:"
-msgstr ""
+msgstr "Приказ на екрану ће приказати распоред дугмића таблице. Притисните свако дугме на таблици и изаберите једну од ових функција:"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:45
 msgid "<gui>Application defined</gui>"
-msgstr ""
+msgstr "<gui>Дефинисана програмом</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:46
 msgid "<gui>Show on-screen help</gui>"
-msgstr ""
+msgstr "<gui>Приказује помоћ на екрану</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:47
 msgid "<gui>Switch monitor</gui>"
-msgstr ""
+msgstr "<gui>Мења монитор</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:48
 msgid "<gui>Send keystroke</gui>"
-msgstr ""
+msgstr "<gui>Шаље откуцај тастера</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:52
 msgid ""
 "Click <gui>Done</gui> when each button is configured, and press "
 "<key>Esc</key> to exit."
-msgstr ""
+msgstr "Кликните <gui>Готово</gui> након што подесите свако дугме, и притисните <key>Esc</key> да изађете."
 
 #. (itstool) path: info/desc
 #: C/wacom-mode.page:24
@@ -22053,14 +22053,14 @@ msgstr "Подесите режим праћења Ваком таблице"
 #: C/wacom-mode.page:29
 msgid ""
 "<gui>Tablet Mode</gui> determines how the stylus is mapped to the screen."
-msgstr ""
+msgstr "<gui>Режим таблице</gui> одређује начин мапирања оловке на екрану."
 
 #. (itstool) path: item/p
 #: C/wacom-mode.page:42
 msgid ""
 "Choose between tablet (or absolute) mode and touchpad (or relative) mode. "
 "For tablet mode, switch <gui>Tablet Mode</gui> to on."
-msgstr ""
+msgstr "Изаберите између режима таблице (или апсолутног) и режима додирне табле (или релативног). За режим таблице, пребаците <gui>Режим таблице</gui> на укључено."
 
 #. (itstool) path: note/p
 #: C/wacom-mode.page:47
@@ -22093,7 +22093,7 @@ msgstr "Изаберите монитор"
 msgid ""
 "Next to <gui>Map to Monitor</gui>, select the monitor you wish to receive "
 "input from your graphics tablet, or choose <gui>All Displays</gui>."
-msgstr ""
+msgstr "Поред <gui>Мапирај на монитор</gui>, изаберите монитор за који желите да прима улаз са ваше графичке таблице, или изаберите <gui>Сви монитори</gui>."
 
 #. (itstool) path: note/p
 #: C/wacom-multi-monitor.page:54
@@ -22108,7 +22108,7 @@ msgid ""
 "<em>force proportions</em>, “letterboxes” the drawing area on a tablet to "
 "correspond more directly to a display. For example, a 4∶3 tablet would be "
 "mapped so that the drawing area would correspond to a widescreen display."
-msgstr ""
+msgstr "Пребаците прекидач <gui>Задржи однос размере</gui> на укључено да поклопите област исцртавања таблице са пропорцијама монитора. Ово подешавање, такозвано <em>присили пропорције</em>, „црно истракава“ област исцртавања на табличним уређајима да приближније одговара приказу. На пример, таблични уређај пропорција 4:3 биће мапиран тако да област исцртавања одговара приказу широког екрана."
 
 #. (itstool) path: info/desc
 #: C/wacom-stylus.page:24
@@ -22125,7 +22125,7 @@ msgstr "Подесите пенкало"
 msgid ""
 "There is a section containing settings specific to each stylus, with the "
 "device name (the stylus class) and diagram at the top."
-msgstr ""
+msgstr "Постоји одељак који садржи подешавања посебна за ваше пенкало, са називом уређаја (разред пенкала) и дијаграмом на левој страни."
 
 #. (itstool) path: note/p
 #: C/wacom-stylus.page:42
@@ -22137,7 +22137,7 @@ msgstr "Ако пенкало није откривено, од вас ће би
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:45
 msgid "These settings can be adjusted:"
-msgstr ""
+msgstr "Ове поставке се могу прилагодити:"
 
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:47
@@ -22152,14 +22152,14 @@ msgid ""
 "Button/Scroll Wheel configuration (these change to reflect the stylus). "
 "Click the menu next to each label to select one of these functions: Middle "
 "Mouse Button Click, Right Mouse Button Click, Back, or Forward."
-msgstr ""
+msgstr "Подешавања „Дугмета/Точкића клизача“ (мењају се да би оцртали пенкало). Кликните на изборник поред сваког натписа да изаберете једну од ових функција: Клик средњег дугмета миша, Клик десног дугмета миша, Назад или Напред."
 
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:56
 msgid ""
 "Click <gui>Test Your Settings</gui> in the header bar to pop down a "
 "sketchpad where you can test your stylus settings."
-msgstr ""
+msgstr "Кликните на <gui>Испробајте ваше поставке</gui> на траци заглавља да отворите таблу скицирања где можете да испробате ваше поставке пенкала."
 
 #. (itstool) path: info/title
 #: C/wacom.page:7

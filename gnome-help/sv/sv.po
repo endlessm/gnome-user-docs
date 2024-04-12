@@ -1,14 +1,14 @@
 # 
 # Translators:
-# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2016-2021
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2016-2023
 # Daniel Nylander <po@danielnylander.se>, 2012
 # Sebastian Rasmussen <sebras@gmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
-"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>, 2016-2021\n"
+"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>, 2016-2023\n"
 "Language-Team: Swedish (http://app.transifex.com/endless-os/gnome-user-docs/language/sv/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -468,7 +468,7 @@ msgid ""
 "or object on the screen. This is useful if you find it difficult to move the"
 " mouse and click at the same time. This feature is called <gui>Hover "
 "Click</gui> or Dwell Click."
-msgstr "Du kan klicka eller dra genom att hålla musmarkören stilla över en kontroll eller ett objekt på skärmen. Detta är användbart om du tycker att det är svårt att flytta musen och klicka på samma gång. Denna funktion heter <gui>Uppehållsklick</gui> eller svävningsklick."
+msgstr "Du kan klicka eller dra genom att hålla muspekaren stilla över en kontroll eller ett objekt på skärmen. Detta är användbart om du tycker att det är svårt att flytta musen och klicka på samma gång. Denna funktion heter <gui>Uppehållsklick</gui> eller svävningsklick."
 
 #. (itstool) path: page/p
 #: C/a11y-dwellclick.page:52
@@ -476,7 +476,7 @@ msgid ""
 "When <gui>Hover Click</gui> is enabled, you can move your mouse pointer over"
 " a control, let go of the mouse, and then wait for a while before the button"
 " will be clicked for you."
-msgstr "När <gui>Uppehållsklick</gui> är aktiverat så kan du flytta din musmarkör över en kontroll, släppa musen, och sedan vänta en stund innan knappen klickas på åt dig."
+msgstr "När <gui>Uppehållsklick</gui> är aktiverat så kan du flytta muspekaren över en kontroll, släppa musen, och sedan vänta en stund innan knappen klickas på åt dig."
 
 #. (itstool) path: item/p
 #: C/a11y-dwellclick.page:61 C/a11y-right-click.page:56
@@ -505,7 +505,7 @@ msgid ""
 "when you hover. For example, if you select <gui>Secondary Click</gui>, you "
 "will right-click when you hover. After you double-click, right-click, or "
 "drag, you will be automatically returned to clicking."
-msgstr "<gui>Uppehållsklick</gui>-fönstret kommer att öppnas, och lägga sig överst ovanpå dina andra fönster. Du kan använda detta för att välja vilken sorts klick som ska hända när du håller musmarkören stilla. Om du till exempel markerar <gui>Sekundärklick</gui> så kommer du att högerklicka när du håller markören stilla. Efter att du dubbelklickat, högerklickat eller dragit så kommer du automatiskt att återgå till enkelklick."
+msgstr "<gui>Uppehållsklick</gui>-fönstret kommer att öppnas, och lägga sig överst ovanpå dina andra fönster. Du kan använda detta för att välja vilken sorts klick som ska hända när du håller muspekaren stilla. Om du till exempel markerar <gui>Sekundärklick</gui> så kommer du att högerklicka när du håller markören stilla. Efter att du dubbelklickat, högerklickat eller dragit så kommer du automatiskt att återgå till enkelklick."
 
 #. (itstool) path: page/p
 #: C/a11y-dwellclick.page:78
@@ -513,14 +513,14 @@ msgid ""
 "When you hover your mouse pointer over a button and do not move it, it will "
 "gradually change color. When it has fully changed color, the button will be "
 "clicked."
-msgstr "När du håller din muspekare över en knapp utan att röra på musen, så kommer den gradvis att ändra färg. När den sedan ändrat färg helt och hållet, så kommer knappen bli klickad."
+msgstr "När du håller muspekaren över en knapp utan att röra på musen, så kommer den gradvis att ändra färg. När den sedan ändrat färg helt och hållet, så kommer knappen bli klickad."
 
 #. (itstool) path: page/p
 #: C/a11y-dwellclick.page:82
 msgid ""
 "Adjust the <gui>Delay</gui> setting to change how long you have to hold the "
 "mouse pointer still before clicking."
-msgstr "Justera inställningen <gui>Fördröjning</gui> för att ändra hur länge du måste hålla musmarkören stilla innan den klickar."
+msgstr "Justera inställningen <gui>Fördröjning</gui> för att ändra hur länge du måste hålla muspekaren stilla innan den klickar."
 
 #. (itstool) path: page/p
 #: C/a11y-dwellclick.page:85
@@ -528,14 +528,14 @@ msgid ""
 "You do not need to hold the mouse perfectly still when hovering to click. "
 "The pointer is allowed to move a little bit and will still click after a "
 "while. If it moves too much, however, the click will not happen."
-msgstr "Du behöver inte hålla musen helt stilla när du pekar för att klicka. Musmarkören tillåts flytta sig en liten bit och kommer fortfarande att klicka efter ett tag. Om den rör sig för mycket så kommer däremot inget klicka att inträffa."
+msgstr "Du behöver inte hålla musen helt stilla när du pekar för att klicka. Muspekaren tillåts flytta sig en liten bit och kommer fortfarande att klicka efter ett tag. Om den rör sig för mycket så kommer däremot inget klick att inträffa."
 
 #. (itstool) path: page/p
 #: C/a11y-dwellclick.page:89
 msgid ""
 "Adjust the <gui>Motion threshold</gui> setting to change how much the "
 "pointer can move and still be considered to be hovering."
-msgstr "Justera inställningen <gui>Tröskelvärde för rörelse</gui> för att ändra hur mycket musmarkören kan flyttas och ändå anses sväva."
+msgstr "Justera inställningen <gui>Tröskelvärde för rörelse</gui> för att ändra hur mycket muspekaren kan flyttas och ändå anses sväva."
 
 #. (itstool) path: info/desc
 #: C/a11y-font-size.page:36
@@ -668,7 +668,7 @@ msgid ""
 "You can now move around the screen area. By moving your mouse to the edges "
 "of the screen, you will move the magnified area in different directions, "
 "allowing you to view your area of choice."
-msgstr "Du kan nu flytta runt på skärmytan. Genom att flytta din mus till kanterna på skärmen så kommer det förstorade området att flyttas i olika riktningar vilket låter dig titta på den del som du önskar."
+msgstr "Du kan nu flytta runt på skärmytan. Genom att flytta musen till kanterna på skärmen så kommer det förstorade området att flyttas i olika riktningar vilket låter dig titta på den del som du önskar."
 
 #. (itstool) path: note/p
 #: C/a11y-mag.page:72
@@ -977,7 +977,7 @@ msgstr "Du kan låta datorn spela upp ett ljud när du trycker ner en tangent, n
 msgid ""
 "Type keyboard shortcuts one key at a time rather than having to hold down "
 "all of the keys at once."
-msgstr "Mata in snabbtangenter en tangent i taget istället för att hålla ner alla tangenterna på en gång."
+msgstr "Mata in snabbtangenter en tangent i taget i stället för att hålla ner alla tangenterna på en gång."
 
 #. (itstool) path: page/title
 #: C/a11y-stickykeys.page:45
@@ -993,7 +993,7 @@ msgid ""
 "shortcut switches between windows. Without sticky keys turned on, you would "
 "have to hold down both keys at the same time; with sticky keys turned on, "
 "you would press <key>Super</key> and then <key>Tab</key> to do the same."
-msgstr "<em>Klistriga tangenter</em> låter dig skriva in snabbtangenter en tangent i taget istället för att hålla ner alla tangenterna på en gång. Till exempel växlar snabbtangenten <keyseq><key xref=\"keyboard-key-super\">Super</key><key>Tabb</key></keyseq> mellan fönster. Utan att ha klistriga tangenter aktiverat så skulle du behöva hålla ner båda tangenterna samtidigt, med klistriga tangenter aktiverat skulle du behöva trycka på <key>Super</key> och sedan <key>Tabb</key> för att göra samma sak."
+msgstr "<em>Klistriga tangenter</em> låter dig skriva in snabbtangenter en tangent i taget i stället för att hålla ner alla tangenterna på en gång. Till exempel växlar snabbtangenten <keyseq><key xref=\"keyboard-key-super\">Super</key><key>Tabb</key></keyseq> mellan fönster. Utan att ha klistriga tangenter aktiverat så skulle du behöva hålla ner båda tangenterna samtidigt, med klistriga tangenter aktiverat skulle du behöva trycka på <key>Super</key> och sedan <key>Tabb</key> för att göra samma sak."
 
 #. (itstool) path: page/p
 #: C/a11y-stickykeys.page:54
@@ -1474,7 +1474,7 @@ msgid ""
 "revoke that certificate in the online service. This will ensure that no "
 "other application or website can connect to that service using the "
 "authorization for your desktop."
-msgstr "Många nättjänster tillhandahåller ett autentiseringselement som ditt skrivbord sparar istället för ditt lösenord. Om du tar bort ett konto, bör du också återkalla det certifikatet i nättjänsten. Detta säkerställer att inget annat program eller webbplats kan ansluta till den tjänsten genom att använda autentiseringen för ditt skrivbord."
+msgstr "Många nättjänster tillhandahåller ett autentiseringselement som ditt skrivbord sparar i stället för ditt lösenord. Om du tar bort ett konto, bör du också återkalla det certifikatet i nättjänsten. Detta säkerställer att inget annat program eller webbplats kan ansluta till den tjänsten genom att använda autentiseringen för ditt skrivbord."
 
 #. (itstool) path: note/p
 #: C/accounts-remove.page:55
@@ -1505,7 +1505,7 @@ msgid ""
 "Instead of deleting the account completely, it is possible to <link "
 "xref=\"accounts-disable-service\">restrict the services</link> accessed by "
 "your desktop."
-msgstr "Istället för att ta bort kontot helt är det möjligt att <link xref=\"accounts-disable-service\">begränsa tjänsterna</link> som nås av din skrivbordsmiljö."
+msgstr "I stället för att ta bort kontot helt är det möjligt att <link xref=\"accounts-disable-service\">begränsa tjänsterna</link> som nås av din skrivbordsmiljö."
 
 #. (itstool) path: credit/years
 #: C/accounts-which-application.page:16
@@ -1554,7 +1554,7 @@ msgid ""
 "The Calendar service allows you to view, add, and edit events in an online "
 "calendar. It is used by applications like <app>Calendar</app>, "
 "<app>Evolution</app>, and <app>California</app>."
-msgstr "Kalender-tjänsten låter dig visa, lägga till och redigera händelser i en nätkalender. Den används av program så som <app>Kalender</app>, <app>Evolution</app> och <app>California</app>."
+msgstr "Kalender-tjänsten låter dig visa, lägga till och redigera händelser i en nätkalender. Den används av program såsom <app>Kalender</app>, <app>Evolution</app> och <app>California</app>."
 
 #. (itstool) path: item/title
 #: C/accounts-which-application.page:56
@@ -1580,7 +1580,7 @@ msgid ""
 "The Contacts service allows you to see the published details of your "
 "contacts on various services. It is used by applications like "
 "<app>Contacts</app> and <app>Evolution</app>."
-msgstr "Kontakter-tjänsten låter dig se de publicerade detaljerna om dina kontakter på diverse tjänster. Den används av program så som <app>Kontakter</app> och <app>Evolution</app>."
+msgstr "Kontakter-tjänsten låter dig se de publicerade detaljerna om dina kontakter på diverse tjänster. Den används av program såsom <app>Kontakter</app> och <app>Evolution</app>."
 
 #. (itstool) path: item/title
 #. (itstool) path: section/title
@@ -1608,7 +1608,7 @@ msgstr "E-post"
 msgid ""
 "The Mail service allows you to send and receive email through an email "
 "provider like Google. It is used by <app>Evolution</app>."
-msgstr "E-post-tjänsten låter dig skicka och ta emot e-post via en e-post-leverantör så som Google. Den används av <app>Evolution</app>."
+msgstr "E-post-tjänsten låter dig skicka och ta emot e-post via en e-post-leverantör såsom Google. Den används av <app>Evolution</app>."
 
 #. (itstool) path: item/title
 #: C/accounts-which-application.page:103
@@ -1621,7 +1621,7 @@ msgid ""
 "The Photos service allows you to view your online photos such as those you "
 "post on Facebook. You can view your photos using the <app>Photos</app> "
 "application."
-msgstr "Foton-tjänsten låter dig visa dina nätfoton så som de du postar på Facebook. Du kan visa dina foton via programmet <app>Foton</app>."
+msgstr "Foton-tjänsten låter dig visa dina nätfoton såsom de du postar på Facebook. Du kan visa dina foton via programmet <app>Foton</app>."
 
 #. (itstool) path: item/title
 #: C/accounts-which-application.page:110
@@ -1662,7 +1662,7 @@ msgid ""
 " the same time. Just set up your online accounts once and every time you "
 "start your computer all the accounts and services that you have added are "
 "ready to use."
-msgstr "Att lägga till dina konton gör att ditt val av tjänster så som kalender, chatt och e-post kommer direkt till din skrivbordsmiljö och gör att informationen från tjänsterna sömlöst blir en del av din användarupplevelse. Genom att lägga till konton kan du enkelt komma i kontakt med tjänster från olika konton, så som chattar, samtidigt. Bara ställ in ditt konto så kommer din dator att göra alla kontona och tjänsterna redo för dig när du startar datorn."
+msgstr "Att lägga till dina konton gör att ditt val av tjänster såsom kalender, chatt och e-post kommer direkt till din skrivbordsmiljö och gör att informationen från tjänsterna sömlöst blir en del av din användarupplevelse. Genom att lägga till konton kan du enkelt komma i kontakt med tjänster från olika konton, såsom chattar, samtidigt. Bara ställ in ditt konto så kommer din dator att göra alla kontona och tjänsterna redo för dig när du startar datorn."
 
 #. (itstool) path: page/p
 #: C/accounts-whyadd.page:42
@@ -1694,7 +1694,7 @@ msgid ""
 "and Facebook, into the <app>Online Accounts</app> window. This lets you use "
 "applications to access online services like email, calendars, chat, and "
 "documents."
-msgstr "Du kan mata in dina kontouppgifter för vissa nättjänster, så som Google och Facebook, i fönstret <app>Nätkonton</app>. Detta kommer att låta dig använda program för att nå nättjänster som e-post, kalendrar, chatt och dokument."
+msgstr "Du kan mata in dina kontouppgifter för vissa nättjänster, såsom Google och Facebook, i fönstret <app>Nätkonton</app>. Detta kommer att låta dig använda program för att nå nättjänster som e-post, kalendrar, chatt och dokument."
 
 #. (itstool) path: credit/name
 #: C/backup-check.page:16 C/bluetooth-connect-device.page:42
@@ -1756,7 +1756,7 @@ msgid ""
 "find it easier to use a dedicated backup program, such as <app>Déjà "
 "Dup</app>. Such a program is more powerful and more reliable than just "
 "copying and pasting files."
-msgstr "Om du upptäcker att du regelbundet tar säkerhetskopior av stora mängder data kan det vara enklare att använda ett särskilt program för säkerhetskopiering, så som <app>Déjà Dup</app>. Ett sådan program är mer kraftfullt och mer pålitligt än att bara kopiera och klistra in filer."
+msgstr "Om du upptäcker att du regelbundet tar säkerhetskopior av stora mängder data kan det vara enklare att använda ett särskilt program för säkerhetskopiering, såsom <app>Déjà Dup</app>. Ett sådan program är mer kraftfullt och mer pålitligt än att bara kopiera och klistra in filer."
 
 #. (itstool) path: credit/name
 #: C/backup-frequency.page:12 C/backup-how.page:12 C/backup-restore.page:11
@@ -1820,7 +1820,7 @@ msgid ""
 "changes, like music, e-mails and family photos, then weekly or even monthly "
 "backups may suffice. However, if you happen to be in the middle of a tax "
 "audit, more frequent backups may be necessary."
-msgstr "Om data du vill säkerhetskopiera har lägre prioritet eller ändra sällan, så som musik, e-post eller familjefoton kan säkerhetskopiering en gång per vecka eller till och med per månad räcka. Men om du råkar vara mitt i en skattedeklaration kanske det är nödvändigt med mer frekventa säkerhetskopieringar."
+msgstr "Om data du vill säkerhetskopiera har lägre prioritet eller ändras sällan, såsom musik, e-post eller familjefoton kan säkerhetskopiering en gång per vecka eller till och med per månad räcka. Men om du råkar vara mitt i en skattedeklaration kanske det är nödvändigt med mer frekventa säkerhetskopieringar."
 
 #. (itstool) path: page/p
 #: C/backup-frequency.page:46
@@ -1881,7 +1881,7 @@ msgstr "Mängden data du kan säkerhetskopiera begränsas av lagringsenhetens ut
 msgid ""
 "Files that are already backed up somewhere else, such as to a USB drive, or "
 "other removable media."
-msgstr "Filer som redan finns säkerhetskopierade någon annanstans, så som en USB-enhet eller andra flyttbara media."
+msgstr "Filer som redan finns säkerhetskopierade någon annanstans, såsom en USB-enhet eller andra flyttbara media."
 
 #. (itstool) path: item/p
 #: C/backup-how.page:56
@@ -1890,7 +1890,7 @@ msgid ""
 "you do not have to back up the files that get produced when you compile your"
 " programs. Instead, just make sure that you back up the original source "
 "files."
-msgstr "Filer som du kan återställa enkelt. Om du till exempel är en programmerare behöver du inte säkerhetskopiera filer som skapas när du kompilerar dina program. Försäkra dig istället om att du säkerhetskopierar källkodsfilerna."
+msgstr "Filer som du kan återställa enkelt. Om du till exempel är en programmerare behöver du inte säkerhetskopiera filer som skapas när du kompilerar dina program. Försäkra dig i stället om att du säkerhetskopierar källkodsfilerna."
 
 #. (itstool) path: item/p
 #: C/backup-how.page:60
@@ -1922,7 +1922,7 @@ msgid ""
 "If you want to restore your backup from a device such as external hard "
 "drive, USB drive or another computer on the network, you can <link "
 "xref=\"files-copy\">copy them</link> back to your computer."
-msgstr "Om du vill återställa din säkerhetskopia från en enhet så som en extern hårddisk, USB-enhet eller en annan dator på nätverket så kan du <link xref=\"files-copy\">kopiera dem</link> tillbaka på din dator."
+msgstr "Om du vill återställa din säkerhetskopia från en enhet såsom en extern hårddisk, USB-enhet eller en annan dator på nätverket så kan du <link xref=\"files-copy\">kopiera dem</link> tillbaka på din dator."
 
 #. (itstool) path: item/p
 #: C/backup-restore.page:32
@@ -1931,7 +1931,7 @@ msgid ""
 "Dup</app>, it is recommended that you use the same application to restore "
 "your backup. Review the application help for your backup program: it will "
 "provide specific instructions on how to restore your files."
-msgstr "Om du skapade din säkerhetskopia via ett säkerhetskopieringsprogram så som <app>Déjà Dup</app> så rekommenderas det att du använder samma program för att återställa säkerhetskopian. Läs igenom programhjälpen igen för ditt säkerhetskopieringsprogram: den kommer att ge specifika instruktioner om hur dina filer kan återställas."
+msgstr "Om du skapade din säkerhetskopia via ett säkerhetskopieringsprogram såsom <app>Déjà Dup</app> så rekommenderas det att du använder samma program för att återställa säkerhetskopian. Läs igenom programhjälpen igen för ditt säkerhetskopieringsprogram: den kommer att ge specifika instruktioner om hur dina filer kan återställas."
 
 #. (itstool) path: info/desc
 #: C/backup-thinkabout.page:28
@@ -1968,7 +1968,7 @@ msgid ""
 " They could be in subfolders such as <file>Desktop</file>, "
 "<file>Documents</file>, <file>Pictures</file>, <file>Music</file> and "
 "<file>Videos</file>."
-msgstr "Dessa sparas vanligtvis i din hemmapp (<file>/home/ditt_namn</file>). De kan finnas sparade i underkataloger så som <file>Skrivbord</file>, <file>Dokument</file>, <file>Bilder</file>, <file>Musik</file> och <file>Video</file>."
+msgstr "Dessa sparas vanligtvis i din hemmapp (<file>/home/ditt_namn</file>). De kan finnas sparade i underkataloger såsom <file>Skrivbord</file>, <file>Dokument</file>, <file>Bilder</file>, <file>Musik</file> och <file>Video</file>."
 
 #. (itstool) path: item/p
 #: C/backup-thinkabout.page:48
@@ -1992,7 +1992,7 @@ msgid ""
 "window of <app>Files</app> and press <gui>Show Hidden Files</gui>, or press "
 "<keyseq><key>Ctrl</key><key>H</key></keyseq>. You can copy these to a backup"
 " location like any other file."
-msgstr "Filer eller kataloger vars namn börjar med en punkt (.) göms som standard. För att se gömda filer, tryck på menyknappen i fönstrets övre högra hörn i <app>Filer</app> och tryck <gui>Visa dolda filer</gui>, eller tryck <keyseq><key>Ctrl</key><key>H</key></keyseq>. Du kan kopiera dessa till en plats för säkerhetskopior precis som vilka andra filer som helst."
+msgstr "Filer eller kataloger vars namn börjar med en punkt (.) döljs som standard. För att se dolda filer, tryck på menyknappen i fönstrets övre högra hörn i <app>Filer</app> och tryck <gui>Visa dolda filer</gui>, eller tryck <keyseq><key>Ctrl</key><key>H</key></keyseq>. Du kan kopiera dessa till en plats för säkerhetskopior precis som vilka andra filer som helst."
 
 #. (itstool) path: item/p
 #: C/backup-thinkabout.page:64
@@ -2004,7 +2004,7 @@ msgstr "Personliga inställningar (skrivbordsinställningar teman och programins
 msgid ""
 "Most applications store their settings in hidden folders inside your Home "
 "folder (see above for information on hidden files)."
-msgstr "De flesta programmen sparar sina inställningar i gömda kataloger i din Hemmapp (se ovan för information om gömda filer)."
+msgstr "De flesta programmen sparar sina inställningar i dolda kataloger i din Hemmapp (se ovan för information om dolda filer)."
 
 #. (itstool) path: item/p
 #: C/backup-thinkabout.page:67
@@ -2086,7 +2086,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "De flesta personer ändrar aldrig på systeminställningar som skapats vid installationen. Om du brukar anpassa dina systeminställningar av någon anledning eller om du använder datorn som en server, då kanske du vill säkerhetskopiera dessa inställningarna."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -2393,7 +2393,7 @@ msgstr "Även om du lyckas hitta manualen för enheten är det inte säkert att 
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:27
 msgid "PlayStation 5 joypads"
-msgstr ""
+msgstr "PlayStation 5-handkontroller"
 
 #. (itstool) path: item/p
 #: C/bluetooth-device-specific-pairing.page:28
@@ -2401,7 +2401,7 @@ msgid ""
 "Holding the <_:media-1/> button, press the <_:media-2/> button until the "
 "light bar is blinking to make it visible and pair it like any other "
 "Bluetooth device."
-msgstr ""
+msgstr "Håll ner <_:media-1/>-knappen och tryck på <_:media-2/>-knappen tills ljuspanelen blinkar för att göra den synlig och para ihop den som vilken annan Bluetooth-enhet som helst."
 
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:34
@@ -2414,7 +2414,7 @@ msgid ""
 "Using the <_:media-1/> and “Share” button combination to pair the joypad can"
 " also be used to make the joypad visible and pair it like any other "
 "Bluetooth device."
-msgstr ""
+msgstr "Kombinationen av <_:media-1/>- och ”Share”-knapparna för att para ihop handkontrollen kan också användas för att göra handkontrollen synlig och para ihop den som vilken annan Bluetooth-enhet som helst."
 
 #. (itstool) path: item/p
 #: C/bluetooth-device-specific-pairing.page:38
@@ -2424,7 +2424,7 @@ msgid ""
 " get asked whether to set those joypads up without needing to press the "
 "<_:media-1/> button. Unplug them and press the <_:media-2/> to use them over"
 " Bluetooth."
-msgstr ""
+msgstr "De enheterna kan också använda ”kabel-ihopparning”. Anslut handkontrollerna via USB med <gui>Bluetoothinställningar</gui> öppnat och Bluetooth påslaget. Du kommer att tillfrågas huruvida du vill installera handkontrollerna utan att behöva trycka på <_:media-1/>-knappen. Koppla från dem och tryck på <_:media-2/>-knappen för att använda dem över Bluetooth."
 
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:47
@@ -2438,7 +2438,7 @@ msgid ""
 "<gui>Bluetooth Settings</gui> opened, and Bluetooth turned on. After "
 "pressing the <_:media-1/> button, you will get asked whether to set those "
 "joypads up. Unplug them and <_:media-2/> button to use them over Bluetooth."
-msgstr ""
+msgstr "De enheterna använder ”kabel-ihopparning”. Anslut handkontrollerna via USB med <gui>Bluetoothinställningar</gui> öppnat och Bluetooth påslaget. Efter att ha tryckt på <_:media-1/>-knappen kommer du att tillfrågas huruvida du vill installera handkontrollerna. Koppla från dem och tryck på <_:media-2/>-knappen för att använda dem över Bluetooth."
 
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:56
@@ -2466,7 +2466,7 @@ msgid ""
 "note that some software like console emulators will want direct access to "
 "the remotes, and, in those cases, you should not set them up in the "
 "Bluetooth panel. Refer to the application’s manual for instructions."
-msgstr ""
+msgstr "Använd den röda ”Sync”-knappen bakom batteriluckan för att starta ihopparningsprocessen. Andra knappkombinationer kommer inte att behålla ihopparningsinformationen så du skulle komma att behöva att göra om det igen inom kort. Notera också att viss programvara som konsolemulatorer vill ha direktåtkomst till fjärrkontrollerna, och i de fallen bör du inte installera dem direkt i Bluetooth-panelen. Referera till programmets handbok för instruktioner."
 
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:70
@@ -2499,7 +2499,7 @@ msgstr "Jag kan inte ansluta min Bluetooth-enhet"
 msgid ""
 "There are a number of reasons why you may not be able to connect to a "
 "Bluetooth device, such as a phone or headset."
-msgstr "Det finns ett flertal anledningar till varför du kanske inte kan ansluta till en Bluetooth-enhet, så som en telefon eller en hörlur."
+msgstr "Det finns ett flertal anledningar till varför du kanske inte kan ansluta till en Bluetooth-enhet, såsom en telefon eller en mikrofonlur."
 
 #. (itstool) path: item/title
 #: C/bluetooth-problem-connecting.page:43
@@ -2631,7 +2631,7 @@ msgstr "Du kan skicka filer till anslutna Bluetooth-enheter, exempelvis mobiltel
 #: C/bluetooth-send-file.page:59
 msgid ""
 "<gui>Send Files</gui> does not work on unsupported devices such as iPhones."
-msgstr "<gui>Skicka filer</gui> fungerar inte för enheter som inte stöds, så som iPhone."
+msgstr "<gui>Skicka filer</gui> fungerar inte för enheter som inte stöds, såsom iPhone."
 
 #. (itstool) path: item/p
 #: C/bluetooth-send-file.page:70
@@ -2733,7 +2733,7 @@ msgstr "Öppna <gui xref=\"shell-introduction#systemmenu\">systemmenyn</gui> på
 #. (itstool) path: item/p
 #: C/bluetooth-turn-on-off.page:88
 msgid "Select <gui><_:media-1/> Bluetooth</gui>."
-msgstr ""
+msgstr "Välj <gui><_:media-1/> Bluetooth</gui>."
 
 #. (itstool) path: note/p
 #: C/bluetooth-turn-on-off.page:94
@@ -2878,7 +2878,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-appts.png' "
 "md5='fb704d1404070c80b855e98b77a3a0e0'"
-msgstr ""
+msgstr "external ref='figures/shell-appts.png' md5='fb704d1404070c80b855e98b77a3a0e0'"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -2890,7 +2890,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-appts-classic.png' "
 "md5='ab5a3204968386532475cd6aac34ac14'"
-msgstr ""
+msgstr "external ref='figures/shell-appts-classic.png' md5='ab5a3204968386532475cd6aac34ac14'"
 
 #. (itstool) path: info/desc
 #: C/clock-set.page:32
@@ -3209,7 +3209,7 @@ msgid ""
 "acquired the original image from. This means you might need to profile "
 "several times for <em>studio</em>, <em>bright sunlight</em> and "
 "<em>cloudy</em> lighting conditions."
-msgstr "Den slutliga profilen är endast giltig under de ljusförhållande som du hämtade originalet under. Detta innebär att du kan komma att behöva profiler för olika förhållanden så som <em>studio</em>, <em>starkt solljus</em> eller <em>molnigt</em>."
+msgstr "Den slutliga profilen är endast giltig under de ljusförhållande som du hämtade originalet under. Detta innebär att du kan komma att behöva profiler för olika förhållanden såsom <em>studio</em>, <em>starkt solljus</em> eller <em>molnigt</em>."
 
 #. (itstool) path: info/desc
 #: C/color-calibrate-printer.page:10
@@ -3403,7 +3403,7 @@ msgid ""
 "application to modify color when combined with another device profile. Only "
 "by knowing the characteristics of two devices, can a way of transferring "
 "color from one device representation to another be achieved."
-msgstr "Karakterisering (eller profilering) är att <em>spara</em> sättet en enhet återger eller svarar på olika färger. Vanligtvis sparas resultatet i en ICC-enhetsprofil. En sådan profil modifierar inte färg på något sätt. Den låter ett system så som en CMM (färghanteringsmodul, Color Management Module) eller ett färgmedvetet program modifiera färger när det kombineras med en enhets profil. Endast genom att känna till karakteristikerna för två enheter kan ett sätt att överföra färger från en enhetsrepresentation till en annan åstadkommas."
+msgstr "Karakterisering (eller profilering) är att <em>spara</em> sättet en enhet återger eller svarar på olika färger. Vanligtvis sparas resultatet i en ICC-enhetsprofil. En sådan profil modifierar inte färg på något sätt. Den låter ett system såsom en CMM (färghanteringsmodul, Color Management Module) eller ett färgmedvetet program modifiera färger när det kombineras med en enhets profil. Endast genom att känna till karakteristikerna för två enheter kan ett sätt att överföra färger från en enhetsrepresentation till en annan åstadkommas."
 
 #. (itstool) path: note/p
 #: C/color-calibrationcharacterization.page:47
@@ -3821,7 +3821,7 @@ msgstr "Vad är en färgprofil?"
 msgid ""
 "A color profile is a set of data that characterizes either a device such as "
 "a projector or a color space such as sRGB."
-msgstr "En färgprofil är en mängd data som karakteriserar antingen en enhet så som en projektor eller en färgrymd som sRGB."
+msgstr "En färgprofil är en mängd data som karakteriserar antingen en enhet såsom en projektor eller en färgrymd som sRGB."
 
 #. (itstool) path: page/p
 #: C/color-whatisprofile.page:22
@@ -3883,7 +3883,7 @@ msgid ""
 "3D hulls, rather than 2D projections. A 2D projection of a 3D shape can "
 "sometimes be misleading, so if you want to see the 3D hull, use the "
 "<code>gcm-viewer</code> application."
-msgstr "Att använda modeller så som ett CIE 1931-kromacitetsdiagram är en förenkling av människans visuella system, och riktiga färgomfång uttrycks som 3D-höljen snarare än 2D-projektioner. En 2D-projektion av en 3D-form kan ibland vara vilseledande så om du vill se 3D-höljet använd programmet <code>gcm-viewer</code>."
+msgstr "Att använda modeller såsom ett CIE 1931-kromaticitetsdiagram är en förenkling av människans visuella system, och riktiga färgomfång uttrycks som 3D-höljen snarare än 2D-projektioner. En 2D-projektion av en 3D-form kan ibland vara vilseledande så om du vill se 3D-höljet använd programmet <code>gcm-viewer</code>."
 
 #. (itstool) path: figure/desc
 #: C/color-whatisspace.page:48
@@ -3941,7 +3941,7 @@ msgid ""
 "Of course, using a 16 bit image is going to leave many more steps and a much"
 " smaller quantization error, but this doubles the size of each image file. "
 "Most content in existence today is 8bpp, i.e. 8 bits-per-pixel."
-msgstr "Självklart kommer en 16 bitars bild att resultera i fler steg och ett mycket mindre kvantiseringsfel, men detta dubblar storleken på varje bildfil. Det mesta material som existerar idag är 8bpp, d.v.s. 8 bitar per pixel."
+msgstr "Självklart kommer en 16 bitars bild att resultera i fler steg och ett mycket mindre kvantiseringsfel, men detta dubblar storleken på varje bildfil. Det mesta material som existerar i dag är 8bpp, d.v.s. 8 bitar per pixel."
 
 #. (itstool) path: page/p
 #: C/color-whatisspace.page:92
@@ -3949,7 +3949,7 @@ msgid ""
 "Color management is a process for converting from one color space to "
 "another, where a color space can be a well known defined space like sRGB, or"
 " a custom space such as your monitor or printer profile."
-msgstr "Färghantering är processen för hur man konverterar från en färgrymd till en annan där en färgrymd kan vara en välkänd, definierad rymd som sRGB eller en anpassad rymd så som din skärm- eller skrivarprofil."
+msgstr "Färghantering är processen för hur man konverterar från en färgrymd till en annan där en färgrymd kan vara en välkänd, definierad rymd som sRGB eller en anpassad rymd såsom din skärm- eller skrivarprofil."
 
 #. (itstool) path: info/desc
 #: C/color-why-calibrate.page:8
@@ -4972,7 +4972,7 @@ msgid ""
 "list. Then, click <gui>Edit Partition…</gui> and look at its "
 "<gui>Flags</gui>. External media such as USB drives and CDs may also contain"
 " a bootable volume."
-msgstr "En primärpartition måste innehålla information som din dator använder för att starta (kallas ibland <em>boota</em>). Av denna anledning kallas den vanligtvis startpartition eller startvolym. För att avgöra om en volym är startbar så välj partitionen och klicka på menyknappen i verktygsfältet under partitionslistan. Klicka sedan på <gui>Redigera partition…</gui> och titta på dess <gui>Flaggor</gui>. Externa media så som USB-enheter och cd kan också innehålla startbara volymer."
+msgstr "En primärpartition måste innehålla information som din dator använder för att starta (kallas ibland <em>boota</em>). Av denna anledning kallas den vanligtvis startpartition eller startvolym. För att avgöra om en volym är startbar så välj partitionen och klicka på menyknappen i verktygsfältet under partitionslistan. Klicka sedan på <gui>Redigera partition…</gui> och titta på dess <gui>Flaggor</gui>. Externa media såsom USB-enheter och cd kan också innehålla startbara volymer."
 
 #. (itstool) path: info/desc
 #: C/disk-repair.page:20
@@ -5412,7 +5412,7 @@ msgstr ""
 msgid ""
 "Click on each monitor in the list and select the orientation, resolution or "
 "scale, and refresh rate."
-msgstr ""
+msgstr "Klicka på varje skärm i listan och välj orienteringen, upplösning eller skala, och uppdateringsfrekvens."
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:119 C/look-resolution.page:72
@@ -5454,7 +5454,7 @@ msgid ""
 "to a docked laptop with the lid closed, the other monitor can be switched "
 "off. In the list, click on the monitor you want to disable, and turn the "
 "switch to off."
-msgstr ""
+msgstr "När endast en skärm behövs, exempelvis en extern skärm ansluten till en dockad bärbar dator med stängt lock, så kan den andra skärmen slås av. Klicka i listan på skärmen som du vill inaktivera och slå av skärmen."
 
 #. (itstool) path: section/title
 #: C/display-dual-monitors.page:147
@@ -5506,7 +5506,7 @@ msgstr "En datorskärm utstrålar blått ljus vilket bidrar till sömnlöshet oc
 #. (itstool) path: item/p
 #: C/display-night-light.page:42
 msgid "Click <gui>Night Light</gui> to open the settings."
-msgstr ""
+msgstr "Klicka på <gui>Nattbelysning</gui> för att öppna inställningarna."
 
 #. (itstool) path: item/p
 #: C/display-night-light.page:45
@@ -5596,7 +5596,7 @@ msgid ""
 "will be shown in the file manager, with the <gui>Open folder</gui> option. "
 "When that happens, you will be asked what to do, or nothing will happen "
 "automatically."
-msgstr "Istället för att starta ett program kan du också ställa in det så att enheten visas i filhanteraren med alternativet <gui>Öppna mapp</gui>. När det händer kommer du att bli tillfrågad vad du vill göra annars kommer inget att hända automatiskt."
+msgstr "I stället för att starta ett program kan du också ställa in det så att enheten visas i filhanteraren med alternativet <gui>Öppna mapp</gui>. När det händer kommer du att bli tillfrågad vad du vill göra annars kommer inget att hända automatiskt."
 
 #. (itstool) path: item/p
 #: C/files-autorun.page:68
@@ -5862,7 +5862,7 @@ msgstr "Markera den fil du vill kopiera genom att klicka på den en gång."
 msgid ""
 "Right-click and select <gui>Copy</gui>, or press "
 "<keyseq><key>Ctrl</key><key>C</key></keyseq>."
-msgstr ""
+msgstr "Högerklicka och välj <gui>Kopiera</gui>, eller tryck <keyseq><key>Ctrl</key><key>C</key></keyseq>."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:51
@@ -5876,7 +5876,7 @@ msgid ""
 "Right-click and select <gui>Paste</gui> to finish copying the file, or press"
 " <keyseq><key>Ctrl</key><key>V</key></keyseq>. There will now be a copy of "
 "the file in the original folder and the other folder."
-msgstr ""
+msgstr "Klicka på menyknappen och välj <gui>Klistra in</gui> för att kopiera filen, eller tryck <keyseq><key>Ctrl</key><key>V</key></keyseq>. Det kommer nu att finnas en kopia av filen i originalmappen och den andra mappen."
 
 #. (itstool) path: steps/title
 #: C/files-copy.page:60
@@ -5893,7 +5893,7 @@ msgstr "Markera filen du vill flytta genom att klicka på den en gång."
 msgid ""
 "Right-click and select <gui>Cut</gui>, or press "
 "<keyseq><key>Ctrl</key><key>X</key></keyseq>."
-msgstr ""
+msgstr "Högerklicka och välj <gui>Klipp ut</gui>, eller tryck <keyseq><key>Ctrl</key><key>X</key></keyseq>."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:64
@@ -5906,7 +5906,7 @@ msgid ""
 "Right-click and and select <gui>Paste</gui> to finish moving the file, or "
 "press <keyseq><key>Ctrl</key><key>V</key></keyseq>. The file will be taken "
 "out of its original folder and moved to the other folder."
-msgstr ""
+msgstr "Högerklicka och välj <gui>Klistra in</gui> för att flytta filen, eller tryck <keyseq><key>Ctrl</key><key>V</key></keyseq>. Filen kommer att tas från sin originalmapp och flyttas till den andra mappen."
 
 #. (itstool) path: steps/title
 #: C/files-copy.page:72
@@ -5928,7 +5928,7 @@ msgid ""
 "<keyseq><key>Ctrl</key><key>N</key></keyseq>) to open a second window. In "
 "the new window, navigate to the folder where you want to move or copy the "
 "file."
-msgstr ""
+msgstr "Tryck på menyknappen i fönstrets övre högra hörn och välj <gui style=\"menuitem\">Nytt fönster</gui> (eller tryck <keyseq><key>Ctrl</key><key>N</key></keyseq>) för att öppna ett andra fönster. Navigera i det nya fönstret till mappen som du önskar att flytta eller kopiera filen till."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:81
@@ -6060,7 +6060,7 @@ msgid ""
 "may not be visible on other operating systems, such Windows or Mac OS. The "
 "files are still there, and will be available when you plug the device back "
 "into your computer."
-msgstr "Borttagna filer på en <link xref=\"files#removable\">flyttbar enhet</link> är kanske inte synliga för andra operativsystem så som Windows eller Mac OS. Filerna är fortfarande där och kommer att vara tillgängliga när enheten återansluts till din dator."
+msgstr "Borttagna filer på en <link xref=\"files#removable\">flyttbar enhet</link> är kanske inte synliga för andra operativsystem såsom Windows eller Mac OS. Filerna är fortfarande där och kommer att vara tillgängliga när enheten återansluts till din dator."
 
 #. (itstool) path: info/desc
 #: C/files-disc-write.page:19
@@ -6097,7 +6097,7 @@ msgstr "Ibland bränns skivan inte korrekt, och du kommer inte kunna se filerna 
 msgid ""
 "In this case, try burning the disc again but use a lower burning speed, for "
 "example, 12x rather than 48x. Burning at slower speeds is more reliable."
-msgstr "Om detta händer, försöka att bränna skivan igen men använd en lägre brännhastighet, till exempel 12x istället för 48x. Att bränna på lägre hastigheter är mer tillförlitligt."
+msgstr "Om detta händer, försöka att bränna skivan igen men använd en lägre brännhastighet, till exempel 12x i stället för 48x. Att bränna på lägre hastigheter är mer tillförlitligt."
 
 #. (itstool) path: info/desc
 #: C/files-hidden.page:29
@@ -6146,7 +6146,7 @@ msgid ""
 "select <gui style=\"menuitem\">Show Hidden Files</gui>, or press "
 "<keyseq><key>Ctrl</key><key>H</key></keyseq>. You will see all hidden files,"
 " along with regular files that are not hidden."
-msgstr ""
+msgstr "Om du vill se alla dolda filer i en mapp, gå till den mappen och tryck antingen på menyknappen i fönstrets övre högra hörn och välj <gui style=\"menuitem\">Visa dolda filer</gui> eller tryck på <keyseq><key>Ctrl</key><key>H</key></keyseq>. Du kommer att se alla dolda filer tillsammans med filer som inte är dolda."
 
 #. (itstool) path: section/p
 #: C/files-hidden.page:57
@@ -6155,7 +6155,7 @@ msgid ""
 "the top-right corner of the window and switch off <gui "
 "style=\"menuitem\">Show Hidden Files</gui>, or press "
 "<keyseq><key>Ctrl</key><key>H</key></keyseq> again."
-msgstr ""
+msgstr "För att dölja dessa filer igen, tryck antingen på menyknappen i fönstrets övre högra hörn och slå av <gui style=\"menuitem\">Visa dolda filer</gui> eller tryck <keyseq><key>Ctrl</key><key>H</key></keyseq> igen."
 
 #. (itstool) path: section/title
 #: C/files-hidden.page:64
@@ -6172,7 +6172,7 @@ msgid ""
 " rename it so that it does not have a <file>.</file> in front of its name. "
 "For example, to unhide a file called <file>.example.txt</file>, you should "
 "rename it to <file>example.txt</file>."
-msgstr ""
+msgstr "För att göra en fil synlig, gå till mappen som innehåller den dolda filen. Tryck på menyknappen i fönstrets övre högra hörn och välj <gui style=\"menuitem\">Visa dolda filer</gui> eller tryck <keyseq><key>Ctrl</key><key>H</key></keyseq>. Leta sedan upp den dolda filen och byt namn på den så att den inte har en <file>.</file> i början på sitt namn. För att till exempel synliggöra en fil med namnet <file>.example.txt</file> ska du byta namn på den till <file>example.txt</file>."
 
 #. (itstool) path: section/p
 #: C/files-hidden.page:73
@@ -6181,7 +6181,7 @@ msgid ""
 "top-right corner of the window and switch off <gui style=\"menuitem\">Show "
 "Hidden Files</gui>, or press <keyseq><key>Ctrl</key><key>H</key></keyseq> to"
 " hide any other hidden files again."
-msgstr ""
+msgstr "När du har bytt namn på filen så kan du antingen trycka på menyknappen i fönstrets övre högra hörn och slå av <gui style=\"menuitem\">Visa dolda filer</gui>, eller trycka på <keyseq><key>Ctrl</key><key>H</key></keyseq> för att åter dölja andra dolda filer."
 
 #. (itstool) path: note/p
 #: C/files-hidden.page:78
@@ -6198,7 +6198,7 @@ msgid ""
 " but others might have a <file>~</file> at the end of their name instead. "
 "These files are backup files. See <link xref=\"files-tilde\"/> for more "
 "information."
-msgstr "De flesta dolda filer kommer att ha en <file>.</file> i början på sina namn, men andra kan ha en <file>~</file> i slutet på namnet istället. Dessa filer är säkerhetskopierade filer. Se <link xref=\"files-tilde\"/> för vidare information."
+msgstr "De flesta dolda filer kommer att ha en <file>.</file> i början på sina namn, men andra kan ha en <file>~</file> i slutet på namnet i stället. Dessa filer är säkerhetskopierade filer. Se <link xref=\"files-tilde\"/> för vidare information."
 
 #. (itstool) path: info/desc
 #: C/files-lost.page:32
@@ -6249,7 +6249,7 @@ msgid ""
 "the file manager. Click the view options button in the <app>Files</app> "
 "toolbar and enable <gui>Show Hidden Files</gui> to display them. See <link "
 "xref=\"files-hidden\"/> to learn more."
-msgstr "Du kan ha bytt namn på filen på ett sätt som gjort filen dold. Filer som börjar med en <file>.</file> eller slutar med ett <file>~</file> är gömda för filhanteraren. Klicka på knappen visningsalternativ i verktygsfältet i <app>Filer</app> och aktivera <gui>Visa dolda filer</gui> för att visa dem. Se <link xref=\"files-hidden\"/> för att lära dig mer."
+msgstr "Du kan ha bytt namn på filen på ett sätt som gjort filen dold. Filer som börjar med en <file>.</file> eller slutar med ett <file>~</file> är dolda i filhanteraren. Klicka på knappen visningsalternativ i verktygsfältet i <app>Filer</app> och aktivera <gui>Visa dolda filer</gui> för att visa dem. Se <link xref=\"files-hidden\"/> för att lära dig mer."
 
 #. (itstool) path: info/desc
 #: C/files-open.page:23
@@ -6442,7 +6442,7 @@ msgstr "Klicka på <gui>Papperskorg</gui> i sidopanelen. Om du inte ser sidopane
 msgid ""
 "If your deleted file is there, click on it and select <gui>Restore From "
 "Trash</gui>. It will be restored to the folder from where it was deleted."
-msgstr ""
+msgstr "Om din borttagna fil finns där, klicka på den och välj <gui>Återställ från papperskorgen</gui>. Den kommer att återställas i mappen ifrån vilken den togs bort."
 
 #. (itstool) path: page/p
 #: C/files-recover.page:58
@@ -6746,7 +6746,7 @@ msgid ""
 "Instead of typing words directly to bring up the search bar, you can click "
 "the <_:media-1/> in the toolbar, or press "
 "<keyseq><key>Ctrl</key><key>F</key></keyseq>."
-msgstr "Istället för att skriva ord direkt för att visa sökraden, kan du klicka på <_:media-1/> i verktygsfältet eller trycka <keyseq><key>Ctrl</key><key>F</key></keyseq>."
+msgstr "I stället för att skriva ord direkt för att visa sökraden, kan du klicka på <_:media-1/> i verktygsfältet eller trycka <keyseq><key>Ctrl</key><key>F</key></keyseq>."
 
 #. (itstool) path: item/p
 #: C/files-search.page:82
@@ -7227,7 +7227,7 @@ msgid ""
 "of the <app>Files</app> toolbar) or pressed "
 "<keyseq><key>Ctrl</key><key>H</key></keyseq>. You can hide them again by "
 "repeating either of these steps."
-msgstr "Dessa filer döljs som standard. Om du ser dem är det för att du antingen valt <gui>Visa dolda filer</gui> (i menyn visningsalternativ i verktygsraden <app>Filer</app>) eller tryckt på <keyseq><key>Ctrl</key><key>H</key></keyseq>. Du kan dölja dem igen genom att repetera endera av dessa steg."
+msgstr "Dessa filer döljs som standard. Om du ser dem är det för att du antingen valt <gui>Visa dolda filer</gui> (i menyn visningsalternativ i verktygsfältet för <app>Filer</app>) eller tryckt på <keyseq><key>Ctrl</key><key>H</key></keyseq>. Du kan dölja dem igen genom att repetera endera av dessa steg."
 
 #. (itstool) path: page/p
 #: C/files-tilde.page:46
@@ -7303,7 +7303,7 @@ msgid ""
 "can submit a <em>new issue</em>. To submit a new issue, go to the <link "
 "href=\"https://gitlab.gnome.org/GNOME/gnome-user-docs/issues\">issue "
 "tracker</link>."
-msgstr "Denna hjälpdokumentation skapas av en frivilliggemenskap. Du är välkommen att delta. Om du noterar ett problem med dessa hjälp sidor (så som stavfel, felaktiga instruktioner eller ämnen som borde inkluderas men saknas nu) kan du skicka in ett <em>nytt problem</em>. För att skicka in ett nytt problem, gå till <link href=\"https://gitlab.gnome.org/GNOME/gnome-user-docs/issues\">ärendehanteringssystemet</link>."
+msgstr "Denna hjälpdokumentation skapas av en frivilliggemenskap. Du är välkommen att delta. Om du noterar ett problem med dessa hjälpsidor (såsom stavfel, felaktiga instruktioner eller ämnen som borde inkluderas men saknas nu) kan du skicka in ett <em>nytt ärende</em>. För att skicka in ett nytt ärende, gå till <link href=\"https://gitlab.gnome.org/GNOME/gnome-user-docs/issues\">ärendehanteringssystemet</link>."
 
 #. (itstool) path: section/p
 #: C/get-involved.page:35
@@ -7395,7 +7395,7 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/hardware-auth.page:13
 msgid "Use hardware devices to authenticate instead of passwords."
-msgstr "Använd hårdvaruenheter för autentisering istället för lösenord."
+msgstr "Använd hårdvaruenheter för autentisering i stället för lösenord."
 
 #. (itstool) path: page/title
 #: C/hardware-auth.page:18
@@ -7469,7 +7469,7 @@ msgid ""
 "directly connect your device (camera, cell phone, etc.) to a USB port on the"
 " computer. USB external card readers are also available, and are far better "
 "supported by Linux."
-msgstr "Om inga kort eller enheter visas när du bläddrar genom platsen <gui>Dator</gui> är det möjligt att din kortläsare inte fungerar med Linux på grund av drivrutinsproblem. Om din kortläsare är intern (inuti datorn istället för utanför) är detta mer troligt. Den bästa lösningen är att ansluta din enhet (kamera, mobiltelefon, etc.) direkt till en USB-port på datorn. Externa USB-kortläsare finns också och har väsentligt bättre stöd i Linux."
+msgstr "Om inga kort eller enheter visas när du bläddrar genom platsen <gui>Dator</gui> är det möjligt att din kortläsare inte fungerar med Linux på grund av drivrutinsproblem. Om din kortläsare är intern (inuti datorn i stället för utanför) är detta mer troligt. Den bästa lösningen är att ansluta din enhet (kamera, mobiltelefon, etc.) direkt till en USB-port på datorn. Externa USB-kortläsare finns också och har väsentligt bättre stöd i Linux."
 
 #. (itstool) path: info/desc
 #: C/hardware-driver.page:17
@@ -7815,7 +7815,7 @@ msgid ""
 "If you have an Apple keyboard, you will have a <key>⌘</key> (Command) key "
 "instead of the Windows key, while Chromebooks have a magnifying glass "
 "instead."
-msgstr "Om du har ett Apple-tangentbord så har du en <key>⌘</key>-tangent (Kommandotangent) istället för Windows-tangenten medan Chromebook:ar har ett förstoringsglas istället."
+msgstr "Om du har ett Apple-tangentbord så har du en <key>⌘</key>-tangent (Kommandotangent) i stället för Windows-tangenten medan Chromebookar har ett förstoringsglas i stället."
 
 #. (itstool) path: page/p
 #: C/keyboard-key-super.page:48
@@ -8005,7 +8005,7 @@ msgid ""
 "other pointing device, or who want to use a keyboard as much as possible. "
 "For keyboard shortcuts that are useful to all users, see <link xref=\"shell-"
 "keyboard-shortcuts\"/> instead."
-msgstr "Denna sida beskriver tangentbordsnavigering för personer som inte kan använda en mus eller annat pekdon eller som vill använda tangentbordet så mycket som möjligt. För snabbtangenter som är användbara för alla användare, se <link xref=\"shell-keyboard-shortcuts\"/> istället."
+msgstr "Denna sida beskriver tangentbordsnavigering för personer som inte kan använda en mus eller annat pekdon eller som vill använda tangentbordet så mycket som möjligt. För snabbtangenter som är användbara för alla användare, se <link xref=\"shell-keyboard-shortcuts\"/> i stället."
 
 #. (itstool) path: note/p
 #: C/keyboard-nav.page:53
@@ -8013,7 +8013,7 @@ msgid ""
 "If you cannot use a pointing device like a mouse, you can control the mouse "
 "pointer using the numeric keypad on your keyboard. See <link xref=\"mouse-"
 "mousekeys\"/> for details."
-msgstr "Om du inte kan använda ett pekdon som exempelvis en mus kan du kontrollera musmarkören med hjälp av den numeriska delen på ditt tangentbord. Se <link xref=\"mouse-mousekeys\"/> för detaljer."
+msgstr "Om du inte kan använda ett pekdon som exempelvis en mus kan du kontrollera muspekaren med hjälp av den numeriska delen på ditt tangentbord. Se <link xref=\"mouse-mousekeys\"/> för detaljer."
 
 #. (itstool) path: table/title
 #: C/keyboard-nav.page:59
@@ -8437,7 +8437,7 @@ msgid ""
 "you next press on something where you can use it. On a touchscreen, you can "
 "also pull up the keyboard by <link xref=\"touchscreen-gestures\">dragging up"
 " from the bottom edge</link>."
-msgstr "Du kan trycka på <gui style=\"button\"><_:media-1/></gui>-knappen för att gömma tangentbordet tillfälligt. Tangentbordet kommer att visas igen automatiskt nästa gång du trycker på något ställe där du kan använda det. På en pekskärm kan du även dra upp tangentbordet genom att <link xref=\"touchscreen-gestures\">dra uppåt från den nedre kanten</link>."
+msgstr "Du kan trycka på <gui style=\"button\"><_:media-1/></gui>-knappen för att dölja tangentbordet tillfälligt. Tangentbordet kommer att visas igen automatiskt nästa gång du trycker på något ställe där du kan använda det. På en pekskärm kan du även dra upp tangentbordet genom att <link xref=\"touchscreen-gestures\">dra uppåt från den nedre kanten</link>."
 
 #. (itstool) path: media/span
 #: C/keyboard-osk.page:84
@@ -8898,7 +8898,7 @@ msgstr "Skärmbilder"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:281
 msgid "Save a screenshot of a window"
-msgstr ""
+msgstr "Spara en skärmbild av ett fönster"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:282 C/screen-shot-record.page:207
@@ -8909,7 +8909,7 @@ msgstr "<keyseq><key>Alt</key><key>Print</key></keyseq>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:285
 msgid "Save a screenshot of the entire screen"
-msgstr ""
+msgstr "Spara en skärmbild av hela skärmen"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:286 C/screen-shot-record.page:211
@@ -8920,7 +8920,7 @@ msgstr "<keyseq><key>Skift</key><key>Print</key></keyseq>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:289
 msgid "Launch the screenshot tool"
-msgstr ""
+msgstr "Starta skärmbildsverktyget"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:290 C/shell-keyboard-shortcuts.page:167
@@ -9363,12 +9363,12 @@ msgstr "Ivan Stanton"
 #. (itstool) path: info/desc
 #: C/look-background.page:55
 msgid "Choose a style and set a background."
-msgstr ""
+msgstr "Välj en stil och ställ in en bakgrund."
 
 #. (itstool) path: page/title
 #: C/look-background.page:58
 msgid "Change the appearance of your desktop"
-msgstr ""
+msgstr "Ändra utseendet för ditt skrivbord"
 
 #. (itstool) path: page/p
 #: C/look-background.page:60
@@ -9376,51 +9376,51 @@ msgid ""
 "You can change the look of things that appear on the screen by setting the "
 "style preference to light or dark. You can choose an image or wallpaper as "
 "your desktop background."
-msgstr ""
+msgstr "Du kan ändra utseendet för saker som visas på skärmen genom att ställa in stilinställningen till ljus eller mörk. Du kan välja en bild som din skrivbordsbakgrund."
 
 #. (itstool) path: section/title
 #: C/look-background.page:65
 msgid "Light or Dark Style"
-msgstr ""
+msgstr "Ljus eller mörk stil"
 
 #. (itstool) path: section/p
 #: C/look-background.page:66
 msgid "To switch between light and dark desktop styles:"
-msgstr ""
+msgstr "För att växla mellan ljusa och mörka skrivbordsstilar:"
 
 #. (itstool) path: item/p
 #: C/look-background.page:70
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Appearance</gui>."
-msgstr ""
+msgstr "Öppna översiktsvyn <gui xref=\"shell-introduction#activities\">Aktiviteter</gui> och börja skriv <gui>Utseende</gui>."
 
 #. (itstool) path: item/p
 #: C/look-background.page:74
 msgid ""
 "Click <gui>Appearance</gui> to open the panel. The currently selected style "
 "is shown at the top surrounded by a blue border."
-msgstr ""
+msgstr "Klicka på <gui>Utseende</gui> för att öppna panelen. Den för närvarande valda stilen visas högst upp omgiven av en blå kant."
 
 #. (itstool) path: item/p
 #: C/look-background.page:78
 msgid "Click to choose <gui>Light</gui> or <gui>Dark</gui>."
-msgstr ""
+msgstr "Klicka för att välja <gui>Ljus</gui> eller <gui>Mörk</gui>."
 
 #. (itstool) path: item/p
 #: C/look-background.page:81
 msgid "The setting is applied immediately."
-msgstr ""
+msgstr "Ändringen får effekt omedelbart."
 
 #. (itstool) path: section/title
 #: C/look-background.page:88
 msgid "Background"
-msgstr ""
+msgstr "Bakgrund"
 
 #. (itstool) path: section/p
 #: C/look-background.page:89
 msgid "To change the image used for your background:"
-msgstr ""
+msgstr "För att ändra bilden som används för din bakgrund:"
 
 #. (itstool) path: item/p
 #: C/look-background.page:93
@@ -9432,7 +9432,7 @@ msgstr ""
 msgid ""
 "Click <gui>Appearance</gui> to open the panel. The currently selected "
 "wallpaper is shown at the top in the preview for the current style."
-msgstr ""
+msgstr "Klicka på <gui>Utseende</gui> för att öppna panelen. Den för närvarande valda bakgrunden visas högst upp i förhandsvisningen för aktuell stil."
 
 #. (itstool) path: item/p
 #: C/look-background.page:100
@@ -9674,12 +9674,12 @@ msgstr "Media"
 msgid ""
 "Manage your sound devices, use your media files, connect to external "
 "devices, and more."
-msgstr ""
+msgstr "Hantera dina ljudenheter, använd dina mediafiler, anslut till externa enheter med mera."
 
 #. (itstool) path: page/title
 #: C/media.page:27
 msgid "Sound and media"
-msgstr ""
+msgstr "Ljud och media"
 
 #. (itstool) path: info/title
 #: C/media.page:31
@@ -9715,12 +9715,12 @@ msgstr "Grundläggande ljud"
 #: C/media.page:42
 msgctxt "link"
 msgid "Music, video &amp; devices"
-msgstr ""
+msgstr "Musik, video och enheter"
 
 #. (itstool) path: section/title
 #: C/media.page:43
 msgid "Music, video &amp; devices"
-msgstr ""
+msgstr "Musik, video och enheter"
 
 #. (itstool) path: info/desc
 #: C/more-help.page:19
@@ -9769,7 +9769,7 @@ msgid ""
 "plugging a different mouse into your computer and see if that works "
 "properly. Alternatively, plug your mouse into a different computer and see "
 "if it still has the same problem."
-msgstr "Om din mus dubbelklickar när du vill att den enkelklickar även om du har ökat tidsgränsen för dubbelklick kan det vara något fel på din mus. Försök att ansluta en annan mus till din dator och se om den fungerar som den ska. Du kan också ansluta din mus till en annan dator och se om den uppvisar samma problem."
+msgstr "Om din mus dubbelklickar när du vill att den enkelklickar även om du har ökat tidsgränsen för dubbelklick kan det vara något fel på musen. Försök att ansluta en annan mus till din dator och se om den fungerar som den ska. Du kan också ansluta din mus till en annan dator och se om den uppvisar samma problem."
 
 #. (itstool) path: note/p
 #: C/mouse-doubleclick.page:71 C/mouse-lefthanded.page:61
@@ -9786,7 +9786,7 @@ msgstr "Kasta om vänster och höger musknappar i musinställningarna."
 #. (itstool) path: page/title
 #: C/mouse-lefthanded.page:42
 msgid "Use your mouse left-handed"
-msgstr "Använd din mus med vänster hand"
+msgstr "Använd musen med vänster hand"
 
 #. (itstool) path: page/p
 #: C/mouse-lefthanded.page:44
@@ -9912,7 +9912,7 @@ msgid ""
 "If you have difficulties using a mouse or other pointing device, you can "
 "control the mouse pointer using the numeric keypad on your keyboard. This "
 "feature is called <em>mouse keys</em>."
-msgstr "Om du har svårt att använda en mus eller andra pekdon kan du styra musmarkören via det numeriska tangentbordet på ditt tangentbord. Denna funktion kallas <em>mustangenter</em>."
+msgstr "Om du har svårt att använda en mus eller andra pekdon kan du styra muspekaren via det numeriska tangentbordet på ditt tangentbord. Denna funktion kallas <em>mustangenter</em>."
 
 #. (itstool) path: item/p
 #: C/mouse-mousekeys.page:54
@@ -9922,7 +9922,7 @@ msgid ""
 "using <keyseq><key>Ctrl</key><key>Alt</key><key>Tab</key></keyseq> followed "
 "by <key>Enter</key>, or by using the <key xref=\"keyboard-key-"
 "super\">Super</key> key."
-msgstr "Du kan nå översiktsvyn <gui>Aktiviteter</gui> genom att trycka på den, genom att flytta musmarkören till det övre, vänstra hörnet av skärmen, genom att trycka <keyseq><key>Ctrl</key><key>Alt</key><key>Tabb</key></keyseq> följt av <key>Retur</key> eller genom att trycka på tangenten <key xref=\"keyboard-key-super\">Super</key>."
+msgstr "Du kan nå översiktsvyn <gui>Aktiviteter</gui> genom att trycka på den, genom att flytta muspekaren till det övre, vänstra hörnet av skärmen, genom att trycka <keyseq><key>Ctrl</key><key>Alt</key><key>Tabb</key></keyseq> följt av <key>Retur</key> eller genom att trycka på tangenten <key xref=\"keyboard-key-super\">Super</key>."
 
 #. (itstool) path: item/p
 #: C/mouse-mousekeys.page:66
@@ -9967,7 +9967,7 @@ msgid ""
 "that this key responds to where your keyboard focus is, not where your mouse"
 " pointer is. See <link xref=\"a11y-right-click\"/> for information on how to"
 " right-click by holding down <key>5</key> or the left mouse button."
-msgstr "De flesta tangentbord har en speciell tangent som låter dig högerklicka. Ibland kallas den <key xref=\"keyboard-key-menu\">Meny</key>-tangenten. Notera dock att denna tangent reagerar på var tangentbordfokus är, inte var din musmarkör är. Se <link xref=\"a11y-right-click\"/> för information om hur du högerklickar genom att hålla ner <key>5</key> eller den vänstra musknappen."
+msgstr "De flesta tangentbord har en speciell tangent som låter dig högerklicka. Ibland kallas den <key xref=\"keyboard-key-menu\">Meny</key>-tangenten. Notera dock att denna tangent reagerar på var tangentbordsfokus är, inte var muspekaren är. Se <link xref=\"a11y-right-click\"/> för information om hur du högerklickar genom att hålla ner <key>5</key> eller den vänstra musknappen."
 
 #. (itstool) path: page/p
 #: C/mouse-mousekeys.page:94
@@ -10164,7 +10164,7 @@ msgstr "Knacka för att klicka"
 #. (itstool) path: section/p
 #: C/mouse-touchpad-click.page:61
 msgid "You can tap your touchpad to click instead of using a button."
-msgstr "Du kan knacka på din styrplatta för att klicka istället för att använda en knapp."
+msgstr "Du kan knacka på din styrplatta för att klicka i stället för att använda en knapp."
 
 #. (itstool) path: item/p
 #: C/mouse-touchpad-click.page:65
@@ -10250,7 +10250,7 @@ msgid ""
 "scroll sideways. Be careful to space your fingers a bit apart. If your "
 "fingers are too close together, they just look like one big finger to your "
 "touchpad."
-msgstr "När detta är valt, kommer att knacka och dra med ett finger att fungera som vanligt men om du drar med två fingrar över någon del av styrplattan kommer den att rulla istället. Flytta fingrarna mellan toppen och botten av styrplattan för att rulla upp och ner, eller flytta fingrarna tvärs över styrplattan för att rulla sidledes. Sprid ut dina fingrar. Om dina fingrar är för nära varandra kommer de att se ut som en stor finger för din styrplatta."
+msgstr "När detta är valt, kommer att knacka och dra med ett finger att fungera som vanligt men om du drar med två fingrar över någon del av styrplattan kommer den att rulla i stället. Flytta fingrarna mellan toppen och botten av styrplattan för att rulla upp och ner, eller flytta fingrarna tvärs över styrplattan för att rulla sidledes. Sprid ut dina fingrar. Om dina fingrar är för nära varandra kommer de att se ut som en stor finger för din styrplatta."
 
 #. (itstool) path: note/p
 #: C/mouse-touchpad-click.page:131
@@ -10469,7 +10469,7 @@ msgid ""
 "instead choose to have files and folders open when you click on them once. "
 "When you use single-click mode, you can hold down the <key>Ctrl</key> key "
 "while clicking to select one or more files."
-msgstr "Som standard kommer klickande att markera filer och dubbelklickande att öppna dem. Du kan istället välja att låta filer och mappar öppnas när du klickar på dem en gång. När du använder enkelklicksläget kan du hålla ner <key>Ctrl</key> medan du klicka för att välja en eller flera filer."
+msgstr "Som standard kommer klickande att markera filer och dubbelklickande att öppna dem. Du kan i stället välja att låta filer och mappar öppnas när du klickar på dem en gång. När du använder enkelklicksläget kan du hålla ner <key>Ctrl</key> medan du klicka för att välja en eller flera filer."
 
 #. (itstool) path: section/title
 #: C/nautilus-behavior.page:58
@@ -10936,7 +10936,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/nautilus-icons.png' "
 "md5='73fdc7c5671efc4819672db4ee1d1a25'"
-msgstr ""
+msgstr "external ref='figures/nautilus-icons.png' md5='73fdc7c5671efc4819672db4ee1d1a25'"
 
 #. (itstool) path: media/p
 #: C/nautilus-display.page:43
@@ -11024,7 +11024,7 @@ msgid ""
 "open#default\">Open With</link></gui> tabs. For certain types of files, such"
 " as images and videos, there will be an extra tab that provides information "
 "like the dimensions, duration, and codec."
-msgstr "Informationen som finns på fliken <gui>Grundläggande</gui> förklaras nedan. De finns också flikar för <gui><link xref=\"nautilus-file-properties-permissions\">Rättigheter</link></gui> och <gui><link xref=\"files-open#default\">Öppna med</link></gui>. För vissa typer av filer, exempelvis för bilder och videor, så kommer det att finnas en extra flik med information så som dimensioner, längd och kodek."
+msgstr "Informationen som finns på fliken <gui>Grundläggande</gui> förklaras nedan. Det finns också flikar för <gui><link xref=\"nautilus-file-properties-permissions\">Rättigheter</link></gui> och <gui><link xref=\"files-open#default\">Öppna med</link></gui>. För vissa typer av filer, exempelvis för bilder och videor, så kommer det att finnas en extra flik med information såsom dimensioner, längd och kodek."
 
 #. (itstool) path: section/title
 #: C/nautilus-file-properties-basic.page:51
@@ -11078,7 +11078,7 @@ msgid ""
 "the folder includes other folders, each inner folder is counted as one item,"
 " even if it contains further items. Each file is also counted as one item. "
 "If the folder is empty, the contents will display <gui>nothing</gui>."
-msgstr "Det här fältet visas om du tittar på egenskaperna för en mapp istället för en fil. Det hjälper dig att se antal objekt i mappen. Om mappen innehåller andra mappar kommer varje underliggande mapp räknas som ett objekt, även om det innehåller andra objekt. Varje fil räknas också som ett objekt. Om mappen är tom kommer Innehåll visa <gui>ingenting</gui>."
+msgstr "Det här fältet visas om du tittar på egenskaperna för en mapp i stället för en fil. Det hjälper dig att se antal objekt i mappen. Om mappen innehåller andra mappar kommer varje underliggande mapp räknas som ett objekt, även om det innehåller andra objekt. Varje fil räknas också som ett objekt. Om mappen är tom kommer Innehåll visa <gui>ingenting</gui>."
 
 #. (itstool) path: item/p
 #: C/nautilus-file-properties-basic.page:77
@@ -11838,7 +11838,7 @@ msgid ""
 "If more than one type of wired connected is available, you might see names "
 "like <gui>PCI Ethernet</gui> or <gui>USB Ethernet</gui> instead of "
 "<gui>Wired</gui>."
-msgstr "Om mer än en typ av trådbunden anslutning är tillgänglig kan du se namn som <gui>PCI Ethernet</gui> eller <gui>USB Ethernet</gui> istället för <gui>Trådbundet</gui>."
+msgstr "Om mer än en typ av trådbunden anslutning är tillgänglig kan du se namn som <gui>PCI Ethernet</gui> eller <gui>USB Ethernet</gui> i stället för <gui>Trådbundet</gui>."
 
 #. (itstool) path: media/span
 #: C/net-findip.page:70 C/net-findip.page:91 C/net-fixed-ip-address.page:57
@@ -11856,7 +11856,7 @@ msgstr "inställningar"
 msgid ""
 "Click the <_:media-1/> button next to the active connection for the IP "
 "address and other details."
-msgstr ""
+msgstr "Klicka på <_:media-1/>-knappen intill den aktiva anslutningen för IP-adressen och andra detaljer."
 
 #. (itstool) path: section/title
 #: C/net-findip.page:78
@@ -11890,19 +11890,19 @@ msgstr "Webbsidan kommer visa dig din externa IP-adress."
 msgid ""
 "Depending on how your computer connects to the internet, the internal and "
 "external addresses may be the same."
-msgstr ""
+msgstr "Beroende på hur din dator ansluter till internet, kan den interna och den externa adressen vara densamma."
 
 #. (itstool) path: info/desc
 #: C/net-firewall-ports.page:23
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "Du behöver ange rätt nätverksport för att aktivera/inaktivera nätverksåtkomst för ett program via din brandvägg."
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "Vanligt förekommande nätverksportar"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11915,34 +11915,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "Beskrivning"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS, Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "Låter system att hitta varandra och beskriva vilka tjänster de erbjuder utan att du behöver ange detaljerna manuellt."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11954,66 +11954,66 @@ msgstr "Utskrifter"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "Låter dig skicka utskriftsjobb till en skrivare över nätverket."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "Låter dig dela din skrivare med andra personer över nätverket."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "Närvaro"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
 msgid ""
 "Allows you to advertise your instant messaging status to other people on the"
 " network, such as “online” or “busy”."
-msgstr ""
+msgstr "Låter dig utannonsera din chattmeddelandestatus till andra personer på nätverket, som till exempel ”inloggad” eller ”upptagen”."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "Fjärrskrivbord"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "Låter dig dela ditt skrivbord så att andra personer kan se det eller erbjuda fjärrassistans."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "Musikdelning (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "Låter dig dela ditt musikbibliotek med andra på ditt nätverk."
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -12528,7 +12528,7 @@ msgid ""
 "large user base. Linux is also very secure due to its open source nature, "
 "which allows experts to modify and enhance the security features included "
 "with each distribution."
-msgstr "Ett möjligt skäl till att du använder Linux är den robusta säkerhet som det är känt för. Ett skäl till att Linux är relativt fritt från skadlig programvara och virus är för att ett litet antal personer använder det. Virus har populära operativsystem som mål, så som Windows som har en extremt stor användarskara. Linux är också väldigt säkert för att det är öppen källkod, vilket låter experter modifiera och förbättra säkerhetsfunktioner som inkluderas med varje distribution."
+msgstr "Ett möjligt skäl till att du använder Linux är den robusta säkerhet som det är känt för. Ett skäl till att Linux är relativt fritt från skadlig programvara och virus är för att ett litet antal personer använder det. Virus har populära operativsystem som mål, såsom Windows som har en extremt stor användarskara. Linux är också väldigt säkert för att det är öppen källkod, vilket låter experter modifiera och förbättra säkerhetsfunktioner som inkluderas med varje distribution."
 
 #. (itstool) path: page/p
 #: C/net-security-tips.page:36
@@ -13054,7 +13054,7 @@ msgstr "Klicka på <gui>Trådlöst nätverk</gui> för att öppna panelen."
 msgid ""
 "Switch the <gui>Airplane Mode</gui> switch to on. This will turn off your "
 "wireless connection until you disable airplane mode again."
-msgstr "Slå på <gui>Flygplansläge</gui>. Detta kommer att stänga av dina trådlösa anslutningar tills dess att du inaktiverar flygplansläget igen."
+msgstr "Slå på <gui>Flygplansläge</gui>. Detta kommer att stänga av dina trådlösa anslutningar till dess att du inaktiverar flygplansläget igen."
 
 #. (itstool) path: note/p
 #: C/net-wireless-airplane.page:67
@@ -13087,12 +13087,12 @@ msgstr "Om du har en dator med trådlöst nätverk kan du ansluta till ett tråd
 msgid ""
 "Select <gui><_:media-1/> Wi-Fi</gui>. The Wi-Fi section of the menu will "
 "expand."
-msgstr ""
+msgstr "Välj <gui><_:media-1/> Trådlöst</gui>. Den trådlösa nätverksdelen av menyn kommer att expanderas."
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:48
 msgid "Click the name of the network you want."
-msgstr ""
+msgstr "Klicka på namnet på nätverket som du vill använda."
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:49
@@ -13437,7 +13437,7 @@ msgid ""
 "option when asked for your password (for example, select <gui>WEP 40/128-bit"
 " Key</gui> if you’re typing the 40-character pass key for a WEP-encrypted "
 "connection)."
-msgstr "Lösenordet du matar in kan också representeras på ett annat sätt — som en sträng av hexadecimala tecken (siffrorna 0-9 och bokstäverna a-f) som kallas lösennyckel. Varje lösenord har en motsvarande lösennyckel. Om du har tillgång till lösennyckeln samt lösenordet/lösenfrasen, prova att skriva lösennyckeln istället. Säkerställ att du har alternativet <gui>trådlös säkerhet</gui> rätt inställt när du blir tillfrågad om ditt lösenord (välj till exempel <gui>WEP 40/128-bitars nyckel</gui> om du skriver in den 40 tecken långa lösennyckeln för WEP-krypterad anslutning)."
+msgstr "Lösenordet du matar in kan också representeras på ett annat sätt — som en sträng av hexadecimala tecken (siffrorna 0-9 och bokstäverna a-f) som kallas lösennyckel. Varje lösenord har en motsvarande lösennyckel. Om du har tillgång till lösennyckeln samt lösenordet/lösenfrasen, prova att skriva lösennyckeln i stället. Säkerställ att du har alternativet <gui>trådlös säkerhet</gui> rätt inställt när du blir tillfrågad om ditt lösenord (välj till exempel <gui>WEP 40/128-bitars nyckel</gui> om du skriver in den 40 tecken långa lösennyckeln för WEP-krypterad anslutning)."
 
 #. (itstool) path: item/p
 #: C/net-wireless-noconnection.page:38
@@ -13843,7 +13843,7 @@ msgstr "För att få specifik hjälp, titta på supportalternativen på din dist
 msgid ""
 "You may need details such as the model number of your wireless adapter in "
 "subsequent troubleshooting steps."
-msgstr "Du kan behöva detaljer så som modellnummer på din trådlösa adapter i efterföljande felsökningssteg."
+msgstr "Du kan behöva detaljer såsom modellnummer på din trådlösa adapter i efterföljande felsökningssteg."
 
 #. (itstool) path: page/subtitle
 #: C/net-wireless-troubleshooting-hardware-info.page:29
@@ -14292,7 +14292,7 @@ msgid ""
 "intensive tasks (like watching high-definition video or converting music "
 "files, for example). This changes from moment to moment, and is difficult to"
 " predict."
-msgstr "För att uppskatta mängden återstående batteridriftstid tas hänsyn till ett antal faktorer. En av den är mängden ström som för närvarande används av datorn: strömförbrukningen varierar beroende på hur många program du har öppna, vilka enheter som är anslutna och huruvida du kör några intensiva uppgifter (så som att titta på högupplöst video eller konvertera musikfiler till exempel). Detta ändras från ögonblick till ögonblick och är svårt att förutsäga."
+msgstr "För att uppskatta mängden återstående batteridriftstid tas hänsyn till ett antal faktorer. En av den är mängden ström som för närvarande används av datorn: strömförbrukningen varierar beroende på hur många program du har öppna, vilka enheter som är anslutna och huruvida du kör några intensiva uppgifter (såsom att titta på högupplöst video eller konvertera musikfiler). Detta ändras från ögonblick till ögonblick och är svårt att förutsäga."
 
 #. (itstool) path: page/p
 #: C/power-batteryestimate.page:51
@@ -14424,7 +14424,7 @@ msgid ""
 "Some computers have a physical switch that can be used to turn it off, "
 "whereas others have a keyboard shortcut that you can use instead. You can "
 "turn it on again when you need it."
-msgstr "Vissa datorer har en fysisk knapp som kan användas för att stänga av den, medan andra har en tangentbordsgenväg istället. Du kan starta den igen när du behöver den."
+msgstr "Vissa datorer har en fysisk knapp som kan användas för att stänga av den, medan andra har en tangentbordsgenväg i stället. Du kan starta den igen när du behöver den."
 
 #. (itstool) path: section/title
 #: C/power-batterylife.page:106
@@ -14449,7 +14449,7 @@ msgstr "De flesta av dina körandes program gör väldigt lite när du inte anv�
 #. (itstool) path: info/desc
 #: C/power-batteryoptimal.page:11
 msgid "Tips such as “Do not let the battery charge get too low”."
-msgstr "Tips så som ”Låt inte batteriet bli för lågt”."
+msgstr "Tips som ”Låt inte batteriet bli för lågt”."
 
 #. (itstool) path: page/title
 #: C/power-batteryoptimal.page:29
@@ -14660,7 +14660,7 @@ msgid ""
 "normal: it is simply part of the way that the computer cools itself. "
 "However, if your computer gets very warm it could be a sign that it is "
 "overheating, which can potentially cause damage."
-msgstr "De flesta datorer blir varma efter ett tag och visa kan blir riktigt varma. Detta är normalt: det är helt enkelt en del av sättet på vilket datorn kyler sig själv. Om datorn blir allt för varm kan det vara ett tecken på att den överhettas, vilket potentiellt kan orsaka skador."
+msgstr "De flesta datorer blir varma efter ett tag och vissa kan bli riktigt varma. Detta är normalt: det är helt enkelt en del av sättet på vilket datorn kyler sig själv. Om datorn blir allt för varm kan det vara ett tecken på att den överhettas, vilket potentiellt kan orsaka skador."
 
 #. (itstool) path: page/p
 #: C/power-hotcomputer.page:28
@@ -14957,7 +14957,7 @@ msgid ""
 "displays the status of one or more laptop batteries. The indicator bar shows"
 " the percent charged, as well as time until fully charged if plugged in, and"
 " time remaining when running on battery power."
-msgstr "Om ett internt batteri upptäcks visar avsnittet <gui>Batterier</gui> status för ett eller flera batterier för bärbar dator. Indikatorraden visar laddningens procentsats, så väl som tiden till fullständig laddning om ansluten, och tid som kvarstår vid batteridrift."
+msgstr "Om ett internt batteri upptäcks visar avsnittet <gui>Batterier</gui> status för ett eller flera batterier för bärbar dator. Indikatorraden visar laddningens procentsats, såväl som tiden till fullständig laddning om ansluten, och tid som kvarstår vid batteridrift."
 
 #. (itstool) path: page/p
 #: C/power-status.page:63
@@ -15330,7 +15330,7 @@ msgstr "Dela-inställningar"
 msgid ""
 "The <em>Sharing Settings</em> help you control what is shared over the local"
 " network, or through other technologies such as <em>Bluetooth</em>."
-msgstr "<em>Delningsinställningarna</em> hjälper dig att styra vad som delas över det lokala nätverket eller via andra teknologier så som <em>Bluetooth</em>."
+msgstr "<em>Delningsinställningarna</em> hjälper dig att styra vad som delas över det lokala nätverket eller via andra teknologier såsom <em>Bluetooth</em>."
 
 #. (itstool) path: info/title
 #: C/prefs.page:8
@@ -16066,7 +16066,7 @@ msgid ""
 " come out, then the copies of page two, and so on). <em>Collating</em> will "
 "make each copy come out with its pages grouped together in the right order "
 "instead."
-msgstr "Om du skriver ut mer än en kopia av dokumentet, kommer utskrifterna att grupperas efter sidnummer som standard (det vill säga alla kopiorna av sida ett kommer ut, sedan kopiorna av sida två, och så vidare). <em>Sortering</em> kommer att få varje kopia att komma ut med dess sidor grupperade tillsammans i rätt ordning istället."
+msgstr "Om du skriver ut mer än en kopia av dokumentet, kommer utskrifterna att grupperas efter sidnummer som standard (det vill säga alla kopiorna av sida ett kommer ut, sedan kopiorna av sida två, och så vidare). <em>Sortering</em> kommer att få varje kopia att komma ut med dess sidor grupperade tillsammans i rätt ordning i stället."
 
 #. (itstool) path: steps/title
 #: C/printing-order.page:59
@@ -16368,7 +16368,7 @@ msgstr "Om linjer på din utskrift som borde vara raka ser taggiga ut kan du beh
 msgid ""
 "Save a document as a PDF, PostScript or SVG file instead of sending it to a "
 "printer."
-msgstr "Spara ett dokument som en PDF-, Postscript- eller SVG-fil istället för att skicka den till en skrivare."
+msgstr "Spara ett dokument som en PDF-, Postscript- eller SVG-fil i stället för att skicka den till en skrivare."
 
 #. (itstool) path: page/title
 #: C/printing-to-file.page:24
@@ -16383,7 +16383,7 @@ msgid ""
 "<sys>PostScript</sys> or a <sys>SVG</sys> file that contains the document. "
 "This can be useful if you want to transfer the document to another machine "
 "or to share it with someone."
-msgstr "Du kan välja att skriva ut ett dokument till en fil istället för att skicka det för utskrift till en skrivare. Att skriva ut till en fil kommer att skapa en <sys>PDF-</sys>, <sys>Postscript-</sys> eller <sys>SVG</sys>-fil som innehåller dokumentet. Detta kan vara användbart om du vill överföra dokumentet till en annan maskin eller dela det med någon."
+msgstr "Du kan välja att skriva ut ett dokument till en fil i stället för att skicka det för utskrift till en skrivare. Att skriva ut till en fil kommer att skapa en <sys>PDF-</sys>, <sys>Postscript-</sys> eller <sys>SVG</sys>-fil som innehåller dokumentet. Detta kan vara användbart om du vill överföra dokumentet till en annan maskin eller dela det med någon."
 
 #. (itstool) path: steps/title
 #: C/printing-to-file.page:33
@@ -16583,7 +16583,7 @@ msgid ""
 "setting your timezone and by applications such as <app>Maps</app>. When "
 "enabled, it is possible for your location to be shared over the network with"
 " a great deal of precision."
-msgstr "Geopositionering, eller platstjänster, använder basstationspositionering, GPS och närliggande trådlösa accesspunkter för att avgöra din aktuella plats för att använda den för att ställa in din tidzon och för program så som <app>Kartor</app>. När det är aktiverat är det möjligt för din plats att delas över nätverket med stor precision."
+msgstr "Geopositionering, eller platstjänster, använder basstationspositionering, GPS och närliggande trådlösa accesspunkter för att avgöra din aktuella plats för att använda den för att ställa in din tidzon och för program såsom <app>Kartor</app>. När det är aktiverat är det möjligt för din plats att delas över nätverket med stor precision."
 
 #. (itstool) path: steps/title
 #: C/privacy-location.page:38
@@ -16685,7 +16685,7 @@ msgstr "Förhindra andra personer från att använda ditt skrivbord när du går
 #. (itstool) path: page/title
 #: C/privacy-screen-lock.page:44
 msgid "Automatically lock your screen"
-msgstr "Lås automatiskt din skärm"
+msgstr "Lås automatiskt skärmen"
 
 #. (itstool) path: page/p
 #: C/privacy-screen-lock.page:46
@@ -16704,12 +16704,12 @@ msgid ""
 "When your screen is locked, your applications and system processes will "
 "continue to run, but you will need to enter your password to begin using "
 "them again."
-msgstr "När din skärm är låst kommer dina program och systemprocesser att fortsätta köra, men du måste mata in ditt lösenord för att börja använda dem igen."
+msgstr "När skärmen är låst kommer dina program och systemprocesser att fortsätta köra, men du måste mata in ditt lösenord för att börja använda dem igen."
 
 #. (itstool) path: steps/title
 #: C/privacy-screen-lock.page:58
 msgid "To set the length of time before your screen locks automatically:"
-msgstr "För att ställa in tidsintervallet innan din skärm låses automatiskt:"
+msgstr "För att ställa in tidsintervallet innan skärmen låses automatiskt:"
 
 #. (itstool) path: item/p
 #: C/privacy-screen-lock.page:61 C/session-screenlocks.page:49
@@ -16719,7 +16719,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/privacy-screen-lock.page:64 C/session-screenlocks.page:53
 msgid "Click on <gui>Screen</gui> to open the panel."
-msgstr ""
+msgstr "Klicka på <gui>Skärm</gui> för att öppna panelen."
 
 #. (itstool) path: item/p
 #: C/privacy-screen-lock.page:67
@@ -16738,7 +16738,7 @@ msgid ""
 "seeing these notifications, switch <gui>Show Notifications on Lock "
 "Screen</gui> off. For further notification settings, refer to <link "
 "xref=\"shell-notifications\"/>."
-msgstr "Program kan presentera aviseringar för dig som även visas på din låsskärm. Detta är behändigt för att t.ex. se om du har någon e-post utan att låsa upp din skärm. Om du är bekymrad om att andra människor ser dessa aviseringar, ställ om <gui>Visa aviseringar på låsskärmen</gui> till av. Se <link xref=\"shell-notifications\"/> för fler aviseringsinställningar."
+msgstr "Program kan presentera aviseringar för dig som även visas på din låsskärm. Detta är behändigt för att t.ex. se om du har någon e-post utan att låsa upp skärmen. Om du är bekymrad om att andra kan se dessa aviseringar, ställ om <gui>Visa aviseringar på låsskärmen</gui> till av. Se <link xref=\"shell-notifications\"/> för fler aviseringsinställningar."
 
 #. (itstool) path: page/p
 #: C/privacy-screen-lock.page:80
@@ -16748,7 +16748,7 @@ msgid ""
 "password, and press <key>Enter</key> or click <gui>Unlock</gui>. "
 "Alternatively, just start typing your password and the lock curtain will be "
 "automatically raised as you type."
-msgstr "När din skärm är låst och du vill låsa upp den, tryck på <key>Esc</key> eller svep uppåt från botten av skärmen med din mus. Mata sedan in ditt lösenord och tryck <key>Retur</key> eller klicka på <gui>Lås upp</gui>. Alternativ, bara börja skriv ditt lösenord så kommer låsgardinen automatiskt att höjas medan du skriver."
+msgstr "När skärmen är låst och du vill låsa upp den, tryck på <key>Esc</key> eller svep uppåt från botten av skärmen med musen. Mata sedan in ditt lösenord och tryck <key>Retur</key> eller klicka på <gui>Lås upp</gui>. Alternativt kan du bara börja skriva ditt lösenord så kommer låsgardinen automatiskt att höjas medan du skriver."
 
 #. (itstool) path: credit/name
 #: C/screen-shot-record.page:34
@@ -16768,17 +16768,17 @@ msgstr "Skärmbilder och skärminspelningar"
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:47
 msgid "Capture all or part of your screen as an image"
-msgstr ""
+msgstr "Fånga hela eller delar av skärmen som en bild"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:48
 msgid "Send it as a file or paste it from the clipboard"
-msgstr ""
+msgstr "Skicka den som en fil eller klistra in den från urklipp"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:49
 msgid "Save a video of your screen activity"
-msgstr ""
+msgstr "Spara ett videoklipp av din skärmaktivitet"
 
 #. (itstool) path: page/media
 #. This is a reference to an external file such as an image or video. When
@@ -16790,7 +16790,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/screenshot-tool.png' "
 "md5='724f047c5fe39a7d8549b5fbff162260'"
-msgstr ""
+msgstr "external ref='figures/screenshot-tool.png' md5='724f047c5fe39a7d8549b5fbff162260'"
 
 #. (itstool) path: page/p
 #: C/screen-shot-record.page:54
@@ -16800,7 +16800,7 @@ msgid ""
 "useful if you want to show someone how to do something on the computer, for "
 "example. Screenshots and screencasts are just normal picture and video "
 "files, so you can email them and share them on the web."
-msgstr "Du kan ta en bild av din skärm (en <em>skärmbild</em>) eller spela in en video av vad som händer på skärmen (en <em>skärminspelning</em>). Detta är användbart om du vill visa någon hur något görs på datorn, till exempel. Skärmbilder och skärminspelningar är normala bild- och videofiler, så du kan e-posta dem och dela dem på nätet."
+msgstr "Du kan ta en bild av skärmen (en <em>skärmbild</em>) eller spela in en video av vad som händer på skärmen (en <em>skärminspelning</em>). Detta är användbart om du vill visa någon hur något görs på datorn, till exempel. Skärmbilder och skärminspelningar är normala bild- och videofiler, så du kan e-posta dem och dela dem på nätet."
 
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:61
@@ -16820,31 +16820,31 @@ msgstr ""
 msgid ""
 "The screenshot overlay presents you with handles to select the area to "
 "capture, and <_:media-1/> indicates screenshot (still image) mode."
-msgstr ""
+msgstr "Skärmbildsöverlägget ger dig handtag för att markera området att fånga, och <_:media-1/> indikerar skärmbildsläge (stillbilder)."
 
 #. (itstool) path: note/p
 #: C/screen-shot-record.page:79
 msgid "Click the pointer button to include the pointer in the screenshot."
-msgstr ""
+msgstr "Klicka på pekarknappen för att inkludera pekaren i skärmbilden."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:83
 msgid ""
 "Click and drag the area you want for the screenshot using the handles or the"
 " crosshair pointer."
-msgstr ""
+msgstr "Klicka och dra området du vill ha för skärmbilden med handtagen eller hårkorspekaren."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:87
 msgid "To capture the selected area, click the big round button."
-msgstr ""
+msgstr "För att fånga det markerade området, klicka på den stora runda knappen."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:90
 msgid ""
 "To capture the entire screen, click <gui>Screen</gui> and then click the big"
 " round button."
-msgstr ""
+msgstr "För att fånga hela skärmen, klicka på <gui>Skärm</gui> och klicka sedan på den stora runda knappen."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:94
@@ -16852,12 +16852,12 @@ msgid ""
 "To capture a window, click <gui>Window</gui>. An overview of all the open "
 "windows is displayed with the active window checked. Click to choose a "
 "window and then click the big round button."
-msgstr ""
+msgstr "För att fånga ett fönster, klicka på <gui>Fönster</gui>. En översikt över alla öppna fönster visas med det aktiva fönstret ikryssat. Klicka för att välja ett fönster och klicka sedan på den stora runda knappen."
 
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:103
 msgid "Where do they go?"
-msgstr ""
+msgstr "Var tar de vägen?"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:107
@@ -16866,14 +16866,14 @@ msgid ""
 "<file>Pictures/Screenshots</file> folder in your home folder with a file "
 "name that begins with <file>Screenshot</file> and includes the date and time"
 " it was taken."
-msgstr ""
+msgstr "En skärmbild sparas automatiskt i mappen <file>Bilder/Skärmbilder</file> i din hemmapp med ett filnamn som börjar med <file>Skärmbild</file> och inkluderar datum och tid då den togs."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:113
 msgid ""
 "The image is also saved in the clipboard, so you can immediately paste it "
 "into an image-editing application or share it on social media."
-msgstr ""
+msgstr "Bilden sparas också i urklipp, så du kan omedelbart klistra in den i ett bildredigeringsprogram eller dela den på sociala medier."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:117
@@ -16882,7 +16882,7 @@ msgid ""
 "<file>Videos/Screencasts</file> folder in your home folder, with a file name"
 " that starts with <file>Screencast</file> and includes the date and time it "
 "was taken."
-msgstr ""
+msgstr "En skärminspelning sparas automatiskt i mappen <file>Bilder/Skärminspelningar</file> i din hemmapp med ett filnamn som börjar med <file>Skärminspelning</file> och inkluderar datum och tid då den togs."
 
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:127
@@ -16892,17 +16892,17 @@ msgstr "Gör en skärminspelning"
 #. (itstool) path: section/p
 #: C/screen-shot-record.page:129
 msgid "You can make a video recording of what is happening on your screen:"
-msgstr "Du kan göra en videoinspelning av vad som händer på din skärm:"
+msgstr "Du kan göra en videoinspelning av vad som händer på skärmen:"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:142
 msgid "Click <_:media-1/> to switch to screencast mode."
-msgstr ""
+msgstr "Klicka på <_:media-1/> för att växla till skärminspelningsläge."
 
 #. (itstool) path: note/p
 #: C/screen-shot-record.page:146
 msgid "Click the pointer button to include the pointer in the screencast."
-msgstr ""
+msgstr "Klicka på pekarknappen för att inkludera pekaren i skärminspelningen."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:150
@@ -16910,20 +16910,20 @@ msgid ""
 "Choose <gui>Selection</gui> or <gui>Screen</gui>. For <gui>Selection</gui>, "
 "click and drag the area you want for the screencast using the handles or the"
 " crosshair pointer."
-msgstr ""
+msgstr "Välj <gui>Markering</gui> eller <gui>Skärm</gui>. För <gui>Markering</gui> kan du klicka och dra området du vill ha för skärminspelningen med handtagen eller hårkorspekaren."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:155
 msgid ""
 "Click the big round red button to start recording what is on your screen."
-msgstr ""
+msgstr "Klicka på den stora runda röda knappen för att börja spela in vad som finns på skärmen."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:157
 msgid ""
 "A red indicator is displayed in the top right corner of the screen when the "
 "recording is in progress, showing the elapsed seconds."
-msgstr ""
+msgstr "En röd indikator visas i det övre högra hörnet av skärmen när inspelningen pågår, och visar antalet sekunder som har förflutit."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:161
@@ -16931,7 +16931,7 @@ msgid ""
 "Once you have finished, click the red indicator or press "
 "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq> "
 "to stop the recording."
-msgstr ""
+msgstr "Klicka när du är klar på den röda indikatorn eller tryck <keyseq><key>Skift</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq> för att stoppa inspelningen."
 
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:170
@@ -16941,102 +16941,102 @@ msgstr "Tangentbordsgenvägar"
 #. (itstool) path: section/p
 #: C/screen-shot-record.page:172
 msgid "Within the screenshot feature, you can use these keyboard shortcuts:"
-msgstr ""
+msgstr "Inuti skärmbildsfunktionen kan du använda dessa tangentbordsgenvägar:"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:177
 msgid "<key>S</key>"
-msgstr ""
+msgstr "<key>S</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:178
 msgid "Select area"
-msgstr ""
+msgstr "Markera område"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:181
 msgid "<key>C</key>"
-msgstr ""
+msgstr "<key>C</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:182
 msgid "Capture screen"
-msgstr ""
+msgstr "Fånga skärm"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:185
 msgid "<key>W</key>"
-msgstr ""
+msgstr "<key>W</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:186
 msgid "Capture window"
-msgstr ""
+msgstr "Fånga fönster"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:189
 msgid "<key>P</key>"
-msgstr ""
+msgstr "<key>P</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:190
 msgid "Toggle between show and hide pointer"
-msgstr ""
+msgstr "Växla mellan att visa och dölja pekare"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:193
 msgid "<key>V</key>"
-msgstr ""
+msgstr "<key>V</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:194
 msgid "Toggle between screenshot and screencast"
-msgstr ""
+msgstr "Växla mellan skärmbild och skärminspelning"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:197
 msgid "<key>Enter</key>"
-msgstr ""
+msgstr "<key>Retur</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:198
 msgid ""
 "Capture, also activated by <key>Space</key> or "
 "<keyseq><key>Ctrl</key><key>C</key></keyseq>"
-msgstr ""
+msgstr "Fånga, också aktiverat av <key>Blanksteg</key> eller <keyseq><key>Ctrl</key><key>C</key></keyseq>"
 
 #. (itstool) path: section/p
 #: C/screen-shot-record.page:203
 msgid "These shortcuts can be used to bypass the screenshot feature:"
-msgstr ""
+msgstr "Dessa kortkommandon kan användas för att gå förbi skärmbildsfunktionen:"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:208
 msgid "Capture the window that currently has focus"
-msgstr ""
+msgstr "Fånga fönstret som för närvarande har fokus"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:212
 msgid "Capture the entire screen"
-msgstr ""
+msgstr "Fånga hela skärmen"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:215 C/shell-keyboard-shortcuts.page:181
 msgid ""
 "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Skift</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:216
 msgid "Start and stop recording a screencast"
-msgstr ""
+msgstr "Börja och sluta spela in en skärminspelning"
 
 #. (itstool) path: info/desc
 #: C/session-fingerprint.page:41
 msgid ""
 "You can log in to your system using a supported fingerprint scanner instead "
 "of typing in your password."
-msgstr "Du kan logga in på ditt system med hjälp av en stödd fingeravtrycksläsare istället för att skriva in ett lösenord."
+msgstr "Du kan logga in på ditt system med hjälp av en stödd fingeravtrycksläsare i stället för att skriva in ett lösenord."
 
 #. (itstool) path: page/title
 #: C/session-fingerprint.page:45
@@ -17152,7 +17152,7 @@ msgstr "På inloggningsskärmen, välj ditt namn från listan. Formuläret för 
 msgid ""
 "Instead of typing your password, you should be able to swipe your finger on "
 "the fingerprint reader."
-msgstr "Istället för att skriva in ditt lösenord, bör du kunna svepa ditt finger över fingeravtrycksläsaren."
+msgstr "I stället för att skriva in ditt lösenord, bör du kunna svepa ditt finger över fingeravtrycksläsaren."
 
 #. (itstool) path: info/desc
 #: C/session-formats.page:31
@@ -17383,14 +17383,14 @@ msgid ""
 "You can let other people view and control your desktop from another computer"
 " with a desktop viewing application. Configure <gui>Remote Desktop</gui> to "
 "allow others to access your desktop and set the security preferences."
-msgstr ""
+msgstr "Du kan låta andra personer se och styra ditt skrivbord från en annan dator med ett skrivbordsvisningsprogram. Konfigurera <gui>Fjärrskriv</gui> för att låta andra personer få åtkomst till ditt skrivbord och ställ in säkerhetsinställningarna."
 
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:58
 msgid ""
 "You must have the <app>GNOME Remote Desktop</app> package installed for "
 "<gui>Remote Desktop</gui> to be visible."
-msgstr ""
+msgstr "Du måste ha paketet <app>GNOME Fjärrskrivbord</app> installerat för att <gui>Fjärrskrivbord</gui> ska visas."
 
 #. (itstool) path: when/p
 #: C/sharing-desktop.page:63
@@ -17415,7 +17415,7 @@ msgstr "Klicka på <gui>Dela</gui> för att öppna panelen."
 msgid ""
 "If the <gui>Sharing</gui> switch in the top-right of the window is set to "
 "off, click to switch it on."
-msgstr ""
+msgstr "Om <gui>Delning</gui> längst upp till höger i fönstret är av, klicka för att slå på det."
 
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:85 C/sharing-media.page:70
@@ -17429,7 +17429,7 @@ msgstr "Om texten nedanför <gui>Datornamn</gui> låter dig redigera den, kan du
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:90
 msgid "Click <gui>Remote Desktop</gui>."
-msgstr ""
+msgstr "Klicka på <gui>Fjärrskrivbord</gui>."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:93
@@ -17437,7 +17437,7 @@ msgid ""
 "To let others view your desktop, set the <gui>Remote Desktop</gui> switch to"
 " on. This means that other people will be able to attempt to connect to your"
 " computer and view what’s on your screen."
-msgstr ""
+msgstr "För att låta andra se ditt skrivbord, slå på <gui>Fjärrskrivbord</gui>. Detta innebär att andra personer kan försöka att ansluta till din dator och se vad som finns på skärmen."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:98
@@ -17446,7 +17446,7 @@ msgid ""
 "switch to on. This may allow the other person to move your mouse, run "
 "applications, and browse files on your computer, depending on the security "
 "settings which you are currently using."
-msgstr ""
+msgstr "För att låta andra interagera med ditt skrivbord, slå på <gui>Fjärrkontroll</gui>. Detta kan låta den andra personen flytta din mus, köra program och bläddra bland filer på din dator, beroende på säkerhetsinställningarna som du använder för närvarande."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:106 C/sharing-personal.page:86
@@ -17458,34 +17458,34 @@ msgstr "Säkerhet"
 msgid ""
 "The <gui>Authentication</gui> section displays the login credentials to be "
 "used in the client software on the connecting device."
-msgstr ""
+msgstr "Delen <gui>Autentisering</gui> visar inloggningsuppgifterna att använda i klientprogramvaran på den anslutande enheten."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:112
 msgid "User Name"
-msgstr ""
+msgstr "Användarnamn"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:113 C/sharing-desktop.page:117
 msgid "Use the suggested value or enter your own."
-msgstr ""
+msgstr "Använd det föreslagna värdet eller ange ett eget."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:116
 msgid "Password"
-msgstr ""
+msgstr "Lösenord"
 
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:119
 msgid ""
 "Click the button next to each entry if you want to place it in the "
 "clipboard."
-msgstr ""
+msgstr "Klicka på knappen intill varje post om du vill placera den i urklipp."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:124
 msgid "Verify Encryption"
-msgstr ""
+msgstr "Verifiera kryptering"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:125
@@ -17493,12 +17493,12 @@ msgid ""
 "Click the <gui>Verify Encryption</gui> button to display the encryption "
 "fingerprint. Compare it with the value displayed by the client when "
 "connecting: they should be identical."
-msgstr ""
+msgstr "Klicka på knappen <gui>Verifiera kryptering</gui> för att visa krypteringsfingeravtrycket. Jämför det med värdet som visas av klienten vid anslutning: de ska vara identiska."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:148
 msgid "Connecting"
-msgstr ""
+msgstr "Anslutning"
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:150
@@ -17508,7 +17508,7 @@ msgid ""
 "computer. Click the button next to each entry if you want to place it in the"
 " clipboard. A connection can also be made using your <link xref=\"net-"
 "findip\">IP address</link>."
-msgstr ""
+msgstr "Delen <gui>Hur du ansluter</gui> visar <gui>Enhetsnamn</gui> och <gui>Fjärrskrivbordsadress</gui> som kan användas på datorn som ansluter. Klicka på knappen intill varje post om du vill placera den i urklipp. En anslutning kan också göras med hjälp av din <link xref=\"net-findip\">IP-adress</link>."
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:155
@@ -17516,24 +17516,24 @@ msgid ""
 "When the other computer is successfully connected to your desktop, you will "
 "see the <gui>Screen is being shared</gui> icon, <_:media-1/> in your system "
 "status area."
-msgstr ""
+msgstr "När den andra datorn har anslutits till ditt skrivbord kommer du se <gui>Skärmen delas</gui>-ikonen, <_:media-1/> i ditt systemstatusområde."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:162
 msgid "Clients"
-msgstr ""
+msgstr "Klienter"
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:164
 msgid ""
 "To connect to your desktop from another computer, the following clients are "
 "known to work."
-msgstr ""
+msgstr "Följande klienter är kända att fungera för att ansluta till ditt skrivbord från en annan dator."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:168
 msgid "From Linux:"
-msgstr ""
+msgstr "Från Linux:"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:170
@@ -17543,7 +17543,7 @@ msgid ""
 "href=\"https://flathub.org/apps/details/org.remmina.Remmina\">flatpak</link>."
 " Use default settings, particularly <gui>Color depth</gui> 'Automatic' in "
 "the connection profile settings."
-msgstr ""
+msgstr "<app>Remmina</app>, en GTK-klient, finns tillgänglig som ett paket i de flesta distributioner, och också som en <link href=\"https://flathub.org/apps/details/org.remmina.Remmina\">flatpak</link>. Använd standardinställningarna, i synnerhet <gui>Färgdjup</gui> ”Automatiskt” i anslutningsprofilinställningarna."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:176
@@ -17551,24 +17551,24 @@ msgid ""
 "<app>xfreerdp</app> is a command line client available as a package in most "
 "distributions. The option <cmd>/network:auto</cmd> should be passed to the "
 "client on the command line."
-msgstr ""
+msgstr "<app>xfreerdp</app> är en kommandoradsklient som finns tillgänglig som ett paket i de flesta distributioner. Flaggan <cmd>/network:auto</cmd> bör skickas med till klienten på kommandoraden."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:183
 msgid "From Microsoft Windows:"
-msgstr ""
+msgstr "Från Microsoft Windows:"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:185
 msgid ""
 "<app>mstsc</app> is the built-in Windows client. Default settings are "
 "recommended."
-msgstr ""
+msgstr "<app>mstsc</app> är den inbyggda Windows-klienten. Standardinställningar rekommenderas."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:191
 msgid "From Linux, Windows, or macOS:"
-msgstr ""
+msgstr "Från Linux, Windows eller macOS:"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:193
@@ -17577,7 +17577,7 @@ msgid ""
 "as a <link "
 "href=\"https://flathub.org/apps/details/com.thincast.client\">flatpak</link>."
 " Default settings are recommended."
-msgstr ""
+msgstr "<app>Thincast</app> är en proprietär klient. Linux-versionen finns tillgänglig som en <link href=\"https://flathub.org/apps/details/com.thincast.client\">flatpak</link>. Standardinställningar rekommenderas."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:203
@@ -17592,39 +17592,39 @@ msgstr "För att koppla från någon som tittar på ditt skrivbord:"
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:209
 msgid "Click the system menu on the right side of the top bar."
-msgstr ""
+msgstr "Klicka på systemmenyn i den högra delen av systemraden."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:212
 msgid "Click <gui>Screen is being shared</gui>."
-msgstr ""
+msgstr "Klicka på <gui>Skärmen delas</gui>."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:215
 msgid "Click <gui>Turn off</gui>."
-msgstr ""
+msgstr "Klicka på <gui>Stäng av</gui>."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:222
 msgid "Advanced Topics"
-msgstr ""
+msgstr "Avancerade ämnen"
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:226
 msgid "Command line configuration"
-msgstr ""
+msgstr "Kommandoradskonfiguration"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:227
 msgid ""
 "The <cmd>grdctl</cmd> utility allows you to configure your host settings in "
 "a console window. For usage details, type <cmd>grdctl --help</cmd>."
-msgstr ""
+msgstr "Verktyget <cmd>grdctl</cmd> låter dig konfigurera dina värdinställningar i ett konsolfönster. Skriv <cmd>grdctl --help</cmd> för användningsdetaljer."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:232
 msgid "H.264"
-msgstr ""
+msgstr "H.264"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:233
@@ -17633,7 +17633,7 @@ msgid ""
 "Desktop</app> will use H.264 when: the graphics pipeline is used (a "
 "requirement of the protocol), the client supports it, and NVENC (NVIDIA's "
 "encoder) is available."
-msgstr ""
+msgstr "H.264-videokodning reducerar kraftigt bandbredd. <app>GNOME Fjärrskrivbord</app> kommer använda H.264 när: grafikrörledningen används (ett krav för protokollet), klienten stöder det samt NVENC (NVIDIAs kodare) finns tillgänglig."
 
 #. (itstool) path: info/desc
 #: C/sharing-displayname.page:25
@@ -18039,7 +18039,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "Användarmeny"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18051,7 +18051,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-expanded.png' "
 "md5='c535fc8ae6c3d7e08609218f816212b9'"
-msgstr ""
+msgstr "external ref='figures/shell-exit-expanded.png' md5='c535fc8ae6c3d7e08609218f816212b9'"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18063,7 +18063,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-classic-expanded.png' "
 "md5='b99a1656d674172295ab3c4f71ee30ed'"
-msgstr ""
+msgstr "external ref='figures/shell-exit-classic-expanded.png' md5='b99a1656d674172295ab3c4f71ee30ed'"
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:83
@@ -18081,7 +18081,7 @@ msgid ""
 "xref=\"shell-introduction#systemmenu\">system menu</link> on the right side "
 "of the top bar, click the <_:media-1/> button, and select the correct "
 "option."
-msgstr ""
+msgstr "För att <gui>Logga ut</gui> eller <gui>Växla användare</gui>, klicka på <link xref=\"shell-introduction#systemmenu\">systemmenyn</link> på höger sida av systemraden, klicka på knappen <_:media-1/> och välj rätt alternativ."
 
 #. (itstool) path: note/p
 #: C/shell-exit.page:97
@@ -18118,7 +18118,7 @@ msgstr "Om du ska lämna din dator för en kort stund bör du låsa skärmen fö
 msgid ""
 "To lock your screen, click the system menu on the right side of the top bar "
 "and click the <_:media-1/> button."
-msgstr ""
+msgstr "För att låsa skärmen, klicka på systemmenyn på höger sida av systemraden och klicka på knappen <_:media-1/>."
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:129
@@ -18149,7 +18149,7 @@ msgid ""
 "To suspend your computer manually, click the system menu on the right side "
 "of the top bar, click the <_:media-1/> button, and select "
 "<gui>Suspend</gui>."
-msgstr ""
+msgstr "För att försätta din dator i vänteläge manuellt, klicka på systemmenyn på höger sida av systemraden, klicka på knappen <_:media-1/> och välj <gui>Vänteläge</gui>."
 
 #. (itstool) path: section/title
 #: C/shell-exit.page:163
@@ -18162,7 +18162,7 @@ msgid ""
 "If you want to power off your computer entirely, or do a full restart, click"
 " the system menu on the right side of the top bar, click the <_:media-1/> "
 "button, and select either <gui>Restart…</gui> or <gui>Power Off…</gui>."
-msgstr ""
+msgstr "Om du vill stänga av din dator helt eller göra en full omstart, klicka på systemmenyn på höger sida av systemraden, klicka på knappen <_:media-1/>, och välj antingen <gui>Starta om…</gui> eller <gui>Stäng av…</gui>."
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:172
@@ -18237,7 +18237,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-top-bar.png' "
 "md5='db8d3e7c591c3b710eaba0a93e78346b'"
-msgstr ""
+msgstr "external ref='figures/shell-top-bar.png' md5='db8d3e7c591c3b710eaba0a93e78346b'"
 
 #. (itstool) path: media/p
 #: C/shell-introduction.page:69 C/shell-introduction.page:74
@@ -18254,7 +18254,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-top-bar-classic.png' "
 "md5='8eecf39f87d7cda9ee060a108114a624'"
-msgstr ""
+msgstr "external ref='figures/shell-top-bar-classic.png' md5='8eecf39f87d7cda9ee060a108114a624'"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:79
@@ -18450,7 +18450,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-appmenu-classic.png' "
 "md5='2cfa352e0e3c55f82003047ba171fd18'"
-msgstr ""
+msgstr "external ref='figures/shell-appmenu-classic.png' md5='2cfa352e0e3c55f82003047ba171fd18'"
 
 #. (itstool) path: when/p
 #: C/shell-introduction.page:184
@@ -18525,7 +18525,7 @@ msgstr ""
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit.png' md5='61d91e3276304bf59b0f06093b97e838'"
-msgstr ""
+msgstr "external ref='figures/shell-exit.png' md5='61d91e3276304bf59b0f06093b97e838'"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18537,14 +18537,14 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-classic.png' "
 "md5='bc5eebe4cad6677a3552c08e8b3f502d'"
-msgstr ""
+msgstr "external ref='figures/shell-exit-classic.png' md5='bc5eebe4cad6677a3552c08e8b3f502d'"
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:257
 msgid ""
 "Click the system menu in the top-right corner to manage your system settings"
 " and your computer."
-msgstr ""
+msgstr "Klicka på systemmenyn i övre högra hörnet för att hantera dina systeminställningar och din dator."
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:260
@@ -18616,7 +18616,7 @@ msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus"
 " on the task at hand without distractions."
-msgstr ""
+msgstr "GNOME erbjuder ett annat sätt att växla mellan fönster än en permanent synlig fönsterlist som brukar finnas i andra skrivbordsmiljöer. Detta låter dig fokusera på dina uppgifter utan distraktioner."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:311
@@ -18877,7 +18877,7 @@ msgstr "Fånga från skärmen"
 msgid ""
 "<link xref=\"screen-shot-record#screenshot\">Launch the screenshot "
 "tool.</link>"
-msgstr ""
+msgstr "<link xref=\"screen-shot-record#screenshot\">Starta skärmbildsverktyget.</link>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:172
@@ -18891,7 +18891,7 @@ msgstr "<link xref=\"screen-shot-record#screenshot\">Ta en skärmbild av ett fö
 msgid ""
 "<link xref=\"screen-shot-record#screenshot\">Take a screenshot of the entire"
 " screen.</link>."
-msgstr ""
+msgstr "<link xref=\"screen-shot-record#screenshot\">Ta en skärmbild av hela skärmen</link>."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:182
@@ -18944,7 +18944,7 @@ msgstr "För att låsa upp din dator, klicka en gång med musen eller styrplatta
 msgid ""
 "To hide notifications from the lock screen, see <link xref=\"shell-"
 "notifications#lock-screen-notifications\"/>."
-msgstr "För att gömma aviseringar från låsskärmen, se <link xref=\"shell-notifications#lock-screen-notifications\"/>."
+msgstr "För att dölja aviseringar från låsskärmen, se <link xref=\"shell-notifications#lock-screen-notifications\"/>."
 
 #. (itstool) path: credit/name
 #: C/shell-notifications.page:15
@@ -18997,7 +18997,7 @@ msgid ""
 "Clicking the close button on some notifications dismisses them. Others, like"
 " Rhythmbox or your chat application, will stay hidden in the notification "
 "list."
-msgstr "Att klicka på stängknappen på vissa aviseringar förkastar dem. Andra, som Rhythmbox eller ditt chattprogram kommer att förbli gömda i aviseringslistan."
+msgstr "Att klicka på stängknappen på vissa aviseringar förkastar dem. Andra, som Rhythmbox eller ditt chattprogram kommer att förbli dolda i aviseringslistan."
 
 #. (itstool) path: section/title
 #: C/shell-notifications.page:69
@@ -19084,12 +19084,12 @@ msgstr "Dölja aviseringar på låsskärmen"
 msgid ""
 "When your screen is locked, notifications appear on the lock screen. You can"
 " configure the lock screen to hide these notifications for privacy reasons."
-msgstr "När din skärm är låst, kommer aviseringar att visas på låsskärmen. Du kan av säkerhetsskäl konfigurera så att låsskärmen gömmer dessa aviseringar."
+msgstr "När skärmen är låst kommer aviseringar att visas på låsskärmen. Du kan av säkerhetsskäl konfigurera så att låsskärmen döljer dessa aviseringar."
 
 #. (itstool) path: steps/title
 #: C/shell-notifications.page:132
 msgid "To switch off notifications when your screen is locked:"
-msgstr "För att slå av aviseringar när din skärm är låst:"
+msgstr "För att slå av aviseringar när skärmen är låst:"
 
 #. (itstool) path: item/p
 #: C/shell-notifications.page:142
@@ -19812,7 +19812,7 @@ msgid ""
 "Levels</gui> section to set the volume of the alert sound. Click the speaker"
 " button at the end of the slider to mute or unmute the alert sound. This "
 "will not affect the volume of your music, movies, or other sound files."
-msgstr ""
+msgstr "Använd volymskjutreglaget för <gui>Systemljud</gui> i avsnittet <gui>Volymnivåer</gui> för att ställa in volymen för larmljudet. Klicka på högtalarknappen i slutet på skjutreglaget för att tysta eller aktivera larmljudet. Detta kommer inte att påverka volymen för din musik, filmer eller andra ljudfiler."
 
 #. (itstool) path: info/desc
 #: C/sound-broken.page:20
@@ -20045,7 +20045,7 @@ msgid ""
 "privileges</link>; either type <cmd>sudo lspci</cmd> and type your password,"
 " or type <cmd>su</cmd>, enter the <em>root</em> (administrative) password, "
 "then type <cmd>lspci</cmd>."
-msgstr ""
+msgstr "Kör <cmd>lspci</cmd> med <link xref=\"user-admin-explain\">administratörsprivilegier</link>; skriv antingen <cmd>sudo lspci</cmd> och mata in ditt lösenord, eller skriv <cmd>su</cmd>, mata in <em>root</em>-lösenordet (administratörslösenordet) och skriv sedan <cmd>lspci</cmd>."
 
 #. (itstool) path: item/p
 #: C/sound-nosound.page:130
@@ -20220,7 +20220,7 @@ msgid ""
 "If you hover over the volume icon in the top bar or the slider in the system"
 " menu, the volume can be controlled by scrolling the mouse wheel or "
 "touchpad."
-msgstr ""
+msgstr "Om du hovrar över volymikonen i systemraden eller skjutreglaget i systemmenyn kan volymen styras genom att rulla mushjulet eller styrplattan."
 
 #. (itstool) path: page/p
 #: C/sound-volume.page:47
@@ -20265,7 +20265,7 @@ msgid ""
 "Under <gui>Volume Levels</gui>, use the volume slider for each application "
 "to set its volume. Click the speaker button at the end of the slider to mute"
 " or unmute the application."
-msgstr ""
+msgstr "Under <gui>Volymnivåer</gui>, ändra volymen för varje program för att ställa in dess volym. Klicka på högtalarknappen i slutet på skjutreglaget för att tysta eller aktivera ljudet för programmet."
 
 #. (itstool) path: note/p
 #: C/sound-volume.page:80
@@ -20274,7 +20274,7 @@ msgid ""
 "playing sounds but is not listed, it might not support the feature that lets"
 " you control its volume in this way. In such a case, you cannot change its "
 "volume."
-msgstr ""
+msgstr "Bara program som spelar upp ljud finns i listan. Om ett program spelar ljud men inte finns i listan, kan det sakna stöd för funktionen som låter dig kontrollera dess volym på detta sätt. I det fallet kan du inte ändra dess volym."
 
 #. (itstool) path: credit/name
 #: C/status-icons.page:48
@@ -20454,7 +20454,7 @@ msgstr "Ansluten till ett trådlöst nätverk, men det finns ingen signal."
 msgid ""
 "Connected to a wireless network. This icon is only shown if the signal "
 "strength cannot be determined, such as when connecting to ad hoc networks."
-msgstr "Ansluten till ett trådlöst nätverk. Denna ikon visas endast om signalstyrkan inte kan avgöras, så som vid anslutning till ad hoc-nätverk."
+msgstr "Ansluten till ett trådlöst nätverk. Denna ikon visas endast om signalstyrkan inte kan avgöras, såsom vid anslutning till ad hoc-nätverk."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:344
@@ -20503,7 +20503,7 @@ msgid ""
 "strength cannot be determined, such as when connecting over Bluetooth. If "
 "the signal strength can be determined, a signal strength icon is shown "
 "instead."
-msgstr "Ansluten till ett mobilnätverk. Denna ikon visas endast om signalstyrkan inte kan avgöras, så som vid anslutning över Bluetooth. Om signalstyrkan kan avgöras visas istället en signalstyrkeikon."
+msgstr "Ansluten till ett mobilnätverk. Denna ikon visas endast om signalstyrkan inte kan avgöras, såsom vid anslutning över Bluetooth. Om signalstyrkan kan avgöras visas i stället en signalstyrkeikon."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:418
@@ -20603,7 +20603,7 @@ msgstr "Ett program delar för närvarande skärmen eller ett annat fönster."
 #. (itstool) path: td/p
 #: C/status-icons.page:580
 msgid "Connecting to a Thunderbolt device, such as a dock."
-msgstr "Ansluter till en Thunderbolt-enhet, så som en docka."
+msgstr "Ansluter till en Thunderbolt-enhet, såsom en docka."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:585
@@ -20714,7 +20714,7 @@ msgstr "En Compose-tangent är en speciell tangent som låter dig trycka ner fle
 msgid ""
 "Keyboards don’t have specific compose keys. Instead, you can define one of "
 "the existing keys on your keyboard as a compose key."
-msgstr "Tangentbord har inte specifika compose-tangenter. Istället kan du definiera en av de befintliga tangenterna på ditt tangentbord som en compose-tangent."
+msgstr "Tangentbord har inte specifika compose-tangenter. I stället kan du definiera en av de befintliga tangenterna på ditt tangentbord som en compose-tangent."
 
 #. (itstool) path: steps/title
 #: C/tips-specialchars.page:89
@@ -20874,7 +20874,7 @@ msgstr "Använd gester på styrplattor och pekskärmar"
 msgid ""
 "Multitouch gestures can be used on touchpads and touchscreens for system "
 "navigation, as well as in applications."
-msgstr "Flerfingersgester kan användas på styrplattor och pekskärmar för systemnavigering, så väl som i program."
+msgstr "Flerfingersgester kan användas på styrplattor och pekskärmar för systemnavigering, såväl som i program."
 
 #. (itstool) path: page/p
 #: C/touchscreen-gestures.page:36
@@ -21145,7 +21145,7 @@ msgstr "Tryck på <gui style=\"button\">Lås upp</gui> i övre högra hörnet oc
 msgid ""
 "Press the <gui style=\"button\">+ Add User...</gui> button under <gui>Other "
 "Users</gui> to add a new user account."
-msgstr ""
+msgstr "Tryck på knappen <gui style=\"button\">Lägg till användare…</gui> under <gui>Andra användare</gui> för att lägga till ett nytt användarkonto."
 
 #. (itstool) path: item/p
 #: C/user-add.page:63
@@ -21160,7 +21160,7 @@ msgstr "Om du vill att den nya användaren ska ha <link xref=\"user-admin-explai
 msgid ""
 "Administrators can do things like add and delete users, install software and"
 " drivers, and change the date and time."
-msgstr "Administratörer kan göra saker så som att lägga till och ta bort användare, installera programvara och drivrutiner samt ändra datum och tid."
+msgstr "Administratörer kan göra saker såsom att lägga till och ta bort användare, installera programvara och drivrutiner samt ändra datum och tid."
 
 #. (itstool) path: item/p
 #: C/user-add.page:70
@@ -21182,20 +21182,20 @@ msgid ""
 "themselves on their first login. If you choose to set the password now, you "
 "can press the <gui style=\"button\"><_:media-1/></gui> icon to automatically"
 " generate a random password."
-msgstr ""
+msgstr "Du kan välja att ställa in ett lösenord för den nya användaren eller låta dem ställa in det själva vid deras första inloggning. Om du väljer att ställa in lösenordet nu kan du trycka på <gui style=\"button\"><_:media-1/></gui>-ikonen för att automatiskt generera ett slumpmässigt lösenord."
 
 #. (itstool) path: item/p
 #: C/user-add.page:81
 msgid ""
 "To connect the user to a network domain, click <gui>Enterprise Login</gui>."
-msgstr ""
+msgstr "Klicka på <gui>Företagsinloggning</gui> för att ansluta användaren till en nätverksdomän."
 
 #. (itstool) path: item/p
 #: C/user-add.page:85
 msgid ""
 "Click <gui>Add</gui>. When the user has been added, <gui>Parental "
 "Controls</gui> and <gui>Language</gui> settings can be adjusted."
-msgstr ""
+msgstr "Klicka på <gui>Lägg till</gui>. När användaren har lagts till kan inställningarna för <gui>Föräldrakontroller</gui> och <gui>Språk</gui> justeras."
 
 #. (itstool) path: page/p
 #: C/user-add.page:91
@@ -21255,12 +21255,12 @@ msgstr "Klicka på <gui>Användare</gui> för att öppna panelen."
 msgid ""
 "Under <gui>Other Users</gui>, select the user whose privileges you want to "
 "change."
-msgstr ""
+msgstr "Välj under <gui>Andra användare</gui> användaren vars behörigheter du vill ändra."
 
 #. (itstool) path: item/p
 #: C/user-admin-change.page:62
 msgid "Set the <gui>Administrator</gui> switch to on."
-msgstr ""
+msgstr "Slå på <gui>Administratör</gui>."
 
 #. (itstool) path: item/p
 #: C/user-admin-change.page:65
@@ -21349,7 +21349,7 @@ msgstr "Sammanfattningsvis så låter administratörsbehörighet dig ändra vikt
 #. (itstool) path: note/title
 #: C/user-admin-explain.page:67
 msgid "What does “superuser” mean?"
-msgstr ""
+msgstr "Vad betyder ”superanvändare”?"
 
 #. (itstool) path: note/p
 #: C/user-admin-explain.page:68
@@ -21359,7 +21359,7 @@ msgid ""
 "than normal users. You might see people discussing things like <cmd>su</cmd>"
 " and <cmd>sudo</cmd>; these are programs for temporarily giving you "
 "“superuser” (administrative) privileges."
-msgstr ""
+msgstr "En användare med administratörsbehörighet kallas ibland <em>superanvändare</em>. Detta är helt enkelt för att den användaren har mer behörighet än normala användare. Du kan ibland se personer diskutera saker som <cmd>su</cmd> och <cmd>sudo</cmd>; dessa är program som tillfälligt ger dig (administratörs-)behörighet som ”superanvändare”."
 
 #. (itstool) path: section/title
 #: C/user-admin-explain.page:76
@@ -21459,7 +21459,7 @@ msgstr "Du kan ändra dina inställningar så att du loggas in automatiskt på d
 msgid ""
 "If it is a different user account that you want to log into automatically, "
 "select the account under <gui>Other Users</gui>."
-msgstr ""
+msgstr "Om det är ett annat användarkonto du vill logga in som automatiskt väljer du kontot under <gui>Andra användare</gui>."
 
 #. (itstool) path: item/p
 #: C/user-autologin.page:53
@@ -21509,7 +21509,7 @@ msgid ""
 "changing the password for a different user, you will first need to "
 "<gui>Unlock</gui> the panel and select the account under <gui>Other "
 "Users</gui>."
-msgstr ""
+msgstr "Klicka på etiketten <gui>·····</gui> intill <gui>Lösenord</gui>. Om du ändrar lösenordet för en annan användare, måste du först <gui>Låsa upp</gui> panelen och välja kontot under <gui>Andra användare</gui>."
 
 #. (itstool) path: item/p
 #: C/user-changepassword.page:84
@@ -21575,7 +21575,7 @@ msgid ""
 "If you want to edit a user other than yourself, press <gui "
 "style=\"button\">Unlock</gui> in the top right corner and type in your "
 "password when prompted. Choose the user from <gui>Other Users</gui>."
-msgstr ""
+msgstr "Om du vill redigera en annan användare än dig själv, tryck på <gui style=\"button\">Lås upp</gui> i övre högra hörnet och skriv in ditt lösenord när du blir tillfrågad. Välj användaren från <gui>Andra användare</gui>."
 
 #. (itstool) path: item/p
 #: C/user-changepicture.page:62
@@ -21583,7 +21583,7 @@ msgid ""
 "Click the pencil icon next to your name. A drop-down gallery will be shown "
 "with some stock login photos. If you like one of them, click it to use it "
 "for yourself."
-msgstr ""
+msgstr "Klicka på pennikonen intill ditt namn. Ett rullgardinsgalleri visas som har några inloggningsbilder från en bildbank. Om du tycker om någon av dem klickar du på den för att använda den för dig själv."
 
 #. (itstool) path: item/p
 #: C/user-changepicture.page:67
@@ -21632,14 +21632,14 @@ msgstr "Du behöver <link xref=\"user-admin-explain\">administratörsbehörighet
 msgid ""
 "Click on the user account that you want to delete under <gui>Other "
 "Users</gui>."
-msgstr ""
+msgstr "Klicka på användarkontot som du vill ta bort under <gui>Andra användare</gui>."
 
 #. (itstool) path: item/p
 #: C/user-delete.page:69
 msgid ""
 "Press the <gui style=\"button\">Remove User...</gui> button to delete that "
 "user account."
-msgstr ""
+msgstr "Tryck på knappen <gui style=\"button\">Ta bort användare…</gui> för att ta bort det användarkontot."
 
 #. (itstool) path: item/p
 #: C/user-delete.page:73
@@ -21724,7 +21724,7 @@ msgstr "Använd inte några ord som dyker upp i ett standarduppslagsverk på nå
 msgid ""
 "Do not use any personal information such as a date, license plate number, or"
 " any family member’s name."
-msgstr "Använd inte någon personlig information så som datum, registreringsnummer eller familjemedlemmars namn."
+msgstr "Använd inte någon personlig information såsom datum, registreringsnummer eller familjemedlemmars namn."
 
 #. (itstool) path: item/p
 #: C/user-goodpassword.page:80
@@ -21973,74 +21973,74 @@ msgid ""
 "If no tablet is detected, you’ll be asked to <gui>Please plug in or turn on "
 "your Wacom tablet</gui>. Click <gui>Bluetooth</gui> in the sidebar to "
 "connect a wireless tablet."
-msgstr ""
+msgstr "Om ingen ritplatta detekteras kommer du att bli ombedd att <gui>Anslut eller aktivera din Wacom-ritplatta</gui>. Klicka på <gui>Bluetooth</gui> i sidopanelen för att ansluta en trådlös ritplatta."
 
 #. (itstool) path: item/p
 #: C/wacom-left-handed.page:44
 msgid "Set the <gui>Left-Handed Orientation</gui> switch to on."
-msgstr ""
+msgstr "Slå på <gui>Vänsterhänt orientering</gui>."
 
 #. (itstool) path: info/desc
 #: C/wacom-map-buttons.page:20
 msgid "Assign functions to the hardware buttons on the graphics tablet."
-msgstr ""
+msgstr "Tilldela funktioner till hårdvaruknapparna på ritplattan."
 
 #. (itstool) path: page/title
 #: C/wacom-map-buttons.page:23
 msgid "Map the tablet buttons"
-msgstr ""
+msgstr "Koppla ritplattans knappar"
 
 #. (itstool) path: page/p
 #: C/wacom-map-buttons.page:25
 msgid ""
 "The hardware buttons on a tablet can be configured for various functions."
-msgstr ""
+msgstr "Hårdvaruknapparna på en ritplatta kan konfigureras för olika funktioner."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:29
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Wacom Tablet</gui>."
-msgstr ""
+msgstr "Öppna översiktsvyn <gui xref=\"shell-introduction#activities\">Aktiviteter</gui> och börja skriv <gui>Wacom-platta</gui>."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:39
 msgid "Click <gui>Map Buttons</gui>."
-msgstr ""
+msgstr "Klicka på <gui>Koppla knappar</gui>."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:42
 msgid ""
 "An on screen display shows the layout of the tablet's buttons. Press each "
 "button on the tablet and choose one of these functions:"
-msgstr ""
+msgstr "På skärmen visas ritplatteknapparnas layout. Tryck på varje knapp på ritplattan och välj en av dessa funktioner:"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:45
 msgid "<gui>Application defined</gui>"
-msgstr ""
+msgstr "<gui>Programdefinierad</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:46
 msgid "<gui>Show on-screen help</gui>"
-msgstr ""
+msgstr "<gui>Visa hjälp på skärmen</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:47
 msgid "<gui>Switch monitor</gui>"
-msgstr ""
+msgstr "<gui>Byt skärm</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:48
 msgid "<gui>Send keystroke</gui>"
-msgstr ""
+msgstr "<gui>Skicka tangenttryckning</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:52
 msgid ""
 "Click <gui>Done</gui> when each button is configured, and press "
 "<key>Esc</key> to exit."
-msgstr ""
+msgstr "Klicka på <gui>Färdig</gui> när varje knapp har konfigurerats, och tryck <key>Esc</key> för att avsluta."
 
 #. (itstool) path: info/desc
 #: C/wacom-mode.page:24
@@ -22056,14 +22056,14 @@ msgstr "Ställ in Wacom-plattans spårningsläge"
 #: C/wacom-mode.page:29
 msgid ""
 "<gui>Tablet Mode</gui> determines how the stylus is mapped to the screen."
-msgstr ""
+msgstr "<gui>Ritplatteläge</gui> avgör hur styluspennan mappas till skärmen."
 
 #. (itstool) path: item/p
 #: C/wacom-mode.page:42
 msgid ""
 "Choose between tablet (or absolute) mode and touchpad (or relative) mode. "
 "For tablet mode, switch <gui>Tablet Mode</gui> to on."
-msgstr ""
+msgstr "Välj mellan ritplatteläge (absolut) och styrplatteläge (relativt). Slå på <gui>Ritplatteläge</gui> för att få ritplatteläge."
 
 #. (itstool) path: note/p
 #: C/wacom-mode.page:47
@@ -22096,7 +22096,7 @@ msgstr "Välj en skärm"
 msgid ""
 "Next to <gui>Map to Monitor</gui>, select the monitor you wish to receive "
 "input from your graphics tablet, or choose <gui>All Displays</gui>."
-msgstr ""
+msgstr "Välj intill <gui>Mappa till skärm</gui> skärmen du önskar ska få inmatning från din ritplatta, eller välj <gui>Alla skärmar</gui>."
 
 #. (itstool) path: note/p
 #: C/wacom-multi-monitor.page:54
@@ -22111,7 +22111,7 @@ msgid ""
 "<em>force proportions</em>, “letterboxes” the drawing area on a tablet to "
 "correspond more directly to a display. For example, a 4∶3 tablet would be "
 "mapped so that the drawing area would correspond to a widescreen display."
-msgstr ""
+msgstr "Slå på <gui>Behåll bildförhållande</gui> för att matcha plattans rityta mot proportionerna på skärmen. Denna inställning, också kallad <em>tvinga proportioner</em>, ”avgränsar” ritytan på en platta till att mer direkt motsvara en bildskärm. Exempelvis skulle en 4:3-platta kunna mappas så att ritytan motsvarar en bredbildsskärm."
 
 #. (itstool) path: info/desc
 #: C/wacom-stylus.page:24
@@ -22128,7 +22128,7 @@ msgstr "Konfigurera pennan"
 msgid ""
 "There is a section containing settings specific to each stylus, with the "
 "device name (the stylus class) and diagram at the top."
-msgstr ""
+msgstr "Det finns en del som innehåller inställningar som är specifika för varje styluspenna, med enhetsnamnet (pennklassen) och diagram högst upp."
 
 #. (itstool) path: note/p
 #: C/wacom-stylus.page:42
@@ -22140,7 +22140,7 @@ msgstr "Om ingen styluspenna detekteras kommer du att bli ombedd att <gui>Förfl
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:45
 msgid "These settings can be adjusted:"
-msgstr ""
+msgstr "Dessa inställningar kan justeras:"
 
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:47
@@ -22155,14 +22155,14 @@ msgid ""
 "Button/Scroll Wheel configuration (these change to reflect the stylus). "
 "Click the menu next to each label to select one of these functions: Middle "
 "Mouse Button Click, Right Mouse Button Click, Back, or Forward."
-msgstr ""
+msgstr "Knapp/rullhjulskonfiguration (dessa ändras för att återspegla pennan). Klicka på menyn intill varje etikett för att välja en av dessa funktioner: mittenklick med musknapp, högerklick med musknapp, bakåt eller framåt."
 
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:56
 msgid ""
 "Click <gui>Test Your Settings</gui> in the header bar to pop down a "
 "sketchpad where you can test your stylus settings."
-msgstr ""
+msgstr "Klicka på <gui>Prova dina inställningar</gui> i rubrikraden för att få fram ett skissblock där du kan testa dina inställningar för styluspenna."
 
 #. (itstool) path: info/title
 #: C/wacom.page:7

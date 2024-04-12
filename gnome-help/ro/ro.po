@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Daniel Șerbănescu <daniel [at] serbanescu [dot] dk>, 2016-2017\n"
 "Language-Team: Romanian (http://app.transifex.com/endless-os/gnome-user-docs/language/ro/)\n"
@@ -5505,7 +5505,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/display-night-light.page:42
 msgid "Click <gui>Night Light</gui> to open the settings."
-msgstr ""
+msgstr "Apăsați pe <gui>Lumină nocturnă</gui> pentru a deschide configurările."
 
 #. (itstool) path: item/p
 #: C/display-night-light.page:45

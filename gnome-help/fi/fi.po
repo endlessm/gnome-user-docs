@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos+l10n@iki.fi>, 2012-2013,2015-2016\n"
 "Language-Team: Finnish (http://app.transifex.com/endless-os/gnome-user-docs/language/fi/)\n"
@@ -28,7 +28,7 @@ msgstr "Tämän työn kattaa lisenssi <_:link-1/>."
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Timo Jyrinki <timo.jyrinki@iki.fi>, 2012.\nJiri Grönroos <jiri.gronroos+l10n@iki.fi>, 2012-2021.\n\nLaunchpad Contributions:\n  Aleksi Kinnunen https://launchpad.net/~aleksi-kinnunen\n  Heikki Mäntysaari https://launchpad.net/~heikki-mantysaari\n  Jiri Grönroos https://launchpad.net/~jiri-gronroos\n  Juhani Numminen https://launchpad.net/~jsonic\n  Matthew East https://launchpad.net/~mdke\n  Saku Salo https://launchpad.net/~sos\n  Timo Jyrinki https://launchpad.net/~timo-jyrinki\n  Tomi Juntunen https://launchpad.net/~tojuntu\n  Tomi Toivio https://launchpad.net/~tomi\n  Ville Pilvio https://launchpad.net/~vpilvio\n  sampo555 https://launchpad.net/~sampo555"
+msgstr "Timo Jyrinki <timo.jyrinki@iki.fi>, 2012.\nJiri Grönroos <jiri.gronroos+l10n@iki.fi>, 2012-2022.\n\nLaunchpad Contributions:\n  Aleksi Kinnunen https://launchpad.net/~aleksi-kinnunen\n  Heikki Mäntysaari https://launchpad.net/~heikki-mantysaari\n  Jiri Grönroos https://launchpad.net/~jiri-gronroos\n  Juhani Numminen https://launchpad.net/~jsonic\n  Matthew East https://launchpad.net/~mdke\n  Saku Salo https://launchpad.net/~sos\n  Timo Jyrinki https://launchpad.net/~timo-jyrinki\n  Tomi Juntunen https://launchpad.net/~tojuntu\n  Tomi Toivio https://launchpad.net/~tomi\n  Ville Pilvio https://launchpad.net/~vpilvio\n  sampo555 https://launchpad.net/~sampo555"
 
 #. (itstool) path: credit/name
 #: C/a11y-bouncekeys.page:21 C/a11y-braille.page:17 C/a11y-contrast.page:19
@@ -2085,7 +2085,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "Suurin osa käyttäjistä ei koskaan muuta järjestelmän oletusasetuksia. Jos muutat järjestelmäasetuksia syystä tai toisesta, kuten jos ylläpidät palvelinta, ne kannattaa varmuuskopioida."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -3333,7 +3333,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/color-calibrate-screen.page:52
 msgid "Make sure your calibration device is connected to your computer."
-msgstr ""
+msgstr "Varmista, että kalibrointilaite on kytketty tietokoneeseen."
 
 #. (itstool) path: item/p
 #: C/color-calibrate-screen.page:64
@@ -9362,12 +9362,12 @@ msgstr "Ivan Stanton"
 #. (itstool) path: info/desc
 #: C/look-background.page:55
 msgid "Choose a style and set a background."
-msgstr ""
+msgstr "Valitse tyyli ja aseta taustakuva."
 
 #. (itstool) path: page/title
 #: C/look-background.page:58
 msgid "Change the appearance of your desktop"
-msgstr ""
+msgstr "Muuta tietokoneen työpöydän ulkoasua"
 
 #. (itstool) path: page/p
 #: C/look-background.page:60
@@ -9380,12 +9380,12 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/look-background.page:65
 msgid "Light or Dark Style"
-msgstr ""
+msgstr "Vaalea tai tumma tyyli"
 
 #. (itstool) path: section/p
 #: C/look-background.page:66
 msgid "To switch between light and dark desktop styles:"
-msgstr ""
+msgstr "Vaihda vaalean ja tumman työpöytätyylin välillä:"
 
 #. (itstool) path: item/p
 #: C/look-background.page:70
@@ -9404,22 +9404,22 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/look-background.page:78
 msgid "Click to choose <gui>Light</gui> or <gui>Dark</gui>."
-msgstr ""
+msgstr "Valitse napsauttamalla <gui>Vaalea</gui> tai <gui>Tumma</gui>."
 
 #. (itstool) path: item/p
 #: C/look-background.page:81
 msgid "The setting is applied immediately."
-msgstr ""
+msgstr "Asetus otetaan käyttöön välittömästi."
 
 #. (itstool) path: section/title
 #: C/look-background.page:88
 msgid "Background"
-msgstr ""
+msgstr "Taustakuva"
 
 #. (itstool) path: section/p
 #: C/look-background.page:89
 msgid "To change the image used for your background:"
-msgstr ""
+msgstr "Aseta työpöydän taustalla käytettävä kuva:"
 
 #. (itstool) path: item/p
 #: C/look-background.page:93
@@ -9678,7 +9678,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/media.page:27
 msgid "Sound and media"
-msgstr ""
+msgstr "Ääni ja media"
 
 #. (itstool) path: info/title
 #: C/media.page:31
@@ -11896,12 +11896,12 @@ msgstr ""
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "Määritä oikea tietoliikenneportti palomuuriin käyttämiäsi sovelluksia varten."
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "Yleisesti käytetyt verkkoportit"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11914,34 +11914,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "Portti"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "Kuvaus"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS, Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "Mahdollistaa järjestelmien löytää toisensa, ja kertomaan toisilleen automaattisesti tarjoamansa palvelut."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11953,66 +11953,66 @@ msgstr "Tulostaminen"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "Sallii tulostustöiden lähetyksen tulostimelle verkon yli."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "Sallii tulostimen jaon muita käyttäjiä varten verkon yli."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "Tilan tiedotus"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
 msgid ""
 "Allows you to advertise your instant messaging status to other people on the"
 " network, such as “online” or “busy”."
-msgstr ""
+msgstr "Sallii pikaviestintilasi esittämisen verkossa muille käyttäjille (esimerkiksi “Tavoitettavissa” tai “Varattu”)."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "Etätyöpöytä"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "Sallii työpöytäsi jaon verkon kautta etäyhteyttä varten."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "Musiikkijako (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "Sallii musiikkikirjaston jaon verkon kautta."
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -18038,7 +18038,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "Käyttäjävalikko"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18253,7 +18253,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-top-bar-classic.png' "
 "md5='8eecf39f87d7cda9ee060a108114a624'"
-msgstr ""
+msgstr "external ref='figures/shell-top-bar-classic.png' md5='8eecf39f87d7cda9ee060a108114a624'"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:79
@@ -18543,7 +18543,7 @@ msgstr ""
 msgid ""
 "Click the system menu in the top-right corner to manage your system settings"
 " and your computer."
-msgstr ""
+msgstr "Napsauta oikeassa yläkulmassa olevaa valikkoa hallitaksesi tietokoneen asetuksia."
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:260
@@ -18615,7 +18615,7 @@ msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus"
 " on the task at hand without distractions."
-msgstr ""
+msgstr "Gnome sisältää erilaisen lähestymistavan avoinna olevien ikkunoiden välillä vaihtamiseen. Tarkoitus on tehostaa työskentelyä vähentämällä mahdollisia häiriötekijöitä."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:311
@@ -20431,7 +20431,7 @@ msgstr "Langattomat yhteydet (wifi)"
 msgid ""
 "Airplane mode is on. Wireless networking is disabled when airplane mode is "
 "on."
-msgstr ""
+msgstr "Lentokonetila on päällä. Langaton verkko on pois käytöstä, kun lentokonetila on päällä."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:299
@@ -20629,7 +20629,7 @@ msgstr "Lue lisää kuvakaappauksista ja näyttölähetyksistä."
 msgid ""
 "Type characters not found on your keyboard, including foreign alphabets, "
 "mathematical symbols, emoji, and dingbats."
-msgstr ""
+msgstr "Kirjoita erikoismerkkejä, joita ei löydy näppäimistöstäsi, kuten ulkomaalaisia aakkosia, matemaattisia symboleja, emojeja ja muita erikoismerkkejä."
 
 #. (itstool) path: page/title
 #: C/tips-specialchars.page:42
@@ -20670,12 +20670,12 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/tips-specialchars.page:63
 msgid "Emoji"
-msgstr ""
+msgstr "Emoji"
 
 #. (itstool) path: steps/title
 #: C/tips-specialchars.page:65
 msgid "Insert emoji"
-msgstr ""
+msgstr "Syötä emoji"
 
 #. (itstool) path: item/p
 #: C/tips-specialchars.page:67
@@ -20692,7 +20692,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/tips-specialchars.page:74
 msgid "Select an emoji to insert."
-msgstr ""
+msgstr "Valitse lisättävä emoji."
 
 #. (itstool) path: section/title
 #: C/tips-specialchars.page:80
@@ -22000,7 +22000,7 @@ msgstr ""
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Wacom Tablet</gui>."
-msgstr ""
+msgstr "Avaa <gui xref=\"shell-introduction#activities\">Toiminnot</gui>-yleisnäkymä ja ala kirjoittamaan <gui>Wacom-piirtopöydät</gui>."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:39

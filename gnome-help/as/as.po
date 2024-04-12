@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>, 2013-2014\n"
 "Language-Team: Assamese (http://app.transifex.com/endless-os/gnome-user-docs/language/as/)\n"
@@ -2084,7 +2084,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "বেছিৰভাগ মানুহে ইনস্টলেষণৰ সময়ত সৃষ্টি হোৱা চিস্টেম সংহতিসমূহ পৰিবৰ্তন নকৰে। যদি আপুনি কিবা কাৰণত চিস্টেম সংহতিসমূহ স্বনিৰ্বাচন কৰে, অথবা আপুনি আপোনাৰ কমপিউটাৰক এটা চাৰ্ভাৰ ৰূপে ব্যৱহাৰ কৰে, তেন্তে আপুনি এই সংহতিসমূহ বেকআপ কৰিব পাৰে।"
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -11895,12 +11895,12 @@ msgstr ""
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "এটা প্ৰগ্ৰামক আপোনাৰ ফায়াৰৱালৰ সৈতে নেটৱাৰ্ক অভিগম সামৰ্থবান/অসামৰ্থবান কৰিবলৈ আপুনি সঠিক নেটৱাৰ্ক পৰ্ট ধাৰ্য্য কৰিব লাগিব।"
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "সাধাৰণতে-ব্যৱহৃত নেটৱাৰ্ক পৰ্টসমূহ"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11913,34 +11913,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "পৰ্ট"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "বিৱৰণ"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS, Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "চিস্টেমসমূহক আন চিস্টেমসমূহ সন্ধান কৰাৰ, আৰু সিহতে প্ৰদান কৰা সেৱাসমূহৰ বিৱৰণ দিয়াৰ অনুমতি দিয়ক, আপুনি বিৱৰণসমূহ হস্তচালিতভাৱে ধাৰ্য্য কৰাৰ প্ৰয়োজনীয়তা নহোৱাকৈ।"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11952,27 +11952,27 @@ msgstr "প্ৰিন্টিং"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "আপোনাক নেটৱাৰ্কৰ সহায়ত এটা প্ৰিন্টাৰলৈ প্ৰিন্ট কাৰ্য্য পঠোৱাৰ অনুমতি দিয়ে।"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "আপোনাক আপোনাৰ প্ৰিন্ৰাক নেটৱাৰ্কত অন্যৰ সৈতে অংশীদাৰী কৰাৰ অনুমতি দিয়ে।"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "উপস্থিতি"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
@@ -11984,34 +11984,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "দূৰৱৰ্তী ডেস্কটপ"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "আপোনাৰ ডেস্কটপ অংশীদাৰী কৰাৰ অনুমতি দিয়ে যাতে অন্য মানুহে ইয়াক দৰ্শন কৰিব পাৰে অথবা দূৰৱৰ্তী সহায় প্ৰদান কৰিব পাৰে।"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "সংগিত অংশীদাৰী (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "নেটৱাৰ্কত অন্যৰ সৈতে আপোনাৰ সংগিত লাইব্ৰেৰী অংশীদাৰী কৰাৰ অনুমতি দিয়ে।"
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -18037,7 +18037,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "ব্যৱহাৰকাৰী মেনু"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18587,7 +18587,7 @@ msgstr "<link xref=\"shell-lockscreen\">পৰ্দা লকৰ বিষয়�
 #: C/shell-introduction.page:294 C/shell-introduction.page:299
 #: C/shell-introduction.page:318
 msgid "Dash"
-msgstr ""
+msgstr "ডেশ্ব"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When

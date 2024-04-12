@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Serbian (Latin) (http://app.transifex.com/endless-os/gnome-user-docs/language/sr@latin/)\n"
@@ -2083,7 +2083,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "Većina ljudi nikada ne menja podešavanja sistema koja su stvorena za vreme instalacije. Ako iz nekog razloga prilagodite podešavanja sistema, ili ako koristite računar kao server, onda ćete možda želeti da napravite rezervu tih podešavanja."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -11894,12 +11894,12 @@ msgstr ""
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "Morate da odredite pravi mrežni priključak da uključite/isključite mrežni pristup za program sa vašom mrežnom barijerom."
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "Uopšteno korišćeni mrežni priključci"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11912,34 +11912,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "Priključak"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "Opis"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS, Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "Omogućava sistemima da se pronađu, i opisuje koje usluge nude, a da vi ne morate ručno da određujete pojedinosti."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11951,66 +11951,66 @@ msgstr "Štampanje"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "Omogućava vam da šaljete poslove štampanja štampačima na mreži."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "Omogućava vam da delite štampač sa drugima na mreži."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "Prisutnost"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
 msgid ""
 "Allows you to advertise your instant messaging status to other people on the"
 " network, such as “online” or “busy”."
-msgstr ""
+msgstr "Omogućava vam da obavestite druge na mreži o vašem stanju trenutnih poruka, kao što je „na vezu“ ili „zauzet“."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "Udaljena radna površ"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "Omogućava vam da delite vašu radnu površ tako da je drugi mogu pregledati ili obezbediti udaljenu podršku."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "Deljenje muzike (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "Omogućava vam da delite vašu muzičku biblioteku sa drugima na vašoj mreži."
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -18036,7 +18036,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "Korisnički izbornik"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18541,7 +18541,7 @@ msgstr ""
 msgid ""
 "Click the system menu in the top-right corner to manage your system settings"
 " and your computer."
-msgstr ""
+msgstr "Kliknite na sistemski izbornik u gornjem desnom uglu da upravljate sistemskim podešavanjima i vašim računarom."
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:260
@@ -18613,7 +18613,7 @@ msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus"
 " on the task at hand without distractions."
-msgstr ""
+msgstr "Gnoma odlikuje drugačiji pristup prebacivanja prozora nego što je to stalno vidljiv spisak prozora koji nalazimo u drugim okruženjima radne površi. Ovo vam dopušta da se usredsredite na zadatak na kome radite bez ometanja."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:311
@@ -21998,7 +21998,7 @@ msgstr ""
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Wacom Tablet</gui>."
-msgstr ""
+msgstr "Otvorite pregled <gui xref=\"shell-introduction#activities\">Aktivnosti</gui> i počnite da kucate <gui>Vakom tablica</gui>."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:39

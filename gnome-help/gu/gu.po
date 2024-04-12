@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: , 2013-2014\n"
 "Language-Team: Gujarati (http://app.transifex.com/endless-os/gnome-user-docs/language/gu/)\n"
@@ -2084,7 +2084,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "મોટાભાગનાં માણસો સિસ્ટમ સુયોજનોને કદી બદલતા નથી કે જે સ્થાપન દરમ્યાન બનાવેલ છે. જો તમે અમુક કારણનાં લીધે તમારાં સિસ્ટમ સુયોજનોને કસ્ટમાઇઝ કરો તો, અથવા જો તમે તમારાં કમ્પ્યૂટરને સર્વર તરીકે વાપરો તો, પછી તમે આ સુયોજનો નો બેકઅપ લેવાની ઇચ્છા રાખી શકો છો."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -11895,12 +11895,12 @@ msgstr ""
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "તમારાં ફાયરવોલ સાથે કાર્યક્રમ માટે નેટવર્ક પ્રવેશને સક્રિય/નિષ્ક્રિય કરવા માટે બરાબર નેટવર્ક પોર્ટને સ્પષ્ટ કરવાની તમારે જરૂર છે."
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "સામાન્ય રીતે વાપરેલ નેટવર્ક પોર્ટ"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11913,34 +11913,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "પોર્ટ"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "વર્ણન"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS, Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "એકબીજાને શોધવા માટે સિસ્ટમોને પરવાનગી આપે છે, અને કઇ સેવાઓ તેઓ માંગણી કરે છે તેનું વર્ણન કરો, તમે જાતે વિગતોને સ્પષ્ટ કર્યા વગર."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11952,27 +11952,27 @@ msgstr "છાપી રહ્યા છે"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "નેટવર્ક પર પ્રિન્ટરમાં પ્રિન્ટ કાર્યને મોકલવા માટે તમને પરવાનગી આપે છે."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "નેટવર્ક પર બીજા લોકો સાથે તમારાં પ્રિન્ટરને વહેંચવા તમને પરવાનગી આપે છે."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "હાજરી"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
@@ -11984,34 +11984,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "દૂરસ્થ ડેસ્કટોપ"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "તમારાં ડેસ્કટોપને વહેંચવા માટે તમને પરવાનગી આપે છે તેથી બીજા લોકો તેને જોઇ શકે છે અથવા દૂરસ્થ મદદકર્તાને પૂરા પાડે છે."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "સંગીત વહેંચણી (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "તમારાં નેટવર્ક પર બીજાઓ માટે તમારી સંગીત લાઇબ્રેરીને વહેંચવા માટે તમને પરવાનગી આપે છે."
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -18037,7 +18037,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "વપરાશકર્તા મેનુ"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18587,7 +18587,7 @@ msgstr "<link xref=\"shell-lockscreen\">તાળુ સ્ક્રીન વ�
 #: C/shell-introduction.page:294 C/shell-introduction.page:299
 #: C/shell-introduction.page:318
 msgid "Dash"
-msgstr ""
+msgstr "ડૅશ"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18614,7 +18614,7 @@ msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus"
 " on the task at hand without distractions."
-msgstr ""
+msgstr "બીજા ડેસ્કટોપ પર્યાવરણમાં શોધેલ કાયમી દૃશ્યમાન વિન્ડો યાદી કરતા વિન્ડોને બદલવા માટે GNOME લક્ષણોનો વિવિધ હેતુ છે. આ અવરોધ વગર તમને કાર્ય પર પ્રકાશિત થવા દો."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:311

@@ -1,7 +1,7 @@
 # 
 # Translators:
 # Balázs Meskó <mesko.balazs at fsf dot hu>, 2021-2022
-# Balázs Úr <ur.balazs at fsf dot hu>, 2016,2019,2021-2022
+# Balázs Úr <ur.balazs at fsf dot hu>, 2016,2019,2021-2023
 # Balázs Úr <urbalazs at gmail dot com>, 2016
 # Gabor Kelemen <kelemeng at gnome dot hu>, 2011-2019
 # Griechisch Erika <griechisch.erika at gmail dot com>, 2011
@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Balázs Meskó <mesko.balazs at fsf dot hu>, 2021-2022\n"
 "Language-Team: Hungarian (http://app.transifex.com/endless-os/gnome-user-docs/language/hu/)\n"
@@ -37,7 +37,7 @@ msgstr "Ez a munka a <_:link-1/> feltételei szerint használható."
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Griechisch Erika <griechisch.erika at gmail dot com>, 2011\nHammer Attila <hammera at pickup dot hu> 2014\nKelemen Gábor <kelemeng at gnome dot hu>, 2011, 2012, 2013, 2014, 2015, 2016, 2017\nKucsebár Dávid <kucsdavid at gmail dot com>, 2011\nLakatos 'Whisperity' Richárd <whisperity at gmail dot com>, 2011\nLukács Bence <lukacs.bence1 at gmail dot com>, 2011\nMeskó Balázs <mesko dot balazs at fsf dot hu>, 2021, 2022\nNagy Zoltán <dzodzie at gmail dot com>, 2011\nÚr Balázs <ur dot balazs at fsf dot hu>, 2016, 2019, 2021, 2022"
+msgstr "Bojtos Péter <ptr at ulx dot hu>, 2015\nGriechisch Erika <griechisch.erika at gmail dot com>, 2011\nHammer Attila <hammera at pickup dot hu> 2014\nKelemen Gábor <kelemeng at gnome dot hu>, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019\nKucsebár Dávid <kucsdavid at gmail dot com>, 2011\nLakatos 'Whisperity' Richárd <whisperity at gmail dot com>, 2011\nLukács Bence <lukacs.bence1 at gmail dot com>, 2011\nMeskó Balázs <mesko dot balazs at fsf dot hu>, 2021, 2022\nNagy Zoltán <dzodzie at gmail dot com>, 2011\nÚr Balázs <ur dot balazs at fsf dot hu>, 2016, 2019, 2021, 2022, 2023"
 
 #. (itstool) path: credit/name
 #: C/a11y-bouncekeys.page:21 C/a11y-braille.page:17 C/a11y-contrast.page:19
@@ -821,7 +821,7 @@ msgstr "A jobb egérgombbal való kattintást a bal egérgomb lenyomva tartásá
 msgid ""
 "In the <gui>Click Assist</gui> window, switch the <gui>Simulated Secondary "
 "Click</gui> switch to on."
-msgstr "Kapcsolja be a <gui>Szimulált másodlagos kattintás<gui> kapcsolót a <gui>Kattintássegéd</gui> ablakon."
+msgstr "Kapcsolja be a <gui>Szimulált másodlagos kattintás</gui> kapcsolót a <gui>Kattintássegéd</gui> ablakon."
 
 #. (itstool) path: page/p
 #: C/a11y-right-click.page:68
@@ -1076,12 +1076,12 @@ msgstr "A számítógép beállítható, hogy hangjelzést adjon gyorsbillentyű
 msgid ""
 "Enable visual alerts to flash the screen or window when an alert sound is "
 "played."
-msgstr "A vizuális figyelmeztetésekkel a figyelmeztető hang helyett felvillan a képernyő vagy az ablak."
+msgstr "Vizuális riasztások engedélyezése a képernyő vagy az ablak villogásához, ha riasztáshang kerül lejátszásra."
 
 #. (itstool) path: page/title
 #: C/a11y-visualalert.page:40
 msgid "Flash the screen for alert sounds"
-msgstr "Képernyő felvillantása figyelmeztető hangjelzéskor"
+msgstr "Képernyő felvillantása a riasztáshangoknál"
 
 #. (itstool) path: page/p
 #: C/a11y-visualalert.page:42
@@ -1090,7 +1090,7 @@ msgid ""
 "and events. If you have a hard time hearing these sounds, you can have "
 "either the entire screen or your current window visually flash whenever the "
 "alert sound is played."
-msgstr "A számítógép bizonyos üzenetek és események esetén lejátszik egy egyszerű hangot. Ha nem hallja ezeket a hangokat, akkor beállíthatja, hogy a teljes képernyő vagy az aktuális ablak felvillanjon a figyelmeztető hang lejátszásakor."
+msgstr "A számítógép bizonyos üzenetek és események esetén lejátszik egy egyszerű hangot. Ha nem hallja ezeket a hangokat, akkor beállíthatja, hogy a teljes képernyő vagy az aktuális ablak felvillanjon a riasztáshang lejátszásakor."
 
 #. (itstool) path: page/p
 #: C/a11y-visualalert.page:47
@@ -1098,7 +1098,7 @@ msgid ""
 "This can also be useful if you’re in an environment where you need your "
 "computer to be silent, such as in a library. See <link xref=\"sound-"
 "alert\"/> to learn how to mute the alert sound, then enable visual alerts."
-msgstr "Ez akkor is hasznos, ha olyan környezetben van, ahol a számítógépnek csendesnek kell lennie, például a könyvtárban. A figyelmeztető hang elnémításával kapcsolatban nézze meg a <link xref=\"sound-alert\"/> fejezetet, majd engedélyezze a vizuális figyelmeztetéseket."
+msgstr "Ez akkor is hasznos, ha olyan környezetben van, ahol a számítógépnek csendesnek kell lennie, például a könyvtárban. A riasztáshang elnémításával kapcsolatban nézze meg a <link xref=\"sound-alert\"/> fejezetet, majd engedélyezze a vizuális figyelmeztetéseket."
 
 #. (itstool) path: item/p
 #: C/a11y-visualalert.page:59
@@ -2094,7 +2094,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "A legtöbben nem módosítják a telepítéskor létrehozott rendszerbeállításokat. Ha rendszerét személyre szabja, vagy számítógépét kiszolgálóként használja, akkor ezeket a beállításokat is mentse."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -2274,12 +2274,12 @@ msgstr "Paul W. Frields"
 #. (itstool) path: info/desc
 #: C/bluetooth-connect-device.page:52
 msgid "Pair Bluetooth devices."
-msgstr "Bluetooth eszközök párosítása."
+msgstr "Bluetooth-eszközök párosítása."
 
 #. (itstool) path: page/title
 #: C/bluetooth-connect-device.page:55
 msgid "Connect your computer to a Bluetooth device"
-msgstr "Csatlakoztassa számítógépét Bluetooth eszközökhöz"
+msgstr "Csatlakoztassa számítógépét Bluetooth-eszközökhöz"
 
 #. (itstool) path: page/p
 #: C/bluetooth-connect-device.page:57
@@ -2317,7 +2317,7 @@ msgid ""
 "Make the other Bluetooth device <link xref=\"bluetooth-"
 "visibility\">discoverable or visible</link> and place it within 5-10 meters "
 "(about 16-33 feet) of your computer."
-msgstr "Tegye a másik Bluetooth eszközt <link xref=\"bluetooth-visibility\">felfedezhetővé vagy láthatóvá</link>, és helyezze a számítógép 5-10 méteres körzetén belülre."
+msgstr "Tegye a másik Bluetooth-eszközt <link xref=\"bluetooth-visibility\">felfedezhetővé vagy láthatóvá</link>, és helyezze a számítógép 5-10 méteres körzetén belülre."
 
 #. (itstool) path: item/p
 #: C/bluetooth-connect-device.page:79
@@ -2373,7 +2373,7 @@ msgstr "A Bluetooth ikon a felső sávon"
 msgid ""
 "When one or more Bluetooth devices are connected, the Bluetooth icon appears"
 " in the system status area."
-msgstr "Ha legalább egy Bluetooth eszköz csatlakozik, akkor megjelenik a Bluetooth ikon a rendszerállapot területen."
+msgstr "Ha legalább egy Bluetooth-eszköz csatlakozik, akkor megjelenik a Bluetooth ikon a rendszerállapot területen."
 
 #. (itstool) path: credit/name
 #: C/bluetooth-device-specific-pairing.page:10
@@ -2401,7 +2401,7 @@ msgstr "Még ha meg is találja az eszköz leírását, akkor sem biztos, hogy e
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:27
 msgid "PlayStation 5 joypads"
-msgstr ""
+msgstr "PlayStation 5 játékvezérlő"
 
 #. (itstool) path: item/p
 #: C/bluetooth-device-specific-pairing.page:28
@@ -2409,7 +2409,7 @@ msgid ""
 "Holding the <_:media-1/> button, press the <_:media-2/> button until the "
 "light bar is blinking to make it visible and pair it like any other "
 "Bluetooth device."
-msgstr ""
+msgstr "A <_:media-1/> gomb nyomva tartása mellett nyomja meg a <_:media-2/> gombot, amíg a fénysáv villog, hogy láthatóvá tegye, és más Bluetooth-eszközhöz hasonlóan párosítsa."
 
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:34
@@ -2422,7 +2422,7 @@ msgid ""
 "Using the <_:media-1/> and “Share” button combination to pair the joypad can"
 " also be used to make the joypad visible and pair it like any other "
 "Bluetooth device."
-msgstr ""
+msgstr "A játékvezérlő párosításához a <_:media-1/> és a „Share” gombkombináció is használható, hogy láthatóvá tegye a játékvezérlőt, és más Bluetooth-eszközhöz hasonlóan párosítsa."
 
 #. (itstool) path: item/p
 #: C/bluetooth-device-specific-pairing.page:38
@@ -2432,7 +2432,7 @@ msgid ""
 " get asked whether to set those joypads up without needing to press the "
 "<_:media-1/> button. Unplug them and press the <_:media-2/> to use them over"
 " Bluetooth."
-msgstr ""
+msgstr "Ezek az eszközök „kábeles párosítást” is használhatnak. Dugja be a játékvezérlőt USB-n keresztül, tartsa nyitva a <gui>Bluetooth beállításokat</gui>, és legyen bekapcsolva a Bluetooth. A <_:media-1/> gomb megnyomása nélkül megkérdezi, hogy beállítsa-e a játékvezérlőt. Húzza ki, majd nyomja meg a <_:media-2/> gombot, hogy Bluetoothon keresztül használja."
 
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:47
@@ -2446,7 +2446,7 @@ msgid ""
 "<gui>Bluetooth Settings</gui> opened, and Bluetooth turned on. After "
 "pressing the <_:media-1/> button, you will get asked whether to set those "
 "joypads up. Unplug them and <_:media-2/> button to use them over Bluetooth."
-msgstr ""
+msgstr "Ezek az eszközök „kábeles párosítást” használnak. Dugja be a játékvezérlőt USB-n keresztül, tartsa nyitva a <gui>Bluetooth beállításokat</gui>, és legyen bekapcsolva a Bluetooth. A <_:media-1/> gomb megnyomása után megkérdezi, hogy beállítsa-e a játékvezérlőt. Húzza ki, majd nyomja meg a <_:media-2/> gombot, hogy Bluetoothon keresztül használja."
 
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:56
@@ -2474,7 +2474,7 @@ msgid ""
 "note that some software like console emulators will want direct access to "
 "the remotes, and, in those cases, you should not set them up in the "
 "Bluetooth panel. Refer to the application’s manual for instructions."
-msgstr ""
+msgstr "A párosítási folyamat megkezdéséhez használja az akkumulátorrekeszben található vörös „Sync” gombot. Más billentyűkombinációk nem jegyzik meg a párosítási információkat, így hamarosan újra meg kellene tennie. Vegye figyelembe azt is, hogy egyes szoftverek – például konzolemulátorok – közvetlen hozzáférést akarnak majd a távirányítókhoz, így ezekben az esetekben ne használja a Bluetooth panelt. Az utasításokért kövesse az alkalmazás kézikönyvét."
 
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:70
@@ -2741,7 +2741,7 @@ msgstr "Nyissa meg a <gui xref=\"shell-introduction#systemmenu\">rendszer menüt
 #. (itstool) path: item/p
 #: C/bluetooth-turn-on-off.page:88
 msgid "Select <gui><_:media-1/> Bluetooth</gui>."
-msgstr ""
+msgstr "Válassza a <gui><_:media-1/> Bluetooth</gui> elemet."
 
 #. (itstool) path: note/p
 #: C/bluetooth-turn-on-off.page:94
@@ -2836,7 +2836,7 @@ msgstr "A találkozók megjelenítéséhez:"
 #. (itstool) path: item/p
 #: C/clock-calendar.page:54
 msgid "Click on the clock on the top bar."
-msgstr "Kattintson az órára a felső sávban."
+msgstr "Kattintson az órára a felső sávon."
 
 #. (itstool) path: item/p
 #: C/clock-calendar.page:57
@@ -2886,7 +2886,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-appts.png' "
 "md5='fb704d1404070c80b855e98b77a3a0e0'"
-msgstr ""
+msgstr "external ref='figures/shell-appts.png' md5='fb704d1404070c80b855e98b77a3a0e0'"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -2898,7 +2898,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-appts-classic.png' "
 "md5='ab5a3204968386532475cd6aac34ac14'"
-msgstr ""
+msgstr "external ref='figures/shell-appts-classic.png' md5='ab5a3204968386532475cd6aac34ac14'"
 
 #. (itstool) path: info/desc
 #: C/clock-set.page:32
@@ -3020,7 +3020,7 @@ msgstr "Világóra hozzáadásához:"
 #. (itstool) path: item/p
 #: C/clock-world.page:39
 msgid "Click the clock on the top bar."
-msgstr "Kattintson az órára a felső sávban."
+msgstr "Kattintson az órára a felső sávon."
 
 #. (itstool) path: item/p
 #: C/clock-world.page:42
@@ -5420,7 +5420,7 @@ msgstr ""
 msgid ""
 "Click on each monitor in the list and select the orientation, resolution or "
 "scale, and refresh rate."
-msgstr ""
+msgstr "Kattintson az egyes monitorokra a listában, és válassz ki a tájolást, a felbontást vagy a méretezést, valamint a frissítési gyakoriságot."
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:119 C/look-resolution.page:72
@@ -5462,7 +5462,7 @@ msgid ""
 "to a docked laptop with the lid closed, the other monitor can be switched "
 "off. In the list, click on the monitor you want to disable, and turn the "
 "switch to off."
-msgstr ""
+msgstr "Ha csak egy kijelzőre van szükség, például egy lehajtott fedelű, dokkolt laptophoz csatlakoztatott külső monitorra, akkor a másik monitor kikapcsolható. Kattintson a listában a letiltani kívánt monitorra, és kapcsolja ki a kapcsolót."
 
 #. (itstool) path: section/title
 #: C/display-dual-monitors.page:147
@@ -5514,7 +5514,7 @@ msgstr "A számítógép monitora kék fényt bocsájt ki, amely sötétedés ut
 #. (itstool) path: item/p
 #: C/display-night-light.page:42
 msgid "Click <gui>Night Light</gui> to open the settings."
-msgstr ""
+msgstr "Kattintson az <gui>Éjszakai fény</gui> elemre a beállítások megnyitásához."
 
 #. (itstool) path: item/p
 #: C/display-night-light.page:45
@@ -5870,7 +5870,7 @@ msgstr "Egy kattintással válassza ki a másolni kívánt fájlt."
 msgid ""
 "Right-click and select <gui>Copy</gui>, or press "
 "<keyseq><key>Ctrl</key><key>C</key></keyseq>."
-msgstr ""
+msgstr "Kattintson a jobb egérgombbal, és válassza a <gui>Másolás</gui> menüpontot, vagy nyomja meg a <keyseq><key>Ctrl</key><key>C</key></keyseq> billentyűkombinációt."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:51
@@ -5884,7 +5884,7 @@ msgid ""
 "Right-click and select <gui>Paste</gui> to finish copying the file, or press"
 " <keyseq><key>Ctrl</key><key>V</key></keyseq>. There will now be a copy of "
 "the file in the original folder and the other folder."
-msgstr ""
+msgstr "Kattintson a jobb egérgombbal, és válassza a <gui>Beillesztés</gui> menüpontot a fájl másolásának befejezéséhez, vagy nyomja meg a <keyseq><key>Ctrl</key><key>V</key></keyseq> billentyűkombinációt. A fájlból ezután lesz egy példány az eredeti mappában és a másik mappában is."
 
 #. (itstool) path: steps/title
 #: C/files-copy.page:60
@@ -5901,7 +5901,7 @@ msgstr "Egy kattintással válassza ki az áthelyezni kívánt fájlt."
 msgid ""
 "Right-click and select <gui>Cut</gui>, or press "
 "<keyseq><key>Ctrl</key><key>X</key></keyseq>."
-msgstr ""
+msgstr "Kattintson a jobb egérgombbal, és válassza a <gui>Kivágás</gui> menüpontot, vagy nyomja meg a <keyseq><key>Ctrl</key><key>X</key></keyseq> billentyűkombinációt."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:64
@@ -5914,7 +5914,7 @@ msgid ""
 "Right-click and and select <gui>Paste</gui> to finish moving the file, or "
 "press <keyseq><key>Ctrl</key><key>V</key></keyseq>. The file will be taken "
 "out of its original folder and moved to the other folder."
-msgstr ""
+msgstr "Kattintson a jobb egérgombbal, és válassza a <gui>Beillesztés</gui> menüpontot a fájl áthelyezésének befejezéséhez, vagy nyomja meg a <keyseq><key>Ctrl</key><key>V</key></keyseq> billentyűkombinációt. A fájl az eredeti mappából eltűnik, és áthelyezésre kerül a másik mappába."
 
 #. (itstool) path: steps/title
 #: C/files-copy.page:72
@@ -5936,7 +5936,7 @@ msgid ""
 "<keyseq><key>Ctrl</key><key>N</key></keyseq>) to open a second window. In "
 "the new window, navigate to the folder where you want to move or copy the "
 "file."
-msgstr ""
+msgstr "Nyomja meg az ablak jobb felső sarkéban lévő menü gombot, és válassza az <gui style=\"menuitem\">Új ablak</gui> menüpontot (vagy nyomja meg a <keyseq><key>Ctrl</key><key>N</key></keyseq> billentyűkombinációt) egy második ablak megnyitásához. Az új ablakban nyissa meg azt a mappát, amelybe a fájlt át szeretné helyezni vagy másolni."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:81
@@ -6154,7 +6154,7 @@ msgid ""
 "select <gui style=\"menuitem\">Show Hidden Files</gui>, or press "
 "<keyseq><key>Ctrl</key><key>H</key></keyseq>. You will see all hidden files,"
 " along with regular files that are not hidden."
-msgstr ""
+msgstr "Ha az összes rejtett fájlt látni szeretné egy mappában, akkor lépjen be a mappába, és nyomja meg az ablak jobb felső sarkában lévő menü gombot, majd válassza a <gui style=\"menuitem\">Rejtett fájlok megjelenítése</gui> menüpontot, vagy nyomja meg a <keyseq><key>Ctrl</key><key>H</key></keyseq> billentyűkombinációt. Ekkor minden rejtett fájl megjelenik a nem rejtettekkel együtt."
 
 #. (itstool) path: section/p
 #: C/files-hidden.page:57
@@ -6163,7 +6163,7 @@ msgid ""
 "the top-right corner of the window and switch off <gui "
 "style=\"menuitem\">Show Hidden Files</gui>, or press "
 "<keyseq><key>Ctrl</key><key>H</key></keyseq> again."
-msgstr ""
+msgstr "Ezen fájlok ismételt elrejtéséhez nyomja meg az ablak jobb felső sarkában lévő menü gombot, és kapcsolja ki a <gui style=\"menuitem\">Rejtett fájlok megjelenítése</gui> menüpontot, vagy nyomja meg újra a <keyseq><key>Ctrl</key><key>H</key></keyseq> billentyűkombinációt."
 
 #. (itstool) path: section/title
 #: C/files-hidden.page:64
@@ -6180,7 +6180,7 @@ msgid ""
 " rename it so that it does not have a <file>.</file> in front of its name. "
 "For example, to unhide a file called <file>.example.txt</file>, you should "
 "rename it to <file>example.txt</file>."
-msgstr ""
+msgstr "Egy fájl elrejtésének megszüntetéséhez nyissa meg a rejtett fájlt tartalmazó mappát. Nyomja meg az ablak jobb felső sarkában lévő menü gombot, és válassza a <gui style=\"menuitem\">Rejtett fájlok megjelenítése</gui> menüpontot, vagy nyomja meg a <keyseq><key>Ctrl</key><key>H</key></keyseq> billentyűkombinációt. Ezután keresse meg a rejtett fájlt, és nevezze át, hogy ne legyen <file>.</file> a neve előtt. Például egy <file>.példa.txt</file> nevű fájl elrejtésének megszüntetéséhez nevezze azt át <file>példa.txt</file>-re."
 
 #. (itstool) path: section/p
 #: C/files-hidden.page:73
@@ -6189,7 +6189,7 @@ msgid ""
 "top-right corner of the window and switch off <gui style=\"menuitem\">Show "
 "Hidden Files</gui>, or press <keyseq><key>Ctrl</key><key>H</key></keyseq> to"
 " hide any other hidden files again."
-msgstr ""
+msgstr "Miután átnevezte a fájlt, nyomja meg az ablak jobb felső sarkában lévő menü gombot, és kapcsolja ki a <gui style=\"menuitem\">Rejtett fájlok megjelenítése</gui> menüpontot, vagy nyomja meg a <keyseq><key>Ctrl</key><key>H</key></keyseq> billentyűkombinációt a többi rejtett fájl ismételt elrejtéséhez."
 
 #. (itstool) path: note/p
 #: C/files-hidden.page:78
@@ -6450,7 +6450,7 @@ msgstr "Kattintson a <gui>Kuka</gui> elemre az oldalsávon. Ha nem látja az old
 msgid ""
 "If your deleted file is there, click on it and select <gui>Restore From "
 "Trash</gui>. It will be restored to the folder from where it was deleted."
-msgstr ""
+msgstr "Ha a törölt fájl ott van, akkor kattintson rá, és válassza a <gui>Visszaállítás a Kukából</gui> menüpontot. A fájl visszaállításra kerül abba a mappába, amelyből törölve lett."
 
 #. (itstool) path: page/p
 #: C/files-recover.page:58
@@ -8906,7 +8906,7 @@ msgstr "Képernyőképek"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:281
 msgid "Save a screenshot of a window"
-msgstr ""
+msgstr "Képernyőkép mentése egy ablakról"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:282 C/screen-shot-record.page:207
@@ -8917,7 +8917,7 @@ msgstr "<keyseq><key>Alt</key><key>Print</key></keyseq>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:285
 msgid "Save a screenshot of the entire screen"
-msgstr ""
+msgstr "Képernyőkép mentése a teljes képernyőről"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:286 C/screen-shot-record.page:211
@@ -8928,7 +8928,7 @@ msgstr "<keyseq><key>Shift</key><key>Print</key></keyseq>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:289
 msgid "Launch the screenshot tool"
-msgstr ""
+msgstr "Képernyőkép-eszköz indítása"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:290 C/shell-keyboard-shortcuts.page:167
@@ -9286,7 +9286,7 @@ msgstr "Egyéni gyorsbillentyűk"
 msgid ""
 "To create your own application keyboard shortcut in the <gui>Keyboard</gui> "
 "settings:"
-msgstr "Saját alkalmazás-gyorsbillentyű létrehozásához a <app>Billentyűzet</app> beállításai alatt:"
+msgstr "Saját alkalmazás-gyorsbillentyű létrehozásához a <gui>Billentyűzet</gui> beállításai alatt:"
 
 #. (itstool) path: item/p
 #: C/keyboard-shortcuts-set.page:482
@@ -9371,12 +9371,12 @@ msgstr "Ivan Stanton"
 #. (itstool) path: info/desc
 #: C/look-background.page:55
 msgid "Choose a style and set a background."
-msgstr ""
+msgstr "Egy stílus kiválasztása és egy háttér beállítása."
 
 #. (itstool) path: page/title
 #: C/look-background.page:58
 msgid "Change the appearance of your desktop"
-msgstr ""
+msgstr "Az asztala megjelenésének módosítása"
 
 #. (itstool) path: page/p
 #: C/look-background.page:60
@@ -9384,51 +9384,51 @@ msgid ""
 "You can change the look of things that appear on the screen by setting the "
 "style preference to light or dark. You can choose an image or wallpaper as "
 "your desktop background."
-msgstr ""
+msgstr "A képernyőn megjelenő dolgok kinézetét a stílusbeállítás világosra vagy sötétre állításával változtathatja meg. Kiválaszthat egy képet vagy háttérképet az asztal háttereként."
 
 #. (itstool) path: section/title
 #: C/look-background.page:65
 msgid "Light or Dark Style"
-msgstr ""
+msgstr "Világos vagy sötét stílus"
 
 #. (itstool) path: section/p
 #: C/look-background.page:66
 msgid "To switch between light and dark desktop styles:"
-msgstr ""
+msgstr "A világos és sötét asztalstílus közti váltáshoz:"
 
 #. (itstool) path: item/p
 #: C/look-background.page:70
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Appearance</gui>."
-msgstr ""
+msgstr "Nyissa meg a <gui xref=\"shell-introduction#activities\">Tevékenységek</gui> áttekintést, és kezdje el begépelni a <gui>Megjelenés</gui> szót."
 
 #. (itstool) path: item/p
 #: C/look-background.page:74
 msgid ""
 "Click <gui>Appearance</gui> to open the panel. The currently selected style "
 "is shown at the top surrounded by a blue border."
-msgstr ""
+msgstr "Kattintson a <gui>Megjelenés</gui> elemre a panel megnyitásához. A jelenleg kiválasztott stílus kék kerettel jelenik meg fent."
 
 #. (itstool) path: item/p
 #: C/look-background.page:78
 msgid "Click to choose <gui>Light</gui> or <gui>Dark</gui>."
-msgstr ""
+msgstr "Kattintson a <gui>Világos</gui> vagy a <gui>Sötét</gui> kiválasztásához."
 
 #. (itstool) path: item/p
 #: C/look-background.page:81
 msgid "The setting is applied immediately."
-msgstr ""
+msgstr "A beállítások azonnal alkalmazásra kerülnek."
 
 #. (itstool) path: section/title
 #: C/look-background.page:88
 msgid "Background"
-msgstr ""
+msgstr "Háttér"
 
 #. (itstool) path: section/p
 #: C/look-background.page:89
 msgid "To change the image used for your background:"
-msgstr ""
+msgstr "A háttérként használt kép megváltoztatásához:"
 
 #. (itstool) path: item/p
 #: C/look-background.page:93
@@ -9440,7 +9440,7 @@ msgstr ""
 msgid ""
 "Click <gui>Appearance</gui> to open the panel. The currently selected "
 "wallpaper is shown at the top in the preview for the current style."
-msgstr ""
+msgstr "Kattintson a <gui>Megjelenés</gui> elemre a panel megnyitásához. A jelenleg kiválasztott háttérkép jelenik meg fent a jelenlegi stílus előnézetében."
 
 #. (itstool) path: item/p
 #: C/look-background.page:100
@@ -9682,12 +9682,12 @@ msgstr "Média"
 msgid ""
 "Manage your sound devices, use your media files, connect to external "
 "devices, and more."
-msgstr ""
+msgstr "Hangeszközök kezelése, médiafájlok használata, kapcsolódás külső eszközökhöz és egyebek."
 
 #. (itstool) path: page/title
 #: C/media.page:27
 msgid "Sound and media"
-msgstr ""
+msgstr "Hang és média"
 
 #. (itstool) path: info/title
 #: C/media.page:31
@@ -9723,12 +9723,12 @@ msgstr "Alapvető hangkezelés"
 #: C/media.page:42
 msgctxt "link"
 msgid "Music, video &amp; devices"
-msgstr ""
+msgstr "Zene, videó és eszközök"
 
 #. (itstool) path: section/title
 #: C/media.page:43
 msgid "Music, video &amp; devices"
-msgstr ""
+msgstr "Zene, videó és eszközök"
 
 #. (itstool) path: info/desc
 #: C/more-help.page:19
@@ -10143,7 +10143,7 @@ msgstr "Az <gui>Érintőtábla</gui> szakasz csak akkor jelenik meg, ha rendszer
 #. (itstool) path: info/desc
 #: C/mouse-touchpad-click.page:42
 msgid "Click, drag, or scroll using taps and gestures on your touchpad."
-msgstr "Kattintás, húzás vagy görgetés koppintásokkal és gesztusokkal az érintőtáblán."
+msgstr "Kattintás, húzás vagy görgetés koppintásokkal és kézmozdulatokkal az érintőtáblán."
 
 #. (itstool) path: page/title
 #: C/mouse-touchpad-click.page:46
@@ -10162,7 +10162,7 @@ msgstr "Pusztán az érintőtáblával, külön hardvergombok használata nélk�
 msgid ""
 "<link xref=\"touchscreen-gestures\">Touchpad gestures</link> are covered "
 "separately."
-msgstr "Az <link xref=\"touchscreen-gestures\">érintőtábla-gesztusokkal</link> külön rész foglalkozik."
+msgstr "Az <link xref=\"touchscreen-gestures\">érintőtábla kézmozdulataival</link> külön rész foglalkozik."
 
 #. (itstool) path: section/title
 #: C/mouse-touchpad-click.page:57
@@ -10432,7 +10432,7 @@ msgid ""
 "You can learn more about DRM from the <link "
 "href=\"https://www.eff.org/issues/drm\">Electronic Frontier "
 "Foundation</link>."
-msgstr "A DRM-ről többet megtudhat az <link href=\"http://www.eff.org/issues/drm\">Electronic Frontier Foundation</link> weboldalán."
+msgstr "A DRM-ről többet megtudhat az <link href=\"https://www.eff.org/issues/drm\">Electronic Frontier Foundation</link> weboldalán."
 
 #. (itstool) path: info/desc
 #: C/nautilus-behavior.page:8
@@ -10944,7 +10944,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/nautilus-icons.png' "
 "md5='73fdc7c5671efc4819672db4ee1d1a25'"
-msgstr ""
+msgstr "external ref='figures/nautilus-icons.png' md5='73fdc7c5671efc4819672db4ee1d1a25'"
 
 #. (itstool) path: media/p
 #: C/nautilus-display.page:43
@@ -11581,7 +11581,7 @@ msgid ""
 "individual folder by clicking the view options menu button in the toolbar "
 "and choosing the desired option under <gui>Sort</gui>, or by clicking the "
 "list column headers in list view."
-msgstr "Módosíthatja a <link xref=\"files-sort\">fájlok rendezési sorrendjét</link> az egyes mappákban az eszköztár nézetbeállítások menügombjának megnyomásával, és a kívánt lehetőség kiválasztásával a <gui>Rendezés</gui> alatt, vagy listanézetben az oszlopfejlécekre kattintással."
+msgstr "Módosíthatja a <link xref=\"files-sort\">fájlok rendezési sorrendjét</link> az egyes mappákban az eszköztár nézetbeállítások menü gombjának megnyomásával, és a kívánt lehetőség kiválasztásával a <gui>Rendezés</gui> alatt, vagy listanézetben az oszlopfejlécekre kattintással."
 
 #. (itstool) path: title/gui
 #: C/nautilus-views.page:64
@@ -11864,7 +11864,7 @@ msgstr "beállítások"
 msgid ""
 "Click the <_:media-1/> button next to the active connection for the IP "
 "address and other details."
-msgstr ""
+msgstr "Kattintson az aktív kapcsolat melletti <_:media-1/> gombra az IP-cím és egyéb részletek megtekintéséhez."
 
 #. (itstool) path: section/title
 #: C/net-findip.page:78
@@ -11898,19 +11898,19 @@ msgstr "A weboldal megjeleníti az Ön külső IP-címét."
 msgid ""
 "Depending on how your computer connects to the internet, the internal and "
 "external addresses may be the same."
-msgstr ""
+msgstr "Attól függően, hogy a számítógép hogyan csatlakozik az internethez, a belső és a külső címek megegyezhetnek."
 
 #. (itstool) path: info/desc
 #: C/net-firewall-ports.page:23
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "Meg kell adnia a megfelelő hálózati portot egy program hálózati elérésének engedélyezéséhez vagy letiltásához a tűzfalon."
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "Gyakran használt hálózati portok"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11923,34 +11923,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "Leírás"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS, Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "Használatával a rendszerek anélkül találhatják meg egymást és írhatják le az általuk biztosított szolgáltatásokat, hogy a részletek saját kezűleg kellene megadnia."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11962,66 +11962,66 @@ msgstr "Nyomtatás"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "Használatával nyomtatási feladatokat küldhet hálózati nyomtatóknak."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "Használatával megoszthatja nyomtatóját a hálózaton."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "Jelenlét"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
 msgid ""
 "Allows you to advertise your instant messaging status to other people on the"
 " network, such as “online” or “busy”."
-msgstr ""
+msgstr "Használatával közzéteheti az azonnali üzenőkön az elérhetőségi állapotát, mint például „elérhető” vagy „elfoglalt”."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "Távoli asztal"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "Használatával megoszthatja másokkal asztalát, illetve segítséget kérhet és nyújthat."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "Zenemegosztás (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "Használatával megoszthatja zenegyűjteményét a hálózat más felhasználóival."
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -12078,7 +12078,7 @@ msgstr "Keresse meg azt a hálózati kapcsolatot, amelynek rögzített címet sz
 msgid ""
 "Select the <gui>IPv4</gui> or <gui>IPv6</gui> tab and change the "
 "<gui>Method</gui> to <gui>Manual</gui>."
-msgstr "Válassza az <gui>IPv4</gui> vagy az <gui>IPv6</gui> lapot, és változtassa meg a <gui>Módszert</gui> <em>Kézi</em> értékűre."
+msgstr "Válassza az <gui>IPv4</gui> vagy az <gui>IPv6</gui> lapot, és változtassa meg a <gui>Módszert</gui> <gui>Kézi</gui> értékűre."
 
 #. (itstool) path: item/p
 #: C/net-fixed-ip-address.page:68 C/net-manual.page:72
@@ -12840,7 +12840,7 @@ msgstr "Remélhetőleg sikerül csatlakoznia a VPN-hez. Ellenkező esetben ellen
 msgid ""
 "To disconnect from the VPN, click the system menu on the top bar and click "
 "<gui>Turn Off</gui> under the name of your VPN connection."
-msgstr "A VPN-kapcsolat bontásához kattintson a rendszer menüre a felső sávon, és válassza a <gui>Kikapcsolás</gui> menüpontot a VPN-kapcsolat neve alatt."
+msgstr "A VPN-kapcsolat bontásához kattintson a felső sávon lévő rendszer menüre, és válassza a <gui>Kikapcsolás</gui> menüpontot a VPN-kapcsolat neve alatt."
 
 #. (itstool) path: info/desc
 #: C/net-what-is-ip-address.page:22
@@ -13095,12 +13095,12 @@ msgstr "Ha számítógépe tartalmaz vezeték nélküli hálózati kártyát, ak
 msgid ""
 "Select <gui><_:media-1/> Wi-Fi</gui>. The Wi-Fi section of the menu will "
 "expand."
-msgstr ""
+msgstr "Válasza a <gui><_:media-1/> Wi-Fi</gui> lehetőséget. Ekkor kinyílik a menü Wi-Fi szakasza."
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:48
 msgid "Click the name of the network you want."
-msgstr ""
+msgstr "Kattintson a kívánt hálózat nevére."
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:49
@@ -13280,7 +13280,7 @@ msgstr "Nem látom a vezeték nélküli hálózatomat a listán"
 msgid ""
 "There are a number of reasons why you might not be able to see your wireless"
 " network on the list of available networks from the system menu."
-msgstr "Számos oka lehet annak, hogy nem látja vezeték nélküli hálózatát a rendszermenüben elérhető hálózatlistában."
+msgstr "Számos oka lehet annak, hogy nem látja vezeték nélküli hálózatát a rendszer menüben elérhető hálózatlistában."
 
 #. (itstool) path: item/p
 #: C/net-wireless-find.page:34
@@ -14156,26 +14156,26 @@ msgstr "Egy vezeték nélküli kapcsolat elfelejtéséhez:"
 #: C/net-wrongnetwork.page:50
 msgid ""
 "Find the network that you <em>do not</em> want it to keep connecting to."
-msgstr ""
+msgstr "Keresse meg azt a hálózatot, amelynél <em>nem szeretné</em>, hogy folyamatosan kapcsolódjon."
 
 #. (itstool) path: item/p
 #: C/net-wrongnetwork.page:53
 msgid "Click the <_:media-1/> button located next to the network."
-msgstr ""
+msgstr "Kattintson a hálózat mellett található <_:media-1/> gombra."
 
 #. (itstool) path: item/p
 #: C/net-wrongnetwork.page:56
 msgid ""
 "Click the <gui>Forget Connection</gui> button. Your computer will not try to"
 " connect to that network any more."
-msgstr ""
+msgstr "Kattintson a <gui>Kapcsolat elfelejtése</gui> gombra. A számítógépe többé nem próbál kapcsolódni ahhoz a hálózathoz."
 
 #. (itstool) path: page/p
 #: C/net-wrongnetwork.page:61
 msgid ""
 "If you later want to connect to the network that your computer just forgot, "
 "follow the steps in <link xref=\"net-wireless-connect\"/>."
-msgstr ""
+msgstr "Ha később kapcsolódni szeretne ahhoz a hálózathoz, amelyet a számítógép éppen elfelejtett, akkor kövesse a <link xref=\"net-wireless-connect\"/> fejezetben bemutatott lépéseket."
 
 #. (itstool) path: info/title
 #: C/net.page:21
@@ -14188,7 +14188,7 @@ msgstr "Hálózatkezelés"
 msgid ""
 "Connect to wireless and wired networks. Stay safe with a VPN. Create a "
 "wireless hotspot."
-msgstr ""
+msgstr "Kapcsolódás vezeték nélküli és vezetékes hálózatokhoz. Biztonságban maradás VPN segítségével. Vezeték nélküli hotspot létrehozása."
 
 #. (itstool) path: page/title
 #: C/net.page:29
@@ -14225,7 +14225,7 @@ msgstr "Ha számítógépe rendelkezik integrált fényérzékelővel, akkor az 
 msgid ""
 "In the <gui>Power Saving Options</gui> section, ensure that the "
 "<gui>Automatic Screen Brightness</gui> switch is set to on."
-msgstr ""
+msgstr "Az <gui>Energiatakarékossági beállítások</gui> szakaszban győződjön meg arról, hogy az <gui>Automatikus képernyőfényerő</gui> kapcsoló be állásba van-e kapcsolva."
 
 #. (itstool) path: page/p
 #: C/power-autobrightness.page:51
@@ -14254,7 +14254,7 @@ msgstr "Beállíthatja számítógépét az automatikus felfüggesztésre üresj
 msgid ""
 "In the <gui>Power Saving Options</gui> section, click <gui>Automatic "
 "Suspend</gui>."
-msgstr ""
+msgstr "Az <gui>Energiatakarékossági beállítások</gui> szakaszban kattintson az <gui>Automatikus felfüggesztés</gui> lehetőségre."
 
 #. (itstool) path: item/p
 #: C/power-autosuspend.page:48
@@ -14383,7 +14383,7 @@ msgid ""
 "profile\">Power Saver</link></gui> mode when the battery is low, and have "
 "the computer <link xref=\"power-autosuspend\">automatically suspend</link> "
 "if you have not used it for a certain period of time."
-msgstr ""
+msgstr "A <app>Beállítások</app> <gui>Energiagazdálkodás</gui> panelén módosítsa energiagazdálkodási beállításait. Számos beállítás segíti az energiatakarékosságot: <link xref=\"display-blank\">automatikusan elsötétítheti a kijelzőt</link> egy bizonyos idő után, engedélyezheti az <gui>Automatikus <link xref=\"power-profile\">energiatakarékossági</link></gui> módot, ha a telepfeszültség alacsony, és a számítógépet <link xref=\"power-autosuspend\">automatikusan felfüggesztheti</link>, ha adott ideig nem használta."
 
 #. (itstool) path: item/p
 #: C/power-batterylife.page:72
@@ -14424,7 +14424,7 @@ msgid ""
 "xref=\"power-wireless\">turn off the wireless or Bluetooth cards</link>. "
 "These devices work by broadcasting radio waves, which takes quite a bit of "
 "power."
-msgstr ""
+msgstr "Ha egy ideig nincs szüksége internetkapcsolatra, akkor <link xref=\"power-wireless\">kapcsolja ki a vezeték nélküli vagy Bluetooth kártyákat</link>. Ezek az eszközök rádióhullámokkal működnek, és energiafelhasználásuk nem elhanyagolható."
 
 #. (itstool) path: item/p
 #: C/power-batterylife.page:97
@@ -14775,14 +14775,14 @@ msgstr "Ha ez történik, akkor próbálja meg vezeték nélküli csatolóját k
 msgid ""
 "Switch the <gui>Wi-Fi</gui> switch at the top-right of the window to off and"
 " then on again."
-msgstr ""
+msgstr "Kapcsolja ki, majd újra be az ablak jobb felső sarkában lévő <gui>Wi-Fi</gui> kapcsolót."
 
 #. (itstool) path: item/p
 #: C/power-nowireless.page:65
 msgid ""
 "If the wireless still does not work, switch the <gui>Airplane Mode</gui> "
 "switch to on and then switch it off again."
-msgstr ""
+msgstr "Ha a vezeték nélküli kapcsolat még mindig nem működik, akkor kapcsolja be a <gui>Repülési üzemmódot</gui>, és kapcsolja ki újra."
 
 #. (itstool) path: page/p
 #: C/power-nowireless.page:70
@@ -14849,12 +14849,12 @@ msgstr "2021"
 #. (itstool) path: info/desc
 #: C/power-percentage.page:22
 msgid "Display the battery percentage in the top bar."
-msgstr ""
+msgstr "Az akkumulátor százalékos értékének megjelenítése a felső sávon."
 
 #. (itstool) path: page/title
 #: C/power-percentage.page:25
 msgid "Show the battery status as a percentage"
-msgstr ""
+msgstr "Akkumulátorállapot megjelenítése százalékosan"
 
 #. (itstool) path: page/p
 #: C/power-percentage.page:27 C/power-status.page:66
@@ -14863,12 +14863,12 @@ msgid ""
 "bar shows the charge level of the main internal battery, and whether it is "
 "currently charging or not. It can also display the charge as a <link "
 "xref=\"power-percentage\">percentage</link>."
-msgstr ""
+msgstr "A felső sávon lévő <link xref=\"status-icons#batteryicons\">állapotikon</link> jeleníti meg a fő belső akkumulátor töltöttségi szintjét, és azt, hogy éppen töltődik-e vagy sem. A töltést <link xref=\"power-percentage\">százalékos</link> formában is megjelenítheti."
 
 #. (itstool) path: steps/title
 #: C/power-percentage.page:34
 msgid "Display the battery percentage in the top bar"
-msgstr ""
+msgstr "Az akkumulátor százalékos értékének megjelenítése a felső sávon"
 
 #. (itstool) path: item/p
 #: C/power-percentage.page:37 C/power-profile.page:50
@@ -14882,31 +14882,31 @@ msgstr "Nyissa meg a <gui xref=\"shell-introduction#activities\">Tevékenységek
 msgid ""
 "In the <gui>Suspend &amp; Power Button</gui> section, set <gui>Show Battery "
 "Percentage</gui> to on."
-msgstr ""
+msgstr "A <gui>Felfüggesztés és bekapcsológomb</gui> szakaszban kapcsolja be az <gui>Akkumulátor százalékának megjelenítése</gui> kapcsolót."
 
 #. (itstool) path: info/desc
 #: C/power-profile.page:20
 msgid "Balance performance and battery usage."
-msgstr ""
+msgstr "A teljesítmény és az akkumulátor-használat egyensúlya."
 
 #. (itstool) path: page/title
 #: C/power-profile.page:23
 msgid "Choose a power profile"
-msgstr ""
+msgstr "Energiagazdálkodási profil kiválasztása"
 
 #. (itstool) path: page/p
 #: C/power-profile.page:25
 msgid ""
 "You can manage power usage by choosing a <gui>Power Mode</gui>. There are "
 "three possible profiles:"
-msgstr ""
+msgstr "Az energiafelhasználást az <gui>Energiagazdálkodási mód</gui> kiválasztásával kezelheti. Három lehetséges profil létezik:"
 
 #. (itstool) path: item/p
 #: C/power-profile.page:30
 msgid ""
 "<gui>Balanced</gui>: Standard performance and power usage. This is the "
 "default setting."
-msgstr ""
+msgstr "<gui>Kiegyensúlyozott</gui>: szabványos teljesítmény és energiafelhasználás. Ez az alapértelmezett beállítás."
 
 #. (itstool) path: item/p
 #: C/power-profile.page:34
@@ -14914,7 +14914,7 @@ msgid ""
 "<gui>Power Saver</gui>: Reduced performance and power usage. This setting "
 "maximizes battery life. It may enable some power saving options and prevent "
 "them from being switched off."
-msgstr ""
+msgstr "<gui>Energiatakarékos</gui>: csökkentett teljesítmény és energiafelhasználás. Ez a beállítás maximalizálja az akkumulátor élettartamát. Engedélyezhet néhány energiatakarékos lehetőséget, és megakadályozhatja azok kikapcsolását."
 
 #. (itstool) path: item/p
 #: C/power-profile.page:39
@@ -14924,17 +14924,17 @@ msgid ""
 "if your computer is running on AC power. If your device supports lap "
 "detection, you will not be able to select this option if the device is "
 "running on someone's lap."
-msgstr ""
+msgstr "<gui>Teljesítmény</gui>: nagy teljesítmény és energiafelhasználás. Ez a mód csak akkor lesz látható, ha a számítógépe támogatja. Akkor lesz választható, ha a számítógép hálózati áramról működik. Ha az eszköze támogatja az ölben tartás érzékelését, akkor nem tudja kiválasztani ezt a lehetőséget, ha az eszköz valaki ölében fut."
 
 #. (itstool) path: steps/title
 #: C/power-profile.page:48
 msgid "To choose a power profile:"
-msgstr ""
+msgstr "Egy energiagazdálkodási profil kiválasztásához:"
 
 #. (itstool) path: item/p
 #: C/power-profile.page:57
 msgid "In the <gui>Power Mode</gui> section, choose one of the profiles."
-msgstr ""
+msgstr "Az <gui>Energiagazdálkodási mód</gui> szakaszban válassza ki a profilok egyikét."
 
 #. (itstool) path: info/desc
 #: C/power-status.page:27
@@ -14956,7 +14956,7 @@ msgstr "Az akkumulátor és a csatlakoztatott eszközök állapotának megjelen�
 msgid ""
 "Click <gui>Power</gui> to open the panel. The status of <gui>Batteries</gui>"
 " and known <gui>Devices</gui> is displayed."
-msgstr ""
+msgstr "Kattintson az <gui>Energiagazdálkodás</gui> elemre a panel megnyitásához. Az <gui>Akkumulátorok</gui> és az ismert <gui>Eszközök</gui> állapota jelenik meg."
 
 #. (itstool) path: page/p
 #: C/power-status.page:46
@@ -15138,7 +15138,7 @@ msgstr "A képernyő elhalványulásának megakadályozásához:"
 msgid ""
 "Switch the <gui>Dim Screen</gui> switch to off in the <gui>Power Saving "
 "Options</gui> section."
-msgstr ""
+msgstr "Kapcsolja ki a <gui>Képernyő elhalványítása</gui> kapcsolót az <gui>Energiatakarékossági beállítások</gui> szakaszban."
 
 #. (itstool) path: info/desc
 #: C/power-willnotturnon.page:12
@@ -15913,7 +15913,7 @@ msgid ""
 "Some printers report toner or ink levels to the computer, which can be found"
 " in the <gui>Printers</gui> panel in <app>Settings</app>. The ink level will"
 " be shown with the printer details if it is available."
-msgstr ""
+msgstr "Néhány nyomtató képes jelenteni a toner- vagy tintaszinteket a számítógépnek, ezek az értékek a <app>Beállítások</app> <gui>Nyomtatók</gui> paneljén láthatók. A tintaszint a nyomtató részleteivel együtt jelenik meg, ha elérhető."
 
 #. (itstool) path: page/p
 #: C/printing-inklevel.page:36
@@ -15981,23 +15981,23 @@ msgid ""
 "Depending on your system, you may have to press <gui "
 "style=\"button\">Unlock</gui> in the top right corner and type in your "
 "password when prompted."
-msgstr ""
+msgstr "A rendszerétől függően előfordulhat, hogy meg kell nyomnia a jobb felső sarokban lévő <gui style=\"button\">Feloldás</gui> gombot, és meg kell adnia a jelszavát, ha kérik."
 
 #. (itstool) path: item/p
 #: C/printing-name-location.page:65 C/printing-name-location.page:99
 #: C/printing-setup-default-printer.page:67
 msgid "Click the <_:media-1/> button next to the printer."
-msgstr ""
+msgstr "Kattintson a nyomtató mellett lévő <_:media-1/> gombra."
 
 #. (itstool) path: item/p
 #: C/printing-name-location.page:69 C/printing-name-location.page:103
 msgid "Select <gui style=\"menuitem\">Printer Details</gui>."
-msgstr ""
+msgstr "Válassza a <gui style=\"menuitem\">Nyomtató részletei</gui> menüpontot."
 
 #. (itstool) path: item/p
 #: C/printing-name-location.page:72
 msgid "Enter a new name for the printer in the <gui>Name</gui> field."
-msgstr ""
+msgstr "Adjon új nevet a nyomtatónak a <gui>Név</gui> mezőben."
 
 #. (itstool) path: item/p
 #: C/printing-name-location.page:75 C/printing-name-location.page:109
@@ -16018,7 +16018,7 @@ msgstr "Nyomtató helyének megváltoztatása:"
 #. (itstool) path: item/p
 #: C/printing-name-location.page:106
 msgid "Enter a new location for the printer in the <gui>Location</gui> field."
-msgstr ""
+msgstr "Adjon új helyet a nyomtatónak a <gui>Hely</gui> mezőben."
 
 #. (itstool) path: info/desc
 #: C/printing-order.page:23
@@ -16203,7 +16203,7 @@ msgstr "Válassza a <gui>Nyomtatók</gui> ikont."
 #. (itstool) path: item/p
 #: C/printing-setup-default-printer.page:71
 msgid "Select the <gui style=\"menuitem\">Use Printer by Default</gui> checkbox."
-msgstr ""
+msgstr "Jelölje be a <gui style=\"menuitem\">Nyomtató használata alapértelmezetten</gui> négyzetet."
 
 #. (itstool) path: page/p
 #: C/printing-setup-default-printer.page:75
@@ -16237,7 +16237,7 @@ msgid ""
 "If your printer is connected to the network, it will not be set up "
 "automatically – you should add it from the <gui>Printers</gui> panel in "
 "<gui>Settings</gui>."
-msgstr ""
+msgstr "Ha a nyomtató kapcsolódik a hálózathoz, akkor nem lesz automatikusan beállítva – hozzá kell adnia a <gui>Beállítások</gui> szakaszban lévő <gui>Nyomtatók</gui> panelről."
 
 #. (itstool) path: item/p
 #: C/printing-setup.page:62
@@ -16285,7 +16285,7 @@ msgid ""
 "If your printer is not discovered automatically, but you know its network "
 "address, enter it into the text field at the bottom of the dialog and then "
 "press <gui style=\"button\">Add</gui>"
-msgstr ""
+msgstr "Ha a nyomtató nem lett automatikusan felismerve, de ismeri a hálózati címét, akkor írja be azt a párbeszédablak alján található szövegmezőbe, majd nyomja meg a <gui style=\"button\">Hozzáadás</gui> gombot."
 
 #. (itstool) path: page/p
 #: C/printing-setup.page:105
@@ -16436,7 +16436,7 @@ msgstr "Kattintson a <gui style=\"button\">Nyomtatás</gui> gombra a fájl ment�
 msgid ""
 "Set up local and network printers. Learn about different printing options "
 "like collation and multi-sided printing."
-msgstr ""
+msgstr "Helyi és hálózati nyomtatók beállítása. Ismerje meg a különböző nyomtatási lehetőségeket, mint például a leválogatás és a többoldalas nyomtatás."
 
 #. (itstool) path: info/title
 #: C/printing.page:31
@@ -16475,7 +16475,7 @@ msgstr "Nyomtatóproblémák"
 msgid ""
 "Lock your screen, remove temporary files, and control access to devices like"
 " cameras and microphones."
-msgstr ""
+msgstr "A képernyő zárolása, az ideiglenes fájlok eltávolítása, valamint az olyan eszközök, mint a kamerák és a mikrofonok hozzáférésének szabályozása."
 
 #. (itstool) path: page/title
 #: C/privacy.page:33
@@ -16727,7 +16727,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/privacy-screen-lock.page:64 C/session-screenlocks.page:53
 msgid "Click on <gui>Screen</gui> to open the panel."
-msgstr ""
+msgstr "Kattintson a <gui>Képernyő</gui> elemre a panel megnyitásához."
 
 #. (itstool) path: item/p
 #: C/privacy-screen-lock.page:67
@@ -16735,7 +16735,7 @@ msgid ""
 "Make sure <gui>Automatic Screen Lock</gui> is switched on, then select a "
 "length of time from the <gui>Automatic Screen Lock Delay</gui> drop-down "
 "list."
-msgstr ""
+msgstr "Győződjön meg arról, hogy az <gui>Automatikus képernyőzárolás</gui> be van-e kapcsolva, majd válasszon egy időtartamot az <gui>Automatikus képernyőzárolás késleltetése</gui> legördülő listából."
 
 #. (itstool) path: note/p
 #: C/privacy-screen-lock.page:73
@@ -16746,7 +16746,7 @@ msgid ""
 "seeing these notifications, switch <gui>Show Notifications on Lock "
 "Screen</gui> off. For further notification settings, refer to <link "
 "xref=\"shell-notifications\"/>."
-msgstr ""
+msgstr "Az alkalmazások megjeleníthetnek olyan értesítéseket, amelyek akkor is láthatók, ha zárolja a képernyőt. Ez kényelmes, ha például a képernyő feloldása nélkül szeretné látni, van-e új e-mailje. Ha aggódik, hogy esetleg mások is megláthatják ezeket az értesítéseket, akkor kapcsolja ki az <gui>Értesítések megjelenítése a zárolási képernyőn</gui> beállítást. A további értesítési beállításokért nézze meg az <link xref=\"shell-notifications\"/> fejezetet."
 
 #. (itstool) path: page/p
 #: C/privacy-screen-lock.page:80
@@ -16776,17 +16776,17 @@ msgstr "Képernyőképek és képernyővideók"
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:47
 msgid "Capture all or part of your screen as an image"
-msgstr ""
+msgstr "A képernyő egészének vagy egy részének rögzítése képként"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:48
 msgid "Send it as a file or paste it from the clipboard"
-msgstr ""
+msgstr "Küldés fájlként vagy beillesztés a vágólapról"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:49
 msgid "Save a video of your screen activity"
-msgstr ""
+msgstr "Videó mentése a képernyőn végzett tevékenységről"
 
 #. (itstool) path: page/media
 #. This is a reference to an external file such as an image or video. When
@@ -16798,7 +16798,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/screenshot-tool.png' "
 "md5='724f047c5fe39a7d8549b5fbff162260'"
-msgstr ""
+msgstr "external ref='figures/screenshot-tool.png' md5='724f047c5fe39a7d8549b5fbff162260'"
 
 #. (itstool) path: page/p
 #: C/screen-shot-record.page:54
@@ -16828,31 +16828,31 @@ msgstr ""
 msgid ""
 "The screenshot overlay presents you with handles to select the area to "
 "capture, and <_:media-1/> indicates screenshot (still image) mode."
-msgstr ""
+msgstr "A képernyőképréteg fogantyúkkal jelenik meg a rögzítendő terület kiválasztásához, és a <_:media-1/> jelzi a képernyőkép (állókép) módot."
 
 #. (itstool) path: note/p
 #: C/screen-shot-record.page:79
 msgid "Click the pointer button to include the pointer in the screenshot."
-msgstr ""
+msgstr "Kattintson a mutató gombra, hogy a mutatót is tartalmazza a képernyőkép."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:83
 msgid ""
 "Click and drag the area you want for the screenshot using the handles or the"
 " crosshair pointer."
-msgstr ""
+msgstr "Kattintson, és húzza a képernyőkép készítéséhez kívánt területet a fogantyúk vagy a szálkereszt mutató használatával."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:87
 msgid "To capture the selected area, click the big round button."
-msgstr ""
+msgstr "A kijelölt terület rögzítéséhez kattintson a nagy, kör alakú gombra."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:90
 msgid ""
 "To capture the entire screen, click <gui>Screen</gui> and then click the big"
 " round button."
-msgstr ""
+msgstr "A tejes képernyő rögzítéséhez kattintson a <gui>Képernyő</gui> gombra, majd kattintson a nagy, kör alakú gombra."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:94
@@ -16860,12 +16860,12 @@ msgid ""
 "To capture a window, click <gui>Window</gui>. An overview of all the open "
 "windows is displayed with the active window checked. Click to choose a "
 "window and then click the big round button."
-msgstr ""
+msgstr "Egy ablak rögzítéséhez kattintson az <gui>Ablak</gui> gombra. Megjelenik az összes nyitott ablak áttekintése az aktív ablak bejelölésével. Kattintson egy ablak kiválasztásához, majd kattintson a nagy, kör alakú gombra."
 
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:103
 msgid "Where do they go?"
-msgstr ""
+msgstr "Hova kerülnek?"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:107
@@ -16874,14 +16874,14 @@ msgid ""
 "<file>Pictures/Screenshots</file> folder in your home folder with a file "
 "name that begins with <file>Screenshot</file> and includes the date and time"
 " it was taken."
-msgstr ""
+msgstr "A képernyőkép automatikusan a saját mappájában lévő <file>Képek/Képernyőképek</file> mappába kerül mentésre. A fájl neve a <file>Képernyőkép</file> szóval kezdődik, és tartalmazza a készítés dátumát és idejét."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:113
 msgid ""
 "The image is also saved in the clipboard, so you can immediately paste it "
 "into an image-editing application or share it on social media."
-msgstr ""
+msgstr "A kép a vágólapra is mentésre kerül, így azonnal beillesztheti egy képszerkesztő alkalmazásba, vagy megoszthatja a közösségi médiában."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:117
@@ -16890,7 +16890,7 @@ msgid ""
 "<file>Videos/Screencasts</file> folder in your home folder, with a file name"
 " that starts with <file>Screencast</file> and includes the date and time it "
 "was taken."
-msgstr ""
+msgstr "A képernyővideó automatikusan a saját mappájában lévő <file>Videók/Képernyőfelvételek</file> mappába kerül mentésre. A fájl neve a <file>Képernyőfelvétel</file> szóval kezdődik, és tartalmazza a készítés dátumát és idejét."
 
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:127
@@ -16905,12 +16905,12 @@ msgstr "Videót készíthet a képernyőn történő eseményekről:"
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:142
 msgid "Click <_:media-1/> to switch to screencast mode."
-msgstr ""
+msgstr "Kattintson a <_:media-1/> gombra a képernyővideó módra váltáshoz."
 
 #. (itstool) path: note/p
 #: C/screen-shot-record.page:146
 msgid "Click the pointer button to include the pointer in the screencast."
-msgstr ""
+msgstr "Kattintson a mutató gombra, hogy a mutatót is tartalmazza a képernyővideó."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:150
@@ -16918,20 +16918,20 @@ msgid ""
 "Choose <gui>Selection</gui> or <gui>Screen</gui>. For <gui>Selection</gui>, "
 "click and drag the area you want for the screencast using the handles or the"
 " crosshair pointer."
-msgstr ""
+msgstr "Válassza a <gui>Kijelölés</gui> vagy a <gui>Képernyő</gui> gombot. <gui>Kijelölés</gui> esetén kattintson, és húzza a képernyővideó készítéséhez kívánt területet a fogantyúk vagy a szálkereszt mutató használatával."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:155
 msgid ""
 "Click the big round red button to start recording what is on your screen."
-msgstr ""
+msgstr "Kattintson a nagy, kör alakú, piros gombra a képernyőn történtek felvételének indításához."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:157
 msgid ""
 "A red indicator is displayed in the top right corner of the screen when the "
 "recording is in progress, showing the elapsed seconds."
-msgstr ""
+msgstr "Egy piros jelző jelenik meg a képernyő jobb felső sarkában, ha a felvétel folyamatban van, megjelenítve az eltelt másodperceket."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:161
@@ -16939,7 +16939,7 @@ msgid ""
 "Once you have finished, click the red indicator or press "
 "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq> "
 "to stop the recording."
-msgstr ""
+msgstr "Amikor befejezte, kattintson a piros jelzőre, vagy nyomja meg a <keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq> billentyűkombinációt a felvétel leállításához."
 
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:170
@@ -16949,95 +16949,95 @@ msgstr "Gyorsbillentyűk"
 #. (itstool) path: section/p
 #: C/screen-shot-record.page:172
 msgid "Within the screenshot feature, you can use these keyboard shortcuts:"
-msgstr ""
+msgstr "A képernyőkép funkción belül az alábbi gyorsbillentyűket használhatja:"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:177
 msgid "<key>S</key>"
-msgstr ""
+msgstr "<key>S</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:178
 msgid "Select area"
-msgstr ""
+msgstr "Terület kiválasztása"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:181
 msgid "<key>C</key>"
-msgstr ""
+msgstr "<key>C</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:182
 msgid "Capture screen"
-msgstr ""
+msgstr "Képernyő rögzítése"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:185
 msgid "<key>W</key>"
-msgstr ""
+msgstr "<key>W</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:186
 msgid "Capture window"
-msgstr ""
+msgstr "Ablak rögzítése"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:189
 msgid "<key>P</key>"
-msgstr ""
+msgstr "<key>P</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:190
 msgid "Toggle between show and hide pointer"
-msgstr ""
+msgstr "Váltás a mutató megjelenítése és elrejtése között"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:193
 msgid "<key>V</key>"
-msgstr ""
+msgstr "<key>V</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:194
 msgid "Toggle between screenshot and screencast"
-msgstr ""
+msgstr "Váltás képernyőkép és képernyővideó között"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:197
 msgid "<key>Enter</key>"
-msgstr ""
+msgstr "<key>Enter</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:198
 msgid ""
 "Capture, also activated by <key>Space</key> or "
 "<keyseq><key>Ctrl</key><key>C</key></keyseq>"
-msgstr ""
+msgstr "Rögzítés, amelyet a <key>Szóköz</key> vagy a <keyseq><key>Ctrl</key><key>C</key></keyseq> is aktivál"
 
 #. (itstool) path: section/p
 #: C/screen-shot-record.page:203
 msgid "These shortcuts can be used to bypass the screenshot feature:"
-msgstr ""
+msgstr "Ezek a gyorsbillentyűk használhatók a képernyőkép funkció megkerüléséhez:"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:208
 msgid "Capture the window that currently has focus"
-msgstr ""
+msgstr "A jelenleg fókuszban lévő ablak rögzítése"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:212
 msgid "Capture the entire screen"
-msgstr ""
+msgstr "A teljes képernyő rögzítése"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:215 C/shell-keyboard-shortcuts.page:181
 msgid ""
 "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:216
 msgid "Start and stop recording a screencast"
-msgstr ""
+msgstr "Képernyővideó rögzítésének indítása és leállítása"
 
 #. (itstool) path: info/desc
 #: C/session-fingerprint.page:41
@@ -17200,7 +17200,7 @@ msgstr "Nyomja meg a <gui>Formátumok</gui> gombot."
 msgid ""
 "Under <gui>Common Formats</gui>, select the region and language that most "
 "closely matches the formats you would like to use."
-msgstr ""
+msgstr "A <gui>Gyakori formátumok</gui> alatt válassza ki azt a régiót és nyelvet, amelyik a leginkább megfelel a használni kívánt formátumoknak."
 
 #. (itstool) path: item/p
 #: C/session-formats.page:55
@@ -17212,7 +17212,7 @@ msgstr "Kattintson a <gui style=\"button\">Kész</gui> gombra a mentéshez."
 msgid ""
 "Your session needs to be restarted for changes to take effect. Either click "
 "<gui style=\"button\">Restart…</gui>, or manually log back in later."
-msgstr ""
+msgstr "A munkamenetét újra kell indítani ahhoz, hogy a változtatások hatályba lépjenek. Kattintson az <gui style=\"button\">Újraindítás…</gui> gombra, vagy jelentkezzen vissza később kézileg."
 
 #. (itstool) path: page/p
 #: C/session-formats.page:63
@@ -17261,7 +17261,7 @@ msgstr "Válassza ki a kívánt régiót és nyelvet. Ha a régió és nyelv nin
 #. (itstool) path: item/p
 #: C/session-language.page:71
 msgid "Click <gui style=\"button\">Select</gui> to save."
-msgstr ""
+msgstr "Kattintson a <gui style=\"button\">Kiválasztás</gui> gombra a mentéshez."
 
 #. (itstool) path: page/p
 #: C/session-language.page:79
@@ -17288,7 +17288,7 @@ msgstr "Saját mappája tartalmaz néhány speciális mappát, amelyekben az alk
 msgid ""
 "Change how long to wait before locking the screen in the <gui>Screen "
 "Lock</gui> settings."
-msgstr ""
+msgstr "Változtassa meg a képernyőzárolás előtti várakozás hosszát a <gui>Képernyőzárolás</gui> beállításaiban."
 
 #. (itstool) path: page/title
 #: C/session-screenlocks.page:37
@@ -17315,14 +17315,14 @@ msgstr "A képernyő automatikus zárolása előtti hosszabb várakozás beáll�
 msgid ""
 "If <gui>Automatic Screen Lock</gui> is on, you can change the value in the "
 "<gui>Automatic Screen Lock Delay</gui> drop-down list."
-msgstr ""
+msgstr "Ha az <gui>Automatikus képernyőzárolás</gui> be van kapcsolva, akkor az <gui>Automatikus képernyőzárolás késleltetése</gui> legördülő listában változtathatja meg az értéket."
 
 #. (itstool) path: note/p
 #: C/session-screenlocks.page:62
 msgid ""
 "If you don’t ever want the screen to lock itself automatically, switch the "
 "<gui>Automatic Screen Lock</gui> switch to off."
-msgstr ""
+msgstr "Ha egyáltalán nem szeretné, hogy a képernyő automatikusan zárolásra kerüljön, akkor kapcsolja ki az <gui>Automatikus képernyőzárolás</gui> kapcsolót."
 
 #. (itstool) path: info/desc
 #: C/sharing.page:11
@@ -17391,21 +17391,21 @@ msgid ""
 "You can let other people view and control your desktop from another computer"
 " with a desktop viewing application. Configure <gui>Remote Desktop</gui> to "
 "allow others to access your desktop and set the security preferences."
-msgstr ""
+msgstr "Lehetővé teheti másoknak, hogy egy asztalmegjelenítő alkalmazás segítségével megjelenítsék és irányítsák asztalát egy másik számítógépről. A <gui>Távoli asztal</gui> beállítóablakában lehetővé teheti másoknak az asztala elérését, és megadhatja a biztonsági beállításokat is."
 
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:58
 msgid ""
 "You must have the <app>GNOME Remote Desktop</app> package installed for "
 "<gui>Remote Desktop</gui> to be visible."
-msgstr ""
+msgstr "A <app>GNOME távoli asztal</app> csomagnak telepítve kell lennie ahhoz, hogy a <gui>Távoli asztal</gui> látható legyen."
 
 #. (itstool) path: when/p
 #: C/sharing-desktop.page:63
 msgid ""
 "<link action=\"install:gnome-remote-desktop\" style=\"button\">Install GNOME"
 " Remote Desktop</link>"
-msgstr ""
+msgstr "<link action=\"install:gnome-remote-desktop\" style=\"button\">GNOME távoli asztal telepítése</link>"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:76
@@ -17423,7 +17423,7 @@ msgstr "Kattintson a <gui>Megosztás</gui> elemre a panel megnyitásához."
 msgid ""
 "If the <gui>Sharing</gui> switch in the top-right of the window is set to "
 "off, click to switch it on."
-msgstr ""
+msgstr "Ha az ablak jobb felső sarkában lévő <gui>Megosztás</gui> kapcsoló ki van kapcsolva, akkor kattintson a bekapcsolásához."
 
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:85 C/sharing-media.page:70
@@ -17437,7 +17437,7 @@ msgstr "Ha a <gui>Számítógép neve</gui> alatti szöveg szerkeszthető, akkor
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:90
 msgid "Click <gui>Remote Desktop</gui>."
-msgstr ""
+msgstr "Kattintson a <gui>Távoli asztal</gui> elemre."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:93
@@ -17445,7 +17445,7 @@ msgid ""
 "To let others view your desktop, set the <gui>Remote Desktop</gui> switch to"
 " on. This means that other people will be able to attempt to connect to your"
 " computer and view what’s on your screen."
-msgstr ""
+msgstr "Ahhoz, hogy mások is láthassák az asztalát, kapcsolja be a <gui>Távoli asztal</gui> kapcsolót. Ez azt jelenti, hogy mások megpróbálhatnak kapcsolódni a számítógépéhez, és láthatják képernyője tartalmát."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:98
@@ -17454,7 +17454,7 @@ msgid ""
 "switch to on. This may allow the other person to move your mouse, run "
 "applications, and browse files on your computer, depending on the security "
 "settings which you are currently using."
-msgstr ""
+msgstr "Ahhoz, hogy mások is interakcióba léphessenek az asztalával, kapcsolja be a <gui>Távoli vezérlés</gui> kapcsolót. Ez lehetővé teheti a másik személy számára az egér mozgatását, az alkalmazások futtatását és a fájlok böngészését a számítógépén a jelenleg használt biztonsági beállításoktól függően."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:106 C/sharing-personal.page:86
@@ -17466,34 +17466,34 @@ msgstr "Biztonság"
 msgid ""
 "The <gui>Authentication</gui> section displays the login credentials to be "
 "used in the client software on the connecting device."
-msgstr ""
+msgstr "A <gui>Hitelesítés</gui> szakasz megjeleníti a csatlakoztatott eszközön lévő ügyfélszoftverben használandó belépési hitelesítési adatokat."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:112
 msgid "User Name"
-msgstr ""
+msgstr "Felhasználónév"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:113 C/sharing-desktop.page:117
 msgid "Use the suggested value or enter your own."
-msgstr ""
+msgstr "Használja a javasolt értéket vagy adja meg a sajátját."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:116
 msgid "Password"
-msgstr ""
+msgstr "Jelszó"
 
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:119
 msgid ""
 "Click the button next to each entry if you want to place it in the "
 "clipboard."
-msgstr ""
+msgstr "Kattintson az egyes bejegyzések melletti gombra, ha a vágólapra szeretné helyezni azokat."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:124
 msgid "Verify Encryption"
-msgstr ""
+msgstr "Titkosítás ellenőrzése"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:125
@@ -17501,12 +17501,12 @@ msgid ""
 "Click the <gui>Verify Encryption</gui> button to display the encryption "
 "fingerprint. Compare it with the value displayed by the client when "
 "connecting: they should be identical."
-msgstr ""
+msgstr "Kattintson a <gui>Titkosítás ellenőrzése</gui> gombra a titkosítás ujjlenyomatának megjelenítéséhez. Hasonlítsa össze az ügyfélprogram által a csatlakozáskor megjelenített értékkel: a kettőnek azonosnak kell lennie."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:148
 msgid "Connecting"
-msgstr ""
+msgstr "Kapcsolódás"
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:150
@@ -17516,7 +17516,7 @@ msgid ""
 "computer. Click the button next to each entry if you want to place it in the"
 " clipboard. A connection can also be made using your <link xref=\"net-"
 "findip\">IP address</link>."
-msgstr ""
+msgstr "A <gui>Hogyan kapcsolódhat</gui> szakasz jeleníti meg az <gui>Eszköz nevét</gui> és a <gui>Távoli asztal címét</gui>, amely a kapcsolódó számítógépen használható. Kattintson az egyes bejegyzések melletti gombra, ha el szeretné helyezni a vágólapon. Kapcsolat az <link xref=\"net-findip\">IP-címe</link> használatával is létrehozható."
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:155
@@ -17524,24 +17524,24 @@ msgid ""
 "When the other computer is successfully connected to your desktop, you will "
 "see the <gui>Screen is being shared</gui> icon, <_:media-1/> in your system "
 "status area."
-msgstr ""
+msgstr "Ha a másik számítógép sikeresen kapcsolódott az asztalához, akkor az <gui>A képernyő meg van osztva</gui> ikont, <_:media-1/> fog látni a rendszer állapotterületén."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:162
 msgid "Clients"
-msgstr ""
+msgstr "Ügyfélprogramok"
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:164
 msgid ""
 "To connect to your desktop from another computer, the following clients are "
 "known to work."
-msgstr ""
+msgstr "Egy másik számítógépről az asztalhoz való kapcsolódáshoz a következő ügyfélprogramok működnek biztosan."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:168
 msgid "From Linux:"
-msgstr ""
+msgstr "Linux alól:"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:170
@@ -17551,7 +17551,7 @@ msgid ""
 "href=\"https://flathub.org/apps/details/org.remmina.Remmina\">flatpak</link>."
 " Use default settings, particularly <gui>Color depth</gui> 'Automatic' in "
 "the connection profile settings."
-msgstr ""
+msgstr "<app>Remmina</app>, egy GTK ügyfélprogram, amely a legtöbb disztribúcióban elérhető csomagként, valamint <link href=\"https://flathub.org/apps/details/org.remmina.Remmina\">flatpak</link> telepítéssel is. Használja az alapértelmezett beállításokat, különösen a kapcsolati profil beállításaiban lévő <gui>Színmélység</gui> legyen „Automatikus”."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:176
@@ -17559,24 +17559,24 @@ msgid ""
 "<app>xfreerdp</app> is a command line client available as a package in most "
 "distributions. The option <cmd>/network:auto</cmd> should be passed to the "
 "client on the command line."
-msgstr ""
+msgstr "<app>xfreerdp</app>, amely a legtöbb disztribúcióban csomagként elérhető parancssori ügyfélprogram. A <cmd>/network:auto</cmd> beállítást kell átadni az ügyfélprogramnak a parancssorban."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:183
 msgid "From Microsoft Windows:"
-msgstr ""
+msgstr "Microsoft Windows alól:"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:185
 msgid ""
 "<app>mstsc</app> is the built-in Windows client. Default settings are "
 "recommended."
-msgstr ""
+msgstr "<app>mstsc</app>, amely a beépített Windows ügyfélprogram. Az alapértelmezett beállítások javasoltak."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:191
 msgid "From Linux, Windows, or macOS:"
-msgstr ""
+msgstr "Linux, Windows vagy macOS alól:"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:193
@@ -17585,7 +17585,7 @@ msgid ""
 "as a <link "
 "href=\"https://flathub.org/apps/details/com.thincast.client\">flatpak</link>."
 " Default settings are recommended."
-msgstr ""
+msgstr "<app>Thincast</app>, amely egy tulajdonosi ügyfélprogram. A linuxos verzió elérhető <link href=\"https://flathub.org/apps/details/com.thincast.client\">flatpak</link> csomagként. Az alapértelmezett beállítások javasoltak."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:203
@@ -17600,39 +17600,39 @@ msgstr "Az asztalát néző személy kapcsolatának bontásához:"
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:209
 msgid "Click the system menu on the right side of the top bar."
-msgstr ""
+msgstr "Kattintson a felső sáv jobb oldalán lévő rendszer menüre."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:212
 msgid "Click <gui>Screen is being shared</gui>."
-msgstr ""
+msgstr "Kattintson az <gui>A képernyő meg van osztva</gui> elemre."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:215
 msgid "Click <gui>Turn off</gui>."
-msgstr ""
+msgstr "Kattintson a <gui>Kikapcsolás</gui> gombra."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:222
 msgid "Advanced Topics"
-msgstr ""
+msgstr "Speciális témák"
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:226
 msgid "Command line configuration"
-msgstr ""
+msgstr "Parancssori beállítás"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:227
 msgid ""
 "The <cmd>grdctl</cmd> utility allows you to configure your host settings in "
 "a console window. For usage details, type <cmd>grdctl --help</cmd>."
-msgstr ""
+msgstr "A <cmd>grdctl</cmd> segédprogram lehetővé teszi a gép beállításainak konfigurálását egy konzolablakban. A használat részleteiért írja be a <cmd>grdctl --help</cmd> parancsot."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:232
 msgid "H.264"
-msgstr ""
+msgstr "H.264"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:233
@@ -17641,7 +17641,7 @@ msgid ""
 "Desktop</app> will use H.264 when: the graphics pipeline is used (a "
 "requirement of the protocol), the client supports it, and NVENC (NVIDIA's "
 "encoder) is available."
-msgstr ""
+msgstr "A H.264 videokódolás nagymértékben csökkenti a sávszélességet. A <app>GNOME távoli asztal</app> H.264 kódolást fog használni, ha a grafikus adatcsatorna használatban van (a protokoll követelménye), az ügyfélprogram támogatja és az NVENC (az NVIDIA kódolója) elérhető."
 
 #. (itstool) path: info/desc
 #: C/sharing-displayname.page:25
@@ -17714,7 +17714,7 @@ msgstr "<link action=\"install:rygel\" style=\"button\">A Rygel telepítése</li
 msgid ""
 "If the <gui>Sharing</gui> switch in the top-right of the window is set to "
 "off, switch it to on."
-msgstr ""
+msgstr "Ha az ablak jobb felső sarkában lévő <gui>Megosztás</gui> kapcsoló ki van kapcsolva, akkor kapcsolja be."
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:75
@@ -17724,7 +17724,7 @@ msgstr "Nyissa meg a <gui>Médiamegosztás</gui> panelt."
 #. (itstool) path: item/p
 #: C/sharing-media.page:78
 msgid "Switch the <gui>Media Sharing</gui> switch to on."
-msgstr ""
+msgstr "Kapcsolja be a <gui>Médiamegosztás</gui> kapcsolót."
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:81
@@ -17760,7 +17760,7 @@ msgid ""
 "The <gui>Networks</gui> section lists the networks to which you are "
 "currently connected. Use the switch next to each to choose where your media "
 "can be shared."
-msgstr ""
+msgstr "A <gui>Hálózatok</gui> szakasz felsorolja azokat a hálózatokat, amelyekhez jelenleg csatlakozik. A mellettük lévő kapcsolóval szabályozhatja, hogy médiafájljai melyeken oszthatók meg."
 
 #. (itstool) path: info/desc
 #: C/sharing-personal.page:28
@@ -17792,7 +17792,7 @@ msgid ""
 "Switch the <gui>Personal File Sharing</gui> switch to on. This means that "
 "other people on your current network will be able to attempt to connect to "
 "your computer and access files in your <file>Public</file> folder."
-msgstr ""
+msgstr "Kapcsolja be a <gui>Személyes fájlmegosztás</gui> kapcsolót. Ez azt jelenti, hogy mások az aktuális helyi hálózatról megpróbálhatnak csatlakozni a számítógépéhez, és elérhetik a <file>Nyilvános</file> mappában lévő fájlokat."
 
 #. (itstool) path: note/p
 #: C/sharing-personal.page:79
@@ -17813,7 +17813,7 @@ msgid ""
 "<file>Public</file> folder, switch the <gui>Require Password</gui> switch to"
 " on. If you do not use this option, anyone can attempt to view your "
 "<file>Public</file> folder."
-msgstr ""
+msgstr "Ahhoz, hogy mások csak jelszó megadása után érhessék el a <file>Nyilvános</file> mappáját, kapcsolja be a <gui>Jelszó kérése</gui> kapcsolót. Ha nem használja ezt a beállítást, akkor bárki megpróbálhatja megjeleníteni az Ön <file>Nyilvános</file> mappáját."
 
 #. (itstool) path: note/p
 #: C/sharing-personal.page:96
@@ -17828,7 +17828,7 @@ msgid ""
 "The <gui>Networks</gui> section lists the networks to which you are "
 "currently connected. Use the switch next to each to choose where your "
 "personal files can be shared."
-msgstr ""
+msgstr "A <gui>Hálózatok</gui> szakasz felsorolja azokat a hálózatokat, amelyekhez jelenleg csatlakozik. A mellettük lévő kapcsolóval szabályozhatja, hogy személyes fájljai melyeken oszthatók meg."
 
 #. (itstool) path: info/desc
 #: C/shell-apps-favorites.page:35
@@ -17935,7 +17935,7 @@ msgid ""
 "Some applications have icons in the <em>dash</em>, the horizontal strip of "
 "icons at the bottom of the <gui>Activities</gui> overview. Click one of "
 "these to start the corresponding application."
-msgstr ""
+msgstr "Egyes alkalmazások ikonja az <em>indítópanelen</em>, a <gui>Tevékenységek</gui> áttekintés alján lévő vízszintes ikonsávon is megtalálható. Kattintson ezek egyikére az adott alkalmazás elindításához."
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:71
@@ -17961,14 +17961,14 @@ msgid ""
 "workspaces\">workspace</link> by dragging its icon from the dash, and "
 "dropping it onto one of the workspaces. The application will open in the "
 "chosen workspace."
-msgstr ""
+msgstr "Egy alkalmazást másik <link xref=\"shell-workspaces\">munkaterületen</link> is elindíthat, ha az ikonját elhúzza az indítópanelről és a munkaterületek egyikére ejti. Az alkalmazás ekkor a kiválasztott munkaterületen nyílik meg."
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:87
 msgid ""
 "You can launch an application in a <em>new</em> workspace by dragging its "
 "icon to an empty workspace, or to the small gap between two workspaces."
-msgstr ""
+msgstr "Egy alkalmazást <em>új</em> munkaterületen indíthat el, ha az ikonját egy üres munkaterületre, vagy a két munkaterület közti kis résre húzza."
 
 #. (itstool) path: note/title
 #: C/shell-apps-open.page:98
@@ -18047,7 +18047,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "Felhasználói menü"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18059,7 +18059,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-expanded.png' "
 "md5='c535fc8ae6c3d7e08609218f816212b9'"
-msgstr ""
+msgstr "external ref='figures/shell-exit-expanded.png' md5='c535fc8ae6c3d7e08609218f816212b9'"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18071,7 +18071,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-classic-expanded.png' "
 "md5='b99a1656d674172295ab3c4f71ee30ed'"
-msgstr ""
+msgstr "external ref='figures/shell-exit-classic-expanded.png' md5='b99a1656d674172295ab3c4f71ee30ed'"
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:83
@@ -18089,7 +18089,7 @@ msgid ""
 "xref=\"shell-introduction#systemmenu\">system menu</link> on the right side "
 "of the top bar, click the <_:media-1/> button, and select the correct "
 "option."
-msgstr ""
+msgstr "A <gui>Kijelentkezéshez</gui> vagy <gui>Felhasználóváltáshoz</gui> kattintson a felső sáv jobb oldalán lévő <link xref=\"shell-introduction#systemmenu\">rendszer menüre</link>, kattintson a <_:media-1/> gombra, és válassza ki a megfelelő lehetőséget."
 
 #. (itstool) path: note/p
 #: C/shell-exit.page:97
@@ -18119,14 +18119,14 @@ msgid ""
 "lockscreen\">lock screen</link>. Enter your password to log back in. If you "
 "don’t lock your screen, it will lock automatically after a certain amount of"
 " time."
-msgstr ""
+msgstr "Ha számítógépét elhagyja egy rövid időre, akkor zárolja a képernyőt. Ezzel megakadályozhatja, hogy mások hozzáférjenek fájljaihoz vagy alkalmazásokat futtassanak. Amikor visszatér, a <link xref=\"shell-lockscreen\">zároló képernyőt</link> fogja látni. Adja meg jelszavát a bejelentkezéshez. Ha nem zárolja képernyőjét, akkor az egy idő után automatikusan megtörténik."
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:122
 msgid ""
 "To lock your screen, click the system menu on the right side of the top bar "
 "and click the <_:media-1/> button."
-msgstr ""
+msgstr "A képernyő zárolásához kattintson a felső sáv jobb oldalán lévő rendszer menüre, és kattintson a <_:media-1/> gombra."
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:129
@@ -18134,7 +18134,7 @@ msgid ""
 "When your screen is locked, other users can log in to their own accounts by "
 "clicking <gui>Log in as another user</gui> at the bottom right of the login "
 "screen. You can switch back to your desktop when they are finished."
-msgstr ""
+msgstr "Ha a képernyője zárolva van, más felhasználók bejelentkezhetnek a saját fiókjukba a bejelentkezési képernyő jobb alsó sarkában lévő <gui>Bejelentkezés más felhasználóként</gui> gombra kattintva. Amikor végeztek, visszaválthat a saját asztalára."
 
 #. (itstool) path: section/title
 #: C/shell-exit.page:140
@@ -18149,7 +18149,7 @@ msgid ""
 "you close the lid. This saves your state to your computer’s memory and "
 "powers off most of the computer’s functions. A very small amount of power is"
 " still used during suspend."
-msgstr ""
+msgstr "Energiatakarékossági okból függessze fel számítógépét, ha nem használja azt. Ha laptopot használ, akkor a rendszer alapesetben automatikusan felfüggeszti a számítógépét, amikor lecsukja a fedelet. Ez elmenti a munkamenet állapotát a számítógép memóriájába, és kikapcsolja a számítógép legtöbb funkcióját. A felfüggesztés alatt a számítógép kis mennyiségű áramot használ."
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:149
@@ -18157,7 +18157,7 @@ msgid ""
 "To suspend your computer manually, click the system menu on the right side "
 "of the top bar, click the <_:media-1/> button, and select "
 "<gui>Suspend</gui>."
-msgstr ""
+msgstr "A számítógép kézileg történő felfüggesztéséhez kattintson a felső sáv jobb oldalán lévő rendszer menüre, kattintson a <_:media-1/> gombra, és válassza a <gui>Felfüggesztés</gui> lehetőséget."
 
 #. (itstool) path: section/title
 #: C/shell-exit.page:163
@@ -18170,7 +18170,7 @@ msgid ""
 "If you want to power off your computer entirely, or do a full restart, click"
 " the system menu on the right side of the top bar, click the <_:media-1/> "
 "button, and select either <gui>Restart…</gui> or <gui>Power Off…</gui>."
-msgstr ""
+msgstr "Ha teljesen ki szeretné kapcsolni számítógépét, vagy újra szeretné indítani, kattintson a felső sáv jobb oldalán lévő rendszer menüre, kattintson a <_:media-1/> gombra, és válassza az <gui>Újraindítás…</gui> vagy a <gui>Kikapcsolás…</gui> lehetőséget."
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:172
@@ -18245,7 +18245,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-top-bar.png' "
 "md5='db8d3e7c591c3b710eaba0a93e78346b'"
-msgstr ""
+msgstr "external ref='figures/shell-top-bar.png' md5='db8d3e7c591c3b710eaba0a93e78346b'"
 
 #. (itstool) path: media/p
 #: C/shell-introduction.page:69 C/shell-introduction.page:74
@@ -18262,7 +18262,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-top-bar-classic.png' "
 "md5='8eecf39f87d7cda9ee060a108114a624'"
-msgstr ""
+msgstr "external ref='figures/shell-top-bar-classic.png' md5='8eecf39f87d7cda9ee060a108114a624'"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:79
@@ -18273,7 +18273,7 @@ msgid ""
 "can change the volume or screen brightness, edit your <gui>Wi-Fi</gui> "
 "connection details, check your battery status, log out or switch users, and "
 "turn off your computer."
-msgstr ""
+msgstr "A felső sávból elérheti ablakait és alkalmazásait, naptárát és találkozóit, valamint a <link xref=\"status-icons\">rendszer olyan beállításait</link>, mint a hang, hálózat és energiagazdálkodás. A felső sávon lévő rendszer menüben módosíthatja a hangerőt vagy a kijelző fényerejét, szerkesztheti <gui>Wi-Fi</gui> kapcsolat beállításait, ellenőrizheti az akkumulátor állapotát, kijelentkezhet, felhasználót válthat, és kikapcsolhatja számítógépét."
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:86
@@ -18446,7 +18446,7 @@ msgid ""
 "Application menu, located beside the <gui>Activities</gui> button, shows the"
 " name of the active application alongside with its icon and provides quick "
 "access to windows and details of the application, as well as a quit item."
-msgstr ""
+msgstr "A <gui>Tevékenységek</gui> gomb mellett található alkalmazásmenü megjeleníti az aktív alkalmazás nevét és ikonját, és gyors hozzáférést biztosít az alkalmazás ablakaihoz és részleteihez, valamint egy kilépés elemhez."
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18458,7 +18458,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-appmenu-classic.png' "
 "md5='2cfa352e0e3c55f82003047ba171fd18'"
-msgstr ""
+msgstr "external ref='figures/shell-appmenu-classic.png' md5='2cfa352e0e3c55f82003047ba171fd18'"
 
 #. (itstool) path: when/p
 #: C/shell-introduction.page:184
@@ -18489,7 +18489,7 @@ msgid ""
 "<keyseq><key>Super</key><key>M</key></keyseq>. You can access the date and "
 "time settings and open your full calendar application directly from the "
 "menu."
-msgstr ""
+msgstr "Kattintson az órára a felső sávon az aktuális dátum, egy havi beosztású naptár, a soron következő találkozók és az új értesítések megjelenítéséhez. A naptár megnyitható a <keyseq><key>Super</key><key>M</key></keyseq> billentyűkombináció megnyomásával is. Közvetlenül a menüből elérheti a dátum és idő beállításait, és megnyithatja a teljes naptáralkalmazását is."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:224
@@ -18510,7 +18510,7 @@ msgstr "<link xref=\"shell-notifications\">Tudjon meg többet az értesítésekr
 #: C/shell-introduction.page:237 C/shell-introduction.page:242
 #: C/shell-introduction.page:247 C/shell-introduction.page:252
 msgid "System menu"
-msgstr ""
+msgstr "Rendszer menü"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18533,7 +18533,7 @@ msgstr ""
 msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit.png' md5='61d91e3276304bf59b0f06093b97e838'"
-msgstr ""
+msgstr "external ref='figures/shell-exit.png' md5='61d91e3276304bf59b0f06093b97e838'"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18545,14 +18545,14 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-exit-classic.png' "
 "md5='bc5eebe4cad6677a3552c08e8b3f502d'"
-msgstr ""
+msgstr "external ref='figures/shell-exit-classic.png' md5='bc5eebe4cad6677a3552c08e8b3f502d'"
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:257
 msgid ""
 "Click the system menu in the top-right corner to manage your system settings"
 " and your computer."
-msgstr ""
+msgstr "Kattintson a jobb felső sarokban lévő rendszer menüre a rendszerbeállítások és számítógépének kezeléséhez."
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:260
@@ -18624,7 +18624,7 @@ msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus"
 " on the task at hand without distractions."
-msgstr ""
+msgstr "A GNOME eltérő megközelítést alkalmaz az ablakok váltásához a más asztali környezetekben található, állandóan látható ablaklistákkal szemben. Ez lehetővé teszi a feladataira koncentrálást a figyelmének megosztása nélkül."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:311
@@ -18643,7 +18643,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-window-list-classic.png' "
 "md5='a1a9c3d05c87a8e4028b1f16d79380ed'"
-msgstr ""
+msgstr "external ref='figures/shell-window-list-classic.png' md5='a1a9c3d05c87a8e4028b1f16d79380ed'"
 
 #. (itstool) path: when/p
 #: C/shell-introduction.page:320
@@ -18756,12 +18756,12 @@ msgstr "Az alkalmazások listájának megjelenítése."
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:97
 msgid "<keyseq><key>Ctrl</key><key>Alt</key><key>→</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Ctrl</key><key>Alt</key><key>→</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:100
 msgid "<keyseq><key>Ctrl</key><key>Alt</key><key>←</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Ctrl</key><key>Alt</key><key>←</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:102
@@ -18777,13 +18777,13 @@ msgstr "<keyseq><key>Shift</key><key>Super</key><key>Page Up</key></keyseq>"
 #: C/shell-keyboard-shortcuts.page:108
 msgid ""
 "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>→</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>→</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:111
 msgid ""
 "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>←</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>←</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:113
@@ -18805,7 +18805,7 @@ msgstr "A jelenlegi ablak áthelyezése a jobbra lévő monitorra."
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:126
 msgid "<link xref=\"shell-exit\">Show the Power Off dialog</link>."
-msgstr ""
+msgstr "<link xref=\"shell-exit\">A kikapcsolás párbeszédablak megjelenítése</link>."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:130
@@ -18818,7 +18818,7 @@ msgid ""
 "Show <link xref=\"shell-notifications#notificationlist\">the notification "
 "list</link>. Press <keyseq><key>Super</key><key>V</key></keyseq> again or "
 "<key>Esc</key> to close."
-msgstr ""
+msgstr "<link xref=\"shell-notifications#notificationlist\">Az értesítéslista megjelenítése</link>. A bezárásához nyomja meg újra a <keyseq><key>Super</key><key>V</key></keyseq> billentyűkombinációt vagy az <key>Esc</key> billentyűt."
 
 #. (itstool) path: table/title
 #: C/shell-keyboard-shortcuts.page:141
@@ -18885,7 +18885,7 @@ msgstr "Felvétel a képernyőről"
 msgid ""
 "<link xref=\"screen-shot-record#screenshot\">Launch the screenshot "
 "tool.</link>"
-msgstr ""
+msgstr "<link xref=\"screen-shot-record#screenshot\">A képernyőkép eszköz elindítása.</link>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:172
@@ -18899,7 +18899,7 @@ msgstr "<link xref=\"screen-shot-record#screenshot\">Képernyőkép készítése
 msgid ""
 "<link xref=\"screen-shot-record#screenshot\">Take a screenshot of the entire"
 " screen.</link>."
-msgstr ""
+msgstr "<link xref=\"screen-shot-record#screenshot\">Képernyőkép készítése a teljes képernyőről.</link>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:182
@@ -18916,7 +18916,7 @@ msgstr "A dekoratív és funkcionális zároló képernyő hasznos információk
 #. (itstool) path: page/title
 #: C/shell-lockscreen.page:25
 msgid "The lock screen"
-msgstr ""
+msgstr "A zároló képernyő"
 
 #. (itstool) path: page/p
 #: C/shell-lockscreen.page:27
@@ -18924,7 +18924,7 @@ msgid ""
 "The lock screen means that you can see what is happening while your computer"
 " is locked, and it allows you to get a summary of what has been happening "
 "while you have been away. The lock screen provides useful information:"
-msgstr ""
+msgstr "A zároló képernyő azt jelenti, hogy láthatja, mi történik a számítógép zárolása alatt, és láthatja azon események összefoglalását, amelyek távolléte alatt történtek. A zároló képernyő hasznos információkat nyújt:"
 
 #. (itstool) path: item/p
 #: C/shell-lockscreen.page:34
@@ -18945,14 +18945,14 @@ msgid ""
 "your password and the login screen will be automatically shown as you type. "
 "You can also switch users at the bottom right of the login screen if your "
 "system is configured for more than one."
-msgstr ""
+msgstr "A számítógépe feloldásához kattintson egyszer az egérrel vagy az érintőtáblával, vagy nyomja meg az <key>Esc</key> vagy az <key>Enter</key> billentyűt. Ez megjeleníti a bejelentkezési képernyőt, ahol megadhatja a jelszavát a feloldáshoz. Ennek alternatívájaként kezdje el gépelni a jelszavát, és a bejelentkezési képernyő automatikusan megjelenik gépelés közben. A felhasználók között is válthat a bejelentkezési képernyő jobb alsó sarkában, ha a rendszer több felhasználóra van beállítva."
 
 #. (itstool) path: page/p
 #: C/shell-lockscreen.page:49
 msgid ""
 "To hide notifications from the lock screen, see <link xref=\"shell-"
 "notifications#lock-screen-notifications\"/>."
-msgstr ""
+msgstr "A zároló képernyőn lévő értesítések elrejtéséhez nézze meg a <link xref=\"shell-notifications#lock-screen-notifications\"/> fejezetet."
 
 #. (itstool) path: credit/name
 #: C/shell-notifications.page:15
@@ -18981,7 +18981,7 @@ msgstr "Mi az az értesítés?"
 msgid ""
 "If an application or a system component wants to get your attention, a "
 "notification will be shown at the top of the screen, or on your lock screen."
-msgstr ""
+msgstr "Ha egy alkalmazás vagy rendszerösszetevő fel szeretné hívni a figyelmét valamire, akkor egy értesítés jelenik meg a képernyő tetején vagy a zárolási képernyőn."
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:49
@@ -19046,14 +19046,14 @@ msgstr "Értesítések elrejtése"
 msgid ""
 "If you are working on something and do not want to be bothered, you can "
 "switch off notifications."
-msgstr ""
+msgstr "Ha éppen dolgozik valamin, és nem szeretné, hogy megzavarják, akkor kikapcsolhatja az értesítéseket."
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:94
 msgid ""
 "You can hide all notifications by opening the notification list and "
 "switching <gui>Do Not Disturb</gui> to on at the bottom. Alternatively:"
-msgstr ""
+msgstr "Az összes értesítést elrejtheti, ha megnyitja az értesítéslistát, és alul bekapcsolja a <gui>Ne zavarjon</gui> kapcsolót. Alternatívaként:"
 
 #. (itstool) path: item/p
 #: C/shell-notifications.page:105 C/shell-notifications.page:140
@@ -19073,7 +19073,7 @@ msgid ""
 "you display it (by clicking on the clock, or by pressing "
 "<keyseq><key>Super</key><key>V</key></keyseq>), and they will start popping "
 "up again when you switch the switch back to on."
-msgstr ""
+msgstr "A kikapcsolás után a legtöbb értesítés nem jelenik meg a képernyő alján. Az értesítéseket továbbra is elérheti az értesítéslistán, amikor azt megjeleníti (ha az órára kattint, vagy megnyomja a <keyseq><key>Super</key><key>V</key></keyseq> billentyűkombinációt), és a kapcsoló be állapotra való visszaváltásakor újra elkezdenek megjelenni."
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:119
@@ -19085,24 +19085,24 @@ msgstr "Az <gui>Értesítések</gui> panelen kikapcsolhatja vagy újraengedélye
 #. (itstool) path: section/title
 #: C/shell-notifications.page:126
 msgid "Hiding lock screen notifications"
-msgstr ""
+msgstr "Zároló képernyő értesítéseinek elrejtése"
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:128
 msgid ""
 "When your screen is locked, notifications appear on the lock screen. You can"
 " configure the lock screen to hide these notifications for privacy reasons."
-msgstr ""
+msgstr "Ha a képernyője zárolva van, akkor az értesítések a zároló képernyőn jelennek meg. A zároló képernyőt úgy is beállíthatja, hogy adatvédelmi okokból elrejtse ezeket az értesítéseket."
 
 #. (itstool) path: steps/title
 #: C/shell-notifications.page:132
 msgid "To switch off notifications when your screen is locked:"
-msgstr ""
+msgstr "Értesítések kikapcsolásához, amikor a képernyője le van zárva:"
 
 #. (itstool) path: item/p
 #: C/shell-notifications.page:142
 msgid "Switch <gui>Lock Screen Notifications</gui> to off."
-msgstr ""
+msgstr "Kapcsolja ki a <gui>Zároló képernyő értesítések</gui> kapcsolót."
 
 #. (itstool) path: info/title
 #: C/shell-overview.page:9
@@ -19115,7 +19115,7 @@ msgstr "Asztal"
 msgid ""
 "Work with apps, windows, and workspaces. See your appointments and things "
 "that matter in the top bar."
-msgstr ""
+msgstr "Munkavégzés alkalmazásokkal, ablakokkal és munkaterületekkel. Találkozók és fontos dolgok megjelenítése a felső sávon."
 
 #. (itstool) path: page/title
 #: C/shell-overview.page:31
@@ -19164,7 +19164,7 @@ msgstr "Nyissa meg a <gui>Tevékenységek</gui> áttekintést. Ha a keresett abl
 msgid ""
 "Click different workspaces in the <link xref=\"shell-workspaces\">workspace "
 "selector</link> to try to find your window, or"
-msgstr ""
+msgstr "kattintson a különböző munkaterületekre a <link xref=\"shell-workspaces\">munkaterület-választóban</link> az ablak megkereséséhez, vagy"
 
 #. (itstool) path: item/p
 #: C/shell-windows-lost.page:47
@@ -19263,7 +19263,7 @@ msgid ""
 "You can move and resize windows to help you work more efficiently. In "
 "addition to the dragging behavior you might expect, the system features "
 "shortcuts and modifiers to help you arrange windows quickly."
-msgstr ""
+msgstr "Az ablakok mozgatásával és átméretezésével hatékonyabban dolgozhat. A húzás várható viselkedésén kívül a rendszer gyorsbillentyűket és módosítókat biztosít az ablakok gyors elrendezéséhez."
 
 #. (itstool) path: item/p
 #: C/shell-windows-states.page:32
@@ -19500,12 +19500,12 @@ msgstr "Az egér használatával:"
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:42
 msgid "Press the button at the bottom left of the screen in the window list."
-msgstr ""
+msgstr "Nyomja meg a képernyő bal alsó sarkában lévő gombot az ablaklistában."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:45
 msgid "Click and drag the window towards the bottom right of the screen."
-msgstr ""
+msgstr "Kattintson, és húzza az ablakot a képernyő jobb alsó sarka felé."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:48
@@ -19513,7 +19513,7 @@ msgid ""
 "Drop the window onto one of the workspaces in the <em>workspace "
 "selector</em> at the right-hand side of the window list. This workspace now "
 "contains the window you have dropped."
-msgstr ""
+msgstr "Ejtse az ablakot az ablaklista jobb oldalán lévő <em>munkaterület-választó</em> egyik munkaterületére. Ez a munkaterület mostantól tartalmazza a ráejtett ablakot."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:58 C/shell-workspaces-switch.page:33
@@ -19527,7 +19527,7 @@ msgstr "Nyissa meg a <gui xref=\"shell-introduction#activities\">Tevékenységek
 msgid ""
 "Click and drag the window to the workspace partially displayed on the side "
 "of the screen."
-msgstr ""
+msgstr "Kattintson, és húzza az ablakot a képernyő oldalán részben megjelenő munkaterületre."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:66
@@ -19537,7 +19537,7 @@ msgid ""
 "workspaces\">workspace selector</em> between the search field and the window"
 " list. This workspace now contains the window you have dropped, and a new "
 "empty workspace appears at the end of the <em>workspace selector</em>."
-msgstr ""
+msgstr "Ha már egynél több munkaterület van használatban, akkor az ablakot a keresőmező és az ablaklista közötti <em xref=\"shell-workspaces\">munkaterület-választóban</em> a nem szomszédos munkaterületek egyikére is ejtheti. Ez a munkaterület mostantól tartalmazza a ráejtett ablakot, és a <em>munkaterület-választó</em> végén egy új, üres munkaterület jelenik meg."
 
 #. (itstool) path: steps/title
 #. (itstool) path: list/title
@@ -19559,7 +19559,7 @@ msgid ""
 "Press <keyseq><key>Super</key><key>Shift</key><key>Page Up</key></keyseq> to"
 " move the window to a workspace left of the current workspace on the "
 "<em>workspace selector</em>."
-msgstr ""
+msgstr "Nyomja meg a <keyseq><key>Super</key><key>Shift</key><key>Page Up</key></keyseq> billentyűkombinációt az ablak áthelyezéséhez a <em>munkaterület-választón</em> lévő jelenlegi munkaterülettől balra eső munkaterületre."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:87
@@ -19567,7 +19567,7 @@ msgid ""
 "Press <keyseq><key>Super</key><key>Shift</key><key>Page Down</key></keyseq> "
 "to move the window to a workspace right of the current workspace on the "
 "<em>workspace selector</em>."
-msgstr ""
+msgstr "Nyomja meg a <keyseq><key>Super</key><key>Shift</key><key>Page Down</key></keyseq> billentyűkombinációt az ablak áthelyezéséhez a <em>munkaterület-választón</em> lévő jelenlegi munkaterülettől jobbra eső munkaterületre."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:90
@@ -19575,7 +19575,7 @@ msgid ""
 "Press <keyseq><key>Shift</key><key>Ctrl</key> "
 "<key>Alt</key><key>→</key></keyseq> to move the window to a workspace which "
 "is left of the current workspace on the <em>workspace selector</em>."
-msgstr ""
+msgstr "Nyomja meg a <keyseq><key>Shift</key><key>Ctrl</key> <key>Alt</key><key>→</key></keyseq> billentyűkombinációt az ablak áthelyezéséhez a <em>munkaterület-választón</em> lévő jelenlegi munkaterülettől balra eső munkaterületre."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:93
@@ -19583,7 +19583,7 @@ msgid ""
 "Press <keyseq><key>Shift</key><key>Ctrl</key> "
 "<key>Alt</key><key>←</key></keyseq> to move the window to a workspace which "
 "is right of the current workspace on the <em>workspace selector</em>."
-msgstr ""
+msgstr "Nyomja meg a <keyseq><key>Shift</key><key>Ctrl</key> <key>Alt</key><key>←</key></keyseq> billentyűkombinációt az ablak áthelyezéséhez a <em>munkaterület-választón</em> lévő jelenlegi munkaterülettől jobbra eső munkaterületre."
 
 #. (itstool) path: info/desc
 #: C/shell-workspaces-switch.page:25
@@ -19600,7 +19600,7 @@ msgstr "Váltás a munkaterületek között"
 msgid ""
 "At the bottom right of the screen, click on one of the four workspaces to "
 "activate the workspace."
-msgstr ""
+msgstr "A képernyő jobb alsó sarkában kattintson a négy munkaterület egyikére a munkaterület aktiválásához."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-switch.page:39
@@ -19609,7 +19609,7 @@ msgid ""
 "current workspace to view the open windows on the next workspace. If the "
 "currently selected workspace is not the leftmost, click the workspace "
 "partially displayed on the left-hand side to view the previous workspace."
-msgstr ""
+msgstr "Kattintson a jelenlegi munkaterület jobb oldalán részben megjelenő munkaterületre a következő munkaterületen lévő nyitott ablakok megtekintéséhez. Ha a jelenleg kiválasztott munkaterület nem a legbaloldalibb, akkor kattintson a bal oldalon részben megjelenő munkaterületre az előző munkaterület megtekintéséhez."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-switch.page:43
@@ -19617,12 +19617,12 @@ msgid ""
 "If more than one workspace is being used, then you can also click on the "
 "<link xref=\"shell-workspaces\">workspace selector</link> between the search"
 " field and the window list to directly access another workspace."
-msgstr ""
+msgstr "Ha egynél több munkaterület van használatban, akkor a keresőmező és az ablaklista között lévő <link xref=\"shell-workspaces\">munkaterület-választóra</link> is kattinthat egy másik munkaterület közvetlen eléréséhez."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-switch.page:48
 msgid "Click on the workspace to activate the workspace."
-msgstr ""
+msgstr "Kattintson a munkaterületre a munkaterület aktiválásához."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-switch.page:55
@@ -19631,7 +19631,7 @@ msgid ""
 "Up</key></keyseq> or "
 "<keyseq><key>Ctrl</key><key>Alt</key><key>Up</key></keyseq> to move to the "
 "workspace shown left of the current workspace in the workspace selector."
-msgstr ""
+msgstr "Nyomja meg a <keyseq><key xref=\"keyboard-key-super\">Super</key><key>Page Up</key></keyseq> vagy a <keyseq><key>Ctrl</key><key>Alt</key><key>Fel</key></keyseq> billentyűkombinációt a munkaterület-választóban lévő jelenlegi munkaterülettől balra látható munkaterületre lépéshez."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-switch.page:60
@@ -19639,7 +19639,7 @@ msgid ""
 "Press <keyseq><key>Ctrl</key> <key>Alt</key><key>←</key></keyseq> to move to"
 " the workspace shown left of the current workspace on the <em>workspace "
 "selector</em>."
-msgstr ""
+msgstr "Nyomja meg a <keyseq><key>Ctrl</key><key>Alt</key><key>←</key></keyseq> billentyűkombinációt a <em>munkaterület-választóban</em> lévő jelenlegi munkaterülettől balra látható munkaterületre lépéshez."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-switch.page:65
@@ -19647,7 +19647,7 @@ msgid ""
 "Press <keyseq><key>Super</key><key>Page Down</key></keyseq> or "
 "<keyseq><key>Ctrl</key><key>Alt</key><key>Down</key></keyseq> to move to the"
 " workspace shown right of the current workspace in the workspace selector."
-msgstr ""
+msgstr "Nyomja meg a <keyseq><key>Super</key><key>Page Down</key></keyseq> vagy a <keyseq><key>Ctrl</key><key>Alt</key><key>Le</key></keyseq> billentyűkombinációt a munkaterület-választóban lévő jelenlegi munkaterülettől jobbra látható munkaterületre lépéshez."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-switch.page:68
@@ -19655,7 +19655,7 @@ msgid ""
 "Press <keyseq><key>Ctrl</key> <key>Alt</key><key>→</key></keyseq> to move to"
 " the workspace shown right of the current workspace on the <em>workspace "
 "selector</em>."
-msgstr ""
+msgstr "Nyomja meg a <keyseq><key>Ctrl</key><key>Alt</key><key>→</key></keyseq> billentyűkombinációt a <em>munkaterület-választóban</em> lévő jelenlegi munkaterülettől jobbra látható munkaterületre lépéshez."
 
 #. (itstool) path: info/desc
 #: C/shell-workspaces.page:26
@@ -19702,7 +19702,7 @@ msgstr "Munkaterületek használata:"
 msgid ""
 "In the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview, you can horizontally navigate between the workspaces."
-msgstr ""
+msgstr "A <gui xref=\"shell-introduction#activities\">Tevékenységek</gui> áttekintésben vízszintesen navigálhat a munkaterületek között."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces.page:53
@@ -19710,7 +19710,7 @@ msgid ""
 "Click the button at the bottom left of the screen in the window list, or "
 "press the <key xref=\"keyboard-key-super\">Super</key> key to open the "
 "<gui>Activities</gui> overview."
-msgstr ""
+msgstr "Kattintson a képernyő bal alsó sarkában lévő gombra az ablaklistában, vagy nyomja meg a <key xref=\"keyboard-key-super\">Super</key> billentyűt a <gui>Tevékenységek</gui> áttekintés megnyitásához."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces.page:59
@@ -19718,14 +19718,14 @@ msgid ""
 "If more than one workspace is already in use, the <em>workspace "
 "selector</em> is shown between the search field and the window list. It will"
 " display currently used workspaces plus an empty workspace."
-msgstr ""
+msgstr "Ha már egynél több munkaterület van használatban, akkor a <em>munkaterület-választó</em> jelenik meg a keresőmező és az ablaklista között. Megjeleníti a jelenleg használt munkaterületeket és egy üres munkaterületet."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces.page:62
 msgid ""
 "In the bottom right corner, you see four boxes. This is the workspace "
 "selector."
-msgstr ""
+msgstr "A jobb alsó sarokban négy dobozt láthat. Ez a munkaterület-választó."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces.page:66
@@ -19734,7 +19734,7 @@ msgid ""
 "the empty workspace in the workspace selector. This workspace now contains "
 "the window you have dropped, and a new empty workspace will appear next to "
 "it."
-msgstr ""
+msgstr "Munkaterület hozzáadásához húzzon egy ablakot az egyik meglévő munkaterületről a munkaterület-választón lévő üres munkaterületre. Ez a munkaterület mostantól tartalmazza a ráejtett ablakot, és egy új, üres munkaterület jelenik meg mellette."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces.page:70
@@ -19742,7 +19742,7 @@ msgid ""
 "Drag and drop a window from your current workspace onto an empty workspace "
 "in the workspace selector. This workspace now contains the window you have "
 "dropped."
-msgstr ""
+msgstr "Húzzon egy ablakot a jelenlegi munkaterületről a munkaterület-választón lévő üres munkaterületre. Ez a munkaterület mostantól tartalmazza a ráejtett ablakot."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces.page:75
@@ -19766,7 +19766,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-workspaces.png' "
 "md5='b82b93733ba3b043c4e8f506ad9293ed'"
-msgstr ""
+msgstr "external ref='figures/shell-workspaces.png' md5='b82b93733ba3b043c4e8f506ad9293ed'"
 
 #. (itstool) path: media/p
 #: C/shell-workspaces.page:84
@@ -19811,7 +19811,7 @@ msgstr "Kattintson a <gui>Hang</gui> elemre a panel megnyitásához."
 msgid ""
 "In the <gui>Alert Sound</gui> section, select an alert sound. Each sound "
 "will play when you click on it so you can hear how it sounds."
-msgstr ""
+msgstr "A <gui>Riasztáshang</gui> szakaszban válasszon egy riasztáshangot. Amikor rájuk kattint, a hangok lejátszásra kerülnek, így meghallgathatja azokat."
 
 #. (itstool) path: page/p
 #: C/sound-alert.page:55
@@ -19820,7 +19820,7 @@ msgid ""
 "Levels</gui> section to set the volume of the alert sound. Click the speaker"
 " button at the end of the slider to mute or unmute the alert sound. This "
 "will not affect the volume of your music, movies, or other sound files."
-msgstr ""
+msgstr "Használja a <gui>Hangerőszintek</gui> szakaszban lévő <gui>Rendszerhangok</gui> hangerőcsúszkát a riasztáshangok hangerejének beállításához. Kattintson a csúszka végénél lévő hangszóró gombra a riasztáshangok némításához vagy visszahangosításához. Ez nem befolyásolja a zenék, filmek és egyéb hangfájlok lejátszásának hangerejét."
 
 #. (itstool) path: info/desc
 #: C/sound-broken.page:20
@@ -19955,7 +19955,7 @@ msgstr "Ellenőrizze azt is, hogy a hang lejátszásához használt alkalmazásb
 #. (itstool) path: section/p
 #: C/sound-nosound.page:49
 msgid "Also, you can check the volume slider in the <gui>Sound</gui> panel:"
-msgstr ""
+msgstr "Továbbá a <gui>Hang</gui> panelen lévő hangerőcsúszkát is ellenőrizheti:"
 
 #. (itstool) path: item/p
 #: C/sound-nosound.page:58
@@ -19963,7 +19963,7 @@ msgid ""
 "Under <gui>Volume Levels</gui>, check that your application is not muted. "
 "The button at the end of the volume slider toggles <gui>Mute</gui> on and "
 "off."
-msgstr ""
+msgstr "A <gui>Hangerőszintek</gui> alatt ellenőrizze, hogy az alkalmazás nincs-e elnémítva. A hangerőcsúszka végén lévő gomb be- és kikapcsolja a <gui>Némítás</gui> funkciót."
 
 #. (itstool) path: section/title
 #: C/sound-nosound.page:67
@@ -20014,12 +20014,12 @@ msgstr "Egyes számítógépek több hangeszközt is tartalmaznak. Ezek közül 
 msgid ""
 "Under <gui>Output</gui>, select an <gui>Output Device</gui> and click the "
 "<gui>Test</gui> button to see if it works."
-msgstr ""
+msgstr "A <gui>Kimenet</gui> alatt válaszon egy <gui>Kimeneti eszközt</gui>, és kattintson a <gui>Tesztelés</gui> gombra annak meghallgatásához, hogy működik-e."
 
 #. (itstool) path: item/p
 #: C/sound-nosound.page:102
 msgid "You might need to try each available device."
-msgstr ""
+msgstr "Lehet, hogy minden elérhető eszközt ki kell próbálnia."
 
 #. (itstool) path: section/title
 #: C/sound-nosound.page:110
@@ -20053,7 +20053,7 @@ msgid ""
 "privileges</link>; either type <cmd>sudo lspci</cmd> and type your password,"
 " or type <cmd>su</cmd>, enter the <em>root</em> (administrative) password, "
 "then type <cmd>lspci</cmd>."
-msgstr ""
+msgstr "Futtassa az <cmd>lspci</cmd> parancsot <link xref=\"user-admin-explain\">rendszergazdai jogosultságokkal</link>; vagy a <cmd>sudo lspci</cmd> kiadásával és a jelszava beírásával, vagy a <cmd>su</cmd> kiadásával és a <em>root</em> (rendszergazda) jelszó beírásával, majd az <cmd>lspci</cmd> parancs kiadásával."
 
 #. (itstool) path: item/p
 #: C/sound-nosound.page:130
@@ -20128,7 +20128,7 @@ msgstr "Alapértelmezett hangeszköz kiválasztása"
 msgid ""
 "In the <gui>Input</gui> section, select the device that you want to use. The"
 " input level indicator should respond when you speak."
-msgstr ""
+msgstr "Válassza ki a használni kívánt eszközt a <gui>Bemenet</gui> szakaszban. A bemeneti szint jelzőjének reagálnia kell a hangjára."
 
 #. (itstool) path: page/p
 #: C/sound-usemic.page:68
@@ -20153,7 +20153,7 @@ msgid ""
 "You can use external speakers or headphones with your computer. Speakers "
 "usually either connect using a circular TRS (<em>tip, ring, sleeve</em>) "
 "plug or a USB."
-msgstr "Számítógépével használhat külső hangszórókat vagy fülhallgatókat is. A hangszórók általában hagyományos kerek (TRS) csatlakozóval vagy USB-n csatlakoznak."
+msgstr "Számítógépével használhat külső hangszórókat vagy fülhallgatókat is. A hangszórók általában hagyományos kerek TRS (<em>csúcs, gyűrű, hüvely</em>) csatlakozóval vagy USB-n csatlakoznak."
 
 #. (itstool) path: page/p
 #: C/sound-usespeakers.page:38
@@ -20186,20 +20186,20 @@ msgstr "Ha USB-hangszórókat vagy fejhallgatókat, vagy USB-hangkártyába csat
 #. (itstool) path: steps/title
 #: C/sound-usespeakers.page:56
 msgid "Select a default audio output device"
-msgstr ""
+msgstr "Alapértelmezett hangkimeneti eszköz kiválasztása"
 
 #. (itstool) path: item/p
 #: C/sound-usespeakers.page:64
 msgid ""
 "In the <gui>Output</gui> section, select the device that you want to use."
-msgstr ""
+msgstr "A <gui>Kimenet</gui> szakaszban válassza ki a használni kívánt eszközt."
 
 #. (itstool) path: page/p
 #: C/sound-usespeakers.page:69
 msgid ""
 "Use the <gui style=\"button\">Test</gui> button to check that all speakers "
 "are working and are connected to the correct socket."
-msgstr ""
+msgstr "A <gui style=\"button\">Tesztelés</gui> gombbal ellenőrizheti, hogy minden hangszóró működik-e és a megfelelő foglalatokba vannak-e bedugva."
 
 #. (itstool) path: info/desc
 #: C/sound-volume.page:30
@@ -20220,7 +20220,7 @@ msgid ""
 "introduction#systemmenu\">system menu</gui> from the right side of the top "
 "bar and move the volume slider left or right. You can completely turn off "
 "sound by dragging the slider to the left."
-msgstr ""
+msgstr "A hangerő módosításához nyissa meg a <gui xref=\"shell-introduction#systemmenu\">rendszer menüt</gui> a felső sáv jobb oldalán, és mozgassa a hangerőcsúszkát balra vagy jobbra. A csúszkát balra húzva ki is kapcsolhatja a hangot."
 
 #. (itstool) path: note/p
 #: C/sound-volume.page:42
@@ -20228,7 +20228,7 @@ msgid ""
 "If you hover over the volume icon in the top bar or the slider in the system"
 " menu, the volume can be controlled by scrolling the mouse wheel or "
 "touchpad."
-msgstr ""
+msgstr "Ha rámutat a felső sávon lévő hangerő ikonra vagy a rendszer menüben lévő csúszkára, akkor a hangerő az egérgörgő vagy az érintőtábla görgetésével szabályozható."
 
 #. (itstool) path: page/p
 #: C/sound-volume.page:47
@@ -20273,7 +20273,7 @@ msgid ""
 "Under <gui>Volume Levels</gui>, use the volume slider for each application "
 "to set its volume. Click the speaker button at the end of the slider to mute"
 " or unmute the application."
-msgstr ""
+msgstr "A <gui>Hangerőszintek</gui> alatt használja az egyes alkalmazások hangerőcsúszkáit a hangerő beállításához. Kattintson a csúszka végénél lévő hangszóró gombra az alkalmazás némításához vagy visszahangosításához."
 
 #. (itstool) path: note/p
 #: C/sound-volume.page:80
@@ -20282,7 +20282,7 @@ msgid ""
 "playing sounds but is not listed, it might not support the feature that lets"
 " you control its volume in this way. In such a case, you cannot change its "
 "volume."
-msgstr ""
+msgstr "Csak a hangot lejátszó alkalmazások vannak felsorolva. Ha egy alkalmazás lejátszik ugyan hangot, de nincs felsorolva az ablakban, akkor nem támogatja a hangerőszabályzás ezen módját. Ebben az esetben nem fogja tudni megváltoztatni a hangerejét."
 
 #. (itstool) path: credit/name
 #: C/status-icons.page:48
@@ -20306,7 +20306,7 @@ msgid ""
 "This page explains the meaning of icons located on the top right corner of "
 "the screen. More specifically, the different variations of the icons "
 "provided by the system are described."
-msgstr ""
+msgstr "Ez az oldal a képernyő jobb felső sarkában található ikonok jelentését magyarázza el. Pontosabban a rendszer által biztosított ikonok különböző változatait ismerteti."
 
 #. (itstool) path: section/title
 #: C/status-icons.page:71
@@ -20582,36 +20582,36 @@ msgid ""
 "Indicates the keyboard layout or input method currently in use. Click to "
 "select another layout. The keyboard layout menu is only shown if you have "
 "multiple input methods configured."
-msgstr ""
+msgstr "A jelenleg használt billentyűzetkiosztást vagy beviteli módot jelzi. Kattintson az ikonra egy másik kiosztás kiválasztásához. A billentyűzetkiosztás menü csak akkor jelenik meg, ha több beviteli módot állított be."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:533
 msgid ""
 "An app is currently accessing your location. You can disable location access"
 " from the menu."
-msgstr ""
+msgstr "Egy alkalmazás jelenleg hozzáfér az Ön tartózkodási helyéhez. A helymeghatározáshoz való hozzáférést letilthatja a menüben."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:545
 msgid ""
 "Night light has changed the color temperature of the display to reduce eye "
 "strain. You can temporarily disable night light from the menu."
-msgstr ""
+msgstr "Az éjszakai fény megváltoztatta a kijelző színhőmérsékletét a szem erőltetésének csökkentéséhez. Az éjszakai fényt átmenetileg letilthatja a menüben."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:558
 msgid "You are currently recording a screencast of your entire screen."
-msgstr ""
+msgstr "Jelenleg képernyőfelvételt rögzít a teljes képernyőjéről."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:569
 msgid "An app is currently sharing the screen or another window."
-msgstr ""
+msgstr "Egy alkalmazás éppen megosztja a képernyőt vagy egy másik ablakot."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:580
 msgid "Connecting to a Thunderbolt device, such as a dock."
-msgstr ""
+msgstr "Kapcsolódás egy Thunderbolt-eszközhöz, például egy dokkolóhoz."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:585
@@ -20739,12 +20739,12 @@ msgstr ""
 msgid ""
 "In the <gui>Type Special Characters</gui> section, click <gui>Compose "
 "Key</gui>."
-msgstr ""
+msgstr "A <gui>Különleges karakterek beírása</gui> szakaszban kattintson a <gui>Kombináló billentyű</gui> lehetőségre."
 
 #. (itstool) path: item/p
 #: C/tips-specialchars.page:103
 msgid "Turn the switch on for the <gui>Compose Key</gui>."
-msgstr ""
+msgstr "Kapcsolja be a <gui>Kombináló billentyű</gui> kapcsolóját."
 
 #. (itstool) path: item/p
 #: C/tips-specialchars.page:106
@@ -20870,19 +20870,19 @@ msgstr "Tippek és trükkök"
 #: C/touchscreen-gestures.page:28
 msgid ""
 "Manipulate your desktop using gestures on your touchpad or touchscreen."
-msgstr "Az asztal manipulálása az érintőtáblán vagy érintőképernyőn történő gesztusok használatával."
+msgstr "Az asztal manipulálása az érintőtáblán vagy érintőképernyőn történő kézmozdulatok használatával."
 
 #. (itstool) path: page/title
 #: C/touchscreen-gestures.page:31
 msgid "Use gestures on touchpads and touchscreens"
-msgstr "Gesztusok használata érintőtáblákon és érintőképernyőkön"
+msgstr "Kézmozdulatok használata érintőtáblákon és érintőképernyőkön"
 
 #. (itstool) path: page/p
 #: C/touchscreen-gestures.page:33
 msgid ""
 "Multitouch gestures can be used on touchpads and touchscreens for system "
 "navigation, as well as in applications."
-msgstr ""
+msgstr "A többérintéses kézmozdulatok az érintőtáblákon és az érintőképernyőkön a rendszer-navigációhoz, valamint az alkalmazásokban is használhatók."
 
 #. (itstool) path: page/p
 #: C/touchscreen-gestures.page:36
@@ -20890,31 +20890,31 @@ msgid ""
 "A number of applications make use of gestures. In <app>Document "
 "Viewer</app>, documents can be zoomed and swiped with gestures, and "
 "<app>Image Viewer</app> allows you to zoom, rotate and pan."
-msgstr ""
+msgstr "Számos alkalmazás használja ki a kézmozdulatokat. A <app>Dokumentummegjelenítőben</app> a dokumentumokat kézmozdulatokkal lehet nagyítani és pöccinteni, a <app>Képmegjelenítő</app> pedig lehetővé teszi a nagyítást, a forgatást és a pásztázást."
 
 #. (itstool) path: section/title
 #: C/touchscreen-gestures.page:41
 msgid "System-wide gestures"
-msgstr "Rendszerszintű gesztusok"
+msgstr "Rendszerszintű kézmozdulatok"
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:46
 msgid "<em>Open the Activities Overview and Applications View</em>"
-msgstr ""
+msgstr "<em>A tevékenységek áttekintés és az alkalmazások nézet megnyitása</em>"
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:47
 msgid ""
 "Place three fingers on the touchpad or touchscreen and gesture upwards to "
 "open the Activities Overview."
-msgstr ""
+msgstr "Tegye három ujját az érintőtáblára vagy az érintőképernyőre, és mozgassa a kezét felfelé a Tevékenységek áttekintés megnyitásához."
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:48
 msgid ""
 "To open the Applications View, place three fingers and gesture upwards "
 "again."
-msgstr ""
+msgstr "Az Alkalmazások nézet megnyitásához tegye le három ujját, és ismét mozgassa a kezét felfelé."
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:52
@@ -20926,19 +20926,19 @@ msgstr "<em>Munkaterület váltása</em>"
 msgid ""
 "Place three fingers on the touchpad or touchscreen and gesture left or "
 "right."
-msgstr ""
+msgstr "Tegye három ujját az érintőtáblára vagy az érintőképernyőre, és mozgassa a kezét balra vagy jobbra."
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:57
 msgid "<em>Exit from fullscreen</em>"
-msgstr ""
+msgstr "<em>Kilépés a teljes képernyőből</em>"
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:58
 msgid ""
 "On a touchscreen, drag down from the top edge to exit from the fullscreen "
 "mode of any window."
-msgstr ""
+msgstr "Az érintőképernyőn húzzon lefelé a felső széltől, hogy kilépjen bármelyik ablak teljes képernyős módjából."
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:62
@@ -20951,66 +20951,66 @@ msgid ""
 "On a touchscreen, drag up from the bottom edge to bring up the <link "
 "xref=\"keyboard-osk\">on-screen keyboard</link>, if the on-screen keyboard "
 "is enabled."
-msgstr ""
+msgstr "Az érintőképernyőn húzzon felfelé az alsó széltől, hogy előhozza a <link xref=\"keyboard-osk\">képernyő-billentyűzetet</link>, ha a képernyő-billentyűzet engedélyezve van."
 
 #. (itstool) path: section/title
 #: C/touchscreen-gestures.page:71
 msgid "Application gestures"
-msgstr "Alkalmazásgesztusok"
+msgstr "Alkalmazás-kézmozdulatok"
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:76
 msgid "<em>Open an item, launch an application, play a song</em>"
-msgstr ""
+msgstr "<em>Elem megnyitása, alkalmazás elindítása, dal lejátszása</em>"
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:77
 msgid "Tap on an item."
-msgstr ""
+msgstr "Koppintson egy elemre."
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:81
 msgid "<em>Select an item and list actions that can be performed</em>"
-msgstr ""
+msgstr "<em>Elem kiválasztása és az elvégezhető műveletek felsorolása</em>"
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:82
 msgid "Press and hold for a second or two."
-msgstr ""
+msgstr "Nyomjon és tartsa nyomva egy-két másodpercig."
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:86
 msgid "<em>Scroll the area on the screen</em>"
-msgstr ""
+msgstr "<em>A terület görgetése a képernyőn</em>"
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:87
 msgid "Drag: slide a finger touching the surface."
-msgstr ""
+msgstr "Húzás: csúsztassa az ujját a felülethez érintve."
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:91
 msgid ""
 "<em>Change the zoom level of a view (<app>Maps</app>, "
 "<app>Photos</app>)</em>"
-msgstr ""
+msgstr "<em>Nézet nagyítási szintjének megváltoztatása (<app>Térképek</app>, <app>Fényképek</app>)</em>"
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:93
 msgid ""
 "Two-finger pinch or stretch: Touch the surface with two fingers while "
 "bringing them closer or further apart."
-msgstr ""
+msgstr "Kétujjas csippentés vagy széthúzás: érintse meg a felületet két ujjal, miközben közelebb vagy távolabb viszi őket egymástól."
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:98
 msgid "<em>Rotate a photo</em>"
-msgstr ""
+msgstr "<em>Fénykép forgatása</em>"
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:99
 msgid "Two-finger rotate: Touch the surface with two fingers and rotate."
-msgstr ""
+msgstr "Kétujjas forgatás: érintse meg a felületet két ujjal, és forgasson."
 
 #. (itstool) path: info/desc
 #: C/translate.page:7
@@ -21153,7 +21153,7 @@ msgstr "Nyomja meg a jobb felső sarokban lévő <gui style=\"button\">Feloldás
 msgid ""
 "Press the <gui style=\"button\">+ Add User...</gui> button under <gui>Other "
 "Users</gui> to add a new user account."
-msgstr ""
+msgstr "Nyomja meg a <gui style=\"button\">+ Felhasználó hozzáadása…</gui> gombot az <gui>Egyéb felhasználók</gui> alatt egy új felhasználói fiók hozzáadásához."
 
 #. (itstool) path: item/p
 #: C/user-add.page:63
@@ -21190,20 +21190,20 @@ msgid ""
 "themselves on their first login. If you choose to set the password now, you "
 "can press the <gui style=\"button\"><_:media-1/></gui> icon to automatically"
 " generate a random password."
-msgstr ""
+msgstr "Választhat, hogy beállít egy jelszót az új felhasználónak, vagy hagyja, hogy az első bejelentkezéskor ő maga állítsa be. Ha a jelszó azonnali beállítását választja, akkor a <gui style=\"button\"><_:media-1/></gui> ikont megnyomva automatikusan előállíthat egy véletlen jelszót."
 
 #. (itstool) path: item/p
 #: C/user-add.page:81
 msgid ""
 "To connect the user to a network domain, click <gui>Enterprise Login</gui>."
-msgstr ""
+msgstr "A felhasználó hálózati tartományhoz való csatlakoztatásához kattintson a <gui>Vállalati bejelentkezés</gui> gombra."
 
 #. (itstool) path: item/p
 #: C/user-add.page:85
 msgid ""
 "Click <gui>Add</gui>. When the user has been added, <gui>Parental "
 "Controls</gui> and <gui>Language</gui> settings can be adjusted."
-msgstr ""
+msgstr "Kattintson a <gui>Hozzáadás</gui> gombra. Ha a felhasználó hozzáadásra került, akkor a <gui>Szülői felügyelet</gui> és a <gui>Nyelv</gui> beállítások is beállíthatók."
 
 #. (itstool) path: page/p
 #: C/user-add.page:91
@@ -21263,12 +21263,12 @@ msgstr "Kattintson a <gui>Felhasználók</gui> elemre a panel megnyitásához."
 msgid ""
 "Under <gui>Other Users</gui>, select the user whose privileges you want to "
 "change."
-msgstr ""
+msgstr "Az <gui>Egyéb felhasználók</gui> alatt válassza ki azt a felhasználót, akinek meg szeretné változtatni a jogosultságait."
 
 #. (itstool) path: item/p
 #: C/user-admin-change.page:62
 msgid "Set the <gui>Administrator</gui> switch to on."
-msgstr ""
+msgstr "Kapcsolja be a <gui>Rendszergazda</gui> kapcsolót."
 
 #. (itstool) path: item/p
 #: C/user-admin-change.page:65
@@ -21357,7 +21357,7 @@ msgstr "Összefoglalva, a rendszergazdai jogosultság szükség esetén lehetőv
 #. (itstool) path: note/title
 #: C/user-admin-explain.page:67
 msgid "What does “superuser” mean?"
-msgstr ""
+msgstr "Mit jelent a „szuperfelhasználó”?"
 
 #. (itstool) path: note/p
 #: C/user-admin-explain.page:68
@@ -21367,7 +21367,7 @@ msgid ""
 "than normal users. You might see people discussing things like <cmd>su</cmd>"
 " and <cmd>sudo</cmd>; these are programs for temporarily giving you "
 "“superuser” (administrative) privileges."
-msgstr ""
+msgstr "A rendszergazdai jogosultságokkal rendelkező felhasználót néha <em>szuperfelhasználónak</em> is nevezik. Ez egyszerűen azért van, mert ez a felhasználó több jogosultsággal rendelkezik, mint a normál felhasználók. Olyan dolgokról beszélgető emberekkel is találkozhat, mint a <cmd>su</cmd> és a <cmd>sudo</cmd>. Ezek olyan programok, amelyek átmenetileg „szuperfelhasználói” (adminisztrátori) jogosultságokat adnak."
 
 #. (itstool) path: section/title
 #: C/user-admin-explain.page:76
@@ -21467,7 +21467,7 @@ msgstr "Beállítható, hogy a számítógép bekapcsolásakor automatikusan bej
 msgid ""
 "If it is a different user account that you want to log into automatically, "
 "select the account under <gui>Other Users</gui>."
-msgstr ""
+msgstr "Ha az egy másik felhasználói fiók, amelyet automatikusan be szeretne jelentkeztetni, akkor válassza ki a fiókot az <gui>Egyéb felhasználók</gui> alatt."
 
 #. (itstool) path: item/p
 #: C/user-autologin.page:53
@@ -21517,7 +21517,7 @@ msgid ""
 "changing the password for a different user, you will first need to "
 "<gui>Unlock</gui> the panel and select the account under <gui>Other "
 "Users</gui>."
-msgstr ""
+msgstr "Kattintson a <gui>·····</gui> feliratra a <gui>Jelszó</gui> mellett. Ha egy másik felhasználó jelszavát módosítja, akkor először a <gui>Feloldás</gui> gombra kell kattintania a panel feloldásához, majd válassza ki a fiókot az <gui>Egyéb felhasználók</gui> alatt."
 
 #. (itstool) path: item/p
 #: C/user-changepassword.page:84
@@ -21583,7 +21583,7 @@ msgid ""
 "If you want to edit a user other than yourself, press <gui "
 "style=\"button\">Unlock</gui> in the top right corner and type in your "
 "password when prompted. Choose the user from <gui>Other Users</gui>."
-msgstr ""
+msgstr "Ha egy másik felhasználó beállításait szeretné szerkeszteni, akkor nyomja meg a jobb felső sarokban lévő <gui style=\"button\">Feloldás</gui> gombot, és adja meg jelszavát, ha kérik. Válassza ki a felhasználót az <gui>Egyéb felhasználók</gui> közül."
 
 #. (itstool) path: item/p
 #: C/user-changepicture.page:62
@@ -21591,7 +21591,7 @@ msgid ""
 "Click the pencil icon next to your name. A drop-down gallery will be shown "
 "with some stock login photos. If you like one of them, click it to use it "
 "for yourself."
-msgstr ""
+msgstr "Kattintson a neve melletti ceruza ikonra. Megjelenik egy legördülő galéria, amely az alapértelmezett bejelentkezési képeket tartalmazza. Ha valamelyik tetszik, akkor kattintson rá a saját képként való használatához."
 
 #. (itstool) path: item/p
 #: C/user-changepicture.page:67
@@ -21640,14 +21640,14 @@ msgstr "A felhasználói fiókok törléséhez <link xref=\"user-admin-explain\"
 msgid ""
 "Click on the user account that you want to delete under <gui>Other "
 "Users</gui>."
-msgstr ""
+msgstr "Kattintson a törölni kívánt felhasználói fiókra az <gui>Egyéb felhasználók</gui> alatt."
 
 #. (itstool) path: item/p
 #: C/user-delete.page:69
 msgid ""
 "Press the <gui style=\"button\">Remove User...</gui> button to delete that "
 "user account."
-msgstr ""
+msgstr "Nyomja meg a <gui style=\"button\">Felhasználó eltávolítása…</gui> gombot a felhasználói fiók törléséhez."
 
 #. (itstool) path: item/p
 #: C/user-delete.page:73
@@ -21981,74 +21981,74 @@ msgid ""
 "If no tablet is detected, you’ll be asked to <gui>Please plug in or turn on "
 "your Wacom tablet</gui>. Click <gui>Bluetooth</gui> in the sidebar to "
 "connect a wireless tablet."
-msgstr ""
+msgstr "Ha a rajztábla nem került felismerésre, akkor a program megkéri, hogy <gui>Csatlakoztassa vagy kapcsolja be Wacom rajztábláját</gui>. Kattintson az oldalsávon a <gui>Bluetooth</gui> hivatkozásra a vezeték nélküli rajztábla csatlakoztatásához."
 
 #. (itstool) path: item/p
 #: C/wacom-left-handed.page:44
 msgid "Set the <gui>Left-Handed Orientation</gui> switch to on."
-msgstr ""
+msgstr "Kapcsolja be a <gui>Balkezes tájolás</gui> kapcsolót."
 
 #. (itstool) path: info/desc
 #: C/wacom-map-buttons.page:20
 msgid "Assign functions to the hardware buttons on the graphics tablet."
-msgstr ""
+msgstr "Rendeljen funkciókat a rajztábla hardveres gombjaihoz."
 
 #. (itstool) path: page/title
 #: C/wacom-map-buttons.page:23
 msgid "Map the tablet buttons"
-msgstr ""
+msgstr "A rajztábla gombjainak hozzárendelése"
 
 #. (itstool) path: page/p
 #: C/wacom-map-buttons.page:25
 msgid ""
 "The hardware buttons on a tablet can be configured for various functions."
-msgstr ""
+msgstr "A rajztábla hardveres gombjai számos funkcióra beállíthatók."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:29
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Wacom Tablet</gui>."
-msgstr ""
+msgstr "Nyissa meg a <gui xref=\"shell-introduction#activities\">Tevékenységek</gui> áttekintést, és kezdje el begépelni a <gui>Wacom rajztábla</gui> szavakat."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:39
 msgid "Click <gui>Map Buttons</gui>."
-msgstr ""
+msgstr "Kattintson a <gui>Gombok leképezése</gui> gombra."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:42
 msgid ""
 "An on screen display shows the layout of the tablet's buttons. Press each "
 "button on the tablet and choose one of these functions:"
-msgstr ""
+msgstr "A képernyőn megjelenő kijelző megjeleníti a rajztábla gombjainak elrendezését. Nyomja meg a rajztábla minden egyes gombját, és válassza ki a következő funkciók valamelyikét:"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:45
 msgid "<gui>Application defined</gui>"
-msgstr ""
+msgstr "<gui>Alkalmazás által meghatározott</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:46
 msgid "<gui>Show on-screen help</gui>"
-msgstr ""
+msgstr "<gui>Képernyőn lévő súgó megjelenítése</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:47
 msgid "<gui>Switch monitor</gui>"
-msgstr ""
+msgstr "<gui>Monitor váltása</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:48
 msgid "<gui>Send keystroke</gui>"
-msgstr ""
+msgstr "<gui>Billentyűleütés küldése</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:52
 msgid ""
 "Click <gui>Done</gui> when each button is configured, and press "
 "<key>Esc</key> to exit."
-msgstr ""
+msgstr "Kattintson a <gui>Kész</gui> gombra, ha minden gomb beállításra került, és nyomja meg az <key>Esc</key> billentyűt a kilépéshez."
 
 #. (itstool) path: info/desc
 #: C/wacom-mode.page:24
@@ -22064,14 +22064,14 @@ msgstr "Wacom rajztábla követési módjának beállítása"
 #: C/wacom-mode.page:29
 msgid ""
 "<gui>Tablet Mode</gui> determines how the stylus is mapped to the screen."
-msgstr ""
+msgstr "A <gui>Rajztábla mód</gui> meghatározza, hogy az íróvessző hogyan kerül leképezésre a képernyőre."
 
 #. (itstool) path: item/p
 #: C/wacom-mode.page:42
 msgid ""
 "Choose between tablet (or absolute) mode and touchpad (or relative) mode. "
 "For tablet mode, switch <gui>Tablet Mode</gui> to on."
-msgstr ""
+msgstr "Válasszon a rajztábla (vagy abszolút) mód és az érintőtábla (vagy relatív) mód között. A rajztábla módhoz kapcsolja be a <gui>Rajztábla mód</gui> kapcsolót."
 
 #. (itstool) path: note/p
 #: C/wacom-mode.page:47
@@ -22087,7 +22087,7 @@ msgid ""
 "In <em>relative</em> mode, if you lift the stylus off the tablet and put it "
 "down in a different position, the pointer on the screen doesn’t move. This "
 "is the way a mouse operates."
-msgstr ""
+msgstr "Ha <em>relatív</em> módban felemeli az íróvesszőt a rajztábláról, és máshol teszi le, akkor a mutató nem mozog a képernyőn. Ez megegyezik az egér működésével."
 
 #. (itstool) path: info/desc
 #: C/wacom-multi-monitor.page:29
@@ -22104,7 +22104,7 @@ msgstr "Monitor kiválasztása"
 msgid ""
 "Next to <gui>Map to Monitor</gui>, select the monitor you wish to receive "
 "input from your graphics tablet, or choose <gui>All Displays</gui>."
-msgstr ""
+msgstr "A <gui>Leképezés monitorra</gui> mellett válassza ki azt monitort, amelyet a rajztáblától érkező kimenet fogadására szeretne használni, vagy válassza az <gui>Összes kijelző</gui> lehetőséget."
 
 #. (itstool) path: note/p
 #: C/wacom-multi-monitor.page:54
@@ -22119,36 +22119,36 @@ msgid ""
 "<em>force proportions</em>, “letterboxes” the drawing area on a tablet to "
 "correspond more directly to a display. For example, a 4∶3 tablet would be "
 "mapped so that the drawing area would correspond to a widescreen display."
-msgstr ""
+msgstr "Kapcsolja be a <gui>Méretarány megtartása</gui> kapcsolót, hogy a rajztábla rajzterülete megfeleljen a monitor arányainak. Ez a „letterboxnak” vagy <em>arányok kényszerítésének</em> is nevezett beállítás a rajzterületet közvetlenebbül felelteti meg a kijelzőnek. Például egy 4∶3 képarányú rajztábla úgy lesz leképezve, hogy a rajzterülete egy széles vásznú képernyőnek feleljen meg."
 
 #. (itstool) path: info/desc
 #: C/wacom-stylus.page:24
 msgid "Define the button functions and pressure feel of the Wacom stylus."
-msgstr "Definiálja a gombfunkciókat és a Wacom stylus nyomásérzékenységét."
+msgstr "A gombfunkciók és a Wacom íróvessző nyomásérzékenységének meghatározása."
 
 #. (itstool) path: page/title
 #: C/wacom-stylus.page:27
 msgid "Configure the stylus"
-msgstr "A stylus beállítása"
+msgstr "Az íróvessző beállítása"
 
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:40
 msgid ""
 "There is a section containing settings specific to each stylus, with the "
 "device name (the stylus class) and diagram at the top."
-msgstr ""
+msgstr "Van egy szakasz, amely az egyes íróvesszőkre jellemző beállításokat tartalmazza az eszköz nevével (az íróvessző osztályával) és diagrammal a tetején."
 
 #. (itstool) path: note/p
 #: C/wacom-stylus.page:42
 msgid ""
 "If no stylus is detected, you’ll be asked to <gui>Please move your stylus to"
 " the proximity of the tablet to configure it</gui>."
-msgstr "Ha a stylus nem került felismerésre, akkor a program megkéri, hogy <gui>Vigye a stylust a tábla közelébe, hogy beállítsa azt</gui>."
+msgstr "Ha az íróvessző nem került felismerésre, akkor a program megkéri, hogy <gui>Vigye az íróvesszőt a rajztábla közelébe, hogy beállítsa azt</gui>."
 
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:45
 msgid "These settings can be adjusted:"
-msgstr ""
+msgstr "Ezek a beállítások állíthatók be:"
 
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:47
@@ -22163,14 +22163,14 @@ msgid ""
 "Button/Scroll Wheel configuration (these change to reflect the stylus). "
 "Click the menu next to each label to select one of these functions: Middle "
 "Mouse Button Click, Right Mouse Button Click, Back, or Forward."
-msgstr ""
+msgstr "Gomb/gördítőkerék beállításai (ezek az íróvesszőt tükrözve változnak). Kattintson az egyes címkék melletti menükre az alábbi funkciók egyikének kiválasztásához: Kattintás a középső egérgombbal, Kattintás a jobb egérgombbal, Vissza, Előre."
 
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:56
 msgid ""
 "Click <gui>Test Your Settings</gui> in the header bar to pop down a "
 "sketchpad where you can test your stylus settings."
-msgstr ""
+msgstr "Kattintson a <gui>Beállítások tesztelése</gui> gombra a fejlécen egy vázlatfüzet lenyitásához, ahol kipróbálhatja az íróvessző beállításait."
 
 #. (itstool) path: info/title
 #: C/wacom.page:7

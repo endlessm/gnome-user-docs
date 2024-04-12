@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Danial Behzadi <dani.behzi@ubuntu.com>, 2020\n"
 "Language-Team: Persian (http://app.transifex.com/endless-os/gnome-user-docs/language/fa/)\n"
@@ -333,7 +333,7 @@ msgstr "برای گشودن تابلو، روی <gui>دسترسی‌پذیری</
 #: C/a11y-bouncekeys.page:62 C/a11y-slowkeys.page:65 C/a11y-stickykeys.page:68
 msgid ""
 "Press <gui>Typing Assist (AccessX)</gui> in the <gui>Typing</gui> section."
-msgstr ""
+msgstr "<gui>کمک نوشتاری (AccessX)</gui>را در بخش <gui>نوشتن</gui> بزنید."
 
 #. (itstool) path: item/p
 #: C/a11y-bouncekeys.page:66
@@ -877,7 +877,7 @@ msgstr "برای شروع <app>اُرکا</app> با استفاده از صفح�
 #. (itstool) path: item/p
 #: C/a11y-screen-reader.page:40
 msgid "Press <key>Super</key>+<key>Alt</key>+<key>S</key>."
-msgstr ""
+msgstr "<key>سوپر</key>+<key>دگرساز</key>+<key>S</key> را بفشارید."
 
 #. (itstool) path: page/p
 #: C/a11y-screen-reader.page:44
@@ -1098,7 +1098,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/a11y-visualalert.page:62
 msgid "Switch the <gui>Visual Alerts</gui> switch to on."
-msgstr ""
+msgstr "کلید <gui>هشدارهای دیداری</gui> را روشن کنید."
 
 #. (itstool) path: item/p
 #: C/a11y-visualalert.page:65
@@ -2391,7 +2391,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/bluetooth-device-specific-pairing.page:27
 msgid "PlayStation 5 joypads"
-msgstr ""
+msgstr "دسته‌های پلی‌استیشن ۵"
 
 #. (itstool) path: item/p
 #: C/bluetooth-device-specific-pairing.page:28
@@ -2731,7 +2731,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/bluetooth-turn-on-off.page:88
 msgid "Select <gui><_:media-1/> Bluetooth</gui>."
-msgstr ""
+msgstr "<gui><_:media-1/> بلوتوث</gui> را برگزیینید."
 
 #. (itstool) path: note/p
 #: C/bluetooth-turn-on-off.page:94
@@ -2808,7 +2808,7 @@ msgid ""
 "This requires you to use your calendar from <app>Evolution</app> or the "
 "<app>Calendar</app>, or for you to have an online account set up which "
 "<gui>Calendar</gui> supports."
-msgstr ""
+msgstr "این کار نیازمند استفاده‌تان از تقویم <app>اوولوشن</app> یا <app>تقویم</app>، یا داشتن حساب برخطی است که <app>تقویم</app> پشتیبانی کند."
 
 #. (itstool) path: note/p
 #: C/clock-calendar.page:46
@@ -2816,7 +2816,7 @@ msgid ""
 "Most distributions come with at least one of these programs installed by "
 "default. If yours does not, you may need to install it using your "
 "distribution’s package manager."
-msgstr ""
+msgstr "بیش‌تر توزیع‌ها لااقل یکی از این برنامه‌ها را به صورت پیش‌گزیده نصب می‌کنند. اگر توزیعتان این کار را نکرده، ممکن است بخواهید با مدیر بستهٔ توزیعتان نصبش کنید."
 
 #. (itstool) path: page/p
 #: C/clock-calendar.page:51
@@ -2826,14 +2826,14 @@ msgstr "برای مشاهده قرار‌های خود:"
 #. (itstool) path: item/p
 #: C/clock-calendar.page:54
 msgid "Click on the clock on the top bar."
-msgstr ""
+msgstr "روی ساعت در نوار بالایی کلیک کنید."
 
 #. (itstool) path: item/p
 #: C/clock-calendar.page:57
 msgid ""
 "Click the date for which you want to see your appointments from the "
 "calendar."
-msgstr ""
+msgstr "روی تاریخی که می‌خواهید قرارهایتان را از تقویم ببینید کلیک کنید."
 
 #. (itstool) path: note/p
 #: C/clock-calendar.page:61
@@ -2846,7 +2846,7 @@ msgid ""
 "Existing appointments will be displayed to the left of the calendar. As "
 "appointments are added to your <app>Evolution</app> calendar or to "
 "<app>Calendar</app>, they will appear in the clock’s appointment list."
-msgstr ""
+msgstr "قرارهای موجود در سمت راست تقویم نشان داده خواهند شد. همین که قرارها به تقویم <app>اوولوشن</app> یا <app>تقویم</app> اضافه شوند، در سیاههٔ قرارهای ساعت ظاهر خواهند شد."
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -5246,7 +5246,7 @@ msgstr "پیتر کوار"
 #. (itstool) path: info/desc
 #: C/display-blank.page:36
 msgid "Change the screen blanking time to save power."
-msgstr ""
+msgstr "تغییر زمان سیاه شدن صفحه برای ذخیرهٔ نیرو."
 
 #. (itstool) path: page/title
 #: C/display-blank.page:39
@@ -5297,7 +5297,7 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/display-brightness.page:42
 msgid "Change the screen brightness to make it more readable in bright light."
-msgstr ""
+msgstr "تغییر روشنایی صفحه و خواناتر کردنش در نور روشن."
 
 #. (itstool) path: page/title
 #: C/display-brightness.page:46
@@ -5504,7 +5504,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/display-night-light.page:42
 msgid "Click <gui>Night Light</gui> to open the settings."
-msgstr ""
+msgstr "برای گشودن تنظیمات، روی <gui>نور شب</gui> کلیک کنید."
 
 #. (itstool) path: item/p
 #: C/display-night-light.page:45
@@ -5860,7 +5860,7 @@ msgstr ""
 msgid ""
 "Right-click and select <gui>Copy</gui>, or press "
 "<keyseq><key>Ctrl</key><key>C</key></keyseq>."
-msgstr ""
+msgstr "کلیک راست کرده و <gui>رونوشت</gui> را برگزینید یا <keyseq><key>مهار</key><key>C</key></keyseq> را بزنید."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:51
@@ -5891,7 +5891,7 @@ msgstr ""
 msgid ""
 "Right-click and select <gui>Cut</gui>, or press "
 "<keyseq><key>Ctrl</key><key>X</key></keyseq>."
-msgstr ""
+msgstr "کلیک راست کرده و <gui>برش</gui> را برگزینید یا <keyseq><key>مهار</key><key>X</key></keyseq> را بزنید."
 
 #. (itstool) path: item/p
 #: C/files-copy.page:64
@@ -6320,7 +6320,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/files-open.page:58
 msgid "Select the <gui>Open With</gui> tab."
-msgstr ""
+msgstr "زبانهٔ <gui>گشودن با</gui> را برگزینید."
 
 #. (itstool) path: item/p
 #: C/files-open.page:59
@@ -7837,12 +7837,12 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/keyboard-key-super.page:65
 msgid "Select the <gui>System</gui> category."
-msgstr ""
+msgstr "دستهٔ <gui>سامانه</gui> را برگزینید."
 
 #. (itstool) path: item/p
 #: C/keyboard-key-super.page:68
 msgid "Click the row with <gui>Show the activities overview</gui>."
-msgstr "ردیف <gui>نمایش نمای کلّی فعّالیت‌ها</gui> را بزنید."
+msgstr "ردیف <gui>نمایش نمای کلی فعّالیت‌ها</gui> را بزنید."
 
 #. (itstool) path: item/p
 #: C/keyboard-key-super.page:71
@@ -8896,7 +8896,7 @@ msgstr "نماگرفت‌ها"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:281
 msgid "Save a screenshot of a window"
-msgstr ""
+msgstr "ذخیرهٔ نماگرفتی از یک پنجره"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:282 C/screen-shot-record.page:207
@@ -8907,7 +8907,7 @@ msgstr "<keyseq><key>دگرساز</key><key>نماگرفت</key></keyseq>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:285
 msgid "Save a screenshot of the entire screen"
-msgstr ""
+msgstr "ذخیرهٔ نماگرفتی از یک ناحیه"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:286 C/screen-shot-record.page:211
@@ -8918,7 +8918,7 @@ msgstr "<keyseq><key>تبدیل</key><key>نماگرفت</key></keyseq>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:289
 msgid "Launch the screenshot tool"
-msgstr ""
+msgstr "اجرای ابزار نماگرفت"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:290 C/shell-keyboard-shortcuts.page:167
@@ -9114,7 +9114,7 @@ msgstr "<keyseq><key>سوپر</key><key>A</key></keyseq>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:374
 msgid "Show the notification list"
-msgstr "نمایش فهرست آگاهی‌ها"
+msgstr "نمایش سیاههٔ آگاهی‌ها"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:378
@@ -9361,12 +9361,12 @@ msgstr "ایوان استنتون"
 #. (itstool) path: info/desc
 #: C/look-background.page:55
 msgid "Choose a style and set a background."
-msgstr ""
+msgstr "سبکی گزیده و پس‌زمینه‌ای تنظیم کنید."
 
 #. (itstool) path: page/title
 #: C/look-background.page:58
 msgid "Change the appearance of your desktop"
-msgstr ""
+msgstr "تغییر ظاهر میزکارتان"
 
 #. (itstool) path: page/p
 #: C/look-background.page:60
@@ -9391,7 +9391,7 @@ msgstr ""
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Appearance</gui>."
-msgstr ""
+msgstr "نمای کلی <gui xref=\"shell-introduction#activities\">فعالیت‌ها</gui> را گشوده و شروع به نوشتن <gui>ظاهر</gui> کنید."
 
 #. (itstool) path: item/p
 #: C/look-background.page:74
@@ -9413,12 +9413,12 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/look-background.page:88
 msgid "Background"
-msgstr ""
+msgstr "پس‌زمینه"
 
 #. (itstool) path: section/p
 #: C/look-background.page:89
 msgid "To change the image used for your background:"
-msgstr ""
+msgstr "برای تغییر تصویر استفاده شده برای پس‌زمینه‌تان:"
 
 #. (itstool) path: item/p
 #: C/look-background.page:93
@@ -9672,12 +9672,12 @@ msgstr ""
 msgid ""
 "Manage your sound devices, use your media files, connect to external "
 "devices, and more."
-msgstr ""
+msgstr "مدیریت افزاره‌های صوتی، استفاده از پرونده‌های رسانه‌ای، وصل شدن به افزاره‌های خارجی و بیش‌تر."
 
 #. (itstool) path: page/title
 #: C/media.page:27
 msgid "Sound and media"
-msgstr ""
+msgstr "صدا و رسانه"
 
 #. (itstool) path: info/title
 #: C/media.page:31
@@ -9713,18 +9713,18 @@ msgstr "صدای پایه"
 #: C/media.page:42
 msgctxt "link"
 msgid "Music, video &amp; devices"
-msgstr ""
+msgstr "آهنگ، ویدیو و افزاره‌ها"
 
 #. (itstool) path: section/title
 #: C/media.page:43
 msgid "Music, video &amp; devices"
-msgstr ""
+msgstr "آهنگ، ویدیو و افزاره‌ها"
 
 #. (itstool) path: info/desc
 #: C/more-help.page:19
 msgid ""
 "Get tips on using this guide, and connect with the community for more help."
-msgstr ""
+msgstr "یاری گرفتن در مورد استفاده از این راهنما و وصل شدن به اجتماع برای کمک بیش‌تر."
 
 #. (itstool) path: page/title
 #: C/more-help.page:26
@@ -10263,7 +10263,7 @@ msgstr "به کار انداختن لغزش دو انگشتی"
 #. (itstool) path: item/p
 #: C/mouse-touchpad-click.page:147
 msgid "Switch the <gui>Two-finger Scrolling</gui> switch to on."
-msgstr ""
+msgstr "کلید <gui>لغزش دو انگشتی</gui> را روشن کنید."
 
 #. (itstool) path: section/title
 #: C/mouse-touchpad-click.page:153
@@ -10287,7 +10287,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/mouse-touchpad-click.page:170
 msgid "Switch the <gui>Natural Scrolling</gui> switch to on."
-msgstr ""
+msgstr "کلید <gui>لغزش طبیعی</gui> را روشن کنید."
 
 #. (itstool) path: note/p
 #: C/mouse-touchpad-click.page:175
@@ -11913,17 +11913,17 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "درگاه"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "شرح"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
@@ -11940,7 +11940,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11967,7 +11967,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
@@ -11984,12 +11984,12 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "میزکار دوردست"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
@@ -12001,12 +12001,12 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "هم‌رسانی آهنگ (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
@@ -13090,7 +13090,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:48
 msgid "Click the name of the network you want."
-msgstr ""
+msgstr "نام شبکه‌ای که می‌خواهید را بزنید."
 
 #. (itstool) path: item/p
 #: C/net-wireless-connect.page:49
@@ -14237,7 +14237,7 @@ msgstr "برپایی تعلیق خودکار"
 msgid ""
 "You can configure your computer to automatically suspend when idle. "
 "Different intervals can be specified for running on battery or plugged in."
-msgstr ""
+msgstr "می‌توانید رایانه‌تان را برای تعلیق خودکار هنگام بی‌کاری پیکربندی کنید. می‌توان برای حالت‌های استفاده از باتری یا وصل بودن به برق، زمان‌های متفاوتی مشخّص کرد."
 
 #. (itstool) path: item/p
 #: C/power-autosuspend.page:44
@@ -14251,13 +14251,13 @@ msgstr "در بخش <gui>گزینه‌های ذخیرهٔ نیرو</gui>، رو�
 msgid ""
 "Choose <gui>On Battery Power</gui> or <gui>Plugged In</gui>, set the switch "
 "to on, and select a <gui>Delay</gui>. Both options can be configured."
-msgstr ""
+msgstr "<gui>روی نیروی باتری</gui> یا <gui>متّصل به برق</gui> را برگزینید. کلید را روش کرده و <gui>تأخیر</gui> برگزینید. هر دو گزینه می‌توانند پیکربندی شوند."
 
 #. (itstool) path: note/p
 #: C/power-autosuspend.page:53
 msgid ""
 "On a desktop computer, there is one option labeled <gui>When Idle</gui>."
-msgstr ""
+msgstr "روی یک رایانهٔ میزکار، یک گزینه با عنوان <gui>هنگام بی‌کاری</gui> وجود دارد."
 
 #. (itstool) path: info/desc
 #: C/power-batteryestimate.page:15
@@ -14390,7 +14390,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/power-batterylife.page:83
 msgid "Laptops, netbooks, and other devices with batteries"
-msgstr ""
+msgstr "لپ‌تاپ‌ها، نت‌بوک‌ها و دیگر افزاره‌های باتری‌دار"
 
 #. (itstool) path: item/p
 #: C/power-batterylife.page:87
@@ -14564,7 +14564,7 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/power-closelid.page:36
 msgid "Laptops go to sleep when you close the lid, in order to save power."
-msgstr ""
+msgstr "لپ‌تاپ‌ها برای ذخیرهٔ نیرو هنگام بستن در، به خواب می‌روند."
 
 #. (itstool) path: page/title
 #: C/power-closelid.page:40
@@ -14865,7 +14865,7 @@ msgstr "نمایش درصد باتری در نوار بالایی"
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Power</gui>."
-msgstr ""
+msgstr "نمای کلی <gui xref=\"shell-introduction#activities\">فعّالیت‌ها</gui> را گشوده و شروع به نوشتن <gui>نیرو</gui> کنید."
 
 #. (itstool) path: item/p
 #: C/power-percentage.page:44
@@ -14966,12 +14966,12 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/power-suspendfail.page:13
 msgid "Some computer hardware causes problems with suspend."
-msgstr ""
+msgstr "برخی سخت‌افزارهای رایانه موجب مشکلاتی با تعلیق می‌شوند."
 
 #. (itstool) path: page/title
 #: C/power-suspendfail.page:27
 msgid "Why does my computer not turn back on after I suspended it?"
-msgstr ""
+msgstr "چرا رایانه‌ام پس از تعلیق برنمی‌گردد؟"
 
 #. (itstool) path: page/p
 #: C/power-suspendfail.page:29
@@ -15267,7 +15267,7 @@ msgstr "نیرو"
 #. (itstool) path: info/desc
 #: C/power.page:24
 msgid "View your battery status and change power saving settings."
-msgstr "وضعیت باتریتان را دیده و تنظیمات ذخیرهٔ نیروRead screen aloud  را تغییر دهید."
+msgstr "وضعیت باتریتان را دیده و تنظیمات ذخیرهٔ نیرو را تغییر دهید."
 
 #. (itstool) path: page/title
 #: C/power.page:27
@@ -15770,7 +15770,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/printing-differentsize.page:42
 msgid "Select the <gui>Page Setup</gui> tab."
-msgstr ""
+msgstr "زبانهٔ <gui>برپایی صفحه</gui> را برگزینید."
 
 #. (itstool) path: item/p
 #: C/printing-differentsize.page:45
@@ -16694,7 +16694,7 @@ msgid ""
 "screen, you may wish to have your computer’s screen lock automatically after"
 " a set period of time. This will help to secure your computer when you "
 "aren’t using it."
-msgstr ""
+msgstr "هنگام ترک رایانه‌تان باید <link xref=\"shell-exit#lock-screen\">صفحه را قفل کنید</link> تا از استفادهٔد دیگر افرا از میزکارتان و دسترسیشان به پرونده‌هایتان جلوگیری کنید. اگر گاهی فراموش می‌کنید که صفحه‌تان را قفل کنید، ممکن است بخواهید صفحهٔ رایانه‌تان پس از مدّتی به صورت خودکار قفل شود. این کار به امن کردن رایانه‌تان هنگامی که استفاده‌اش نمی‌کنید کمک می‌کند."
 
 #. (itstool) path: note/p
 #: C/privacy-screen-lock.page:53
@@ -16702,12 +16702,12 @@ msgid ""
 "When your screen is locked, your applications and system processes will "
 "continue to run, but you will need to enter your password to begin using "
 "them again."
-msgstr ""
+msgstr "هنگام قفل بودن صفحه‌تان، فرایندهای سامانه‌ای و برنامه‌هایتان به کار ادامه خواهند داد؛ ولی برای آغاز به استفادهٔ دوباره از آن‌ها نیاز به ورود گذرواژه دارید."
 
 #. (itstool) path: steps/title
 #: C/privacy-screen-lock.page:58
 msgid "To set the length of time before your screen locks automatically:"
-msgstr ""
+msgstr "برای تنظیم مدّت زمان پیش از قفل شدن خودکار صفحه‌تان:"
 
 #. (itstool) path: item/p
 #: C/privacy-screen-lock.page:61 C/session-screenlocks.page:49
@@ -16717,7 +16717,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/privacy-screen-lock.page:64 C/session-screenlocks.page:53
 msgid "Click on <gui>Screen</gui> to open the panel."
-msgstr ""
+msgstr "برای گشودن تابلو، روی <gui>صفحه</gui> کلیک کنید."
 
 #. (itstool) path: item/p
 #: C/privacy-screen-lock.page:67
@@ -16725,7 +16725,7 @@ msgid ""
 "Make sure <gui>Automatic Screen Lock</gui> is switched on, then select a "
 "length of time from the <gui>Automatic Screen Lock Delay</gui> drop-down "
 "list."
-msgstr ""
+msgstr "مطمئن شوید <gui>قفل صفحهٔ خودکار</gui> روشن شده، سپس مدّتی را از سیاههٔ پایین افتادنی<gui>تأخیر قفل صفحهٔ خودکار</gui> برگزینید."
 
 #. (itstool) path: note/p
 #: C/privacy-screen-lock.page:73
@@ -16736,7 +16736,7 @@ msgid ""
 "seeing these notifications, switch <gui>Show Notifications on Lock "
 "Screen</gui> off. For further notification settings, refer to <link "
 "xref=\"shell-notifications\"/>."
-msgstr ""
+msgstr "برنامه‌ها می‌توانند آگاهی‌هایی برایتان بفرستند مه همچنان روی صفخهٔ قفلتان نشان داده می‌شود. این امر برای مثال، برای دیدن این که رایانامه‌ای دارید یا نه، بدون قفل‌گشایی صفحه‌تان مناسب است. اگر نگران دیده شدن این آگاهی‌ها به دست دیگر افرادید، <gui>»مایش آگاهی‌ها روی صفحهٔ قفل</gui> را خاموش کنید. برای تنظمیات آگاهی بیش‌تر، به <link xref=\"shell-notifications\"/> مراجعه کنید."
 
 #. (itstool) path: page/p
 #: C/privacy-screen-lock.page:80
@@ -16746,7 +16746,7 @@ msgid ""
 "password, and press <key>Enter</key> or click <gui>Unlock</gui>. "
 "Alternatively, just start typing your password and the lock curtain will be "
 "automatically raised as you type."
-msgstr ""
+msgstr "هنگامی که صفحه‌تان قفل است و می‌خواهید قفل‌گشاییش کنید، <key>گریز</key> را زده یا از پایین صفحه به بالا بکشید. سپس گذرواژه‌تان را وارد کرد و <key>ورود</key> را زده یا روی <gui>قفل‌گشایی</gui> کلیک کنید. هم‌چنین می‌توانید آغاز به نوشتن گذرواژه‌تان کرده و پردهٔ قفل به صورت خودکار بالا خواهد رفت."
 
 #. (itstool) path: credit/name
 #: C/screen-shot-record.page:34
@@ -16855,7 +16855,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:103
 msgid "Where do they go?"
-msgstr ""
+msgstr "کجا می‌روند؟"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:107
@@ -16929,7 +16929,7 @@ msgid ""
 "Once you have finished, click the red indicator or press "
 "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq> "
 "to stop the recording."
-msgstr ""
+msgstr "پس از پایان، برای توقّف ضبط نشانگر قرمز را زده یا <keyseq><key>تبدیل</key><key>مهار</key><key>دگرساز</key><key>R</key> </keyseq> را بفشارید."
 
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:170
@@ -16944,64 +16944,64 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:177
 msgid "<key>S</key>"
-msgstr ""
+msgstr "<key>S</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:178
 msgid "Select area"
-msgstr ""
+msgstr "گزینش ناحیه"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:181
 msgid "<key>C</key>"
-msgstr ""
+msgstr "<key>C</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:182
 msgid "Capture screen"
-msgstr ""
+msgstr "ضبط صفحه"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:185
 msgid "<key>W</key>"
-msgstr ""
+msgstr "<key>W</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:186
 msgid "Capture window"
-msgstr ""
+msgstr "ضبط پنجره"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:189
 msgid "<key>P</key>"
-msgstr ""
+msgstr "<key>P</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:190
 msgid "Toggle between show and hide pointer"
-msgstr ""
+msgstr "تغییر وضعیت بین نمایش و نهفتن نشانگر"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:193
 msgid "<key>V</key>"
-msgstr ""
+msgstr "<key>V</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:194
 msgid "Toggle between screenshot and screencast"
-msgstr ""
+msgstr "تغغیر حالت بین نماگرفت و ضبط‌صفحه"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:197
 msgid "<key>Enter</key>"
-msgstr ""
+msgstr "<key>ورود</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:198
 msgid ""
 "Capture, also activated by <key>Space</key> or "
 "<keyseq><key>Ctrl</key><key>C</key></keyseq>"
-msgstr ""
+msgstr "ضبط همچنین با <key>فاصله</key> یا <keyseq><key>مهار</key><key>C</key></keyseq> فعّال می‌شود"
 
 #. (itstool) path: section/p
 #: C/screen-shot-record.page:203
@@ -17011,23 +17011,23 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:208
 msgid "Capture the window that currently has focus"
-msgstr ""
+msgstr "گرفتن پنجره‌ای که هم‌اکنون تمرکز را دارد"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:212
 msgid "Capture the entire screen"
-msgstr ""
+msgstr "ضبط کل صفحه"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:215 C/shell-keyboard-shortcuts.page:181
 msgid ""
 "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>تبدیل</key><key>مهار</key><key>دگرساز</key><key>R</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:216
 msgid "Start and stop recording a screencast"
-msgstr ""
+msgstr "آغاز و پایان ضبط صفحه"
 
 #. (itstool) path: info/desc
 #: C/session-fingerprint.page:41
@@ -17278,7 +17278,7 @@ msgstr ""
 msgid ""
 "Change how long to wait before locking the screen in the <gui>Screen "
 "Lock</gui> settings."
-msgstr "مقدار انتظار پیش از قفل شدن صحه را در تنظیمات <gui>قفل صفحه</gui> تغییر دهید."
+msgstr "تغییر مقدار انتظار پیش از قفل کردن صفحه در تنظیمات <gui>صفحهٔ قفل</gui>."
 
 #. (itstool) path: page/title
 #: C/session-screenlocks.page:37
@@ -17293,26 +17293,26 @@ msgid ""
 " is done for security reasons (so no one can mess with your work if you "
 "leave the computer unattended), but it can be annoying if the screen locks "
 "itself too quickly."
-msgstr ""
+msgstr "اگر رایانه‌تان را برای مدّت کوتاهی ترک کنید، صفحه خودش را به صورت خودکار قفل خواهد کرد و برای آغاز استفادهٔ دوباره از آن، باید گذرواژه‌تان را وارد کنید. این کار به دلایل امنیتی انجام می‌شود تا کسی نتواند در صورت ترک بی‌توجّه رایانه، کارتان را خراب کند؛ ولی اگر صفحه خودش را بیش از حد زود قفل کند، آزاردهنده خواهد بود."
 
 #. (itstool) path: page/p
 #: C/session-screenlocks.page:45
 msgid "To wait a longer period before the screen is automatically locked:"
-msgstr ""
+msgstr "برای انتظار طولانی‌تر پیش از قفل شدن خودکار صفحه:"
 
 #. (itstool) path: item/p
 #: C/session-screenlocks.page:56
 msgid ""
 "If <gui>Automatic Screen Lock</gui> is on, you can change the value in the "
 "<gui>Automatic Screen Lock Delay</gui> drop-down list."
-msgstr ""
+msgstr "اگر <gui>قفل صفحهٔ خودکار</gui> روشن باشد، می‌توانید مقدار را در سیاههٔ پایین افتادنی <gui>تأخیر قفل صفحهٔ خودکار</gui> تغییر دهید."
 
 #. (itstool) path: note/p
 #: C/session-screenlocks.page:62
 msgid ""
 "If you don’t ever want the screen to lock itself automatically, switch the "
 "<gui>Automatic Screen Lock</gui> switch to off."
-msgstr ""
+msgstr "اگر هرگز نمی‌خواهید صفحه خودش را به صورت خودکار قفل کند، وضعیت کلید <gui>قفل صفحهٔ خودکار</gui> را به خاموش تغییر دهید."
 
 #. (itstool) path: info/desc
 #: C/sharing.page:11
@@ -17413,7 +17413,7 @@ msgstr ""
 msgid ""
 "If the <gui>Sharing</gui> switch in the top-right of the window is set to "
 "off, click to switch it on."
-msgstr ""
+msgstr "اگر <gui>هم‌رسانی</gui> در بالای چپ پنجره خاموش بود، برای روشن کردنش کلیک کنید."
 
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:85 C/sharing-media.page:70
@@ -17427,7 +17427,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:90
 msgid "Click <gui>Remote Desktop</gui>."
-msgstr ""
+msgstr "<gui>میزکار دوردست</gui> را بزنید."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:93
@@ -17461,7 +17461,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:112
 msgid "User Name"
-msgstr ""
+msgstr "نام کاربری"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:113 C/sharing-desktop.page:117
@@ -17471,7 +17471,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:116
 msgid "Password"
-msgstr ""
+msgstr "گذرواژه"
 
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:119
@@ -17519,7 +17519,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:162
 msgid "Clients"
-msgstr ""
+msgstr "کارخواه‌ها"
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:164
@@ -17531,7 +17531,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:168
 msgid "From Linux:"
-msgstr ""
+msgstr "از گنو/لینوکس:"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:170
@@ -17554,7 +17554,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:183
 msgid "From Microsoft Windows:"
-msgstr ""
+msgstr "از ویندوز مایکروسافت:"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:185
@@ -17566,7 +17566,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:191
 msgid "From Linux, Windows, or macOS:"
-msgstr ""
+msgstr "از گنو/لینوکس، ویندوز یا مک‌اواس:"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:193
@@ -17590,27 +17590,27 @@ msgstr "برای قطع کردن کسی که میزکارتان را می‌بی
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:209
 msgid "Click the system menu on the right side of the top bar."
-msgstr ""
+msgstr "فهرست سامانه را در سمت چپ نوار بالایی بزنید."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:212
 msgid "Click <gui>Screen is being shared</gui>."
-msgstr ""
+msgstr "روی <gui> صفحه هم‌رسانی می‌شود</gui> کلیک کنید."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:215
 msgid "Click <gui>Turn off</gui>."
-msgstr ""
+msgstr "<gui>خاموش کردن</gui> را بزنید."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:222
 msgid "Advanced Topics"
-msgstr ""
+msgstr "موضوع‌های پیشرفته‌تر"
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:226
 msgid "Command line configuration"
-msgstr ""
+msgstr "پیکربندی خط فرمان"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:227
@@ -17622,7 +17622,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:232
 msgid "H.264"
-msgstr ""
+msgstr "H.264"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:233
@@ -17631,12 +17631,12 @@ msgid ""
 "Desktop</app> will use H.264 when: the graphics pipeline is used (a "
 "requirement of the protocol), the client supports it, and NVENC (NVIDIA's "
 "encoder) is available."
-msgstr ""
+msgstr "کدبندی ویدیویی H.264 وهنای باند را به شدّت می‌کاهد. <app>میزکار دورست گنوم</app> از H.264 استفاده خواهد کرد هرگاه: خط لولهٔ گرافیکی استفاده می‌شود (نیازمندی شیوه‌نامه)، کارخواه پشتیبانیش کند و NVENC (کدبند انویدیا) موجود باشد."
 
 #. (itstool) path: info/desc
 #: C/sharing-displayname.page:25
 msgid "Control how your computer will appear to other computers or devices."
-msgstr ""
+msgstr "چگونگی ظاهر شدن رایانه‌تان به دیگر رایانه‌ها یا افزاره‌ها را واپایش کنید."
 
 #. (itstool) path: page/title
 #: C/sharing-displayname.page:29
@@ -17648,12 +17648,12 @@ msgstr "تنظیم نام نمایشی رایانه‌تان"
 msgid ""
 "You can change the name your computer uses to display itself to other "
 "computers or devices, on the network or over Bluetooth."
-msgstr ""
+msgstr "می‌توانید نامی که رایانه‌تان برای نمایش خودش به دیگر رایانه‌ها یا افزاره‌های روی شبکه یا بلوتوث استفاده می‌کند را تغییر دهید."
 
 #. (itstool) path: steps/title
 #: C/sharing-displayname.page:35
 msgid "Change the display name of your computer:"
-msgstr ""
+msgstr "تغییر نام نمایشی رایانه‌تان:"
 
 #. (itstool) path: item/p
 #: C/sharing-displayname.page:37 C/sharing-media.page:61
@@ -17666,7 +17666,7 @@ msgstr ""
 msgid ""
 "Edit the text below <gui>Computer Name</gui> to change the name your "
 "computer displays on the network."
-msgstr ""
+msgstr "متن زیر <gui>نام رایانه</gui> را برای تغییر نامی که رایانه‌تان روی شبکه نشان می‌دهد، ویرایش کنید."
 
 #. (itstool) path: info/desc
 #: C/sharing-media.page:28
@@ -17685,26 +17685,26 @@ msgid ""
 "<sys>UPnP</sys> or <sys>DLNA</sys> enabled device such as a phone, TV or "
 "game console. Configure <gui>Media Sharing</gui> to allow these devices to "
 "access the folders containing your music, photos and videos."
-msgstr ""
+msgstr "می‌توانید با استفاده از یک افزارهٔ دارای <sys>UPnP</sys> یا <sys>DLNA</sys> چون یک تلفن، تلویزیون یا کنسول بازی، رسانهٔ روی رایانه‌تان را مرور، جست‌وجو و پخش کنید. برای اجازه به این افزاره‌ها برای دسترسی به شاخه‌های دارای آهنگ، عکس و ویدیوهایتان، <gui>هم‌رسانی رسانه</gui> را پیکربندی کنید."
 
 #. (itstool) path: note/p
 #: C/sharing-media.page:49
 msgid ""
 "You must have the <app>Rygel</app> package installed for <gui>Media "
 "Sharing</gui> to be visible."
-msgstr ""
+msgstr "برای نمایانی<gui> هم‌رسانی رسانه</gui> باید بستهٔ <app>Rygel</app> را نصب داشته باشید."
 
 #. (itstool) path: when/p
 #: C/sharing-media.page:54
 msgid "<link action=\"install:rygel\" style=\"button\">Install Rygel</link>"
-msgstr ""
+msgstr "<link action=\"install:rygel\" style=\"button\">نصب Rygel</link>"
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:67 C/sharing-personal.page:63
 msgid ""
 "If the <gui>Sharing</gui> switch in the top-right of the window is set to "
 "off, switch it to on."
-msgstr ""
+msgstr "اگر کلید <gui>هم‌رسانی</gui> در بالا سمت چپ پنجره روی خاموش تنظیم شده، روشنش کنید."
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:75
@@ -17714,7 +17714,7 @@ msgstr "<gui>هم‌رسانی رسانه</gui> را برگزیینید."
 #. (itstool) path: item/p
 #: C/sharing-media.page:78
 msgid "Switch the <gui>Media Sharing</gui> switch to on."
-msgstr ""
+msgstr "کلید <gui>هم‌رسانی رسانه</gui> را روشن کنید."
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:81
@@ -17722,7 +17722,7 @@ msgid ""
 "By default, <file>Music</file>, <file>Pictures</file> and "
 "<file>Videos</file> are shared. To remove one of these, click the "
 "<gui>×</gui> next to the folder name."
-msgstr ""
+msgstr "به صورت پیش‌گزیده <file>آهنگ‌ها</file>، <file>عکس‌ها</file> و <file>ویدیوها</file> هم‌رسانی می‌شوند. برای برداشتن هرکدامشان، روی <gui>×</gui> کنار نام شاخه بزنید."
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:86
@@ -17730,14 +17730,14 @@ msgid ""
 "To add another folder, click <gui style=\"button\">+</gui> to open the "
 "<gui>Choose a folder</gui> window. Navigate <em>into</em> the desired folder"
 " and click <gui style=\"button\">Open</gui>."
-msgstr ""
+msgstr "برای افزودن شاخه‌ای دیگر، روی <gui style=\"button\">+</gui> بزنید تا پنجرهٔ <gui>گزینش یک شاخه</gui> گشوده شود. به <em>درون</em> شاخهٔ دلخواه رفته و <gui style=\"button\">گشودن</gui> را بزنید."
 
 #. (itstool) path: item/p
 #: C/sharing-media.page:91
 msgid ""
 "Click <gui style=\"button\">×</gui>. You will now be able to browse or play "
 "media in the folders you selected using the external device."
-msgstr ""
+msgstr "روی <gui style=\"button\">×</gui> بزنید. حال می‌توانید رسانه‌های داخل شاخه‌هایی که با استفاده از افزارهٔ خارجی گزیده‌اید را مرور یا پخش کنید."
 
 #. (itstool) path: section/title
 #: C/sharing-media.page:97 C/sharing-personal.page:104
@@ -17750,12 +17750,12 @@ msgid ""
 "The <gui>Networks</gui> section lists the networks to which you are "
 "currently connected. Use the switch next to each to choose where your media "
 "can be shared."
-msgstr ""
+msgstr "بخش <gui>شبکه‌ها</gui> شبکه‌هایی که به آن‌ها وصل شده‌اید را سیاهه می‌کند. برای گزینش مکان هم‌رسانی رسانه‌هایتان از کلید کنار هر شبکه استفاده کنید."
 
 #. (itstool) path: info/desc
 #: C/sharing-personal.page:28
 msgid "Let other people access files in your <file>Public</file> folder."
-msgstr ""
+msgstr "بگذارید دیگر افزار به پرونده‌های درون شاخهٔ <file>عمومی</file>تان دسترسی داشته باشند."
 
 #. (itstool) path: page/title
 #: C/sharing-personal.page:32
@@ -17769,7 +17769,7 @@ msgid ""
 "<file>Home</file> folder from another computer on the network. Configure "
 "<gui>Personal File Sharing</gui> to allow others to access the contents of "
 "the folder."
-msgstr ""
+msgstr "می‌توانید به رایانه‌ای دیگر روی شبکه اجازه دهید به شاخهٔ <file>عمومی</file> در شاخهٔ <file>خانه</file>تان دسترسی داشته باشد. برای اجازه به دیگران برای دسترسی به محتوای شاخه، <gui>هم‌رسانی پروندهٔ شخصی</gui> را پیکربندی کنید."
 
 #. (itstool) path: item/p
 #: C/sharing-personal.page:71
@@ -17835,7 +17835,7 @@ msgstr "سنجاق کردن کاره‌های محبوبتان به دش"
 msgid ""
 "To add an application to the <link xref=\"shell-"
 "introduction#activities\">dash</link> for easy access:"
-msgstr ""
+msgstr "برای افزودن برنامه‌ای به <link xref=\"shell-introduction#activities\">دش</link> برای دسترسی آسان:"
 
 #. (itstool) path: page/p
 #: C/shell-apps-favorites.page:43
@@ -17865,7 +17865,7 @@ msgstr ""
 msgid ""
 "To remove an application icon from the dash, right-click the application "
 "icon and select <gui>Remove from Favorites</gui>."
-msgstr ""
+msgstr "برای برداشتن یک نقشک برنامه از دش، روی نقشک برنامه کلیک راست کرده و <gui>سنجاق نکردن</gui> را برگزینید."
 
 #. (itstool) path: note/p
 #: C/shell-apps-favorites.page:72
@@ -17925,7 +17925,7 @@ msgid ""
 "Some applications have icons in the <em>dash</em>, the horizontal strip of "
 "icons at the bottom of the <gui>Activities</gui> overview. Click one of "
 "these to start the corresponding application."
-msgstr "برخی برنامه‌ها، نقشک‌هایی در <em>دش</em>، نوار افقی نقشک‌ها در پایین نمای کلّی <gui>فعّالیت‌ها</gui> دارند. برای گشودنشان، روی نقشک مربوطه کلیک کنید."
+msgstr "برخی برنامه‌ها، نقشک‌هایی در <em>دش</em>، نوار افقی نقشک‌ها در پایین نمای کلی <gui>فعّالیت‌ها</gui> دارند. برای گشودنشان، روی نقشک مربوطه کلیک کنید."
 
 #. (itstool) path: item/p
 #: C/shell-apps-open.page:71
@@ -18037,7 +18037,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "فهرست کاربر"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18079,7 +18079,7 @@ msgid ""
 "xref=\"shell-introduction#systemmenu\">system menu</link> on the right side "
 "of the top bar, click the <_:media-1/> button, and select the correct "
 "option."
-msgstr ""
+msgstr "برای <gui>خروج</gui> یا <gui>تعویض کاربر</gui>، روی <link xref=\"shell-introduction#systemmenu\">فهرست سامانه</link> در سمت چپ نوار بالایی کلیک کنید؛ روی دکمهٔ <_:media-1/> زده و گزینهٔ درست را برگزینید."
 
 #. (itstool) path: note/p
 #: C/shell-exit.page:97
@@ -18109,14 +18109,14 @@ msgid ""
 "lockscreen\">lock screen</link>. Enter your password to log back in. If you "
 "don’t lock your screen, it will lock automatically after a certain amount of"
 " time."
-msgstr "اگر رایانهتان را برای زمان کوتاهی ترک می‌کنید، باید برای جلوگیری از دسترسی افراد به پرونده‌ها یا برنامه‌های در حال اجرایتان، صفحه‌تان را قفل کنید. هنگام بازگشتتان، <link xref=\"shell-lockscreen\">صفحهٔ قفل</link> را خواهید دید. برای بازگشت، گذرواژه‌تان را وارد کنید. اگر صفحه‌تان را قفل نکنید، پس از مقدار مشخّصی زمان، به صورت خودکار قفل خواهد شد."
+msgstr "اگر رایانه‌تان را برای زمان کوتاهی ترک می‌کنید، باید برای جلوگیری از دسترسی افراد به پرونده‌ها یا برنامه‌های در حال اجرایتان، صفحه‌تان را قفل کنید. هنگام بازگشتتان، <link xref=\"shell-lockscreen\">صفحهٔ قفل</link> را خواهید دید. برای بازگشت، گذرواژه‌تان را وارد کنید. اگر صفحه‌تان را قفل نکنید، پس از مقدار مشخّصی زمان، به صورت خودکار قفل خواهد شد."
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:122
 msgid ""
 "To lock your screen, click the system menu on the right side of the top bar "
 "and click the <_:media-1/> button."
-msgstr ""
+msgstr "برای قفل کردن صفحه‌تان، روی فهرست سامانه در سمت چپ نوار بالایی زده و دکمهٔ <_:media-1/> را بزنید."
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:129
@@ -18147,7 +18147,7 @@ msgid ""
 "To suspend your computer manually, click the system menu on the right side "
 "of the top bar, click the <_:media-1/> button, and select "
 "<gui>Suspend</gui>."
-msgstr ""
+msgstr "برای تعلیق دستی رایانه‌تان، روی فهرست سامانه در سمت چپ نوار بالایی کلیک کنید؛ دکمهٔ <_:media-1/> را زده و <gui>تعلیق</gui> را برگزینید."
 
 #. (itstool) path: section/title
 #: C/shell-exit.page:163
@@ -18160,7 +18160,7 @@ msgid ""
 "If you want to power off your computer entirely, or do a full restart, click"
 " the system menu on the right side of the top bar, click the <_:media-1/> "
 "button, and select either <gui>Restart…</gui> or <gui>Power Off…</gui>."
-msgstr ""
+msgstr "اگر می‌خواهید رایانه را کاملاً خاموش کرده یا آغاز دوبارهٔ کاملی انجام دهید، روی فهرست سامانه در سمت چپ نوار بالایی بزنید؛ دکمهٔ <_:media-1/> را زده و <gui>شروع دوباره…</gui> یا <gui>خاموش کردن…</gui> را برگزینید."
 
 #. (itstool) path: section/p
 #: C/shell-exit.page:172
@@ -18184,7 +18184,7 @@ msgstr "اگر می‌خواهید رایانه‌تان را جابه‌جا ک
 msgid ""
 "A visual overview of your desktop, the top bar, and the "
 "<gui>Activities</gui> overview."
-msgstr "یک نمای کلّی نصویری از میزکار، نوار بالایی و نمای کلّی <gui>فعّالیت‌ها</gui>."
+msgstr "یک نمای کلی نصویری از میزکار، نوار بالایی و نمای کلی <gui>فعّالیت‌ها</gui>."
 
 #. (itstool) path: page/title
 #: C/shell-introduction.page:47
@@ -18493,7 +18493,7 @@ msgstr "<link xref=\"clock-calendar\">دربارهٔ تقویم و قرار مل
 msgid ""
 "<link xref=\"shell-notifications\">Learn more about notifications and the "
 "notification list.</link>"
-msgstr "<link xref=\"shell-notifications\">دربارهٔ آگاهی‌ها و فهرست آگاهی‌ها، بیش‌تر بیاموزید..</link>"
+msgstr "<link xref=\"shell-notifications\">دربارهٔ آگاهی‌ها و سیاههٔ آگاهی‌ها، بیش‌تر بیاموزید..</link>"
 
 #. (itstool) path: section/title
 #. (itstool) path: media/p
@@ -18542,7 +18542,7 @@ msgstr ""
 msgid ""
 "Click the system menu in the top-right corner to manage your system settings"
 " and your computer."
-msgstr ""
+msgstr "برای مدیریت تنظیمات سامانه‌ و رایانه‌تان روی فهرست سامانه در گوشهٔ بالا-راست کلیک کنید."
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:260
@@ -18614,7 +18614,7 @@ msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus"
 " on the task at hand without distractions."
-msgstr ""
+msgstr "گنوم برای تعویض پنجره‌ها راهبری متفاوت از فهرست همواره نمایانی که در دیگر محیط‌های میزکار پیدا می‌شود، ارائه کرده است. این راهبرد می‌گذارد بدون حواس‌پرتی روی وظیفهٔ در حال انجام تمرکز کنید."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:311
@@ -18666,7 +18666,7 @@ msgid ""
 "your desktop and applications more efficiently. If you cannot use a mouse or"
 " pointing device at all, see <link xref=\"keyboard-nav\"/> for more "
 "information on navigating user interfaces with only the keyboard."
-msgstr ""
+msgstr "این صفحه نمایی کلی از میان‌برهای صفحه‌کلید که می‌توانند به استفادهٔ کاراتر از برنامه‌ها و میزکارتان کمک کنند فراهم می‌کند. اگر اصلاً نمی‌توانید از یک موشی یا افزارهٔ اشاره‌گر استفاده کنید، برای اطَلاعات بیش‌تر دربارهٔ ناوش واسط کاربری فقط با صفحه‌کلید، <link xref=\"keyboard-nav\"/> را ببینید."
 
 #. (itstool) path: table/title
 #: C/shell-keyboard-shortcuts.page:43
@@ -18689,12 +18689,12 @@ msgid ""
 "Switch between the <gui>Activities</gui> overview and desktop. In the "
 "overview, start typing to instantly search your applications, contacts, and "
 "documents."
-msgstr ""
+msgstr "تعویض بین نمای کلی <gui>فعّالیت‌ها</gui> و میزکار. در نمایش کلی برای جست‌وجوی فوری برنامه‌ها، آشنایان و سندهایتان آغاز به نوشتن کنید."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:55
 msgid "Pop up command window (for quickly running commands)."
-msgstr ""
+msgstr "بالا آوردن پنجرهٔ فرمان (برای اجرای سریع دستورها)."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:60
@@ -18713,7 +18713,7 @@ msgstr "<keyseq><key>سوپر</key><key>`</key></keyseq>"
 msgid ""
 "Switch between windows from the same application, or from the selected "
 "application after <keyseq><key>Super</key><key>Tab</key></keyseq>."
-msgstr ""
+msgstr "تعویض بین پنجره‌های یک برنامه یا برنامهٔ گزیده پس از <keyseq><key>سوپر</key><key>جهش</key></keyseq>."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:68
@@ -18721,14 +18721,14 @@ msgid ""
 "This shortcut uses <key>`</key> on US keyboards, where the <key>`</key> key "
 "is above <key>Tab</key>. On all other keyboards, the shortcut is "
 "<key>Super</key> plus the key above <key>Tab</key>."
-msgstr ""
+msgstr "این میان‌بر از <key>`</key> روی صفحه‌ملیدهای آمریکایی استفاده می‌کند که کلید <key>`</key> بالای <key>جهش</key> است. روی هر صفحه‌کلید دیگری،‌ میان‌بر <key>Super</key> به اضافهٔ کلید بالای <key>جهش</key> است."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:76
 msgid ""
 "Switch between windows in the current workspace. Hold down <key>Shift</key> "
 "for reverse order."
-msgstr ""
+msgstr "تعویض بین پنجره‌ها در فضای کاری کنونی. برای ترتیب معکوس <key>تبدیل</key> را نگه دارید."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:84
@@ -18736,12 +18736,12 @@ msgid ""
 "Give keyboard focus to the top bar. In the <gui>Activities</gui> overview, "
 "switch keyboard focus between the top bar, dash, windows overview, "
 "applications list, and search field. Use the arrow keys to navigate."
-msgstr ""
+msgstr "دادن تمرکز صفحه‌کلید به نوار بالایی. در نمای کلی <gui>فعّالیت‌ها</gui>، تعویض تمرکز صفحه‌کلید بین نوار بالایی، دش، نمای کلی پنجره‌ها، سیاههٔ برنامه‌ها و زمینهٔ جست‌وجو. برای ناوش از کلیدهای جهت‌دار استفاده کنید."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:92
 msgid "Show the list of applications."
-msgstr ""
+msgstr "نمایش سیاههٔ برنامه‌ها."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:97
@@ -18785,12 +18785,12 @@ msgstr "<link xref=\"shell-workspaces-movewindow\">جابه‌جایی پنجر�
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:118
 msgid "Move the current window one monitor to the left."
-msgstr ""
+msgstr "جابه‌جایی پنجرهٔ کنونی یک نمایشگر به چپ."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:122
 msgid "Move the current window one monitor to the right."
-msgstr ""
+msgstr "جابه‌جایی پنجرهٔ کنونی یک نمایشگر به راست."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:126
@@ -18808,7 +18808,7 @@ msgid ""
 "Show <link xref=\"shell-notifications#notificationlist\">the notification "
 "list</link>. Press <keyseq><key>Super</key><key>V</key></keyseq> again or "
 "<key>Esc</key> to close."
-msgstr ""
+msgstr "نمایش <link xref=\"shell-notifications#notificationlist\">سیاههٔ آگاهی‌ها</link>. برای بستن، <key>گریز</key> یا دوباره <keyseq><key>سوپر</key><key>V</key></keyseq> را بزنید."
 
 #. (itstool) path: table/title
 #: C/shell-keyboard-shortcuts.page:141
@@ -18868,14 +18868,14 @@ msgstr ""
 #. (itstool) path: table/title
 #: C/shell-keyboard-shortcuts.page:165
 msgid "Capturing from the screen"
-msgstr "ضبط از صفجه"
+msgstr "ضبط از صفحه"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:168
 msgid ""
 "<link xref=\"screen-shot-record#screenshot\">Launch the screenshot "
 "tool.</link>"
-msgstr ""
+msgstr "<link xref=\"screen-shot-record#screenshot\">اجرای ابزار نماگرفت.</link>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:172
@@ -18889,7 +18889,7 @@ msgstr "<link xref=\"screen-shot-record#screenshot\">نماگرفت از پنج�
 msgid ""
 "<link xref=\"screen-shot-record#screenshot\">Take a screenshot of the entire"
 " screen.</link>."
-msgstr ""
+msgstr "<link xref=\"screen-shot-record#screenshot\">نماگرفت از تمام صفحه.</link>."
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:182
@@ -18914,7 +18914,7 @@ msgid ""
 "The lock screen means that you can see what is happening while your computer"
 " is locked, and it allows you to get a summary of what has been happening "
 "while you have been away. The lock screen provides useful information:"
-msgstr ""
+msgstr "صفحهٔ قفل یعنی می‌توانید آن چه هنگام قفل بودن رایانه‌تان رخ می‌دهد را ببینید و اجازه می‌دهد خلاصه‌ای از آن‌چه هنگام نبودنتان رخ داده بگیرید. صفحهٔ قفل اطَلاعات مفیدی را فراهم می‌کند:"
 
 #. (itstool) path: item/p
 #: C/shell-lockscreen.page:34
@@ -18935,14 +18935,14 @@ msgid ""
 "your password and the login screen will be automatically shown as you type. "
 "You can also switch users at the bottom right of the login screen if your "
 "system is configured for more than one."
-msgstr ""
+msgstr "برای قفل‌گشایی رایانه‌تان، با صفحه‌لمسی یا موشیتان یک بار کلیک کرده یا <key>گریز</key> or <key>ورود</key> را بزنید. ایمن کار صفحهٔ ورود را آشکار خواهد کرد که در آن می‌توانید گذرواژه‌تان را برای قفل‌گشایی وارد کنید. یا این که فقط گذرواژه‌تان را نوشته و صفحهٔ ورود هنگام نوشتنتان به طور خودکار نشان داده خواهد شد. هم‌چنین می‌توانید در صورت پیکربندی سامانه‌تان برای بیش از یک کاربر، کاربران را در پایین سمت چپ صفحهٔ ورود تعویض کنید."
 
 #. (itstool) path: page/p
 #: C/shell-lockscreen.page:49
 msgid ""
 "To hide notifications from the lock screen, see <link xref=\"shell-"
 "notifications#lock-screen-notifications\"/>."
-msgstr ""
+msgstr "برای نهفتن آگاهی‌ها از صفحهٔ قفل، <link xref=\"shell-notifications#lock-screen-notifications\"/> را ببینید."
 
 #. (itstool) path: credit/name
 #: C/shell-notifications.page:15
@@ -18959,7 +18959,7 @@ msgstr "پیام‌هایی از بالای صفحه به پایین کشیده 
 #. (itstool) path: page/title
 #: C/shell-notifications.page:41
 msgid "Notifications and the notification list"
-msgstr "آگاهی‌ها و فهرست آگاهی"
+msgstr "آگاهی‌ها و سیاههٔ آگاهی‌ها"
 
 #. (itstool) path: section/title
 #: C/shell-notifications.page:44
@@ -18971,7 +18971,7 @@ msgstr "آگاهی چیست؟"
 msgid ""
 "If an application or a system component wants to get your attention, a "
 "notification will be shown at the top of the screen, or on your lock screen."
-msgstr ""
+msgstr "اگر برنامه یا مولّفه‌ای از سامانه بخواهد توجّهتان را جلب کند، یک آگاهی در بالای صفحه یا روی صفحهٔ قفلتان نشان داده خواهد شد."
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:49
@@ -18980,14 +18980,14 @@ msgid ""
 "notification informing you. Chat notifications are given special treatment, "
 "and are represented by the individual contacts who sent you the chat "
 "messages."
-msgstr ""
+msgstr "برای نمونه اگر یک پیام گپ یا رایانامهٔ جدید بگیرید، آگاهی‌ای خواهید گرفت. آگاهی‌های گپ رفتار خاصی داشته و از سوی آشنایانی که آن پیام گپ را برایتان فرستاده‌اند نشان داده می‌شوند."
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:57
 msgid ""
 "Other notifications have selectable option buttons. To close one of these "
 "notifications without selecting one of its options, click the close button."
-msgstr ""
+msgstr "دیگر آگاهی‌ها، دکمه‌هایی قابل گزینش دارند. برای بستن این آگاهی‌ها بدون گزینش یکی گزینه‌هایشان، روی دکمهٔ بستن بزنید."
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:61
@@ -18995,12 +18995,12 @@ msgid ""
 "Clicking the close button on some notifications dismisses them. Others, like"
 " Rhythmbox or your chat application, will stay hidden in the notification "
 "list."
-msgstr ""
+msgstr "زدن دکمهٔ بستن روی برخی آگاهی‌ها از بین می‌بردشان. برخی دیگر همچون ریتم‌باکس یا برنامهٔ گپتان در سیاههٔ آگاهی‌ها پنهان خواهند ماند."
 
 #. (itstool) path: section/title
 #: C/shell-notifications.page:69
 msgid "The notification list"
-msgstr "فهرست آگاهی"
+msgstr "سیاههٔ آگاهی"
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:71
@@ -19010,7 +19010,7 @@ msgid ""
 "<keyseq><key xref=\"keyboard-key-super\">Super</key><key>V</key></keyseq>. "
 "The notification list contains all the notifications that you have not acted"
 " upon or that permanently reside in it."
-msgstr ""
+msgstr "سیاههٔ آگاهی‌ها به شما راهی برای بازگشت به آگاهی‌هایتان هنگامی که برایتان مناسب است می‌دهد. هنگامی که روی ساعت کلیک کرده یا <keyseq><key xref=\"keyboard-key-super\">سوپر</key><key>V</key></keyseq> را می‌زنید ظاهر می‌شود. سیاههٔ آگاهی‌ها شامل تمامی آگاهی‌هاییست که اقدامی برایشان نکرده یا در آن ثابت هستید."
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:78
@@ -19018,13 +19018,13 @@ msgid ""
 "You can view a notification by clicking on it in the list. You can close the"
 " notification list by pressing <keyseq><key>Super</key><key>V</key></keyseq>"
 " again or <key>Esc</key>."
-msgstr ""
+msgstr "می‌توانید آگاهی را با زدن رویش در سیاهه ببینید. می‌توانید با زدن دوبارهٔ <keyseq><key>سوپر</key><key>V</key></keyseq> یا <key>گریز</key> سیاههٔ آگاهی‌ها را ببندید."
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:82
 msgid ""
 "Click the <gui>Clear List</gui> button to empty the list of notifications."
-msgstr ""
+msgstr "برای خالی کردن سیاههٔ آگاهی‌ها دکمهٔ <gui>پاک‌سازی</gui> را بزنید."
 
 #. (itstool) path: section/title
 #: C/shell-notifications.page:89
@@ -19036,19 +19036,19 @@ msgstr "نهفتن آگاهی‌ها"
 msgid ""
 "If you are working on something and do not want to be bothered, you can "
 "switch off notifications."
-msgstr ""
+msgstr "اگر دارید روی چیزی کار می‌کنید و نمی‌خواهید چیزی مزاحمتان شود، می‌توانید آگاهی‌ها را خاموش کنید."
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:94
 msgid ""
 "You can hide all notifications by opening the notification list and "
 "switching <gui>Do Not Disturb</gui> to on at the bottom. Alternatively:"
-msgstr ""
+msgstr "می‌توانید تمامی آگاهی‌ها ر ابا گشودن سیاههٔ آگاهی‌ها و تغییر وضعیت <gui>مزاحم نشوید</gui> در پایین پنهان کنید. یا این که:"
 
 #. (itstool) path: item/p
 #: C/shell-notifications.page:105 C/shell-notifications.page:140
 msgid "Click on <gui>Notifications</gui> in the sidebar to open the panel."
-msgstr ""
+msgstr "روی <gui>آگاهی‌ها</gui> در نوار کناری بزنید تا تابلو باز شود."
 
 #. (itstool) path: item/p
 #: C/shell-notifications.page:108
@@ -19063,14 +19063,14 @@ msgid ""
 "you display it (by clicking on the clock, or by pressing "
 "<keyseq><key>Super</key><key>V</key></keyseq>), and they will start popping "
 "up again when you switch the switch back to on."
-msgstr ""
+msgstr "هنگام خاموش بود، بیش‌تر آگاهی‌ها در بالای صفحه ظاهر نخواهند شد. آگاهی‌ها همچنان هنگامی که سیاههٔ آگاهی‌ها را نمایش دهید (با کلیک روی ساعت یا زدن <keyseq><key>سوپر</key><key>V</key></keyseq>) در دسترسند و هنگامی که کلید را به روشن برگردانید، دوباره نشان داده خواهند شد."
 
 #. (itstool) path: section/p
 #: C/shell-notifications.page:119
 msgid ""
 "You can also disable or re-enable notifications for individual applications "
 "from the <gui>Notifications</gui> panel."
-msgstr ""
+msgstr "هم‌چنین می‌توانید از تابلوی <gui>آگاهی‌ها</gui>، آگاهی‌ها را برای برنامه‌ها به صورت تکی از کار انداخته یا دوباره به کار بیندازید."
 
 #. (itstool) path: section/title
 #: C/shell-notifications.page:126
@@ -19082,17 +19082,17 @@ msgstr "نهفتن آگاهی‌های صفحهٔ قفل"
 msgid ""
 "When your screen is locked, notifications appear on the lock screen. You can"
 " configure the lock screen to hide these notifications for privacy reasons."
-msgstr ""
+msgstr "هنگام قفل بودن صفحه‌تان، آگاهی‌ها روی صفحهٔ قفل ظاهر خواهند شد. می‌توانید به دلایل محرمانگی، صفحهٔ قفل را برای نهفتن این آگاهی‌ها پیکربندی کنید."
 
 #. (itstool) path: steps/title
 #: C/shell-notifications.page:132
 msgid "To switch off notifications when your screen is locked:"
-msgstr ""
+msgstr "برای خاموش کردن آگاهی‌ها هنگام قفل بودن صفحه‌تان:"
 
 #. (itstool) path: item/p
 #: C/shell-notifications.page:142
 msgid "Switch <gui>Lock Screen Notifications</gui> to off."
-msgstr ""
+msgstr "وضعیت <gui>آگاهی‌های صفحهٔ قفل</gui> را به خاموش تغییر دهید."
 
 #. (itstool) path: info/title
 #: C/shell-overview.page:9
@@ -19125,7 +19125,7 @@ msgstr "برنامه‌ها و پنجره‌ها"
 #. (itstool) path: info/desc
 #: C/shell-windows-lost.page:24
 msgid "Check the <gui>Activities</gui> overview or other workspaces."
-msgstr ""
+msgstr "نمای کلی <gui>فعّالیت‌ها</gui> یا فضاهای کاری دیگر را بررسی کنید."
 
 #. (itstool) path: page/title
 #: C/shell-windows-lost.page:27
@@ -19189,7 +19189,7 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/shell-windows-maximize.page:20
 msgid "Double-click or drag a titlebar to maximize or restore a window."
-msgstr ""
+msgstr "برای بیشینه کردن یا بازکردانی یک پنجره، نوار عنوان را کشیده یا رویش دوبار کلیک کنید."
 
 #. (itstool) path: page/title
 #: C/shell-windows-maximize.page:24
@@ -19240,7 +19240,7 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/shell-windows-states.page:20
 msgid "Arrange windows in a workspace to help you work more efficiently."
-msgstr ""
+msgstr "برای کمک به کار بهینه‌تر، پنجره‌ها را در یک فضای کاری مرتّب کنید."
 
 #. (itstool) path: page/title
 #: C/shell-windows-states.page:24
@@ -19315,12 +19315,12 @@ msgid ""
 "interface in the <em>window switcher</em>. This makes switching between "
 "tasks a single-step process and provides a full picture of which "
 "applications are running."
-msgstr ""
+msgstr "می‌توانید تمامی برنامه‌های در حال اجرایی که یک واسط کاربری گرافیکی دارند را در <em>تعویضگر پنجره</em> ببینید. این کار تعویض بین وظایف را فرایندی تک‌گامه کرده و عکسی کامل از برنامه‌های در حال اجرا فراهم می‌کند."
 
 #. (itstool) path: page/p
 #: C/shell-windows-switching.page:42
 msgid "From a workspace:"
-msgstr ""
+msgstr "از یک فضای کاری:"
 
 #. (itstool) path: item/p
 #: C/shell-windows-switching.page:46
@@ -19328,14 +19328,14 @@ msgid ""
 "Press <keyseq><key xref=\"keyboard-key-"
 "super\">Super</key><key>Tab</key></keyseq> to bring up the <gui>window "
 "switcher</gui>."
-msgstr ""
+msgstr "برای بالا آوردن <em>تعویضگر پنجره</em>، <keyseq><key xref=\"keyboard-key-super\">سوپر</key><key>جهش</key></keyseq> را بزنید."
 
 #. (itstool) path: item/p
 #: C/shell-windows-switching.page:51
 msgid ""
 "Release <key xref=\"keyboard-key-super\">Super</key> to select the next "
 "(highlighted) window in the switcher."
-msgstr ""
+msgstr "برای گزینش پنجرهٔ بعدی (پررنگ شده) در تعویضگر، <key xref=\"keyboard-key-super\">سوپر</key> را رها کنید."
 
 #. (itstool) path: item/p
 #: C/shell-windows-switching.page:55
@@ -19344,14 +19344,14 @@ msgid ""
 "super\">Super</key> key, press <key>Tab</key> to cycle through the list of "
 "open windows, or <keyseq><key>Shift</key><key>Tab</key></keyseq> to cycle "
 "backwards."
-msgstr ""
+msgstr "یا این که در حال که کلید <key xref=\"keyboard-key-super\">سوپر</key> را نگه داشته‌اید، برای چرخش میان سیاههٔ پنجره‌های باز، <key>جهش</key> یا برای چرخش معکوس، <keyseq><key>تبدیل</key><key>جهش</key></keyseq> را بزنید."
 
 #. (itstool) path: page/p
 #: C/shell-windows-switching.page:62
 msgid ""
 "You can also use the window list on the bottom bar to access all your open "
 "windows and switch between them."
-msgstr ""
+msgstr "هم‌چنین می‌توانید از سیاههٔ پنجره‌ها در نوار پایینی برای دسترسی به تمامی پنجره‌های بازتان و تعویض میانشان استفاده کنید."
 
 #. (itstool) path: note/p
 #: C/shell-windows-switching.page:66
@@ -19360,7 +19360,7 @@ msgid ""
 "applications with multiple windows pop down as you click through. Hold down "
 "<key xref=\"keyboard-key-super\">Super</key> and press <key>`</key> (or the "
 "key above <key>Tab</key>) to step through the list."
-msgstr ""
+msgstr "پنجره‌ها در تعویضگر پنجره بر اساس برنامه گروه شده‌اند. پیش‌نماهای برنامه‌هایی با چندین پنجرهٔ هنگام کلیک کردن نشان داده خواهند شد. برای حرکت میان سیاهه، <key xref=\"keyboard-key-super\">سوپر</key> را نگه داشته و <key>`</key> (یا کلید بالای <key>جهش</key>) را بزنید."
 
 #. (itstool) path: page/p
 #: C/shell-windows-switching.page:72
@@ -19375,7 +19375,7 @@ msgstr ""
 msgid ""
 "Previews of applications with a single window can be displayed with the "
 "<key>↓</key> key."
-msgstr ""
+msgstr "پیش‌نمایش برنامه‌هایی با یک پنجره می‌تواند با کلید <key>↓</key> نشان داده شود."
 
 #. (itstool) path: page/p
 #: C/shell-windows-switching.page:79
@@ -19385,7 +19385,7 @@ msgid ""
 "multiple <link xref=\"shell-windows#working-with-"
 "workspaces\">workspaces</link> open, you can click on each workspace to view"
 " the open windows on each workspace."
-msgstr ""
+msgstr "از نمای کلی <gui>فعّالیت‌ها</gui> روی یک <link xref=\"shell-windows\">پنجره</link>کلیک کنید تا به آن تعویض کرده و از نمای کلی خارج شوید. اگر چندین <link xref=\"shell-windows#working-with-workspaces\">فضای کاری</link> باز دارید می‌توانید برای دیدن پنجره‌های باز روی هر فضای کاری، رویش کلیک کنید."
 
 #. (itstool) path: info/desc
 #: C/shell-windows-tiled.page:19
@@ -19451,7 +19451,7 @@ msgid ""
 "You can also group your applications together within workspaces. Visit the "
 "window and workspace help topics below to better learn how to use these "
 "features."
-msgstr ""
+msgstr "هم‌چنین می‌توانید برنامه‌هایتان را در فضاهای کاری گروه‌بندی کنید. برای آموختن بهتر چگونگی استفاده از ویژگی‌های پنجره و فضای کاری، موضوع‌های راهنمایشان را در زیر ببینید."
 
 #. (itstool) path: section/title
 #: C/shell-windows.page:67
@@ -19474,12 +19474,12 @@ msgstr "کار کردن با فضاهای کاری"
 msgid ""
 "Go to the <gui>Activities</gui> overview and drag the window to a different "
 "workspace."
-msgstr ""
+msgstr "به نمای کلی <gui>فعّالیت‌ها</gui> رفته و پنجره را به فضای کاری دیگری بکشید."
 
 #. (itstool) path: page/title
 #: C/shell-workspaces-movewindow.page:35
 msgid "Move a window to a different workspace"
-msgstr ""
+msgstr "جابه‌جایی پنجره‌ای به یک فضای کاری دیگر"
 
 #. (itstool) path: steps/title
 #: C/shell-workspaces-movewindow.page:40 C/shell-workspaces-movewindow.page:56
@@ -19490,12 +19490,12 @@ msgstr "با استفاده از موشی:"
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:42
 msgid "Press the button at the bottom left of the screen in the window list."
-msgstr ""
+msgstr "دکمهٔ واقع در پایین سمت راست صفحه در سیاههٔ پنجره‌ها را فشار دهید."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:45
 msgid "Click and drag the window towards the bottom right of the screen."
-msgstr ""
+msgstr "کلیک کرده و پنجره را به پایین چپ صفحه بکشید."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:48
@@ -19503,7 +19503,7 @@ msgid ""
 "Drop the window onto one of the workspaces in the <em>workspace "
 "selector</em> at the right-hand side of the window list. This workspace now "
 "contains the window you have dropped."
-msgstr ""
+msgstr "پنجره را روی یکی از فضاهای کاری در <em>گزینشگر فضای کاری</em> در سمت چپ سیاههٔ پنجره‌ها رها کنید. این فضای کاری اکنون دارای پنجره‌ایست که رها کرده‌اید."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces-movewindow.page:58 C/shell-workspaces-switch.page:33
@@ -19578,7 +19578,7 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/shell-workspaces-switch.page:25
 msgid "Use the workspace selector."
-msgstr ""
+msgstr "استفاده از گزینشگر فضای کاری."
 
 #. (itstool) path: page/title
 #: C/shell-workspaces-switch.page:28
@@ -19650,12 +19650,12 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/shell-workspaces.page:26
 msgid "Workspaces are a way of grouping windows on your desktop."
-msgstr ""
+msgstr "فضاهای کاری، روشی برای گروه‌بندی پنجره‌ها روی میزکارتان است."
 
 #. (itstool) path: page/title
 #: C/shell-workspaces.page:29
 msgid "What is a workspace, and how will it help me?"
-msgstr ""
+msgstr "فضای کاری چیست و چگونه کمکم خواهد کرد؟"
 
 #. (itstool) path: page/p
 #: C/shell-workspaces.page:31
@@ -19663,7 +19663,7 @@ msgid ""
 "Workspaces refer to the grouping of windows on your desktop. You can create "
 "multiple workspaces, which act like virtual desktops. Workspaces are meant "
 "to reduce clutter and make the desktop easier to navigate."
-msgstr ""
+msgstr "فضاهای کاری به گروه‌بندی پنجره‌ها روی میزکارتان اشاره دارد. می‌توانید چندین فضای کاری ساخته که چون میزکارهای مجازی عمل می‌کنند. فضاهای کاری برای کاهش شلوغی و آسان‌تر کردن ناوش میزکار هستند."
 
 #. (itstool) path: page/p
 #: C/shell-workspaces.page:36
@@ -19671,7 +19671,7 @@ msgid ""
 "Workspaces refer to the grouping of windows on your desktop. You can use "
 "multiple workspaces, which act like virtual desktops. Workspaces are meant "
 "to reduce clutter and make the desktop easier to navigate."
-msgstr ""
+msgstr "فضاهای کاری به گروه‌بندی پنجره‌ها روی میزکارتان اشاره دارد. می‌توانید از چندین فضای کاری استفاده کرده که چون میزکارهای مجازی عمل می‌کنند. فضاهای کاری برای کاهش شلوغی و آسان‌تر کردن ناوش میزکار هستند."
 
 #. (itstool) path: page/p
 #: C/shell-workspaces.page:41
@@ -19680,7 +19680,7 @@ msgid ""
 "all your communication windows, such as e-mail and your chat program, on one"
 " workspace, and the work you are doing on a different workspace. Your music "
 "manager could be on a third workspace."
-msgstr ""
+msgstr "فضاهای کاری می‌توانند برای سازمان‌دهی کارتان استفاده شوند. برای نمونه می‌توانید تمامی پنجره‌های ارتباطیتتان همچون برنامهٔ گپ و رایانامه را روی یک فضای کاری و کاری که در حال انجامش هستید را روی فضای کاری دیگری داشته باشید. مدیر آهنگ‌هایتان می‌تواند روی فضای کاری سومی باشد."
 
 #. (itstool) path: page/p
 #: C/shell-workspaces.page:46
@@ -19692,7 +19692,7 @@ msgstr "استفاده از فضاهای کاری:"
 msgid ""
 "In the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview, you can horizontally navigate between the workspaces."
-msgstr ""
+msgstr "در نمای کلی <gui xref=\"shell-introduction#activities\">فعّالیت‌ها</gui> می‌توانید به صورت افقی بین فضاهای کاری ناوش کنید."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces.page:53
@@ -19700,7 +19700,7 @@ msgid ""
 "Click the button at the bottom left of the screen in the window list, or "
 "press the <key xref=\"keyboard-key-super\">Super</key> key to open the "
 "<gui>Activities</gui> overview."
-msgstr ""
+msgstr "روی دکمهٔ پایین سمت راست صفحه در سیاههٔ پنجره‌ها زده یا برای گشودن نمای کلی <gui>فعّالیت‌ها</gui>، کلید <key xref=\"keyboard-key-super\">سوپر</key> را بزنید."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces.page:59
@@ -19708,14 +19708,14 @@ msgid ""
 "If more than one workspace is already in use, the <em>workspace "
 "selector</em> is shown between the search field and the window list. It will"
 " display currently used workspaces plus an empty workspace."
-msgstr ""
+msgstr "اگر بیش از یک فضای کاری در حال استفاده باشد، <em>گزینشگر فضای کاری</em> بین زمینهٔ جست‌وجو و سیاههٔ پنجره‌ها نشان داده می‌شود. این گزینشگر، فضاهای کاری استفاده شده در حال حاضر را به اضافهٔ یک فضای کاری خالی نشان خواهد داد."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces.page:62
 msgid ""
 "In the bottom right corner, you see four boxes. This is the workspace "
 "selector."
-msgstr ""
+msgstr "در گوشهٔ پایین سمت چپ، چهار جعبه می‌بینید. این گزینشگر فضای کاری است."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces.page:66
@@ -19724,7 +19724,7 @@ msgid ""
 "the empty workspace in the workspace selector. This workspace now contains "
 "the window you have dropped, and a new empty workspace will appear next to "
 "it."
-msgstr ""
+msgstr "برای افزودن یک فضای کاری، پنجره‌ای را از یک فضای کاری موجود روی یک فضای کاری خالی در گزینشگر فضای کاری کشیده و رها کنید. اکنون این فضای کاری دارای پنجره‌ایست که رها کرده‌اید و یک فضای کاری خالی در کنارش ظاهر خواهد شد."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces.page:70
@@ -19732,19 +19732,19 @@ msgid ""
 "Drag and drop a window from your current workspace onto an empty workspace "
 "in the workspace selector. This workspace now contains the window you have "
 "dropped."
-msgstr ""
+msgstr "پنجره‌ای را از فضای کاری کنونیتان روی یک فضای کاری خالی در گزینشگر فضای کاری کشیده و رها کنید. اکنون این فضای کاری دارای پنجره‌ایست که رها کرده‌اید."
 
 #. (itstool) path: item/p
 #: C/shell-workspaces.page:75
 msgid ""
 "To remove a workspace, simply close all of its windows or move them to other"
 " workspaces."
-msgstr ""
+msgstr "برای برداشتن یک فضای کاری، به سادگی تمامی پنجره‌هایش را بسته یا به دیگر فضاهای کاری جابه‌جایشان کنید."
 
 #. (itstool) path: page/p
 #: C/shell-workspaces.page:80
 msgid "There is always at least one workspace."
-msgstr ""
+msgstr "همواره لااقل یک فضای کاری موجود است."
 
 #. (itstool) path: page/media
 #. This is a reference to an external file such as an image or video. When
@@ -19838,7 +19838,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/sound-crackle.page:22
 msgid "I hear crackling or buzzing when sounds are playing"
-msgstr ""
+msgstr "هنگام پخش صدا، تق‌تق یا ویزویز می‌شنوم"
 
 #. (itstool) path: page/p
 #: C/sound-crackle.page:24
@@ -19958,7 +19958,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/sound-nosound.page:67
 msgid "Check that the speakers are turned on and connected properly"
-msgstr ""
+msgstr "بررسی روشن و وصل بودن درست بلندگوها"
 
 #. (itstool) path: section/p
 #: C/sound-nosound.page:68
@@ -20239,7 +20239,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/sound-volume.page:57
 msgid "Changing the sound volume for individual applications"
-msgstr ""
+msgstr "تغییر حجم صدا برای برنامه‌های جداگانه"
 
 #. (itstool) path: section/p
 #: C/sound-volume.page:59
@@ -20311,7 +20311,7 @@ msgstr "می‌گذارد وضعیت تنظیمات دسترس‌پذیری مخ
 #. (itstool) path: td/p
 #: C/status-icons.page:94
 msgid "Indicates the type of click that will happen when using Hover Click."
-msgstr ""
+msgstr "گونهٔ کلیکی که هنگام استفاده از کلیک شناور رخ می‌دهد را نشان می‌دهد."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:99
@@ -20321,7 +20321,7 @@ msgstr "درباره دسترسی‌پذیری بیش‌تر بیاموزید."
 #. (itstool) path: p/link
 #: C/status-icons.page:100
 msgid "Learn more about Hover Click."
-msgstr ""
+msgstr "دربارهٔ کلیک شناور بیش‌تر بدانید."
 
 #. (itstool) path: section/title
 #: C/status-icons.page:106
@@ -20341,7 +20341,7 @@ msgstr "بلندگوها یا میکروفون‌ها بی‌صدایند."
 #. (itstool) path: td/p
 #: C/status-icons.page:140
 msgid "Indicates the sensitivity of the microphone."
-msgstr ""
+msgstr "حسّاسیت میکروفون را نشان می‌دهد."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:151
@@ -20361,7 +20361,7 @@ msgstr "نقشک‌های باتری"
 #. (itstool) path: td/p
 #: C/status-icons.page:174
 msgid "Indicates the battery level while the battery is charging."
-msgstr ""
+msgstr "سطح باتری هنگام شارژ شدن را نشان می‌دهد."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:185
@@ -20371,7 +20371,7 @@ msgstr "شارژ باتری پر است و در حال شارژ."
 #. (itstool) path: td/p
 #: C/status-icons.page:196
 msgid "Indicates the battery level while the battery is not charging."
-msgstr ""
+msgstr "سطح باتری هنگام شارژ نشدن را نشان می‌دهد."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:207
@@ -20381,7 +20381,7 @@ msgstr "شارژ باتری پر است و شارژ نمی‌شود."
 #. (itstool) path: td/p
 #: C/status-icons.page:218
 msgid "Power icon displayed on systems without a battery."
-msgstr ""
+msgstr "نقشک نیرو روی سامانه‌های بدون باتری نشان داده می‌شود."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:223
@@ -20396,19 +20396,19 @@ msgstr "نقشک‌های بلوتوث"
 #. (itstool) path: td/p
 #: C/status-icons.page:241
 msgid "Airplane mode is on. Bluetooth is disabled when airplane mode is on."
-msgstr ""
+msgstr "حالت هواپیما روشن است. هنگام روشن بودن حالت هواپیما، بلوتوث از کار می‌افتد."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:252
 msgid ""
 "A Bluetooth device is paired and in use. This icon is only shown when there "
 "is an active device, not just whenever Bluetooth is enabled."
-msgstr ""
+msgstr "افزارهٔ بلوتوثی‌ای جفت شده و در حال استفاده است. این نقشک تنها هنگامی نشان داده می‌شود که افزاره‌ای فعّال باشد، نه هر زمانی که بلوتوث به کار افتاده."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:259 C/status-icons.page:351 C/status-icons.page:417
 msgid "Learn more about airplane mode."
-msgstr ""
+msgstr "درباره حالت هواپیما بیش‌تر بیاموزید."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:260
@@ -20430,7 +20430,7 @@ msgstr "اتّصال بی‌سیم (وای‌فای)"
 msgid ""
 "Airplane mode is on. Wireless networking is disabled when airplane mode is "
 "on."
-msgstr ""
+msgstr "حالت هواپیما روشن است. هنگام روشن بودن حالت هواپیما، شبکهٔ بی‌سیم از کار می‌افتد."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:299
@@ -20452,7 +20452,7 @@ msgstr "به یک شبکهٔ بی‌سیم وصل شده، ولی سیگنالی
 msgid ""
 "Connected to a wireless network. This icon is only shown if the signal "
 "strength cannot be determined, such as when connecting to ad hoc networks."
-msgstr ""
+msgstr "به شبکه‌ای بی‌سیم وصل شده. این نقشک تنها هنگامی نشان داده می‌شود که قدرت سیگنال قابل اندازه‌گیری نباشد، مثل وقتی به شبکه‌های ادهاک وصل می‌شود."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:344
@@ -20460,7 +20460,7 @@ msgid ""
 "Connected to a wireless network, but there is no route to the internet. This"
 " could be due to a misconfiguration of your network, or it could be due to "
 "an outage with your internet service provider."
-msgstr ""
+msgstr "به شبکه‌ای بی‌سیم وصل شده؛ ولی مسیری به اینترنت وجود ندارد. این امر می‌تواند ناشی از پیکربندی بد شبکه‌تان یا قطعی فراهم‌کنندهٔ اینترنتتان باشد."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:352
@@ -20501,7 +20501,7 @@ msgid ""
 "strength cannot be determined, such as when connecting over Bluetooth. If "
 "the signal strength can be determined, a signal strength icon is shown "
 "instead."
-msgstr ""
+msgstr "به شبکه‌ای سلّولی وصل شده. این نقشک تنها هنگامی نشان داده می‌شود که قدرت سیگنال قابل اندازه‌گیری نباشد، مثل وقتی با بلوتوث وصل شده. اگر قدرت سیگنال قابل اندازه‌گیری باشد، به جایش یک نقشک قدرت سیگنال نشان داده می‌شود."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:418
@@ -20534,7 +20534,7 @@ msgid ""
 "Connected to a wired network, but there is no route to the internet. This "
 "could be due to a misconfiguration of your network, or it could be due to an"
 " outage with your internet service provider."
-msgstr ""
+msgstr "به شبکه‌ای سیمی وصل شده؛ ولی مسیری به اینترنت وجود ندارد. این امر می‌تواند ناشی از پیکربندی بد شبکه‌تان یا قطعی فراهم‌کنندهٔ اینترنتتان باشد."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:472
@@ -20559,7 +20559,7 @@ msgstr "وصل‌شده به یک شبکهٔ خصوصی مجازی."
 #. (itstool) path: p/link
 #: C/status-icons.page:502
 msgid "Learn more about virtual private networks."
-msgstr ""
+msgstr "دربارهٔ شبکه‌های خصوصی مجازی بیش‌تر بیاموزید."
 
 #. (itstool) path: section/title
 #: C/status-icons.page:509
@@ -20572,7 +20572,7 @@ msgid ""
 "Indicates the keyboard layout or input method currently in use. Click to "
 "select another layout. The keyboard layout menu is only shown if you have "
 "multiple input methods configured."
-msgstr ""
+msgstr "چینش صفحه‌کلید یا روش ورودی مورد استفاده را نشان می‌دهد. برای گزینش چینشی دیگر کلیک کنید. فهرست چینش صفحه‌کلید تنها هنگامی نشان داده می‌شود که چندین روش ورودی را پیکربندی کرده باشید."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:533
@@ -20586,22 +20586,22 @@ msgstr "یک برنامه در حال دسترسی به موقعیت مکانی 
 msgid ""
 "Night light has changed the color temperature of the display to reduce eye "
 "strain. You can temporarily disable night light from the menu."
-msgstr ""
+msgstr "نور شب، دمای رنگی نمایشگر را برای کاهش خستگی چشمتان تغییر داده. می‌توانید نور شب را از فهرست به صورت موقّتی از کار بیندازید."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:558
 msgid "You are currently recording a screencast of your entire screen."
-msgstr ""
+msgstr "هم‌اکنون دارید تمامی صفحه‌تان را ضبط می‌کنید."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:569
 msgid "An app is currently sharing the screen or another window."
-msgstr ""
+msgstr "کاره‌ای دارد صفحه یا پنجره‌ای دیگر را هم‌رسانی می‌کند."
 
 #. (itstool) path: td/p
 #: C/status-icons.page:580
 msgid "Connecting to a Thunderbolt device, such as a dock."
-msgstr ""
+msgstr "ورد حال وصل شدن به یک افزارهٔ تاندربولت مثل داک."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:585
@@ -20611,12 +20611,12 @@ msgstr "دربارهٔ چینش‌های صفحه‌کلید بیش‌تر بد�
 #. (itstool) path: p/link
 #: C/status-icons.page:586
 msgid "Learn more about privacy and location services."
-msgstr ""
+msgstr "دربارهٔ محرمانگی و خدمات مکانی بیش‌تر بیاموزید."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:587
 msgid "Learn more about night light and color temperature."
-msgstr ""
+msgstr "دربارهٔ نور شب و دمای رنگی بیش‌تر بیاموزید."
 
 #. (itstool) path: p/link
 #: C/status-icons.page:588
@@ -20669,12 +20669,12 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/tips-specialchars.page:63
 msgid "Emoji"
-msgstr ""
+msgstr "ایموجی"
 
 #. (itstool) path: steps/title
 #: C/tips-specialchars.page:65
 msgid "Insert emoji"
-msgstr ""
+msgstr "درج ایموجی"
 
 #. (itstool) path: item/p
 #: C/tips-specialchars.page:67
@@ -20890,7 +20890,7 @@ msgstr "حرکت‌های سامانه‌ای"
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:46
 msgid "<em>Open the Activities Overview and Applications View</em>"
-msgstr ""
+msgstr "<em>گشودن نمای کلی فعّالیت‌ها و نمای برنامه‌ها</em>"
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:47
@@ -20933,7 +20933,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:62
 msgid "<em>Bring up the on-screen keyboard</em>"
-msgstr ""
+msgstr "<em>بالا آوردن صفحه‌کلید روی صفحه</em>"
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:63
@@ -20995,7 +20995,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:98
 msgid "<em>Rotate a photo</em>"
-msgstr ""
+msgstr "<em>چرخاندن یک عکس</em>"
 
 #. (itstool) path: td/p
 #: C/touchscreen-gestures.page:99
@@ -21143,7 +21143,7 @@ msgstr ""
 msgid ""
 "Press the <gui style=\"button\">+ Add User...</gui> button under <gui>Other "
 "Users</gui> to add a new user account."
-msgstr ""
+msgstr "برای افزودن یک حساب کاربری جدید، دکمهٔ <gui style=\"button\">+ افزودن کاربر...</gui> را زیر <gui>دیگر کاربران</gui> بزنید."
 
 #. (itstool) path: item/p
 #: C/user-add.page:63
@@ -21222,7 +21222,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/user-admin-change.page:36
 msgid "Change who has administrative privileges"
-msgstr ""
+msgstr "تغییر افرادی که دسترسی مدیریتی دارند"
 
 #. (itstool) path: page/p
 #: C/user-admin-change.page:38
@@ -21253,12 +21253,12 @@ msgstr "برای گشودن تابلو، روی <gui> کاربران </gui> کل
 msgid ""
 "Under <gui>Other Users</gui>, select the user whose privileges you want to "
 "change."
-msgstr ""
+msgstr "زیر <gui>دیگر کاربران</gui>، کاربری که می‌خواهید دسترسی‌هایش را تغییر دهید برگزینید."
 
 #. (itstool) path: item/p
 #: C/user-admin-change.page:62
 msgid "Set the <gui>Administrator</gui> switch to on."
-msgstr ""
+msgstr "گزینهٔ <gui>مدیر</gui> را روی روشن تنظیم کنید."
 
 #. (itstool) path: item/p
 #: C/user-admin-change.page:65
@@ -21289,7 +21289,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/user-admin-explain.page:31
 msgid "How do administrative privileges work?"
-msgstr ""
+msgstr "دسترسی‌هی مدیریتی چگونه کار می‌کنند؟"
 
 #. (itstool) path: page/p
 #: C/user-admin-explain.page:33
@@ -21347,7 +21347,7 @@ msgstr ""
 #. (itstool) path: note/title
 #: C/user-admin-explain.page:67
 msgid "What does “superuser” mean?"
-msgstr ""
+msgstr "معنی «ابرکاربر» چیست؟"
 
 #. (itstool) path: note/p
 #: C/user-admin-explain.page:68
@@ -21362,7 +21362,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/user-admin-explain.page:76
 msgid "Why are administrative privileges useful?"
-msgstr ""
+msgstr "چرا دسترسی‌های مدیریتی مفیدند؟"
 
 #. (itstool) path: section/p
 #: C/user-admin-explain.page:78
@@ -21462,7 +21462,7 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/user-autologin.page:53
 msgid "Switch the <gui>Automatic Login</gui> switch to on."
-msgstr ""
+msgstr "کلید <gui>ورود خودکار</gui> را روشن کنید."
 
 #. (itstool) path: page/p
 #: C/user-autologin.page:57
@@ -21521,7 +21521,7 @@ msgstr ""
 msgid ""
 "You can press the <gui style=\"button\"><_:media-1/></gui> icon to "
 "automatically generate a random password."
-msgstr ""
+msgstr "برای ایجاد خودکار گذرواژه‌ای کاتوره‌ای می‌توانید نقشک <gui style=\"button\"><_:media-1/></gui> را بزنید."
 
 #. (itstool) path: item/p
 #: C/user-changepassword.page:92
@@ -21533,26 +21533,26 @@ msgstr "روی <gui>تغییر</gui> کلیک کنید."
 msgid ""
 "Make sure you <link xref=\"user-goodpassword\">choose a good "
 "password</link>. This will help to keep your user account safe."
-msgstr ""
+msgstr "مطمئن شوید <link xref=\"user-goodpassword\">گذرواژه‌ای خوب</link> برمی‌گزینید. این کار به امن نگه داشتن حسابتان کمک می‌کند."
 
 #. (itstool) path: note/p
 #: C/user-changepassword.page:100
 msgid ""
 "When you update your login password, your login keyring password will "
 "automatically be updated to be the same as your new login password."
-msgstr ""
+msgstr "هنگامی که گذرواژهٔ ورودتان را به‌روز می‌کنید، گذرواژهٔ دسته‌کلید ورودتان به صورت خودکار به همانی که برای ورود تنظمی کرده‌اید به‌روز می‌شود."
 
 #. (itstool) path: page/p
 #: C/user-changepassword.page:104
 msgid ""
 "If you forget your password, any user with administrator privileges can "
 "change it for you."
-msgstr ""
+msgstr "اگر گذرواژه‌تا نرا فراموش کنید هر کاربری یا دسترسی‌های مدیر می‌تواند برایتان تغییرش دهد."
 
 #. (itstool) path: info/desc
 #: C/user-changepicture.page:36
 msgid "Add your photo to the login and user screens."
-msgstr ""
+msgstr "عکستان را به صفحه‌های کاربری و ورود بیفزایید."
 
 #. (itstool) path: page/title
 #: C/user-changepicture.page:39
@@ -21637,7 +21637,7 @@ msgstr ""
 msgid ""
 "Press the <gui style=\"button\">Remove User...</gui> button to delete that "
 "user account."
-msgstr ""
+msgstr "برای حذف حساب کاربری، دکمهٔ <gui style=\"button\">برداشتن کاربر...</gui> را بزنید."
 
 #. (itstool) path: item/p
 #: C/user-delete.page:73
@@ -21971,12 +21971,12 @@ msgid ""
 "If no tablet is detected, you’ll be asked to <gui>Please plug in or turn on "
 "your Wacom tablet</gui>. Click <gui>Bluetooth</gui> in the sidebar to "
 "connect a wireless tablet."
-msgstr ""
+msgstr "اگر رایانک تشخیص داده نشود، خواسته می‌شود <gui> لطفاً رایانک وکومتان را وصل یا روشن کنید</gui>. برای وصل شدن به رایانکی بی‌سیم، <gui>بلوتوث</gui> را در نوار کناری بزنید."
 
 #. (itstool) path: item/p
 #: C/wacom-left-handed.page:44
 msgid "Set the <gui>Left-Handed Orientation</gui> switch to on."
-msgstr ""
+msgstr "گزینهٔ <gui>جهت چپ‌دست</gui> را روی روشن تنظیم کنید."
 
 #. (itstool) path: info/desc
 #: C/wacom-map-buttons.page:20
@@ -21986,7 +21986,7 @@ msgstr ""
 #. (itstool) path: page/title
 #: C/wacom-map-buttons.page:23
 msgid "Map the tablet buttons"
-msgstr ""
+msgstr "نگاشت دکمه‌های رایانک"
 
 #. (itstool) path: page/p
 #: C/wacom-map-buttons.page:25
@@ -21999,12 +21999,12 @@ msgstr ""
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Wacom Tablet</gui>."
-msgstr ""
+msgstr "نمای کلی <gui xref=\"shell-introduction#activities\">فعّالیت‌ها</gui> را گشوده و شروع به نوشتن <gui>رایانک وکوم</gui> کنید."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:39
 msgid "Click <gui>Map Buttons</gui>."
-msgstr ""
+msgstr "<gui>نگاشت دکمه‌ها</gui> را بزنید."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:42
@@ -22016,22 +22016,22 @@ msgstr ""
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:45
 msgid "<gui>Application defined</gui>"
-msgstr ""
+msgstr "<gui>برنامه تعریف شده</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:46
 msgid "<gui>Show on-screen help</gui>"
-msgstr ""
+msgstr "<gui>نمایش راهنمای روی صفحه</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:47
 msgid "<gui>Switch monitor</gui>"
-msgstr ""
+msgstr "<gui>تعویض نمایشگر</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:48
 msgid "<gui>Send keystroke</gui>"
-msgstr ""
+msgstr "<gui>فرستادن دنبالهٔ کلید</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:52
@@ -22043,7 +22043,7 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/wacom-mode.page:24
 msgid "Switch the tablet between tablet mode and mouse mode."
-msgstr ""
+msgstr "رایانک را بین حالت رایانک و حالت موشی تعویض کنید."
 
 #. (itstool) path: page/title
 #: C/wacom-mode.page:27
@@ -22082,7 +22082,7 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/wacom-multi-monitor.page:29
 msgid "Map the Wacom tablet to a specific monitor."
-msgstr ""
+msgstr "رایانک وکوم را به نمایشگری خاص نگاشت کنید."
 
 #. (itstool) path: page/title
 #: C/wacom-multi-monitor.page:32
@@ -22094,7 +22094,7 @@ msgstr "گزینش یک نمایشگر"
 msgid ""
 "Next to <gui>Map to Monitor</gui>, select the monitor you wish to receive "
 "input from your graphics tablet, or choose <gui>All Displays</gui>."
-msgstr ""
+msgstr "در کنار <gui>نگاشت به نمایشگر</gui>، نمایشگر مورد نظر جهت دریافت ورودی از رایانک گرافیکیتان را برگزیده یا<gui>تمامی نمایشگرها</gui> را انتخاب کنید."
 
 #. (itstool) path: note/p
 #: C/wacom-multi-monitor.page:54
@@ -22138,7 +22138,7 @@ msgstr "اگر قلم تشخیص داده نشود، از شما خواسته م
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:45
 msgid "These settings can be adjusted:"
-msgstr ""
+msgstr "این تنظیمات قابل تغییرند:"
 
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:47

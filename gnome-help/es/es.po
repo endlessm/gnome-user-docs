@@ -25,9 +25,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
-"Last-Translator: João Paulo Rechi Vita <jprvita@endlessos.org>, 2023\n"
+"Last-Translator: Jorge Toledo <jorge@lacajita.es>, 2021\n"
 "Language-Team: Spanish (http://app.transifex.com/endless-os/gnome-user-docs/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -48,7 +48,7 @@ msgstr "Este trabajo está licenciado bajo una <_:link-1/>."
 #. Put one translator per line, in the form NAME <EMAIL>, YEAR1, YEAR2
 msgctxt "_"
 msgid "translator-credits"
-msgstr "Daniel Mustieles <daniel.mustieles@gmail.com>, 2011 - 2021\nNicolás Satragno <nsatragno@gnome.org>, 2012\nFrancisco Molinero <paco@byasl.com>, 2011\nJorge González <jorgegonz@svn.gnome.org>, 2011, 2012"
+msgstr "Daniel Mustieles <daniel.mustieles@gmail.com>, 2011 - 2022\nNicolás Satragno <nsatragno@gnome.org>, 2012\nFrancisco Molinero <paco@byasl.com>, 2011\nJorge González <jorgegonz@svn.gnome.org>, 2011, 2012"
 
 #. (itstool) path: credit/name
 #: C/a11y-bouncekeys.page:21 C/a11y-braille.page:17 C/a11y-contrast.page:19
@@ -2105,7 +2105,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "La mayoría de la gente nunca cambia la configuración que se crea durante la instalación. Si se personaliza la configuración del sistema, o si usa su equipo como un servidor, entonces es posible que quiera hacer una copia de respaldo de esta configuración."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -9434,7 +9434,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/look-background.page:88
 msgid "Background"
-msgstr ""
+msgstr "Fondo"
 
 #. (itstool) path: section/p
 #: C/look-background.page:89
@@ -11916,12 +11916,12 @@ msgstr ""
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "Para que un programa pueda usar un puerto de red, a través de su cortafuegos, debe especificar el puerto de red correcto para activar y desactivar el acceso a la red."
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "Puertos de red usados frecuentemente"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11934,34 +11934,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "Puerto"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS, Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "Permite a los sistemas encontrarse unos a otros y describir su oferta de servicios, sin tener que configurar los detalles manualmente."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11973,66 +11973,66 @@ msgstr "Imprimir"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "Le permite enviar trabajos de impresión a una impresora de red."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "Le permite compartir su impresora con otras personas en la red."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "Presencia"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
 msgid ""
 "Allows you to advertise your instant messaging status to other people on the"
 " network, such as “online” or “busy”."
-msgstr ""
+msgstr "Le permite anunciar su estado en mensajería instantánea a otras personas en su red, como por ejemplo «en línea» u «ocupado»."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "Escritorio remoto"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "Le permite compartir su escritorio para que otras personas puedan verlo o proporcionarle asistencia remota."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "Compartir música (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "Le permite compartir su colección de música con otros en su red."
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -16809,7 +16809,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/screenshot-tool.png' "
 "md5='724f047c5fe39a7d8549b5fbff162260'"
-msgstr ""
+msgstr "external ref='figures/screenshot-tool.png' md5='724f047c5fe39a7d8549b5fbff162260'"
 
 #. (itstool) path: page/p
 #: C/screen-shot-record.page:54
@@ -16965,7 +16965,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:177
 msgid "<key>S</key>"
-msgstr ""
+msgstr "<key>S</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:178
@@ -16975,27 +16975,27 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:181
 msgid "<key>C</key>"
-msgstr ""
+msgstr "<key>C</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:182
 msgid "Capture screen"
-msgstr ""
+msgstr "Capturar la pantalla"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:185
 msgid "<key>W</key>"
-msgstr ""
+msgstr "<key>W</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:186
 msgid "Capture window"
-msgstr ""
+msgstr "Capturar ventana"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:189
 msgid "<key>P</key>"
-msgstr ""
+msgstr "<key>P</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:190
@@ -17005,7 +17005,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:193
 msgid "<key>V</key>"
-msgstr ""
+msgstr "<key>V</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:194
@@ -17015,7 +17015,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:197
 msgid "<key>Enter</key>"
-msgstr ""
+msgstr "<key>Intro</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:198
@@ -17037,7 +17037,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:212
 msgid "Capture the entire screen"
-msgstr ""
+msgstr "Capturar la pantalla completa"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:215 C/shell-keyboard-shortcuts.page:181
@@ -17482,7 +17482,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:112
 msgid "User Name"
-msgstr ""
+msgstr "Nombre de usuario"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:113 C/sharing-desktop.page:117
@@ -17492,7 +17492,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:116
 msgid "Password"
-msgstr ""
+msgstr "Contraseña"
 
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:119
@@ -17504,7 +17504,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:124
 msgid "Verify Encryption"
-msgstr ""
+msgstr "Verificar cifrado"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:125
@@ -17517,7 +17517,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:148
 msgid "Connecting"
-msgstr ""
+msgstr "Conectando"
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:150
@@ -17540,7 +17540,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:162
 msgid "Clients"
-msgstr ""
+msgstr "Clientes"
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:164
@@ -17626,7 +17626,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:222
 msgid "Advanced Topics"
-msgstr ""
+msgstr "Temas avanzados"
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:226
@@ -18058,7 +18058,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "Menú del usuario"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18273,7 +18273,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/shell-top-bar-classic.png' "
 "md5='8eecf39f87d7cda9ee060a108114a624'"
-msgstr ""
+msgstr "external ref='figures/shell-top-bar-classic.png' md5='8eecf39f87d7cda9ee060a108114a624'"
 
 #. (itstool) path: page/p
 #: C/shell-introduction.page:79
@@ -18563,7 +18563,7 @@ msgstr ""
 msgid ""
 "Click the system menu in the top-right corner to manage your system settings"
 " and your computer."
-msgstr ""
+msgstr "Pulse en el menú del sistema en la esquina superior derecha de la pantalla para la configuración del sistema y su equipo."
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:260
@@ -18635,7 +18635,7 @@ msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus"
 " on the task at hand without distractions."
-msgstr ""
+msgstr "GNOME implementa una manera de cambiar entre ventanas diferente a a la de la lista de ventanas visible en otros entornos de escritorio. Esto le permite centrarse en las tareas que tiene a mano sin distracciones."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:311
@@ -20690,12 +20690,12 @@ msgstr "Puedes lanzar <app>Caracteres</app> desde el escritorio."
 #. (itstool) path: section/title
 #: C/tips-specialchars.page:63
 msgid "Emoji"
-msgstr "Emoji"
+msgstr "Emoticono"
 
 #. (itstool) path: steps/title
 #: C/tips-specialchars.page:65
 msgid "Insert emoji"
-msgstr "Insertar emoji"
+msgstr "Insertar emoticono"
 
 #. (itstool) path: item/p
 #: C/tips-specialchars.page:67
@@ -22020,7 +22020,7 @@ msgstr ""
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Wacom Tablet</gui>."
-msgstr ""
+msgstr "Abra la vista de <gui xref=\"shell-introduction#activities\">Actividades</gui> y empiece a escribir <gui>Tableta Wacom</gui>."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:39

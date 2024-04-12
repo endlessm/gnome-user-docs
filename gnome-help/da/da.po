@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: askhl <asklarsen@gmail.com>, 2016\n"
 "Language-Team: Danish (http://app.transifex.com/endless-os/gnome-user-docs/language/da/)\n"
@@ -2085,7 +2085,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "De fleste personer ændrer aldrig de systemindstillinger som blev oprettet under installation. Hvis du af en eller anden grund tilpasser dine systemindstillinger eller hvis du bruger din computer som en server, så kan det være du vil sikkerhedskopiere disse indstillinger."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -5505,7 +5505,7 @@ msgstr "En computerskærm udsender blåt lys der bidrager til søvnløshed og be
 #. (itstool) path: item/p
 #: C/display-night-light.page:42
 msgid "Click <gui>Night Light</gui> to open the settings."
-msgstr ""
+msgstr "Klik på <gui>Natlys</gui> for at åbne indstillingerne."
 
 #. (itstool) path: item/p
 #: C/display-night-light.page:45
@@ -11896,12 +11896,12 @@ msgstr ""
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "Du skal angive den rette netværksport for at aktivere/deaktivere netværksadgang til et program med din firewall."
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "Populære netværksporte"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11914,22 +11914,22 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "Beskrivelse"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS, Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
@@ -11941,7 +11941,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11953,22 +11953,22 @@ msgstr "Udskrivning"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "Giver dig mulighed for at sende udskriftsjob til en printer over netværket."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "Giver dig mulighed for at dele din printer med andre personer over netværket."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
@@ -11985,7 +11985,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
@@ -12002,17 +12002,17 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "Musikdeling (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "Giver dig mulighed for at dele dit musikbibliotek med andre på dit netværk."
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -18038,7 +18038,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "Brugermenu"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18321,7 +18321,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-introduction.page:113 C/shell-introduction.page:138
 msgid "Activities button and Dash"
-msgstr ""
+msgstr "Knappen Aktiviteter, og favoritområdet"
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:116
@@ -18543,7 +18543,7 @@ msgstr ""
 msgid ""
 "Click the system menu in the top-right corner to manage your system settings"
 " and your computer."
-msgstr ""
+msgstr "Klik på systemmenuen i øverste højre hjørne for at håndtere dine systemindstillinger og din computer."
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:260
@@ -18615,7 +18615,7 @@ msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus"
 " on the task at hand without distractions."
-msgstr ""
+msgstr "GNOME har en anderledes måde til at skifte vinduer end en vinduesliste som altid er synlig, som det kendes fra andre skrivebordsmiljøer. Det lader dig fokusere på den opgave, du er i gang med, uden at der er forstyrrelser."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:311
@@ -22000,7 +22000,7 @@ msgstr ""
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Wacom Tablet</gui>."
-msgstr ""
+msgstr "Åbn <gui xref=\"shell-introduction#activities\">Aktivitetsoversigten</gui> og begynd at skrive <gui>Wacom-tegneplade</gui>."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:39

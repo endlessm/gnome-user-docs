@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: shkumar <shkumar@redhat.com>, 2013-2014\n"
 "Language-Team: Tamil (http://app.transifex.com/endless-os/gnome-user-docs/language/ta/)\n"
@@ -2084,7 +2084,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "பெரும்பாலானோர் நிறுவலின் போது உருவாக்கப்படும் கணினி அமைவுகளை மாற்றுவதில்லை. ஏதேனும் காரணத்திற்காக நீங்கள் உங்கள் கணினி அமைவுகளை தனிப்பயனாக்கம் செய்தால், அல்லது உங்கள் கணினியை நீங்கள் சேவையகமாக பயன்படுத்தினால், இந்த அமைவுகளை நீங்கள் மறுபிரதியெடுக்க விரும்பலாம்."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -11895,12 +11895,12 @@ msgstr ""
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "உங்கள் ஃபயர்வால் கொண்டு, ஒரு நிரலுக்கான பிணைய அணுகலை இயக்க/முடக்க நீங்கள் சரியான பிணைய போர்ட்டைக் குறிப்பிட வேண்டும்."
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "பொதுவாக பயன்படுத்தப்படும் பிணைய போர்ட்கள்"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11913,34 +11913,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "போர்ட்"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "விளக்கம்"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS, Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "நீங்கள் எந்த விவரமும் வழங்காமலே, கணினிகள் ஒன்றை ஒன்று கண்டறியவும் அவை என்ன சேவைகளை வழங்குகின்றன என்று விவரிக்கவும் அனுமதிக்கிறது."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11952,27 +11952,27 @@ msgstr "அச்சிடுதல்"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "பிணையத்தின் மூலம் அச்சுப்பொறிக்கு ஒரு அச்சுப் பணியை அனுப்ப அனுமதிக்கிறது."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "பிணையத்தில் உள்ள மற்றவர்களுடன் உங்கள் அச்சுப்பொறியை பகிர அனுமதிக்கிறது."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "இருப்பு"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
@@ -11984,34 +11984,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "தொலைநிலை பணிமேசை"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "தொலைவிலிருப்பவர்கள் உங்கள் பணிமேசையைக் காணவும் உங்களுக்கு உதவவும் உங்கள் பணிமேசையை பகிர அனுமதிக்கிறது."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "இசை பகிர்வு (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "பிணையத்தில் உள்ள மற்றவர்களுடன் உங்கள் இசை தரவகத்தைப் பகிர அனுமதிக்கிறது."
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -18037,7 +18037,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "பயனர் மெனு"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18587,7 +18587,7 @@ msgstr "<link xref=\"shell-lockscreen\">பூட்டுத் திரை �
 #: C/shell-introduction.page:294 C/shell-introduction.page:299
 #: C/shell-introduction.page:318
 msgid "Dash"
-msgstr ""
+msgstr "டேஷ்"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18614,7 +18614,7 @@ msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus"
 " on the task at hand without distractions."
-msgstr ""
+msgstr "GNOME இல் மற்ற பணிமேசைகளில் இருப்பது போன்ற எப்போதும் தெரியும் சாளர பட்டையல் போன்று இல்லாமல் சாளரங்களிடையே மாறுவதற்கு புதிய அணுகுமுறையைக் கொண்டுள்ளது. இது கவனச்சிதறல்கள் இல்லாமல் உங்கள் வேலையில் கவனம் செலுத்த உதவும்."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:311

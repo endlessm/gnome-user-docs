@@ -5,12 +5,12 @@
 # Matīss Jānis Āboltiņš http://www.mja.lv/, 2011
 # Pēteris Krišjānis <pecisk@gmail.com>, 2012
 # Pēteris Krišjānis <pecisk@gmail.com>, 2012
-# Rūdofls Mazurs <rudolfs.mazurs@gmail.com>, 2011-2014,2016-2018
+# Rūdolfs Mazurs, 2011-2014,2016-2018
 # Viesturs Ružāns <viesty@exs.lv>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Ingmārs Dīriņš <melhiors14@gmail.com>, 2016\n"
 "Language-Team: Latvian (http://app.transifex.com/endless-os/gnome-user-docs/language/lv/)\n"
@@ -2090,7 +2090,7 @@ msgid ""
 "installation. If you do customize your system settings for some reason, or "
 "if you use your computer as a server, then you may wish to back up these "
 "settings."
-msgstr ""
+msgstr "Lielākā daļa nekad nemaina sistēmas līmeņa iestatījumus kas tiek izveidoti instalēšanas laikā. Ja esat pielāgojis savas sistēmas iestatījumus kāda iemesla dēļ, vai arī jūs izmantojat datoru kā serveri, tad jūs varētu vēlēties veidot rezerves kopijas arī šiem iestatījumiem."
 
 #. (itstool) path: item/title
 #: C/backup-what.page:63
@@ -5510,7 +5510,7 @@ msgstr "Datora ekrāns izstaro zilo gaismu, kas traucē sekmē bezmiegu un acu n
 #. (itstool) path: item/p
 #: C/display-night-light.page:42
 msgid "Click <gui>Night Light</gui> to open the settings."
-msgstr ""
+msgstr "Spiediet <gui>Nakts gaisma</gui>, lai atvērtu iestatījumus."
 
 #. (itstool) path: item/p
 #: C/display-night-light.page:45
@@ -11901,12 +11901,12 @@ msgstr ""
 msgid ""
 "You need to specify the right network port to enable/disable network access "
 "for a program with your firewall."
-msgstr ""
+msgstr "Jums vajag norādīt pareizo portu, lai ieslēgtu/atslēgtu tīkla pieeju programmai ar jūsu ugunsmūri."
 
 #. (itstool) path: page/title
 #: C/net-firewall-ports.page:27
 msgid "Commonly-used network ports"
-msgstr ""
+msgstr "Biežāk lietotie tīkla porti"
 
 #. (itstool) path: page/p
 #: C/net-firewall-ports.page:29
@@ -11919,34 +11919,34 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "Porti"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "Apraksts"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
 msgid "5353/udp"
-msgstr ""
+msgstr "5353/udp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:53
 msgid "mDNS, Avahi"
-msgstr ""
+msgstr "mDNS, Avahi"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:56
 msgid ""
 "Allows systems to find each other, and describe which services they offer, "
 "without you having to specify the details manually."
-msgstr ""
+msgstr "Atļauj sistēmai atrast vienai otru, un aprakstīt, kuru pakalpojumu tie piedāvā, bez vajadzības to iestatīt pašrocīgi."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:62
 msgid "631/udp"
-msgstr ""
+msgstr "631/udp"
 
 #. (itstool) path: td/p
 #. (itstool) path: page/title
@@ -11958,66 +11958,66 @@ msgstr "Drukāšana"
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:68
 msgid "Allows you to send print jobs to a printer over the network."
-msgstr ""
+msgstr "Atļauj sūtīt drukājamus darbus uz printeri caur tīklu."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:73
 msgid "631/tcp"
-msgstr ""
+msgstr "631/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:79
 msgid "Allows you to share your printer with other people over the network."
-msgstr ""
+msgstr "Ļauj koplietot printeri ar citiem cilvēkiem tīklā."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:85
 msgid "5298/tcp"
-msgstr ""
+msgstr "5298/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "Klātbūtne"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
 msgid ""
 "Allows you to advertise your instant messaging status to other people on the"
 " network, such as “online” or “busy”."
-msgstr ""
+msgstr "Ļauj parādīt savu tūlītējās ziņojumapmaiņas statusu citiem cilvēkiem tīklā, piemēram, “tiešsaistē” vai “aizņemts”."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:97
 msgid "5900/tcp"
-msgstr ""
+msgstr "5900/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "Attālinātā darbvirsma"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
 msgid ""
 "Allows you to share your desktop so other people can view it or provide "
 "remote assistance."
-msgstr ""
+msgstr "Ļauj koplietot darbvirsmu, tā ka citi cilvēki to var aplūkot vai attālināti palīdzēt."
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:109
 msgid "3689/tcp"
-msgstr ""
+msgstr "3689/tcp"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:112
 msgid "Music sharing (DAAP)"
-msgstr ""
+msgstr "Mūzikas koplietošana (DAAP)"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:115
 msgid "Allows you to share your music library with others on your network."
-msgstr ""
+msgstr "Ļauj dalīties ar mūzikas bibliotēku ar citiem jūsu tīklā."
 
 #. (itstool) path: info/desc
 #: C/net-fixed-ip-address.page:32
@@ -18043,7 +18043,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "Lietotāja izvēlne"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18548,7 +18548,7 @@ msgstr ""
 msgid ""
 "Click the system menu in the top-right corner to manage your system settings"
 " and your computer."
-msgstr ""
+msgstr "Spiediet uz sistēmas izvēlnes augšējā labajā stūrī, lai pārvaldītu savus sistēmas iestatījumus un datoru."
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:260
@@ -18620,7 +18620,7 @@ msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus"
 " on the task at hand without distractions."
-msgstr ""
+msgstr "GNOME izmanto citu veidu, kā pārslēgties starp logiem, nevis redzamu logu sarakstu, kā tas ir citās darbvirsmās. Tas jums ļauj pievērst uzmanību aktīvajam uzdevumam bet uzmanības novēršanas."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:311

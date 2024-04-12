@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Lithuanian (http://app.transifex.com/endless-os/gnome-user-docs/language/lt/)\n"
@@ -18036,7 +18036,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-exit.page:68 C/shell-exit.page:73 C/shell-exit.page:78
 msgid "User menu"
-msgstr ""
+msgstr "Naudotojo meniu"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -18319,7 +18319,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-introduction.page:113 C/shell-introduction.page:138
 msgid "Activities button and Dash"
-msgstr ""
+msgstr "Mygtukas „Apžvalga“ bei skydelis"
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:116
@@ -18541,7 +18541,7 @@ msgstr ""
 msgid ""
 "Click the system menu in the top-right corner to manage your system settings"
 " and your computer."
-msgstr ""
+msgstr "Spustelėję ant sistemos meniu viršutiniame dešiniajame kampe galėsite keisti sistemos bei darbalaukio nustatymus, valdyti kompiuterį ir tinklo ryšius."
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:260
@@ -18613,7 +18613,7 @@ msgid ""
 "GNOME features a different approach to switching windows than a permanently "
 "visible window list found in other desktop environments. This lets you focus"
 " on the task at hand without distractions."
-msgstr ""
+msgstr "GNOME siūlo kitokį metodą perjungti veikiančias programas ir langus nei pastoviai matomas atvertų langų sąrašas, naudojamas kai kuriose kitose operacinėse sistemose ar darbalaukio aplinkose. GNOME siūlomas metodas leidžia nesiblaškant sutelkti dėmesį į dabar vykdomą užduotį."
 
 #. (itstool) path: item/p
 #: C/shell-introduction.page:311

@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-12 14:05+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Amanpreet Singh Alam <aalam@users.sf.net>, 2009\n"
 "Language-Team: Panjabi (Punjabi) (http://app.transifex.com/endless-os/gnome-user-docs/language/pa/)\n"
@@ -11915,12 +11915,12 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:37
 msgid "Port"
-msgstr ""
+msgstr "ਪੋਰਟ"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:43
 msgid "Description"
-msgstr ""
+msgstr "ਵੇਰਵਾ"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:50
@@ -11974,7 +11974,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:88
 msgid "Presence"
-msgstr ""
+msgstr "ਮੌਜੂਦਗੀ"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:91
@@ -11991,7 +11991,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:100
 msgid "Remote desktop"
-msgstr ""
+msgstr "ਰਿਮੋਟ ਡੈਸਕਟਾਪ"
 
 #. (itstool) path: td/p
 #: C/net-firewall-ports.page:103
