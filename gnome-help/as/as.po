@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Nilamdyuti Goswami <ngoswami@redhat.com>, 2013-2014\n"
 "Language-Team: Assamese (http://app.transifex.com/endless-os/gnome-user-docs/language/as/)\n"
@@ -1611,7 +1611,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/accounts-which-application.page:103
 msgid "Photos"
-msgstr ""
+msgstr "ফ'টোসমূহ"
 
 #. (itstool) path: item/p
 #: C/accounts-which-application.page:104
@@ -6687,7 +6687,7 @@ msgstr ""
 #: C/files-search.page:44
 msgctxt "link:trail"
 msgid "Search"
-msgstr ""
+msgstr "সন্ধান কৰক"
 
 #. (itstool) path: info/desc
 #: C/files-search.page:45
@@ -11232,7 +11232,7 @@ msgstr "আপুনি এটা ফোল্ডাৰৰ বাবে সং�
 #: C/nautilus-file-properties-permissions.page:76
 msgctxt "permission"
 msgid "None"
-msgstr ""
+msgstr "কোনো নহয়"
 
 #. (itstool) path: item/p
 #: C/nautilus-file-properties-permissions.page:77
@@ -12460,7 +12460,7 @@ msgstr ""
 #: C/net-proxy.page:81
 msgctxt "proxy"
 msgid "None"
-msgstr ""
+msgstr "কোনো নহয়"
 
 #. (itstool) path: item/p
 #: C/net-proxy.page:82
@@ -12605,7 +12605,7 @@ msgstr ""
 #: C/net-security.page:17
 msgctxt "link:trail"
 msgid "Security"
-msgstr ""
+msgstr "সুৰক্ষা"
 
 #. (itstool) path: info/desc
 #: C/net-security.page:18

@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Daniel Șerbănescu <daniel [at] serbanescu [dot] dk>, 2016-2017\n"
 "Language-Team: Romanian (http://app.transifex.com/endless-os/gnome-user-docs/language/ro/)\n"
@@ -2252,7 +2252,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/bluetooth.page:56 C/color.page:30 C/power.page:49 C/prefs-display.page:28
 msgid "Problems"
-msgstr ""
+msgstr "Probleme"
 
 #. (itstool) path: credit/name
 #: C/bluetooth-connect-device.page:26 C/bluetooth-remove-connection.page:22
@@ -7688,7 +7688,7 @@ msgstr ""
 #: C/index.page:11
 msgctxt "link:trail"
 msgid "Help"
-msgstr ""
+msgstr "Ajutor"
 
 #. (itstool) path: page/title
 #: C/index.page:16
@@ -8670,7 +8670,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:161
 msgid "Settings"
-msgstr ""
+msgstr "Configurări"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:162

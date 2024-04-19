@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Lithuanian (http://app.transifex.com/endless-os/gnome-user-docs/language/lt/)\n"
@@ -2250,7 +2250,7 @@ msgstr ""
 #. (itstool) path: section/title
 #: C/bluetooth.page:56 C/color.page:30 C/power.page:49 C/prefs-display.page:28
 msgid "Problems"
-msgstr ""
+msgstr "Nesklandumai"
 
 #. (itstool) path: credit/name
 #: C/bluetooth-connect-device.page:26 C/bluetooth-remove-connection.page:22
@@ -7686,7 +7686,7 @@ msgstr ""
 #: C/index.page:11
 msgctxt "link:trail"
 msgid "Help"
-msgstr ""
+msgstr "Pagalba"
 
 #. (itstool) path: page/title
 #: C/index.page:16
@@ -8668,7 +8668,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:161
 msgid "Settings"
-msgstr ""
+msgstr "Nustatymai"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:162
@@ -10363,7 +10363,7 @@ msgstr ""
 #: C/mouse.page:53 C/net-general.page:21
 msgctxt "link:trail"
 msgid "Tips"
-msgstr ""
+msgstr "Patarimai"
 
 #. (itstool) path: section/title
 #: C/mouse.page:55
@@ -12604,7 +12604,7 @@ msgstr ""
 #: C/net-security.page:17
 msgctxt "link:trail"
 msgid "Security"
-msgstr ""
+msgstr "Sauga"
 
 #. (itstool) path: info/desc
 #: C/net-security.page:18

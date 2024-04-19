@@ -11,7 +11,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>, 2020-2021\n"
 "Language-Team: Portuguese (http://app.transifex.com/endless-os/gnome-user-docs/language/pt/)\n"
@@ -1357,7 +1357,7 @@ msgid ""
 "instead of your password. If you remove an account, you should also revoke "
 "that certificate in the online service. See <link xref=\"accounts-remove\"/>"
 " for more information."
-msgstr ""
+msgstr "Muitos serviços on-line fornecem um token de autorização, o que o Endless OS armazena ao invés de sua senha. Se você remover uma conta, você também deveria revogar aquele certificado no serviço on-line. Veja <link xref=\"accounts-remove\"/> para mais informação."
 
 #. (itstool) path: info/desc
 #: C/accounts-disable-service.page:29
@@ -6694,7 +6694,7 @@ msgstr "Se <gui>Renomear</gui> estiver acinzentado, não tem permissão para ren
 #: C/files-search.page:44
 msgctxt "link:trail"
 msgid "Search"
-msgstr ""
+msgstr "Pesquisar"
 
 #. (itstool) path: info/desc
 #: C/files-search.page:45
@@ -7371,12 +7371,12 @@ msgstr "Pode enviar um <link href=\"mailto:gnome-doc-list@gnome.org\">e-mail</li
 #. (itstool) path: info/desc
 #: C/gnome-version.page:21
 msgid "How to determine which version of Endless OS is running."
-msgstr ""
+msgstr "Como determinar qual versão do Endless OS está sendo usada."
 
 #. (itstool) path: page/title
 #: C/gnome-version.page:24
 msgid "Determine which version of Endless OS is running"
-msgstr ""
+msgstr "Determinando qual versão do Endless OS está sendo usada"
 
 #. (itstool) path: page/p
 #: C/gnome-version.page:26
@@ -12612,7 +12612,7 @@ msgstr ""
 #: C/net-security.page:17
 msgctxt "link:trail"
 msgid "Security"
-msgstr ""
+msgstr "Segurança"
 
 #. (itstool) path: info/desc
 #: C/net-security.page:18
@@ -18327,7 +18327,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-introduction.page:113 C/shell-introduction.page:138
 msgid "Activities button and Dash"
-msgstr ""
+msgstr "O botão Atividades e o dash"
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:116
@@ -18594,7 +18594,7 @@ msgstr "<link xref=\"shell-lockscreen\">Aprenda mais sobre o ecrã de bloqueio.<
 #: C/shell-introduction.page:294 C/shell-introduction.page:299
 #: C/shell-introduction.page:318
 msgid "Dash"
-msgstr ""
+msgstr "Dash"
 
 #. (itstool) path: when/media
 #. This is a reference to an external file such as an image or video. When
@@ -21135,7 +21135,7 @@ msgstr "Você precisa de <link xref=\"user-admin-explain\">privilégios administ
 #. (itstool) path: item/p
 #: C/user-add.page:49
 msgid "Go to the Desktop and start typing <gui>Users</gui>."
-msgstr ""
+msgstr "Vá para a Área de Trabalho e comece a digitar <gui>Usuários</gui>."
 
 #. (itstool) path: item/p
 #: C/user-add.page:55 C/user-admin-change.page:54 C/user-autologin.page:45

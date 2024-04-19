@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish (http://app.transifex.com/endless-os/gnome-user-docs/language/pl/)\n"
@@ -18319,7 +18319,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-introduction.page:113 C/shell-introduction.page:138
 msgid "Activities button and Dash"
-msgstr ""
+msgstr "Przycisk Podgląd i pasek ulubionych"
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:116

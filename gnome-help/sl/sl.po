@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Andrej Znidarsic <andrej.znidarsic@gmail.com>, 2011\n"
 "Language-Team: Slovenian (http://app.transifex.com/endless-os/gnome-user-docs/language/sl/)\n"
@@ -6689,7 +6689,7 @@ msgstr "V primeru da je <gui>Preimenuj</gui> osivel, nimate dovoljenj za preimen
 #: C/files-search.page:44
 msgctxt "link:trail"
 msgid "Search"
-msgstr ""
+msgstr "Iskanje"
 
 #. (itstool) path: info/desc
 #: C/files-search.page:45
@@ -8153,7 +8153,7 @@ msgstr "Odpre prvi meni v menijski vrstici okna. Uporabite smerne tipke za krmar
 #: C/keyboard-nav.page:122
 msgid ""
 "<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>F10</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>F10</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:124
@@ -9667,7 +9667,7 @@ msgstr ""
 #: C/media.page:20
 msgctxt "link:trail"
 msgid "Media"
-msgstr ""
+msgstr "Nosilci"
 
 #. (itstool) path: info/desc
 #: C/media.page:21
@@ -11234,7 +11234,7 @@ msgstr "Dovoljenja, ki jih nastavite za mapo, so drugačna od dovoljenj za datot
 #: C/nautilus-file-properties-permissions.page:76
 msgctxt "permission"
 msgid "None"
-msgstr ""
+msgstr "Brez"
 
 #. (itstool) path: item/p
 #: C/nautilus-file-properties-permissions.page:77
@@ -12462,7 +12462,7 @@ msgstr ""
 #: C/net-proxy.page:81
 msgctxt "proxy"
 msgid "None"
-msgstr ""
+msgstr "Brez"
 
 #. (itstool) path: item/p
 #: C/net-proxy.page:82
@@ -12607,7 +12607,7 @@ msgstr ""
 #: C/net-security.page:17
 msgctxt "link:trail"
 msgid "Security"
-msgstr ""
+msgstr "Varnost"
 
 #. (itstool) path: info/desc
 #: C/net-security.page:18

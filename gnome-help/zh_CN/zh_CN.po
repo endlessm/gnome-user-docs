@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Wylmer Wang, 2013\n"
 "Language-Team: Chinese (China) (http://app.transifex.com/endless-os/gnome-user-docs/language/zh_CN/)\n"
@@ -1621,7 +1621,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/accounts-which-application.page:103
 msgid "Photos"
-msgstr ""
+msgstr "照片"
 
 #. (itstool) path: item/p
 #: C/accounts-which-application.page:104
@@ -5357,17 +5357,17 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/display-dual-monitors.page:31
 msgid "Set up an additional monitor."
-msgstr ""
+msgstr "增设显示器。"
 
 #. (itstool) path: page/title
 #: C/display-dual-monitors.page:34
 msgid "Connect another monitor to your computer"
-msgstr ""
+msgstr "将另一台显示屏连接到您的计算机上。"
 
 #. (itstool) path: section/title
 #: C/display-dual-monitors.page:85
 msgid "Set up an additional monitor"
-msgstr ""
+msgstr "将另一台显示屏连接到您的计算机上。"
 
 #. (itstool) path: section/p
 #: C/display-dual-monitors.page:86
@@ -5375,7 +5375,7 @@ msgid ""
 "To set up an additional monitor, connect the monitor to your computer. If "
 "your system does not recognize it immediately, or you would like to adjust "
 "the settings:"
-msgstr ""
+msgstr "如果您想增设显示器，将该显示屏连接到您的计算机上。如果您的系统无法立即识别，您需要调整以下设置："
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:92 C/display-night-light.page:36
@@ -6697,7 +6697,7 @@ msgstr "如果<gui>重命名</gui>变灰，您将无权重命名文件。一般�
 #: C/files-search.page:44
 msgctxt "link:trail"
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #. (itstool) path: info/desc
 #: C/files-search.page:45
@@ -7766,7 +7766,7 @@ msgid ""
 "bottom-right of the keyboard, next to the <key>Ctrl</key> key, but it can be"
 " placed in a different location by keyboard manufacturers. It is usually "
 "depicted as a cursor hovering above a menu: <_:media-1/>."
-msgstr ""
+msgstr "<key>菜单</key>键，也叫做 <em>应用程序</em>键，是窗口键盘上的键。该键通常位于键盘的右下角， <key>Ctrl</key>键的旁边，但是它可能会因键盘不同而位于不同位置。它通常以一个悬浮于菜单之上的鼠标指针的形式显示： <_:media-1/>。"
 
 #. (itstool) path: page/p
 #: C/keyboard-key-menu.page:45
@@ -8161,7 +8161,7 @@ msgstr "打开窗口菜单栏的第一个项目，然后在下拉菜单中使用
 #: C/keyboard-nav.page:122
 msgid ""
 "<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>F10</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>F10</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:124
@@ -8679,7 +8679,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:161
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:162
@@ -9675,7 +9675,7 @@ msgstr ""
 #: C/media.page:20
 msgctxt "link:trail"
 msgid "Media"
-msgstr ""
+msgstr "媒体"
 
 #. (itstool) path: info/desc
 #: C/media.page:21
@@ -10340,7 +10340,7 @@ msgstr ""
 #: C/mouse.page:29
 msgctxt "link:trail"
 msgid "Mouse"
-msgstr ""
+msgstr "鼠标"
 
 #. (itstool) path: info/desc
 #: C/mouse.page:30
@@ -11242,7 +11242,7 @@ msgstr "对于文件夹的权限设定，跟文件权限有所不同。"
 #: C/nautilus-file-properties-permissions.page:76
 msgctxt "permission"
 msgid "None"
-msgstr ""
+msgstr "空"
 
 #. (itstool) path: item/p
 #: C/nautilus-file-properties-permissions.page:77
@@ -12470,7 +12470,7 @@ msgstr ""
 #: C/net-proxy.page:81
 msgctxt "proxy"
 msgid "None"
-msgstr ""
+msgstr "空"
 
 #. (itstool) path: item/p
 #: C/net-proxy.page:82
@@ -12615,7 +12615,7 @@ msgstr ""
 #: C/net-security.page:17
 msgctxt "link:trail"
 msgid "Security"
-msgstr ""
+msgstr "安全"
 
 #. (itstool) path: info/desc
 #: C/net-security.page:18
@@ -13185,7 +13185,7 @@ msgid ""
 "reconnect to the network as soon as this happens (the network icon on the "
 "top bar will display three dots if it is trying to reconnect), but it can be"
 " annoying, especially if you were using the internet at the time."
-msgstr ""
+msgstr "即使你想保持联系，你也会发现电脑已经断开无线网络。一旦出现这种情况(如果它试图重新连接，网络图标顶部栏将显示三个点),你的电脑通常会尝试重新连接到网络。不过这种情况比较麻烦，特别是你正在使用互联网时。"
 
 #. (itstool) path: section/title
 #: C/net-wireless-disconnecting.page:38
@@ -14199,7 +14199,7 @@ msgstr ""
 #: C/power-autobrightness.page:17 C/power-autosuspend.page:18
 #: C/power-status.page:18 C/power-wireless.page:19
 msgid "2016"
-msgstr ""
+msgstr "2016"
 
 #. (itstool) path: info/desc
 #: C/power-autobrightness.page:26

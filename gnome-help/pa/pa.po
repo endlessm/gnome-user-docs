@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Amanpreet Singh Alam <aalam@users.sf.net>, 2009\n"
 "Language-Team: Panjabi (Punjabi) (http://app.transifex.com/endless-os/gnome-user-docs/language/pa/)\n"
@@ -6689,7 +6689,7 @@ msgstr ""
 #: C/files-search.page:44
 msgctxt "link:trail"
 msgid "Search"
-msgstr ""
+msgstr "ਖੋਜ"
 
 #. (itstool) path: info/desc
 #: C/files-search.page:45
@@ -7570,7 +7570,7 @@ msgstr "ਹੋਰ ਵਿਸ਼ੇ"
 #: C/hardware.page:32
 msgctxt "link:trail"
 msgid "Problems"
-msgstr ""
+msgstr "ਸਮੱਸਿਆਵਾਂ"
 
 #. (itstool) path: info/title
 #: C/hardware.page:33
@@ -8671,7 +8671,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:161
 msgid "Settings"
-msgstr ""
+msgstr "ਸੈਟਿੰਗ"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:162
@@ -9685,7 +9685,7 @@ msgstr ""
 #: C/media.page:31
 msgctxt "sort"
 msgid "Sound"
-msgstr ""
+msgstr "ਸਾਊਂਡ"
 
 #. (itstool) path: info/title
 #: C/media.page:32
@@ -11234,7 +11234,7 @@ msgstr ""
 #: C/nautilus-file-properties-permissions.page:76
 msgctxt "permission"
 msgid "None"
-msgstr ""
+msgstr "ਕੋਈ ਨਹੀਂ"
 
 #. (itstool) path: item/p
 #: C/nautilus-file-properties-permissions.page:77
@@ -12462,7 +12462,7 @@ msgstr ""
 #: C/net-proxy.page:81
 msgctxt "proxy"
 msgid "None"
-msgstr ""
+msgstr "ਕੋਈ ਨਹੀਂ"
 
 #. (itstool) path: item/p
 #: C/net-proxy.page:82

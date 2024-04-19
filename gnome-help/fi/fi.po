@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos+l10n@iki.fi>, 2012-2013,2015-2016\n"
 "Language-Team: Finnish (http://app.transifex.com/endless-os/gnome-user-docs/language/fi/)\n"
@@ -12461,7 +12461,7 @@ msgstr ""
 #: C/net-proxy.page:81
 msgctxt "proxy"
 msgid "None"
-msgstr ""
+msgstr "Ei mitään"
 
 #. (itstool) path: item/p
 #: C/net-proxy.page:82
@@ -18321,7 +18321,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-introduction.page:113 C/shell-introduction.page:138
 msgid "Activities button and Dash"
-msgstr ""
+msgstr "Toiminnot-painike ja telakka"
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:116

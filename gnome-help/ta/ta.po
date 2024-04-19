@@ -4,7 +4,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: shkumar <shkumar@redhat.com>, 2013-2014\n"
 "Language-Team: Tamil (http://app.transifex.com/endless-os/gnome-user-docs/language/ta/)\n"
@@ -1611,7 +1611,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/accounts-which-application.page:103
 msgid "Photos"
-msgstr ""
+msgstr "புகைப்படங்கள்"
 
 #. (itstool) path: item/p
 #: C/accounts-which-application.page:104
@@ -6687,7 +6687,7 @@ msgstr "<gui>மறுபெயரிடு</gui> விருப்பம் �
 #: C/files-search.page:44
 msgctxt "link:trail"
 msgid "Search"
-msgstr ""
+msgstr "தேடு"
 
 #. (itstool) path: info/desc
 #: C/files-search.page:45
@@ -7687,7 +7687,7 @@ msgstr ""
 #: C/index.page:11
 msgctxt "link:trail"
 msgid "Help"
-msgstr ""
+msgstr "உதவி"
 
 #. (itstool) path: page/title
 #: C/index.page:16
@@ -11232,7 +11232,7 @@ msgstr "நீங்கள் ஒரு கோப்புறைக்கு அ
 #: C/nautilus-file-properties-permissions.page:76
 msgctxt "permission"
 msgid "None"
-msgstr ""
+msgstr "எதுவுமில்லை"
 
 #. (itstool) path: item/p
 #: C/nautilus-file-properties-permissions.page:77
@@ -12460,7 +12460,7 @@ msgstr ""
 #: C/net-proxy.page:81
 msgctxt "proxy"
 msgid "None"
-msgstr ""
+msgstr "எதுவுமில்லை"
 
 #. (itstool) path: item/p
 #: C/net-proxy.page:82
@@ -12605,7 +12605,7 @@ msgstr ""
 #: C/net-security.page:17
 msgctxt "link:trail"
 msgid "Security"
-msgstr ""
+msgstr "பாதுகாப்பு"
 
 #. (itstool) path: info/desc
 #: C/net-security.page:18

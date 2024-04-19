@@ -14,7 +14,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Jürgen Benvenuti <gastornis@posteo.org.>, 2022\n"
 "Language-Team: German (http://app.transifex.com/endless-os/gnome-user-docs/language/de/)\n"
@@ -18330,7 +18330,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-introduction.page:113 C/shell-introduction.page:138
 msgid "Activities button and Dash"
-msgstr ""
+msgstr "Aktivitäten-Knopf und Dash"
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:116

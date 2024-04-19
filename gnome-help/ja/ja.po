@@ -11,7 +11,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: 坂本 貴史 <o-takashi@sakamocchi.jp>, 2013-2014\n"
 "Language-Team: Japanese (http://app.transifex.com/endless-os/gnome-user-docs/language/ja/)\n"
@@ -1618,7 +1618,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/accounts-which-application.page:103
 msgid "Photos"
-msgstr ""
+msgstr "写真"
 
 #. (itstool) path: item/p
 #: C/accounts-which-application.page:104
@@ -6694,7 +6694,7 @@ msgstr "<gui>名前の変更</gui>のオプションがグレーアウトされ�
 #: C/files-search.page:44
 msgctxt "link:trail"
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 #. (itstool) path: info/desc
 #: C/files-search.page:45
@@ -7694,7 +7694,7 @@ msgstr ""
 #: C/index.page:11
 msgctxt "link:trail"
 msgid "Help"
-msgstr ""
+msgstr "ヘルプ"
 
 #. (itstool) path: page/title
 #: C/index.page:16
@@ -8676,7 +8676,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:161
 msgid "Settings"
-msgstr ""
+msgstr "設定"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:162
@@ -11239,7 +11239,7 @@ msgstr "フォルダーにたいして設定できる権限は、次の点でフ
 #: C/nautilus-file-properties-permissions.page:76
 msgctxt "permission"
 msgid "None"
-msgstr ""
+msgstr "なし"
 
 #. (itstool) path: item/p
 #: C/nautilus-file-properties-permissions.page:77
@@ -12467,7 +12467,7 @@ msgstr ""
 #: C/net-proxy.page:81
 msgctxt "proxy"
 msgid "None"
-msgstr ""
+msgstr "なし"
 
 #. (itstool) path: item/p
 #: C/net-proxy.page:82
@@ -12612,7 +12612,7 @@ msgstr ""
 #: C/net-security.page:17
 msgctxt "link:trail"
 msgid "Security"
-msgstr ""
+msgstr "セキュリティ"
 
 #. (itstool) path: info/desc
 #: C/net-security.page:18

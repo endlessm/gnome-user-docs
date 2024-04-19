@@ -10,7 +10,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Ingmārs Dīriņš <melhiors14@gmail.com>, 2016\n"
 "Language-Team: Latvian (http://app.transifex.com/endless-os/gnome-user-docs/language/lv/)\n"
@@ -6693,7 +6693,7 @@ msgstr "Ja iespēja <gui>Pārdēvēt</gui> ir neaktīva, jums nav atļaujas pār
 #: C/files-search.page:44
 msgctxt "link:trail"
 msgid "Search"
-msgstr ""
+msgstr "Meklēšana"
 
 #. (itstool) path: info/desc
 #: C/files-search.page:45
@@ -7693,7 +7693,7 @@ msgstr ""
 #: C/index.page:11
 msgctxt "link:trail"
 msgid "Help"
-msgstr ""
+msgstr "Palīdzība"
 
 #. (itstool) path: page/title
 #: C/index.page:16
@@ -8675,7 +8675,7 @@ msgstr "<_:media-1/> vai <key>Meklēšana</key>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:161
 msgid "Settings"
-msgstr ""
+msgstr "Iestatījumi"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:162
@@ -12611,7 +12611,7 @@ msgstr ""
 #: C/net-security.page:17
 msgctxt "link:trail"
 msgid "Security"
-msgstr ""
+msgstr "Drošība"
 
 #. (itstool) path: info/desc
 #: C/net-security.page:18

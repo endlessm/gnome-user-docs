@@ -2,11 +2,11 @@
 # Translators:
 # Emin Tufan Çetin <etcetin@gmail.com>, 2021
 # Roddy Shuler <roddy@stanfordalumni.org>, 2017
-# b83946de5835331df42b9ffcc43e6a33_05e65cd <73a30e0a984b2291d4915f37112ad292_814039>, 2021
+# Sabri Ünal <libreajans@gmail.com>, 2021
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-05 01:25+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Emin Tufan Çetin <etcetin@gmail.com>, 2021\n"
 "Language-Team: Turkish (http://app.transifex.com/endless-os/gnome-user-docs/language/tr/)\n"
@@ -1587,7 +1587,7 @@ msgstr ""
 #: C/accounts-which-application.page:78
 #: C/nautilus-file-properties-permissions.page:43
 msgid "Files"
-msgstr ""
+msgstr "Dosyalar"
 
 #. (itstool) path: item/p
 #: C/accounts-which-application.page:79

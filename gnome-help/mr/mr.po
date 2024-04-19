@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: sandeeps <sshedmak@redhat.com>, 2013-2014\n"
 "Language-Team: Marathi (http://app.transifex.com/endless-os/gnome-user-docs/language/mr/)\n"
@@ -1612,7 +1612,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/accounts-which-application.page:103
 msgid "Photos"
-msgstr ""
+msgstr "छबी"
 
 #. (itstool) path: item/p
 #: C/accounts-which-application.page:104
@@ -6688,7 +6688,7 @@ msgstr "<gui>पुन्हा नाव देणे</gui> ग्रेए आ
 #: C/files-search.page:44
 msgctxt "link:trail"
 msgid "Search"
-msgstr ""
+msgstr "शोधा"
 
 #. (itstool) path: info/desc
 #: C/files-search.page:45
@@ -7688,7 +7688,7 @@ msgstr ""
 #: C/index.page:11
 msgctxt "link:trail"
 msgid "Help"
-msgstr ""
+msgstr "मदत"
 
 #. (itstool) path: page/title
 #: C/index.page:16
@@ -11233,7 +11233,7 @@ msgstr "फोल्डरकरिता सेट करण्याजोग�
 #: C/nautilus-file-properties-permissions.page:76
 msgctxt "permission"
 msgid "None"
-msgstr ""
+msgstr "काही नाही"
 
 #. (itstool) path: item/p
 #: C/nautilus-file-properties-permissions.page:77
@@ -12461,7 +12461,7 @@ msgstr ""
 #: C/net-proxy.page:81
 msgctxt "proxy"
 msgid "None"
-msgstr ""
+msgstr "काही नाही"
 
 #. (itstool) path: item/p
 #: C/net-proxy.page:82
@@ -12606,7 +12606,7 @@ msgstr ""
 #: C/net-security.page:17
 msgctxt "link:trail"
 msgid "Security"
-msgstr ""
+msgstr "सुरक्षा"
 
 #. (itstool) path: info/desc
 #: C/net-security.page:18

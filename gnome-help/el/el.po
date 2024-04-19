@@ -9,7 +9,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: ΔΗΜΗΤΡΗΣ ΣΠΙΓΓΟΣ <dmtrs32@gmail.com>, 2013\n"
 "Language-Team: Greek (http://app.transifex.com/endless-os/gnome-user-docs/language/el/)\n"
@@ -6692,7 +6692,7 @@ msgstr "Εάν η <gui>Μετονομασία</gui> είναι αχνή, δεν 
 #: C/files-search.page:44
 msgctxt "link:trail"
 msgid "Search"
-msgstr ""
+msgstr "Αναζήτηση"
 
 #. (itstool) path: info/desc
 #: C/files-search.page:45
@@ -7692,7 +7692,7 @@ msgstr ""
 #: C/index.page:11
 msgctxt "link:trail"
 msgid "Help"
-msgstr ""
+msgstr "Βοήθεια"
 
 #. (itstool) path: page/title
 #: C/index.page:16
@@ -8674,7 +8674,7 @@ msgstr "<_:media-1/> ή <key>Αναζήτηση</key>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:161
 msgid "Settings"
-msgstr ""
+msgstr "Ρυθμίσεις"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:162
@@ -12610,7 +12610,7 @@ msgstr ""
 #: C/net-security.page:17
 msgctxt "link:trail"
 msgid "Security"
-msgstr ""
+msgstr "Ασφάλεια"
 
 #. (itstool) path: info/desc
 #: C/net-security.page:18

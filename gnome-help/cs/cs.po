@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>, 2014-2022\n"
 "Language-Team: Czech (http://app.transifex.com/endless-os/gnome-user-docs/language/cs/)\n"
@@ -18321,7 +18321,7 @@ msgstr ""
 #. (itstool) path: media/p
 #: C/shell-introduction.page:113 C/shell-introduction.page:138
 msgid "Activities button and Dash"
-msgstr ""
+msgstr "Tlačítko Činnosti a Oblíbené"
 
 #. (itstool) path: section/p
 #: C/shell-introduction.page:116

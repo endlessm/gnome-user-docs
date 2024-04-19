@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Milo Casagrande <milo@ubuntu.com>, 2012-2013\n"
 "Language-Team: Italian (http://app.transifex.com/endless-os/gnome-user-docs/language/it/)\n"
@@ -1613,7 +1613,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/accounts-which-application.page:103
 msgid "Photos"
-msgstr ""
+msgstr "Foto"
 
 #. (itstool) path: item/p
 #: C/accounts-which-application.page:104
@@ -6689,7 +6689,7 @@ msgstr "Se <gui>Rinomina...</gui> è disattivata, non si ha il permesso di rinom
 #: C/files-search.page:44
 msgctxt "link:trail"
 msgid "Search"
-msgstr ""
+msgstr "Ricerca"
 
 #. (itstool) path: info/desc
 #: C/files-search.page:45
@@ -8671,7 +8671,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:161
 msgid "Settings"
-msgstr ""
+msgstr "Impostazioni"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:162
@@ -11234,7 +11234,7 @@ msgstr "I permessi che è possibile applicare per una cartella sono diversi da q
 #: C/nautilus-file-properties-permissions.page:76
 msgctxt "permission"
 msgid "None"
-msgstr ""
+msgstr "Nessuno"
 
 #. (itstool) path: item/p
 #: C/nautilus-file-properties-permissions.page:77
@@ -12462,7 +12462,7 @@ msgstr ""
 #: C/net-proxy.page:81
 msgctxt "proxy"
 msgid "None"
-msgstr ""
+msgstr "Nessuno"
 
 #. (itstool) path: item/p
 #: C/net-proxy.page:82
@@ -12607,7 +12607,7 @@ msgstr ""
 #: C/net-security.page:17
 msgctxt "link:trail"
 msgid "Security"
-msgstr ""
+msgstr "Sicurezza"
 
 #. (itstool) path: info/desc
 #: C/net-security.page:18

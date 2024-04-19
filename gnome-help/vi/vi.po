@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: Roddy Shuler <roddy@stanfordalumni.org>, 2017\n"
 "Language-Team: Vietnamese (http://app.transifex.com/endless-os/gnome-user-docs/language/vi/)\n"
@@ -1612,7 +1612,7 @@ msgstr ""
 #. (itstool) path: item/title
 #: C/accounts-which-application.page:103
 msgid "Photos"
-msgstr ""
+msgstr "Ảnh"
 
 #. (itstool) path: item/p
 #: C/accounts-which-application.page:104
@@ -5348,17 +5348,17 @@ msgstr ""
 #. (itstool) path: info/desc
 #: C/display-dual-monitors.page:31
 msgid "Set up an additional monitor."
-msgstr ""
+msgstr "Thiết lập màn hình bổ sung."
 
 #. (itstool) path: page/title
 #: C/display-dual-monitors.page:34
 msgid "Connect another monitor to your computer"
-msgstr ""
+msgstr "Kết nối một màn hình khác với máy tính của bạn."
 
 #. (itstool) path: section/title
 #: C/display-dual-monitors.page:85
 msgid "Set up an additional monitor"
-msgstr ""
+msgstr "Thiết lập một màn hình bổ sung"
 
 #. (itstool) path: section/p
 #: C/display-dual-monitors.page:86
@@ -5366,7 +5366,7 @@ msgid ""
 "To set up an additional monitor, connect the monitor to your computer. If "
 "your system does not recognize it immediately, or you would like to adjust "
 "the settings:"
-msgstr ""
+msgstr "Để thiết lập màn hình bổ sung, hãy kết nối màn hình với máy tính của bạn. Nếu hệ thống của bạn không nhận diện nó ngay hoặc bạn muốn điều chỉnh cài đặt:"
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:92 C/display-night-light.page:36
@@ -6688,7 +6688,7 @@ msgstr "Nếu <gui>Đổi tên</gui> bị tô xám, bạn không có quyền đ�
 #: C/files-search.page:44
 msgctxt "link:trail"
 msgid "Search"
-msgstr ""
+msgstr "Tìm"
 
 #. (itstool) path: info/desc
 #: C/files-search.page:45
@@ -7757,7 +7757,7 @@ msgid ""
 "bottom-right of the keyboard, next to the <key>Ctrl</key> key, but it can be"
 " placed in a different location by keyboard manufacturers. It is usually "
 "depicted as a cursor hovering above a menu: <_:media-1/>."
-msgstr ""
+msgstr "Phím <key>Trình đơn</key>, còn được gọi là phím <em>Ứng dụng</em>, là một phím trên bàn phím dành cho người dùng Windows. Phím này thường nằm ở phía dưới bên phải bàn phím, cạnh phím <key>Ctrl</key>, nhưng nó có thể được các hãng sản xuất bàn phím đặt ở vị trí khác. Phím này thường có hình con trỏ chuột lơ lửng phía trên một trình đơn: <_:media-1/>. "
 
 #. (itstool) path: page/p
 #: C/keyboard-key-menu.page:45
@@ -8152,7 +8152,7 @@ msgstr "Mở trình đơn đầu tiên trên thanh trình đơn của  một c�
 #: C/keyboard-nav.page:122
 msgid ""
 "<keyseq><key xref=\"keyboard-key-super\">Super</key> <key>F10</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key xref=\"keyboard-key-super\">Siêu</key> <key>F10</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/keyboard-nav.page:124
@@ -8670,7 +8670,7 @@ msgstr ""
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:161
 msgid "Settings"
-msgstr ""
+msgstr "Thiết lập"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:162
@@ -9666,7 +9666,7 @@ msgstr ""
 #: C/media.page:20
 msgctxt "link:trail"
 msgid "Media"
-msgstr ""
+msgstr "Phương tiện"
 
 #. (itstool) path: info/desc
 #: C/media.page:21
@@ -10370,7 +10370,7 @@ msgstr "Mẹo"
 #. (itstool) path: section/title
 #: C/mouse.page:55
 msgid "Tips"
-msgstr ""
+msgstr "Mẹo"
 
 #. (itstool) path: info/desc
 #: C/music-cantplay-drm.page:13
@@ -11233,7 +11233,7 @@ msgstr "Quyền bạn đặt cho thư mục khác với quyền cho tập tin."
 #: C/nautilus-file-properties-permissions.page:76
 msgctxt "permission"
 msgid "None"
-msgstr ""
+msgstr "Không"
 
 #. (itstool) path: item/p
 #: C/nautilus-file-properties-permissions.page:77
@@ -12461,7 +12461,7 @@ msgstr ""
 #: C/net-proxy.page:81
 msgctxt "proxy"
 msgid "None"
-msgstr ""
+msgstr "Không"
 
 #. (itstool) path: item/p
 #: C/net-proxy.page:82
@@ -12606,7 +12606,7 @@ msgstr ""
 #: C/net-security.page:17
 msgctxt "link:trail"
 msgid "Security"
-msgstr ""
+msgstr "An ninh"
 
 #. (itstool) path: info/desc
 #: C/net-security.page:18
@@ -13176,7 +13176,7 @@ msgid ""
 "reconnect to the network as soon as this happens (the network icon on the "
 "top bar will display three dots if it is trying to reconnect), but it can be"
 " annoying, especially if you were using the internet at the time."
-msgstr ""
+msgstr "Bạn có thể thấy mình đã bị ngắt kết nối khỏi mạng không dây mặc dù bạn muốn duy trì kết nối. Thông thường, máy tính của bạn sẽ cố gắng kết nối lại ngay khi điều này xảy ra (biểu tượng mạng ở thanh trên cùng sẽ hiển thị ba dấu chấm nếu máy đang cố gắng kết nối lại), nhưng điều này có thể gây phiền toái, đặc biệt là nếu lúc đó bạn đang sử dụng internet."
 
 #. (itstool) path: section/title
 #: C/net-wireless-disconnecting.page:38
@@ -14190,7 +14190,7 @@ msgstr ""
 #: C/power-autobrightness.page:17 C/power-autosuspend.page:18
 #: C/power-status.page:18 C/power-wireless.page:19
 msgid "2016"
-msgstr ""
+msgstr "2016"
 
 #. (itstool) path: info/desc
 #: C/power-autobrightness.page:26

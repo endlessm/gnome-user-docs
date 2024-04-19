@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-19 01:25+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
 "Last-Translator: askhl <asklarsen@gmail.com>, 2016\n"
 "Language-Team: Danish (http://app.transifex.com/endless-os/gnome-user-docs/language/da/)\n"
@@ -6688,7 +6688,7 @@ msgstr "Hvis <gui>Omdøb</gui> er gjort grå, så har du ikke tilladelse til at 
 #: C/files-search.page:44
 msgctxt "link:trail"
 msgid "Search"
-msgstr ""
+msgstr "Søg"
 
 #. (itstool) path: info/desc
 #: C/files-search.page:45
@@ -7688,7 +7688,7 @@ msgstr ""
 #: C/index.page:11
 msgctxt "link:trail"
 msgid "Help"
-msgstr ""
+msgstr "Hjælp"
 
 #. (itstool) path: page/title
 #: C/index.page:16
@@ -12606,7 +12606,7 @@ msgstr ""
 #: C/net-security.page:17
 msgctxt "link:trail"
 msgid "Security"
-msgstr ""
+msgstr "Sikkerhed"
 
 #. (itstool) path: info/desc
 #: C/net-security.page:18
