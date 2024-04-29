@@ -14,9 +14,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: gnome-user-docs\n"
-"POT-Creation-Date: 2024-04-12 14:05+0000\n"
+"POT-Creation-Date: 2024-04-26 01:24+0000\n"
 "PO-Revision-Date: 2014-09-30 21:26+0000\n"
-"Last-Translator: Guillaume Bernard <associations@guillaume-bernard.fr>, 2021\n"
+"Last-Translator: Will Thompson <wjt@endlessos.org>, 2021\n"
 "Language-Team: French (http://app.transifex.com/endless-os/gnome-user-docs/language/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -5420,7 +5420,7 @@ msgstr "L'écran principal est celui avec la <link xref=\"shell-introduction\">b
 msgid ""
 "Click on each monitor in the list and select the orientation, resolution or "
 "scale, and refresh rate."
-msgstr ""
+msgstr "Cliquez sur chaque écran situé dans la liste puis sélectionnez l’orientation, la définition ou l’échelle, et la fréquence de rafraîchissement."
 
 #. (itstool) path: item/p
 #: C/display-dual-monitors.page:119 C/look-resolution.page:72
@@ -5462,7 +5462,7 @@ msgid ""
 "to a docked laptop with the lid closed, the other monitor can be switched "
 "off. In the list, click on the monitor you want to disable, and turn the "
 "switch to off."
-msgstr ""
+msgstr "Lorsqu’un seul écran est nécessaire, par exemple un moniteur externe connecté à un ordinateur portable avec l’écran rabattu, l’autre moniteur peut être éteint. Dans la liste, cliquez sur l’écran que vous souhaitez désactiver, puis basculer l’interrupteur."
 
 #. (itstool) path: section/title
 #: C/display-dual-monitors.page:147
@@ -5514,7 +5514,7 @@ msgstr "Un écran d’ordinateur émet une lumière bleue qui contribue à l’i
 #. (itstool) path: item/p
 #: C/display-night-light.page:42
 msgid "Click <gui>Night Light</gui> to open the settings."
-msgstr ""
+msgstr "Cliquez sur <gui>Mode nuit</gui> pour accéder aux paramètres."
 
 #. (itstool) path: item/p
 #: C/display-night-light.page:45
@@ -8906,7 +8906,7 @@ msgstr "Captures d’écran"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:281
 msgid "Save a screenshot of a window"
-msgstr ""
+msgstr "Enregistrer une capture d’écran d’une fenêtre"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:282 C/screen-shot-record.page:207
@@ -8917,7 +8917,7 @@ msgstr "<keyseq><key>Alt</key><key>Impr. écran</key></keyseq>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:285
 msgid "Save a screenshot of the entire screen"
-msgstr ""
+msgstr "Enregistrer une capture de la totalité de l’écran"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:286 C/screen-shot-record.page:211
@@ -8928,7 +8928,7 @@ msgstr "<keyseq><key>Maj</key><key>Impr. écran</key></keyseq>"
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:289
 msgid "Launch the screenshot tool"
-msgstr ""
+msgstr "Lancer l’outil de capture d’écran"
 
 #. (itstool) path: td/p
 #: C/keyboard-shortcuts-set.page:290 C/shell-keyboard-shortcuts.page:167
@@ -9371,12 +9371,12 @@ msgstr "Ivan Stanton"
 #. (itstool) path: info/desc
 #: C/look-background.page:55
 msgid "Choose a style and set a background."
-msgstr ""
+msgstr "Choisir un style et définir un arrière-plan."
 
 #. (itstool) path: page/title
 #: C/look-background.page:58
 msgid "Change the appearance of your desktop"
-msgstr ""
+msgstr "Modification de l’apparence de votre bureau"
 
 #. (itstool) path: page/p
 #: C/look-background.page:60
@@ -9384,51 +9384,51 @@ msgid ""
 "You can change the look of things that appear on the screen by setting the "
 "style preference to light or dark. You can choose an image or wallpaper as "
 "your desktop background."
-msgstr ""
+msgstr "Vous pouvez modifier l’apparence des éléments qui apparaissent à l’écran en orientant vos préférences vers un style clair ou sombre. Vous pouvez choisir une image ou un papier peint pour l’arrière-plan de votre bureau."
 
 #. (itstool) path: section/title
 #: C/look-background.page:65
 msgid "Light or Dark Style"
-msgstr ""
+msgstr "Style clair ou sombre"
 
 #. (itstool) path: section/p
 #: C/look-background.page:66
 msgid "To switch between light and dark desktop styles:"
-msgstr ""
+msgstr "Pour basculer entre les styles de bureau clair et foncé :"
 
 #. (itstool) path: item/p
 #: C/look-background.page:70
 msgid ""
 "Open the <gui xref=\"shell-introduction#activities\">Activities</gui> "
 "overview and start typing <gui>Appearance</gui>."
-msgstr ""
+msgstr "Ouvrez la vue d’ensemble des <gui xref=\"shell-introduction#activities\">Activités</gui> et commencez à saisir <gui>Apparence</gui>."
 
 #. (itstool) path: item/p
 #: C/look-background.page:74
 msgid ""
 "Click <gui>Appearance</gui> to open the panel. The currently selected style "
 "is shown at the top surrounded by a blue border."
-msgstr ""
+msgstr "Cliquez sur <gui>Apparence</gui> pour ouvrir le panneau. Le style actuellement sélectionné est affiché en haut, entouré d’une bordure bleue."
 
 #. (itstool) path: item/p
 #: C/look-background.page:78
 msgid "Click to choose <gui>Light</gui> or <gui>Dark</gui>."
-msgstr ""
+msgstr "Cliquez pour choisir <gui>Clair</gui> ou <gui>Sombre</gui>."
 
 #. (itstool) path: item/p
 #: C/look-background.page:81
 msgid "The setting is applied immediately."
-msgstr ""
+msgstr "Le paramètre est immédiatement appliqué."
 
 #. (itstool) path: section/title
 #: C/look-background.page:88
 msgid "Background"
-msgstr ""
+msgstr "Arrière-plan"
 
 #. (itstool) path: section/p
 #: C/look-background.page:89
 msgid "To change the image used for your background:"
-msgstr ""
+msgstr "Pour modifier l’image utilisée pour l’arrière-plan :"
 
 #. (itstool) path: item/p
 #: C/look-background.page:93
@@ -9440,7 +9440,7 @@ msgstr "Allez sur le bureau et commencez à taper <gui>Arrière-plan</gui>."
 msgid ""
 "Click <gui>Appearance</gui> to open the panel. The currently selected "
 "wallpaper is shown at the top in the preview for the current style."
-msgstr ""
+msgstr "Cliquez sur <gui>Apparence</gui> pour ouvrir le panneau. Le papier peint actuellement sélectionné est affiché en haut, dans l’aperçu du style actuel."
 
 #. (itstool) path: item/p
 #: C/look-background.page:100
@@ -9682,12 +9682,12 @@ msgstr "Média"
 msgid ""
 "Manage your sound devices, use your media files, connect to external "
 "devices, and more."
-msgstr ""
+msgstr "Gérer vos périphériques son, utiliser vos fichiers média, se connecter à des appareils externes, etc."
 
 #. (itstool) path: page/title
 #: C/media.page:27
 msgid "Sound and media"
-msgstr ""
+msgstr "Son et média"
 
 #. (itstool) path: info/title
 #: C/media.page:31
@@ -9723,12 +9723,12 @@ msgstr "Notions de base sur le son"
 #: C/media.page:42
 msgctxt "link"
 msgid "Music, video &amp; devices"
-msgstr ""
+msgstr "Musique, vidéos et périphériques"
 
 #. (itstool) path: section/title
 #: C/media.page:43
 msgid "Music, video &amp; devices"
-msgstr ""
+msgstr "Musique, vidéos et périphériques"
 
 #. (itstool) path: info/desc
 #: C/more-help.page:19
@@ -11864,7 +11864,7 @@ msgstr "paramètres"
 msgid ""
 "Click the <_:media-1/> button next to the active connection for the IP "
 "address and other details."
-msgstr ""
+msgstr "Cliquer sur le bouton <_:media-1/> situé à côté de la connexion active pour afficher l’adresse IP ainsi que d’autres détails."
 
 #. (itstool) path: section/title
 #: C/net-findip.page:78
@@ -11898,7 +11898,7 @@ msgstr "Le site affiche votre adresse IP externe."
 msgid ""
 "Depending on how your computer connects to the internet, the internal and "
 "external addresses may be the same."
-msgstr ""
+msgstr "Selon la façon dont votre ordinateur est connecté à Internet, les adresses internes et externes peuvent être identiques."
 
 #. (itstool) path: info/desc
 #: C/net-firewall-ports.page:23
@@ -16776,17 +16776,17 @@ msgstr "Captures d’écran et vidéos d’écran"
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:47
 msgid "Capture all or part of your screen as an image"
-msgstr ""
+msgstr "Capturez une partie ou la totalité de votre écran sous forme d’image"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:48
 msgid "Send it as a file or paste it from the clipboard"
-msgstr ""
+msgstr "Envoyez cette capture sous forme de fichier ou collez-la depuis le presse-papiers"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:49
 msgid "Save a video of your screen activity"
-msgstr ""
+msgstr "Enregistrez une vidéo de l’activité de votre écran"
 
 #. (itstool) path: page/media
 #. This is a reference to an external file such as an image or video. When
@@ -16798,7 +16798,7 @@ msgctxt "_"
 msgid ""
 "external ref='figures/screenshot-tool.png' "
 "md5='724f047c5fe39a7d8549b5fbff162260'"
-msgstr ""
+msgstr "external ref='figures/screenshot-tool.png' md5='4e3e3334f739ab70bbea53847ab8a0df'"
 
 #. (itstool) path: page/p
 #: C/screen-shot-record.page:54
@@ -16828,31 +16828,31 @@ msgstr ""
 msgid ""
 "The screenshot overlay presents you with handles to select the area to "
 "capture, and <_:media-1/> indicates screenshot (still image) mode."
-msgstr ""
+msgstr "La surimpression de la capture d’écran se présente avec des poignées permettant de sélectionner la zone à capturer, et <_:media-1/> indique le mode (image fixe) capture d’écran."
 
 #. (itstool) path: note/p
 #: C/screen-shot-record.page:79
 msgid "Click the pointer button to include the pointer in the screenshot."
-msgstr ""
+msgstr "Cliquez sur le bouton pointeur pour inclure le pointeur dans la capture d’écran."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:83
 msgid ""
 "Click and drag the area you want for the screenshot using the handles or the"
 " crosshair pointer."
-msgstr ""
+msgstr "Cliquez et faites glisser la zone souhaitée pour la capture d’écran à l’aide des poignées ou du pointeur en croix."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:87
 msgid "To capture the selected area, click the big round button."
-msgstr ""
+msgstr "Pour capturer la zone sélectionnée, cliquez sur le gros bouton rond."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:90
 msgid ""
 "To capture the entire screen, click <gui>Screen</gui> and then click the big"
 " round button."
-msgstr ""
+msgstr "Pour capturer la totalité de l’écran, cliquez sur <gui>Écran</gui>, puis cliquez sur le gros bouton rond."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:94
@@ -16860,12 +16860,12 @@ msgid ""
 "To capture a window, click <gui>Window</gui>. An overview of all the open "
 "windows is displayed with the active window checked. Click to choose a "
 "window and then click the big round button."
-msgstr ""
+msgstr "Pour capturer une fenêtre, cliquez sur <gui>Fenêtre</gui>. Une vue d’ensemble de toutes les fenêtres ouvertes s’affiche avec la fenêtre active cochée. Cliquez pour choisir une fenêtre, puis cliquez sur le gros bouton rond."
 
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:103
 msgid "Where do they go?"
-msgstr ""
+msgstr "Destination des captures"
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:107
@@ -16874,14 +16874,14 @@ msgid ""
 "<file>Pictures/Screenshots</file> folder in your home folder with a file "
 "name that begins with <file>Screenshot</file> and includes the date and time"
 " it was taken."
-msgstr ""
+msgstr "Une capture d’écran est automatiquement enregistrée dans le dossier <file>Images/Captures d’écran</file> de votre dossier personnel, avec un nom de fichier commençant par <file>Capture d’écran</file> et incluant la date et l’heure à laquelle elle a été prise."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:113
 msgid ""
 "The image is also saved in the clipboard, so you can immediately paste it "
 "into an image-editing application or share it on social media."
-msgstr ""
+msgstr "L’image est également enregistrée dans le presse-papiers, vous pouvez donc la coller immédiatement dans une application d’édition d’image ou la partager sur les réseaux sociaux."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:117
@@ -16890,7 +16890,7 @@ msgid ""
 "<file>Videos/Screencasts</file> folder in your home folder, with a file name"
 " that starts with <file>Screencast</file> and includes the date and time it "
 "was taken."
-msgstr ""
+msgstr "Une capture vidéo est automatiquement enregistrée dans le dossier <file>Vidéos/Captures vidéo</file> de votre dossier personnel, avec un nom commençant par <file>Capture vidéo</file> et incluant la date et l’heure à laquelle elle a été prise."
 
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:127
@@ -16905,12 +16905,12 @@ msgstr "Vous pouvez faire une vidéo d’écran qui enregistre ce qui ce passe �
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:142
 msgid "Click <_:media-1/> to switch to screencast mode."
-msgstr ""
+msgstr "Cliquez sur le bouton <_:media-1/> pour passer en mode capture vidéo."
 
 #. (itstool) path: note/p
 #: C/screen-shot-record.page:146
 msgid "Click the pointer button to include the pointer in the screencast."
-msgstr ""
+msgstr "Cliquez sur le bouton pointeur pour inclure le pointeur dans la capture vidéo."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:150
@@ -16918,20 +16918,20 @@ msgid ""
 "Choose <gui>Selection</gui> or <gui>Screen</gui>. For <gui>Selection</gui>, "
 "click and drag the area you want for the screencast using the handles or the"
 " crosshair pointer."
-msgstr ""
+msgstr "Choisissez <gui>Sélection</gui> ou <gui>Écran</gui>. Pour <gui>Sélection</gui>, cliquez et faites glisser la zone souhaitée pour la capture vidéo à l’aide des poignées ou du pointeur en croix."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:155
 msgid ""
 "Click the big round red button to start recording what is on your screen."
-msgstr ""
+msgstr "Cliquez sur le gros bouton rond de couleur rouge pour commencer à enregistrer ce qui se trouve sur votre écran."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:157
 msgid ""
 "A red indicator is displayed in the top right corner of the screen when the "
 "recording is in progress, showing the elapsed seconds."
-msgstr ""
+msgstr "Un indicateur de couleur rouge est affiché dans le coin supérieur droit de l’écran quand l’enregistrement est en cours, affichant les secondes écoulées."
 
 #. (itstool) path: item/p
 #: C/screen-shot-record.page:161
@@ -16939,7 +16939,7 @@ msgid ""
 "Once you have finished, click the red indicator or press "
 "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq> "
 "to stop the recording."
-msgstr ""
+msgstr "Une fois que vous avez fini, cliquez sur l’indicateur rouge ou appuyez sur les touches <keyseq><key>Maj</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq> pour arrêter l’enregistrement."
 
 #. (itstool) path: section/title
 #: C/screen-shot-record.page:170
@@ -16949,95 +16949,95 @@ msgstr "Raccourcis clavier"
 #. (itstool) path: section/p
 #: C/screen-shot-record.page:172
 msgid "Within the screenshot feature, you can use these keyboard shortcuts:"
-msgstr ""
+msgstr "Dans la fonctionnalité de capture d’écran, vous pouvez utiliser ces raccourcis clavier :"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:177
 msgid "<key>S</key>"
-msgstr ""
+msgstr "<key>S</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:178
 msgid "Select area"
-msgstr ""
+msgstr "Sélectionner une zone"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:181
 msgid "<key>C</key>"
-msgstr ""
+msgstr "<key>C</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:182
 msgid "Capture screen"
-msgstr ""
+msgstr "Capturer l’écran"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:185
 msgid "<key>W</key>"
-msgstr ""
+msgstr "<key>W</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:186
 msgid "Capture window"
-msgstr ""
+msgstr "Capturer la fenêtre"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:189
 msgid "<key>P</key>"
-msgstr ""
+msgstr "<key>P</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:190
 msgid "Toggle between show and hide pointer"
-msgstr ""
+msgstr "Afficher ou masquer le pointeur"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:193
 msgid "<key>V</key>"
-msgstr ""
+msgstr "<key>V</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:194
 msgid "Toggle between screenshot and screencast"
-msgstr ""
+msgstr "Basculer entre capture d’écran et capture vidéo"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:197
 msgid "<key>Enter</key>"
-msgstr ""
+msgstr "<key>Entrée</key>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:198
 msgid ""
 "Capture, also activated by <key>Space</key> or "
 "<keyseq><key>Ctrl</key><key>C</key></keyseq>"
-msgstr ""
+msgstr "Capturer, également activé avec les touches <key>Barre d’espace</key> ou <keyseq><key>Ctrl</key><key>C</key></keyseq>"
 
 #. (itstool) path: section/p
 #: C/screen-shot-record.page:203
 msgid "These shortcuts can be used to bypass the screenshot feature:"
-msgstr ""
+msgstr "Ces raccourcis peuvent être utilisés pour contourner la fonctionnalité de capture d’écran :"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:208
 msgid "Capture the window that currently has focus"
-msgstr ""
+msgstr "Capturer la fenêtre qui a actuellement le focus"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:212
 msgid "Capture the entire screen"
-msgstr ""
+msgstr "Capturer la totalité de l’écran"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:215 C/shell-keyboard-shortcuts.page:181
 msgid ""
 "<keyseq><key>Shift</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq>"
-msgstr ""
+msgstr "<keyseq><key>Maj</key><key>Ctrl</key><key>Alt</key><key>R</key></keyseq>"
 
 #. (itstool) path: td/p
 #: C/screen-shot-record.page:216
 msgid "Start and stop recording a screencast"
-msgstr ""
+msgstr "Démarrer et arrêter l’enregistrement d’une capture vidéo"
 
 #. (itstool) path: info/desc
 #: C/session-fingerprint.page:41
@@ -17391,14 +17391,14 @@ msgid ""
 "You can let other people view and control your desktop from another computer"
 " with a desktop viewing application. Configure <gui>Remote Desktop</gui> to "
 "allow others to access your desktop and set the security preferences."
-msgstr ""
+msgstr "Vous pouvez permettre à d’autres personnes d’afficher et contrôler votre bureau à partir d’un autre ordinateur avec une application de visualisation de bureau. Configurez le <gui>Bureau distant</gui> pour autoriser d’autres personnes à accéder à votre bureau et paramétrer les préférences de sécurité."
 
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:58
 msgid ""
 "You must have the <app>GNOME Remote Desktop</app> package installed for "
 "<gui>Remote Desktop</gui> to be visible."
-msgstr ""
+msgstr "Le paquet <app>GNOME Remote Desktop</app> doit être installé pour que <gui>Bureau distant</gui> soit visible."
 
 #. (itstool) path: when/p
 #: C/sharing-desktop.page:63
@@ -17423,7 +17423,7 @@ msgstr "Cliquez sur <gui>Partage</gui> pour ouvrir le panneau."
 msgid ""
 "If the <gui>Sharing</gui> switch in the top-right of the window is set to "
 "off, click to switch it on."
-msgstr ""
+msgstr "Si l’interrupteur <gui>Partage</gui> situé en haut à droite de la fenêtre est désactivé, cliquez dessus pour l’activer."
 
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:85 C/sharing-media.page:70
@@ -17437,7 +17437,7 @@ msgstr "Si le texte sous <gui>Nom de l’ordinateur</gui> le permet, vous pouvez
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:90
 msgid "Click <gui>Remote Desktop</gui>."
-msgstr ""
+msgstr "Cliquez sur <gui>Bureau distant</gui>."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:93
@@ -17445,7 +17445,7 @@ msgid ""
 "To let others view your desktop, set the <gui>Remote Desktop</gui> switch to"
 " on. This means that other people will be able to attempt to connect to your"
 " computer and view what’s on your screen."
-msgstr ""
+msgstr "Pour autoriser d’autres personnes à voir votre bureau, activez l’option <gui>Bureau distant</gui> en basculant l’interrupteur. Maintenant, d’autres personnes peuvent tenter de se connecter à votre ordinateur pour voir ce qui est affiché sur votre écran."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:98
@@ -17454,7 +17454,7 @@ msgid ""
 "switch to on. This may allow the other person to move your mouse, run "
 "applications, and browse files on your computer, depending on the security "
 "settings which you are currently using."
-msgstr ""
+msgstr "Pour laisser d’autres personnes interagir avec votre bureau, activez l’option <gui>Connexion distante</gui> en basculant l’interrupteur. Cette action permet à un utilisateur distant de déplacer le pointeur de votre souris, de lancer des applications et de consulter des fichiers sur votre ordinateur en fonction des paramètres de sécurité que vous avez définis."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:106 C/sharing-personal.page:86
@@ -17466,34 +17466,34 @@ msgstr "Sécurité"
 msgid ""
 "The <gui>Authentication</gui> section displays the login credentials to be "
 "used in the client software on the connecting device."
-msgstr ""
+msgstr "La rubrique <gui>Authentification</gui> affiche les identifiants de connexion à utiliser dans le logiciel client sur l’appareil qui se connecte."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:112
 msgid "User Name"
-msgstr ""
+msgstr "Nom d’utilisateur"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:113 C/sharing-desktop.page:117
 msgid "Use the suggested value or enter your own."
-msgstr ""
+msgstr "Utilisez la valeur suggérée ou entrez la vôtre."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:116
 msgid "Password"
-msgstr ""
+msgstr "Mot de passe"
 
 #. (itstool) path: note/p
 #: C/sharing-desktop.page:119
 msgid ""
 "Click the button next to each entry if you want to place it in the "
 "clipboard."
-msgstr ""
+msgstr "Cliquez sur le bouton situé à côté de chaque entrée si vous souhaitez placer les informations dans le presse-papiers."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:124
 msgid "Verify Encryption"
-msgstr ""
+msgstr "Vérifier le chiffrement"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:125
@@ -17501,12 +17501,12 @@ msgid ""
 "Click the <gui>Verify Encryption</gui> button to display the encryption "
 "fingerprint. Compare it with the value displayed by the client when "
 "connecting: they should be identical."
-msgstr ""
+msgstr "Cliquez sur le bouton <gui>Vérifier le chiffrement</gui> pour afficher l’empreinte cryptographique. Comparez-la avec la valeur affichée par le client lors de la connexion : elles doivent être identiques."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:148
 msgid "Connecting"
-msgstr ""
+msgstr "Connexion"
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:150
@@ -17516,7 +17516,7 @@ msgid ""
 "computer. Click the button next to each entry if you want to place it in the"
 " clipboard. A connection can also be made using your <link xref=\"net-"
 "findip\">IP address</link>."
-msgstr ""
+msgstr "La rubrique <gui>Connexion</gui> affiche le <gui>Nom de l’appareil</gui> et l’<gui>Adresse du bureau distant</gui> qui peuvent être utilisés par l’ordinateur qui se connecte. Cliquez sur le bouton situé à côté de chaque entrée si vous souhaitez placer les informations dans le presse-papiers. Une connexion peut également être établie en utilisant votre <link xref=\"net-findip\">adresse IP</link>."
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:155
@@ -17524,24 +17524,24 @@ msgid ""
 "When the other computer is successfully connected to your desktop, you will "
 "see the <gui>Screen is being shared</gui> icon, <_:media-1/> in your system "
 "status area."
-msgstr ""
+msgstr "Lorsque l’autre ordinateur est correctement connecté à votre bureau, l’icône <gui>L’écran est partagé</gui> <_:media-1/> apparaît dans la zone d’état de votre système."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:162
 msgid "Clients"
-msgstr ""
+msgstr "Clients"
 
 #. (itstool) path: section/p
 #: C/sharing-desktop.page:164
 msgid ""
 "To connect to your desktop from another computer, the following clients are "
 "known to work."
-msgstr ""
+msgstr "Pour se connecter à votre bureau à partir d’un autre ordinateur, les clients suivants sont connus pour fonctionner."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:168
 msgid "From Linux:"
-msgstr ""
+msgstr "Sur Linux :"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:170
@@ -17551,7 +17551,7 @@ msgid ""
 "href=\"https://flathub.org/apps/details/org.remmina.Remmina\">flatpak</link>."
 " Use default settings, particularly <gui>Color depth</gui> 'Automatic' in "
 "the connection profile settings."
-msgstr ""
+msgstr "<app>Remmina</app>, un client GTK, est disponible sous forme de paquet dans la plupart des distributions, ainsi que sous forme de <link href=\"https://flathub.org/apps/details/org.remmina.Remmina\">flatpak</link>. Utilisez les paramètres par défaut, en particulier la valeur « Automatique » pour la <gui>Profondeur de couleur</gui> dans les paramètres du profil de connexion."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:176
@@ -17559,24 +17559,24 @@ msgid ""
 "<app>xfreerdp</app> is a command line client available as a package in most "
 "distributions. The option <cmd>/network:auto</cmd> should be passed to the "
 "client on the command line."
-msgstr ""
+msgstr "<app>xfreerdp</app> est un client en ligne de commande disponible sous forme de paquet dans la plupart des distributions. L’option <cmd>/network:auto</cmd> doit être transmise au client en ligne de commande."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:183
 msgid "From Microsoft Windows:"
-msgstr ""
+msgstr "Sur Microsoft Windows :"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:185
 msgid ""
 "<app>mstsc</app> is the built-in Windows client. Default settings are "
 "recommended."
-msgstr ""
+msgstr "<app>mstsc</app> est le client Windows intégré. Les paramètres par défaut sont recommandés."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:191
 msgid "From Linux, Windows, or macOS:"
-msgstr ""
+msgstr "Sur Linux, Windows, ou macOS :"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:193
@@ -17585,7 +17585,7 @@ msgid ""
 "as a <link "
 "href=\"https://flathub.org/apps/details/com.thincast.client\">flatpak</link>."
 " Default settings are recommended."
-msgstr ""
+msgstr "<app>Thincast</app> est un client propriétaire. La version Linux est disponible sous forme de <link href=\"https://flathub.org/apps/details/com.thincast.client\">flatpak</link>. Les paramètres par défaut sont recommandés."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:203
@@ -17600,39 +17600,39 @@ msgstr "Pour déconnecter une personne qui consulte votre bureau :"
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:209
 msgid "Click the system menu on the right side of the top bar."
-msgstr ""
+msgstr "Cliquez sur le menu système situé dans la partie droite de la barre supérieure."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:212
 msgid "Click <gui>Screen is being shared</gui>."
-msgstr ""
+msgstr "Cliquez sur <gui>L’écran est partagé</gui>."
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:215
 msgid "Click <gui>Turn off</gui>."
-msgstr ""
+msgstr "Cliquez sur <gui>Éteindre</gui>."
 
 #. (itstool) path: section/title
 #: C/sharing-desktop.page:222
 msgid "Advanced Topics"
-msgstr ""
+msgstr "Astuces avancées"
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:226
 msgid "Command line configuration"
-msgstr ""
+msgstr "Configuration en ligne de commande"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:227
 msgid ""
 "The <cmd>grdctl</cmd> utility allows you to configure your host settings in "
 "a console window. For usage details, type <cmd>grdctl --help</cmd>."
-msgstr ""
+msgstr "L’utilitaire <cmd>grdctl</cmd> vous permet de configurer les paramètres de votre hôte dans une fenêtre de console. Pour les détails d’utilisation, tapez <cmd>grdctl --help</cmd>."
 
 #. (itstool) path: item/title
 #: C/sharing-desktop.page:232
 msgid "H.264"
-msgstr ""
+msgstr "H.264"
 
 #. (itstool) path: item/p
 #: C/sharing-desktop.page:233
@@ -17641,7 +17641,7 @@ msgid ""
 "Desktop</app> will use H.264 when: the graphics pipeline is used (a "
 "requirement of the protocol), the client supports it, and NVENC (NVIDIA's "
 "encoder) is available."
-msgstr ""
+msgstr "Le codage vidéo H.264 réduit considérablement la bande passante. <app>Visionneur de bureau distant</app> de GNOME utilise H.264 lorsque : le canal graphique est utilisé (une exigence du protocole), le client le prend en charge, et lorsque NVENC (le codeur de NVIDIA) est disponible."
 
 #. (itstool) path: info/desc
 #: C/sharing-displayname.page:25
@@ -18885,7 +18885,7 @@ msgstr "Capture d’écran"
 msgid ""
 "<link xref=\"screen-shot-record#screenshot\">Launch the screenshot "
 "tool.</link>"
-msgstr ""
+msgstr "<link xref=\"screen-shot-record#screenshot\">Lancer l’outil de capture d’écran.</link>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:172
@@ -18899,7 +18899,7 @@ msgstr "<link xref=\"screen-shot-record#screenshot\">Prendre une capture d’éc
 msgid ""
 "<link xref=\"screen-shot-record#screenshot\">Take a screenshot of the entire"
 " screen.</link>."
-msgstr ""
+msgstr "<link xref=\"screen-shot-record#screenshot\">Prendre une capture de la totalité de l’écran.</link>"
 
 #. (itstool) path: td/p
 #: C/shell-keyboard-shortcuts.page:182
@@ -19820,7 +19820,7 @@ msgid ""
 "Levels</gui> section to set the volume of the alert sound. Click the speaker"
 " button at the end of the slider to mute or unmute the alert sound. This "
 "will not affect the volume of your music, movies, or other sound files."
-msgstr ""
+msgstr "Utilisez le curseur de volume pour les <gui>Sons système</gui>, à la rubrique <gui>Niveaux de volume</gui>, pour régler le volume du son des alertes. Cliquez sur le bouton haut-parleur situé à la fin du curseur pour activer ou désactiver le son des alertes. Cela n’affecte pas le volume sonore de la musique, des films ou d’autres fichiers son."
 
 #. (itstool) path: info/desc
 #: C/sound-broken.page:20
@@ -20053,7 +20053,7 @@ msgid ""
 "privileges</link>; either type <cmd>sudo lspci</cmd> and type your password,"
 " or type <cmd>su</cmd>, enter the <em>root</em> (administrative) password, "
 "then type <cmd>lspci</cmd>."
-msgstr ""
+msgstr "Exécutez <cmd>lspci</cmd> avec les <link xref=\"user-admin-explain\">privilèges administrateur</link> ; pour cela, vous pouvez saisir <cmd>sudo lspci</cmd> et entrer votre mot de passe, ou bien taper <cmd>su</cmd>, entrer le mot de passe (administrateur) <em>root</em>, puis saisir <cmd>lspci</cmd>."
 
 #. (itstool) path: item/p
 #: C/sound-nosound.page:130
@@ -20228,7 +20228,7 @@ msgid ""
 "If you hover over the volume icon in the top bar or the slider in the system"
 " menu, the volume can be controlled by scrolling the mouse wheel or "
 "touchpad."
-msgstr ""
+msgstr "Si vous survolez l’icône du volume dans la barre supérieure ou le curseur dans le menu système, le volume peut être contrôlé en faisant défiler la molette de la souris ou le pavé tactile."
 
 #. (itstool) path: page/p
 #: C/sound-volume.page:47
@@ -20273,7 +20273,7 @@ msgid ""
 "Under <gui>Volume Levels</gui>, use the volume slider for each application "
 "to set its volume. Click the speaker button at the end of the slider to mute"
 " or unmute the application."
-msgstr ""
+msgstr "À la rubrique <gui>Niveaux de volume</gui>, utilisez le curseur de volume de chaque application pour régler son volume. Cliquez sur le bouton haut-parleur situé à la fin du curseur pour activer ou désactiver le son de l’application."
 
 #. (itstool) path: note/p
 #: C/sound-volume.page:80
@@ -20282,7 +20282,7 @@ msgid ""
 "playing sounds but is not listed, it might not support the feature that lets"
 " you control its volume in this way. In such a case, you cannot change its "
 "volume."
-msgstr ""
+msgstr "Seules les applications en train d’émettre des sons figurent dans cette liste. Si une application en train d’émettre ne figure pas dans la liste, c’est qu’elle ne prend pas en charge un réglage de cette façon. Dans ce cas, vous ne pouvez pas modifier son volume sonore."
 
 #. (itstool) path: credit/name
 #: C/status-icons.page:48
@@ -21153,7 +21153,7 @@ msgstr "Cliquez sur le bouton <gui style=\"button\">Déverrouiller</gui> en haut
 msgid ""
 "Press the <gui style=\"button\">+ Add User...</gui> button under <gui>Other "
 "Users</gui> to add a new user account."
-msgstr ""
+msgstr "À la rubrique <gui>Autres utilisateurs</gui>, cliquez sur le bouton <gui style=\"button\">+ Ajouter un utilisateur…</gui> pour ajouter un nouveau compte utilisateur."
 
 #. (itstool) path: item/p
 #: C/user-add.page:63
@@ -21190,20 +21190,20 @@ msgid ""
 "themselves on their first login. If you choose to set the password now, you "
 "can press the <gui style=\"button\"><_:media-1/></gui> icon to automatically"
 " generate a random password."
-msgstr ""
+msgstr "Vous pouvez choisir de définir un mot de passe pour le nouvel utilisateur ou le laisser le définir lui-même lors de sa première connexion. Si vous avez choisi de définir le mot de passe immédiatement, cliquez sur l’icône <gui style=\"button\"><_:media-1/></gui> pour générer automatiquement un mot de passe aléatoire."
 
 #. (itstool) path: item/p
 #: C/user-add.page:81
 msgid ""
 "To connect the user to a network domain, click <gui>Enterprise Login</gui>."
-msgstr ""
+msgstr "Pour connecter l’utilisateur à un domaine de réseau, cliquez sur <gui>Compte d’entreprise</gui>."
 
 #. (itstool) path: item/p
 #: C/user-add.page:85
 msgid ""
 "Click <gui>Add</gui>. When the user has been added, <gui>Parental "
 "Controls</gui> and <gui>Language</gui> settings can be adjusted."
-msgstr ""
+msgstr "Cliquez sur <gui>Ajouter</gui>. Lorsque l’utilisateur a été ajouté, les paramètres de <gui>Contrôle parental</gui> et de <gui>Langue</gui> peuvent être ajustés."
 
 #. (itstool) path: page/p
 #: C/user-add.page:91
@@ -21263,12 +21263,12 @@ msgstr "Cliquez sur <gui>Utilisateurs</gui> pour ouvrir le panneau."
 msgid ""
 "Under <gui>Other Users</gui>, select the user whose privileges you want to "
 "change."
-msgstr ""
+msgstr "À la rubrique <gui>Autres utilisateurs</gui>, sélectionnez l’utilisateur dont vous souhaitez modifier les privilèges."
 
 #. (itstool) path: item/p
 #: C/user-admin-change.page:62
 msgid "Set the <gui>Administrator</gui> switch to on."
-msgstr ""
+msgstr "Activez l’option <gui>Administrateur</gui> en basculant l’interrupteur."
 
 #. (itstool) path: item/p
 #: C/user-admin-change.page:65
@@ -21357,7 +21357,7 @@ msgstr "En bref, les privilèges administrateur permettent de modifier des parti
 #. (itstool) path: note/title
 #: C/user-admin-explain.page:67
 msgid "What does “superuser” mean?"
-msgstr ""
+msgstr "Définition de « super utilisateur »"
 
 #. (itstool) path: note/p
 #: C/user-admin-explain.page:68
@@ -21367,7 +21367,7 @@ msgid ""
 "than normal users. You might see people discussing things like <cmd>su</cmd>"
 " and <cmd>sudo</cmd>; these are programs for temporarily giving you "
 "“superuser” (administrative) privileges."
-msgstr ""
+msgstr "Un utilisateur qui possède des privilèges administrateur est parfois appelé <em>super utilisateur</em>. C’est simplement parce qu’il a plus de privilèges qu’un utilisateur normal. Vous entendrez peut-être parler de <cmd>su</cmd> ou de <cmd>sudo</cmd> ; ce sont des programmes qui permettent de donner provisoirement à un utilisateur des privilèges (administratifs) de « super utilisateur »."
 
 #. (itstool) path: section/title
 #: C/user-admin-explain.page:76
@@ -21467,7 +21467,7 @@ msgstr "Vous pouvez modifier vos paramètres pour être directement connecté à
 msgid ""
 "If it is a different user account that you want to log into automatically, "
 "select the account under <gui>Other Users</gui>."
-msgstr ""
+msgstr "S’il s’agit d’un compte utilisateur différent auquel vous souhaitez vous connecter automatiquement, sélectionnez le compte à la rubrique <gui>Autres utilisateurs</gui>."
 
 #. (itstool) path: item/p
 #: C/user-autologin.page:53
@@ -21517,7 +21517,7 @@ msgid ""
 "changing the password for a different user, you will first need to "
 "<gui>Unlock</gui> the panel and select the account under <gui>Other "
 "Users</gui>."
-msgstr ""
+msgstr "Cliquez sur l’étiquette <gui>·····</gui> située à côté de <gui>Mot de passe</gui>. Si vous modifiez le mot de passe d’un autre utilisateur, il faut d’abord <gui>déverrouiller</gui> le panneau, puis sélectionner le compte à la rubrique <gui>Autres utilisateurs</gui>."
 
 #. (itstool) path: item/p
 #: C/user-changepassword.page:84
@@ -21583,7 +21583,7 @@ msgid ""
 "If you want to edit a user other than yourself, press <gui "
 "style=\"button\">Unlock</gui> in the top right corner and type in your "
 "password when prompted. Choose the user from <gui>Other Users</gui>."
-msgstr ""
+msgstr "Si vous voulez modifier l’image d’un utilisateur autre que vous, appuyez sur <gui style=\"button\">Déverrouiller</gui> en haut à droite et saisissez votre mot de passe. Choisissez l’utilisateur dans <gui>Autres utilisateurs</gui>."
 
 #. (itstool) path: item/p
 #: C/user-changepicture.page:62
@@ -21591,7 +21591,7 @@ msgid ""
 "Click the pencil icon next to your name. A drop-down gallery will be shown "
 "with some stock login photos. If you like one of them, click it to use it "
 "for yourself."
-msgstr ""
+msgstr "Cliquez sur l’icône représentant un crayon à côté de votre nom. Une galerie vous proposera une sélection d’images de connexion. Si vous aimez l’une d’elles, cliquez dessus pour l’utiliser."
 
 #. (itstool) path: item/p
 #: C/user-changepicture.page:67
@@ -21640,14 +21640,14 @@ msgstr "Il vous faut les <link xref=\"user-admin-explain\">privilèges administr
 msgid ""
 "Click on the user account that you want to delete under <gui>Other "
 "Users</gui>."
-msgstr ""
+msgstr "Cliquez sur le compte utilisateur que vous souhaitez supprimer à la rubrique <gui>Autres utilisateurs</gui>."
 
 #. (itstool) path: item/p
 #: C/user-delete.page:69
 msgid ""
 "Press the <gui style=\"button\">Remove User...</gui> button to delete that "
 "user account."
-msgstr ""
+msgstr "Cliquez sur le bouton <gui style=\"button\">Supprimer l’utilisateur</gui> pour supprimer ce compte utilisateur."
 
 #. (itstool) path: item/p
 #: C/user-delete.page:73
@@ -21981,28 +21981,28 @@ msgid ""
 "If no tablet is detected, you’ll be asked to <gui>Please plug in or turn on "
 "your Wacom tablet</gui>. Click <gui>Bluetooth</gui> in the sidebar to "
 "connect a wireless tablet."
-msgstr ""
+msgstr "Si aucune tablette n’est détectée, le message <gui>Veuillez connecter ou allumer votre tablette Wacom</gui> apparaît. Cliquez sur <gui>Bluetooth</gui> dans la barre latérale pour connecter une tablette sans fil."
 
 #. (itstool) path: item/p
 #: C/wacom-left-handed.page:44
 msgid "Set the <gui>Left-Handed Orientation</gui> switch to on."
-msgstr ""
+msgstr "Activez l’option <gui>Orientation pour gaucher</gui> en basculant l’interrupteur."
 
 #. (itstool) path: info/desc
 #: C/wacom-map-buttons.page:20
 msgid "Assign functions to the hardware buttons on the graphics tablet."
-msgstr ""
+msgstr "Attribuer des fonctions aux boutons matériels de la tablette graphique."
 
 #. (itstool) path: page/title
 #: C/wacom-map-buttons.page:23
 msgid "Map the tablet buttons"
-msgstr ""
+msgstr "Correspondance des boutons de la tablette"
 
 #. (itstool) path: page/p
 #: C/wacom-map-buttons.page:25
 msgid ""
 "The hardware buttons on a tablet can be configured for various functions."
-msgstr ""
+msgstr "Les boutons matériels d’une tablette peuvent être configurés pour diverses fonctions."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:29
@@ -22014,29 +22014,29 @@ msgstr "Ouvrez la vue d’ensemble des <gui xref=\"shell-introduction#activities
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:39
 msgid "Click <gui>Map Buttons</gui>."
-msgstr ""
+msgstr "Cliquez sur <gui>Associer les boutons</gui>."
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:42
 msgid ""
 "An on screen display shows the layout of the tablet's buttons. Press each "
 "button on the tablet and choose one of these functions:"
-msgstr ""
+msgstr "Un affichage à l’écran montre la disposition des boutons de la tablette. Appuyez sur chaque bouton de la tablette et choisissez l’une de ces fonctions :"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:45
 msgid "<gui>Application defined</gui>"
-msgstr ""
+msgstr "<gui>Défini par l’application</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:46
 msgid "<gui>Show on-screen help</gui>"
-msgstr ""
+msgstr "<gui>Afficher l’aide à l’écran</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:47
 msgid "<gui>Switch monitor</gui>"
-msgstr ""
+msgstr "<gui>Inverser l’écran</gui>"
 
 #. (itstool) path: item/p
 #: C/wacom-map-buttons.page:48
@@ -22048,7 +22048,7 @@ msgstr ""
 msgid ""
 "Click <gui>Done</gui> when each button is configured, and press "
 "<key>Esc</key> to exit."
-msgstr ""
+msgstr "Cliquez sur <gui>Terminé</gui> lorsque chaque bouton est configuré et appuyez sur <key>Échap</key> pour quitter."
 
 #. (itstool) path: info/desc
 #: C/wacom-mode.page:24
@@ -22064,14 +22064,14 @@ msgstr "Définition du mode de recherche de la tablette Wacom"
 #: C/wacom-mode.page:29
 msgid ""
 "<gui>Tablet Mode</gui> determines how the stylus is mapped to the screen."
-msgstr ""
+msgstr "Le <gui>mode tablette</gui> détermine la correspondance entre le stylet et l’écran."
 
 #. (itstool) path: item/p
 #: C/wacom-mode.page:42
 msgid ""
 "Choose between tablet (or absolute) mode and touchpad (or relative) mode. "
 "For tablet mode, switch <gui>Tablet Mode</gui> to on."
-msgstr ""
+msgstr "Choisissez entre le mode tablette (ou absolu) et le mode pavé tactile (ou relatif). Pour le mode tablette, activez l’option <gui>Mode tablette</gui> en basculant l’interrupteur."
 
 #. (itstool) path: note/p
 #: C/wacom-mode.page:47
@@ -22104,7 +22104,7 @@ msgstr "Sélection d’un écran"
 msgid ""
 "Next to <gui>Map to Monitor</gui>, select the monitor you wish to receive "
 "input from your graphics tablet, or choose <gui>All Displays</gui>."
-msgstr ""
+msgstr "À côté de <gui>Associer à l’écran</gui>, sélectionnez l’écran pour lequel vous souhaitez recevoir des informations de votre tablette graphique, ou choisissez <gui>Tous les écrans</gui>."
 
 #. (itstool) path: note/p
 #: C/wacom-multi-monitor.page:54
@@ -22119,7 +22119,7 @@ msgid ""
 "<em>force proportions</em>, “letterboxes” the drawing area on a tablet to "
 "correspond more directly to a display. For example, a 4∶3 tablet would be "
 "mapped so that the drawing area would correspond to a widescreen display."
-msgstr ""
+msgstr "Activez l’option <gui>Conserver le rapport d’affichage</gui> en basculant l’interrupteur, pour faire correspondre la zone de dessin de la tablette aux proportions de l’écran. Ce paramètre, également appelé <em>forcer les proportions</em>, « encadre » la zone de dessin afin de faire correspondre plus directement à un affichage. Par exemple, une tablette 4∶3 serait configurée de manière à ce que la zone de dessin corresponde à un affichage grand écran."
 
 #. (itstool) path: info/desc
 #: C/wacom-stylus.page:24
@@ -22136,7 +22136,7 @@ msgstr "Configuration du stylet"
 msgid ""
 "There is a section containing settings specific to each stylus, with the "
 "device name (the stylus class) and diagram at the top."
-msgstr ""
+msgstr "Il existe une section qui contient des paramètres spécifiques à chaque stylet, avec le nom du périphérique (la catégorie du stylet) et le diagramme tout en haut."
 
 #. (itstool) path: note/p
 #: C/wacom-stylus.page:42
@@ -22148,7 +22148,7 @@ msgstr "Si aucun stylet n’est détecté, le message <gui>Veuillez placer votre
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:45
 msgid "These settings can be adjusted:"
-msgstr ""
+msgstr "Ces paramètres peuvent être ajustés :"
 
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:47
@@ -22163,14 +22163,14 @@ msgid ""
 "Button/Scroll Wheel configuration (these change to reflect the stylus). "
 "Click the menu next to each label to select one of these functions: Middle "
 "Mouse Button Click, Right Mouse Button Click, Back, or Forward."
-msgstr ""
+msgstr "Configuration des boutons et molette de défilement (ces réglages changent pour tenir compte du stylet). Cliquez sur le menu à côté de chaque étiquette pour sélectionner l’une de ces fonctions : clic sur le bouton du milieu de la souris, clic sur le bouton droit de la souris, précédent ou suivant."
 
 #. (itstool) path: item/p
 #: C/wacom-stylus.page:56
 msgid ""
 "Click <gui>Test Your Settings</gui> in the header bar to pop down a "
 "sketchpad where you can test your stylus settings."
-msgstr ""
+msgstr "Cliquez sur <gui>Tester vos paramètres</gui> dans la barre d’en-tête pour faire apparaître un carnet de croquis dans lequel vous pouvez tester les paramètres de votre stylet."
 
 #. (itstool) path: info/title
 #: C/wacom.page:7
